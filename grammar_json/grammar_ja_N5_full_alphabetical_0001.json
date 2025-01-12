@@ -21,9 +21,9 @@
         "en": "In this town, this park is the most beautiful."
       },
       {
-        "jp": "コーヒーより紅茶が一番好きです。",
-        "romaji": "Koohii yori koucha ga ichiban suki desu.",
-        "en": "I like tea the most, more than coffee."
+        "jp": "飲み物の中では、紅茶が一番好きです。",
+        "romaji": "Nomimono no naka de wa, koucha ga ichiban suki desu.",
+        "en": "Among all drinks, I like tea the most."
       }
     ]
   },
@@ -197,14 +197,14 @@
   },
   {
     "title": "A。でも、～B。(A. Demo, ~B)",
-    "short_explanation": "Express contrast or a change of situation; 'even though A, B', 'although A, B'.",
-    "long_explanation": "The A。でも、～B。grammar point is used to express contrast or a change of situation between two clauses. It can be translated as 'even though A, B' or 'although A, B' in English. The formation simply requires adding でも between clause A and clause B.",
-    "formation": "Clause A + でも, ～Clause B",
+    "short_explanation": "Used to express contrast between two statements; 'A, but B', 'A, however B'.",
+    "long_explanation": "The A。でも、～B。grammar point is used to express contrast or an unexpected continuation from statement A to statement B. It can be translated as 'A, but B' or 'A, however B' in English. The formation simply places でも at the beginning of the second sentence to show contrast with the first sentence.",
+    "formation": "Clause A + でも + Clause B",
     "examples": [
       {
         "jp": "昨日は寒かった。でも、今日は暖かいです。",
         "romaji": "Kinou wa samukatta. Demo, kyou wa atatakai desu.",
-        "en": "Yesterday was cold. However, today it is warm."
+        "en": "Yesterday was cold. But today it's warm."
       },
       {
         "jp": "彼は忙しい。でも、友達と遊ぶ時間がある。",
@@ -214,12 +214,12 @@
       {
         "jp": "試験に合格した。でも、まだ勉強を続けています。",
         "romaji": "Shiken ni goukaku shita. Demo, mada benkyou wo tsuzuketeimasu.",
-        "en": "I passed the exam. However, I am still continuing to study."
+        "en": "I passed the exam. But I'm still continuing to study."
       },
       {
         "jp": "彼女は有名だ。でも、とても謙虚です。",
         "romaji": "Kanojo wa yuumei da. Demo, totemo kenkyo desu.",
-        "en": "She is famous. However, she is very humble."
+        "en": "She is famous. However, she's very humble."
       }
     ]
   },
@@ -365,9 +365,9 @@
   },
   {
     "title": "い-Adjective く + Verb (i-Adjective + ku + Verb)",
-    "short_explanation": "Used to connect an い-adjective to a verb, modifying the verb.",
-    "long_explanation": "The い-Adjective く + Verb grammar point is used to connect an い-adjective with a verb, effectively modifying the verb. This allows the speaker to describe the manner in which an action is performed, equivalent to the English '-ly' adverbs.",
-    "formation": "い-Adjective (-い) + く + Verb",
+    "short_explanation": "Used to connect an い-adjective to a verb, modifying the verb (adverbial usage).",
+    "long_explanation": "The い-Adjective + く + Verb grammar point transforms an い-adjective into its adverbial form, describing how the verb is performed. In English, this often corresponds to '-ly' adverbs (e.g., 'quickly', 'slowly').",
+    "formation": "い-Adjective (remove い) + く + Verb",
     "examples": [
       {
         "jp": "彼は速く走りました。",
@@ -377,53 +377,53 @@
       {
         "jp": "この料理は美味しく食べました。",
         "romaji": "Kono ryouri wa oishiku tabemashita.",
-        "en": "I ate this dish deliciously."
+        "en": "I enjoyed eating this dish."
       },
       {
-        "jp": "彼女は静かに話します。",
-        "romaji": "Kanojo wa shizuka ni hanashimasu.",
-        "en": "She speaks quietly."
+        "jp": "彼女は優しく話します。",
+        "romaji": "Kanojo wa yasashiku hanashimasu.",
+        "en": "She speaks kindly."
       },
       {
-        "jp": "母は熱心に仕事をしています。",
-        "romaji": "Haha wa nesshin ni shigoto wo shiteimasu.",
-        "en": "My mother is working diligently."
+        "jp": "母は忙しく仕事をしています。",
+        "romaji": "Haha wa isogashiku shigoto o shite imasu.",
+        "en": "My mother is working busily."
       }
     ]
   },
   {
     "title": "い-Adjective く します (i-Adjective ku shimasu)",
-    "short_explanation": "Change an い-adjective into a verb; 'to make', 'to become'.",
-    "long_explanation": "By changing an い-adjective into a verb using　く　します, you can express actions or changes related to the meaning of the adjective. This structure means 'to make', 'to become', or 'to cause to be'. To form it, replace the final イ (i) in the adjective with く (ku) and add します (shimasu) to create a verb.",
+    "short_explanation": "Use an い-adjective to express 'to make' or 'to become'.",
+    "long_explanation": "By adding くします to an い-adjective, you express making something (or causing something to become) the quality of that adjective. In English, this often corresponds to phrases like 'make something more ADJECTIVE.'",
     "formation": "い-Adjective (remove い) + くします",
     "examples": [
       {
         "jp": "部屋を明るくします。",
-        "romaji": "Heya wo akaruku shimasu.",
+        "romaji": "Heya o akaruku shimasu.",
         "en": "I will make the room brighter."
       },
       {
         "jp": "友達の気分を楽しくします。",
-        "romaji": "Tomodachi no kibun wo tanoshiku shimasu.",
-        "en": "I will make my friend's mood enjoyable."
+        "romaji": "Tomodachi no kibun o tanoshiku shimasu.",
+        "en": "I will make my friend’s mood more pleasant."
       },
       {
-        "jp": "仕事が簡単になるように効率的にやり方を早くします。",
-        "romaji": "Shigoto ga kantan ni naru you ni kouritsuteki ni yarikata wo hayaku shimasu.",
-        "en": "I will make the way of working faster and efficient to make the job easier."
+        "jp": "仕事が簡単になるように、やり方を早くします。",
+        "romaji": "Shigoto ga kantan ni naru you ni, yarikata o hayaku shimasu.",
+        "en": "I will make the way of doing things faster so that the work becomes easier."
       },
       {
         "jp": "食べ物を美味しくします。",
-        "romaji": "Tabemono wo oishiku shimasu.",
+        "romaji": "Tabemono o oishiku shimasu.",
         "en": "I will make the food delicious."
       }
     ]
   },
   {
-    "title": "い-Adjective く ないます (i-Adjective ku naimasu)",
-    "short_explanation": "Change an い-adjective into a negative polite form.",
-    "long_explanation": "To make the negative polite form of an い-adjective, you need to remove the final い (i) and add くない (ku nai), then attach ます (masu) to create the polite negative form くないます (ku naimasu). This grammar point is used to make a negative statement or denial in a polite manner.",
-    "formation": "い-Adjective (remove い) + くない + ます",
+    "title": "い-Adjective: Negative Polite Form",
+    "short_explanation": "Change an い-adjective into a polite negative form with ～くないです (or ～くありません).",
+    "long_explanation": "To make an い-adjective negative and polite, remove the final い and add くないです. An alternative more formal style is くありません. For example, 美味しい → 美味しくないです / 美味しくありません。",
+    "formation": "い-Adjective (remove い) + くないです",
     "examples": [
       {
         "jp": "このピザは美味しくないです。",
@@ -441,8 +441,8 @@
         "en": "His opinion is not interesting."
       },
       {
-        "jp": "その映画は楽しくないです。",
-        "romaji": "Sono eiga wa tanoshiku nai desu.",
+        "jp": "その映画は楽しくありません。",
+        "romaji": "Sono eiga wa tanoshiku arimasen.",
         "en": "That movie is not enjoyable."
       }
     ]
@@ -450,7 +450,7 @@
   {
     "title": "い-Adjective て (i-Adjective + te~)",
     "short_explanation": "Used to connect two or more い-adjectives to describe something.",
-    "long_explanation": "The い-Adjective て form is used to connect two or more い-adjectives to describe something or someone. This form allows you to list multiple attributes without having to create separate sentences. The て form is created by replacing the final い of the い-adjective with くて.",
+    "long_explanation": "The い-Adjective て form is used to connect two or more い-adjectives when listing attributes of something or someone. To form it, replace the final い with くて. For example, かわいい → かわいくて, おいしい → おいしくて.",
     "formation": "い-Adjective (remove い) + くて + い-Adjective",
     "examples": [
       {
@@ -459,14 +459,14 @@
         "en": "This apple is sweet and delicious."
       },
       {
-        "jp": "彼女は親切でかわいいです。",
-        "romaji": "Kanojo wa shinsetsu de kawaii desu.",
+        "jp": "彼女は優しくてかわいいです。",
+        "romaji": "Kanojo wa yasashikute kawaii desu.",
         "en": "She is kind and cute."
       },
       {
         "jp": "映画は面白くて感動的でした。",
         "romaji": "Eiga wa omoshirokute kandouteki deshita.",
-        "en": "The movie was interesting and touching."
+        "en": "The movie was interesting and moving."
       },
       {
         "jp": "この部屋は広くて明るいです。",
@@ -476,37 +476,37 @@
     ]
   },
   {
-    "title": "な-Adjective く Verb (na-Adjective + ku + Verb)",
-    "short_explanation": "Turn a な-adjective into an adverb to modify a verb.",
-    "long_explanation": "This grammar point is used to turn a な-adjective into an adverb, allowing it to modify a verb. To do this, simply remove the な part of the な-adjective and add く to the end of the adjective, which then allows it to describe the manner in which an action is done.",
-    "formation": "な-Adjective (without な) + く + Verb",
+    "title": "な-Adjective に + Verb",
+    "short_explanation": "Turn a な-adjective into an adverb by adding に.",
+    "long_explanation": "To make a な-adjective modify a verb, remove the な and add に. This form describes how an action is performed. For instance, 静か（な） → 静かに, 親切（な） → 親切に.",
+    "formation": "な-Adjective (remove な) + に + Verb",
     "examples": [
       {
-        "jp": "彼は静かく話す。",
-        "romaji": "Kare wa shizuka ku hanasu.",
+        "jp": "彼は静かに話す。",
+        "romaji": "Kare wa shizuka ni hanasu.",
         "en": "He speaks quietly."
       },
       {
-        "jp": "部屋をきれいく掃除した。",
-        "romaji": "Heya wo kirei ku souji shita.",
+        "jp": "部屋をきれいに掃除した。",
+        "romaji": "Heya o kirei ni souji shita.",
         "en": "I cleaned the room neatly."
       },
       {
-        "jp": "彼女は元気く働いています。",
-        "romaji": "Kanojo wa genki ku hataraiteimasu.",
+        "jp": "彼女は元気に働いています。",
+        "romaji": "Kanojo wa genki ni hataraite imasu.",
         "en": "She works energetically."
       },
       {
-        "jp": "先生は親切く説明してくれる。",
-        "romaji": "Sensei wa shinsetsu ku setsumei shite kureru.",
+        "jp": "先生は親切に説明してくれる。",
+        "romaji": "Sensei wa shinsetsu ni setsumei shite kureru.",
         "en": "The teacher explains kindly."
       }
     ]
   },
   {
     "title": "な-Adjective で～ (na-Adjective de~)",
-    "short_explanation": "Usage of で particle along with a な-adjective",
-    "long_explanation": "な-adjective で is used to further describe or add information to a sentence using a な-adjective. The で particle adds meaning to the adjective, connecting it to the rest of the sentence.",
+    "short_explanation": "Usage of で to connect or add information with a な-adjective.",
+    "long_explanation": "Use な-adjective + で to connect it to another quality, action, or description. It can combine a な-adjective with another adjective, verb, or clause.",
     "formation": "な-Adjective + で",
     "examples": [
       {
@@ -515,26 +515,26 @@
         "en": "He likes women who are beautiful and kind."
       },
       {
-        "jp": "この料理はおいしくて、元気な気分になります。",
-        "romaji": "Kono ryouri wa oishikute, genki na kibun ni narimasu.",
-        "en": "This dish is delicious and makes you feel energetic."
+        "jp": "この料理は健康的で、元気な気分になります。",
+        "romaji": "Kono ryouri wa kenkouteki de, genki na kibun ni narimasu.",
+        "en": "This dish is healthy and makes you feel energetic."
       },
       {
         "jp": "彼は静かで落ち着いた環境で仕事をしたい。",
-        "romaji": "Kare wa shizuka de ochitsuita kankyou de shigoto wo shitai.",
+        "romaji": "Kare wa shizuka de ochitsuita kankyou de shigoto o shitai.",
         "en": "He wants to work in a quiet and calm environment."
       },
       {
-        "jp": "この部屋は広くて明るい。",
-        "romaji": "Kono heya wa hirokute akarui.",
-        "en": "This room is spacious and bright."
+        "jp": "この部屋は清潔で気持ちがいいです。",
+        "romaji": "Kono heya wa seiketsu de kimochi ga ii desu.",
+        "en": "This room is clean and feels good."
       }
     ]
   },
   {
     "title": "な-Adjective に します (na-Adjective ni shimasu)",
     "short_explanation": "Expressing a decision or preference with a な-adjective.",
-    "long_explanation": "The な-adjective に します grammar point is used to express a decision or preference based on a な-adjective. It is formed by attaching に します to the な-adjective. This can be translated to 'I will choose...', 'I have decided on...', or 'I prefer...' in English.",
+    "long_explanation": "The な-adjective に します pattern is used to express a decision or choice based on a な-adjective. It often translates as 'I’ll make it ...,' 'I will choose ...,' or 'I’ve decided on ...'.",
     "formation": "な-Adjective + に + します",
     "examples": [
       {
@@ -544,13 +544,13 @@
       },
       {
         "jp": "部屋をきれいにします。",
-        "romaji": "Heya wo kirei ni shimasu.",
+        "romaji": "Heya o kirei ni shimasu.",
         "en": "I will make the room clean."
       },
       {
-        "jp": "明日は早くにします。",
-        "romaji": "Ashita wa hayaku ni shimasu.",
-        "en": "I will do it early tomorrow."
+        "jp": "明日の会議は簡単にします。",
+        "romaji": "Ashita no kaigi wa kantan ni shimasu.",
+        "en": "I will make tomorrow’s meeting simple."
       },
       {
         "jp": "健康的な食事にします。",
@@ -562,28 +562,28 @@
   {
     "title": "な-Adjective に なります (na-Adjective ni narimasu)",
     "short_explanation": "Express a change or transformation into a state described by the な-adjective.",
-    "long_explanation": "The な-Adjective に なります grammar point is used to express a change or transformation into the state described by the な-adjective. It translates to 'become' or 'turn into' along with the meaning of the な-adjective.",
-    "formation": "な-Adjective + に + なります",
+    "long_explanation": "The な-Adjective + に + なります grammar point is used to express a change or transformation into the state described by the な-adjective. It translates to 'become' or 'turn into' along with the meaning of the な-adjective.",
+    "formation": "な-Adjective (remove な) + に + なります",
     "examples": [
-      {
-        "jp": "暑い日は部屋が暑苦しくなります。",
-        "romaji": "Atsui hi wa heya ga atsuku-narikuniku ni narimasu.",
-        "en": "On hot days, the room becomes stuffy."
-      },
       {
         "jp": "この部屋は静かになります。",
         "romaji": "Kono heya wa shizuka ni narimasu.",
         "en": "This room becomes quiet."
       },
       {
-        "jp": "彼は怒らない人になります。",
-        "romaji": "Kare wa okoranai hito ni narimasu.",
-        "en": "He becomes a person who doesn't get angry."
+        "jp": "彼女はきれいになります。",
+        "romaji": "Kanojo wa kirei ni narimasu.",
+        "en": "She becomes beautiful."
       },
       {
-        "jp": "子供たちは大人になります。",
-        "romaji": "Kodomo-tachi wa otona ni narimasu.",
-        "en": "Children become adults."
+        "jp": "彼は元気になります。",
+        "romaji": "Kare wa genki ni narimasu.",
+        "en": "He becomes energetic."
+      },
+      {
+        "jp": "町はにぎやかになります。",
+        "romaji": "Machi wa nigiyaka ni narimasu.",
+        "en": "The town becomes lively."
       }
     ]
   },
@@ -596,7 +596,7 @@
       {
         "jp": "今日、映画を見るか、散歩するかどちらにしますか？",
         "romaji": "Kyou, eiga wo miru ka, sanpo suru ka dochira ni shimasu ka?",
-        "en": "Will you either watch a movie or go for a walk today?"
+        "en": "Will we watch a movie or go for a walk today?"
       },
       {
         "jp": "コーヒーか紅茶か、一つだけ選んでください。",
@@ -604,14 +604,14 @@
         "en": "Please choose only one, either coffee or tea."
       },
       {
-        "jp": "電車かバスか使って、学校に行くつもりです。",
-        "romaji": "Densha ka basu ka tsukatte, gakkou ni iku tsumori desu.",
-        "en": "I plan to go to school using either train or bus."
+        "jp": "電車かバスを使って、学校に行くつもりです。",
+        "romaji": "Densha ka basu o tsukatte, gakkou ni iku tsumori desu.",
+        "en": "I plan to go to school using either the train or the bus."
       },
       {
-        "jp": "週末は山に登るか海に行くか決めませんでした。",
-        "romaji": "Shuumatsu wa yama ni noboru ka umi ni iku ka kimemasen deshita.",
-        "en": "I didn't decide whether to climb the mountain or go to the beach on the weekend."
+        "jp": "週末は山に登るか海に行くか、まだ決めていません。",
+        "romaji": "Shuumatsu wa yama ni noboru ka umi ni iku ka, mada kimete imasen.",
+        "en": "I haven't decided whether to climb the mountain or go to the beach this weekend."
       }
     ]
   },
@@ -660,8 +660,8 @@
         "en": "I would like some coffee."
       },
       {
-        "jp": "彼女に花がほしいです。",
-        "romaji": "Kanojo ni hana ga hoshii desu.",
+        "jp": "彼女は花がほしいです。",
+        "romaji": "Kanojo wa hana ga hoshii desu.",
         "en": "She wants flowers."
       },
       {
@@ -674,12 +674,12 @@
   {
     "title": "Noun から Noun まで (Noun kara Noun made)",
     "short_explanation": "Expresses a range; 'from...to', 'between...and'.",
-    "long_explanation": "The から...まで grammar point is used to express a range between two nouns, indicating the starting point and ending point of an action, event or period of time. It can be translated as 'from...to' or 'between...and' in English.",
-    "formation": "Noun1 + から Noun2 + まで",
+    "long_explanation": "The から...まで grammar point is used to express a range between two nouns, indicating the starting point and ending point of an action, event, or period of time. It can be translated as 'from...to' or 'between...and' in English.",
+    "formation": "Noun1 + から + Noun2 + まで",
     "examples": [
       {
         "jp": "朝9時から午後5時まで働きます。",
-        "romaji": "Asa 9 ji kara gogo 5 ji made hatarakimasu.",
+        "romaji": "Asa ku-ji kara gogo go-ji made hatarakimasu.",
         "en": "I work from 9 AM to 5 PM."
       },
       {
@@ -689,12 +689,12 @@
       },
       {
         "jp": "地下鉄は午前6時から深夜まで運行しています。",
-        "romaji": "Chikatetsu wa gozen 6 ji kara shin'ya made unkou shiteimasu.",
+        "romaji": "Chikatetsu wa gozen roku-ji kara shin'ya made unkou shite imasu.",
         "en": "The subway runs from 6 AM until midnight."
       },
       {
         "jp": "月曜日から金曜日まで学校に通います。",
-        "romaji": "Getsuyoubi kara kinyoubi made gakkou ni kayoimasu.",
+        "romaji": "Getsuyoubi kara Kinyoubi made gakkou ni kayoimasu.",
         "en": "I attend school from Monday to Friday."
       }
     ]
@@ -711,18 +711,18 @@
         "en": "This book has about 300 pages."
       },
       {
-        "jp": "彼の家まで歩いて２０分くらいかかります。",
+        "jp": "彼の家まで歩いて20分くらいかかります。",
         "romaji": "Kare no ie made aruite nijuppun kurai kakarimasu.",
         "en": "It takes about 20 minutes to walk to his house."
       },
       {
-        "jp": "明日は暑くて、３０度くらいになるでしょう。",
+        "jp": "明日は暑くて、30度くらいになるでしょう。",
         "romaji": "Ashita wa atsukute, sanjuu-do kurai ni naru deshou.",
         "en": "Tomorrow will be hot, about 30 degrees."
       },
       {
-        "jp": "この料理を作るのに、材料は５００円くらい必要です。",
-        "romaji": "Kono ryouri wo tsukuru noni, zairyou wa gohyaku-en kurai hitsuyou desu.",
+        "jp": "この料理を作るのに、材料は500円くらい必要です。",
+        "romaji": "Kono ryouri o tsukuru no ni, zairyou wa gohyaku-en kurai hitsuyou desu.",
         "en": "You need about 500 yen worth of ingredients to make this dish."
       }
     ]
@@ -730,12 +730,12 @@
   {
     "title": "Noun ぐらい～ (Noun gurai～)",
     "short_explanation": "Express an approximate amount or degree; 'about', 'approximately'.",
-    "long_explanation": "The ぐらい grammar point is used with nouns to express an approximate amount or degree. It is often translated as 'about', 'approximately', or 'around' in English. This can be used for time, quantity or other measurements.",
+    "long_explanation": "The ぐらい grammar point is used with nouns to express an approximate amount or degree. It is often translated as 'about', 'approximately', or 'around' in English. This can be used for time, quantity, or other measurements.",
     "formation": "Noun + ぐらい",
     "examples": [
       {
         "jp": "一日中勉強したので、１０時間ぐらい勉強しました。",
-        "romaji": "Ichinichijuu benkyou shita node, juu jikan gurai benkyou shimashita.",
+        "romaji": "Ichinichijuu benkyou shita node, juu-jikan gurai benkyou shimashita.",
         "en": "I studied all day, so I studied for about 10 hours."
       },
       {
@@ -745,7 +745,7 @@
       },
       {
         "jp": "彼は果物を５個ぐらい食べました。",
-        "romaji": "Kare wa kudamono wo go-ko gurai tabemashita.",
+        "romaji": "Kare wa kudamono o go-ko gurai tabemashita.",
         "en": "He ate about 5 pieces of fruit."
       },
       {
@@ -800,9 +800,9 @@
         "en": "I only read twenty pages of this book."
       },
       {
-        "jp": "彼女はとても速いですが、走るだけ速くなく、考えるだけ速いです。",
-        "romaji": "Kanojo wa totemo hayai desu ga, hashiru dake hayaku naku, kangaeru dake hayai desu.",
-        "en": "She is very fast, not only in running but also in thinking."
+        "jp": "彼女はとても速いですが、走るだけでなく、考えるのも速いです。",
+        "romaji": "Kanojo wa totemo hayai desu ga, hashiru dake denaku, kangaeru no mo hayai desu.",
+        "en": "She is very fast, not only at running but also at thinking."
       },
       {
         "jp": "この部屋は寝るだけの場所です。",
@@ -869,7 +869,7 @@
   },
   {
     "title": "Noun に～ (Noun ni～)",
-    "short_explanation": "Express a specific direction, target or purpose; 'to', 'toward', 'for'",
+    "short_explanation": "Express a specific direction, target or purpose; 'to', 'toward', 'for'.",
     "long_explanation": "The 'Noun に' grammar point is used to express a specific direction, target, or purpose in relation to a noun. It can be translated as 'to', 'toward', or 'for' in English. The に particle is added directly after the noun which indicates direction, target or purpose.",
     "formation": "Noun + に",
     "examples": [
@@ -896,30 +896,30 @@
     ]
   },
   {
-    "title": "Noun に かえります (Noun ni kaerimasu)",
-    "short_explanation": "Expresses returning something to its original state, 'to return to', 'to go back to'.",
-    "long_explanation": "The grammar point Noun に　かえります is used to express the action of returning something to its original state or position, or a situation returning to the way it was before. It can be translated as 'to return to' or 'to go back to' in English.",
-    "formation": "Noun + に + かえります",
+    "title": "Noun に 帰ります (Noun ni kaerimasu)",
+    "short_explanation": "Express going back or returning to a place: 'to return to', 'to go back to'.",
+    "long_explanation": "The grammar point 'Noun に 帰ります' is used to express physically going back or returning to a specific place. It can be translated as 'to go back to' or 'to return to' in English. The particle に indicates the destination of the return.",
+    "formation": "Noun + に + 帰ります",
     "examples": [
       {
-        "jp": "来週、部屋をきれいにかえります。",
-        "romaji": "Raishuu, heya wo kirei ni kaerimasu.",
-        "en": "Next week, I will return the room to a clean state."
-      },
-      {
-        "jp": "夏休みが終わったら、学校にかえります。",
+        "jp": "夏休みが終わったら、学校に帰ります。",
         "romaji": "Natsuyasumi ga owattara, gakkou ni kaerimasu.",
         "en": "When summer vacation ends, I'll go back to school."
       },
       {
-        "jp": "買い物を終えたら、家にかえります。",
-        "romaji": "Kaimono wo oetara, ie ni kaerimasu.",
-        "en": "After finishing shopping, I will return home."
+        "jp": "買い物を終えたら、家に帰ります。",
+        "romaji": "Kaimono o oetara, ie ni kaerimasu.",
+        "en": "After finishing shopping, I will go back home."
       },
       {
-        "jp": "コンピュータを直したら、元の場所にかえります。",
-        "romaji": "Konpyuuta wo naoshitara, moto no basho ni kaerimasu.",
-        "en": "After fixing the computer, I will return it to its original place."
+        "jp": "今週末、実家に帰ります。",
+        "romaji": "Konshuumatsu, jikka ni kaerimasu.",
+        "en": "I'm going back to my parents' home this weekend."
+      },
+      {
+        "jp": "友達と旅行に行ったあと、東京に帰ります。",
+        "romaji": "Tomodachi to ryokou ni itta ato, Toukyou ni kaerimasu.",
+        "en": "After traveling with my friend, I'll return to Tokyo."
       }
     ]
   },
@@ -953,7 +953,7 @@
   },
   {
     "title": "Noun に なります (Noun ni narimasu)",
-    "short_explanation": "Expresses change or becoming something; 'to become', 'to turn into', 'to be'",
+    "short_explanation": "Expresses change or becoming something; 'to become', 'to turn into', 'to be'.",
     "long_explanation": "The grammar point Noun に なります is used to express a change or transformation into something else, or to indicate that something 'becomes', 'turns into', or simply 'is' something. It is commonly used with nouns.",
     "formation": "Noun + に + なります",
     "examples": [
@@ -980,16 +980,11 @@
     ]
   },
   {
-    "title": "Noun に 来ます (ni kimasu)",
-    "short_explanation": "Used to express going to a place for a specific purpose.",
-    "long_explanation": "The grammar point Noun に きます is used to indicate going to a place with a specific purpose. It's usually used with verbs that express actions like going, coming or returning, 去る (kaeru), 行く (iku), 来る (kuru). The noun before に indicates the destination or place, while the verb expresses the action.",
-    "formation": "Noun + に + Verb (来る / 行く / 帰る)",
+    "title": "Noun に 来ます (Noun ni kimasu)",
+    "short_explanation": "Used to express coming to a place.",
+    "long_explanation": "The grammar point Noun に 来ます is used to indicate that someone or something comes to a specific place. The noun before に indicates the destination or place, while the verb 来ます expresses the action of coming. (Similarly, 'Noun に 行きます' means 'go to [Noun],' and 'Noun に 帰ります' means 'return to [Noun].')",
+    "formation": "Noun + に + 来ます (kimasu)",
     "examples": [
-      {
-        "jp": "私は明日図書館に行きます。",
-        "romaji": "Watashi wa ashita toshokan ni ikimasu.",
-        "en": "I will go to the library tomorrow."
-      },
       {
         "jp": "友達が私の家に来ます。",
         "romaji": "Tomodachi ga watashi no ie ni kimasu.",
@@ -1001,16 +996,21 @@
         "en": "Tonight, my father will come to pick me up at the station."
       },
       {
-        "jp": "春休みには、故郷に帰ります。",
-        "romaji": "Haruyasumi ni wa, furusato ni kaerimasu.",
-        "en": "I will return to my hometown during spring break."
+        "jp": "明日、先生が学校に来ます。",
+        "romaji": "Ashita, sensei ga gakkou ni kimasu.",
+        "en": "Tomorrow, the teacher will come to school."
+      },
+      {
+        "jp": "有名な歌手がこの街に来ます。",
+        "romaji": "Yuumei na kashu ga kono machi ni kimasu.",
+        "en": "A famous singer will come to this town."
       }
     ]
   },
   {
     "title": "Noun に 行きます (Noun ni ikimasu)",
     "short_explanation": "Used to express going to a location.",
-    "long_explanation": "The Noun に 行きます grammar point is used to express going to a specific location. This formation requires a noun (which indicates the destination) followed by に and the verb 行きます which means 'to go'.",
+    "long_explanation": "The Noun に 行きます grammar point is used to express going to a specific location. This structure requires a noun (indicating the destination) followed by に and the verb 行きます, which means 'to go'.",
     "formation": "Noun + に + 行きます",
     "examples": [
       {
@@ -1065,8 +1065,8 @@
   },
   {
     "title": "Noun の 前に (Noun no mae ni)",
-    "short_explanation": "Used to describe a location or position 'in front of' a noun",
-    "long_explanation": "The grammar point Noun の 前に is used to describe a location or position 'in front of' a noun. It is formed by adding の 前に after the noun it refers to.",
+    "short_explanation": "Used to describe a location or position 'in front of' a noun.",
+    "long_explanation": "The grammar point Noun の 前に is used to describe a location or position 'in front of' a noun. It is formed by adding の 前に after the noun it refers to. (Note that 'Noun の 前に' can also mean 'before [Noun]' in time contexts, but these examples focus on physical location.)",
     "formation": "Noun + の + 前に",
     "examples": [
       {
@@ -1094,7 +1094,7 @@
   {
     "title": "Noun は～ (Noun wa〜)",
     "short_explanation": "Used to mark the topic of a sentence; 'as for', 'speaking of'.",
-    "long_explanation": "The は (wa) particle is used to indicate the topic of a sentence. It is usually translated as 'as for', 'speaking of' or just indicates the subject of the sentence. It is different from が (ga) which marks the subject of a verb.",
+    "long_explanation": "The は (wa) particle is used to indicate the topic of a sentence. It is usually translated as 'as for', 'speaking of', or it simply marks what the sentence is about. This is different from が (ga), which marks the subject of a verb.",
     "formation": "Noun + は",
     "examples": [
       {
@@ -1122,7 +1122,7 @@
   {
     "title": "Noun も〜 (Noun mo~)",
     "short_explanation": "Indicates that the action or state is the same for multiple items or people; 'also', 'as well'.",
-    "long_explanation": "The も grammar point is used after a noun to indicate that the action or state is the same for multiple items or people. It essentially means 'also', 'as well', or 'too' in English. も takes the same function as は and が in a sentence, showing that the action or state holds true for the preceding noun as well.",
+    "long_explanation": "The も grammar point is used after a noun to indicate that the action or state is the same for multiple items or people. It means 'also', 'as well', or 'too' in English. も often replaces は or が in the sentence to show that the same statement applies to this additional noun.",
     "formation": "Noun + も",
     "examples": [
       {
@@ -1137,7 +1137,7 @@
       },
       {
         "jp": "東京も大阪も観光スポットがたくさんあります。",
-        "romaji": "Toukyou mo oosaka mo kankou supotto ga takusan arimasu.",
+        "romaji": "Toukyou mo Oosaka mo kankou supotto ga takusan arimasu.",
         "en": "There are many tourist spots in both Tokyo and Osaka."
       },
       {
@@ -1149,8 +1149,8 @@
   },
   {
     "title": "Noun や Noun など～ (Noun ya Noun nado)",
-    "short_explanation": "Lists items or examples but not exhaustive; 'such as', 'like', 'and so on'.",
-    "long_explanation": "The や...など grammar point is used to list a few items or examples that belong to a similar category or context but it is not exhaustive. It can be translated as 'such as', 'like', or 'and so on' in English. This grammar pattern is used with nouns.",
+    "short_explanation": "Lists items or examples but not exhaustively; 'such as', 'like', 'and so on'.",
+    "long_explanation": "The や...など grammar point is used to list a few items or examples that belong to a similar category or context, but it is not exhaustive. It can be translated as 'such as', 'like', or 'and so on' in English. This grammar pattern is used with nouns.",
     "formation": "Noun1 + や + Noun2 + など",
     "examples": [
       {
@@ -1171,14 +1171,14 @@
       {
         "jp": "この本屋では漫画や小説などたくさんの本が売られています。",
         "romaji": "Kono honya de wa manga ya shousetsu nado takusan no hon ga urarete imasu.",
-        "en": "In this bookstore, many books such as manga and novels are being sold."
+        "en": "In this bookstore, many books such as manga and novels are sold."
       }
     ]
   },
   {
     "title": "Noun を〜 (Noun wo〜)",
-    "short_explanation": "The particle を (wo) indicates the direct object of an action (verb) which performs the action on the noun.",
-    "long_explanation": "The を (wo) particle is used to mark the direct object of a verb in a sentence. It shows the noun that the action (verb) is performed on. The particle を is usually pronounced as 'o' while speaking.",
+    "short_explanation": "Indicates the direct object of a verb.",
+    "long_explanation": "The を (wo) particle is used to mark the direct object of a verb in a sentence. It shows the noun that the action (verb) is performed on. The particle を is usually pronounced as 'o' in spoken Japanese.",
     "formation": "Noun + を + Verb",
     "examples": [
       {
@@ -1205,7 +1205,7 @@
   },
   {
     "title": "Verb た あとで (ta ato de)",
-    "short_explanation": "Used to indicate an action that takes place after another action.",
+    "short_explanation": "Indicates an action that takes place after another action.",
     "long_explanation": "The たあとで grammar point is used to indicate that one action takes place after another action is completed. It means 'after' or 'after doing' in English. The formation is created with the た form (past tense) of a verb, followed by あとで (ato de).",
     "formation": "Verb-た form + あとで",
     "examples": [
@@ -1295,7 +1295,7 @@
     "examples": [
       {
         "jp": "彼女は今ピアノを弾いています。",
-        "romaji": "Kanojo wa ima piano wo hiteimasu.",
+        "romaji": "Kanojo wa ima piano wo hiite imasu.",
         "en": "She is playing the piano now."
       },
       {
@@ -1400,15 +1400,15 @@
     ]
   },
   {
-    "title": "Verb に かえります (〜ni kaerimasu)",
-    "short_explanation": "Expresses the action of returning to a previous state or condition.",
-    "long_explanation": "The に かえります grammar point is used to express the action of returning to a previous state or condition, often after a change has occurred. It is formed by attaching に かえります to the stem of the verb that indicates the original state or condition.",
-    "formation": "Verb-stem + に かえります",
+    "title": "Noun に 戻ります (Noun ni modorimasu)",
+    "short_explanation": "Expresses the action of returning to a previous state, place, or condition.",
+    "long_explanation": "The Noun に 戻ります grammar point is used to express going back or reverting to a previous state, place, or condition. 戻る (modoru) literally means 'to go back' or 'to revert'. This is often used after a change has occurred, indicating that something is being undone or returned to its original form.",
+    "formation": "Noun + に + 戻ります",
     "examples": [
       {
-        "jp": "冷蔵庫に入れると、溶けたアイスクリームは固まるにかえります。",
-        "romaji": "Reizouko ni ireru to, toketa aisukurīmu wa katamaru ni kaerimasu.",
-        "en": "When put back in the refrigerator, the melted ice cream will return to being solid."
+        "jp": "冷蔵庫に入れると、溶けたアイスクリームは固体に戻ります。",
+        "romaji": "Reizouko ni ireru to, toketa aisukuriimu wa kotai ni modorimasu.",
+        "en": "When put in the refrigerator, the melted ice cream returns to its solid state."
       },
       {
         "jp": "休暇が終わったら、仕事に戻ります。",
@@ -1417,12 +1417,12 @@
       },
       {
         "jp": "リモートワークが終わった後、元のオフィスに戻ります。",
-        "romaji": "Rimōto wāku ga owatta ato, moto no ofisu ni modorimasu.",
+        "romaji": "Rimooto waaku ga owatta ato, moto no ofisu ni modorimasu.",
         "en": "After remote work is over, we will return to our original office."
       },
       {
         "jp": "外国で勉強した後、日本に帰ります。",
-        "romaji": "Gaikoku de benkyou shita ato, nihon ni kaerimasu.",
+        "romaji": "Gaikoku de benkyou shita ato, Nihon ni kaerimasu.",
         "en": "After studying abroad, I will return to Japan."
       }
     ]
@@ -1430,8 +1430,8 @@
   {
     "title": "Verb に 来ます (Verb ni kimasu)",
     "short_explanation": "Expresses the purpose of coming to a place; 'come to (do something)'.",
-    "long_explanation": "The grammar point Verb に きます is used to express the purpose of coming to a place to perform an action. It can be translated as 'come to (do something)' in English. To form this expression, use the verb stem (masu-form without ます) followed by に きます.",
-    "formation": "Verb stem + に きます",
+    "long_explanation": "The grammar point Verb に きます is used to express the purpose of coming to a place to perform an action. It can be translated as 'come to (do something)' in English. To form this expression, use the verb's ます-stem (i.e., remove ます) followed by に きます.",
+    "formation": "Verb (ます-stem) + に + 来ます",
     "examples": [
       {
         "jp": "友達に会いに来ました。",
@@ -1457,9 +1457,9 @@
   },
   {
     "title": "Verb に 行きます (Verb ni ikimasu)",
-    "short_explanation": "To go (somewhere) for the purpose of doing an action.",
-    "long_explanation": "The grammar point Verb に 行きます is used when expressing that someone is going to a certain place with the purpose of doing a specific action. It is formed by combining the verb in the dictionary form with に 行きます.",
-    "formation": "Verb-Dictionary form + に 行きます",
+    "short_explanation": "To go (somewhere) in order to do an action.",
+    "long_explanation": "The grammar point Verb に 行きます is used when expressing that someone is going to a certain place with the purpose of doing a specific action. Form it by taking the verb's ます-stem (for suru-verbs, remove する and add し) and then adding に 行きます.",
+    "formation": "Verb (ます-stem) + に + 行きます",
     "examples": [
       {
         "jp": "公園に遊びに行きます。",
@@ -1474,7 +1474,7 @@
       {
         "jp": "スーパーに買い物に行きます。",
         "romaji": "Suupaa ni kaimono ni ikimasu.",
-        "en": "I will go to the supermarket to do shopping."
+        "en": "I will go to the supermarket to do some shopping."
       },
       {
         "jp": "映画館に映画を見に行きます。",
@@ -1486,8 +1486,8 @@
   {
     "title": "Verb ましょう (mashou)",
     "short_explanation": "Making a suggestion or invitation; 'let's' or 'shall we'.",
-    "long_explanation": "The ましょう grammar point is used to suggest or invite someone to do something in a polite and friendly way. It can be translated as 'let's' or 'shall we' in English. This grammar point is formed by attaching ましょう to the stem of the verb.",
-    "formation": "Verb-stem + ましょう",
+    "long_explanation": "The ましょう grammar point is used to suggest or invite someone to do something in a polite and friendly way. It can be translated as 'let's' or 'shall we' in English. This grammar point is formed by attaching ましょう to the stem of the verb (i.e. remove ます).",
+    "formation": "Verb (ます-stem) + ましょう",
     "examples": [
       {
         "jp": "一緒に映画を見ましょう。",
@@ -1514,13 +1514,13 @@
   {
     "title": "Verb ましょうか。 (〜mashou ka.)",
     "short_explanation": "Used to make a polite suggestion or offer help; 'shall we', 'should we', 'do you want me to'.",
-    "long_explanation": "The ましょうか grammar point is used to make a polite suggestion, propose an action or offer help. It can be translated as 'shall we', 'should we', or 'do you want me to' in English. This formation is used with verbs in their ます-form, replacing ます with ましょう and adding か.",
-    "formation": "Verb-ます-form (without ます) + ましょうか",
+    "long_explanation": "The ましょうか grammar point is used to make a polite suggestion, propose an action, or offer help. It can be translated as 'shall we', 'should we', or 'do you want me to' in English. This formation is used with verbs in their ます-form, replacing ます with ましょう and adding か.",
+    "formation": "Verb (ます-stem) + ましょうか",
     "examples": [
       {
         "jp": "一緒に映画を見に行きましょうか。",
         "romaji": "Issho ni eiga wo mi ni ikimashou ka.",
-        "en": "Shall we go to see a movie together?"
+        "en": "Shall we go see a movie together?"
       },
       {
         "jp": "コーヒーをもう一杯飲みましょうか。",
@@ -1542,8 +1542,8 @@
   {
     "title": "Verb ませんか。 (Verb-masenka)",
     "short_explanation": "An invitation or suggestion; 'won't you', 'why don't you', 'shall we'.",
-    "long_explanation": "The ませんか grammar point is used for making invitations or suggestions in a polite manner. The verb is conjugated to its ～ます form and is replaced with ～ませんか. This can be translated as 'won't you', 'why don't you', or 'shall we' in English.",
-    "formation": "Verb-ます form + ませんか",
+    "long_explanation": "The ませんか grammar point is used for making invitations or suggestions in a polite manner. The verb is conjugated to its ます form and replaced with ませんか. This can be translated as 'won't you', 'why don't you', or 'shall we' in English.",
+    "formation": "Verb (ます-form) + ませんか",
     "examples": [
       {
         "jp": "一緒に映画を見ませんか。",
@@ -1570,13 +1570,13 @@
   {
     "title": "Verb ること～ (〜ru koto)",
     "short_explanation": "Express an action or event as a noun; 'the act of', 'doing'.",
-    "long_explanation": "The ること grammar point is used to nominalize or turn a verb into a noun, which represents the action or event itself as a concept. It can be translated as 'the act of' or 'doing' in English. This formation is used with verbs in the dictionary (ru-)form.",
-    "formation": "Verb-dictionary (ru-)form + こと",
+    "long_explanation": "The ること grammar point is used to nominalize or turn a verb into a noun, which represents the action or event itself as a concept. It can be translated as 'the act of' or simply 'doing' in English. This formation is used with verbs in the dictionary (ru-)form.",
+    "formation": "Verb (dictionary form) + こと",
     "examples": [
       {
         "jp": "泳ぐことが大好きです。",
         "romaji": "Oyogu koto ga daisuki desu.",
-        "en": "I love the act of swimming."
+        "en": "I love swimming."
       },
       {
         "jp": "日本語を勉強することは楽しいです。",
@@ -1586,7 +1586,7 @@
       {
         "jp": "友達と話すことがストレスを軽減します。",
         "romaji": "Tomodachi to hanasu koto ga sutoresu wo keigen shimasu.",
-        "en": "The act of talking with friends reduces stress."
+        "en": "Talking with friends reduces stress."
       },
       {
         "jp": "彼は歌うことが得意です。",
@@ -1598,8 +1598,8 @@
   {
     "title": "Verb る こと が できます (ru koto ga dekimasu)",
     "short_explanation": "Express the potential form, or the ability to do something.",
-    "long_explanation": "The 〜ることができます grammar point is used to express that someone is capable of doing something or that something is possible. It is essentially the potential form of the verb. The formation is made by changing the verb to a noun phrase and adding ができます.",
-    "formation": "Verb[る] + ことができます",
+    "long_explanation": "The 〜ることができます grammar point is used to express that someone is capable of doing something or that something is possible. It is essentially the potential form of the verb. The formation is made by changing the verb to a noun phrase with こと and then adding ができます.",
+    "formation": "Verb (dictionary form) + ことができます",
     "examples": [
       {
         "jp": "この問題を解くことができます。",
@@ -1614,7 +1614,7 @@
       {
         "jp": "私は高い所に登ることができません。",
         "romaji": "Watashi wa takai tokoro ni noboru koto ga dekimasen.",
-        "en": "I cannot climb to high places."
+        "en": "I can't climb to high places."
       },
       {
         "jp": "彼女はピアノを弾くことができます。",
@@ -1626,8 +1626,8 @@
   {
     "title": "Verb る こと ができる (ru koto ga dekiru)",
     "short_explanation": "Expresses the potential form; 'can', 'be able to', 'is possible'.",
-    "long_explanation": "The る こと ができる grammar point is used to express the potential form of a verb, meaning the ability or possibility to do something. It can be translated as 'can', 'be able to', or 'is possible' in English. This grammar is often used with verbs ending in る.",
-    "formation": "Verb-る + ことができる",
+    "long_explanation": "The る こと ができる grammar point is used to express the potential form of a verb, meaning the ability or possibility to do something. It can be translated as 'can', 'be able to', or 'is possible' in English. This grammar is often used with verbs ending in る, but can also apply to other verbs once they are in the dictionary form.",
+    "formation": "Verb (dictionary form) + ことができる",
     "examples": [
       {
         "jp": "この問題を解くことができる？",
@@ -1653,37 +1653,37 @@
   },
   {
     "title": "Verb る の～ (Verb + ru + no~)",
-    "short_explanation": "Used to express the purpose or reason for doing an action.",
-    "long_explanation": "The る の～ grammar point is used to express the purpose or reason for doing an action. It is created by replacing the final る in the verb with の. It is often used with other expressions to provide more context about the purpose of the action.",
-    "formation": "Verb-る + の + expression",
+    "short_explanation": "Used to express the purpose or reason in casual speech, or nominalize the verb with の.",
+    "long_explanation": "The る の～ grammar point is a casual spoken pattern that can nominalize a verb or explain a purpose/reason by adding の. It's often seen in everyday conversation, and can be used for nuance such as giving an explanation. It's similar to ること, but is more colloquial or explanatory in tone.",
+    "formation": "Verb (dictionary form) + の (casual)",
     "examples": [
       {
         "jp": "買い物をするために、銀行でお金をおろすの。",
         "romaji": "Kaimono o suru tame ni, ginkou de okane o orosu no.",
-        "en": "I will withdraw money from the bank to go shopping."
+        "en": "I'm withdrawing money at the bank so I can go shopping."
       },
       {
         "jp": "友達にプレゼントをあげるので、ケーキを焼くの。",
         "romaji": "Tomodachi ni purezento o ageru node, keeki o yaku no.",
-        "en": "I will bake a cake because I want to give a present to my friend."
+        "en": "I'm baking a cake because I'm giving my friend a present."
       },
       {
         "jp": "ダイエットを始めるので、ジムに入会するの。",
         "romaji": "Daietto o hajimeru node, jimu ni nyuukai suru no.",
-        "en": "I will join a gym since I am starting a diet."
+        "en": "I’m joining a gym since I'm starting a diet."
       },
       {
         "jp": "軽い食事がいいので、サラダを作るの。",
         "romaji": "Karui shokuji ga ii node, sarada o tsukuru no.",
-        "en": "I will make a salad because I want a light meal."
+        "en": "I'm making a salad because I want a light meal."
       }
     ]
   },
   {
     "title": "Verb る 前に (ru mae ni)",
-    "short_explanation": "Used to express 'before' in a sense of an action must be done before another action happens or 'before' something happens.",
-    "long_explanation": "The る前に (ru mae ni) grammar point is used to indicate that an action should be completed before another action occurs or before a specific event happens. This structure is used with verbs in -る form, and the verb should be followed by 前 (mae) and に (ni).",
-    "formation": "Verb-る + 前に",
+    "short_explanation": "Used to express 'before' in a sense of an action must be done before another action or event.",
+    "long_explanation": "The る前に (ru mae ni) grammar point is used to indicate that an action (in the dictionary form) should be completed before another action occurs or before a specific event happens.",
+    "formation": "Verb (dictionary form) + 前に",
     "examples": [
       {
         "jp": "出かける前に、部屋を掃除してください。",
@@ -1711,7 +1711,7 @@
     "title": "あまり～ありません (amari ~ arimasen)",
     "short_explanation": "Express 'not very', 'not much', or 'not really' when describing a negative state or situation.",
     "long_explanation": "The grammar point あまり～ありません is used to describe a negative state or condition and indicate that it's not very, not much, or not really. It is commonly used with verbs in the negative form and can be used with い-adjectives, な-adjectives, and nouns.",
-    "formation": "あまり + Verb-ないform + ありません, あまり + い-Adjective + ありません, あまり + な-Adjective/ない-form(Noun) + ありません",
+    "formation": "あまり + Verb-ないform + ありません / あまり + い-Adjective-く ありません / あまり + な-Adjective・Noun じゃありません",
     "examples": [
       {
         "jp": "彼はあまり疲れていません。",
@@ -1739,7 +1739,7 @@
     "title": "あまり～ないです (amari ~ nai desu)",
     "short_explanation": "Express 'not really' or 'not very'; used to soften a negative statement.",
     "long_explanation": "The あまり～ないです grammar point is used to express that something is 'not really' or 'not very' to a certain extent. It is often used to soften a negative statement. It can be used with verbs, い-adjectives, and な-adjectives in their negative forms.",
-    "formation": "あまり + Verb-ないform + です, あまり + い-Adjective-ない form + です, あまり + な-Adjective-じゃない form + です",
+    "formation": "あまり + Verb-ないform + です / あまり + い-Adjective-くない + です / あまり + な-Adjective-じゃない + です",
     "examples": [
       {
         "jp": "あまり食べないです。",
@@ -1765,8 +1765,8 @@
   },
   {
     "title": "～あります (〜arimasu)",
-    "short_explanation": "Indicate possession or existence of inanimate objects or animals; 'there is', 'there are'.",
-    "long_explanation": "The あります grammar point is used to indicate the possession or existence of inanimate objects or animals. It can be translated as 'there is' or 'there are' in English. It is different from います, which is used for people and living beings. It is commonly used with particle が to mark the object.",
+    "short_explanation": "Indicate possession or existence of inanimate objects; 'there is', 'there are'.",
+    "long_explanation": "The あります grammar point is used to indicate the possession or existence of inanimate objects. It can be translated as 'there is' or 'there are' in English. It is different from います, which is used for people and most living creatures. あります is commonly used with particle が to mark the object.",
     "formation": "Object + が + あります",
     "examples": [
       {
@@ -1785,9 +1785,9 @@
         "en": "There is a convenience store near the station."
       },
       {
-        "jp": "家の中に猫があります。",
-        "romaji": "Ie no naka ni neko ga arimasu.",
-        "en": "There is a cat inside the house."
+        "jp": "家の中に古いテレビがあります。",
+        "romaji": "Ie no naka ni furui terebi ga arimasu.",
+        "en": "There is an old TV inside the house."
       }
     ]
   },
@@ -1795,7 +1795,7 @@
     "title": "～いかがですか。 (〜ikaga desu ka.)",
     "short_explanation": "A polite way to ask someone's thoughts, opinions, or preferences; 'how about', 'how is'.",
     "long_explanation": "The ～いかがですか grammar point is used to politely ask someone's thoughts, opinions, or preferences. It can be translated as 'how about' or 'how is' in English. The formation is quite straightforward when used with verbs or nouns.",
-    "formation": "Noun + は + いかがですか, Verb-te form + いかがですか",
+    "formation": "Noun + は + いかがですか / (Verb-て form + は) いかがですか",
     "examples": [
       {
         "jp": "お茶はいかがですか？",
@@ -1808,26 +1808,26 @@
         "en": "How about this dress?"
       },
       {
-        "jp": "ケーキを食べていかがですか？",
-        "romaji": "Keeki wo tabete ikaga desu ka?",
+        "jp": "ケーキを食べてはいかがですか？",
+        "romaji": "Keeki wo tabete wa ikaga desu ka?",
         "en": "How about eating some cake?"
       },
       {
-        "jp": "映画を見ていかがですか？",
-        "romaji": "Eiga wo mite ikaga desu ka?",
+        "jp": "映画を見てはいかがですか？",
+        "romaji": "Eiga wo mite wa ikaga desu ka?",
         "en": "How about watching a movie?"
       }
     ]
   },
   {
-    "title": "いくつ～ (ikutsu~",
+    "title": "いくつ～ (ikutsu~)",
     "short_explanation": "Used to express 'how many' or ask for the number of something.",
     "long_explanation": "The grammar point いくつ is used when asking or expressing 'how many' of something there are, or to indicate an unspecified number. In English, it can be translated as 'how many' or 'several'.",
     "formation": "いくつ + Noun (optional)",
     "examples": [
       {
-        "jp": "いくつリンゴがありますか？",
-        "romaji": "Ikutsu ringo ga arimasu ka?",
+        "jp": "リンゴはいくつありますか？",
+        "romaji": "Ringo wa ikutsu arimasu ka?",
         "en": "How many apples are there?"
       },
       {
@@ -1879,7 +1879,7 @@
     "title": "いつでも～ (itsudemo～)",
     "short_explanation": "Expresses 'anytime', 'always', or 'whenever'.",
     "long_explanation": "The いつでも grammar point is used to express that something occurs, can occur, or is allowed to occur anytime, always, or whenever. It emphasizes the lack of restrictions related to time for a certain action or event.",
-    "formation": "いつでも is used as an adverb before the verb or adjective it modifies.",
+    "formation": "いつでも + (Verb)",
     "examples": [
       {
         "jp": "いつでも遊びに来てください。",
@@ -1907,7 +1907,7 @@
     "title": "いつも～ (itsumo～)",
     "short_explanation": "Expressing 'always' or 'usually' in a sentence.",
     "long_explanation": "The grammar point いつも (itsumo) is used to express the meaning of 'always' or 'usually' when describing a habitual action or situation. It is often used with the present tense or past tense to show that something is done on a regular basis or has been happening consistently.",
-    "formation": "いつも + Verb, いつも + い-Adjective, いつも + な-Adjective, いつも + Noun",
+    "formation": "いつも + Verb / Adjective / Noun",
     "examples": [
       {
         "jp": "彼はいつも遅刻します。",
@@ -1932,29 +1932,29 @@
     ]
   },
   {
-    "title": "～います (〜imasu)",
+    "title": "～て います (～te imasu)",
     "short_explanation": "Expresses the present continuous or ongoing action; 'to be doing', 'currently doing'.",
-    "long_explanation": "The ～います grammar point is used to express that an action is currently happening or is ongoing. It can be translated as 'to be doing' or 'currently doing' in English. The formation differs depending on whether it is a る-verb, う-verb, or an irregular verb.",
-    "formation": "る-verb: drop る, add ています, う-verb: change last syllable to its て form, add います, Irregular verbs: refer to specific conjugation rules",
+    "long_explanation": "The ～て います grammar pattern is used to express that an action is currently happening or ongoing. It can be translated as 'to be doing' or 'currently doing' in English. The formation differs depending on whether it is a る-verb, う-verb, or an irregular verb, but all use the verb’s て-form + います.",
+    "formation": "Verb て-form + います",
     "examples": [
       {
         "jp": "今、音楽を聞いています。",
-        "romaji": "Ima, ongaku wo kiiteimasu.",
+        "romaji": "Ima, ongaku wo kiite imasu.",
         "en": "I am listening to music right now."
       },
       {
         "jp": "父は新聞を読んでいます。",
-        "romaji": "Chichi wa shinbun wo yondeimasu.",
+        "romaji": "Chichi wa shinbun wo yonde imasu.",
         "en": "My father is reading a newspaper."
       },
       {
         "jp": "彼女は英語を勉強しています。",
-        "romaji": "Kanojo wa eigo wo benkyou shiteimasu.",
+        "romaji": "Kanojo wa eigo wo benkyou shite imasu.",
         "en": "She is studying English."
       },
       {
         "jp": "子供たちは公園で遊んでいます。",
-        "romaji": "Kodomotachi wa kouen de asondeimasu.",
+        "romaji": "Kodomotachi wa kouen de asonde imasu.",
         "en": "The children are playing in the park."
       }
     ]
@@ -1963,7 +1963,7 @@
     "title": "～が (〜ga)",
     "short_explanation": "Particle indicating the subject of a sentence or expressing 'but'.",
     "long_explanation": "The ～が grammar point is a particle that is used to indicate the subject of a sentence or to express a contrast similar to 'but' in English. It has various functions depending on the context.",
-    "formation": "Noun + が, い-Adjective + が, な-Adjective + が, Verb + が",
+    "formation": "Noun + が / い-Adjective + が / な-Adjective + が / Verb + が",
     "examples": [
       {
         "jp": "私が学生です。",
@@ -2019,7 +2019,7 @@
     "title": "～から、～ (〜kara、～)",
     "short_explanation": "Expresses reason or cause; 'because', 'since', 'so'.",
     "long_explanation": "The ～から grammar point is used to indicate the reason or cause for something. It can be translated as 'because', 'since', or 'so' in English. The formation differs depending on whether it is used with a verb, い-adjective, な-adjective, or noun.",
-    "formation": "Verb-casual + から, い-Adjective + から, な-Adjective + だから, Noun + だから",
+    "formation": "Verb-casual + から / い-Adjective + から / な-Adjective + だから / Noun + だから",
     "examples": [
       {
         "jp": "明日は試験があるから、今晩勉強しなければなりません。",
@@ -2046,36 +2046,36 @@
   {
     "title": "～からです (〜kara desu)",
     "short_explanation": "Express the reason or cause; 'because', 'since', 'due to'.",
-    "long_explanation": "The ～からです grammar point is used to state the reason or cause of something. It can be translated as 'because', 'since', or 'due to' in English. This grammar point can be used with verbs, い-adjectives, な-adjectives, and nouns.",
-    "formation": "Verb-casual + からです, い-Adjective + からです, な-Adjective + ですからです, Noun + ですからです",
+    "long_explanation": "The ～からです grammar point is used to state the reason or cause of something, often as a short concluding statement. It can be translated as 'because', 'since', or 'due to' in English. The formation can be used with verbs, い-adjectives, な-adjectives, or nouns, but be careful with な-adjectives and nouns: typically, it's [Noun/な-adjective] + だからです.",
+    "formation": "Verb-casual + からです / い-Adjective + からです / な-Adjective + だからです / Noun + だからです",
     "examples": [
       {
-        "jp": "寒いからです、コートを着ています。",
-        "romaji": "Samui kara desu, kooto wo kiteimasu.",
-        "en": "I am wearing a coat because it is cold."
+        "jp": "寒いからです。コートを着ています。",
+        "romaji": "Samui kara desu. Kooto wo kiteimasu.",
+        "en": "It’s because it’s cold. That’s why I’m wearing a coat."
       },
       {
-        "jp": "この店は安いからです、よく来ます。",
-        "romaji": "Kono mise wa yasui kara desu, yoku kimasu.",
-        "en": "I often come to this store because it is cheap."
+        "jp": "この店は安いからです。よく来ます。",
+        "romaji": "Kono mise wa yasui kara desu. Yoku kimasu.",
+        "en": "It’s because this store is cheap. That’s why I come often."
       },
       {
-        "jp": "彼は親切ですからです、みんなに好かれています。",
-        "romaji": "Kare wa shinsetsu desu kara desu, minna ni suka-rete imasu.",
-        "en": "Everybody likes him because he is kind."
+        "jp": "彼は親切だからです。みんなに好かれています。",
+        "romaji": "Kare wa shinsetsu dakara desu. Minna ni suka-rete imasu.",
+        "en": "It’s because he’s kind. Everyone likes him."
       },
       {
-        "jp": "彼女は学生ですからです、図書館で勉強しています。",
-        "romaji": "Kanojo wa gakusei desu kara desu, toshokan de benkyou shiteimasu.",
-        "en": "She is studying at the library because she is a student."
+        "jp": "彼女は学生だからです。図書館で勉強しています。",
+        "romaji": "Kanojo wa gakusei dakara desu. Toshokan de benkyou shiteimasu.",
+        "en": "It’s because she’s a student. She studies at the library."
       }
     ]
   },
   {
     "title": "～から もらいます (〜kara moraimasu)",
     "short_explanation": "To receive something or get someone to do something.",
-    "long_explanation": "The ～からもらいます grammar point is used to express receiving something from someone or getting someone to do something for you. In English, it can be translated as 'to receive from' or 'to get someone to do something'. The formation differs depending on whether it is used with a verb, い-adjective, な-adjective, or noun.",
-    "formation": "Noun + から + Verb-て form + もらいます",
+    "long_explanation": "The ～からもらいます grammar point is used to express receiving something from someone or getting someone to do something for you. In English, it can be translated as 'to receive from' or 'to get someone to do something'.",
+    "formation": "Noun + から + (Verb-て form) + もらいます",
     "examples": [
       {
         "jp": "友達からプレゼントをもらいました。",
@@ -2083,18 +2083,18 @@
         "en": "I received a present from my friend."
       },
       {
-        "jp": "先生から宿題を渡してもらいました。",
-        "romaji": "Sensei kara shukudai wo watashite moraimashita.",
-        "en": "I got the teacher to hand out the homework."
+        "jp": "先生に宿題を渡してもらいました。",
+        "romaji": "Sensei ni shukudai wo watashite moraimashita.",
+        "en": "I had the teacher hand me the homework."
       },
       {
-        "jp": "お母さんから料理を作ってもらいました。",
-        "romaji": "Okaasan kara ryouri wo tsukutte moraimashita.",
+        "jp": "お母さんに料理を作ってもらいました。",
+        "romaji": "Okaasan ni ryouri wo tsukutte moraimashita.",
         "en": "I got my mom to cook for me."
       },
       {
-        "jp": "兄から車を借りてもらいました。",
-        "romaji": "Ani kara kuruma wo karite moraimashita.",
+        "jp": "兄に車を貸してもらいました。",
+        "romaji": "Ani ni kuruma wo kashite moraimashita.",
         "en": "I got my older brother to lend me his car."
       }
     ]
@@ -2102,8 +2102,8 @@
   {
     "title": "～が 私に くれます (〜ga watashi ni kuremasu)",
     "short_explanation": "Used to express that someone gives a gift or favor to 'me'; 'someone gives me'.",
-    "long_explanation": "The ～が私にくれます grammar point is used to express that someone gives 'me' something or is doing something for the benefit of the speaker. It can be translated as 'someone gives me' or 'someone does something for me' in English. This formation is used with verbs that represent giving or doing something for someone.",
-    "formation": "Person + が + (Sth or Action) + 私に + くれます",
+    "long_explanation": "The ～が私にくれます grammar point is used to express that someone gives 'me' something or does something for me. It can be translated as 'someone gives me' or 'someone does something for me' in English. Typically, the giver is marked by が, and the receiver is 私に (to me).",
+    "formation": "Person + が + (Thing or Action) + 私に + くれます",
     "examples": [
       {
         "jp": "彼がプレゼントを私にくれました。",
@@ -2118,7 +2118,7 @@
       {
         "jp": "お母さんがお弁当を作って私にくれました。",
         "romaji": "Okaasan ga obentou wo tsukutte watashi ni kuremashita.",
-        "en": "My mom made and gave me a lunch box."
+        "en": "My mom made me a lunch box."
       },
       {
         "jp": "先生がアドバイスを私にくれました。",
@@ -2130,12 +2130,12 @@
   {
     "title": "～けど、～ (〜kedo、～)",
     "short_explanation": "Used to connect two clauses; 'but', 'however', 'although'",
-    "long_explanation": "The ～けど grammar point is used to connect two clauses, often to show a contrast, or to introduce a different point of view or additional information. It can be translated as 'but', 'however', or 'although' in English. The formation differs depending on whether it precedes a verb, い-adjective, な-adjective, or noun.",
-    "formation": "Verb-casual + けど, い-adjective + けど, な-adjective + だけど, Noun + だけど",
+    "long_explanation": "The ～けど grammar point is used to connect two clauses, often to show a contrast or to introduce a different point of view. It can be translated as 'but', 'however', or 'although' in English. It's more casual than けれど or が.",
+    "formation": "Verb-casual + けど / い-adjective + けど / な-adjective + だけど / Noun + だけど",
     "examples": [
       {
-        "jp": "授業に出たけど、まだ宿題をしないと。",
-        "romaji": "Jugyou ni deta kedo, mada shukudai wo shinai to.",
+        "jp": "授業に出たけど、まだ宿題をしないといけない。",
+        "romaji": "Jugyou ni deta kedo, mada shukudai wo shinai to ikenai.",
         "en": "I attended the class, but I still have to do my homework."
       },
       {
@@ -2158,8 +2158,8 @@
   {
     "title": "～けれど、～ (〜keredo、～)",
     "short_explanation": "Expresses a contrast or contradiction; 'but', 'however', 'even though'.",
-    "long_explanation": "The ～けれど grammar point is used to express a contrast or contradiction between two statements. It can be translated as 'but', 'however', or 'even though' in English. The formation differs depending on whether it is used with a verb, い-adjective, な-adjective, or noun.",
-    "formation": "Verb-casual + けれど, い-Adjective + けれど, な-Adjective + だけれど, Noun + だけれど",
+    "long_explanation": "The ～けれど grammar point is used to express a contrast or contradiction between two statements. It can be translated as 'but', 'however', or 'even though' in English. This grammar point is slightly more formal than けど.",
+    "formation": "Verb-casual + けれど / い-Adjective + けれど / な-Adjective + だけれど / Noun + だけれど",
     "examples": [
       {
         "jp": "今日は寒いけれど、散歩に行きます。",
@@ -2178,7 +2178,7 @@
       },
       {
         "jp": "彼女は病気だけれど、毎日働いています。",
-        "romaji": "Kanojo wa byouki dakeredo, mainichi hataraiteimasu.",
+        "romaji": "Kanojo wa byouki dakeredo, mainichi hataraite imasu.",
         "en": "She is sick, but she works every day."
       }
     ]
@@ -2186,8 +2186,8 @@
   {
     "title": "こちら～ (kochira～)",
     "short_explanation": "Refers to a person, place or thing; 'this', 'this one', 'this way', 'here'.",
-    "long_explanation": "The こちら grammar point is used to refer to a person, place, or thing. It can be translated as 'this', 'this one', 'this way', or 'here' in English. It also functions as a polite way to refer to someone when used with の (no).",
-    "formation": "こちら, こちら + の + Person",
+    "long_explanation": "The こちら grammar point is used to refer to a person, place, or thing that is closer to the speaker, or to show politeness when referring to someone. It can mean 'this', 'this one', 'this way', or 'here'.",
+    "formation": "こちら / こちら + の + Person/Thing",
     "examples": [
       {
         "jp": "こちらは田中さんです。",
@@ -2214,8 +2214,8 @@
   {
     "title": "さっき～ (sakki～)",
     "short_explanation": "Refers to a short time ago or just now.",
-    "long_explanation": "The word さっき (sakki) is an adverb that is used to express that something happened or was done a short time ago or just now. It can be combined with other words, like verbs or phrases, to convey the meaning of 'just now' or 'a short while ago'.",
-    "formation": "さっき + verb, さっき + phrase",
+    "long_explanation": "The word さっき (sakki) is an adverb used to express that something happened or was done a short time ago or just now. It can be combined with verbs or other phrases to convey that meaning.",
+    "formation": "さっき + verb / さっき + phrase",
     "examples": [
       {
         "jp": "さっき電話がありました。",
@@ -2242,7 +2242,7 @@
   {
     "title": "すぐに～ (sugu ni～)",
     "short_explanation": "Immediately or right away; used to express promptness or quickness.",
-    "long_explanation": "The すぐに～grammar point is used to express an action happening immediately or right away. It often indicates promptness or quickness and can be used with both verbs and adjectives.",
+    "long_explanation": "The すぐに～ grammar point is used to express an action happening immediately or right away. It often indicates promptness or quickness and can be used with both verbs and adjectives.",
     "formation": "すぐに + Verb/Adjective",
     "examples": [
       {
@@ -2270,8 +2270,8 @@
   {
     "title": "ぜんぜん～ (zenzen～)",
     "short_explanation": "Used to express 'not at all' or 'completely' in negative sentences.",
-    "long_explanation": "The ぜんぜん grammar point is used to emphasize a negative statement and can be translated as 'not at all' or 'completely'. It is commonly used with negative verbs or negative forms of adjectives. ぜんぜん is placed before the verb or adjective.",
-    "formation": "ぜんぜん + Verb-negative, ぜんぜん + い-Adjective-negative, ぜんぜん + な-Adjective-negative, ぜんぜん + Noun + じゃない",
+    "long_explanation": "The ぜんぜん grammar point is used to emphasize a negative statement and can be translated as 'not at all' or 'completely (in negative sense)'. It is commonly used with negative verbs or negative forms of adjectives, placed before the negative part.",
+    "formation": "ぜんぜん + [Negative verb/adjective]",
     "examples": [
       {
         "jp": "彼はぜんぜん話さない。",
@@ -2298,17 +2298,17 @@
   {
     "title": "そして、～ (soshite、～)",
     "short_explanation": "Used to connect two sentences; 'and then', 'and'.",
-    "long_explanation": "The そして grammar point is used to connect two sentences or ideas, expressing a sequence of events or actions. It is commonly translated to 'and then' or 'and' in English.",
+    "long_explanation": "The そして grammar point is used to connect two sentences or ideas, expressing a sequence of events or actions. It is commonly translated to 'and then' or simply 'and' in English.",
     "formation": "Sentence 1 + そして + Sentence 2",
     "examples": [
       {
         "jp": "朝起きて、そして宿題をしました。",
         "romaji": "Asa okite, soshite shukudai wo shimashita.",
-        "en": "I woke up in the morning and then I did my homework."
+        "en": "I woke up in the morning and then did my homework."
       },
       {
         "jp": "コーヒーを飲んで、そして新聞を読みました。",
-        "romaji": "Kōhī wo nonde, soshite shinbun wo yomimashita.",
+        "romaji": "Koohii wo nonde, soshite shinbun wo yomimashita.",
         "en": "I drank coffee and then read the newspaper."
       },
       {
@@ -2318,16 +2318,16 @@
       },
       {
         "jp": "彼はゲームをした。そして、テレビを見ました。",
-        "romaji": "Kare wa gēmu wo shita. Soshite, terebi wo mimashita.",
+        "romaji": "Kare wa geemu wo shita. Soshite, terebi wo mimashita.",
         "en": "He played games and then watched TV."
       }
     ]
   },
   {
     "title": "そちら～ (sochira～)",
-    "short_explanation": "Indicates a direction or a person further away from both the speaker and listener; 'that way', 'that person'.",
-    "long_explanation": "The そちら grammar point is used to refer to a direction or a person who is further away from both the speaker and listener. It can be translated as 'that way', 'that person', or 'that side'. Suggests moderate distance or closeness, compared to 'あちら' (achira) which is used when the subject is further away.",
-    "formation": "そちら can be used as standalone or within a sentence.",
+    "short_explanation": "Indicates a direction or person in moderate distance; 'that way', 'that person'.",
+    "long_explanation": "The そちら grammar point is used to refer to a direction or a person that is moderate distance from both the speaker and listener, often closer to the listener. It can be translated as 'that way', 'that person', or 'that side'. This is distinct from あちら, used for things far from both speaker and listener.",
+    "formation": "そちら [alone] / そちら + の + Noun",
     "examples": [
       {
         "jp": "そちらのレストランはどうですか？",
@@ -2337,7 +2337,7 @@
       {
         "jp": "そちらの方、お名前を教えていただけますか？",
         "romaji": "Sochira no kata, onamae o oshiete itadakemasu ka?",
-        "en": "Can you tell me the name of that person over there?"
+        "en": "Could you tell me the name of that person over there?"
       },
       {
         "jp": "そちらに行く途中で駅があります。",
@@ -2359,7 +2359,7 @@
     "examples": [
       {
         "jp": "コーヒーを飲んで、それから家を出ました。",
-        "romaji": "Kōhī o nonde, sorekara ie o demashita.",
+        "romaji": "Koohii o nonde, sorekara ie o demashita.",
         "en": "I drank coffee, and then I left the house."
       },
       {
@@ -2387,17 +2387,17 @@
     "examples": [
       {
         "jp": "だいたい１００人がパーティーに参加しました。",
-        "romaji": "Daitai hyaku nin ga paatii ni sanka shimashita.",
+        "romaji": "Daitai hyaku-nin ga paatii ni sanka shimashita.",
         "en": "Approximately 100 people attended the party."
       },
       {
         "jp": "彼女はだいたい２時間でその仕事を終えます。",
-        "romaji": "Kanojo wa daitai ni jikan de sono shigoto o oemasu.",
+        "romaji": "Kanojo wa daitai ni-jikan de sono shigoto o oemasu.",
         "en": "She finishes that work in roughly two hours."
       },
       {
         "jp": "だいたい８０％の生徒が試験に合格しました。",
-        "romaji": "Daitai hachijuu paasento no seito ga shiken ni goukaku shimashita.",
+        "romaji": "Daitai hachijuu-paasento no seito ga shiken ni goukaku shimashita.",
         "en": "About 80% of the students passed the exam."
       },
       {
@@ -2438,18 +2438,18 @@
   {
     "title": "だから、～ (dakara、～)",
     "short_explanation": "Expresses a reason or cause; 'because', 'so', 'therefore'.",
-    "long_explanation": "The だから grammar point is used to connect two sentences and express a reason or cause for the second sentence. It can be translated as 'because', 'so', or 'therefore' in English. The formation differs depending on whether it is used with a verb, い-adjective, な-adjective, or noun.",
-    "formation": "Verb-casual + だから, い-Adjective + だから, な-Adjective + だから, Noun + だから",
+    "long_explanation": "The だから grammar point is used to connect two sentences and express a reason or cause for the second sentence. It is typically used with nouns or な-adjectives, and can be translated as 'because', 'so', or 'therefore' in English. For verbs/い-adjectives, the form is usually ～から (not だから).",
+    "formation": "Noun + だから / な-Adjective + だから",
     "examples": [
       {
-        "jp": "雨が降っているだから、傘を持って行きましょう。",
-        "romaji": "Ame ga futte iru dakara, kasa wo motte ikimashou.",
-        "en": "Because it is raining, let's bring an umbrella."
+        "jp": "雨だから、傘を持って行きましょう。",
+        "romaji": "Ame dakara, kasa wo motte ikimashou.",
+        "en": "Because it's raining, let's bring an umbrella."
       },
       {
-        "jp": "このケーキは美味しいだから、みんなが食べたいです。",
-        "romaji": "Kono keeki wa oishii dakara, minna ga tabetai desu.",
-        "en": "Because this cake is delicious, everyone wants to eat it."
+        "jp": "このケーキは有名だから、みんなが食べたいです。",
+        "romaji": "Kono keeki wa yuumei dakara, minna ga tabetai desu.",
+        "en": "Because this cake is famous, everyone wants to eat it."
       },
       {
         "jp": "彼は病気だから、学校に行けません。",
@@ -2466,12 +2466,12 @@
   {
     "title": "～たり、～たり します (〜tari, 〜tari shimasu)",
     "short_explanation": "Used to list multiple actions or states; 'do things like', 'and'.",
-    "long_explanation": "The ～たり、～たり します grammar point is used to list multiple actions or states without fully enumerating them. It can imply that there are more items in the list and can be translated as 'do things like', 'and', 'among other things', or 'and so on' in English. It is formed by attaching たり to the verb stem of the casual past tense of the verb, followed by します.",
+    "long_explanation": "The ～たり、～たり します grammar point is used to list multiple actions or states without fully enumerating them. It can imply that there are more items in the list and can be translated as 'do things like', 'and', 'among other things', or 'and so on' in English. It is formed by attaching たり to the casual past tense of the verb, followed by します.",
     "formation": "Verb-casual-past + たり + Verb-casual-past + たり + します",
     "examples": [
       {
         "jp": "休日には、映画を見たり、友達と遊んだりします。",
-        "romaji": "Kyuujitsu niwa, eiga wo mitari, tomodachi to asondari shimasu.",
+        "romaji": "Kyuujitsu ni wa, eiga wo mitari, tomodachi to asondari shimasu.",
         "en": "On holidays, I do things like watch movies and hang out with friends."
       },
       {
@@ -2494,7 +2494,7 @@
   {
     "title": "だれ～ (dare～)",
     "short_explanation": "Asking 'who' in a sentence, used to inquire about someone's identity or to clarify who is being referred to.",
-    "long_explanation": "The だれ〜 grammar point is used to ask about the identity of someone in a sentence. It can be translated as 'who' or 'whom' in English. It is often used with the particle が, は or を, but can also be combined with other particles depending on the context.",
+    "long_explanation": "The だれ〜 grammar point is used to ask about the identity of someone in a sentence. It can be translated as 'who' or 'whom' in English. It is often used with the particle が, は, or を, but can also be combined with other particles depending on the context.",
     "formation": "だれ + appropriate particle (が, は or を)",
     "examples": [
       {
@@ -2607,7 +2607,7 @@
     "title": "だれも～ません (daremo ~masen)",
     "short_explanation": "Express 'nobody' or 'no one' in negative sentences.",
     "long_explanation": "The grammar point だれも is used in combination with a negative form of the verb, usually ません, to express the idea of 'nobody' or 'no one' doing something. It is used with questions or statements and can be translated as 'nobody' or 'no one' in English.",
-    "formation": "だれも + Verb-negative",
+    "formation": "だれも + Verb-negative (ません)",
     "examples": [
       {
         "jp": "だれも秘密を知りません。",
@@ -2616,7 +2616,7 @@
       },
       {
         "jp": "だれもその質問に答えませんでした。",
-        "romaji": "Daremo sono shitsumon ni kotae masen deshita.",
+        "romaji": "Daremo sono shitsumon ni kotaemasen deshita.",
         "en": "Nobody answered that question."
       },
       {
@@ -2626,7 +2626,7 @@
       },
       {
         "jp": "だれもその映画を見たがりません。",
-        "romaji": "Daremo sono eiga wo mitagari masen.",
+        "romaji": "Daremo sono eiga wo mitagarimasen.",
         "en": "No one wants to watch that movie."
       }
     ]
@@ -2662,8 +2662,8 @@
   {
     "title": "～どうですか。 (〜dou desu ka.)",
     "short_explanation": "Asking for opinions or suggestions; 'how about', 'what do you think of'.",
-    "long_explanation": "The ～どうですか grammar point is used to ask for someone's opinion or suggestion on something. It can be translated as 'how about' or 'what do you think of' in English. This expression is neither casual nor formal and can be used in various situations.",
-    "formation": "Noun + は/が + どうですか, Verb-casual + の + どうですか, い-Adjective + どうですか, な-Adjective + な + どうですか",
+    "long_explanation": "The ～どうですか grammar point is used to ask for someone's opinion or suggestion on something. It can be translated as 'how about' or 'what do you think of' in English. This expression is neither casual nor super-formal, and can be used in various situations.",
+    "formation": "Noun + は/が + どうですか / Verb-casual + の + どうですか / い-Adjective + どうですか / な-Adjective + な + どうですか",
     "examples": [
       {
         "jp": "この映画はどうですか？",
@@ -2719,7 +2719,7 @@
     "title": "～どう 言いますか。 (〜dou iimasu ka.)",
     "short_explanation": "Asking for the way to say something; 'how do you say'.",
     "long_explanation": "The ～どう言いますか grammar point is used to ask someone how to express something in a particular language or the appropriate way to say it. It can be translated as 'how do you say' in English.",
-    "formation": "Word/Phrase + は [language]でどう言いますか、 Word/Phrase + をどう言いますか",
+    "formation": "Word/Phrase + は [language]でどう言いますか / Word/Phrase + をどう言いますか",
     "examples": [
       {
         "jp": "「ありがとう」は英語でどう言いますか。",
@@ -2747,7 +2747,7 @@
     "title": "～とき (〜toki)",
     "short_explanation": "Expresses the time when something happens, 'when', 'at the time'.",
     "long_explanation": "The ～とき grammar point is used to express the time when something happens or happened. It can be translated as 'when' or 'at the time' in English. The formation differs depending on whether it is used with a verb, い-adjective, な-adjective, or noun.",
-    "formation": "Verb-casual + とき, い-Adjective + とき, な-Adjective + なとき, Noun + のとき",
+    "formation": "Verb-casual + とき / い-Adjective + とき / な-Adjective + なとき / Noun + のとき",
     "examples": [
       {
         "jp": "公園で遊ぶとき、帽子をかぶりましょう。",
@@ -2760,8 +2760,8 @@
         "en": "This apple is ready to eat when it is red."
       },
       {
-        "jp": "私が勉強するなとき、家族は静かにしてくれます。",
-        "romaji": "Watashi ga benkyou suru na toki, kazoku wa shizuka ni shite kuremasu.",
+        "jp": "私が勉強するとき、家族は静かにしてくれます。",
+        "romaji": "Watashi ga benkyou suru toki, kazoku wa shizuka ni shite kuremasu.",
         "en": "When I am studying, my family keeps quiet for me."
       },
       {
@@ -2947,7 +2947,7 @@
     "examples": [
       {
         "jp": "今週末どこへも行かないです。",
-        "romaji": "Konshuu matsu doko e mo ikanai desu.",
+        "romaji": "Konshuumatsu doko e mo ikanai desu.",
         "en": "I'm not going anywhere this weekend."
       },
       {
@@ -2958,12 +2958,12 @@
       {
         "jp": "スーパーはどこへも売らないです。",
         "romaji": "Suupaa wa doko e mo uranai desu.",
-        "en": "It is not sold at any supermarket."
+        "en": "It's not sold at any supermarket."
       },
       {
-        "jp": "私はどこへも友達がいないです。",
-        "romaji": "Watashi wa doko e mo tomodachi ga inai desu.",
-        "en": "I have no friends anywhere."
+        "jp": "私はどこへも行く予定がないです。",
+        "romaji": "Watashi wa doko e mo iku yotei ga nai desu.",
+        "en": "I have no plans to go anywhere."
       }
     ]
   },
@@ -3003,22 +3003,22 @@
     "examples": [
       {
         "jp": "どこもうちわがないです。",
-        "romaji": "Dokomo uchiwa ga naidesu.",
+        "romaji": "Doko mo uchiwa ga nai desu.",
         "en": "I can't find fans anywhere."
       },
       {
         "jp": "この町ではどこも美味しいラーメンがないです。",
-        "romaji": "Kono machi de wa dokomo oishii raamen ga naidesu.",
+        "romaji": "Kono machi de wa doko mo oishii raamen ga nai desu.",
         "en": "There are no delicious ramen shops anywhere in this town."
       },
       {
         "jp": "どこも駐車場がないです。",
-        "romaji": "Dokomo chuushajou ga naidesu.",
+        "romaji": "Doko mo chuushajou ga nai desu.",
         "en": "There is no parking anywhere."
       },
       {
         "jp": "どこも席がないです。",
-        "romaji": "Dokomo seki ga naidesu.",
+        "romaji": "Doko mo seki ga nai desu.",
         "en": "There are no seats available anywhere."
       }
     ]
@@ -3026,7 +3026,7 @@
   {
     "title": "どこも Verb ません (dokomo + Verb + masen)",
     "short_explanation": "Express that 'nowhere' meets the verb action; 'nowhere does/can'.",
-    "long_explanation": "The どこも + Verb ません grammar point is used to express that nowhere does or can fulfill the verb action. It is a negative statement and can be translated as 'nowhere (+ verb)' in English.",
+    "long_explanation": "The どこも + Verb ません grammar point is used to express that nowhere does or can fulfill the verb action. It is a negative statement and can be translated as 'nowhere (+ verb)' in English. Note that the first example below uses an adjective rather than a verb, which still conveys 'nowhere is ...'.",
     "formation": "どこも + Verb-ます form + ません",
     "examples": [
       {
@@ -3036,7 +3036,7 @@
       },
       {
         "jp": "どこもその本を売っていません。",
-        "romaji": "Doko mo sono hon wo utteimasen.",
+        "romaji": "Doko mo sono hon wo utte imasen.",
         "en": "Nowhere sells that book."
       },
       {
@@ -3047,14 +3047,14 @@
       {
         "jp": "どこも彼を知りません。",
         "romaji": "Doko mo kare wo shirimasen.",
-        "en": "Nowhere knows him."
+        "en": "No place knows him."
       }
     ]
   },
   {
     "title": "どちら～ (dochira～)",
     "short_explanation": "Used to ask about two choices or options.",
-    "long_explanation": "The どちら grammar point is used to ask about two choices or options. It translates to 'which of the two' or just simply 'which' in English. It is commonly used with question words like どちらが or どちらを and can be combined with verbs, adjectives, and nouns to ask about preferences or to make comparisons.",
+    "long_explanation": "The どちら grammar point is used to ask about two choices or options. It translates to 'which of the two' or simply 'which' in English. It is commonly used with question words like どちらが or どちらを and can be combined with verbs, adjectives, and nouns to ask about preferences or to make comparisons.",
     "formation": "どちら + が/を + verb, どちら + が/を + adjective, どちら + が/を + noun",
     "examples": [
       {
@@ -3064,7 +3064,7 @@
       },
       {
         "jp": "どちらのドレスを着たいですか？",
-        "romaji": "Dochira no doresu wo kitaidesuka?",
+        "romaji": "Dochira no doresu wo kitai desu ka?",
         "en": "Which dress would you like to wear?"
       },
       {
@@ -3115,22 +3115,22 @@
     "examples": [
       {
         "jp": "どの本が一番面白いですか。",
-        "romaji": "Dono hon ga ichiban omoshiroi desu ka.",
+        "romaji": "Dono hon ga ichiban omoshiroi desu ka?",
         "en": "Which book is the most interesting?"
       },
       {
         "jp": "どの服を着たいですか。",
-        "romaji": "Dono fuku wo kitaidesu ka.",
+        "romaji": "Dono fuku wo kitai desu ka?",
         "en": "Which clothes do you want to wear?"
       },
       {
         "jp": "どの色が好きですか。",
-        "romaji": "Dono iro ga suki desu ka.",
+        "romaji": "Dono iro ga suki desu ka?",
         "en": "Which color do you like?"
       },
       {
         "jp": "どのレストランに行きたいですか。",
-        "romaji": "Dono resutoran ni ikitai desu ka.",
+        "romaji": "Dono resutoran ni ikitai desu ka?",
         "en": "Which restaurant do you want to go to?"
       }
     ]
@@ -3307,7 +3307,7 @@
     "title": "なん～ (nan~)",
     "short_explanation": "Used to form interrogative questions and emphasize the question word for 'what', 'how'.",
     "long_explanation": "The なん～ grammar point is used to form interrogative questions and emphasize the question word for 'what' or 'how'. It is an abbreviation of '何' meaning 'what'. Its usage can vary depending on whether it is used with a counter, verb, or adjective.",
-    "formation": "なん + Counter, なん + Verb, なん + Adjective",
+    "formation": "なん + Counter / なん + Verb / なん + Adjective",
     "examples": [
       {
         "jp": "あなたはなん歳ですか？",
@@ -3363,7 +3363,7 @@
     "title": "なんでも～ (nandemo～)",
     "short_explanation": "Means 'any', 'anything', 'anyone'.",
     "long_explanation": "The なんでも grammar point is used to express the concept of 'any', 'anything', or 'anyone' in Japanese. It can be used with verbs, adjectives, and nouns. It is often used in the meaning of 'no matter what' or 'regardless of'.",
-    "formation": "なんでも + Verb, なんでも + Adjective, なんでも + Noun",
+    "formation": "なんでも + Verb / なんでも + Adjective / なんでも + Noun",
     "examples": [
       {
         "jp": "なんでも食べられるから、何を頼んでも大丈夫です。",
@@ -3419,7 +3419,7 @@
     "title": "～に あげます (〜 ni agemasu)",
     "short_explanation": "Used to express giving something to someone; 'give', 'offer'.",
     "long_explanation": "The ～に あげます grammar point is used when the speaker offers or gives something to someone. It emphasizes that the action is performed for the benefit of the receiver. The formation involves using the particle 'に' after the person receiving the item, followed by the verb あげます.",
-    "formation": "Receiver + に, Object + を, Verb-ます-form (あげます)",
+    "formation": "Receiver + に + Object + を + あげます",
     "examples": [
       {
         "jp": "私は友達に本をあげました。",
@@ -3447,7 +3447,7 @@
     "title": "～に もらいます (〜ni moraimasu)",
     "short_explanation": "To receive something or some action from someone; 'to get', 'to receive'.",
     "long_explanation": "The ～に もらいます grammar point is used to express receiving something or some action from someone. It can be translated as 'to get' or 'to receive' in English. The formation involves placing に after the giver and もらいます to show the act of receiving.",
-    "formation": "Giver + に + Verb-te form + もらいます",
+    "formation": "Giver + に + Verb-te form + もらいます / Giver + に + Object + を + もらいます",
     "examples": [
       {
         "jp": "友達にプレゼントをもらいました。",
@@ -3473,9 +3473,9 @@
   },
   {
     "title": "～の (〜no)",
-    "short_explanation": "Express possession, apposition, or description using 'of' or 'or'.",
-    "long_explanation": "The ～の grammar point is used to express possession, apposition, or description. It functions like 'of' or an apostrophe + 's' ('s) in English. It can be used with nouns, adjectives, and verbs to show relationships between words.",
-    "formation": "Noun1 + の + Noun2, い-Adjective + の + Noun, な-Adjective + の + Noun",
+    "short_explanation": "Express possession, apposition, or description using 'of' or ''s'.",
+    "long_explanation": "The ～の grammar point is used to express possession, apposition, or description. It functions like 'of' or an apostrophe + 's' (’s) in English. It can be used with nouns, adjectives, and verbs to show relationships between words.",
+    "formation": "Noun1 + の + Noun2, (Adjective/Clause) + の (nominalized), etc.",
     "examples": [
       {
         "jp": "これは私の鞄です。",
@@ -3483,13 +3483,13 @@
         "en": "This is my bag."
       },
       {
-        "jp": "彼女は赤いのバッグを持っています。",
-        "romaji": "Kanojo wa akai no baggu o motte imasu.",
+        "jp": "彼女は赤いバッグを持っています。",
+        "romaji": "Kanojo wa akai baggu o motte imasu.",
         "en": "She has a red bag."
       },
       {
-        "jp": "彼はきれいなの部屋があります。",
-        "romaji": "Kare wa kirei na no heya ga arimasu.",
+        "jp": "彼はきれいな部屋があります。",
+        "romaji": "Kare wa kirei na heya ga arimasu.",
         "en": "He has a clean room."
       },
       {
@@ -3530,8 +3530,8 @@
   {
     "title": "ほとんど〜 (hotondo〜)",
     "short_explanation": "Used to express 'almost', 'nearly', or 'most'.",
-    "long_explanation": "The ほとんど〜 grammar point is used to express that something is 'almost', 'nearly', or 'most'. It is typically used with negative phrases, and it can be either followed by a verb or used with a noun to describe the quantity or extent of something.",
-    "formation": "ほとんど + Verb, ほとんど + Noun",
+    "long_explanation": "The ほとんど〜 grammar point is used to express that something is 'almost', 'nearly', or 'most'. It can appear in both negative contexts (hardly/barely) or positive contexts (almost all). It is typically followed by a verb or used with a noun to describe the quantity or extent of something.",
+    "formation": "ほとんど + Verb / ほとんど + Noun",
     "examples": [
       {
         "jp": "彼女はほとんど英語を話せません。",
@@ -3558,8 +3558,8 @@
   {
     "title": "まあまあ～ (maa maa～)",
     "short_explanation": "Expresses something as 'so-so', 'not bad', or 'average'.",
-    "long_explanation": "The expression まあまあ is used to describe something that is not particularly good or bad, but rather average or 'so-so'. It is a neutral term and can be used in various contexts when discussing quality, feelings, or situations.",
-    "formation": "Used as an adverb with no need for additional grammar structures.",
+    "long_explanation": "The expression まあまあ is used to describe something that is neither particularly good nor bad, but rather average or 'so-so'. It is a neutral term and can be used in various contexts when discussing quality, feelings, or situations.",
+    "formation": "Used as an adverb or short expression with no special grammar structure.",
     "examples": [
       {
         "jp": "彼の料理の腕前はまあまあです。",
@@ -3586,8 +3586,8 @@
   {
     "title": "まだ〜 (mada〜)",
     "short_explanation": "Indicates something has not yet happened or is still happening; 'still', 'not yet'.",
-    "long_explanation": "The まだ〜 grammar point is used to express that something has not yet occurred or is still in progress. It can be translated as 'still' or 'not yet' in English. Depending on the context or if expressing the negative, 'まだ' can be used with different combinations of verb, adjective or noun.",
-    "formation": "まだ + Verb (in non-past, negative non-past or te-form), まだ + い-adjective, まだ + な-adjective + じゃない/ではない, まだ + Noun + じゃない/ではない",
+    "long_explanation": "The まだ〜 grammar point is used to express that something has not yet occurred or is still in progress. It can be translated as 'still' or 'not yet' in English. Depending on the context or if expressing the negative, まだ can be used with different combinations of verb, adjective, or noun.",
+    "formation": "まだ + Verb (non-past / negative / te-form), まだ + い-adjective, まだ + な-adjective + じゃない/ではない, まだ + Noun + じゃない/ではない",
     "examples": [
       {
         "jp": "昼ご飯はまだ食べていません。",
@@ -3614,18 +3614,18 @@
   {
     "title": "まだ〜ないです (mada 〜 nai desu)",
     "short_explanation": "Expresses that something has not happened or been done yet.",
-    "long_explanation": "The まだ〜ないです grammar point is used to indicate that a certain action or event has not yet happened or been completed. It is used with the negative form of a verb and can be translated as 'not yet', 'still', or 'haven't' in English.",
+    "long_explanation": "The まだ〜ないです grammar point is used to indicate that a certain action or event has not yet happened or been completed. It is used with the negative form of a verb (casual negative + です) and can be translated as 'not yet', 'still', or 'haven't' in English.",
     "formation": "まだ + Verb-negative + です",
     "examples": [
       {
         "jp": "まだ宿題をしていないです。",
-        "romaji": "Mada shukudai wo shite inai desu.",
+        "romaji": "Mada shukudai o shite inai desu.",
         "en": "I haven't done my homework yet."
       },
       {
         "jp": "彼はまだ来ないです。",
         "romaji": "Kare wa mada konai desu.",
-        "en": "He still hasn't come yet."
+        "en": "He hasn't come yet."
       },
       {
         "jp": "映画はまだ始まっていないです。",
@@ -3633,26 +3633,26 @@
         "en": "The movie hasn't started yet."
       },
       {
-        "jp": "私たちはまだ夕食を食べないです。",
-        "romaji": "Watashitachi wa mada yuushoku wo tabenai desu.",
+        "jp": "私たちはまだ夕食を食べていないです。",
+        "romaji": "Watashitachi wa mada yuushoku o tabete inai desu.",
         "en": "We haven't eaten dinner yet."
       }
     ]
   },
   {
     "title": "まだ～ません (mada ~masen)",
-    "short_explanation": "Expresses that something has not happened or been done yet.",
-    "long_explanation": "The まだ～ません grammar point is used to express that something has not happened or been done yet. It is used with the negative form of a verb, which is in the ません form, and まだ is placed before the verb.",
+    "short_explanation": "Expresses that something has not happened or been done yet (polite form).",
+    "long_explanation": "The まだ～ません grammar point is used to express that something has not happened or been done yet in a polite register. It is used with the negative ます-form of a verb (～ません). まだ is placed before the verb phrase.",
     "formation": "まだ + Verb-ます form (negative)",
     "examples": [
       {
         "jp": "昼ご飯をまだ食べていません。",
-        "romaji": "Hirugohan wo mada tabeteimasen.",
+        "romaji": "Hirugohan o mada tabete imasen.",
         "en": "I have not eaten lunch yet."
       },
       {
         "jp": "宿題がまだ終わっていません。",
-        "romaji": "Shukudai ga mada owatteimasen.",
+        "romaji": "Shukudai ga mada owatte imasen.",
         "en": "I have not finished my homework yet."
       },
       {
@@ -3662,16 +3662,16 @@
       },
       {
         "jp": "彼はまだ来ていません。",
-        "romaji": "Kare wa mada kiteimasen.",
-        "en": "He has not come yet."
+        "romaji": "Kare wa mada kite imasen.",
+        "en": "He hasn't come yet."
       }
     ]
   },
   {
     "title": "もう～ (mou～)",
     "short_explanation": "Expresses 'already', 'anymore', or 'soon'.",
-    "long_explanation": "The もう grammar point is used to express the ideas of 'already', 'anymore', or 'soon' in English. It indicates that something has already happened, won't happen anymore, or will happen soon. It can be used with verbs, adjectives, and nouns.",
-    "formation": "もう + Verb, もう + Adjective, もう + Noun",
+    "long_explanation": "The もう grammar point is used to express the idea of 'already', 'anymore', or 'soon' in English. It indicates that something has already happened, won't happen anymore, or will happen soon. It can be used with verbs, adjectives, or nouns depending on context.",
+    "formation": "もう + Verb / もう + Adjective / もう + Noun",
     "examples": [
       {
         "jp": "もう昼ごはんを食べました。",
@@ -3685,7 +3685,7 @@
       },
       {
         "jp": "もうすぐ夏休みですね。",
-        "romaji": "Mou sugu natsu yasumi desu ne.",
+        "romaji": "Mou sugu natsuyasumi desu ne.",
         "en": "Summer vacation is coming soon, isn't it?"
       },
       {
@@ -3697,8 +3697,8 @@
   },
   {
     "title": "もうすぐ〜 (mou sugu~)",
-    "short_explanation": "Express an action or event happening soon; 'soon', 'in a short while', 'almost'.",
-    "long_explanation": "The もうすぐ grammar point is used to express that an action or event is going to happen soon, shortly or is almost happening. It can be translated as 'soon', 'in a short while', or 'almost' in English. もうすぐ is usually followed by a verb.",
+    "short_explanation": "Express an action or event happening soon: 'soon', 'in a short while', 'almost'.",
+    "long_explanation": "The もうすぐ grammar point is used to express that an action or event is going to happen soon or is almost happening. It can be translated as 'soon', 'in a short while', or 'almost' in English. もうすぐ is usually followed by a verb or a noun indicating an event.",
     "formation": "もうすぐ + Verb (~ます form or 〜る form)",
     "examples": [
       {
@@ -3726,7 +3726,7 @@
   {
     "title": "もっと〜 (motto〜)",
     "short_explanation": "Expresses 'more' or 'even more' when describing a quantity, frequency, or degree.",
-    "long_explanation": "The もっと〜 grammar point is used to emphasize the desire for something to be 'more' or 'even more' in terms of quantity, frequency, or degree. It is often translated as 'more' or 'even more' in English. もっと can be used with verbs, い-adjectives, and な-adjectives to show a higher degree or extent of something.",
+    "long_explanation": "The もっと〜 grammar point is used to emphasize the desire or need for something to be 'more' or 'even more' in terms of quantity, frequency, or degree. It is often translated as 'more' or 'even more' in English. もっと can be used with verbs, い-adjectives, or な-adjectives.",
     "formation": "もっと + Verb / い-Adjective / な-Adjective",
     "examples": [
       {
@@ -3736,7 +3736,7 @@
       },
       {
         "jp": "このかばんをもっと大きいサイズに変えたいです。",
-        "romaji": "Kono kaban wo motto ookii saizu ni kaetai desu.",
+        "romaji": "Kono kaban o motto ookii saizu ni kaetai desu.",
         "en": "I want to change this bag to a larger size."
       },
       {
@@ -3746,15 +3746,15 @@
       },
       {
         "jp": "彼女はもっと上手になりたいと思っています。",
-        "romaji": "Kanojo wa motto jouzu ni naritai to omotteimasu.",
+        "romaji": "Kanojo wa motto jouzu ni naritai to omotte imasu.",
         "en": "She wants to become even better."
       }
     ]
   },
   {
     "title": "よく～ (yoku ~)",
-    "short_explanation": "Often used to express 'doing something well' or 'often'",
-    "long_explanation": "The よく～ grammar point is used to express that someone does something well, frequently, or often. It is often used with verbs to form adverbs and can also mean 'well done' or 'good job' when talking about an action. Here, よく is attached at the beginning of the sentence, followed by a verb or action.",
+    "short_explanation": "Often used to express 'doing something well' or 'often'.",
+    "long_explanation": "The よく～ grammar point is used to express that someone does something well, frequently, or often. It is often placed before the verb and can also mean 'well done' or 'good job' when praising someone's action.",
     "formation": "よく + Verb-casual",
     "examples": [
       {
@@ -3782,7 +3782,7 @@
   {
     "title": "～（場所）に～があります (〜basho ni 〜 ga arimasu)",
     "short_explanation": "Express the existence or presence of something in a place.",
-    "long_explanation": "The ～（場所）に～があります grammar point is used to express the existence or presence of something in a specific location. In this structure, the location or place comes first, followed by 'に', and then the object or thing that is present or exists, and finally, the verb 'あります' (to exist/be).",
+    "long_explanation": "The ～（場所）に～があります grammar point is used to express the existence or presence of something in a specific location. In this structure, the place is followed by 'に', then the object, plus が, and finally あります (to exist / there is).",
     "formation": "Place + に + Object/Thing + が + あります",
     "examples": [
       {
