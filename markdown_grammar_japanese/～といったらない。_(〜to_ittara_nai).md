@@ -107,3 +107,8 @@ The grammar point **～といったらない** is used to express an extreme deg
 3. It expresses that something is so extreme or indescribable that it cannot be put into words.
 ---
 By understanding and practicing **～といったらない**, you can enrich your Japanese expression, especially when conveying strong emotions that feel beyond description.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

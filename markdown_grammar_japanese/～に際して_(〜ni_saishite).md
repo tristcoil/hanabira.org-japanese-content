@@ -116,3 +116,8 @@ The grammar point **～に際して (〜ni saishite)** is a formal expression in
   *Ryokō ni saishite, yūjin to asobi ni ikimashita.*
 ---
 Feel free to revisit this lesson to reinforce your understanding of **～に際して**. Using this grammar point appropriately will enhance your formal Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

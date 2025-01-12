@@ -119,3 +119,8 @@ Both **くらい** and **ほど** express degree or extent, but with subtle diff
    > *Matsu **kurai** nara renraku shite kudasai.*
 ---
 By mastering **Noun くらい～**, you'll enhance your ability to describe quantities and express degrees, making your Japanese more natural and accurate. Keep practicing by incorporating this grammar point into your daily conversations!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

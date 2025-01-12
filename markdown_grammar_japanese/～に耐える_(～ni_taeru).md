@@ -80,3 +80,8 @@ In Japanese culture, endurance and perseverance (我慢 **gaman**) are highly va
    - **Answer**: The value placed on endurance and perseverance (我慢).
 ---
 Feel free to review this lesson and practice using ～に耐える in your own sentences to solidify your understanding!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -118,3 +118,8 @@ In Japanese culture, perseverance and endurance are highly valued traits. Using 
 
 ---
 By understanding and practicing **~ことなく**, you can enhance your Japanese writing and comprehension, especially in formal contexts. Remember to pay attention to the formality level and choose the appropriate expression based on the situation.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

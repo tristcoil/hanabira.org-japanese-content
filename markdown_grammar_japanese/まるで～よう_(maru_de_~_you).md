@@ -105,3 +105,8 @@ In this lesson, we'll explore the Japanese grammar point **まるで〜よう (m
 ---
 **End of Lesson**
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

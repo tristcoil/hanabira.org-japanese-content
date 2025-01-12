@@ -76,3 +76,8 @@ The formation of ～とく involves two main steps:
    - *Answer:* Because it is a casual contraction and may be considered inappropriate in formal contexts.
 ---
 By understanding and practicing ～とく, you'll enhance your conversational Japanese and better understand casual speech patterns.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

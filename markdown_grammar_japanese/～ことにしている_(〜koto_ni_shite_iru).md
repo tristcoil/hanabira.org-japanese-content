@@ -87,3 +87,8 @@ It's important to distinguish **〜ことにしている** from similar expressi
 ---
 By mastering **〜ことにしている**, you can effectively communicate your personal habits and decisions in Japanese, enhancing both your language skills and cultural understanding.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

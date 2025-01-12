@@ -101,3 +101,8 @@ flowchart LR
 3. **田中さんは今日休むとのことだ。**
 ---
 By understanding and appropriately using **～とのことだ**, you can effectively communicate reported information in a manner that is both polite and culturally appropriate in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

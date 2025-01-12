@@ -98,3 +98,8 @@ In Japanese culture, there's often an emphasis on balance and moderation. Recogn
    - **Answer**: False (It should be in the dictionary form.)
 ---
 By understanding and practicing **Verbるときりがない**, you can more naturally express the concept of endlessness in Japanese conversations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

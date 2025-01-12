@@ -98,3 +98,8 @@ In Japanese society, being considerate and offering choices is a sign of politen
    **Answer:** False
 ---
 Feel free to review this lesson and practice using **どれでも** in your daily conversations to become more comfortable with this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -95,3 +95,8 @@ In Japanese culture, modesty and understatement are valued. Using **「そんな
    - **Possible Answers:** 高く, 難しく, 美味しく
 ---
 By mastering **「そんなに」**, you enhance your ability to express subtle nuances in Japanese, making your conversations more natural and engaging.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

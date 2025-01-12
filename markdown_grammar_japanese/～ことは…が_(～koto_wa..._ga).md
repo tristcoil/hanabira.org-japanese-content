@@ -90,3 +90,8 @@ In Japanese communication, it's common to soften statements or avoid direct nega
    - 便利なことは便利だが、デザインが好きではない。
 ---
 By understanding and practicing this grammar pattern, you'll be able to express nuanced thoughts, acknowledging facts while politely introducing contrasts or reservations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

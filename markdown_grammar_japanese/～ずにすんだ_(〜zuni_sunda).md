@@ -144,3 +144,8 @@ Fortunately, I was able to avoid taking the exam.
    宿題をせずにすんだ。
 ---
 By understanding and practicing **～ずにすんだ**, you'll be able to express relief and discuss outcomes where something undesirable was avoided, all while enhancing the formality and nuance in your Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

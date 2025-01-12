@@ -137,3 +137,8 @@ Both **～ばよかった** and **～たらよかった** are used to express re
    - **Answer**: それを食べなければよかった。
 ---
 By understanding and practicing this grammar pattern, you'll be able to express regrets and reflect on past actions naturally in Japanese. Remember, making mistakes is part of learning—use them as opportunities to improve!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

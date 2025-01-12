@@ -74,3 +74,8 @@ Understanding **～がゆえの** allows deeper insight into formal texts, histo
    - **Answer**: 文化の違い**がゆえの**問題
 ---
 Feel free to revisit this lesson to reinforce your understanding of **～がゆえの** and try creating your own sentences using this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

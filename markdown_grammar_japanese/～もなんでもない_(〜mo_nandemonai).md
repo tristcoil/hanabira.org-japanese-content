@@ -104,3 +104,8 @@ This expression is used to downplay the significance of what follows, often intr
      - *Kono ryouri wa karaku **mo** nandemonai.*
 ---
 By mastering **～もなんでもない**, you can effectively convey strong negation in Japanese, enhancing your expressive ability in both spoken and written communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

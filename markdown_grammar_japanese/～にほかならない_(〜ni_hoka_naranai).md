@@ -111,3 +111,8 @@ Noun + にほかならない
 ---
 By understanding and correctly using **～にほかならない**, you can add emphasis and assertiveness to your formal Japanese statements. Remember to use it appropriately to convey strong conviction in your expressions.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -95,3 +95,8 @@ In Japanese communication, it's common to acknowledge what's generally accepted 
 2. **False**: Adjectives need to be nominalized to use with **～はもとより**.
 3. **英語** (*English*)
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

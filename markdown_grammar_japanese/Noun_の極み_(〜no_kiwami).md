@@ -99,3 +99,8 @@ The structure is straightforward:
    - *Answer*: **光栄** (Kōei) - "光栄の極みです。"
 ---
 Feel free to create your own sentences using **Noun の極み** to express extreme feelings or qualities formally. Practicing in context will help solidify your understanding!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

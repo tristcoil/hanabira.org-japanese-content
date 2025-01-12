@@ -124,3 +124,8 @@ Let's compare **いつも** with other frequency adverbs to understand the nuanc
    - **Answer:** *どおり* (*itsumo dōri*)
 ---
 By mastering **いつも**, you can express habits and routines confidently in Japanese. Keep practicing by incorporating it into your daily conversations!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

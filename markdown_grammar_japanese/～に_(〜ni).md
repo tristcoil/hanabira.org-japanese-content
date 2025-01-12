@@ -217,3 +217,8 @@ Noun (Agent) + に + Passive Verb
 5. 日本語を勉強し**に**来ました。 *(Purpose)*
 ---
 By mastering the uses of **に**, you'll significantly enhance your Japanese language skills. Keep practicing, and don't hesitate to refer back to this guide whenever you need a refresher!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

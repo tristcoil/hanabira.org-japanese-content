@@ -158,3 +158,8 @@ Both **～ずに** and **～ないで** mean "**without doing [something]**", bu
      - *Using せずに instead of しないずに for the verb する.*
 ---
 By mastering **～ずに**, you'll be able to express complex ideas about actions not taken during other activities, enhancing both your spoken and written Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

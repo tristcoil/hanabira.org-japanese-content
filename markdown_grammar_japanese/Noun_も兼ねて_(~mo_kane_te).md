@@ -94,3 +94,8 @@ While **「Noun も兼ねて」** is a straightforward construction, it can be p
 Now, try creating your own sentences using **「Noun も兼ねて」** to solidify your understanding!
 # Conclusion
 Understanding and using **「Noun も兼ねて」** allows you to express multiple purposes in your actions, making your communication more nuanced and efficient. By incorporating this grammar point into your Japanese, you can convey intentions that align with the cultural appreciation for thoughtful multitasking.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

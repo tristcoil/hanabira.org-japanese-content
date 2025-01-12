@@ -106,3 +106,8 @@ In this lesson, we'll explore the Japanese grammar point **～を～として (�
    **Answer:** a) この歌を思い出として残したい。
 ---
 Congratulations! You've learned how to use **～を～として** to express roles and functions in Japanese. Keep practicing by creating your own sentences, and soon this grammar point will become a natural part of your Japanese expressions.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

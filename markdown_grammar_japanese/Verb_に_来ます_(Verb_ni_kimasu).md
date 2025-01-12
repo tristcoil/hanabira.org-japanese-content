@@ -101,3 +101,8 @@ The structure combines the **masu-stem** of a verb with **に来ます**:
    - **Answer**: **False**
 ---
 By understanding and applying **Verb に 来ます**, you can effectively communicate your purposes and actions related to coming to a place. Practice forming sentences with different verbs to become more comfortable with this grammar point.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

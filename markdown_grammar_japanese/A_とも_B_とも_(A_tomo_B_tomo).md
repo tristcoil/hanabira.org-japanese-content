@@ -104,3 +104,8 @@ In Japanese communication, expressing uncertainty or avoiding direct statements 
    - **Answer**: b) 分からない
 ---
 Feel free to revisit the examples and explanations to reinforce your understanding of **AともBとも**. Practice by creating your own sentences using this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

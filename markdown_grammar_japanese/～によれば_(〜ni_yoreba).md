@@ -94,3 +94,8 @@ Both **～によれば** and **～によると** mean **"according to ~"** and a
 3. **～によれば** is **more formal** than **～によると**.
 ---
 Feel free to practice using **～によれば** by creating sentences about recent news or information you've heard!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

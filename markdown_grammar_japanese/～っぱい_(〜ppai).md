@@ -86,3 +86,8 @@ The formation of **～っぽい** depends on the word it attaches to:
 3. Example answer: 彼は忘れっぽいから、注意が必要だ。("He tends to forget things, so caution is necessary.")
 ---
 Now that you've learned about **～っぽい**, try incorporating it into your daily conversations to describe tendencies and impressions!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -124,3 +124,8 @@ These expressions are often used in social contexts, such as inviting someone ou
 
 ---
 By mastering the **Verb に 行きます** structure, you'll enhance your ability to discuss plans and intentions in Japanese, making your conversations more natural and precise.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -106,3 +106,8 @@ The grammar expression **～につれて (〜ni tsurete)** is used in Japanese t
    - **Answer**: a) 話すにつれて、日本語が上手になる。
 ---
 **Congratulations!** You've learned how to use **～につれて** to express correlated changes in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

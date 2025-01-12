@@ -100,3 +100,8 @@ Noun + を通じて / を通して
    - *Answer:* False
 ---
 By understanding and practicing **～を通じて**, you can express the means or medium through which actions occur more naturally in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

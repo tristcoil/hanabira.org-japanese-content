@@ -122,3 +122,8 @@ In Japanese culture, efficiency and mindfulness are valued traits. Using **Noun 
    *Answer*: False (The two nouns should have a logical connection in the context of the action.)
 ---
 By understanding and practicing **Noun と Noun を兼ねて**, you can express multitasking and combining purposes naturally in Japanese, enhancing both your language skills and cultural comprehension.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

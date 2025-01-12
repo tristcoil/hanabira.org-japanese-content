@@ -89,3 +89,8 @@ In Japanese culture, harmony and avoiding direct confrontation are valued. Howev
 1. b) To indicate that both subjects have similar negative traits.
 2. c) No, it's considered too informal and possibly rude.
 3. 生徒 (seito)
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -88,3 +88,8 @@ The basic structure is:
    - **Answer**: **間もなく** is more formal.
 ---
 Feel free to create your own sentences using **もうすぐ** to describe events you expect to happen soon!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

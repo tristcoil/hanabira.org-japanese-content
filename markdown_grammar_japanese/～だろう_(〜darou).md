@@ -94,3 +94,8 @@ Both **～だろう** and **～でしょう** express conjecture, but they diffe
 1. **明日は雪が降る**だろう**。**
 2. **～でしょう** is more polite.
 3. No, you should use **～でしょう** in formal situations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

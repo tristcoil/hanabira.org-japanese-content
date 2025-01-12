@@ -110,3 +110,8 @@ In Japanese culture, making associations and prompting discussion are important 
 3. Example: **映画というと、ポップコーンが欠かせません。** *(Speaking of movies, popcorn is essential.)*
 ---
 By incorporating **～というと** into your vocabulary, you'll be able to make smoother connections in conversation and express your thoughts more naturally in Japanese. Keep practicing, and soon this expression will become a comfortable part of your language skills!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

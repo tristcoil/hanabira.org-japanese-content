@@ -140,3 +140,8 @@ In Japanese culture, respect for hierarchy and social order is paramount. The **
 ---
 *Practice forming sentences with **〜なさい** to become more familiar with its usage. Remember to consider the social context when choosing this form!*
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -85,3 +85,8 @@ The use of **に至るまで** suggests that the endpoint is significant or that
    - **Answer:** に至るまで
 ---
 By understanding and correctly using **～から Noun に至るまで**, you can enhance your Japanese expression, especially in formal contexts, to convey comprehensive ranges and emphasize the breadth of topics or items.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

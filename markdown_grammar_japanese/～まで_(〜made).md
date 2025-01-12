@@ -123,3 +123,8 @@ In Japanese, the particle **まで** (made) is commonly used to express the idea
    - **Answer:** *She will study Japanese until she returns to her country.*
 ---
 Feel free to revisit the examples and explanations to reinforce your understanding of **まで**. With practice, using **まで** will become a natural part of your Japanese communication!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

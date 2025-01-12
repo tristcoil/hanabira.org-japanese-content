@@ -117,3 +117,8 @@ By combining the negative verb form with **ほうがいい**, you are advising s
    - **Answer**: "You shouldn't get so angry."
 ---
 By understanding and practicing **Verb ないほうがいい**, you'll enhance your ability to offer advice and suggestions in Japanese, making your conversations more natural and culturally appropriate.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

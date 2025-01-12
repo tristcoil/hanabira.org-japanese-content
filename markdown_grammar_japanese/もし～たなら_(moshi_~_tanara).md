@@ -86,3 +86,8 @@ The grammar point **もし～たなら (moshi ~ta nara)** is used to express a h
 2. **もし～たなら** is for unreal past conditions (did not happen), whereas **もし～たら** can be used for real or hypothetical situations.
 3. *(Example answer)* もし試験に合格していたなら、日本に留学していた。
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

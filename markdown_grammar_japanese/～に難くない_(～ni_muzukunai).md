@@ -103,3 +103,8 @@ While **～に難くない** itself is a fixed expression, it often appears with
    **Answer**: 想像に難くない (sōzō ni katakunai)
 ---
 By understanding and practicing **～に難くない**, you can enhance your ability to express notions of ease in mental processes in a formal and sophisticated manner in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

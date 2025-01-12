@@ -112,3 +112,8 @@ To form this expression:
 3. "I earnestly wish for the students' success."
 ---
 By understanding and practicing **〜てやまない**, you can express deep, sincere emotions in a way that is appropriate for formal Japanese communication. Remember to use it with suitable verbs and in the right context to convey your sentiments effectively.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

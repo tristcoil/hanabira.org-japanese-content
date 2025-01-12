@@ -121,3 +121,8 @@ This expression is used to indicate that an action happens occasionally or somet
 3. **Corrected Sentence**: **週末に公園へ行くことがある。**  
    *Shūmatsu ni kōen e iku koto ga aru.*
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

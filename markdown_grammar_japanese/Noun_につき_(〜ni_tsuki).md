@@ -154,3 +154,8 @@ While **「につき」** is primarily used in written, formal contexts, underst
    **Complete Sentence**: お一人様につき、一枚まで購入可能です。
 ---
 By understanding **「Noun につき」**, you enhance your ability to read and comprehend formal Japanese notices and use appropriate expressions in formal writing.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

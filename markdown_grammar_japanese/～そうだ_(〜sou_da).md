@@ -140,3 +140,8 @@ Attach **そうだ** to the **stem form** of verbs and adjectives.
      - Note: **～そうだ** is not typically used with nouns for appearance; instead, use **～のようだ** or **～みたいだ**.
 ---
 Congratulations on completing the lesson on **～そうだ**! Keep practicing by identifying hearsay and appearance expressions in daily conversations or reading materials.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

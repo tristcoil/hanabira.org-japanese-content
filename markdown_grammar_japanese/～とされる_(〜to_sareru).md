@@ -77,3 +77,8 @@ In Japanese society, indirect expressions are valued, especially in formal setti
 1. **この行為は危険だとされる。**
 2. ～とされる expresses a general consensus or belief without specifying who says it, while ～と言われている implies that people say or it is said that, focusing more on hearsay.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

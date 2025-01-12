@@ -114,3 +114,8 @@ While both structures can imply simultaneous actions, they have different uses.
      - Remove ます to get the verb stem.
 ---
 By understanding and practicing the use of **〜ながら**, you can add complexity to your Japanese sentences and describe simultaneous actions naturally. Keep practicing by observing actions you do at the same time and expressing them using this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

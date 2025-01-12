@@ -110,3 +110,8 @@ In this lesson, we'll explore the Japanese grammar point **～一方 (〜ippou)*
 1. a) 一方だ
 2. b) Contrast
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

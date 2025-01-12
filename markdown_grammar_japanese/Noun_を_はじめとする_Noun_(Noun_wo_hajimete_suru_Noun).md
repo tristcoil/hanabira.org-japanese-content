@@ -139,3 +139,8 @@ In this lesson, we'll explore the Japanese grammar point **「Noun をはじめ�
    </details>
 ---
 By understanding and practicing **「Noun をはじめとする Noun」**, you'll be able to express representative examples within groups effectively, especially in formal contexts. Remember to pay attention to the structure and formality level to use this grammar point naturally.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

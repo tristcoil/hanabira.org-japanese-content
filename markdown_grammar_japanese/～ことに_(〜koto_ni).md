@@ -89,3 +89,8 @@ The grammar point **～ことに** is neutral and can be used in both formal and
 3. Translate to Japanese using **～ことに**: "Sadly, the event was canceled."
    - **Answer**: **悲しいことに、イベントは中止されました。**
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

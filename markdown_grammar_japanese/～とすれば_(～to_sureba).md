@@ -96,3 +96,8 @@ While both **～とすれば** and **～としたら** express hypothetical cond
 3. *彼が来るとすれば、パーティーは盛り上がるでしょう。*
    *If we assume he is coming, the party will be lively.*
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -104,3 +104,8 @@ The phrase **〜はさておき** is neutral and can be used in both formal and 
 2. False (It is used with nouns.)
 3. 天気はさておき、旅行はいかがでしたか。
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

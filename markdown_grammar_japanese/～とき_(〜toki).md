@@ -115,3 +115,8 @@ The structure of ～とき varies depending on whether it follows a noun, adject
    - **Answer:** *静かなとき、本を読みます。*
 ---
 Feel free to revisit any section for clarification or further practice!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -161,3 +161,8 @@ Expresses strong emotion, often at the beginning of a sentence.
    - b. **True**
 ---
 By understanding and practicing the **なん～ (nan~)** grammar point, you'll be able to express subtle nuances and emotions more naturally in Japanese conversations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

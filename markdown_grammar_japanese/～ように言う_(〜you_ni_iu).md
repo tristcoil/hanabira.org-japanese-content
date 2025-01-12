@@ -106,3 +106,8 @@ In Japanese, expressing indirect commands or requests is essential for polite an
 3. **彼は私に気をつけるように言った。**
 ---
 By mastering **～ように言う**, you can accurately report commands and make polite requests, adding depth to your Japanese communication skills. Keep practicing, and soon it will become second nature!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

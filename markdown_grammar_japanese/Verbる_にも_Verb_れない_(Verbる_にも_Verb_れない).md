@@ -97,3 +97,8 @@ This grammar point is similar to other expressions of inability but has its own 
    - *Answer:* 見る **にも** 見**られ**ない。
 ---
 By understanding and practicing this grammar point, you'll be better equipped to express situations where you're unable to do something despite wanting to. Keep practicing with different verbs to become more familiar with the pattern!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

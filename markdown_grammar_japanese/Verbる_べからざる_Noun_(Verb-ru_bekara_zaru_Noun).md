@@ -80,3 +80,8 @@ Verb (dictionary form) + べからざる + Noun
    - **Answer:** **繰り返すべからざる行為**
 ---
 By understanding and practicing this grammar point, you'll be able to comprehend and appreciate formal Japanese texts more deeply.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

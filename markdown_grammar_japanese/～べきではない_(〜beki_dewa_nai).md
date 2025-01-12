@@ -136,3 +136,8 @@ To form **～べきではない**, attach **べきではない** to the **dictio
 ---
 By mastering **～べきではない**, you can effectively express strong advice or moral judgments in Japanese, enhancing your communication skills and understanding of social nuances.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

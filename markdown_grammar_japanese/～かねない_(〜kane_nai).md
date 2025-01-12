@@ -93,3 +93,8 @@ A[Verb Stem] --> B[+ かねない] --> C[Potential Negative Outcome]
 ---
 By mastering **～かねない**, you can effectively express concerns about potential negative consequences in Japanese, enhancing both your spoken and written communication skills.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

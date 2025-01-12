@@ -98,3 +98,8 @@ While the structure itself is neutral, politeness can be adjusted through contex
    **Answer**: 夢なのやら現実なのやらわからない。
 ---
 By understanding and practicing **A のやら B のやら**, you can more effectively express uncertainty and nuanced feelings in Japanese. Keep practicing with different verbs and adjectives to become comfortable with this expression!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

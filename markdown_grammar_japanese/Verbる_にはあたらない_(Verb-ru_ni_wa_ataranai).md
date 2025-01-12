@@ -89,3 +89,8 @@ In Japanese culture, modesty and humility are highly valued. Using **にはあ�
    - **Answer**: a) 論文を書くにはあたらない。
 ---
 Happy learning! Practice creating your own sentences using **にはあたらない** to deepen your understanding.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

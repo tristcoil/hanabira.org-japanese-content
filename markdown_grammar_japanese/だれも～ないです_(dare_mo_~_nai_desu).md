@@ -160,3 +160,8 @@ Let's look at the verb **行く** (*iku* - to go):
      - *Dare ka ga imasu.*
 ---
 By understanding and practicing **だれも～ないです**, you'll enhance your ability to express negative statements about people in Japanese accurately and naturally. Keep practicing with different verbs, and soon this structure will become a natural part of your Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

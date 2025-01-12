@@ -107,3 +107,8 @@ In Japanese culture, non-verbal communication and reading between the lines are 
 ---
 By understanding **～と言わんばかりの**, you can better interpret and express nuanced feelings and implied messages in Japanese communication.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

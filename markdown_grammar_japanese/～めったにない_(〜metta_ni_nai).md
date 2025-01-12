@@ -99,3 +99,8 @@ The structure for using めったにない is as follows:
    **Answer:** **私たちはめったに外食しない。**
 ---
 **Congratulations!** You've learned how to use **めったにない** to express rarity in Japanese. Remember to practice by creating your own sentences to solidify your understanding.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

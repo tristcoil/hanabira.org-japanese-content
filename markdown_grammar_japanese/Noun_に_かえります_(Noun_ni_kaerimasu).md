@@ -92,3 +92,8 @@ In Japanese culture, it's common to mention returning home or to one's hometown,
    - **Answer**: True
 ---
 By mastering this grammar point, you can confidently talk about returning to places in Japanese!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

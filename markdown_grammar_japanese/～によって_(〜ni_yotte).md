@@ -160,3 +160,8 @@ The grammar point ～によって (〜ni yotte) is a versatile expression in Jap
    *Cultures differ **depending on** the country.*
 ---
 By mastering ～によって, you enhance your ability to articulate complex ideas and navigate formal Japanese communication more effectively.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

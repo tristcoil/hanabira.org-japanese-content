@@ -128,3 +128,8 @@ In Japanese culture, expressing obligation appropriately reflects respect and aw
    - **Answer:** False. (**～てはいけない** means "must not do." It's a prohibition.)
 ---
 By understanding and practicing **～なくてはいけない**, you'll be better equipped to express obligations and necessities in Japanese, enhancing both your communication skills and cultural understanding.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -108,3 +108,8 @@ In Japanese communication, providing multiple reasons or emphasizing various asp
    - *The movie has an interesting story, and the actors are excellent.*
 ---
 By understanding and practicing the ～し、～し、～ grammar pattern, you'll be able to express multiple reasons or qualities in your Japanese sentences effectively.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

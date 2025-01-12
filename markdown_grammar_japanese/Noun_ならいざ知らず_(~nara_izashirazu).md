@@ -85,3 +85,8 @@ The basic structure is:
 2. *"Perhaps it's necessary in the countryside, but in the city, you can live without a car."*
 3. **Formal contexts**
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

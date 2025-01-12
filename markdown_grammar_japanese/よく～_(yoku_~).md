@@ -141,3 +141,8 @@ In Japanese culture, emphasizing the frequency or quality of actions reflects a 
    **彼は日本語がよくです。**
    **Answer:** Incorrect. Correct sentence: **彼は日本語が上手です。** or **彼は日本語をよく話します。**
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

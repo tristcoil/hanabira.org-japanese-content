@@ -116,3 +116,8 @@ The grammar point **～とか (〜to ka)** is a versatile expression in Japanese
    - **Answer**: お店が閉店する（と聞きました／とか）。
 ---
 By mastering **～とか**, you'll be able to express lists, hearsay, and uncertainty more naturally in Japanese conversations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

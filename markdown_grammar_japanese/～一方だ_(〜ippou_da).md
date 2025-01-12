@@ -95,3 +95,8 @@ While **～一方だ** itself is not an idiom, it's frequently used in idiomatic
      - *Translation:* Technology advances day by day.
 ---
 By understanding **～一方だ**, you can describe ongoing changes and trends in Japanese, enhancing your ability to discuss developments in various contexts.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

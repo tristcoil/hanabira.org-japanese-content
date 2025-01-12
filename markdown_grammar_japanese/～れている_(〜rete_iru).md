@@ -92,3 +92,8 @@ Using passive forms can add a level of formality or politeness to statements, as
    - **Answer**: This book is being read in many countries.
 3. True or False: *～れている* can be used to describe a state resulting from a past action.
    - **Answer**: True
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

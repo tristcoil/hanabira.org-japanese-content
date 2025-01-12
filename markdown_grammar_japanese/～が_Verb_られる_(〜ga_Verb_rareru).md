@@ -119,3 +119,8 @@ Change the ending う sound to the corresponding あ sound + れる
 2. b) It is raining (naturally).
 3. False. (The spontaneous passive does not involve an agent.)
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

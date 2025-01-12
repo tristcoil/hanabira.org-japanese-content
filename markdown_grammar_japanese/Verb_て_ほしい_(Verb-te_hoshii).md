@@ -101,3 +101,8 @@ In Japanese culture, direct requests can be considered rude. Using **〜てほ�
    **Answer:** **先生にこの作文を読んでほしい。**
 ---
 Feel free to ask any questions or for more example sentences to deepen your understanding!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

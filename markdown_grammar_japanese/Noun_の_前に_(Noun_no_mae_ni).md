@@ -87,3 +87,8 @@ The use of **「Noun の 前に」** is neutral and can be used in both formal a
    - **Answer**: **True**
 ---
 Feel free to revisit this lesson to reinforce your understanding of **「Noun の 前に」**. Practice by creating your own sentences using this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

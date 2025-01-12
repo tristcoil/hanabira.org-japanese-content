@@ -87,3 +87,8 @@ Both sentences mean "I understand even if you don't say it," but **ずとも** a
    **Answer:** **ずとも** is more formal.
 ---
 *Feel free to revisit this lesson to reinforce your understanding of **ずとも**. Practice by creating your own sentences using this grammar point!*
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

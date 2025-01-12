@@ -122,3 +122,8 @@ In this lesson, we'll explore the Japanese grammar point **～にかけては (�
    **Answer:** b) 彼女はファッションにかけては、誰にも負けない。
 ---
 By understanding and practicing **～にかけては**, you can effectively express exceptional skills and abilities in Japanese, enhancing both your language proficiency and cultural awareness.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -95,3 +95,8 @@ Politeness and indirectness are key aspects of Japanese communication. Using **�
    **Answer:** True.
 ---
 By understanding and practicing **～てもらえませんか**, you'll be able to make polite requests in Japanese that are appropriate for formal situations, helping you communicate more effectively and respectfully.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

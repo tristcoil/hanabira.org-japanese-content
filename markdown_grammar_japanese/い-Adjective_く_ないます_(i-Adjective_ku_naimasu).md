@@ -90,3 +90,8 @@ To form this pattern:
    - **Answer:** Should be *楽しくなります* (remove **い** before **く**)
 ---
 Feel free to practice by creating your own sentences using the pattern **い-adjective + くなります**!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

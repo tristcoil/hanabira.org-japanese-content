@@ -85,3 +85,8 @@ In Japanese culture, there is a strong emphasis on time management and respectin
    - **Answer:** **False.** It expresses that you **cannot** continue doing something, not that you don't want to.
 ---
 Happy studying! Remember to practice by creating your own sentences using **～ていられない** to internalize its usage.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

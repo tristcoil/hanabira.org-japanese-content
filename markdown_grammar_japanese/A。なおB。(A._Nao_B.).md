@@ -124,3 +124,8 @@ Sentence A。なお、Sentence B。
    **Answer:** b) ちなみに
 ---
 By mastering the use of **「なお」**, you'll be able to enhance the clarity and professionalism of your formal Japanese communication. Remember to consider the level of formality in your context to choose the most appropriate conjunction.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

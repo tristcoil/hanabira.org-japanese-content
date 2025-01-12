@@ -139,3 +139,8 @@ The expression **まあまあ** is a versatile term in Japanese that can functio
    - **Answer:** Combining **まあまあ** with negative adjectives; instead, use **あまり** with negatives.
 ---
 By understanding and practicing the usage of **まあまあ**, you can add nuance to your Japanese conversations and express yourself more naturally.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

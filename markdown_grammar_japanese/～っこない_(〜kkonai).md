@@ -110,3 +110,8 @@ While **～っこない** itself is idiomatic in expressing impossibility, it's 
    - **Answer:** "There's no way I can finish that much homework in one night."
 ---
 By understanding and practicing **～っこない**, you'll be able to express strong convictions about the impossibility of actions in a natural and emphatic way in Japanese. Remember to keep it for casual contexts, and you'll sound more like a native speaker!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

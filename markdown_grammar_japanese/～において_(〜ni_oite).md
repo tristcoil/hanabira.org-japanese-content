@@ -97,3 +97,8 @@ A[Noun<br>(Place/Time/Situation)] --> B[において] --> C[Action/Event]
    **Answer:** において
 ---
 By mastering **～において**, you can enhance your formal Japanese communication skills and better understand formal texts.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

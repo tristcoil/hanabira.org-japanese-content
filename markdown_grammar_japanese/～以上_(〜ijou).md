@@ -101,3 +101,8 @@ While **～以上** itself doesn't drastically change in politeness levels, the 
 3. **False** (They are similar but have nuanced differences in emphasis)
 ---
 By mastering **～以上**, you enhance your ability to convey firm reasoning and emphasize the implications of certain conditions in Japanese. Practice by creating your own sentences using this grammar point to solidify your understanding!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

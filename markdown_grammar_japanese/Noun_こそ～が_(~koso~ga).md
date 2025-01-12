@@ -112,3 +112,8 @@ Noun + こそ + Phrase + が、Contrasting Statement
      - **Explanation**: **こそ** attaches directly to the noun without **が**.
 ---
 By mastering **Noun こそ～が**, you enhance your ability to express emphasis and contrast in Japanese, making your communication more nuanced and effective.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

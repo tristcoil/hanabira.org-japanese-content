@@ -107,3 +107,8 @@ In Japanese culture, names and titles hold significant importance. Using **と�
    - **Answer:** False
 ---
 By mastering **Noun という Noun**, you'll enhance your ability to describe and explain concepts clearly in Japanese. Practice creating your own sentences to become more familiar with this versatile grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

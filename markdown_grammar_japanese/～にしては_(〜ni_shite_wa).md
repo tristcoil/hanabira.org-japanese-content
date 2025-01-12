@@ -101,3 +101,8 @@ The politeness in sentences using **～にしては** depends on the surrounding
 3. **a) He didn't sweat much even though he exercised.**
 ---
 By understanding and practicing **～にしては**, you can more accurately express contrasts between expectations and reality in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

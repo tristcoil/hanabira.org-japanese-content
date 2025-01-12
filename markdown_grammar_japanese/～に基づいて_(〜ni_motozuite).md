@@ -107,3 +107,8 @@ Noun + に基づいた + Noun
 3. **Which form of the grammar point is more formal and often used in written language?**
    **Answer**: に基づき
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -135,3 +135,8 @@ In Japanese culture, indirectness and politeness are highly valued. Using **～�
    <details><summary>Answer</summary>行かなければ</details>
 ---
 By understanding and practicing **～ばいい**, you'll enhance your ability to give advice and make suggestions in Japanese, which is an essential skill for effective communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

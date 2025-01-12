@@ -94,3 +94,8 @@ In Japanese society, there's a strong emphasis on being innovative and taking in
 ---
 By mastering **に先駆けて**, you can express actions that lead the way or happen before significant events, adding nuance and sophistication to your Japanese.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

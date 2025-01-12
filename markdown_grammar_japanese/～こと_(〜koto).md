@@ -180,3 +180,8 @@ Both **こと** and **の** can nominalize verbs, but they have subtle differenc
      - *Oyogu koto* - Swimming
 ---
 By mastering **～こと**, you'll enhance your ability to express complex ideas and adhere to social norms in Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

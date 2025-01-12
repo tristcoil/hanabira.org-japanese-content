@@ -103,3 +103,8 @@ In Japan, there is a strong emphasis on preparedness and preventing negative out
 
 ---
 By understanding and properly using **～恐れがある**, you can effectively convey warnings and discuss potential risks in formal Japanese contexts.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -96,3 +96,8 @@ This grammar point is neutral and can be used in both formal and informal contex
    **Answer:** "Upon realizing the enemy was weak, they initiated the attack."
 ---
 By understanding and practicing **～とみると**, you can enhance your Japanese expressions, especially when describing immediate reactions to realizations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

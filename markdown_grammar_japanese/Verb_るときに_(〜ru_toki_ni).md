@@ -113,3 +113,8 @@ Adjusting the verb form or adding honorific language can increase the politeness
    - **Answer**: 〜るときに refers to actions occurring **before or during** the time of the verb, while 〜たときに refers to actions occurring **after** the verb has been completed.
 ---
 By understanding and practicing **Verb るときに**, you'll enhance your ability to describe timing and sequences of events in Japanese naturally. Keep practicing with different verbs to solidify your understanding!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

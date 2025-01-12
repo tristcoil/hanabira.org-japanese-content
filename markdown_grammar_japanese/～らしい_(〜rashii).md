@@ -96,3 +96,8 @@ These expressions reflect cultural expectations of gender roles in Japan.
 
 ---
 By understanding and practicing **～らしい**, you'll be able to express assumptions and describe typical characteristics more naturally in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

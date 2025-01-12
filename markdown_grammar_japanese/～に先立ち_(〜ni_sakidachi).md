@@ -131,3 +131,8 @@ The grammar point ～に先立ち (〜ni sakidachi) is a formal expression used 
    試験を受けるに先立ち、勉強**を**します。
    **Explanation**: Add the object particle **を** before **します**.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

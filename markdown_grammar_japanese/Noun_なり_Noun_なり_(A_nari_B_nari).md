@@ -113,3 +113,8 @@ In this lesson, we'll explore the grammar point **「A なり B なり」**, whi
 ---
 By mastering **「A なり B なり」**, you can enhance your Japanese communication skills by offering polite suggestions and expressing flexibility. Keep practicing by incorporating this structure into your daily conversations!
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

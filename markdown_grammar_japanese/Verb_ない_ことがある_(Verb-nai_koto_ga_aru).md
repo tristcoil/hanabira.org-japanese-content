@@ -105,3 +105,8 @@ In Japanese, expressing the frequency or irregularity of actions is essential fo
    - **Answer:** False. It expresses exceptions to habitual actions.
 ---
 Feel free to practice by creating your own sentences using **Verb ないことがある** to describe exceptions in your daily routines!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

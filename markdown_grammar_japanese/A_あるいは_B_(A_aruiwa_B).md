@@ -121,3 +121,8 @@ The Japanese grammar point **A あるいは B (A aruiwa B)** is used to express 
    *Answer:* "Students or working adults can participate."
 ---
 By understanding and practicing the use of **あるいは**, you can enhance your formal Japanese communication skills and more accurately convey choices and alternatives.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

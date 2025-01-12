@@ -109,3 +109,8 @@ For verbs:
    - **Answer**: **言わずにはおかない**
 ---
 By understanding and practicing **～ないではおかない**, you will enhance your ability to express strong intentions and inevitabilities in Japanese naturally and effectively.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

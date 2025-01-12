@@ -120,3 +120,8 @@ Verb (た-form) + ら + Verb (た-form) + で + [Comment/Result]
 ---
 **End of Lesson**
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

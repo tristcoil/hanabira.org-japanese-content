@@ -100,3 +100,8 @@ Both express that an action has just occurred, but:
 2. たばかりだ implies not much time has passed; たところだ emphasizes immediacy.
 3. "Studying Japanese keeps getting more difficult."
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

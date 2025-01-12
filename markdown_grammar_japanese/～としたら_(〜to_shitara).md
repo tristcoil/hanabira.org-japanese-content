@@ -96,3 +96,8 @@ The formation of **～としたら** depends on the type of word it attaches to:
 3. **The sentence is correct as is.**
 ---
 By understanding and practicing **～としたら**, you can effectively discuss hypothetical situations in Japanese and grasp the nuances of speculative conversation.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

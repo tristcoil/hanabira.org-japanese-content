@@ -126,3 +126,8 @@ The Japanese adverb **もう** (*mou*) is a versatile word frequently used in ev
 
 ---
 By familiarizing yourself with **もう** and its various uses, you'll enhance your ability to communicate time-related concepts and emotions effectively in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

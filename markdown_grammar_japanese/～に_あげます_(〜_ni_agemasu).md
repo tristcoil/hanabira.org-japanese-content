@@ -101,3 +101,8 @@ In Japanese culture, the act of giving is often accompanied by expressions of hu
 
 ---
 By understanding and practicing **～に あげます**, you can accurately describe giving actions and enhance your communication in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

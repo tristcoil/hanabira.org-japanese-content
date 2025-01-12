@@ -110,3 +110,8 @@ In Japanese culture, expressing oneself indirectly is common. The ～たり～�
    - **Correction**: 週末に買い物したり、レストランで食べたりしました。
 ---
 By mastering the ～たり～たり pattern, you can express a range of activities and states in a nuanced and natural way, enriching your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

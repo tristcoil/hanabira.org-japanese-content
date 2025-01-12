@@ -107,3 +107,8 @@ In Japanese culture, overtly expressing one's actions and plans is common in con
    - **Answer:** True
 ---
 By understanding and practicing the use of **どこへも～ないです**, you'll be able to express the concept of "not going anywhere" naturally in Japanese conversations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

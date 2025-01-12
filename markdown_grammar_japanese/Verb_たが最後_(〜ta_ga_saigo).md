@@ -98,3 +98,8 @@ While **たが最後** itself is not part of an idiom, it is often used in prove
    - *He can't stop once he starts drinking alcohol.*
 ---
 By understanding and practicing **たが最後**, you'll be able to express decisive actions that lead to irreversible outcomes, adding depth to your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

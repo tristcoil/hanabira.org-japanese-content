@@ -103,3 +103,8 @@ The expression **〜ことはない** in Japanese is used to indicate that there
 3. **True or False:** "行かないことはない" means "There's no need to go."
    **Answer:** False. It means "It's not that I won't go."
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

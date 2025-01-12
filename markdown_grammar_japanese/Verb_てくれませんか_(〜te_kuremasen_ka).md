@@ -148,3 +148,8 @@ The verb should be in the て-form.
 ---
 By mastering **〜てくれませんか**, you can make polite requests and communicate more effectively in Japanese. Remember to consider the context and choose the appropriate level of politeness for each situation.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

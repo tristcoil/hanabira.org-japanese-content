@@ -95,3 +95,8 @@ In Japanese culture, nonverbal communication and reading the atmosphere (**空�
 ---
 # Thank You!
 We hope this lesson helped you understand how to use **～と言わんばかりに**. Keep practicing by noticing nonverbal cues in daily life and describing them using this expression!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

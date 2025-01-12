@@ -118,3 +118,8 @@ Noun + の下で
 
 ---
 By understanding **～の下で (〜no shita de)**, you can express nuanced relationships of influence and conditions in your Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

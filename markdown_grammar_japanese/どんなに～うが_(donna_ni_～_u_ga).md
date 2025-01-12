@@ -125,3 +125,8 @@ In this lesson, we'll explore the Japanese grammar point **どんなに～うが
    - **Answer**: b) が
 ---
 By understanding and practicing this grammar point, you'll be able to express determination and convey that certain outcomes remain constant regardless of circumstances, adding depth and formality to your Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

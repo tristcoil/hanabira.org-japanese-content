@@ -101,3 +101,8 @@ While **ともなると** itself is an expression, it can be used with idiomatic
    *Translation*: Once you become a student, you need not only to study but also to gain social experience.
 ---
 By understanding and practicing **Noun ともなると**, you can express nuanced ideas about natural consequences and expectations that come with different stages or roles in life. Keep practicing by creating your own sentences, and pay attention to how it's used in context to master this grammar point.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

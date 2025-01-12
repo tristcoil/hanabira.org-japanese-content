@@ -90,3 +90,8 @@ In Japanese communication, asking **どういう** helps in politely seeking cla
 3. **あなたはどういう映画を見ますか。**
 ---
 By understanding and practicing **どういう Noun**, you'll be able to ask for detailed information and clarify uncertainties effectively in Japanese conversations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

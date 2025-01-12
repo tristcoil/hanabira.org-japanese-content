@@ -113,3 +113,8 @@ The structure varies slightly depending on the type of word (verb, adjective, or
 ---
 By mastering **どんなに～ても**, you enhance your ability to express unchanging outcomes despite varying conditions in Japanese.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

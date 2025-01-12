@@ -113,3 +113,8 @@ Noun₁ + からの + Noun₂
    *Buchō kara no mēru o uketotta.*
 ---
 By mastering **からの**, you can more effectively describe relationships between nouns and express the origins of things in Japanese. Keep practicing with different nouns to become comfortable with this grammar point.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

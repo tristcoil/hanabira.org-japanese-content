@@ -140,3 +140,8 @@ In Japanese culture, social harmony and maintaining relationships are crucial. *
    - **Answer**: 「ずにはすまない」 emphasizes social/moral obligation; 「ないわけにはいかない」 emphasizes logical necessity or personal conviction.
 ---
 By understanding **「ずにはすまない」**, you can express strong obligations influenced by social or moral expectations in Japanese. Practice using this grammar point to enhance your fluency and comprehension of nuanced expressions.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

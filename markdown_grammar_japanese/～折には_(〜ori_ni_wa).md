@@ -110,3 +110,8 @@ The formation of **～折には** depends on the preceding word:
 2. **b)** 来月の出張の折には、お客様と会議を行います。
 3. Because **～折には** is too formal for casual settings; using it in casual conversation may sound out of place or overly stiff.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

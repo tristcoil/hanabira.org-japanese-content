@@ -122,3 +122,8 @@ Fill in the blanks with the correct particles:
 ## Conclusion
 By understanding and practicing **Noun はおろか ～も**, you'll be able to emphasize points more effectively and express contrasts in Japanese with greater nuance. Try incorporating this grammar point into your daily conversations or writing exercises to become more familiar with its usage.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

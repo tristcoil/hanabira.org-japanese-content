@@ -113,3 +113,8 @@ The basic structure is:
      - *We will proceed with the development of the new product based on the market research results.*
 ---
 By understanding **Noun + 前提で**, you can express assumptions and conditions effectively in Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

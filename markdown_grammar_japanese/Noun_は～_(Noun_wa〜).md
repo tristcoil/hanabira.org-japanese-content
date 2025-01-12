@@ -116,3 +116,8 @@ In Japanese, the particle **は** (pronounced "wa") is one of the most fundament
 # 日本語学習、頑張ってください！  
 *Nihongo gakushū, ganbatte kudasai!*  
 "Good luck with your Japanese studies!"
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

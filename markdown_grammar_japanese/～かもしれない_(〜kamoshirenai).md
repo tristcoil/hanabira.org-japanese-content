@@ -136,3 +136,8 @@ In Japanese culture, expressing uncertainty can be a way to show humility and av
    - *Do not add **な** after a な-adjective before **かもしれない**.*
 ---
 By understanding and practicing **～かもしれない**, you'll be able to express uncertainty and possibilities more naturally in Japanese. Remember to pay attention to the level of politeness appropriate for your situation.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

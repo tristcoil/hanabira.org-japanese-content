@@ -114,3 +114,8 @@ While **「しかし」 (shikashi)** means "however", it's essential to distingu
 ---
 # End of Lesson
 Feel free to create your own sentences using **「しかし」** to reinforce your understanding!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

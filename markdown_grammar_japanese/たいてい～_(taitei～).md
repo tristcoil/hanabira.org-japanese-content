@@ -91,3 +91,8 @@ In Japanese culture, routines and regularity are often emphasized. Using **た�
    - *Answer:* False. **たいてい** is used before the verb it modifies.
 ---
 Congratulations! You have learned how to use **たいてい** to describe usual or habitual actions in Japanese. Practice by making sentences about your routines using **たいてい**.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

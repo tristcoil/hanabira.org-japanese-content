@@ -103,3 +103,8 @@ In Japanese culture, reliance on others and communal support are significant val
    - **Answer**: 彼らはヒントを頼りにパズルを解いた。
 ---
 By understanding and practicing **～を頼りに**, you can express reliance and dependence clearly in Japanese, enhancing both your speaking and comprehension skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

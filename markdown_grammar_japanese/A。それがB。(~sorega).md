@@ -101,3 +101,8 @@ A。それがB。
 </details>
 ---
 By incorporating **「それが」** into your conversations, you'll be able to navigate contradictions and corrections smoothly, reflecting a more natural use of the Japanese language.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

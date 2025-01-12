@@ -105,3 +105,8 @@ The basic structure is:
 ---
 Practice using **Noun がほしいです** in your daily life to express your desires naturally in Japanese!
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

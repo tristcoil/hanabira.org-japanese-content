@@ -102,3 +102,8 @@ In Japanese culture, expressing limitations or lack of options politely is impor
      (_Since there's no time, we have no choice but to hurry._)
 ---
 By understanding and practicing **～しかない**, you can express limitations and inevitabilities naturally in Japanese. Remember to pair it with negative verbs, and you'll navigate this grammar point with ease!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

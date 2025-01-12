@@ -99,3 +99,8 @@ The formation of ～ても depends on whether it is attached to verbs, adjective
 3. **Fill in the blank: __がなくても大丈夫です。 (It's okay even if there isn't __.)**
    - **Possible Answer**: 時間 (じかん) - 時間がなくても大丈夫です。
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -111,3 +111,8 @@ While **が** itself is neutral, the verbs and expressions used with it can chan
 
 ---
 By mastering the use of **が**, you'll be able to express subjects and contrasting ideas more effectively, making your Japanese sound more natural and fluent.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

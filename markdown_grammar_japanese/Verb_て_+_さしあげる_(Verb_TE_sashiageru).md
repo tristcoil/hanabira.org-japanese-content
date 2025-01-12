@@ -115,3 +115,8 @@ While **"〜てさしあげる"** itself is a set humble expression, it's often 
 
 ---
 By mastering **"Verb て + さしあげる"**, you'll be able to communicate respect and humility effectively in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -120,3 +120,8 @@ The basic structure is:
    </details>
 ---
 By incorporating **決して～ない** into your vocabulary, you can express firm negations and strong commitments in Japanese, adding depth and emphasis to your communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

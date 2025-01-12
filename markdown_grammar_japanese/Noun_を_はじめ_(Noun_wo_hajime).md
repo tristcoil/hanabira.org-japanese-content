@@ -86,3 +86,8 @@ The use of **をはじめ** is neutral and can be used in both formal and inform
 
 ---
 By understanding and practicing **をはじめ**, you can enrich your Japanese by properly highlighting key examples and expressing inclusion effectively.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

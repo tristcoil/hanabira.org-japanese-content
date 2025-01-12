@@ -104,3 +104,8 @@ Both expressions convey immediacy between two actions, but there are subtle diff
 3. *He fell asleep almost as soon as the movie started.*
 ---
 By understanding and practicing **～か～ないかのうちに**, you can express actions that occur in rapid succession with greater nuance and fluency in Japanese. Keep practicing with different verbs to become more comfortable with this grammar pattern!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

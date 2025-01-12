@@ -124,3 +124,8 @@ In Japanese culture, great emphasis is placed on fulfilling one's role with the 
    **Answer**: b) 彼は学生足る者だ。
 ---
 By understanding **～足る Noun**, you enhance your ability to read and comprehend formal Japanese texts and express nuanced ideas about worthiness and suitability in appropriate contexts.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

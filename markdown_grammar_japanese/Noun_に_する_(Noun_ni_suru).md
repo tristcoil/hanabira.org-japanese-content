@@ -110,3 +110,8 @@ When making decisions in Japanese culture, especially in group settings, it's co
    - **「Noun になる」**: Something becomes or changes into something else, often passively.
 ---
 By mastering **「Noun にする」**, you'll be able to communicate your decisions and preferences effectively in Japanese. Keep practicing, and soon it'll become a natural part of your speech!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

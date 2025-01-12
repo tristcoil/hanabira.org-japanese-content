@@ -91,3 +91,8 @@ Using **Noun + 中（ちゅう）** is neutral and can be used in both formal an
 3. **準備（じゅんび）** - ただいま、**準備中**です。
 ---
 By mastering **Noun + 中（ちゅう）**, you can accurately describe ongoing actions and enhance your fluency in Japanese conversation.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

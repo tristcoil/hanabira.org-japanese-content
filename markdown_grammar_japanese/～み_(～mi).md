@@ -103,3 +103,8 @@ Both **～み** and **～さ** are suffixes used to nominalize adjectives, but t
 3. **～み** conveys a subjective, emotional, or inherent quality, while **～さ** denotes an objective measurement or degree.
 ---
 By understanding and practicing the usage of **～み**, you can add depth and emotional nuance to your Japanese expressions.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

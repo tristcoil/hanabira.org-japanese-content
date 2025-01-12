@@ -103,3 +103,8 @@ c) "That action is utterly absurd."
 ---
 By understanding and practicing **～極まりない**, you'll be able to express extreme states effectively in Japanese. Remember to use it appropriately, considering the formality and strength of the expression.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

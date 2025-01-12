@@ -107,3 +107,8 @@ Verb Stem + 上げる
 ---
 By understanding and practicing **～上げる**, you'll be able to express actions that have been completed thoroughly, adding depth to your Japanese communication. Keep creating your own sentences to become more familiar with this grammar point!
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -113,3 +113,8 @@ To form the causative-passive, we take the verb stem and conjugate it accordingl
    - **Answer:** True. In colloquial speech, **-せられる** often becomes **-される**.
 ---
 Feel free to review this lesson and practice by creating your own sentences using **Verbさせられる**!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

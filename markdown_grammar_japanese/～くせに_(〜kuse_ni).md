@@ -112,3 +112,8 @@ In Japanese culture, maintaining harmony and avoiding direct confrontation are v
    - **Answer**: No, it's considered rude and should be avoided in formal or polite contexts.
 ---
 By understanding and practicing **～くせに**, you'll be able to express subtle nuances of criticism and contradiction in Japanese, enhancing your conversational skills. Remember to use it cautiously and be mindful of the context!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

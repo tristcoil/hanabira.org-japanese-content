@@ -122,3 +122,8 @@ In Japanese culture, expressing one's feelings indirectly is common. The use of 
 ---
 By mastering **～くらい～はない**, you can effectively express strong comparisons and emphasize your opinions in Japanese. Keep practicing by creating your own sentences, and soon this grammatical structure will become a natural part of your language skills!
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

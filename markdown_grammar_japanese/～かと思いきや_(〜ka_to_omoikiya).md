@@ -99,3 +99,8 @@ In Japanese communication, there's often an emphasis on indirect expressions and
 3. 天気予報では晴れるかと思いきや、雨になった。
 ---
 By understanding and practicing **～かと思いきや**, you can more effectively express surprises and unexpected outcomes in Japanese. Keep exploring and using it in sentences to become more comfortable with its nuances!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

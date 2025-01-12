@@ -118,3 +118,8 @@ While **「Noun の手前」** is itself an idiomatic expression, it's often use
 3. **B) 子供の手前、タバコを吸うのをやめた。**
 ---
 **Congratulations!** You've learned how to use **「Noun の手前」** to express social obligations and considerations in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

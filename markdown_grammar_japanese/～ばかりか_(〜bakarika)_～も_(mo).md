@@ -110,3 +110,8 @@ Let's compare **～ばかりか** with similar grammar points to understand the 
 3. Yes, it is suitable for both formal and informal contexts.
 ---
 By understanding and practicing **～ばかりか ～も**, you'll be able to convey complex and emphatic ideas more effectively in Japanese. Try incorporating this grammar point into your daily conversations or writing!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

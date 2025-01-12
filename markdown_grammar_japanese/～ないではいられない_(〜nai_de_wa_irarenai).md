@@ -90,3 +90,8 @@ In Japanese culture, where expressing feelings directly is often subdued, using 
 1. Attach **ではいられない** to the negative form of a verb.
 2. *After reading that funny manga, I couldn't help but laugh.*
 3. **～ずにはいられない**
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

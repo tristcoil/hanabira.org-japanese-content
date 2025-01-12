@@ -115,3 +115,8 @@ While **～に堪えない** itself is already idiomatic, it is often used with 
 3. **皆様のご支援に喜びに堪えない思いです。**
 ---
 By understanding and practicing **～に堪えない**, you'll be able to express deep emotions appropriately in formal Japanese contexts.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

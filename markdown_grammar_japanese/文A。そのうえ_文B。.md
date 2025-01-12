@@ -118,3 +118,8 @@ Sentence A. Moreover, Sentence B.
 3. **b) そのうえ**
 ---
 By mastering **「そのうえ」**, you can make your Japanese expressions more nuanced and informative. Remember to practice by creating your own sentences to reinforce your understanding!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

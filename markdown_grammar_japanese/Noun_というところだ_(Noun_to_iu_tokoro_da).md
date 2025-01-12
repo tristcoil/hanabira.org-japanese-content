@@ -107,3 +107,8 @@ Noun + というところだ
 ---
 ## Conclusion
 By understanding and using **Noun というところだ**, you can add nuance to your Japanese by modestly expressing approximations and states. Practice incorporating this grammar point into your daily conversations to sound more natural and culturally aware.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

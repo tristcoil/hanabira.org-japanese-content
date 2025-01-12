@@ -110,3 +110,8 @@ The development plan is being considered on the premise of environmental protect
 
 ---
 By understanding and practicing **「Noun を前提として」**, you'll be able to express complex ideas about assumptions and conditions in formal Japanese contexts effectively.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

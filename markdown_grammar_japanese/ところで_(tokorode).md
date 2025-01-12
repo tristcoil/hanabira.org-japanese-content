@@ -132,3 +132,8 @@ Below are examples of **ところで** used in various contexts:
    - *Tomorrow is the test. Therefore, I have to study.*
 ---
 By mastering **ところで**, you'll be able to navigate conversations more naturally and engage with others more effectively in Japanese. Keep practicing, and don't hesitate to incorporate this grammar point into your daily dialogue!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

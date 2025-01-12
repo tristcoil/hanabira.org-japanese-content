@@ -119,3 +119,8 @@ In casual spoken Japanese, **～のです** often becomes **～んです**.
 3. **なぜ早く帰るのですか？**
 ---
 By understanding and practicing ～のです, you'll enhance your ability to express explanations and emphasize important information in a way that sounds natural and polite in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

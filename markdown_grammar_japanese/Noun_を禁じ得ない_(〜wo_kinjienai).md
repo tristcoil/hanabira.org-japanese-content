@@ -104,3 +104,8 @@ While **〜を禁じ得ない** itself is a set phrase, it's often used with cer
 2. False  
 3. b) Newspaper article
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

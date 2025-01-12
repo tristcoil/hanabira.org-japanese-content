@@ -141,3 +141,8 @@ A[Verb/Adjective/Noun] --> B[＋ではないか]
 ---
 By mastering **～ではないか**, you'll enhance your ability to communicate formally and persuasively in Japanese. Keep practicing, and don't hesitate to use this structure in appropriate contexts!
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

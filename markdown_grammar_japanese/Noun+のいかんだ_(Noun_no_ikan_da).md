@@ -107,3 +107,8 @@ Here's a simplified diagram to illustrate the structure:
 Congratulations! You've learned how to use **Noun + のいかんだ** in Japanese. To reinforce your understanding, try creating sentences using this grammar point in formal contexts.
 ---
 *Note*: All examples provided reflect natural and appropriate usage in formal Japanese contexts. Remember to consider the level of formality when choosing to use **のいかんだ**.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

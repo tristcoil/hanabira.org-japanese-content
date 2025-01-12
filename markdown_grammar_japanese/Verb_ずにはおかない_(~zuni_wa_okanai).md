@@ -136,3 +136,8 @@ It emphasizes the speaker's conviction that something **must** happen and **cann
    - **Answer:** No, it is a formal expression more common in written language.
 ---
 By understanding and utilizing **ずにはおかない**, you can express strong inevitability and enhance the depth of your Japanese communication. Practice forming sentences with this grammar point, and soon it will become a natural part of your language skillset!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

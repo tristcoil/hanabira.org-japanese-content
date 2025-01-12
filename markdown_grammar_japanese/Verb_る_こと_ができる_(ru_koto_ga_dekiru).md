@@ -144,3 +144,8 @@ Japanese has another way to express ability called the **Potential Form**.
 2. **b)** 食べることができる  
 3. **No**, you should not combine the potential form **話せる** with **ことができる**.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

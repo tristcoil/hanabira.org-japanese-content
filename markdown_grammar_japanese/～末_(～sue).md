@@ -116,3 +116,8 @@ Japanese culture highly values perseverance and dedication. Using **～末（に
    - **Explanation**: **話し合った末に** uses the correct past tense form of the verb.
 ---
 By understanding and practicing **～末（に）**, you can more effectively express the culmination of efforts and actions in Japanese, adding depth and nuance to your language skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

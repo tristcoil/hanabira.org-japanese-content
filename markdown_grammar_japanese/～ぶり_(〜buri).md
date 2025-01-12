@@ -121,3 +121,8 @@ Try creating your own sentences using ～ぶり in both elapsed time and manner/
 - **Manner/Style Example**: "Her way of speaking is polite."
 ---
 **Remember**, practice makes perfect! Use ～ぶり in your daily conversations to become more comfortable with its usage.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

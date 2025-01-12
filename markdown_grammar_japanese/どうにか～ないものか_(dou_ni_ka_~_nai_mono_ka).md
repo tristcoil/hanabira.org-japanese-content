@@ -114,3 +114,8 @@ In this lesson, we'll explore the grammar point **どうにか～ないものか
    **Answer:** **False**
 ---
 By understanding and practicing **どうにか～ないものか**, you can express hopes and desires more naturally and align your speech with Japanese cultural nuances. Keep practicing by creating your own sentences using this structure!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

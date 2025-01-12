@@ -122,3 +122,8 @@ It indicates that one action, thing, or person is being substituted or exchanged
    **Answer:** *True*
 ---
 By integrating **～かわりに** into your vocabulary, you can express complex ideas about alternatives and substitutions, making your Japanese communication more nuanced and natural.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

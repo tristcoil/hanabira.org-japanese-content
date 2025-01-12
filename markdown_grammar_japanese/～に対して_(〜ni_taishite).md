@@ -120,3 +120,8 @@ The expression **～に対して (〜ni taishite)** is a versatile grammar point
    - Use **について** when studying *about* a topic.
 ---
 By understanding and practicing **～に対して**, you can express directed actions, contrasts, and specify subjects more precisely in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

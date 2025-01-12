@@ -88,3 +88,8 @@ The structure of ～んです varies depending on whether it follows a verb, adj
    - **Answer**: False (It should be 学生**なんです**。)
 ---
 Feel free to practice by converting simple sentences into ones that use ～んです to convey explanations or emphasis!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

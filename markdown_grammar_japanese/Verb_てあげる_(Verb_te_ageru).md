@@ -118,3 +118,8 @@ To solidify your understanding, try creating your own sentences using **Verb て
 ---
 # Short URL
 https://is.gd/XqfCwi
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

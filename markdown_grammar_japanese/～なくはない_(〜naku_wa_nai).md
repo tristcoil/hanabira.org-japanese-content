@@ -117,3 +117,8 @@ In Japanese culture, it's important to maintain harmony (和, *wa*) and avoid di
    **Japanese:** その提案は悪くなくはないと思います。
    **Answer:** "I think that proposal is not bad."
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

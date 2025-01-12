@@ -131,3 +131,8 @@ A[Noun] --> B[というもの]
    - _(I'm searching for what we call happiness.)_
 ---
 By understanding and practicing **Noun + というもの**, you'll be able to express deeper reflections and emphasize the essence of concepts in Japanese. Keep practicing with different nouns to become more familiar with this expressive grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

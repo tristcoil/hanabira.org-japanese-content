@@ -137,3 +137,8 @@ While **～ようだ**, **～みたいだ**, and **～そうだ** can all expres
    - **～そうだ** after the stem of a verb indicates that something is about to happen ("It looks like..."), whereas after the plain form, it conveys hearsay ("I heard that...").
 ---
 By understanding and practicing **～ようだ**, you'll enhance your ability to express subtle observations and make inferences in Japanese, adding depth to your language skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

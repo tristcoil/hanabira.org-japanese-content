@@ -79,3 +79,8 @@ The formation of this grammar point is straightforward:
 **Sentence**: 彼は全く勉強せず、試験に落ちる始末だ。
 **Translation**: He didn't study at all and ended up failing the exam.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

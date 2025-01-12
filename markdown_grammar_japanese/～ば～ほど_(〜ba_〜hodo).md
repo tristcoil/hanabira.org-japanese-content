@@ -155,3 +155,8 @@ The formation of ～ば～ほど varies slightly depending on whether you're usi
    <br/>**Answer:** 食べれば食べるほど、もっと食べたくなります。
 ---
 By understanding and practicing the ～ば～ほど structure, you can express complex proportional relationships in Japanese, making your speech and writing more natural and nuanced.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

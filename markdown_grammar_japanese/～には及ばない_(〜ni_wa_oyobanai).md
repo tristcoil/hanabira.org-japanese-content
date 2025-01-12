@@ -110,3 +110,8 @@ In this lesson, we will learn about the Japanese grammar point **～には及ば
    - *Answer*: **b) Formal business meeting**
 ---
 By understanding and using **～には及ばない**, you can express yourself more politely and align with Japanese cultural norms of humility and respect.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

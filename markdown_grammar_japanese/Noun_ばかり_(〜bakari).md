@@ -111,3 +111,8 @@ Combine:
    **Answer:** True.
 ---
 By understanding and practicing **ばかり**, you'll be able to express nuances about quantity and exclusivity more naturally in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

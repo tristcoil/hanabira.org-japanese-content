@@ -114,3 +114,8 @@ Or, to indicate location:
    - *Answer:* False (It is only used for animate objects)
 ---
 By understanding and practicing the use of **～います (〜imasu)**, you'll be better equipped to describe people and animals in various contexts, enhancing your overall proficiency in Japanese. Keep practicing, and soon this grammar point will become second nature!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

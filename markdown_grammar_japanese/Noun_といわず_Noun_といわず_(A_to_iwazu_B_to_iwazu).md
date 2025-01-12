@@ -126,3 +126,8 @@ In Japanese culture, emphasizing inclusivity and the entirety of something is co
    - *Answer:* It is a formal expression.
 ---
 By mastering **Noun といわず Noun といわず**, you'll be able to express the idea of inclusiveness and emphasize that a statement applies universally to the items mentioned. Practice creating your own sentences using natural noun pairs to become more comfortable with this structure.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

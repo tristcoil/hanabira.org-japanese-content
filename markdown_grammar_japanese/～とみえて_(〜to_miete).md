@@ -106,3 +106,8 @@ While **～とみえて** itself isn't highly idiomatic, it's part of a broader 
    **Corrected Sentence:** 彼女は嬉しいとみえて、笑っています。
 ---
 By mastering **～とみえて**, you enhance your ability to describe inferences and observations, adding depth to your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

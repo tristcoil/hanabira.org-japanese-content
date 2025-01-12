@@ -110,3 +110,8 @@ His talent is so profound that others cannot possibly measure it.
 3. **B**
 ---
 By mastering **べくもない**, you've added a sophisticated expression to your Japanese language repertoire, allowing you to comprehend and express nuances of impossibility in formal contexts.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

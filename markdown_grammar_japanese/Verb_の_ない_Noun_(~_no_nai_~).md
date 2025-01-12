@@ -108,3 +108,8 @@ These expressions highlight the absence of essential elements in relationships o
 ---
 By understanding and practicing the **～のない～** structure, you'll be able to express the absence of actions or qualities in Japanese more naturally and precisely.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

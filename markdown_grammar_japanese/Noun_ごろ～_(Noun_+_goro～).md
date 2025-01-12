@@ -123,3 +123,8 @@ In Japanese culture, punctuality is highly valued. However, using **「ごろ」
 ---
 By understanding and using **「Noun + ごろ」**, you'll be able to express approximate times naturally and enhance your communication in Japanese. Keep practicing, and don't hesitate to revisit this lesson whenever you need a refresher!
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

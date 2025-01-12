@@ -96,3 +96,8 @@ To form ～ねばならない, attach **ねばならない** to the **negative s
 3. **Translate to Japanese using ～ねばならない**: "We must protect nature."
    - **Answer**: 私たちは自然を守らねばならない。
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

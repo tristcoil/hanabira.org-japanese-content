@@ -97,3 +97,8 @@ B --> C〔〜てもらいたい〕
    - **Answer**: False (It is used to express desire politely, not direct commands.)
 ---
 Remember, using **〜てもらいたい** helps you make polite requests and express desires in a way that is considerate of others, aligning with the cultural emphasis on harmony and respect in Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

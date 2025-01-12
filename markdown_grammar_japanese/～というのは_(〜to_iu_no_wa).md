@@ -94,3 +94,8 @@ The basic structure is:
    - **English:** "What does 'inclusion' mean?"
 ---
 By mastering **～というのは**, you'll be better equipped to define terms and concepts, enhancing your communication in Japanese. Keep practicing by explaining new words you encounter!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

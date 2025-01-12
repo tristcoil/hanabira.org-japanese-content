@@ -120,3 +120,8 @@ The suffix **~並み** attaches to a noun to indicate that the subject is **equi
    **This movie has the same impact as a Hollywood film.**
 ---
 By mastering **~並み**, you can make more nuanced comparisons and express levels of equivalence in Japanese, enhancing both your written and spoken communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -84,3 +84,8 @@ In Japanese culture, expressing changes in state is common, reflecting an apprec
    - **Answer:** 上手に (*Jōzu ni*)
 ---
 By understanding and practicing this grammar point, you'll be able to express changes in states and causation effectively in Japanese!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

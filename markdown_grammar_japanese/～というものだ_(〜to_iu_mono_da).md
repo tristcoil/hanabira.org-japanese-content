@@ -99,3 +99,8 @@ In this lesson, we'll explore the Japanese grammar point **～というものだ
    **Answer:** **b)**
 ---
 By understanding **～というものだ**, you can express strong convictions about what is natural or to be expected in various situations. Practice using this grammar point to add emphasis to your Japanese expressions!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

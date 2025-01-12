@@ -114,3 +114,8 @@ Construct sentences using the pattern **Noun に 行きます** with the followi
 - **会社に行きます。** - "I am going to the company."
 ---
 Feel free to ask any questions or for further explanations on this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

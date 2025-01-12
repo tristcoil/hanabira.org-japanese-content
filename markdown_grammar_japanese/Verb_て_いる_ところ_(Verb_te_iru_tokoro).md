@@ -101,3 +101,8 @@ Below are examples demonstrating the use of **Verb ているところ** in vario
    - **Answer:** "She is just coming now."
 ---
 Feel free to revisit this lesson to reinforce your understanding. Keep practicing by creating your own sentences using **Verb ているところ**!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

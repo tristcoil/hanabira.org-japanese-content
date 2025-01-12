@@ -113,3 +113,8 @@ In Japanese culture, expressing emotions directly is sometimes considered too fo
 ---
 By mastering **～を込めて**, you enhance your ability to express emotions and sincerity in your Japanese conversations, aligning with the cultural nuances of the language.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -96,3 +96,8 @@ In Japanese society, there is a strong emphasis on procedures and hierarchy. The
 # Additional Resources
 - For further practice, create your own sentences using **～てからでないと**.
 - Consult Japanese grammar books or websites for more examples and exercises.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -154,3 +154,8 @@ In daily Japanese conversation, expressing the act of receiving something from s
    </details>
 ---
 By mastering **～に もらいます**, you enhance your ability to express receiving actions politely and accurately in Japanese, deepening your conversational skills and cultural understanding.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

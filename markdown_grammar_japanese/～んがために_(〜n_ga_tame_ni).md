@@ -131,3 +131,8 @@ Here’s how it looks:
 ---
 By mastering **〜んがために**, you're adding a powerful tool to express purpose with determination in formal Japanese. Keep practicing by reading formal texts and composing sentences using this grammar point to reinforce your understanding.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

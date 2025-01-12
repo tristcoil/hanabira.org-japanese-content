@@ -107,3 +107,8 @@ While **や否や** itself is a set phrase, understanding and using formal expre
 ---
 By understanding **や否や**, you can enhance your comprehension of formal Japanese texts and express immediate sequences in a sophisticated manner.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -96,3 +96,8 @@ To form this grammar pattern, attach **にくい** directly to the **verb stem**
 
 ---
 By understanding **Verb にくい (〜にくい)**, you can express difficulties in actions more naturally in Japanese. Practice by attaching **にくい** to various verb stems to get comfortable with the pattern.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

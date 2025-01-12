@@ -110,3 +110,8 @@ The grammar point **～かけ** itself is neutral and can be used in both formal
    - **Answer:** b) 飲みかけのお茶が冷たくなった。 (The tea I was drinking has become cold.)
 ---
 By mastering **～かけ (〜kake)**, you can more precisely describe incomplete actions or items in Japanese. Keep practicing by incorporating it into your daily conversations!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

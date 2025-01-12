@@ -93,3 +93,8 @@ Let's look at some example sentences to see how **「Noun にして初めて」*
 3. **困難にして初めて、人は成長する。**
 ---
 By understanding and practicing **「Noun にして初めて」**, you can add depth to your expressions, emphasizing the significance of certain conditions in the occurrence of events or realizations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

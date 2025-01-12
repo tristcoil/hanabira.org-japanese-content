@@ -91,3 +91,8 @@ The structure involves attaching **かねる** to the **masu-stem** of a verb.
 3. **できない** is a plain inability to do something; **かねる** implies reluctance or a polite refusal.
 ---
 By understanding and appropriately using ～かねる, you can express polite refusals and convey reluctance in a respectful manner in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

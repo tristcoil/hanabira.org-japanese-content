@@ -130,3 +130,8 @@ Let's look at how **～びる** is used in sentences across different contexts.
    **Answer**: **B)** *彼女は大人びた話し方をする。*
 ---
 By understanding and practicing **～びる**, you'll be able to express nuanced observations about appearances and behaviors in Japanese!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

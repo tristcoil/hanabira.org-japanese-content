@@ -109,3 +109,8 @@ The basic structure involves using **「いつでも」** directly before a verb
    **Answer**: *いつでも*
 ---
 This concludes our lesson on **「いつでも」 (itsudemo)**. Be sure to incorporate this grammar point into your daily practice to become more comfortable with its usage!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

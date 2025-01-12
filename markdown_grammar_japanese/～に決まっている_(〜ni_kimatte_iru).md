@@ -99,3 +99,8 @@ Both expressions indicate certainty, but there are nuances:
    **Answer:** これは簡単に決まっている。
 ---
 By understanding **～に決まっている**, you can express strong beliefs and make your Japanese conversations more natural and emphatic!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -94,3 +94,8 @@ While **そのために** itself is not idiomatic, it is essential in constructi
 ---
 # End of Lesson
 Feel free to review this material and practice using **そのために** in your own sentences!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

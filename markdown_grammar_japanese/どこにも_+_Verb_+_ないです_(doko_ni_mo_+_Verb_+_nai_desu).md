@@ -117,3 +117,8 @@ While **どこにも + Verb + ないです** itself is straightforward, it's oft
    *Neko wa doko ni mo mitsukaranai desu.***
 ---
 By understanding and practicing this grammar point, you'll be able to express "nowhere" effectively in Japanese and avoid common mistakes. Remember to pay attention to verb negation and particle usage for accurate and natural expressions.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

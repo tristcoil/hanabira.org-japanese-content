@@ -95,3 +95,8 @@ Here are some example sentences demonstrating **～んばかりに** in various 
 ---
 By mastering **～んばかりに**, you can enhance your ability to express detailed and nuanced emotions in Japanese. Keep practicing with different verbs to become more comfortable with this expressive grammar point!
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

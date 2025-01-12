@@ -109,3 +109,8 @@ The expression ～ごとく is used to compare one action or state to another, e
 2. **C) 彼は猫のごとく寝ている。**
 3. **B) No**
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

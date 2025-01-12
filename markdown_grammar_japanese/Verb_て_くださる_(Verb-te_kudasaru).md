@@ -105,3 +105,8 @@ In Japanese culture, respecting hierarchy and showing humility are paramount. Us
    *This is the polite form appropriate for customers.*
 ---
 By mastering **"Verb て くださる"**, you enhance your ability to communicate respectfully and effectively in Japanese, reflecting a deep understanding of social nuances.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -124,3 +124,8 @@ Depending on the type of word preceding **けれど**, the formation slightly ch
    **Answer**: Include the copula **だ** before **けれど**.
 ---
 By understanding and practicing **～けれど、～**, you can effectively express contrast and enrich your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

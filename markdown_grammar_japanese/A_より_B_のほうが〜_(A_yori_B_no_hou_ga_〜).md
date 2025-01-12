@@ -100,3 +100,8 @@ A より B のほうが + [adjective/verb]
    **False.** B has more of the quality than A.
 ---
 By mastering this grammar pattern, you'll be able to make clear and natural comparisons in Japanese!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

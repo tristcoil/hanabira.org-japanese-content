@@ -95,3 +95,8 @@ The structure of this grammar point is as follows:
 3. **彼女は毎晩勉強しに家に帰ります。**
 ---
 By mastering this grammar point, you'll be able to express actions related to returning somewhere for a purpose more naturally and accurately in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

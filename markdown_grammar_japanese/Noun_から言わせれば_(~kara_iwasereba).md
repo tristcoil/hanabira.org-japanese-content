@@ -103,3 +103,8 @@ Putting it all together, **[Person]から言わせれば** literally means "if y
    *Answer:* **False** (They have similar but distinct meanings and are used differently.)
 ---
 *By mastering **Noun から言わせれば**, you can effectively express opinions from different perspectives in Japanese, adding depth to your conversations and writing.*
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -84,3 +84,8 @@ The structure **Verb ては Verb** is neutral and can be used in both formal and
    *It describes repetitive or cyclical actions, not simultaneous actions.*
 3. **English**: He reads books and then gets sleepy.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

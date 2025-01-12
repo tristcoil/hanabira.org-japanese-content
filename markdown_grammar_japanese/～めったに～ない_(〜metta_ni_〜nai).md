@@ -79,3 +79,8 @@ The basic structure is:
      - **Answer:** 彼らは英語をめったに話さない。
 ---
 Keep practicing using **めったに～ない** in your sentences to become more familiar with expressing rarity in Japanese!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

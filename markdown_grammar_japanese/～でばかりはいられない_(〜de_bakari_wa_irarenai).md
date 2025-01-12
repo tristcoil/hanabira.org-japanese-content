@@ -89,3 +89,8 @@ In Japanese culture, there is a strong emphasis on diligence, responsibility, an
    - **Answer**: I can't keep just resting. I have to continue working.
 ---
 By understanding and practicing this grammar point, you'll be able to express necessity and a sense of responsibility in Japanese more naturally.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

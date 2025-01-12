@@ -110,3 +110,8 @@ To form this pattern:
 2. **B) 町は 静か に なりました。**
 ---
 By understanding and practicing this grammar point, you'll be able to describe changes and transformations more naturally in Japanese. Keep practicing by creating your own sentences, and soon this pattern will become second nature!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

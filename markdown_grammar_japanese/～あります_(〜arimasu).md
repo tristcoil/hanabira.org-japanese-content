@@ -181,3 +181,8 @@ Is the following sentence correct? If not, correct it.
 </details>
 ---
 By understanding and practicing the usage of **あります**, you'll be able to describe existence and possession confidently in Japanese. Keep practicing with different nouns and locations to reinforce your learning!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

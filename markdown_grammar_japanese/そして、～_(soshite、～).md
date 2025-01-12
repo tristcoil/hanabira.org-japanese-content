@@ -107,3 +107,8 @@ Sentence 1。そして、Sentence 2。
    - Overusing it, which can make sentences sound repetitive.
 ---
 By understanding and practicing the use of "そして", you'll be able to connect your thoughts more naturally in Japanese and enhance the flow of your conversations and writings.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

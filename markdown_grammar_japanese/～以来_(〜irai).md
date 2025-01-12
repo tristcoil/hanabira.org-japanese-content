@@ -82,3 +82,8 @@ The grammar point ～以来 (〜いらい) is used in Japanese to indicate "sinc
 3. "Since returning to Japan, I spend time with my family every day."
 ---
 Feel free to revisit the examples and explanations to reinforce your understanding of ～以来 (〜いらい).
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

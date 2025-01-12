@@ -138,3 +138,8 @@ It's important to distinguish **おかげで** from similar grammar points:
    - **Answer**: b) 渋滞の**せいで**、遅刻した。
 ---
 By understanding how to use **～おかげで (〜okagede)**, you can more naturally express gratitude and acknowledge positive influences in your Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

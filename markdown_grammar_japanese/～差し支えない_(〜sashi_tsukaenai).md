@@ -100,3 +100,8 @@ Noun + 〜(で) + 差し支えない
    *Answer:* 差し支えない (sashitsukaenai)
 ---
 By mastering **～差し支えない**, you enhance your ability to navigate formal Japanese conversations with politeness and respect. Remember to consider the context and choose expressions that match the social setting.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

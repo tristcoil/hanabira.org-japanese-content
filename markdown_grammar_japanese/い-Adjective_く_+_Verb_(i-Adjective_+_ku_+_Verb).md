@@ -108,3 +108,8 @@ Changing an **い-adjective** into its **adverbial form** allows you to:
      Note: "**はっきり**" is an adverb meaning "clearly".
 ---
 By mastering this grammar point, you can add depth to your Japanese expressions and describe actions more vividly. Practice by converting い-adjectives you know into their adverbial forms and using them in sentences!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

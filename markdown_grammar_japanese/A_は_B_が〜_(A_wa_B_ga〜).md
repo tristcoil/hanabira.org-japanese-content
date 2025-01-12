@@ -160,3 +160,8 @@ The **A は B が〜** structure specifically highlights feelings, abilities, an
    </details>
 ---
 By understanding and practicing the **A は B が〜** structure, you'll be able to express personal feelings and states more naturally in Japanese. Remember to pay attention to particle usage and adjust your level of politeness according to the situation.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

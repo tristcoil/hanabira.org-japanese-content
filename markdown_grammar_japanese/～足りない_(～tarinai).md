@@ -89,3 +89,8 @@ While **足りない (tarinai)** is appropriate in casual conversation, in forma
 ---
 *Feel free to revisit this lesson to reinforce your understanding of ～足りない (～tarinai). Practice by creating your own sentences expressing insufficiency!*
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

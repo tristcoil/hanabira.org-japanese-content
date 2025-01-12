@@ -89,3 +89,8 @@ While **ながらに** can be attached to verb stems, it is most commonly used i
    - *That artist was a genius since birth.*
 ---
 **Practice creating your own sentences using ～ながらに to deepen your understanding of this grammar point!**
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -92,3 +92,8 @@ Noun + を問わず
      "He was late regardless of the reason."
 ---
 Feel free to revisit the examples and notes to reinforce your understanding of ～を問わず. Practice creating your own sentences to become more familiar with its usage!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

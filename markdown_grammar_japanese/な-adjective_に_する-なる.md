@@ -139,3 +139,8 @@ While both structures involve change, the key difference lies in intentionality:
      - **Answer:** 彼女はケーキを綺麗にします。
 ---
 By understanding the nuances between **にする** and **になる**, you can accurately express intentional actions and natural changes in Japanese, enhancing both your grammatical precision and cultural understanding.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

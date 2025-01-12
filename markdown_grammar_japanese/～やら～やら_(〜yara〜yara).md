@@ -105,3 +105,8 @@ The grammatical pattern **～やら～やら (〜yara〜yara)** is used in Japan
 3. **a)**
 ---
 By understanding and practicing ～やら～やら, you can express complex situations where multiple things are happening, adding depth to your Japanese conversations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

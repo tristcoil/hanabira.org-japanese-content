@@ -97,3 +97,8 @@ When combined, they form a rhetorical expression used to emphasize that somethin
 
 ---
 By understanding and practicing **Noun でなくてなんだろう**, you can express strong convictions and add emphasis to your Japanese expressions. Keep practicing by creating your own sentences, and soon it will become a natural part of your language skills!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

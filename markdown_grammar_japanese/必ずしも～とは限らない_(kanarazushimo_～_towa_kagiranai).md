@@ -86,3 +86,8 @@ In Japanese communication, being indirect or avoiding absolute statements is com
    - **Answer**: 必ずしも高級なレストランが美味しいとは限らない。
 ---
 By understanding and practicing **必ずしも～とは限らない**, you can express exceptions and make your Japanese more nuanced and natural.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

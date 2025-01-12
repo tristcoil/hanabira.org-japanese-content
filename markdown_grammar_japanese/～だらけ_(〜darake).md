@@ -140,3 +140,8 @@ In Japanese culture, precision and attention to detail are highly valued. Descri
    - "She came home covered in paint."
 ---
 By mastering **～だらけ**, you can more accurately describe situations where something is excessively filled or covered with undesirable elements, enhancing your descriptive abilities in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

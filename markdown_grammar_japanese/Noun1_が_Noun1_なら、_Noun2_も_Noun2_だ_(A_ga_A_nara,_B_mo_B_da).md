@@ -94,3 +94,8 @@ The formation of this grammar point is straightforward:
 ## Practice Exercise
 Create your own sentence using the pattern **"Noun1 が Noun1 なら、Noun2 も Noun2 だ"** to describe a situation you are familiar with.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

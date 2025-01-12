@@ -136,3 +136,8 @@ Item Particle Humble Verb
    - **Answer:** When you want to be polite or are receiving something from someone of higher status.
 ---
 By mastering **Nounをいただく**, you'll enhance your ability to communicate respectfully in Japanese, especially in formal settings.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

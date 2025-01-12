@@ -133,3 +133,8 @@ To form ～なくちゃいけない, you modify the verb into a specific negativ
    - *Karera wa atarashii kuruma o kawanakucha ikenai.*
 ---
 By understanding and practicing **～なくちゃいけない**, you can express obligations and necessities naturally in Japanese conversations. Remember to adjust the formality based on the context and the person you are speaking with.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

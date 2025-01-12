@@ -106,3 +106,8 @@ Tenki ga waruku narisō desu ne. Sore wa sō to, kasa o motte kimashita ka.
    *"Today's meeting was a success. By the way, let's talk about the next project."*
 ---
 Feel free to practice by incorporating **それはそうと** into your own sentences to become more comfortable with its usage!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

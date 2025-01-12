@@ -122,3 +122,8 @@ While **それに** itself is straightforward, it's often used in conjunction wi
 3. **映画は面白かったです。それに、サウンドトラックも素晴らしかったです。**
 ---
 By understanding and practicing the use of **それに**, you'll enhance the cohesiveness and fluency of your Japanese communication, making your speech and writing more compelling and natural.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

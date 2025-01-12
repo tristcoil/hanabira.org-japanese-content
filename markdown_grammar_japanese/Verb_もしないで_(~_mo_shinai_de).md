@@ -102,3 +102,8 @@ The structure **~もしないで** can be used in both casual and formal context
    - *Correction*: **彼女は相談もしないで出発した。**
      - *She departed without even consulting.*
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -95,3 +95,8 @@ Using **どなた** reflects the Japanese cultural emphasis on respect and socia
 2. **どなた** is more polite than **誰**.
 3. **どなた** — **ご担当者はどなたでしょうか。**
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

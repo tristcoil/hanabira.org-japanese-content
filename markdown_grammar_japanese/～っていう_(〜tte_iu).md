@@ -122,3 +122,8 @@ In Japanese culture, indirect communication is often valued. Using **～って�
    - *Answer:* No, use ～という instead in formal contexts.
 ---
 By understanding and practicing **～っていう**, you'll be able to express quotations, definitions, and emphasis naturally in everyday Japanese conversations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

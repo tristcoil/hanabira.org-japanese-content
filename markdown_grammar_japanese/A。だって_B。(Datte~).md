@@ -110,3 +110,8 @@ The exact meaning depends on the context in which it is used.
 3. **子供**だってわかるよ。
 ---
 By mastering **だって**, you can add nuance to your Japanese conversations, expressing reasons and emphasizing points more naturally. Practice using it in casual dialogues to become more comfortable with its usage.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

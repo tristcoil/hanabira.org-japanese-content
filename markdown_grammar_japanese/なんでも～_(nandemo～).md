@@ -140,3 +140,8 @@ The basic structure is:
    - **Answer:** False. (**何も** is used with negative verbs to mean "nothing.")
 ---
 By understanding **なんでも**, you can express flexibility and openness in Japanese conversations, which is an essential aspect of Japanese social interactions.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

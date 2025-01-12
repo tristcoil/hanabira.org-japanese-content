@@ -100,3 +100,8 @@ In Japanese communication, there is a cultural tendency to be modest and avoid o
    - *(Even though he is called a teacher, he's a student.)*
 3. **"Even though it's said to be expensive, it's not an unaffordable price."**
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

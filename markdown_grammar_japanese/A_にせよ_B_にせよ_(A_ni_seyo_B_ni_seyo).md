@@ -99,3 +99,8 @@ The grammar structure combines two or more options (nouns, verbs, or adjectives)
 ---
 By understanding and practicing **A にせよ B にせよ**, you'll enhance your ability to express complex conditions and improve your formal Japanese communication skills.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

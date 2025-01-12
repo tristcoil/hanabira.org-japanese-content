@@ -113,3 +113,8 @@ The basic structure is:
    - **Answer**: Informal contexts.
 ---
 By mastering **だから、～**, you enhance your ability to express logical relationships in Japanese, making your speech and writing more coherent and natural.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

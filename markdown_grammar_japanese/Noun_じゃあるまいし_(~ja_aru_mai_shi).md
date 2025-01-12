@@ -131,3 +131,8 @@ In Japanese culture, expressing oneself indirectly or softly is common. Using **
      - Used commonly in casual spoken Japanese.
 ---
 By understanding **じゃあるまいし**, you can add nuance to your Japanese expressions, especially when you need to refute an assumption or add a polite justification in conversation.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

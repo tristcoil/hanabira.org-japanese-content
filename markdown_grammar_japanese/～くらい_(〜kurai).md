@@ -105,3 +105,8 @@ Noun + くらい
    - **Answer**: I'm so tired that I feel like dying.
 ---
 By mastering **～くらい**, you'll enhance your ability to describe quantities and express the extent of actions or emotions, making your Japanese conversations more natural and expressive.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

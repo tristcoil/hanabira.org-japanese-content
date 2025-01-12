@@ -92,3 +92,8 @@ While **～となったら** is not idiomatic, it can be part of common expressi
    **Answer**: Forgetting to properly connect adjectives or nouns with **だ** before **と** when necessary.
 ---
 By practicing and using **～となったら** in your sentences, you'll enhance your ability to discuss potential situations and express thoughtful considerations in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

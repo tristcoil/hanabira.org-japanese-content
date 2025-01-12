@@ -103,3 +103,8 @@ In Japanese culture, there is a strong emphasis on perseverance and commitment. 
 
 ---
 By understanding and practicing **～にもかかわらず**, you can enhance your ability to express complex contrasts in formal Japanese. Keep practicing by creating your own sentences using this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

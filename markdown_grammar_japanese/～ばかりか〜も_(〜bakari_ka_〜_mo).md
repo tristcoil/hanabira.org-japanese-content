@@ -101,3 +101,8 @@ In this lesson, we'll explore the Japanese grammar point **～ばかりか〜も
    *Answer*: Missing **も** after the second element. Correct sentence: その店は安いばかりか、店員**も**親切。
 ---
 By mastering **～ばかりか〜も**, you can add depth and emphasis to your Japanese expressions, articulating nuances that enrich your communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

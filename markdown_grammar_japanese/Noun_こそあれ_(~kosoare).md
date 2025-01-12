@@ -108,3 +108,8 @@ Try creating sentences using **こそあれ** with the following nouns:
 3. **課題** (かだい) - issue
 ---
 By incorporating **こそあれ** into your vocabulary, you can express complex ideas and contrasts more effectively in Japanese, particularly in formal settings.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

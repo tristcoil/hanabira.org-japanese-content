@@ -134,3 +134,8 @@ Both grammar points express intentions or plans, but there's a nuance:
    **Answer:** False. You should use **～と思っています** to indicate someone else's ongoing thought or intention.
 ---
 By understanding and practicing **～ようと思う**, you'll be better equipped to express your intentions naturally in Japanese conversations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

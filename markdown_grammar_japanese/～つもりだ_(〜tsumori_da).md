@@ -126,3 +126,8 @@ The structure varies slightly depending on whether you're forming an affirmative
    - **Answer:** ～つもりだ expresses personal intention, while ～予定だ refers to scheduled plans or arrangements.
 ---
 By mastering **～つもりだ**, you can effectively communicate your intentions and plans in Japanese, enhancing both your conversational skills and cultural understanding.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

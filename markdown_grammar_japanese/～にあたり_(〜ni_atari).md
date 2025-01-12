@@ -97,3 +97,8 @@ The structure involves attaching **～にあたり** to a noun or the dictionary
    - **Answer:** Dictionary form (plain present tense)
 ---
 ### Thank you for studying **～にあたり**! Practice using this expression in formal contexts to enhance your Japanese proficiency.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

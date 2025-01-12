@@ -106,3 +106,8 @@ While **Verbた ときに** is straightforward, it's often used in idiomatic exp
 ---
 By understanding and practicing **Verbた ときに**, you'll be able to accurately describe sequences of past events and enhance your communication in Japanese.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

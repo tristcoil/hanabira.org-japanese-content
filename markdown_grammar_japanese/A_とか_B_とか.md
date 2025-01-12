@@ -100,3 +100,8 @@ Translate the following sentence:
 
 ---
 By understanding and practicing **A とか B とか**, you can effectively list examples and make your Japanese sound more natural and conversational.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

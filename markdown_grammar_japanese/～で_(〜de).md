@@ -157,3 +157,8 @@ While **で** itself does not convey politeness, it is used within sentences tha
    b. 駅**で**会いましょう。
 ---
 Congratulations on learning about the particle **で**! Keep practicing to solidify your understanding.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

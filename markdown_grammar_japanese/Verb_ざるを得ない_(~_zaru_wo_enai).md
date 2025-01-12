@@ -90,3 +90,8 @@ To get the negative stem of a verb, take the verb and change it to its negative 
 3. Translate: *I have no choice but to accept the result.*
    - **Answer:** **結果を受け入れざるを得ない。**
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

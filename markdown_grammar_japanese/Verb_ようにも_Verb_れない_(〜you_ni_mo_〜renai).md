@@ -101,3 +101,8 @@ While **Verb ようにも Verb れない** is itself a grammatical structure, it
    - **Correction**: *話そうにも話せない。*
 ---
 Feel free to ask any questions or request further clarification on any points covered in this lesson!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

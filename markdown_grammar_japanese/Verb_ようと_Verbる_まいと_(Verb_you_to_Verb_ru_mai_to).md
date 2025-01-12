@@ -105,3 +105,8 @@ In Japanese culture, expressing determination and unwavering commitment is value
 4. Using incorrect verb forms, such as misforming the volitional form or incorrectly using the negative instead of **まい**.
 ---
 By mastering **〜ようと〜まいと**, you can express complex sentences that show determination and unaffected outcomes, adding depth to your Japanese language skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

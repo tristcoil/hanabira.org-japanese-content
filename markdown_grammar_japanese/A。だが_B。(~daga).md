@@ -89,3 +89,8 @@ While **だが** itself is a conjunction, understanding its usage can help with 
 3. b) **天気は悪い。だが、出かけます。**
 ---
 By mastering **だが**, you enhance your ability to express contrasting ideas formally in Japanese, which is especially useful in academic and professional writing.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

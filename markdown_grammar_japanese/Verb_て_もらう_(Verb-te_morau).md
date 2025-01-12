@@ -117,3 +117,8 @@ It's important to distinguish **Verb て もらう** from similar expressions:
 
 ---
 By mastering **Verb て もらう**, you'll enhance your ability to communicate favors and express gratitude in Japanese, making your interactions more natural and culturally appropriate.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

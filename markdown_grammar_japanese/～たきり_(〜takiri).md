@@ -79,3 +79,8 @@ In Japanese culture, there is often an expectation of promptness and regular com
 
 ---
 Practice using **〜たきり** in your own sentences to describe situations where something hasn't happened since a particular action.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

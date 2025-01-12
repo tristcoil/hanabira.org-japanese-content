@@ -116,3 +116,8 @@ It is used to:
    - **Answer:** No, it's more suitable for formal or written contexts.
 ---
 By understanding and practicing **Noun にして**, you can add depth and emphasis to your Japanese expressions, especially in formal writing or speech.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

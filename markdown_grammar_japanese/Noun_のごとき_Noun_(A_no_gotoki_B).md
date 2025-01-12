@@ -114,3 +114,8 @@ Noun B
 2. **b) Formal writing or literature.**
 3. **a) 彼のごとき人は珍しい。**
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -128,3 +128,8 @@ Passive forms can also soften statements, making them more polite or less direct
    **Answer**: The verb あげる should not be in passive form here. It should be 友達にプレゼントをあげた。(*I gave a present to my friend.*)
 ---
 Thank you for studying **Verb られる (〜rareru)**! Keep practicing to master the passive form and enhance your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

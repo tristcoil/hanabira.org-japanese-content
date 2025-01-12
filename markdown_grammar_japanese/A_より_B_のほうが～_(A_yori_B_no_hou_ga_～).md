@@ -111,3 +111,8 @@ In Japanese culture, expressing preferences and making comparisons is often done
      - "English is easier than Japanese."
 ---
 By mastering **"A より B のほうが～"**, you can express comparisons naturally and enhance your Japanese communication skills!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

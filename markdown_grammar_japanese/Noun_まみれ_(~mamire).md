@@ -112,3 +112,8 @@ The use of **〜まみれ** itself is neutral in politeness. However, the overal
 ---
 By mastering the use of **〜まみれ**, you can vividly describe situations where someone or something is unpleasantly covered in a substance, adding depth to your Japanese expression.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

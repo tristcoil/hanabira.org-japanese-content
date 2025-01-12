@@ -113,3 +113,8 @@ While **～たところ** itself is a grammatical construction, it's often found
      *映画を**見たところ**、友達に会いました。*
 ---
 Congratulations! You've learned how to use **～たところ** to describe immediate results or discoveries after completing an action. Keep practicing by making your own sentences to reinforce your understanding.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

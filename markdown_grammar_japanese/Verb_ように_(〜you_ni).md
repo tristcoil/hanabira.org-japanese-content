@@ -100,3 +100,8 @@ In Japanese culture, indirect communication is valued to maintain harmony and sh
 
 ---
 Feel free to revisit this lesson to strengthen your understanding of **Verb ように (〜ように)**. Practice by creating your own sentences, and soon you'll master this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

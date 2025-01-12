@@ -108,3 +108,8 @@ The expression **"Noun + からある"** is used to indicate that there is **"ov
    - **"からある"** is not used with the number of people; **"からの"** is used instead.
 ---
 By understanding and practicing the usage of **"Noun + からある"**, you'll be able to accurately express large quantities in Japanese and appreciate the nuances of the language more deeply.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

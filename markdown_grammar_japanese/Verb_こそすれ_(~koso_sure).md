@@ -95,3 +95,8 @@ While **〜こそすれ** itself is not idiomatic, it is often used in idiomatic
    - **Answer**: Formal contexts.
 ---
 Feel free to practice by creating your own sentences using **〜こそすれ** to solidify your understanding!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

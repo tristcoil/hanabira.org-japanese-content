@@ -96,3 +96,8 @@ While **しかも** itself isn't part of an idiomatic expression, it's often use
    - **Answer**: b) 彼女はピアノが弾ける。しかも、ギターも上手だ。
 ---
 By understanding and practicing **しかも**, you can improve the flow of your sentences and make your Japanese sound more natural and persuasive.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -131,3 +131,8 @@ True or False:
   - **Explanation**: **〜から見ると** should follow a noun, not a verb.
 ---
 By mastering **〜から見ると**, you can express various perspectives and enhance your Japanese communication skills. Keep practicing by forming sentences from different viewpoints!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

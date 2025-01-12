@@ -96,3 +96,8 @@ The basic structure is:
      - *Answer:* b)
 ---
 By mastering **"Nounをくださる"**, you enhance your ability to communicate respectfully and appropriately in Japanese, especially in formal situations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -146,3 +146,8 @@ Verb (ない-form) + ほうがいい
 3. **Incorrect.** "昨日" (yesterday) indicates past time, but **たほうがいい** is used for present or future advice. The correct sentence would be without "昨日" or rephrased appropriately.
 ---
 By understanding and practicing **Verb たほうがいい**, you can offer advice and suggestions respectfully in various social contexts in Japanese. Keep practicing by incorporating this grammar point into your daily conversations!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

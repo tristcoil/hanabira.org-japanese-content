@@ -111,3 +111,8 @@ Both structures are used to express regret, but there is a subtle difference.
    **Answer:** 雨が降っていなければのに。
 ---
 Feel free to practice by creating your own sentences using ～ば～のに to express regrets or wishes about different situations!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -119,3 +119,8 @@ In Japanese culture, expressing one's decisions can sometimes be nuanced, especi
    - **Answer:** **ことにする** indicates a decision to do something, while **ようにする** means to make an effort to do something or ensure that something happens.
 ---
 By understanding and practicing **Verb ることにする**, you'll be able to express your decisions confidently in Japanese. Keep practicing by making sentences about your own decisions, and soon it will become a natural part of your language use!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

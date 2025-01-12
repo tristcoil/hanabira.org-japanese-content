@@ -100,3 +100,8 @@ In Japanese culture, expressing the willingness to try something new can reflect
 
 ---
 By understanding and using **〜てみる**, you can express your intentions to try new actions and experiences in Japanese, making your conversations more dynamic and engaging.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

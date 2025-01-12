@@ -104,3 +104,8 @@ The general structure is:
 
 ---
 Feel free to create your own sentences using **あまり～ないです** to express things you don't do much or qualities that aren't very strong!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

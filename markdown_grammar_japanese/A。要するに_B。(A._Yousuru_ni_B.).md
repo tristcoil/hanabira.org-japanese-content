@@ -142,3 +142,8 @@ Using **「要するに」** too frequently can make speech sound repetitive.
 ---
 By mastering **「要するに」**, you'll be able to communicate your thoughts more effectively and ensure your listeners understand the main points you're conveying.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

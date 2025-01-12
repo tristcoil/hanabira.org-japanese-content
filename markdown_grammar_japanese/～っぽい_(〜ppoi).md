@@ -97,3 +97,8 @@ The suffix **～っぽい (〜ppoi)** is a versatile and commonly used grammar p
 3. **子供っぽい**行動はやめなさい。
 ---
 Feel free to create your own sentences using ～っぽい to become more familiar with its usage!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

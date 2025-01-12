@@ -99,3 +99,8 @@ The structure of this grammar point is:
    - **Answer:** "No one watched that movie."
 ---
 By understanding and practicing this grammar point, you'll be able to express negations involving people naturally in Japanese. Keep practicing with different verbs to become more comfortable with this structure!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

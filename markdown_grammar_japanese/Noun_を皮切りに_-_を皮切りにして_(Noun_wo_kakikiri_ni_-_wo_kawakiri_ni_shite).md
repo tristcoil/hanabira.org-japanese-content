@@ -74,3 +74,8 @@ The structure involves attaching **を皮切りに** or **を皮切りにして*
 3. **新店舗のオープンを皮切りに、全国に展開していく予定です。**
 ---
 By mastering **を皮切りに**, you can effectively describe the commencement of significant sequences in Japanese, adding depth to your language skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

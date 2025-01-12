@@ -85,3 +85,8 @@ The grammar point ～ままに (〜mama ni) is used to express doing something "
 ## Additional Resources
 - For further reading on similar grammar points, refer to ～とおりに and ～ながら.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

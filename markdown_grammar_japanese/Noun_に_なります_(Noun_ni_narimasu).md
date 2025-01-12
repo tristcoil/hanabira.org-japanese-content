@@ -116,3 +116,8 @@ In Japanese culture, roles and titles play a significant role in social interact
    - **Answer:** **その都市は大都市になります。**
 ---
 Feel free to revisit this lesson for reinforcement, and try creating your own sentences using **Noun に なります** to describe changes in your life!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

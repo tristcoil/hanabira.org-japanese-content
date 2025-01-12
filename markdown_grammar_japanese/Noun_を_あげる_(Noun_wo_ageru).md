@@ -122,3 +122,8 @@ Understanding the differences between **あげる**, **くれる**, and **もら
    - **Answer:** **私はあなたにプレゼントをあげます。**
 ---
 Remember, practicing with real-life situations will help solidify your understanding of **Noun を あげる**. Try creating your own sentences and use this grammar point in conversations!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

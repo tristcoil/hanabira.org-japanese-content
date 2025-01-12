@@ -93,3 +93,8 @@ The structure varies depending on the type of predicate:
    - **Answer**: ～はずだ expresses expectation based on reasoning, while ～に違いない expresses strong conviction or certainty.
 ---
 Feel free to revisit the examples and explanations to reinforce your understanding of ～はずだ. Practice by creating your own sentences to describe things you expect to happen!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

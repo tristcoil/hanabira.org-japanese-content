@@ -96,3 +96,8 @@ In Japanese culture, perseverance and determination are highly valued traits. Us
 ---
 # Thank you for studying with us!
 Practice using **たとえ～ても** in your daily conversations to become more comfortable with expressing hypothetical situations in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

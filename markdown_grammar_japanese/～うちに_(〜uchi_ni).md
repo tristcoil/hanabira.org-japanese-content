@@ -145,3 +145,8 @@ In Japanese culture, there's an emphasis on **seizing the moment** and **valuing
    - **Answer:** No error; this sentence is correct.
 ---
 By mastering **～うちに**, you can articulate actions that should be taken during certain conditions, enriching your expression in Japanese. Keep practicing by creating your own sentences!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

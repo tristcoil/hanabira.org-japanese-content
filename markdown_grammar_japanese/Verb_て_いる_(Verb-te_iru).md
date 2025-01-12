@@ -134,3 +134,8 @@ To form the **Verb ている** construction:
      - *Is he married?* (Note: The sentence is correct, but the translation should be "Is he married?" The mistake was in the translation.)
 ---
 By mastering **Verb ている**, you'll significantly improve your ability to describe actions and states in Japanese, bringing you one step closer to fluency. Keep practicing by forming sentences about your daily routines and current actions!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -104,3 +104,8 @@ The formation of ～つもりでした depends on the type of verb or adjective 
 3. The **dictionary form** of the verb.
 ---
 By mastering ～つもりでした, you enhance your ability to discuss past intentions and reflect on actions, a subtlety that adds depth to your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

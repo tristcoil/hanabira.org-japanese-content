@@ -108,3 +108,8 @@ While **に限ったことでもない** itself is an idiomatic phrase, it can b
 ---
 By understanding and practicing **「Noun に限ったことでもない」**, you can more effectively express that an issue or situation is not confined to a single entity, but is more widespread. Try incorporating this grammar point into your own sentences to enhance your Japanese communication skills!
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

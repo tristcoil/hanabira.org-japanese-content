@@ -107,3 +107,8 @@ In Japanese culture, there is an emphasis on understanding relationships and soc
 3. **Translation**: "Knowing that she is a hard worker, she probably won't give up until the end."
 ---
 By mastering **〜のことだから**, you can express nuanced assumptions in Japanese, adding depth to your conversations based on your understanding of people and things around you.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

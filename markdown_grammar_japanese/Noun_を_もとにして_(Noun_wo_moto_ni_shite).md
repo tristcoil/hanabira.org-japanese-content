@@ -108,3 +108,8 @@ The grammar pattern **をもとにして** is neutral and can be used in both fo
 ---
 # Acknowledgments
 This lesson was designed to help you understand and use the grammar pattern **Noun を もとにして** effectively in various contexts. Practice by creating your own sentences, and soon it will become a natural part of your Japanese expression.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

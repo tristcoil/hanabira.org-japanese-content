@@ -107,3 +107,8 @@ Past ----------------- Present ----------------- Future
    **Answer:** False.
 ---
 By understanding and practicing **Verb-るところ**, you'll be able to express imminent actions confidently and naturally in Japanese conversations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -139,3 +139,8 @@ Try creating your own sentences using **～ば～ものを** to express regret o
   *If only I had decided sooner.*
 ---
 By understanding and practicing **～ば～ものを**, you can express nuanced emotions such as regret and criticism in a culturally appropriate and linguistically accurate manner in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

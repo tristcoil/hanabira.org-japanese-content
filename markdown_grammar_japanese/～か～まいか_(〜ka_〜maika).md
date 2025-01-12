@@ -114,3 +114,8 @@ Verb (dictionary form) + か + Verb (dictionary form minus る) + まいか
    **Answer**: No, it's more formal and often used in written language or formal speech.
 ---
 By understanding and practicing **～か～まいか**, you can enhance your ability to express indecisiveness or contemplation in Japanese, especially in formal contexts.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

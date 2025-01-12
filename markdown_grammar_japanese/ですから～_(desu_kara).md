@@ -104,3 +104,8 @@ The structure is straightforward:
    **Answer**: ですから
 ---
 By mastering **「ですから」**, you'll enhance your ability to articulate reasons and conclusions in a polite and formal manner, which is invaluable in both written and spoken Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

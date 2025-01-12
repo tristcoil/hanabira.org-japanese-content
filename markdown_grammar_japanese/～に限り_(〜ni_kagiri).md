@@ -87,3 +87,8 @@ Both **～だけ** and **～に限り** can mean "only," but they differ in form
 
 ---
 By understanding and practicing **～に限り**, you'll enhance your ability to comprehend and use formal Japanese, especially in contexts where specifying exclusive conditions is important.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

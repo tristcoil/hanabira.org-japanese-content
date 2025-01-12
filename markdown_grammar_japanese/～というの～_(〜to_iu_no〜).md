@@ -129,3 +129,8 @@ While both **～というの** and **～ということ** nominalize clauses, th
    **Answer:** を (彼が来ないというのを知っていますか？)
 ---
 Feel free to revisit this lesson and practice constructing your own sentences using **～というの**!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

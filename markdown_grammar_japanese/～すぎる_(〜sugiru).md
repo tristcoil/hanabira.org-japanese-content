@@ -118,3 +118,8 @@ These expressions reflect the Japanese cultural emphasis on balance and moderati
    **Answer:** Forgetting to remove the final い before adding すぎる.
 ---
 By understanding and practicing the use of ～すぎる, you'll be able to express excessiveness naturally in Japanese, enhancing both your fluency and comprehension.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

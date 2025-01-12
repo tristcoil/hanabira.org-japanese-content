@@ -120,3 +120,8 @@ In Japanese culture, **responsibility and harmony** are highly valued. When some
 2. **a) 済む (sumu) - to finish/to suffice**
 3. **His actions probably can't be settled with just an apology.**
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

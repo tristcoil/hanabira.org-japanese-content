@@ -115,3 +115,8 @@ Both expressions convey that something is impossible, but there's a subtle diffe
    **Answer:** a) そんなに食べるわけがないよ。
 ---
 Feel free to revisit this lesson and practice using **～わけがない** in your own sentences. With consistent practice, you'll be able to express impossibilities confidently in Japanese!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

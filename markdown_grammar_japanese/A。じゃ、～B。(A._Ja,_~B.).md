@@ -137,3 +137,8 @@ Ashita wa yasumi da. Ja, doraibu ni ikō ka.
    「時間がありません。**では**、行きましょう。」
 ---
 By understanding and practicing this grammar pattern, you'll be able to make your Japanese conversations more fluid and natural in casual settings. Remember to adjust your language according to the level of formality required!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

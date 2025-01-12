@@ -93,3 +93,8 @@ The formation of this grammar point is straightforward:
 3. 彼は **失敗** こそすれ、嘘をつくことはない。  
    _He may fail, but he would never tell a lie._
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

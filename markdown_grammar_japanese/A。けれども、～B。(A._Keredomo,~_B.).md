@@ -108,3 +108,8 @@ A[Sentence A]
    - **Answer:** The weather is bad. However, the game will be held.
 ---
 By mastering **A。けれども、～B。**, you'll be able to express contrasting ideas more naturally in Japanese and enhance your overall fluency.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

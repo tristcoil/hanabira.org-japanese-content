@@ -88,3 +88,8 @@ Verb (て-form) + みせる
    - **てみせる:** To show or prove by doing something.
 ---
 *Feel confident to use **Verb てみせる** to express your determination and show others what you can do!*
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

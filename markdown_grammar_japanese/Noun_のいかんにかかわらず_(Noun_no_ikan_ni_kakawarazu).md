@@ -111,3 +111,8 @@ Below are examples demonstrating how **Noun のいかんにかかわらず** is 
    **Answer**: **b) 性別のいかんにかかわらず**
 ---
 By understanding and practicing this grammar point, you'll enhance your ability to comprehend and compose formal Japanese texts. Remember to pay attention to context and formality to ensure your language use is appropriate and natural.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

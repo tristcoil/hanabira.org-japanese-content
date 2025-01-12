@@ -116,3 +116,8 @@ Noun + だけ
 
 ---
 Feel free to review this lesson and practice using **だけ** in your daily conversations to become more comfortable with its usage!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

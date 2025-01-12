@@ -116,3 +116,8 @@ The formation of **～ながらも** depends on the part of speech preceding it:
    - **Answer**: Using the polite ます-form instead of the verb stem before ながらも.
 ---
 By understanding and practicing **～ながらも**, you can express contrasting ideas more naturally in Japanese, adding depth and nuance to your conversations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -147,3 +147,8 @@ Let's compare **「Verbてくださいませんか」** with similar request for
 ---
 By understanding and using **「Verbてくださいませんか」**, you can communicate more effectively and respectfully in formal Japanese situations.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

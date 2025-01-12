@@ -105,3 +105,8 @@ While **によらず** itself is not idiomatic, it's commonly used in set phrase
      **経験によらず、挑戦できます。**
 ---
 By understanding and practicing **Noun によらず**, you can express inclusivity and neutrality in your Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

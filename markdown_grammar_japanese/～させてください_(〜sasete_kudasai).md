@@ -139,3 +139,8 @@ The causative form of a verb expresses making or letting someone do something. H
    - **Explanation:** The verb should be in the causative form **終わらせる (owaraseru)**, not passive **終わられる (owarareru)**.
 ---
 By understanding and practicing **～させてください**, you can enhance your ability to make polite requests and navigate social situations in Japanese with greater confidence.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

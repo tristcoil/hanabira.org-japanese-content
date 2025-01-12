@@ -97,3 +97,8 @@ The basic sentence structure using *だれ* is:
 
 ---
 **Congratulations!** You've learned how to use **だれ** to ask questions about people in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

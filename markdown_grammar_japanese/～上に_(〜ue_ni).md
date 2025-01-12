@@ -79,3 +79,8 @@ While both **～上に** and **～だけでなく** indicate addition, **～上�
 2. **No**, because the clauses have different tones (positive and negative).
 3. **試験は難しい上に、時間も足りなかった。**
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

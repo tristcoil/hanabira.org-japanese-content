@@ -92,3 +92,8 @@ In Japanese culture, humility and respect are deeply ingrained in language. Usin
    - **Answer:** False (unless used sarcastically or in an exaggerated polite manner)
 ---
 Feel free to practice by creating your own sentences using **Noun を さしあげる** to become more comfortable with this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

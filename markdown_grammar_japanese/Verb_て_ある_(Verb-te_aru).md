@@ -157,3 +157,8 @@ The level of politeness can be adjusted by changing the verb endings:
 ---
 By understanding and using **Verb てある**, you can more accurately describe situations where someone has performed an action intentionally, and the resultant state is important to the context.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

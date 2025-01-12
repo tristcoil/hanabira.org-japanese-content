@@ -100,3 +100,8 @@ This expression emphasizes staying at home and is commonly used in contexts such
 3. **Fill in the blank:** To say "I will go somewhere," use **どこかへ行きます。** (*Dokoka e ikimasu.*)
 
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -98,3 +98,8 @@ Far from being bad at singing, she's a professional singer.
 3. 忙しすぎる。(*He's far from having time; he's too busy.*)
 ---
 By understanding and practicing **～どころか**, you'll be able to express contrasts effectively and enhance the nuance in your Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

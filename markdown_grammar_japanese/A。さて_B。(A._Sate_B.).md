@@ -113,3 +113,8 @@ A。さて B。
 1. To transition smoothly to a new topic or point.
 2. Neutral.
 3. **さて**
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

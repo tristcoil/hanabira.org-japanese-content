@@ -100,3 +100,8 @@ In Japanese communication, expressing viewpoints from different perspectives is 
    - **Answer:** False
 ---
 Happy studying! Remember to use ～から言うと to express perspectives thoughtfully, reflecting the nuanced communication styles in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

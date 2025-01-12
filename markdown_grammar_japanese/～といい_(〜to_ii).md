@@ -94,3 +94,8 @@ Adding **「なあ」** adds emphasis and makes it more casual or expressive.
 ---
 By mastering 「～といい」, you can express your hopes and wishes naturally in Japanese conversations.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -83,3 +83,8 @@ In Japanese culture, perseverance and effort (努力と忍耐) are highly valued
 
 ---
 By understanding and using **〜かいがあって**, you can express appreciation for the fruits of your or someone else's labor, fitting naturally into conversations about achievements and hard work in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

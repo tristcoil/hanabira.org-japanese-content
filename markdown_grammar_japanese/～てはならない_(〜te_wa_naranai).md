@@ -90,3 +90,8 @@ While all three expressions convey prohibition, they differ in formality and int
    **Answer:** ～てはならない is more formal.
 ---
 By mastering ～てはならない, you enhance your ability to understand and use formal Japanese, especially in contexts involving rules, regulations, and formal prohibitions.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

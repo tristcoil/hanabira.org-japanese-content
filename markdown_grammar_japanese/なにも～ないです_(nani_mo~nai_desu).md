@@ -117,3 +117,8 @@ The basic structure is:
 
 ---
 By understanding and practicing **なにも～ないです**, you can confidently express the absence of something or that you haven't done anything, which is a fundamental aspect of daily communication in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

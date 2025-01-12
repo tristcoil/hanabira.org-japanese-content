@@ -73,3 +73,8 @@ The expression **～ぶって** is informal and can be considered rude if used d
    **Answer:** ～ふりをする is more neutral.
 ---
 By understanding **～ぶって**, you can recognize when someone is commenting on another's pretentious behavior and use it appropriately (and cautiously) in informal contexts.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -78,3 +78,8 @@ In Japanese culture, expressing one's own opinion directly can sometimes be cons
    - **Answer**: **に言わせれば** introduces someone's expressed opinion, while **にとって** indicates what something means to someone or their personal judgment.
 ---
 Feel free to review these points and practice creating your own sentences using **に言わせれば**!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

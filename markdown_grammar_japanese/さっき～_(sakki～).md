@@ -103,3 +103,8 @@ Let's compare **さっき** with similar time expressions to understand their nu
 3. **最近 (saikin)** refers to events that happened over the last few days to weeks.
 ---
 By mastering **さっき**, you enhance your ability to discuss recent past events naturally in Japanese. Keep practicing by incorporating **さっき** into your daily conversations!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

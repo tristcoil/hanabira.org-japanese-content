@@ -109,3 +109,8 @@ In Japanese culture, introspection and personal realization are valued traits. T
 
 ---
 By understanding and practicing **～てはじめて**, you can express moments of significant realization or experiences that happen only after a particular event, adding depth to your Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

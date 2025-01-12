@@ -106,3 +106,8 @@ A すなわち B
    - Translation: "He is a doctor. **In other words**, a health specialist."
 ---
 By mastering **すなわち**, you'll be able to express definitions and clarifications more effectively, enhancing your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

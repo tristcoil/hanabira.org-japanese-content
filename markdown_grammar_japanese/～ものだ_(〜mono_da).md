@@ -128,3 +128,8 @@ Understanding how to use **～ものだ** appropriately will enhance your abilit
    - **Answer**: (a) 学生は勉強するものだ。 (*Students are supposed to study.*)
 ---
 *By mastering **～ものだ**, you can add depth and emotion to your Japanese expressions, making your communication more natural and impactful.*
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

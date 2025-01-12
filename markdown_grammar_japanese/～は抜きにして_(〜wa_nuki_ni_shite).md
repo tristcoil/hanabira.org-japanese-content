@@ -102,3 +102,8 @@ These idiomatic uses are common in both business and casual conversations.
 ---
 By understanding and practicing **～は抜きにして**, you can effectively steer conversations to focus on what's important, a useful skill in both professional and personal contexts.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

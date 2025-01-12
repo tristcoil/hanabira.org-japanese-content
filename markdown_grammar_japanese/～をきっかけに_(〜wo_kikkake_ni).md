@@ -81,3 +81,8 @@ In Japanese culture, acknowledging the catalyst or starting point of a change is
    *(Volunteering provided the opportunity to meet many people.)*
 ---
 By understanding and practicing **～をきっかけに**, you can express causal relationships more naturally in Japanese. Keep incorporating this structure into your speaking and writing to enhance your fluency.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

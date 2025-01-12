@@ -109,3 +109,8 @@ Try crafting your own sentences using **「Verbることのないように」**:
    **Answer Example:** 倒れることのないように、健康に注意しています。
 ---
 Feel free to share your sentences with peers or teachers for feedback!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -105,3 +105,8 @@ In Japanese culture, the concept of time and the sequence of events are signific
 
 ---
 *This lesson provided an in-depth look at how to use **Noun の あとで** in Japanese. Practice forming your own sentences to become more familiar with this grammar point!*
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

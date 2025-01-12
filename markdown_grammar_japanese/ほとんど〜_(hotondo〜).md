@@ -120,3 +120,8 @@ Understanding the nuances of **ほとんど** is important for accurately expres
    **Answer**: 私は中国語がほとんどわからない。
 ---
 By mastering **ほとんど〜**, you can express nuances in quantity and frequency more naturally in Japanese. Keep practicing by creating your own sentences using **ほとんど** in different contexts!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

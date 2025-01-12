@@ -94,3 +94,8 @@ In Japanese culture, there's an appreciation for the transient nature of things,
 
 ---
 By understanding and practicing **～たかと思ったら**, you'll enhance your ability to describe events that occur in quick succession, adding depth and fluency to your Japanese expression.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -77,3 +77,8 @@ Using **~なりとも** adds a humble or modest tone to a request or statement. 
    - **Answer:** No, because **美しい** is an adjective. **~なりとも** should be used with nouns.
 ---
 Feel free to ask any questions or request further examples!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

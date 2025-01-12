@@ -123,3 +123,8 @@ In Japanese culture, there is often an emphasis on modesty and suppressing stron
 ---
 By mastering **～がらないで**, you'll enhance your ability to express empathy and offer comfort in Japanese, making your conversations more natural and heartfelt.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -118,3 +118,8 @@ Try creating your own sentence using **AであれBであれ**:
   "Whether it's a dog or a cat, pets are part of the family."
 ---
 Keep practicing to become comfortable with this structure, and you'll be able to add sophisticated expressions to your Japanese!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

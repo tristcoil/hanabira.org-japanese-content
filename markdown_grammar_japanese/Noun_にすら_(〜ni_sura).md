@@ -113,3 +113,8 @@ While **にすら** is less common in spoken Japanese, you might encounter it in
    - **Answer:** False. **にすら** is formal and more common in written language.
 ---
 By understanding and practicing **Noun にすら (〜ni sura)**, you can enhance your Japanese language skills, especially in formal writing and speech, to convey strong emphasis and nuance.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -87,3 +87,8 @@ Noun + を + 前提にして + Main Action
    - **Answer**: B) 天気が良いことを前提にしてピクニックに行こう。
 ---
 Feel free to create your own sentences using **"Noun を前提にして"** to become more comfortable with this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

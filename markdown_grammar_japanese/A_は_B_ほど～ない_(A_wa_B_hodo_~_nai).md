@@ -109,3 +109,8 @@ In Japanese culture, modesty and humility are valued. Using structures like **Aã
 ---
 By understanding and practicing this grammar point, you'll be able to make nuanced comparisons in Japanese more naturally. Remember to pay attention to the structure and use it to express that something doesn't quite match up to something else in degree or extent.
 ---
+
+
+---
+
+Â© [Hanabira.org](https://hanabira.org)

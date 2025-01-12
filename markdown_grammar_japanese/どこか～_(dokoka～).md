@@ -114,3 +114,8 @@ These expressions are common in daily conversations to express uncertainty or fa
 ---
 By understanding and practicing **どこか**, you can effectively communicate uncertainty or generality about locations in Japanese. Keep practicing by incorporating it into your daily conversations!
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

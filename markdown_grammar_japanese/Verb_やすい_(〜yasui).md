@@ -103,3 +103,8 @@ Step-by-step to form **〜やすい**:
      - "This town has maps and is easy to walk around."
 # 
 By understanding **〜やすい**, you can better express ease and tendencies in actions, making your Japanese more natural and nuanced.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

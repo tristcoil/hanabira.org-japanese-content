@@ -106,3 +106,8 @@ B --> C[+ でしょう]
 3. **彼は先生でしょう。**  
    *Kare wa sensei deshou.*
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

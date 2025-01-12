@@ -94,3 +94,8 @@ In Japanese society, understanding the context and the **specialness of situatio
 2. **False.** ～とあって should be used for special or notable situations, not ordinary ones.
 ---
 By understanding and practicing **～とあって**, you'll be able to describe cause-and-effect relationships in situations that are special or significant, adding depth to your Japanese expression.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -110,3 +110,8 @@ It translates roughly to "**should**" or "**ought to**" in English.
    - **Answer:** **～ことだ** offers mild advice or suggestions, while **～べきだ** expresses a stronger sense of moral obligation or duty.
 ---
 By mastering **～ことだ (〜koto da)**, you'll be able to give and understand advice effectively, enriching your Japanese communication skills!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

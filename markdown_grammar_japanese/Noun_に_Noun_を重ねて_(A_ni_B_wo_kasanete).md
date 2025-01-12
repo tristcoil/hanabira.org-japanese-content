@@ -97,3 +97,8 @@ This structure is neutral and can be used in both formal and informal contexts. 
 3. Example: **経験に経験を重ねて、彼は優秀な医者になった。**  
    "By accumulating experience upon experience, he became an excellent doctor."
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

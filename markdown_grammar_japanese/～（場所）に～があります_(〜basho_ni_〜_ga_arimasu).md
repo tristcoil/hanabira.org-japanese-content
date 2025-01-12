@@ -145,3 +145,8 @@ The basic structure of this grammar point is:
 ---
 By understanding and practicing **～（場所）に～があります**, you can effectively describe where things are, enhancing both your conversational and descriptive skills in Japanese.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

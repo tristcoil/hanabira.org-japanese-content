@@ -81,3 +81,8 @@ While **べからず** is a classical and literary form, **〜てはいけない
    *Answer*: False
 ---
 Feel free to revisit this lesson to reinforce your understanding of **Verbるべからず**. Practice by spotting this grammar in signs or texts to become familiar with its usage.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

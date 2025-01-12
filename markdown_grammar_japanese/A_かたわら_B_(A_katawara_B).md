@@ -106,3 +106,8 @@ In Japanese culture, balancing multiple roles is often admired. Using **かた�
    - **Answer**: b)
 ---
 By understanding and practicing **A かたわら B**, you can express complex sentences about dual activities, enhancing your fluency and sophistication in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

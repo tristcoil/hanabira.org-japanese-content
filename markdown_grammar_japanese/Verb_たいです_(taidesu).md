@@ -140,3 +140,8 @@ The **たいです** ending conjugates like an **い形容詞 (i-adjective)**.
    - *Mitakunakatta desu.*
 ---
 By mastering **「動詞＋たいです」**, you can effectively communicate your wants and desires in Japanese, enhancing your conversational skills and cultural understanding.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

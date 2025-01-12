@@ -140,3 +140,8 @@ The formation of **～限り** depends on the type of word it attaches to:
 ---
 ---
 By mastering **～限り**, you can articulate conditions and limitations more naturally in Japanese. Keep practicing with different sentence structures to enhance your understanding!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

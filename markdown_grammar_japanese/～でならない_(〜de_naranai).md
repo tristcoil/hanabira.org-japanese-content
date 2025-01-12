@@ -125,3 +125,8 @@ While not idiomatic, this expression can add a **literary** or **poetic** tone t
 3. **It is more formal.**
 ---
 By understanding and practicing **～でならない**, you'll be able to express deep, uncontrollable emotions naturally and appropriately in various contexts.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

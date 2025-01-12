@@ -103,3 +103,8 @@ The basic structure for using **～よりほかない** is:
 3. **b) ～しかない**
 ---
 By understanding and practicing **～よりほかない**, you'll enhance your ability to express necessity and lack of alternatives in Japanese. Remember to pay attention to the formality and context when using this expression.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

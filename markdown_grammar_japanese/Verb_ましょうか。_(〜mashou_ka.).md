@@ -109,3 +109,8 @@ The formation of **〜ましょうか** depends on the verb's conjugation. Here�
 3. **False**: That usage corresponds to **〜ませんか**.
 ---
 By mastering **〜ましょうか**, you'll be able to make polite suggestions and offers, enhancing your communication in various social contexts in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -98,3 +98,8 @@ Leaving things unattended or in disarray might be considered rude or irresponsib
 3. Please don't leave the radio on.
 ---
 By understanding ～っぱなし, you can express situations where something is left unattended or continues without intervention, adding depth to your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

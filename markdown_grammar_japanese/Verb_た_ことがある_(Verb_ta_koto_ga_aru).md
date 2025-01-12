@@ -99,3 +99,8 @@ In Japanese culture, discussing past experiences is a common way to connect with
    - **Correction**: 日本に行ったことがある。
 ---
 Feel free to review this lesson and practice using **Verbたことがある** in your own sentences!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

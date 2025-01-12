@@ -114,3 +114,8 @@ The basic structure using **の** is:
    - **Answer**: Incorrect. Correct sentence: 先生の学生です。
 ---
 **Keep practicing using の to connect nouns, and you'll soon find it becomes second nature!**
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

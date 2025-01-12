@@ -165,3 +165,8 @@ In Japanese culture, time management and punctuality are highly valued. Using ex
      - **Explanation:** The verb should be in its **ta-form (past tense)**.
 ---
 By understanding and practicing **Verbたあとで (ta ato de)**, you'll be able to express sequences of events more naturally in Japanese. Keep practicing by making sentences about your daily routines and soon this grammar point will become second nature!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

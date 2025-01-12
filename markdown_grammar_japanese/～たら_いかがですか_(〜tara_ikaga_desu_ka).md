@@ -116,3 +116,8 @@ To form this expression, follow these steps:
 ---
 By understanding and using **～たら いかがですか**, you can make polite suggestions that are appropriate for formal situations in Japanese. Remember to pay attention to verb forms and the level of politeness to communicate effectively and respectfully.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

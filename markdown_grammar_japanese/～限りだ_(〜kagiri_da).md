@@ -94,3 +94,8 @@ In Japanese culture, expressing emotions openly can be nuanced. **～限りだ**
    - **Answer:** No, it's used with adjectives.
 ---
 By incorporating **～限りだ** into your speech, you can express your emotions more deeply and connect with others in a meaningful way. Practice using it in sentences to become more comfortable with its nuances.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

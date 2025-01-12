@@ -92,3 +92,8 @@ This phrase encourages resilience and is reflective of a cultural emphasis on pe
    - **Answer**: a) **Noun + に関わらず**
 ---
 By understanding and practicing **はどうであれ**, you can express the concept of "regardless of" in various situations, adding nuance and depth to your Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

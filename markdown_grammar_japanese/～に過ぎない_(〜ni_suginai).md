@@ -89,3 +89,8 @@ The structure of **～に過ぎない** depends on whether it follows a noun or 
    - **Answer**: 彼女は助けようとしたに過ぎない。(*She merely tried to help.*)
 ---
 With consistent practice and exposure, you'll become more comfortable using **～に過ぎない** in various contexts. Remember to pay attention to the formality of the situation and choose the appropriate level of politeness.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

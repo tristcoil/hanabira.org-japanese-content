@@ -96,3 +96,8 @@ The verb **極まる (きわまる)** means "to reach an extreme" or "to be extr
 3. "His actions are extremely absurd."
 ---
 By mastering **～極まる**, you can convey strong emotions and judgments, adding depth to your Japanese expression, especially in formal contexts.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

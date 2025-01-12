@@ -218,3 +218,8 @@ These expressions are often used to imply that, while possible, there may be rea
    - 行かないことはないが、今日は家にいたい。
      *It's not that I can't go, but I want to stay home today.*
 ---"
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

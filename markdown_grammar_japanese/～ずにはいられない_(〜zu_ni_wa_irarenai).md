@@ -90,3 +90,8 @@ Both expressions mean **"can't help but..."**, but there are subtle differences.
 3. **True or False**: **～ずにはいられない** is more common in casual spoken Japanese.
    - **Answer**: **False** (It's more formal; **～ないではいられない** is more common in casual speech.)
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

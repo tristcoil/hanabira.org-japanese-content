@@ -143,3 +143,8 @@ Please fill out this form with your name, date of birth, and so on.
 5. **Japanese:**  
    ハイキングやキャンプ**など**の活動を楽しみます。
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -105,3 +105,8 @@ In Japanese culture, emphasizing preparation and proper procedure is important. 
    - **Answer:** I check the weather before going out.
 ---
 By understanding and practicing **Verbる前に**, you can accurately describe sequences of actions and better express timing in Japanese conversations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

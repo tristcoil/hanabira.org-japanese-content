@@ -125,3 +125,8 @@ In Japanese society, expressing things politely and indirectly is valued to main
      *Mō* (already) with affirmative form.
 ---
 By mastering **まだ～ません**, you'll be able to express pending actions politely and enhance your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

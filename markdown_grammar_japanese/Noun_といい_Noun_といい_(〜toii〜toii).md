@@ -109,3 +109,8 @@ This structure is often used to stress the speaker's point emphatically.
 
 ---
 Feel free to practice by creating your own sentences using **Noun といい Noun といい** to describe things around you!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

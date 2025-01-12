@@ -107,3 +107,8 @@ This grammar pattern is used to indicate that the first item is obvious or given
    - スポーツ**はもちろん**、音楽**も**好きだ。
 ---
 *By understanding and practicing this grammar point, you can express inclusivity and emphasize additional information naturally in Japanese.*
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

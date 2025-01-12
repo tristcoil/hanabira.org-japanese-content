@@ -113,3 +113,8 @@ To form this expression, attach **切る (きる)** to the **masu-stem (pre-masu
 3. a) **やり切った**
 ---
 By understanding and practicing **～切る**, you'll be able to express complete actions more naturally and vividly in Japanese. Keep practicing with different verbs to solidify your grasp of this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -106,3 +106,8 @@ In this lesson, we'll explore the Japanese grammar point **～までだ (～made
    **Answer:** False. (That's **～までに**.)
 ---
 By mastering **～までだ**, you enhance your ability to express subtle nuances in Japanese, conveying modesty or resignation appropriately in various contexts.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

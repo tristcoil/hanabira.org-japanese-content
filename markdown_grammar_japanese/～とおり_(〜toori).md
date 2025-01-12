@@ -113,3 +113,8 @@ The structure of **〜とおり** depends on the word that precedes it.
 2. **True**
 ---
 By mastering **〜とおり**, you can more accurately describe situations that occur as expected or instructed, enhancing both your comprehension and expression in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

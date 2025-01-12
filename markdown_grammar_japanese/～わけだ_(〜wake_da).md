@@ -90,3 +90,8 @@ The basic structure involves attaching ～わけだ to the plain form of verbs, 
 2. **彼は昨夜眠らなかったから、眠いわけだ。**
 3. **わけだ** expresses a logical conclusion, while **から** simply states a reason.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

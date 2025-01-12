@@ -89,3 +89,8 @@ Both **こと** and **の** are used to nominalize verbs, but they have subtle d
    - **Answer**: 見るのが楽しい。
 ---
 Feel free to create your own sentences using **Verbるの** to express your thoughts and preferences!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -81,3 +81,8 @@ The structure of ～にかかわらず is as follows:
    - **Answer**: False
 ---
 By understanding and practicing **～にかかわらず**, you can express "regardless of" conditions in Japanese, enhancing the formality and precision of your language skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

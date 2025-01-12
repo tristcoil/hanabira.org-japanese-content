@@ -153,3 +153,8 @@ Tomodachi ga hon wo kureru.
 
 ---
 By understanding and practicing "Noun を くれる," you can accurately express receiving actions directed toward you, respecting the nuances of Japanese social interactions.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

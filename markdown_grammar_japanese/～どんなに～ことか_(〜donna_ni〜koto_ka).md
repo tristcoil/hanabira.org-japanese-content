@@ -102,3 +102,8 @@ These idiomatic uses emphasize the depth of emotion associated with waiting or s
    *Answer*: b) How much I worried about him.
 ---
 By mastering **～どんなに～ことか**, you can express deep emotions and add richness to your Japanese communication. Remember to practice by reflecting on situations where you felt strong feelings and try expressing them using this grammar point.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

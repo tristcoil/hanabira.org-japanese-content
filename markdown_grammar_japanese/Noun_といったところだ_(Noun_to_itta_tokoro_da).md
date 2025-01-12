@@ -103,3 +103,8 @@ In Japanese culture, modesty and understatement are valued, especially in commun
    - **Answer:** False. It can be used in both formal and informal contexts.
 ---
 By understanding and practicing **Noun といったところだ**, you'll be able to express estimates and convey modesty in your Japanese communication. Remember to pay attention to context and formality to use this grammar point effectively.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

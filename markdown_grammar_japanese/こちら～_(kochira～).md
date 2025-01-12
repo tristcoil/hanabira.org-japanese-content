@@ -105,3 +105,8 @@ It's often used in formal situations or when showing respect.
    - **Answer:** C) こちら
 ---
 By understanding and using **こちら** appropriately, you'll enhance your politeness in Japanese communication and navigate social interactions more effectively.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

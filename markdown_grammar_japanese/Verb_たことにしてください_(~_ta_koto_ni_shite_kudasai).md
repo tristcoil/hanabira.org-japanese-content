@@ -90,3 +90,8 @@ To form this expression:
 ---
 By mastering **Verb たことにしてください**, you enhance your ability to make polite and nuanced requests in Japanese, which is essential for effective communication in formal settings.
 Feel free to practice by creating your own sentences using this grammar structure!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

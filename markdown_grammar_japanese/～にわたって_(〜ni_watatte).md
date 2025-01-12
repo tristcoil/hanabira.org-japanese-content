@@ -94,3 +94,8 @@ The grammar point **～にわたって (〜ni watatte)** is used in Japanese to 
    *Answer:* False. It must be attached to a noun indicating time, area, or range.
 ---
 *Keep practicing using ～にわたって in different contexts to become more comfortable with its usage!*
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

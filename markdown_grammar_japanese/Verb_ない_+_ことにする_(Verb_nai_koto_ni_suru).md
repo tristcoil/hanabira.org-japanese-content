@@ -105,3 +105,8 @@ In Japanese culture, making decisions, especially those that may affect others, 
 2. b) Verb ない + ようにする
 ---
 By understanding and practicing this grammar point, you'll be able to express your decisions not to perform certain actions in Japanese, adding nuance and clarity to your conversations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

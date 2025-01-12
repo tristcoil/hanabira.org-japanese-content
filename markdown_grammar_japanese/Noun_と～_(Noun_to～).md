@@ -141,3 +141,8 @@ While **と** is used to connect nouns explicitly, other particles like **や** 
 3. 日本語は面白い**と**思います。
 ---
 By understanding and practicing these uses of **と**, you'll be able to communicate more effectively and naturally in Japanese. Keep practicing, and soon using **と** will become second nature!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

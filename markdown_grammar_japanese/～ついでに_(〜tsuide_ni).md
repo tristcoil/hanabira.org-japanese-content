@@ -92,3 +92,8 @@ In Japanese culture, being considerate and efficient is valued. Using **～つ�
 3. "While I was out shopping, I dropped by a friend's house."
 ---
 Keep practicing using **～ついでに** in your daily conversations to become more familiar with its usage!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

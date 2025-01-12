@@ -95,3 +95,8 @@ While both **ずくめ** and **だらけ** attach to nouns to indicate abundance
    - **Answer**: a) 今日は本当に運ずくめの日だ。
 ---
 By understanding and practicing the usage of **ずくめ**, you can add nuance to your Japanese expressions, emphasizing the totality of experiences or characteristics in various contexts.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

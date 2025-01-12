@@ -103,3 +103,8 @@ He quit his job, they say. So basically, that project might be canceled.
 3. **「すなわち」** is more formal than 「つまり」.
 ---
 By mastering **「つまり」**, you'll enhance your ability to convey clear and concise messages in Japanese. Keep practicing by summarizing conversations or texts using this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -122,3 +122,8 @@ Noun + のいかんによらず
    **Answer:** b) 天気にかかわらず
 ---
 By understanding **〜のいかんによらず**, you can enhance your ability to comprehend and compose formal Japanese statements. Practice by creating sentences using this grammar point in formal contexts.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -106,3 +106,8 @@ While both **もっと** and **さらに** mean "more" or "further," they have s
    - **Answer:** True.
 ---
 By mastering **もっと〜 (motto〜)**, you'll enhance your ability to express more nuanced thoughts and desires in Japanese. Remember to practice using it in various sentences to internalize its usage.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

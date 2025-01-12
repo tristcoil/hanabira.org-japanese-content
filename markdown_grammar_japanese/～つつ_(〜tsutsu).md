@@ -101,3 +101,8 @@ These expressions often reflect internal conflict or regret, common themes in Ja
 
 ---
 By understanding and practicing ～つつ, you can enhance your proficiency in formal Japanese and better appreciate the nuances of the language.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

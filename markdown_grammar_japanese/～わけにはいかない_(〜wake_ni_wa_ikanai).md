@@ -124,3 +124,8 @@ In Japanese culture, there is a strong emphasis on **social harmony** and **fulf
 
 ---
 Feel free to revisit this lesson and practice using **～わけにはいかない** in your own sentences to become more comfortable with expressing obligations in Japanese!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -102,3 +102,8 @@ While **～とあれば** itself isn't idiomatic, it's often used in expressions
 
 ---
 By understanding and using **～とあれば**, you can express actions motivated by significant conditions, reflecting a deeper level of commitment or necessity in your Japanese communication. Practice by creating sentences about situations where you would take special actions, ensuring the conditions are truly significant.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

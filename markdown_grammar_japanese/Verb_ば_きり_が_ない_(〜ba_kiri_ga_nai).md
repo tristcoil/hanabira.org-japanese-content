@@ -84,3 +84,8 @@ In Japanese culture, there is often an emphasis on being concise and not overbur
    - **Answer:** While grammatically correct, it uses **〜たら** instead of **〜ば**. To use **〜ばきりがない**, it should be **彼の話を聞けばきりがない。**
 ---
 I hope this detailed explanation helps you understand and use **〜ばきりがない** effectively in your Japanese studies!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

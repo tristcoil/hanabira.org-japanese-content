@@ -94,3 +94,8 @@ The grammar point **～？それとも～？** (～? *sore tomo* ～?) is used i
    - **Answer**: b)
 ---
 By understanding and practicing **～？それとも～？**, you can effectively offer choices in questions and enhance your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

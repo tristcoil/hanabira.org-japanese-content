@@ -132,3 +132,8 @@ The structure combines the hypothetical **もし (moshi)** with **としても (
 ---
 By mastering **もし～としても**, you'll enhance your ability to discuss hypothetical scenarios in Japanese, making your language use more nuanced and expressive. Practice regularly, and soon it will become a natural part of your Japanese communication toolkit.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

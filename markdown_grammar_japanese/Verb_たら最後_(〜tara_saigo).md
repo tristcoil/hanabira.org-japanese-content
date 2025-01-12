@@ -96,3 +96,8 @@ In this lesson, we'll explore the Japanese grammar point **「〜たら最後」
    **Answer**: **〜たら最後** emphasizes an irreversible negative outcome after an action, while **〜たとたん** focuses on the immediacy of the next action without necessarily implying a negative consequence.
 ---
 By understanding **〜たら最後**, you can express strong warnings or emphasize the seriousness of certain actions in Japanese. Remember to use it appropriately to convey the intended level of severity.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

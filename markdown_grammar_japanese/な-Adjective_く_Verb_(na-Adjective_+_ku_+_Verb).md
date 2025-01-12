@@ -113,3 +113,8 @@ To form the adverbial form of a **な-Adjective**:
    - You add **に** to a **な-Adjective** to form an adverb.
 ---
 By understanding and applying the **な-Adjective + に + Verb** pattern, you can add depth and clarity to your Japanese expressions, accurately conveying how actions are performed.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

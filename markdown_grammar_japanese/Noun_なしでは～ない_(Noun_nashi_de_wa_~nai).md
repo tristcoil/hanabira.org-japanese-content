@@ -114,3 +114,8 @@ These expressions are commonly used to emphasize the necessity of love, money, o
 ---
 By mastering **Noun なしでは～ない**, you'll be able to effectively express the necessity and indispensability of things in Japanese, enhancing both your spoken and written communication skills.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

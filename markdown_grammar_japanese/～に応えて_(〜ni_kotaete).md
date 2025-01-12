@@ -132,3 +132,8 @@ B) **先生の質問に応えて、答えた。**
   **Explanation**: This sentence correctly shows responding to a question. Option A is incorrect because an exam is not a request or expectation that one responds to with surprise.
 ---
 By understanding and practicing **～に応えて**, you'll enhance your ability to express responsiveness and meet expectations in Japanese, aligning your language skills with cultural nuances.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

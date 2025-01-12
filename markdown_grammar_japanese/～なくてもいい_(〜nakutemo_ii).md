@@ -93,3 +93,8 @@ In Japanese culture, **indirectness and consideration** are valued. Using **～�
    - **Answer**: False. It expresses that you **don't have to** do something.
 ---
 By understanding **～なくてもいい**, you can communicate effectively when giving others permission **not** to do something, making your Japanese sound more natural and considerate.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

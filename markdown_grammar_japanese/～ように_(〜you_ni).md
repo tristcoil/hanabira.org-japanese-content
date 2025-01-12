@@ -144,3 +144,8 @@ In Japanese culture, expressing hopes and purposes subtly is important to mainta
 ---
 Understanding **～ように** enhances your ability to express intentions and hopes in Japanese, making your speech more natural and culturally appropriate.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

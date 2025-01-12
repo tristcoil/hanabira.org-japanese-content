@@ -111,3 +111,8 @@ The basic structure is:
    **Explanation:** **から** should be **からといって** to convey "just because".
 ---
 By understanding **～からといって**, you can express nuances in reasoning and clarify that certain assumptions may not hold true, which is essential for advanced Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

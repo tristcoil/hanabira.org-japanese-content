@@ -124,3 +124,8 @@ Using the causative-passive form can imply a subtle complaint or expression of i
 3. It conveys that the subject was made to do something, often unwillingly or without control over the action.
 ---
 By understanding the **～させられる** form, you can express complex situations involving obligation and compulsion, which are common in daily interactions in Japanese society.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

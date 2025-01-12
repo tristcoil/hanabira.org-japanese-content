@@ -81,3 +81,8 @@ Connecting adjectives using the て-form reflects the Japanese language's emphas
 
 ---
 By understanding and practicing the い-adjective て-form, you'll enhance your ability to express complex ideas and descriptions in Japanese naturally.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

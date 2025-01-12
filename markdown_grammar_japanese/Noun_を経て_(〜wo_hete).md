@@ -119,3 +119,8 @@ When you attach **を経て** to a noun, you express that the action or state de
    *After passing the exam, he entered university.*
 ---
 By understanding and practicing **を経て**, you can more eloquently describe processes and experiences that lead to outcomes in Japanese, especially in formal contexts.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

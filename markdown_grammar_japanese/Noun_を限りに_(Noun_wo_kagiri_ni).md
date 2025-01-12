@@ -108,3 +108,8 @@ The expression **を限りに** is neutral in politeness but can be adjusted wit
 2. b) **昨日を限りに**
 3. *He will quit the team after this time.*
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -119,3 +119,8 @@ In Japanese culture, indirect references are common. Using **そんな** allows 
    **Answer:** **そんな結果は予想していなかった。**
 ---
 By mastering **そんな + Noun**, you'll be able to more naturally describe and refer to things in conversation, enhancing your fluency in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

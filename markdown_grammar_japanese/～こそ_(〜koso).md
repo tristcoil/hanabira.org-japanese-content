@@ -91,3 +91,8 @@ In Japanese culture, emphasizing humility and acknowledging others is important.
    - **Answer:** b) **あなたこそ**が必要です.
 ---
 **Congratulations!** You've learned how to use **～こそ** to add emphasis in Japanese sentences. Remember to practice using it in different contexts to become more comfortable with its nuances.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

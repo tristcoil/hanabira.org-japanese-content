@@ -114,3 +114,8 @@ By understanding and practicing this grammar point, you'll enhance your ability 
 *Example Answer*: *大雨の影響で、イベントは延期を余儀なくされた。*
 ---
 *Remember*: Focus on using nouns that represent actions, and use this expression in appropriate formal contexts to convey forced circumstances accurately.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

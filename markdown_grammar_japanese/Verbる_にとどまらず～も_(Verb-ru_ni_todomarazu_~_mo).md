@@ -106,3 +106,8 @@ This grammar point is similar to:
    *The internet has become indispensable not only as a means of communication but also in business and education.*
 ---
 By understanding and practicing this grammar point, you can express complex ideas about the extent and impact of actions and states, enhancing your proficiency in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

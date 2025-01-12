@@ -123,3 +123,8 @@ While **～だけましだ** itself is neutral, politeness is conveyed through o
 ---
 By mastering **～だけましだ**, you'll enhance your ability to express nuanced feelings of relief and gratitude in Japanese, bringing you one step closer to fluency.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

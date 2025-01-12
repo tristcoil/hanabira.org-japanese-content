@@ -121,3 +121,8 @@ In casual Japanese conversations, you might often hear people ending their sente
 ---
 By mastering **～んだって**, you can effectively share information you've heard and sound more like a native speaker in casual conversations. Remember to be mindful of the context and switch to formal expressions when necessary.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

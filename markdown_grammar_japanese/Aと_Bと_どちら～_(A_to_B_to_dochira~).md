@@ -93,3 +93,8 @@ In Japanese culture, indirectness and politeness are valued. Using **Aと Bと �
    *Ringo to banana to dochira ga amai desu ka.*
 3. **どちらも好きです。**
    *Dochira mo suki desu.*
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

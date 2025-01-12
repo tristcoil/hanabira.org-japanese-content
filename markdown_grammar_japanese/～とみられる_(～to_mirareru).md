@@ -118,3 +118,8 @@ The formation of **～とみられる** depends on the part of speech of the pre
 
 ---
 By understanding and practicing the use of **～とみられる**, you can enhance your ability to read and comprehend formal Japanese texts, as well as express conjectures in a polite and formal manner.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

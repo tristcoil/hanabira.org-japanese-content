@@ -111,3 +111,8 @@ In Japanese culture, indirectness and humility are valued in communication. Whil
    - Answer: 彼女は嘘をつくべきではない。
 ---
 By understanding and practicing the usage of ～べきだ, you'll be able to give strong recommendations and express obligations appropriately in Japanese. Remember to consider the context and politeness level to communicate effectively and respectfully.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

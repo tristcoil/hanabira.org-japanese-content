@@ -120,3 +120,8 @@ In Japanese culture, indirect communication is valued to maintain harmony and sh
    **Answer**: The verb should be in past tense before adding ら. Correct form: 試験に合格したらいい。
 ---
 By understanding and practicing **～たらいい**, you can offer suggestions and express wishes naturally and politely in Japanese conversations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

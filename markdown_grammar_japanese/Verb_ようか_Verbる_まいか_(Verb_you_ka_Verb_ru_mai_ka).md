@@ -126,3 +126,8 @@ c) 明日、雨が降るべきか降るまいか考えている。
 **b)** 明日、雨が **降ろうか降るまいか** 心配だ。
 ---
 By understanding and practicing this grammar pattern, you'll be able to express your internal debates and hesitations more naturally in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

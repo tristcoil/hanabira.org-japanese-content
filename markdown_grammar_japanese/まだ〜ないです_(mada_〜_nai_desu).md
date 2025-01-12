@@ -108,3 +108,8 @@ The basic structure is:
 ---
 By mastering **まだ〜ないです**, you'll enhance your ability to discuss pending actions and express yourself more naturally in Japanese.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

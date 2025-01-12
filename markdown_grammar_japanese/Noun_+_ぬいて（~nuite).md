@@ -88,3 +88,8 @@ Noun + を + 抜いて
    - **Answer**: True
 ---
 By understanding **Noun + 抜いて**, you can more accurately express exceptions and exclusions in Japanese. Practice using this grammar point in your own sentences to become more familiar with its usage.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

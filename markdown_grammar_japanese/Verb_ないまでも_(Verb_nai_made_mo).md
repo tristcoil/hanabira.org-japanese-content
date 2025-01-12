@@ -121,3 +121,8 @@ Verb (ない form) + までも
    - **Answer:** b) **彼は行かないまでも、連絡はするべきだ。**
 ---
 By understanding and practicing **Verb ないまでも**, you can express nuanced ideas about expectations and compromises in Japanese. Keep practicing with different verbs and contexts to master this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

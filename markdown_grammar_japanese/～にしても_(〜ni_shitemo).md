@@ -125,3 +125,8 @@ The formality can be adjusted by choosing appropriate verbs and polite forms:
    *Even if it's expensive, I want to buy it if the quality is good.*
 ---
 *End of Lesson*
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

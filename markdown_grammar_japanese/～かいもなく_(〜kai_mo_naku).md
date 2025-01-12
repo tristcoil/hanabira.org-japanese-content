@@ -110,3 +110,8 @@ The term **かい (甲斐)** means "effect", "result", or "worth". By adding **�
 1. a) かいもなく
 2. **False**
 3. b) 掃除したかいもなく、すぐに部屋が汚れた。
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -119,3 +119,8 @@ How is everyone studying Japanese?
 3. Yes, but in very formal contexts, **どのように** may be preferred.
 ---
 Feel free to revisit the examples and notes to strengthen your understanding of **どうやって**. Practice forming your own sentences to become more comfortable with this essential grammar point.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -86,3 +86,8 @@ It emphasizes that no matter which of the two situations (A or B) occurs, the sa
    *Answer:* "Whether it's good or bad, this experience will help you grow."
 ---
 Feel free to review these points and practice creating your own sentences using **「A につけ B につけ」** to solidify your understanding!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

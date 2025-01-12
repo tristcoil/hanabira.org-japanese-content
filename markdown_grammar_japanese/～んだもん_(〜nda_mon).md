@@ -116,3 +116,8 @@ The expression **～んだもん** is a colloquial Japanese grammar structure us
    "Because I like it."
 ---
 By understanding and practicing **～んだもん**, you can express reasons in a more personal and emotional way, adding depth to your informal Japanese conversations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

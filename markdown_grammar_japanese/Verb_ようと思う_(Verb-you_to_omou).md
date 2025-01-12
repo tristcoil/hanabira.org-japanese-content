@@ -152,3 +152,8 @@ While both structures express intention, there are subtle differences:
    - Typically, **ようと思う** is used to express the speaker's own intentions. To speak about someone else's intentions, phrases like **ようと思っているようです** ("it seems they are thinking of...") are used.
 ---
 By understanding and practicing **Verb ようと思う**, you'll be able to express your intentions naturally and appropriately in Japanese conversations. Remember to pay attention to the context and adjust your politeness level accordingly. Keep practicing, and soon this grammar point will become a natural part of your Japanese language toolkit!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

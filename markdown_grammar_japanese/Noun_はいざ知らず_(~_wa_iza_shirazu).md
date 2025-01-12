@@ -106,3 +106,8 @@ Noun + は + いざ知らず + [Rest of the sentence]
    **English**: "I don't know about luxury items, but at this price, this quality is wonderful."
 ---
 By understanding and practicing **「Noun はいざ知らず」**, you'll be able to express contrasts and nuances more effectively in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

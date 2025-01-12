@@ -107,3 +107,8 @@ The Japanese grammar point **～ところだった (〜tokoro datta)** is used t
 
 ---
 By understanding and practicing **～ところだった**, you can effectively express those moments of narrowly avoided actions or events in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

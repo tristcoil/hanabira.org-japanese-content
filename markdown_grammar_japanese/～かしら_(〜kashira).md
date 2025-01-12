@@ -83,3 +83,8 @@ The formation of sentences with **～かしら** is straightforward:
 3. **Which is more masculine: ～かな or ～かしら?**
    - **Answer**: ～かな is more neutral or slightly masculine.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

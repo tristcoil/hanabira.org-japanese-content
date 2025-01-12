@@ -116,3 +116,8 @@ The grammar point ～も同然だ (*~mo dōzen da*) is used in Japanese to expre
    - **Answer**: **彼は先生も同然だ。**
 ---
 By mastering **～も同然だ**, you can add nuance to your Japanese expressions, conveying subtle shades of meaning that reflect native usage.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -123,3 +123,8 @@ These expressions, while using **によって** and **による**, convey the id
    **Answer:** b) による
 ---
 By understanding the usage of **～により**, you can enhance your comprehension and expression in formal Japanese settings.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

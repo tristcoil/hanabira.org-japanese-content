@@ -143,3 +143,8 @@ The basic structure is:
 ---
 By understanding and using **Verb ように言う**, you'll improve your ability to convey indirect speech in Japanese, making your communication more nuanced and culturally appropriate.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

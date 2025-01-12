@@ -140,3 +140,8 @@ While **の嫌いがある** itself is an idiomatic expression, it is part of se
 3. **False**
 ---
 By mastering **Noun の 嫌いがある**, you can articulate observations about habitual tendencies in a nuanced and culturally appropriate manner. This will enhance your Japanese communication skills, especially in formal writing and discussions.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

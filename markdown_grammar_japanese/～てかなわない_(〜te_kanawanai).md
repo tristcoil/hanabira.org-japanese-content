@@ -102,3 +102,8 @@ While **〜てかなわない** is itself an expression of intolerance, it's oft
 2. **False.** It's used for expressing annoyance or discomfort, not positive desires.
 3. **b) このペンは書きにくくてかなわない。**
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

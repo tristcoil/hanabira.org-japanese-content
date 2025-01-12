@@ -130,3 +130,8 @@ Always use the **dictionary form** of the verb before **つもり**, not the mas
 ---
 By understanding and practicing **Verb + つもり**, you'll be able to effectively communicate your intentions and plans in Japanese. Keep practicing by expressing your daily plans!
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

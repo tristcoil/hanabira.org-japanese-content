@@ -138,3 +138,8 @@ Noun1 や Noun2 など
 
 ---
 Keep practicing by creating your own sentences using **「Noun や Noun など」**. This will help you become more comfortable with listing examples naturally in Japanese!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

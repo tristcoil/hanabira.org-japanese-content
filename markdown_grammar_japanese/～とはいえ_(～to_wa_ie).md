@@ -109,3 +109,8 @@ The formation of **～とはいえ** is:
 ---
 By mastering **～とはいえ**, you'll enhance your ability to express complex thoughts and contrasts in Japanese, making your communication more effective and nuanced.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

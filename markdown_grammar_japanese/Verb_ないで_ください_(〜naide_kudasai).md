@@ -140,3 +140,8 @@ To form this expression:
 ---
 By mastering **〜ないでください**, you'll enhance your ability to communicate politely and effectively in Japanese, especially when requesting someone to refrain from certain actions.
 Feel free to practice by creating your own sentences using this pattern!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

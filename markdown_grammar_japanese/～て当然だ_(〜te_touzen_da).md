@@ -123,3 +123,8 @@ Mainichi renshū shiterun dakara, umaku naru no wa tōzen da yo.
 3. **Answer**:  
    **～のも無理はない** conveys a stronger sense of empathy or understanding.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

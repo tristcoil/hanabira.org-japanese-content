@@ -147,3 +147,8 @@ The particle **も (mo)** is a common and versatile particle in Japanese that ad
    - **Answer:** False (It means "no one" or "nothing.")
 ---
 Congratulations! You've learned how to use **も** to enhance your Japanese sentences by expressing inclusivity and emphasis. Keep practicing by incorporating **も** into your daily conversations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

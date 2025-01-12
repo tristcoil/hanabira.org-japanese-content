@@ -97,3 +97,8 @@ In Japanese culture, multitasking, especially during meals or formal settings, c
    **Answer**: It connects the verb phrase with the noun, turning the verb action into a modifier for the noun.
 ---
 With this understanding of **～ながらの Noun**, you can now describe nouns in the context of simultaneous actions, adding depth and detail to your Japanese expressions. Practice by creating your own sentences using this structure!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

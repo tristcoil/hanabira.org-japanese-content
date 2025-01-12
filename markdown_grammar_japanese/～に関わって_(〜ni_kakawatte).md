@@ -130,3 +130,8 @@ Noun + に関わって
 3. **C) に関わって**
 ---
 By mastering **～に関わって**, you'll be able to articulate complex relationships and deepen your expressions in Japanese. Keep practicing by creating your own sentences and paying attention to how native speakers use this grammar point in context.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

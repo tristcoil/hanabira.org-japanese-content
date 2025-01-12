@@ -108,3 +108,8 @@ The structure involves a noun followed by **をもとに**, and it can be used i
 
 ---
 By understanding and practicing **「Noun をもとに」**, you'll enhance your ability to express concepts related to foundations and sources in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

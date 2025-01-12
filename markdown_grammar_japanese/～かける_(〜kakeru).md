@@ -92,3 +92,8 @@ The grammar point ～かける (〜kakeru) is a versatile expression in Japanese
 3. ～かける indicates an action started but not finished; ～始める indicates the start of an action.
 ---
 *Note: Ensure to practice forming sentences with ～かける to become comfortable with its usage in various contexts.*
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -100,3 +100,8 @@ Here are some natural-sounding sentences using **～でしょうがない** in v
 ---
 By understanding and practicing **～でしょうがない**, you can more naturally express strong feelings in Japanese, adding depth to your language skills.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

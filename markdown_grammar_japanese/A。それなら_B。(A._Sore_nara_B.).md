@@ -109,3 +109,8 @@ A: お疲れのようですね。
 3. B (Your response based on A)
 ---
 By mastering **「それなら」**, you can make your Japanese conversations more coherent and logically connected. Practice using it in different contexts to become more fluent in its application.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

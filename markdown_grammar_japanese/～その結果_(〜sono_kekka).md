@@ -127,3 +127,8 @@ I tried a new recipe. As a result, I made delicious food.
    - **Answer**: **その結果** is more formal and appropriate for formal contexts, while **だから** is casual.
 ---
 By understanding and practicing **～その結果 (〜sono kekka)**, you'll enhance your ability to express cause-and-effect relationships formally in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

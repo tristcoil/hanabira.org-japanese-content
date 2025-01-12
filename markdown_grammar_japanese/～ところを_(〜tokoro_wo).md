@@ -92,3 +92,8 @@ The structure varies slightly depending on the type of word it attaches to:
    - **Answer:** Yes, **～ところを** is more polite and used to show deference.
 ---
 Feel free to review the examples and explanations above to solidify your understanding of **～ところを**. Using this grammar point appropriately will enhance your politeness in Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -121,3 +121,8 @@ Heya o shizuka ni shimasu.
 ---
 By mastering this grammar point, you'll be able to describe changes and decisions effectively in Japanese. Keep practicing to become more comfortable with using **な-adjective + にします** in various contexts.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

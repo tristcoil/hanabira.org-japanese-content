@@ -114,3 +114,8 @@ In Japanese culture, expressing obligations can also reflect one's sense of resp
    - *Answer:* True
 ---
 Congratulations! You've learned how to use **～ないといけない** to express obligations in Japanese. Keep practicing by creating your own sentences and soon it will become a natural part of your language skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -105,3 +105,8 @@ In Japanese communication, there is often an emphasis on subtlety and nuance. Us
    - **Answer**: False
 ---
 Feel free to ask any questions or create your own sentences using **にとどまらず** to practice!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

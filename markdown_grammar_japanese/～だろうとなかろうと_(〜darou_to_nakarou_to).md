@@ -96,3 +96,8 @@ e ga koyou to nakarou to, kaigi wa yotei dōri okonaimasu.*
 3. 勝とうと**なかろうと**、全力を尽くします。(*Whether I win or not, I will do my best.*)
 ---
 By understanding **～だろうとなかろうと**, you can express conditions emphatically in formal Japanese. Remember to use it appropriately and pay attention to the formality of your context!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

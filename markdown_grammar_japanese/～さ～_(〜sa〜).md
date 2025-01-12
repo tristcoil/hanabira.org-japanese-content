@@ -101,3 +101,8 @@ The particle **さ** can be inserted:
    - **Answer:** "It's okay, you don't need to worry."
 ---
 By understanding and appropriately using the particle **さ**, you can make your Japanese sound more natural and engage more effectively in casual conversations. Remember to consider the context and the relationship with your conversation partner when choosing your speech level.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

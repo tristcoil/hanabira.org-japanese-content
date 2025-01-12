@@ -130,3 +130,8 @@ Noun + をはじめとして + (Noun Phrase/Noun Clause)
    **Answer**: Formal contexts
 ---
 Feel free to revisit the examples and practice creating your own sentences using **をはじめとして** to become more comfortable with this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

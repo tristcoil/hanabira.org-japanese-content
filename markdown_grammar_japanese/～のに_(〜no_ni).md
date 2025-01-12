@@ -107,3 +107,8 @@ In Japanese culture, expressing one's feelings indirectly is common. Using **～
 3. **静かなのに、眠れません。**
 ---
 *By mastering **～のに**, you'll enhance your ability to express complex ideas and nuances in Japanese, making your speech and writing more natural and fluent.*
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

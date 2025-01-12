@@ -85,3 +85,8 @@ The structure of this expression is straightforward:
 2. **なんと** means "how" or "what," and it's essential for forming the question.
 3. Use the correct particle: 「山」**は**なんと 言いますか。
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

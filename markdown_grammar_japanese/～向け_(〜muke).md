@@ -101,3 +101,8 @@ In Japanese culture, products and services are often tailored to specific groups
 3. **What particle follows 向け when modifying a noun?**
    *Answer*: **の**
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

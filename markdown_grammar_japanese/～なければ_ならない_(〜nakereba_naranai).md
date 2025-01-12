@@ -113,3 +113,8 @@ Both expressions mean "must" or "have to," but there are subtle differences:
    - **Answer:** False (～べきだ is a suggestion or moral obligation, while ～なければならない is a strong necessity)
 ---
 By understanding and practicing **～なければならない**, you'll be able to express obligations and necessities accurately in Japanese, enhancing both your spoken and written communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

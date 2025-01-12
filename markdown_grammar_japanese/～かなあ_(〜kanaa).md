@@ -115,3 +115,8 @@ The structure is straightforward:
 3. **b) Plain form**
 ---
 By understanding and practicing **～かなあ**, you can add a natural touch to your Japanese conversations, expressing your thoughts and wonderings just like a native speaker!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

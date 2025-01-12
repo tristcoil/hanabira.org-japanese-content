@@ -103,3 +103,8 @@ The grammar point ～たびに (〜tabi ni) is a useful expression in Japanese t
 ---
 # Thank you for studying ～たびに (〜tabi ni)!
 Feel free to review this lesson and practice creating your own sentences using ～たびに.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

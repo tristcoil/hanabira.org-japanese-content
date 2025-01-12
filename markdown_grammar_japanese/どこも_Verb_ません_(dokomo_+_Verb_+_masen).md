@@ -112,3 +112,8 @@ The construction follows this pattern:
    **False**. In negative sentences, **どこも** means "nowhere" or "not anywhere".
 ---
 By mastering **どこも Verbません**, you'll enhance your ability to express negative statements about locations in Japanese, making your language use more natural and precise.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -108,3 +108,8 @@ This grammar pattern can be used in both polite and casual conversations, but th
    - **Answer**: False (It expresses extreme or excessive actions.)
 ---
 By understanding **～まで～て**, you can express the lengths to which someone is willing to go to achieve something, adding depth and nuance to your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

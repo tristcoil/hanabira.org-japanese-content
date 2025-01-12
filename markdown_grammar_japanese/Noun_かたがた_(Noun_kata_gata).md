@@ -109,3 +109,8 @@ While かたがた itself is a fixed expression, it is often used with certain n
    **Answer:** b) お礼かたがた伺いました。
 ---
 *Feel free to revisit this guide to strengthen your understanding of **Noun かたがた**. Practice by creating your own sentences using this grammar point in appropriate contexts.*
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

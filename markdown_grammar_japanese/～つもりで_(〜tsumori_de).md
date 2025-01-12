@@ -134,3 +134,8 @@ In Japanese culture, consideration for others and modesty are valued traits. Usi
    *Kanojo wa okanemochi no tsumori de okane o tsukaimasu.*
 ---
 By understanding and practicing **～つもりで**, you can express nuanced thoughts about intentions and assumptions in Japanese, making your speech more natural and expressive.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

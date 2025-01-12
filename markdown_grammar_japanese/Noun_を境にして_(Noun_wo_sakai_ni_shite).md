@@ -102,3 +102,8 @@ These expressions are similar in meaning and can sometimes be used interchangeab
 ---
 By mastering **Noun を境にして**, you can effectively express turning points and significant changes in Japanese. Practice incorporating this grammar point into your sentences to enhance your fluency and expressiveness.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

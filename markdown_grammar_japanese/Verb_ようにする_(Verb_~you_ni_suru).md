@@ -130,3 +130,8 @@ In Japanese culture, showing diligence and continuous effort is highly valued. U
 ---
 By incorporating **「Verb ようにする」** into your speech, you can effectively communicate your efforts and habits in Japanese. Keep practicing by expressing what you are trying to do or avoid in your daily life!
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

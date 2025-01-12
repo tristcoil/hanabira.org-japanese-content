@@ -105,3 +105,8 @@ In Japanese society, expressing the flow of time and changes in states is import
 ---
 By mastering **Verb てくる**, you'll enhance your ability to describe ongoing actions, changes, and movements in Japanese, making your communication more natural and nuanced.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

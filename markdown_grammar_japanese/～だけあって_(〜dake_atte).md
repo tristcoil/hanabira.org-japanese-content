@@ -108,3 +108,8 @@ The structure of **～だけあって** is as follows:
 
 ---
 By mastering **～だけあって**, you enhance your ability to express expected results based on given qualities or reasons, making your Japanese communication more natural and nuanced.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

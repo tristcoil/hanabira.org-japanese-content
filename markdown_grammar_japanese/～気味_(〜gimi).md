@@ -79,3 +79,8 @@ The use of **～気味** is neutral and can be used in both formal and informal 
 2. "I've been eating a bit too much, so I will reduce my meal portions."
 3. It indicates a slight or subtle tendency towards a state, often with a negative connotation.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

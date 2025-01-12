@@ -88,3 +88,8 @@ While **をよそに** itself is a grammatical construct, it's often used in idi
    - **Answer:** a) 彼は疲れ**をよそに**、練習を続けた。
 ---
 By understanding and practicing **をよそに**, you can express nuanced contrasts in situations where actions are taken despite prevailing concerns or opinions. Remember to pay attention to its placement after nouns and the formal tone it conveys.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

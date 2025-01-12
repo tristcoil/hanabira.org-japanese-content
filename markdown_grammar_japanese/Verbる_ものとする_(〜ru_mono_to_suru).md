@@ -78,3 +78,8 @@ While **ものとする** itself is a fixed expression, understanding it helps i
 2. **c) Drafting a company policy**
 ---
 By understanding and correctly using **Verbるものとする**, you can accurately interpret and compose formal documents in Japanese. Remember that this expression adds a level of formality appropriate for legal and official texts.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

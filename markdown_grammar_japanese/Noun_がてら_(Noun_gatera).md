@@ -98,3 +98,8 @@ While both expressions can mean doing two actions at the same time, there are su
    **Answer:** **False** - They have similar meanings but different nuances and grammatical structures.
 ---
 By understanding and practicing **「Noun がてら」**, you can express combined actions naturally and enrich your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -137,3 +137,8 @@ A[Word/Phrase] -- という --> B[Noun]
    - **Answer**: **False** (That's the function of **～そうです** or **～らしい**.)
 ---
 By understanding and practicing the **～という** structure, you'll be able to introduce and describe things more naturally in Japanese, enhancing both your speaking and comprehension skills. Remember to pay attention to the placement of **という** and ensure that you're including both the name/title and the noun it's describing.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -101,3 +101,8 @@ These expressions emphasize the importance of firsthand experience, reflecting t
    - **Answer:** 彼女は朝ごはんを食べることなしに出かけた。
 ---
 By understanding and practicing **Verbることなしに**, you enhance your ability to express complex ideas in formal Japanese. Keep practicing by identifying sentences where this structure is appropriate, and soon it will become a natural part of your language skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

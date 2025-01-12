@@ -84,3 +84,8 @@ The grammar pattern **Noun + ぐるみ (〜ぐるみ)** is used in Japanese to e
 2. **〜ぐるみ** emphasizes involvement of all members, while **〜ごと** means including everything, sometimes unintended parts.
 3. Example: 学校ぐるみで清掃活動を行った。("We conducted a cleaning activity involving the whole school.")
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

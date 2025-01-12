@@ -87,3 +87,8 @@ The structure of this grammar point is as follows:
 3. False. You should use the same verb in the dictionary form before and after **ともなく**.
 ---
 By understanding and practicing this grammar point, you'll be able to express subtle nuances in your Japanese conversations, making your speech more natural and fluent.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

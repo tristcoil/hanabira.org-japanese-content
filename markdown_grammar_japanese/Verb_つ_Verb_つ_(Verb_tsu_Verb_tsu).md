@@ -107,3 +107,8 @@ Some common idiomatic expressions using this pattern:
 3. **押しつ押されつ** (*oshitsu osaretsu*): Pushing and being pushed.
 ---
 By understanding and practicing the **Verb つ Verb つ** pattern, you'll enhance your ability to comprehend and appreciate the nuances of Japanese literature and formal speech.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

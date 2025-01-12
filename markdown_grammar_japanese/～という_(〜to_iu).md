@@ -160,3 +160,8 @@ In Japanese culture, indirect communication is often preferred. Using **～と�
 By mastering **～という**, you will improve your ability to describe and discuss various topics in Japanese with greater clarity and nuance.
 ---
 Feel free to revisit this guide and practice using **～という** in your daily conversations and writing!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

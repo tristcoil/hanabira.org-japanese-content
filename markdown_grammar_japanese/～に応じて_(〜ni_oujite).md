@@ -121,3 +121,8 @@ Try creating your own sentences using **～に応じて**. For example:
   - *Anata no yosan ni oujite, saiteki na puran wo teian shimasu.*
   - *We'll propose the best plan according to your budget.*
 Feel free to share your sentences with peers or teachers for feedback!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

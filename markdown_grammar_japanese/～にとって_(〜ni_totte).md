@@ -105,3 +105,8 @@ While **～にとって** is not typically part of idiomatic expressions, master
    - *Answer*: 子供にとって、遊ぶことは大切です。
 ---
 By mastering **～にとって**, you'll enhance your ability to express opinions and perspectives in Japanese, making your conversations more nuanced and empathetic.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

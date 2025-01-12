@@ -112,3 +112,8 @@ Try translating the following sentence using **～てまでも**:
 - "She is willing to work overtime, even if it means sacrificing her weekends."
 **Answer:**
 彼女は週末を犠牲にしてまでも、残業するつもりだ。
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

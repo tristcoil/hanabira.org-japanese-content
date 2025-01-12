@@ -141,3 +141,8 @@ While both **こと** and **の** nominalize verbs, they have subtle differences
 
 ---
 By understanding and practicing this grammar point, you'll be able to express a wide range of ideas and actions in Japanese more naturally and accurately.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

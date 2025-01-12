@@ -92,3 +92,8 @@ After being kept waiting, we couldn't get in.
 1. It indicates that after a long process, an outcome (often negative) occurred.
 2. b) 彼は考えたあげく、提案を断った。
 3. **～末に**
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

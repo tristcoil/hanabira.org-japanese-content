@@ -127,3 +127,8 @@ A は B より adjective/adverb/verb
    - **Answer:** **より** acts as the comparative particle meaning "than".
 ---
 By mastering the **AはBより～** structure, you'll enhance your ability to compare and describe differences in Japanese, making your communication more precise and effective.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -108,3 +108,8 @@ The structure of **～ときている** is as follows:
    **Translation**: *Since that bag has a good design, it is very popular.*
 ---
 By mastering **～ときている**, you enhance your ability to articulate reasons and natural consequences in Japanese, especially in formal contexts. Keep practicing to become more fluent and expressive!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

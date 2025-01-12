@@ -133,3 +133,8 @@ In this area, separating trash is mandated.
 **Keep Practicing!**
 Think of rules or customs in your daily life and try forming sentences using **～ことになっている** to reinforce your understanding.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

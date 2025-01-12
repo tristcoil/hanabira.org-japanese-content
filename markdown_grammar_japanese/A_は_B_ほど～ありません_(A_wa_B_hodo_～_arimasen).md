@@ -113,3 +113,8 @@ Here's how the components fit together:
 ---
 By mastering **「AはBほど～ありません」**, you enhance your ability to make nuanced comparisons, a valuable skill in Japanese communication. Keep practicing with different adjectives and verbs to become more comfortable with this structure!
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

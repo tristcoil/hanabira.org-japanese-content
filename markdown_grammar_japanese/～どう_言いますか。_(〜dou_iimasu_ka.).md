@@ -121,3 +121,8 @@ The general structure of the phrase is:
    - **Correction**: "Cat" は日本語でどう**言い**ますか？
 ---
 By mastering this phrase, you'll enhance your ability to learn new words and engage more deeply with the Japanese language. Keep practicing by asking native speakers how to say different words, and soon you'll notice your vocabulary expanding rapidly!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

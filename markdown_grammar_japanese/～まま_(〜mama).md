@@ -143,3 +143,8 @@ The structure of ～まま varies depending on the part of speech it attaches to
      - 窓を開けたままにした。
 ---
 By understanding and practicing the use of **～まま**, you can express states of unchanging conditions more naturally in Japanese. Remember to pay attention to the forms and context to use this grammar point correctly.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

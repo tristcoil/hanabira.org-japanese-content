@@ -117,3 +117,8 @@ Noun + を皮切りに（して） + (Subsequent events/actions)
 2. **b) 新年を皮切りにして、新しいプロジェクトが始まる。**
 ---
 By understanding and practicing **「Noun を皮切りにして」**, you can effectively express the concept of starting points leading to subsequent events in Japanese. Remember to use it in appropriate formal contexts, and be mindful of the types of nouns it pairs with.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

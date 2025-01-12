@@ -110,3 +110,8 @@ While **ともあろう** itself is a fixed expression, it's often used in conte
    **Translation:** "I can't believe that someone who is the company president would act so rashly."
 ---
 By understanding and practicing this grammar point, you'll be able to express nuanced sentiments regarding expectations and social roles in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -135,3 +135,8 @@ The Japanese conjunction **けど (kedo)** is a versatile word that connects two
 
 ---
 By incorporating **けど** into your Japanese, you can express yourself with greater nuance and cultural appropriateness. Practice using it in different contexts to become more confident in your conversational skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

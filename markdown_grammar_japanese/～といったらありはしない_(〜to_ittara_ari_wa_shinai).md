@@ -89,3 +89,8 @@ In Japanese culture, expressing emotions directly is often avoided to maintain h
 2. "Her beauty is beyond words."
 3. Using the **な** in **な-adjectives**; the correct form omits **な** before **といったらありはしない**.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

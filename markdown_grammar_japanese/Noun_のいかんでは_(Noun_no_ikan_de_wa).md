@@ -113,3 +113,8 @@ While **のいかんでは** itself is not idiomatic, understanding its usage is
 ---
 By understanding and practicing this grammar point, you'll enhance your ability to communicate effectively in formal Japanese settings.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

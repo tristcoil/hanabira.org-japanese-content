@@ -95,3 +95,8 @@ Using **で** to connect adjectives is acceptable in both formal and informal se
 3. True or False: You should use **くて** to connect **な-adjectives**.  
    - **Answer**: False
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -132,3 +132,8 @@ Understanding how to express reasons is essential for effective communication in
    - **Translation:** "Because I'm busy, I can't go."
 ---
 By mastering **～ので**, you can express reasons and causes politely, enhancing your communication in both formal and informal Japanese settings.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

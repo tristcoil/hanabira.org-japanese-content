@@ -93,3 +93,8 @@ The grammar point **がてら** (~がてら) is an advanced Japanese expression 
    - **Answer**: Both are correct but have slightly different nuances.
 ---
 Feel free to try creating your own sentences using **がてら** to solidify your understanding!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

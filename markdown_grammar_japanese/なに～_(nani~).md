@@ -136,3 +136,8 @@ B --> C{Verb / Copula}
    - **Answer:** **なにを飲みますか？**
 ---
 By mastering **なに**, you'll be able to ask a variety of questions and enhance your communication in Japanese. Remember to pay attention to the context and the rules for using **なに** and **なん**.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

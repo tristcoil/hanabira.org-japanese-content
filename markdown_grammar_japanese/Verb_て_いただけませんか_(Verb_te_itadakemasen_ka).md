@@ -137,3 +137,8 @@ Combining **いただけませんか** with other polite phrases enhances the re
 ---
 # Closing Notes
 By mastering **Verb ていただけませんか**, you enhance your ability to communicate respectfully in Japanese, especially in professional and formal contexts. Remember to consider the relationship with the listener and choose the appropriate level of politeness in your requests.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

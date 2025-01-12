@@ -90,3 +90,8 @@ The structure **A。それじゃ、B。** can be broken down as:
    - **Answer:** それじゃ
 ---
 By understanding and practicing the use of **それじゃ**, you'll be able to make your Japanese conversations flow more naturally and appropriately transition between topics or conclude discussions.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

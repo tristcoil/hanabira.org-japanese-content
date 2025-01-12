@@ -86,3 +86,8 @@ This expression is commonly used to soften criticism or express concern without 
    - **Answer**: It's one thing for a beginner, but for a professional to make such a mistake...
 ---
 Feel free to create your own sentences using **～はまだしも** to solidify your understanding!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

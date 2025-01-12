@@ -94,3 +94,8 @@ In Japanese communication, expressing humility and acknowledging others' superio
    **Answer**: False. It is used when the differences are significant.
 ---
 Feel free to revisit the examples and explanations to reinforce your understanding of **Noun とは比べものにならない**. Practice using this grammar point in your own sentences to become more comfortable with its application.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

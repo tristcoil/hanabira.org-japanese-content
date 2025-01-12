@@ -110,3 +110,8 @@ Together, **ないではすまない** conveys that not doing the action will no
    - **Answer**: If you break a promise, you must apologize.
 ---
 By understanding **ないではすまない**, you enhance your ability to express obligations influenced by societal expectations in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

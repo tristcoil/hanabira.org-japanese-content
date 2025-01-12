@@ -113,3 +113,8 @@ In Japanese communication, it's important to address people and topics respectfu
 3. **b) 日本語について勉強しています。**
 ---
 By understanding and practicing the use of ～に対して, you can add depth to your Japanese expressions, especially when discussing contrasts, reactions, or directed actions.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

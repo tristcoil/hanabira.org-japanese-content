@@ -97,3 +97,8 @@ Let's compare **だれでも** with similar expressions:
    **Answer:** **False** (In affirmative sentences, **だれも** isn't typically used; in negative sentences, it means "no one".)
 ---
 By understanding and practicing **だれでも**, you'll be able to express inclusivity and universality in your Japanese conversations effectively. Keep practicing to become more fluent and natural in your usage!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

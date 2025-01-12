@@ -111,3 +111,8 @@ The formation of **～がゆえに** depends on the type of word it attaches to:
    **Answer:** **False**
 ---
 By mastering **～がゆえに**, you can enhance your comprehension of formal Japanese texts and add sophistication to your writing and speech in formal settings.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

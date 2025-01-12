@@ -102,3 +102,8 @@ Let's break it down:
    - **Answer:** It acts as a humble auxiliary verb indicating you receive the action.
 ---
 By understanding and correctly using **〜ていただく**, you can communicate respectfully and effectively in formal Japanese settings.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

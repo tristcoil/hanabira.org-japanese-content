@@ -117,3 +117,8 @@ It's an attitude unworthy of a leader.
    - *Answer*: 「にふさわしくない」, meaning "unsuitable for".
 ---
 By understanding and practicing this grammar point, you can enhance your ability to comprehend and use formal Japanese expressions appropriately.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

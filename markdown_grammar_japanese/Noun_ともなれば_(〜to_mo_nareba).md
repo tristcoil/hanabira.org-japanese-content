@@ -108,3 +108,8 @@ While **ともなれば** itself is not idiomatic, it frequently appears in set 
 ---
 # [End of Lesson]
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -112,3 +112,8 @@ In Japanese culture, expressing one's abilities is often done humbly and politel
    - **Answer**: The particle **が**.
 ---
 Congratulations! You have learned how to use **"Noun が できます"** to express abilities and possibilities in Japanese. Practice by making your own sentences using this structure to enhance your fluency.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -150,3 +150,8 @@ The use of **～も～ば～も～** is appropriate in both casual and formal co
 By mastering **～も～ば～も～**, you'll enhance your ability to describe subjects with multiple attributes fluently in Japanese. Keep practicing by creating your own sentences!
 ---
 Feel free to ask if you have any questions or need further clarification on this grammar point.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

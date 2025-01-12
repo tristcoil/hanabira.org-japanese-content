@@ -102,3 +102,8 @@ While there aren't specific idioms using **～ものとして**, understanding i
 
 ---
 By understanding **～ものとして**, you can enhance your comprehension of formal Japanese and communicate assumptions effectively in professional settings.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

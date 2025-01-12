@@ -116,3 +116,8 @@ The structure differs slightly depending on the type of word it attaches to.
 ---
 By understanding **～くせして**, you can express nuances of criticism or frustration in Japanese, enhancing your ability to communicate more naturally and effectively. Remember to use it appropriately, considering the context and your relationship with the listener.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

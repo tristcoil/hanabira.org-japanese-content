@@ -128,3 +128,8 @@ The structure combines a reason with emphasis:
    - **Sentence**: 私はあなた**だからこそ**、この秘密を共有します。
    - **Explanation**: **だからこそ** is used to emphasize "precisely because it's you".
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

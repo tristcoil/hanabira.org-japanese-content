@@ -88,3 +88,8 @@ To form this pattern, you:
 3. True or False: The adjective **きれい** uses **〜くします** when using this grammar pattern.
    - **Answer:** False (It uses **〜にします** because **きれい** is a **な-adjective**.)
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

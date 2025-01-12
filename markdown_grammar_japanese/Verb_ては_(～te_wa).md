@@ -95,3 +95,8 @@ In Japanese culture, indirect expressions are often preferred for politeness. Us
    **Answer:** True.
 ---
 By understanding and practicing **～ては**, you'll enhance your ability to express nuanced actions and conditions in Japanese, aligning your language use with cultural norms.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

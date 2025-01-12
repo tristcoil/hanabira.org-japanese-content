@@ -95,3 +95,8 @@ The conjunction ～ところが (〜tokoro ga) is a Japanese grammar point used 
    - **Answer**: c) 彼らは試合に勝つと思った。ところが、負けてしまった。
 ---
 By mastering ～ところが, you can effectively express unexpected contrasts and add depth to your Japanese communication. Keep practicing by creating your own sentences, and soon this grammar point will become a natural part of your language skills!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

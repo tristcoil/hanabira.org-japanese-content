@@ -119,3 +119,8 @@ In Japanese culture, expressing gratitude and recognizing others' kindness is im
    - **Answer:** 先生が 私に 宿題を くれました。
 ---
 By understanding and practicing this grammar point, you'll be able to express receiving actions and gifts from others naturally in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -107,3 +107,8 @@ This grammar structure is neutral and appropriate in both spoken and written lan
 3. **Correction:**
    - **Corrected Sentence:** 彼に聞けば分かるというものでもない。
    - **Explanation:** Use the ば form "聞けば" instead of "聞いたら" to match the grammar structure.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -123,3 +123,8 @@ The basic structure involves attaching **～っけ** to the end of a sentence, w
      *Kanojo no namae wa nan da kke?*
 ---
 By understanding and practicing **～っけ**, you can add a natural, conversational tone to your Japanese and express yourself more like a native speaker. Remember to use it appropriately based on the level of formality required in your conversation.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -86,3 +86,8 @@ Both expressions indicate that one action changes in correlation with another. H
 
 ---
 By understanding and practicing **～にしたがって**, you'll enhance your ability to describe correlating changes and adherence to guidelines in Japanese. Remember to pay attention to verb forms and the nuances between similar expressions to use this grammar point effectively.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -124,3 +124,8 @@ Or simply:
    *Kono fuku **wa** dō desu ka.*
 ---
 By mastering **～どうですか**, you'll enhance your conversational skills and be able to engage more effectively in Japanese. Remember to pay attention to context and politeness levels to ensure your speech is appropriate for the situation.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

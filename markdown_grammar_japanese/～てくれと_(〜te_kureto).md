@@ -106,3 +106,8 @@ Using **～てくれと** in formal situations can come across as rude.
    **Answer**: 友達が遊びに来てくれと頼んだ。
 ---
 By understanding **～てくれと**, you can accurately convey when someone has requested you to do something, adding depth and precision to your Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

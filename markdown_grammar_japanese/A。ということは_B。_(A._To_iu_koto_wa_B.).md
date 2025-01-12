@@ -126,3 +126,8 @@ While **ということは** itself is neutral, the surrounding language can be 
 ---
 By mastering **A。ということは B。**, you'll be able to express logical inferences smoothly in Japanese conversations. Keep practicing by observing statements and considering what conclusions you can draw using this structure.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

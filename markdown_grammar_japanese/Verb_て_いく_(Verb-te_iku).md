@@ -107,3 +107,8 @@ The basic structure **Verb て いく** is neutral. Politeness can be adjusted b
 
 ---
 Feel free to revisit this lesson to reinforce your understanding of **～ていく**. Practice by creating your own sentences using this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

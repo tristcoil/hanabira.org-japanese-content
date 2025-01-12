@@ -110,3 +110,8 @@ The grammar point **〜ながら** is a conjunction in Japanese used to express 
    - **Answer:** He is studying while listening to music.
 ---
 By understanding and practicing **〜ながら**, you can express simultaneous actions naturally in Japanese, enhancing your conversational fluency.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -118,3 +118,8 @@ The basic structure is:
    - **Answer**: b) **どの人が先生ですか。**
 ---
 By mastering **どの Noun**, you can ask precise questions and engage in more detailed conversations in Japanese. Keep practicing by incorporating this grammar point into your daily interactions!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

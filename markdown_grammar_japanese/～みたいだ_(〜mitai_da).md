@@ -134,3 +134,8 @@ Understanding the nuances between similar expressions can enhance your Japanese 
 ---
 By understanding and practicing **～みたいだ**, you'll be able to express your observations and assumptions more naturally in Japanese. Try using it in your daily conversations!
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

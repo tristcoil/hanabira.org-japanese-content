@@ -112,3 +112,8 @@ In Japanese culture, perseverance and continuous effort are highly valued traits
    *Kare wa hashiri tsudzukete imasu.*
 ---
 By understanding and practicing this grammar point, you'll be able to express ongoing actions effectively, adding depth to your Japanese communication skills. Keep practicing and **学び続けましょう** (manabi tsudzukemashou) — let's continue learning!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

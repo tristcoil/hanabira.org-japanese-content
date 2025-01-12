@@ -94,3 +94,8 @@ In Japanese culture, being prepared and considering future needs is highly value
    - **Answer**: **False**. That's **〜てみる**.
 ---
 Feel free to practice by creating your own sentences using **〜ておく**!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

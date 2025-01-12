@@ -102,3 +102,8 @@ In Japanese culture, there is a strong emphasis on process and prerequisites. Th
    **Answer**: Unless you try it, you won't know the result.
 ---
 Keep practicing this grammar pattern by incorporating it into your daily conversations and writing. Understanding and using **Verbないことには～ない** will enhance your ability to express necessary conditions in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

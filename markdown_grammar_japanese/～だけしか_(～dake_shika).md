@@ -111,3 +111,8 @@ The structure for using ～だけしか is:
 3. *私たちには選択肢が一つだけしかありません。*
 ---
 By understanding and practicing **～だけしか**, you'll be able to express strong exclusivity in Japanese, enhancing both your spoken and written communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

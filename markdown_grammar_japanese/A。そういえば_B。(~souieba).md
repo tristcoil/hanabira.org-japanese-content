@@ -109,3 +109,8 @@ While useful, overusing **そういえば** can make conversations feel repetiti
 
 ---
 By mastering **そういえば**, you'll enhance your conversational skills and sound more like a native Japanese speaker. Practice using it in your daily conversations to become more comfortable with its usage.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

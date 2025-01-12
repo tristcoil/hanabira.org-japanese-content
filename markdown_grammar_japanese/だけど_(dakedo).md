@@ -113,3 +113,8 @@ The basic structure using **だけど** is as follows:
    - **Answer:** しかし (Since the sentence seems formal).
 ---
 By mastering **だけど**, you enhance your ability to express contrasting ideas naturally in Japanese, making your conversations more fluent and engaging.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

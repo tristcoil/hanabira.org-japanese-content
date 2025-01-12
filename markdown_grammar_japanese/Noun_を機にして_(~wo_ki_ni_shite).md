@@ -100,3 +100,8 @@ In this lesson, we'll explore the Japanese grammar point **「Noun を機にし�
 ---
 By mastering **「Noun を機にして」**, you can express changes and actions taken due to significant events in a formal and sophisticated manner in Japanese. Practice creating your own sentences to become comfortable with this grammar point!
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

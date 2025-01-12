@@ -122,3 +122,8 @@ The grammar point ～から～にかけて (〜kara 〜ni kakete) is used in Jap
 1. **b) An approximate range between two points**
 2. **c) 昨日から今日にかけて、雨が降りました。**
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

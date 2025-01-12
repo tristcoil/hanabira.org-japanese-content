@@ -107,3 +107,8 @@ In Japanese business and societal contexts, conforming to established rules, nor
    - **Answer**: **False** (They have similar but distinct nuances.)
 ---
 By understanding and practicing **「Noun に即した Noun」**, you'll enhance your ability to express conformity and alignment in Japanese, which is crucial for formal writing and professional communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

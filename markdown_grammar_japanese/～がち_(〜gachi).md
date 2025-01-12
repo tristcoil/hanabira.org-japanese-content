@@ -102,3 +102,8 @@ The formation of **～がち** involves attaching it to the stem of a verb or to
    - **Answer:** **False**. It is used with verb stems and nouns.
 ---
 Feel free to revisit the examples and notes to strengthen your understanding of **～がち**. Practice by creating your own sentences to describe tendencies in your daily life!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

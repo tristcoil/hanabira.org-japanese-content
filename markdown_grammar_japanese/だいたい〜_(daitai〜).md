@@ -116,3 +116,8 @@ While **だいたい** itself is neutral, the politeness level is adjusted throu
    - **Answer:** たいてい７時に起きます。
 ---
 By mastering **だいたい**, you can express approximations and generalities in Japanese, making your conversations more natural and culturally appropriate.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

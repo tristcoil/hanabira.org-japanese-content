@@ -87,3 +87,8 @@ These idioms are commonly used to suggest that continuing an action might be fut
 3. Example answer: **新しい言葉を覚えたらきりがない。** (If I start memorizing new words, there will be no end.)
 ---
 Happy learning! Remember to practice by making your own sentences to get comfortable with this grammar point.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -108,3 +108,8 @@ Using **に (ni)** properly is crucial in conveying respect and maintaining soci
 3. **で (de)**
 ---
 By understanding and practicing the **"Noun に～"** grammar point, you'll be able to express a wide range of ideas more accurately in Japanese. Keep practicing with different nouns and contexts to become comfortable with its usage.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

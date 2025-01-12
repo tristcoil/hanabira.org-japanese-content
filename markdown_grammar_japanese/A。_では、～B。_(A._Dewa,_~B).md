@@ -111,3 +111,8 @@ A。では、～B。
    *Answer*: B) では、始めましょう。
 ---
 **Practice using **では** in your daily conversations to become more familiar with its formal tone and usage.**
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

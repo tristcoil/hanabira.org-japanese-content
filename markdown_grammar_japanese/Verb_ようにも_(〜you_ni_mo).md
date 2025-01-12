@@ -128,3 +128,8 @@ These expressions are commonly used to depict complex emotional states.
 3. False. The verb before **にも** should be in the **volitional form**.
 ---
 By understanding and practicing **〜ようにも**, you'll be able to express complex states of inability in Japanese effectively.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

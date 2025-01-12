@@ -107,3 +107,8 @@ When using **〜てから** in formal situations, ensure that verbs are conjugat
    - **Answer:** 仕事が終わってから、飲みに行きましょう。
 ---
 By understanding and practicing **〜てから**, you can effectively communicate sequences of actions in Japanese, enhancing both your spoken and written skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

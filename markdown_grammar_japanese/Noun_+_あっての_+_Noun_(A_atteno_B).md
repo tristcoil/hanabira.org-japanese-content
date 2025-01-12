@@ -128,3 +128,8 @@ The **あっての** pattern is neutral and can be adjusted for politeness based
    Only nouns are used with **あっての**.
 ---
 By mastering this grammar pattern, you can effectively express the essential relationship between two concepts in Japanese, enhancing both your linguistic skills and cultural understanding.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

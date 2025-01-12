@@ -117,3 +117,8 @@ In Japanese culture, hierarchy and social roles are significant. Using the causa
    *Buchō wa shain ni yasumi o toraseta.*
 ---
 By mastering the causative form **Verb させる**, you'll enhance your ability to express complex actions involving permission and compulsion in Japanese. Keep practicing with different verbs and contexts to solidify your understanding!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

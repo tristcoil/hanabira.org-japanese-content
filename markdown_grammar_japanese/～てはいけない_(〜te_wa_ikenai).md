@@ -98,3 +98,8 @@ To form this structure, attach **〜てはいけない** to the **て-form** of 
 2. The **て-form** of the verb.
 3. Less formal.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

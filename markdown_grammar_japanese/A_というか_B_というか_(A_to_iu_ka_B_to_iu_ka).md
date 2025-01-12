@@ -115,3 +115,8 @@ A というか B というか
 3. **False**: A and B can be similar or contrasting but should be relevant to each other.
 ---
 By understanding and practicing **A というか B というか**, you can add nuance to your Japanese communication, expressing subtlety and cultural sophistication in your descriptions.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

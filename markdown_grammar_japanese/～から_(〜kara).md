@@ -135,3 +135,8 @@ While both **から** and **ので** mean "**because**", they have nuances:
      - *Ashita kara Nihongo o benkyō shimasu.*
 ---
 By understanding and practicing the use of **から**, you'll enhance your ability to express reasons and discuss starting points effectively in Japanese. Remember to pay attention to formality levels and always use the appropriate form before **から**.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -101,3 +101,8 @@ Noun + ときたら
    - **Answer**: B) **彼ときたら、また遅刻した。**
 ---
 Feel free to practice by creating your own sentences using **Noun + ときたら** to express mild criticism or frustration in a colloquial manner!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -77,3 +77,8 @@ In Japanese culture, acknowledging variables and the influence of circumstances 
    - **Answer:** 努力**次第で**成功できる。
 ---
 By understanding and practicing **～次第で**, you'll be able to express dependency and conditions more naturally in Japanese. Keep practicing by creating your own sentences, and soon this grammar point will become a natural part of your language skills!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

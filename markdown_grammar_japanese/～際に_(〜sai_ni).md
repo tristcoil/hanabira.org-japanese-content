@@ -82,3 +82,8 @@ It emphasizes the time when an action occurs, usually in formal contexts.
 # Additional Practice
 Try creating your own sentences using **～際に**, considering the formal context in which it's appropriate.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

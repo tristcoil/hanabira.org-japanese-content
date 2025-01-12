@@ -78,3 +78,8 @@ Statement 1。なぜなら、Statement 2。
 3. Example: この本はとても面白いです。なぜなら、歴史について詳しく書かれているからです。
 ---
 By understanding and practicing **なぜなら**, you can enhance your ability to express reasons and explanations in Japanese, making your speech and writing more coherent and logical.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

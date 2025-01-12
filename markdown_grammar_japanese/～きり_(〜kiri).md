@@ -100,3 +100,8 @@ Japanese communication often values subtlety and understatement. Using **～き�
    - **Answer:** She went into her room and hasn't come out.
 ---
 By mastering **～きり**, you can add depth to your Japanese by expressing limitations and ongoing states with ease. Practice using this grammar point in different contexts to become more fluent and natural in your expression.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

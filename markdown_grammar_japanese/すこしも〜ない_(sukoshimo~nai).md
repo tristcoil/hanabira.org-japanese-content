@@ -138,3 +138,8 @@ The pattern is constructed by combining **すこしも** with the **negative for
        - *Kanojo wa sukoshi mo utawanai.*
 ---
 By understanding and practicing **すこしも〜ない**, you can add emphasis to your negative statements and express complete negation effectively in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

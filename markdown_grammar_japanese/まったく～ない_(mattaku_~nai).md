@@ -119,3 +119,8 @@ By mastering **まったく～ない**, you'll enhance your ability to express s
 7. [Summary and Review](#7-summary-and-review)
 ---
 *[Back to Top](#「まったく～ない-mattaku-～nai」grammar-point)*
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

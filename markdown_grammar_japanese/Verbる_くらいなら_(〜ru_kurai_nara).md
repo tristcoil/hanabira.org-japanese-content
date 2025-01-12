@@ -98,3 +98,8 @@ Verb (Dictionary Form) + くらいなら、(alternative/preferred action)
 ---
 By understanding and practicing **Verbる くらいなら**, you can more effectively express your preferences and aversions in Japanese. Keep practicing with your own examples to become more comfortable with this grammar point!
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -90,3 +90,8 @@ In Japanese culture, emphasis is often placed on effort, humility, and the impor
    - **日本に行ってこそ、日本語を深く学べる。**
 </details>
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

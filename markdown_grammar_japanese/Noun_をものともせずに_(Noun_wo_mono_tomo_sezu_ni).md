@@ -101,3 +101,8 @@ In Japanese culture, enduring hardships and showing resilience are highly valued
    **Translation**: She participated in the game despite her injury.
 ---
 By understanding **「Noun をものともせずに」**, you can effectively express situations involving overcoming significant challenges, adding depth to your Japanese language skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

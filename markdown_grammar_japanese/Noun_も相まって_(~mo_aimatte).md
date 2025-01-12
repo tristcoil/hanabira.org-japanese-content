@@ -105,3 +105,8 @@ The structure of this grammar point is straightforward:
 
 ---
 By understanding and applying **Noun も相まって**, you can effectively express situations where multiple factors contribute to an outcome in Japanese. Keep practicing with different nouns to become more comfortable with this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

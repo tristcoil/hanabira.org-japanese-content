@@ -102,3 +102,8 @@ In Japanese culture, emphasis is often placed on values such as effort, harmony,
    **Corrected Sentence:** **友情なくして人生は寂しい。**
 ---
 By understanding and practicing **「Noun なくして～はない」**, you can express the indispensability of elements in Japanese with greater nuance and formality.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

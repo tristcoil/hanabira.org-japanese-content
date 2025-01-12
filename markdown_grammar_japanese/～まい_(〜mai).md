@@ -108,3 +108,8 @@ Examples:
    - **Answer:** 彼は来るまい。
 ---
 By understanding and practicing **～まい**, you'll enhance your ability to express formal negative intentions and conjectures in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

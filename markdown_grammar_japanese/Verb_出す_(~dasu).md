@@ -95,3 +95,8 @@ In Japanese storytelling and daily conversation, expressing the sudden onset of 
 
 ---
 By understanding and practicing this grammar point, you'll be able to express sudden actions naturally, adding more depth to your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -126,3 +126,8 @@ While the structure **～までに** doesn't change, the verb forms used with it
    **Answer:** **False** (It indicates a deadline, not continuity.)
 ---
 Feel free to revisit this lesson to reinforce your understanding of **～までに**. Practice using it in your daily conversations to become more comfortable with deadlines and time expressions in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

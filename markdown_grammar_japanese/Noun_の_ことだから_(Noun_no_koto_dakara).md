@@ -126,3 +126,8 @@ While **「Noun のことだから」** itself is an expression, it may often be
    - **Answer:** Since they are children, it's understandable even if they make mistakes.
 ---
 Congratulations on learning **「Noun のことだから」**! Remember to pay attention to the known characteristics of the noun when using this expression. Keep practicing by creating your own sentences to solidify your understanding.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

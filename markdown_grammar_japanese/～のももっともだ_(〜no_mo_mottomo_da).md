@@ -93,3 +93,8 @@ In Japanese culture, showing empathy and understanding towards others is highly 
 3. **彼女が辞めたいのももっともだ。**
 ---
 By understanding **～のももっともだ**, you can express empathy and acknowledge that certain reactions or feelings are natural in given situations. Practice using this grammar point to enhance your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

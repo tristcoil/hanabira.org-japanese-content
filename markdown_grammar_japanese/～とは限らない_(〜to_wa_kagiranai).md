@@ -101,3 +101,8 @@ In Japanese communication, there is a tendency to avoid absolute statements to m
 2. **False**  
 3. **a) とは限らない**
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

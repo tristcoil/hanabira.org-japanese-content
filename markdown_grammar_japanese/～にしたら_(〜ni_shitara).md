@@ -111,3 +111,8 @@ From his point of view, he meant it as a joke.
 ---
 By understanding **～にしたら**, you can better express empathy and consider situations from others' viewpoints in Japanese.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

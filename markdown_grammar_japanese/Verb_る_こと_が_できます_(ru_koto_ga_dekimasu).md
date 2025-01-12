@@ -108,3 +108,8 @@ Comparing **Verb る こと が できます** with the **Potential Form** of ve
      - *Kanojo wa Nihongo o rikai suru koto ga dekimasu ka.*
 
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

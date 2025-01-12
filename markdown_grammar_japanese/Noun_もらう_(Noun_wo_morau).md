@@ -119,3 +119,8 @@ Let's look at various sentences using **もらう** in different contexts.
 
 ---
 By understanding and practicing **Noun を もらう**, you'll be better equipped to express receiving items or favors in Japanese, enhancing your communication skills in various social contexts.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

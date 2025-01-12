@@ -129,3 +129,8 @@ The suffix **～ずつ (～zutsu)** is used in Japanese to indicate that somethi
    **Answer:** b)
 ---
 By understanding and practicing **～ずつ**, you can accurately express equal distribution and gradual progression in Japanese. Remember to attach it directly to a quantity expression, and you'll be able to use this grammar point effectively in your conversations and writing.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

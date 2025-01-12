@@ -127,3 +127,8 @@ Noun1 を めぐる Noun2
    *Debates concerning economic policy are being held.*
 ---
 By understanding and practicing **「Noun を めぐる Noun」**, you'll be better equipped to discuss complex topics and engage in higher-level conversations in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

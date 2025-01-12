@@ -83,3 +83,8 @@ Both **Noun の 至り** and **Noun の 極み** express an extreme degree of so
    **Answer:** c) 食事
 ---
 Feel free to revisit the examples and notes to reinforce your understanding of **Noun の 至り**. 😊
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

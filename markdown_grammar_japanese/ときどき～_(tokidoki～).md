@@ -125,3 +125,8 @@ In this lesson, we'll explore the Japanese grammar point **ときどき (tokidok
    - **Answer**: **False** (It's grammatically acceptable but sounds unnatural; it's better to place it before the verb.)
 ---
 By understanding and practicing the use of **ときどき**, you'll enhance your ability to express nuances in frequency and improve your overall fluency in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

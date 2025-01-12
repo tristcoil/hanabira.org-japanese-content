@@ -88,3 +88,8 @@ These expressions embody the idea of accepting things as they are or acting acco
    - **Answer**: "I let myself go with the flow of nature."
 ---
 By understanding **Verbるがままに**, you can express actions done in accordance with natural tendencies or emotions, adding depth to your Japanese expression.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -105,3 +105,8 @@ Verb ます-stem + ぬく
    **Answer**: **b) 書きぬく**
 ---
 Feel free to create your own sentences using ～ぬく to express determination and share them for feedback!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

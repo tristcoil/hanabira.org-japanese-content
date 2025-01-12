@@ -105,3 +105,8 @@ To form this expression:
 ---
 By understanding ～てごらん, you can make your suggestions sound more natural and appropriate in casual conversations. Try using it when speaking with your Japanese friends!
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

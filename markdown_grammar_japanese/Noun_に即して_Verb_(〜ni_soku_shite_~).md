@@ -105,3 +105,8 @@ While **「に即して」** is not idiomatic itself, it's often found in idioma
    **Answer:** データ**に即して**決定する
 ---
 By understanding **「に即して」**, you can accurately convey actions or decisions that align with specific facts or standards, enhancing both your written and spoken Japanese proficiency in formal contexts.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

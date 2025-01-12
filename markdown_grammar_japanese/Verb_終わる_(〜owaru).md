@@ -107,3 +107,8 @@ Translate to English: **彼女はレポートを**書き終わりました**。*
 </details>
 ---
 By mastering **Verb 終わる (〜おわる)**, you can effectively express when you've completed actions, enhancing your ability to communicate in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

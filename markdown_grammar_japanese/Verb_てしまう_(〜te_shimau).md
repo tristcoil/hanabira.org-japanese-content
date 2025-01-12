@@ -123,3 +123,8 @@ Let's look at some examples to see how **〜てしまう** is used in various co
 2. **しちゃう**
 3. No, in formal situations, use the full form **〜てしまう** to maintain proper politeness levels.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

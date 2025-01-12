@@ -111,3 +111,8 @@ The general structure is:
 3. ～といえども is more formal than ～ても and emphasizes the contrast more strongly.
 ---
 By mastering ～といえども, you'll enhance your ability to express nuanced contrasts in formal Japanese. Remember to consider the context and formality when choosing to use this expression.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -97,3 +97,8 @@ In this lesson, we will explore the Japanese grammar point **～はたいへん�
    - *Sore wa taihen desu ne.*
 ---
 Feel free to create your own sentences using **～はたいへんです** to express challenges you face!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -101,3 +101,8 @@ The expression **に限ったことではない** is neutral and can be used in 
    - **Answer**: False (It expresses non-exclusivity)
 ---
 By understanding and practicing **に限ったことではない**, you can effectively communicate situations that are not exclusive to a particular subject, aligning with the Japanese emphasis on shared experiences.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

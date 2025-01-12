@@ -84,3 +84,8 @@ In Japanese work culture, finding **やりがい** (yarigai) in one's job is oft
 2. 食べがい
 3. This is a book worth reading.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

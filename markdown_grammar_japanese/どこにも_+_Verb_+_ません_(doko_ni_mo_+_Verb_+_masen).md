@@ -115,3 +115,8 @@ Let's take the verb **行く (いく, iku)** - "to go":
    - **Explanation:** Include the particle **も (mo)** after **どこに**.
 ---
 By mastering the **どこにも + Verb + ません** pattern, you enhance your ability to express negative actions related to locations in Japanese. Practice creating your own sentences to become more comfortable with this structure.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -94,3 +94,8 @@ In Japanese communication, there's often an emphasis on the distinction between 
 2. **False**
 3. "According to the law, there is no problem."
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

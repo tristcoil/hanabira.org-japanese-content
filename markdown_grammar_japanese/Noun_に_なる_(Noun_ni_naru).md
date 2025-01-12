@@ -89,3 +89,8 @@ The basic structure of this grammar point is:
 
 ---
 Feel free to revisit the examples and explanations to strengthen your understanding of this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

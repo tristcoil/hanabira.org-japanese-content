@@ -81,3 +81,8 @@ Noun₁ は おろか Noun₂ (すら / さえ / も) + Verb (negative or affirm
    - *Answer*: False. It emphasizes that not even Noun₂ (the lesser thing) is achievable, let alone Noun₁.
 ---
 By understanding and practicing **「Noun は おろか ～すら」**, you'll be able to express emphasis on impossibility or lack in Japanese more naturally and effectively.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

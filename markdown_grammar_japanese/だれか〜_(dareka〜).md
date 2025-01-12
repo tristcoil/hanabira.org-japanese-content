@@ -111,3 +111,8 @@ In Japanese culture, indirectness and ambiguity are common in communication. Usi
    - **Answer:** True
 ---
 By mastering **だれか〜 (dareka~)**, you'll enhance your ability to communicate effectively in Japanese when referring to unspecified individuals. Practice using it in different sentences to become more comfortable with its usage.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

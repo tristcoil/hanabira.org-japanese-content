@@ -137,3 +137,8 @@ Verb (Negative Plain Form without い) + きゃいけない
 2. **b) Informal**
 3. **b) ～なければならない**
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

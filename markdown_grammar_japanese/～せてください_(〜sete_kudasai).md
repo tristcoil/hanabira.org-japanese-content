@@ -129,3 +129,8 @@ To construct this form, you need:
    - **話させてください** (Hanasasete kudasai): "Please let me speak." (Requesting permission to speak oneself.)
 ---
 By mastering **～せてください**, you enhance your ability to make polite requests and navigate social situations respectfully in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

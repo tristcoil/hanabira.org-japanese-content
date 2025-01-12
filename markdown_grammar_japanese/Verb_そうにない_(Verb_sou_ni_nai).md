@@ -102,3 +102,8 @@ Verb Stem + そうにない
 3. False. **Verb そうにない** is based on personal observation, not hearsay.
 ---
 By understanding and practicing **Verb そうにない**, you'll be able to express unlikelihood and doubt effectively in Japanese conversations. Remember to observe situations and use this grammar point to describe your impressions accurately.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

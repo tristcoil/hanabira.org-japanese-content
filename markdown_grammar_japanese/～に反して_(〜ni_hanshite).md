@@ -106,3 +106,8 @@ In this lesson, we will explore the Japanese grammar point **～に反して (�
    - **Answer:** Contrary to the rules, he was late.
 ---
 By mastering **～に反して**, you can effectively express situations where outcomes differ from expectations in Japanese. Practice using this grammar point in various contexts to enhance your fluency.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

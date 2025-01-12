@@ -149,3 +149,8 @@ The basic formation involves attaching **からです** to the plain form of a v
    **Answer**: **b) だ** (静か**だ**からです。)
 ---
 By understanding and practicing the use of **～からです**, you'll be able to express reasons clearly and appropriately in various situations. Keep practicing with different verbs, adjectives, and nouns to become more comfortable with this essential grammar point.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

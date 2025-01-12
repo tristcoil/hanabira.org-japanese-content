@@ -79,3 +79,8 @@ In Japanese culture, expressing modesty and recognizing others' uniqueness is va
 
 ---
 By understanding and practicing this grammar point, you'll be able to express exclusivity and highlight uniqueness effectively in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

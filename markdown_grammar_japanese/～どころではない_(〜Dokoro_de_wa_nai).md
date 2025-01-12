@@ -88,3 +88,8 @@ In Japanese culture, expressing inability due to circumstances is often done pol
    **Answer:** False.
 ---
 Feel free to practice by creating your own sentences using **～どころではない** to solidify your understanding!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

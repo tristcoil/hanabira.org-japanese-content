@@ -83,3 +83,8 @@ In Japanese culture, there is a strong emphasis on fulfilling one's role and the
    <details><summary>Answer</summary>"As students, one must not neglect their studies."</details>
 ---
 By understanding **Noun たる Noun**, you can add a formal and emphatic tone to your Japanese, especially in writing or formal speeches. Remember to use it appropriately to convey the weight of responsibility or expectation attached to a role.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

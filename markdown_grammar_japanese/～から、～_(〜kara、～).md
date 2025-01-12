@@ -127,3 +127,8 @@ While **～から** is commonly used to express reasons, there are other grammar
    *(Use the plain form "美味しい" before "から")*
 ---
 By understanding and practicing **～から**, you can effectively express reasons and improve your overall fluency in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

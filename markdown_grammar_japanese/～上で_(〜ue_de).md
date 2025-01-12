@@ -134,3 +134,8 @@ When **上で** follows the **dictionary form** of a verb or a noun plus **の**
    - **Answer:** **False**. It can be used with the dictionary form of verbs and nouns when expressing conditions.
 ---
 By mastering ～上で, you'll be able to convey nuanced meanings related to conditions and sequences, adding depth to your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

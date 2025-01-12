@@ -96,3 +96,8 @@ These expressions are often used to politely introduce bad news or decline an of
 
 ---
 By understanding and practicing the use of **～が、～ (〜ga, 〜)**, you'll enhance your ability to express complex thoughts politely and effectively in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

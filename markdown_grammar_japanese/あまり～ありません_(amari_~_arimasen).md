@@ -119,3 +119,8 @@ The basic structure is:
 
 ---
 By understanding and practicing the **あまり～ありません** pattern, you can express yourself more naturally and politely in Japanese conversations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

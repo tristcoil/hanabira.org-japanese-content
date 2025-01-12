@@ -122,3 +122,8 @@ While both structures involve actions with others, they have different nuances:
    - **Answer:** Verb ましょう is more assertive; it expresses "Let's..." rather than inviting.
 ---
 By understanding and using **Verb ませんか**, you'll be able to make polite invitations and suggestions, enhancing your communication skills in Japanese social settings.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

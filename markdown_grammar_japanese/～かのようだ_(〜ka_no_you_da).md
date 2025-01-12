@@ -100,3 +100,8 @@ In Japanese communication, indirect expressions are often preferred. Using **～
 3. Hypothetical situations
 4. Example: 彼は泣いているかのようだ。(*He looks as if he's crying.*)
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

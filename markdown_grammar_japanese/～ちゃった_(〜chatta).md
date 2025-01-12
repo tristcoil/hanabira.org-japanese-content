@@ -154,3 +154,8 @@ Verb て-form (minus "で") + "じゃった"
    b) Even though I had to do my homework, I (unintentionally) fell asleep.
 ---
 By mastering **～ちゃった**, you'll enhance your ability to express completed actions and convey subtle emotions in Japanese. Keep practicing with different verbs to become comfortable using this expression naturally in conversation!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

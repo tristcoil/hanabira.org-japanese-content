@@ -116,3 +116,8 @@ In Japanese communication, it's common to acknowledge all aspects of a situation
    - *Answer*: False. It's primarily used with nouns.
 ---
 By understanding and practicing **～はともかく、～は**, you'll be able to express prioritization and focus more effectively in Japanese conversations!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

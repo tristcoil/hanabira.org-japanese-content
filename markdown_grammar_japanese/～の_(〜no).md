@@ -151,3 +151,8 @@ While both **の** and **こと** can nominalize verbs, they have different nuan
 
 ---
 By understanding and practicing the various uses of **の**, you'll be able to express possession, connect ideas, and add depth to your conversations in Japanese. Keep practicing, and don't hesitate to refer back to this guide as you continue your studies!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

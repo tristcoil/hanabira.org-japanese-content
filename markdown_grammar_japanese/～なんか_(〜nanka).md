@@ -102,3 +102,8 @@ The expression **～なんか (〜nanka)** is a versatile grammar point in Japan
 2. False
 3. Instead of reading something like a book, let's watch a movie.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

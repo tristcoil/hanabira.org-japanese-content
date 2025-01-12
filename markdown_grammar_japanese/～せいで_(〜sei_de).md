@@ -124,3 +124,8 @@ While **～せいで** is used for negative outcomes, **～おかげで (〜okag
    - Use **～おかげで** for positive outcomes.
 ---
 Feel free to revisit this lesson to strengthen your understanding of **～せいで** and practice using it in your own sentences!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

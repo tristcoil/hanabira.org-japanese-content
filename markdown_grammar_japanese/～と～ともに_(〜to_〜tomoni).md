@@ -124,3 +124,8 @@ In Japanese culture, the concept of harmony and doing things together is signifi
 3. 技術が進歩するとともに、新たな問題が生じる。
 ---
 By understanding and practicing **～と～ともに**, you can enhance your ability to express complex relationships between actions and states in Japanese. Remember to consider the formality of the context when choosing to use this grammar point.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

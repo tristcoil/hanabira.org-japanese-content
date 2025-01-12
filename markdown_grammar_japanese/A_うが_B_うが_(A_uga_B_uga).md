@@ -119,3 +119,8 @@ The grammar structure **Aうが Bうが** is used in Japanese to express "*wheth
    - **Answer**: Using the incorrect verb form, such as the plain form instead of the volitional form.
 ---
 Feel free to review the examples and notes to reinforce your understanding of **AうがBうが**. Practice by creating your own sentences!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

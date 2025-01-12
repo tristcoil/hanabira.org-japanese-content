@@ -102,3 +102,8 @@ In Japanese culture, expressing attempts or intentions politely is important. Th
    - *Answer*: **～うとした** indicates an attempted action that wasn't completed, while **～うと思った** expresses the speaker's thought or intention to do something.
 
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

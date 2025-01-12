@@ -101,3 +101,8 @@ The particle **～さえ (sae)** is a versatile tool in Japanese grammar that ad
 By incorporating **～さえ** into your Japanese, you'll be able to express emphasis and conditions more naturally, enriching your communication skills.
 ---
 #end
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

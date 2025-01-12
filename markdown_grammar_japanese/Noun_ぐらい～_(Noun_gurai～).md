@@ -121,3 +121,8 @@ Both particles can express approximation, but:
    *Watashi wa hachi-jikan gurai nemashita.*
 ---
 By understanding and practicing the use of **ぐらい**, you'll be able to express estimates and minimal expectations more naturally in Japanese. Remember to differentiate it from similar particles like **ごろ** and **ほど** to avoid common mistakes.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

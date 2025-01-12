@@ -96,3 +96,8 @@ To form the negative polite form of a verb:
    - **Answer:** Nowhere is open.
 ---
 Feel free to revisit this lesson to reinforce your understanding of using **どこも Verb ないです** in various contexts!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

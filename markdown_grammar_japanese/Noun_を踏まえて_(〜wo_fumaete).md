@@ -110,3 +110,8 @@ These expressions are commonly used in business and formal discussions.
 3. Use **を踏まえて** when emphasizing the consideration of something before making a decision, rather than strictly basing the decision on it.
 ---
 By understanding and practicing **を踏まえて**, you can enhance your ability to express nuanced reasoning in Japanese, making your language use more natural and precise.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

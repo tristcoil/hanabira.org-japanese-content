@@ -99,3 +99,8 @@ Perseverance, known as **根性** (こんじょう) or **頑張る** (がんば�
 2. **a)** The sweater she knitted thoroughly is one of a kind in the world.
 ---
 By mastering the **Verb Stem + ぬいた Noun** pattern, you'll be able to express actions done with dedication and persistence, a concept deeply appreciated in Japanese language and culture.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

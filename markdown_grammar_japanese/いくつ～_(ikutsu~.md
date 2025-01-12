@@ -105,3 +105,8 @@ For Age:
 ---
 # End of Lesson
 We hope this explanation clarified the usage of **いくつ**. Practice using it in your daily conversations to become more comfortable with its applications.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

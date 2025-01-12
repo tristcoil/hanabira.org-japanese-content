@@ -93,3 +93,8 @@ While **が早いか** itself is a grammatical structure, it is part of idiomati
 
 ---
 By mastering **Verbる が早いか**, you can enhance your Japanese writing with vivid descriptions of immediate actions. Practice by creating your own sentences to solidify your understanding.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

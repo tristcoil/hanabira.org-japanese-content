@@ -93,3 +93,8 @@ This expression is considered formal and is frequently used in written language,
 By understanding and practicing **～もさることながら**, you'll be able to add depth and emphasis to your Japanese expressions, especially in formal writing and speeches.
 # End of Answer
 The assistant's response above is formatted in Markdown, follows the structure requested, and provides clear explanations, examples, and helpful notes, ensuring that the examples are natural and meaningful.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

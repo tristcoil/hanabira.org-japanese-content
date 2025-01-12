@@ -126,3 +126,8 @@ Noun 1 か Noun 2 か ～
 3. b) **彼か私か、それをやります。**
 ---
 By understanding and practicing this grammar point, you'll be able to express choices and uncertainties more naturally in Japanese. Keep incorporating **Noun か Noun か～** into your daily conversations to become more comfortable with its usage.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

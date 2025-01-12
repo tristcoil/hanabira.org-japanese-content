@@ -114,3 +114,8 @@ Below are examples demonstrating how to use **だから** in various contexts.
 
 ---
 By understanding and practicing **だから**, you'll enhance your ability to express reasoning and conclusions naturally in Japanese conversations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

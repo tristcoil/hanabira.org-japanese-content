@@ -89,3 +89,8 @@ To form this pattern:
    - *Answer:* No, it's considered informal and can sound rude in formal contexts.
 ---
 Feel free to practice by making your own sentences and pay attention to this pattern when listening to native speakers or watching Japanese media!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

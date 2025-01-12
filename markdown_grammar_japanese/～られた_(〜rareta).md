@@ -134,3 +134,8 @@ For **Ichidan verbs**, the potential form also uses **～られる** (in past te
    - **Answer:** True
 ---
 By understanding **～られた**, you enhance your ability to express passive actions, discuss experiences, and adhere to social norms in Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -111,3 +111,8 @@ While both expressions mean "while" or "during," they have different nuances.
    - **Answer:** 出かけている最中に雪が降り始めた。
 ---
 Practice using **～最中に** in your own sentences to solidify your understanding!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -122,3 +122,8 @@ Japanese verbs have a **potential form** that also expresses ability.
 ---
 By understanding and practicing **Verb ることができる**, you'll be better equipped to express abilities and possibilities in Japanese, enhancing your overall language proficiency.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

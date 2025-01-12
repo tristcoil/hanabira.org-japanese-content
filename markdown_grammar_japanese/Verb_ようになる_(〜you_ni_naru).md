@@ -161,3 +161,8 @@ In Japanese culture, discussing personal growth and changes in habits is common 
    - **食べるようになりました** means "I have started eating (it has become that I eat)."
    - **食べるようにしました** means "I tried to eat" or "I made an effort to eat."
 **Congratulations!** You've learned how to use **〜ようになる** to describe changes in abilities, habits, or states in Japanese. Keep practicing to become more comfortable with this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

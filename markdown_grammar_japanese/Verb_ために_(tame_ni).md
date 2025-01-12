@@ -100,3 +100,8 @@ Verb (Dictionary Form) + ために + Action Verb/Expression
    健康になるために、毎日運動しています。
    *Answer: "I exercise every day in order to become healthy."*
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

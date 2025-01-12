@@ -99,3 +99,8 @@ The expression **～となると** itself is neutral and can be used in both for
 3. *(Example answer)* 旅行に行く **となると**、早めに予約したほうがいい。  
    When it comes to going on a trip, it's better to book early.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

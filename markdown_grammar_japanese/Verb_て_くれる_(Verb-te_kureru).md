@@ -114,3 +114,8 @@ In Japanese, expressing actions done **for someone** is a key aspect of everyday
 ---
 Feel free to revisit the examples and notes to strengthen your understanding of **Verb てくれる**. Practice by noticing when others do something for you and try expressing it in Japanese!
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

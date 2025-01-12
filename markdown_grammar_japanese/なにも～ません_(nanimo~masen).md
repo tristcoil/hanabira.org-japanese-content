@@ -92,3 +92,8 @@ A[なにも] --> B[Negative Verb (~ません)]
 3. **What is the casual form of なにも知りません?**
    - Answer: *なにも知らない。 (Nanimo shiranai.)*
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

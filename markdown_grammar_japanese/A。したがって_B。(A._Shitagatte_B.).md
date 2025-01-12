@@ -148,3 +148,8 @@ A。したがって B。
 ---
 By understanding and correctly using **したがって**, you can enhance the sophistication of your Japanese in formal settings. Practice by writing sentences or paragraphs using **したがって** to describe logical consequences.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

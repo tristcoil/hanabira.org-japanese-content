@@ -115,3 +115,8 @@ In Japanese culture, punctuality and appropriate behavior during certain periods
 ---
 By mastering **Noun の 間に**, you enhance your ability to describe when actions occur, making your Japanese expressions more precise and natural. Keep practicing by incorporating this grammar point into your daily conversations!
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -109,3 +109,8 @@ While **〜そばから** itself is a grammatical expression, it can be found in
    - **Answer**: b)
 ---
 By understanding and practicing **〜そばから**, you can more effectively express situations where efforts seem immediately counteracted, adding a nuanced layer to your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

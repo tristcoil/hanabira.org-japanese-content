@@ -80,3 +80,8 @@ In Japanese culture, consideration for others and attention to social norms are 
    Using the incorrect verb form before ～もかまわず, such as not adding "の" after a dictionary form verb.
 ---
 Feel free to refer back to this guide as you practice using ～もかまわず in your own sentences!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

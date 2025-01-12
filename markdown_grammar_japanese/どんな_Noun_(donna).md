@@ -134,3 +134,8 @@ Translate to Japanese:
 </details>
 ---
 By understanding and practicing the use of **どんな**, you'll be able to ask more detailed questions and engage in richer conversations in Japanese. Keep practicing by creating your own sentences!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

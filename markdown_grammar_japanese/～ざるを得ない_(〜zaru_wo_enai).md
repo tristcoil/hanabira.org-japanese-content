@@ -97,3 +97,8 @@ While ～ざるを得ない itself is not idiomatic, it is often used in formal 
    A. 提案を受け入れざるを得ない。
 ---
 By understanding and practicing this grammar point, you'll be able to express situations where actions are unavoidable due to external pressures, adding depth and formality to your Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

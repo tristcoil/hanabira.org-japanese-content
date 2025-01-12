@@ -149,3 +149,8 @@ While **で** itself doesn't change formality levels, the verbs and sentence end
      - "I go **by train**."
 ---
 Feel free to review this lesson and practice using **で** in different sentences to become more comfortable with its usage!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

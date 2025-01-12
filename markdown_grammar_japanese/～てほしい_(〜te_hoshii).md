@@ -112,3 +112,8 @@ To express that you **don't want someone to do something**, use:
 
 ---
 By understanding and using **～てほしい**, you can express your desires regarding others' actions more naturally in Japanese. Keep practicing by creating your own sentences and paying attention to the context and level of politeness!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

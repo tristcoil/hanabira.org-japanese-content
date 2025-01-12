@@ -129,3 +129,8 @@ Try using **そちら** in different contexts:
   "I will send the details to you."
 ---
 By mastering **そちら**, you enhance your ability to engage in polite Japanese conversation, showing respect and understanding of social nuances.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

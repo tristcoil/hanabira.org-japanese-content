@@ -134,3 +134,8 @@ A。それでは、～B。
 ---
 Congratulations on learning the **A。それでは、～B。** grammar pattern! Try using **それでは** in your next Japanese conversation to make your speech more natural and connected.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

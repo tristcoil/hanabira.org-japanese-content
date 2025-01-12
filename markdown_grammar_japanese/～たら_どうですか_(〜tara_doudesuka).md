@@ -122,3 +122,8 @@ Verb (た-form) + ら + どうですか
    - **Answer:** False. It's less direct and more polite.
 ---
 *End of Lesson*
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

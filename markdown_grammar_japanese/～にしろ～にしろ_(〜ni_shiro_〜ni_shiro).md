@@ -113,3 +113,8 @@ Option 2 [Verb/Adj/Noun] + にしろ、
 ---
 Keep practicing this grammar pattern by creating your own sentences, and soon it will become a natural part of your Japanese language skills!
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

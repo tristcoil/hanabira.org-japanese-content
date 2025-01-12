@@ -108,3 +108,8 @@ In Japanese culture, indirectness is often a sign of politeness. Using **なに�
 3. False
 ---
 By understanding and practicing **なにか～ (nanika～)**, you'll be able to communicate more naturally and politely in Japanese, especially in situations where specifying details isn't necessary or when you wish to remain indirect.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

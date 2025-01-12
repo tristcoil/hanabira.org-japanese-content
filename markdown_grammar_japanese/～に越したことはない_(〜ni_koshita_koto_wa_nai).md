@@ -94,3 +94,8 @@ These idioms reflect the cultural importance of caution and preparation in Japan
    - **Answer**: **～に限る**
 ---
 By understanding and practicing **～に越したことはない**, you can add nuance to your Japanese expressions, offering polite advice and stating preferences in a culturally appropriate manner.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -118,3 +118,8 @@ In this lesson, we'll explore the Japanese grammar point **～に比べて (〜n
    </details>
 ---
 By mastering **～に比べて**, you'll be able to express comparisons effectively in Japanese, enriching your conversations and descriptions.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

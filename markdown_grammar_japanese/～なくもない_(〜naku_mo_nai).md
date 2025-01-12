@@ -104,3 +104,8 @@ While **～なくもない** is a grammatical structure, it reflects the Japanes
    - **Answer:** To express slight agreement or possibility while remaining polite and indirect.
 ---
 By understanding and practicing **～なくもない**, you can add subtlety to your Japanese communication, making your speech more natural and culturally appropriate.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

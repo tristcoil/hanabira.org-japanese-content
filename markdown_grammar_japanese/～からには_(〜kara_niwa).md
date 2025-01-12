@@ -105,3 +105,8 @@ In Japanese, expressing a strong commitment or logical consequence based on a pa
    - **Answer:** b) Now that I've made a promise, I must keep it.
 ---
 Practice using **～からには** in your own sentences to solidify your understanding. Remember, expressing commitment is an important aspect of effective communication in Japanese!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

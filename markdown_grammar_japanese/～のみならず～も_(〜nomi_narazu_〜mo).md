@@ -78,3 +78,8 @@ While **～のみならず～も** is formal, understanding it can enhance compr
      - *Answer:* 環境問題は日本**のみならず**、世界全体の課題だ。
 ---
 By mastering **～のみならず～も**, you enhance your ability to articulate complex relationships and emphasize multiple factors in Japanese, especially in formal settings. Practice by reading formal articles or writing your own sentences using this structure.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

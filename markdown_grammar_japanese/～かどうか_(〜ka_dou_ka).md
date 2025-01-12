@@ -140,3 +140,8 @@ The formation of **～かどうか** depends on the type of word it follows.
 
 ---
 By understanding and using **～かどうか**, you can express uncertainty and discuss possibilities more naturally in Japanese, enhancing both your conversational skills and cultural fluency.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -108,3 +108,8 @@ I can't thank you enough for your help.
    **Answer:** The problem was too complicated, so there was no way to solve it.
 ---
 By understanding **～ようがない**, you can express situations where something is completely impossible due to the absence of a method or means.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

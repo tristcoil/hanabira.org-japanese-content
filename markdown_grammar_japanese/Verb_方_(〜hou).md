@@ -105,3 +105,8 @@ Understanding **Verb 方（かた）** is essential for navigating daily life in
    - **Answer**: False (You use the verb stem)
 ---
 Thank you for studying **Verb 方（かた）**! Practice creating your own sentences to become more comfortable with this grammar point.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

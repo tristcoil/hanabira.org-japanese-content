@@ -106,3 +106,8 @@ In Japanese culture, maintaining social harmony and fulfilling obligations are h
      - *Explanation:* Add **だけ** to emphasize that just thanking him is not enough.
 ---
 By understanding **～ではすまない**, you can effectively express situations where minimal actions are insufficient, adding depth and nuance to your Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

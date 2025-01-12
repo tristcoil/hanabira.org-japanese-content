@@ -106,3 +106,8 @@ It's used to express a feeling or state that is so extreme that it can't be adeq
 ---
 By mastering **～といったらありゃしない**, you'll enhance your ability to express strong feelings and make your Japanese more vivid and expressive.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

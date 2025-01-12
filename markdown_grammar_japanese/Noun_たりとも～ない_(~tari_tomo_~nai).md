@@ -102,3 +102,8 @@ In Japanese culture, attention to detail and thoroughness are highly valued. Usi
 ---
 By mastering **Noun + たりとも～ない**, you'll be able to express emphatic negation, adding depth and precision to your Japanese communication.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

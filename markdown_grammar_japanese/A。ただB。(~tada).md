@@ -97,3 +97,8 @@ While **ただ**, **しかし**, and **でも** can all be used to introduce con
    "This book is very interesting. However, it has many pages."
 # End of Lesson
 Feel free to review the examples and notes to strengthen your understanding of using **ただ** as a conjunction in Japanese!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

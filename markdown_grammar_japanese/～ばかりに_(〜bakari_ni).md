@@ -93,3 +93,8 @@ Both **～ので** and **～から** are used to express reasons or causes. Howe
 
 ---
 By mastering **～ばかりに**, you'll be able to express nuances of regret and unintended consequences in Japanese, adding depth to your language skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

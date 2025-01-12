@@ -119,3 +119,8 @@ The grammar point **のために (no tame ni)** is a fundamental expression in J
 ---
 By incorporating **のために (no tame ni)** into your vocabulary, you'll be able to express purposes and reasons clearly, making your Japanese communication more nuanced and effective.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

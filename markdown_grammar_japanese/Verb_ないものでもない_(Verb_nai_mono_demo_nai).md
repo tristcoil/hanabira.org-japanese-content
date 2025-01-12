@@ -86,3 +86,8 @@ The grammar point **ないものでもない** expresses a subtle possibility or
 2. It conveys a subtle possibility or that something is not entirely impossible.
 3. "Under these conditions, it's not impossible for me to take it on."
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

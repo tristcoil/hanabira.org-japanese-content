@@ -123,3 +123,8 @@ Both **ほど** and **くらい／ぐらい** can be used to express the extent 
    - **Answer:** b) 寒くなるほど家にいたくなる。
 ---
 By understanding and practicing **～ほど～ (〜hodo〜)**, you'll enhance your ability to express complex relationships between actions and states in Japanese. Use this grammar point to add depth to your conversations and writings!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

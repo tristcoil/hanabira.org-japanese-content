@@ -111,3 +111,8 @@ To form sentences with **～とすると**, attach it to the plain form of verbs
    *Assuming I have time, I want to go watch a movie.*
 ---
 By understanding and practicing **～とすると**, you can effectively discuss hypothetical situations and express assumptions in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

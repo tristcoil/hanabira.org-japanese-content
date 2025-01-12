@@ -156,3 +156,8 @@ While both "〜としても" and "〜ても" can translate to "even if...", they
 ---
 By understanding and practicing "〜としても", you'll be able to express hypothetical situations and discuss outcomes that remain consistent regardless of certain conditions, adding depth and nuance to your Japanese communication skills.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

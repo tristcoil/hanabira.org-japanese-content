@@ -134,3 +134,8 @@ In Japanese culture, modesty and understatement are valued traits. Using express
      - "I was walking along the beach without really intending to when I found a beautiful seashell."
 ---
 By understanding and practicing **VerbるともなしにVerb**, you can add depth and subtlety to your Japanese expressions, making your speech sound more natural and culturally appropriate.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

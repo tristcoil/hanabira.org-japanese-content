@@ -91,3 +91,8 @@ The grammar point ～折に (〜おりに) is a formal expression used to indica
    **Answer:** b) お会いした折にご説明いたします。
 ---
 Feel free to revisit this guide to strengthen your understanding of ～折に and its proper usage in Japanese communication. Remember, using the correct level of formality is key to mastering the language!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

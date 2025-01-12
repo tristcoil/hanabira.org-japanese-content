@@ -119,3 +119,8 @@ While 「ちなみに」 itself is straightforward, incorporating it naturally i
 3. **ちなみに**
 ---
 Congratulations! You've learned how to use 「ちなみに」 to make your Japanese conversations more natural. Keep practicing by incorporating it into your daily conversations.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -92,3 +92,8 @@ While **～ものではない** itself is a set phrase, it can be found in idiom
    - **Answer**: **False.** It is used for gentle advice or admonishment, not for giving direct commands.
 ---
 Feel free to revisit this lesson to reinforce your understanding of **～ものではない**. Practice by creating your own sentences to become more comfortable with its usage!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

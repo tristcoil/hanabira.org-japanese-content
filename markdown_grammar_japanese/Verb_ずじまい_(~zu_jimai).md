@@ -100,3 +100,8 @@ While **～ずじまい** isn't typically part of idiomatic expressions, it's of
 # Additional Practice
 Try creating your own sentences using **～ずじまい** to express past situations where you didn't do something you intended to do.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

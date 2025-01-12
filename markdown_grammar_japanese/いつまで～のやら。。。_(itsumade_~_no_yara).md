@@ -105,3 +105,8 @@ While **いつまで〜のやら** is not an idiom, it's part of expressions tha
    **Answer**: Formal contexts.
 ---
 By understanding and practicing this grammar point, you'll enhance your ability to express nuanced thoughts and uncertainties in Japanese, making your language use more natural and expressive.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

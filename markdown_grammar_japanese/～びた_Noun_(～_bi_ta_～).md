@@ -96,3 +96,8 @@ The use of **～びた** is neutral in formality and can be used in both casual 
 3. **False** *(They have similar meanings but different nuances and usages.)*
 ---
 By understanding and practicing **～びた**, you'll be able to add depth to your descriptions and convey subtle nuances in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

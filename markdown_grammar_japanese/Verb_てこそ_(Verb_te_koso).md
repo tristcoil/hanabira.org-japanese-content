@@ -101,3 +101,8 @@ In Japanese culture, experiencing something firsthand is often valued over secon
    *Only by failing can you understand the meaning of success.*
 ---
 Thank you for studying **Verb てこそ**! Practice using this grammar point in your daily conversations to enhance your fluency and expressiveness in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

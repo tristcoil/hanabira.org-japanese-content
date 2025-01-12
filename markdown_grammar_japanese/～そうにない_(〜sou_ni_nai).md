@@ -88,3 +88,8 @@ The structure involves attaching **～そうにない** to the **masu-stem** of 
 3. What is the difference between **～そうだ** and **～そうにない**?
    - **Answer:** **～そうだ** means "seems like it will happen," whereas **～そうにない** means "does not seem like it will happen."
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -116,3 +116,8 @@ The basic structure is:
    **Answer:** *私たちはチームとして参加します。*
 ---
 By mastering **～として**, you enhance your ability to describe roles and capacities, making your Japanese communication more precise and natural. Practice using it in different contexts to become more comfortable with its usage.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

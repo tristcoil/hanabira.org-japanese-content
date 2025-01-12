@@ -84,3 +84,8 @@ The grammar point ～にかわって (〜ni kawatte) is a useful expression in J
    - **Answer:** False. Use ～のかわりに with objects.
 ---
 Feel free to review the examples and notes to strengthen your understanding of ～にかわって (〜ni kawatte). Practice creating your own sentences to become more comfortable with this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

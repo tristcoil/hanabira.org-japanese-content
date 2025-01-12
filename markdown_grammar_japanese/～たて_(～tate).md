@@ -102,3 +102,8 @@ Both expressions indicate that an action has occurred recently, but there are nu
 
 ---
 By understanding and practicing **～たて**, you can add nuance to your descriptions and better convey freshness or recent actions in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

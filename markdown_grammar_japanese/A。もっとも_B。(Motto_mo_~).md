@@ -98,3 +98,8 @@ The grammar structure for **もっとも** is straightforward:
 3. **False** - もっとも and もっと have different meanings and uses.
 ---
 By mastering **もっとも**, you'll be able to express subtle contrasts and exceptions, enhancing your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

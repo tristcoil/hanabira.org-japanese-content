@@ -110,3 +110,8 @@ These expressions are derived from classical Japanese and lend a sophisticated t
    **Answer:** Time flies like an arrow.
 ---
 By understanding and appropriately using **ごとき** and **ごとく**, you can enhance your Japanese language skills, especially in formal writing and literary contexts.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

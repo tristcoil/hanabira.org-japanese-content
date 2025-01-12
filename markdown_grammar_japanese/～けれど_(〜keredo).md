@@ -155,3 +155,8 @@ Using **～けれど** at the end of a sentence can indicate hesitation or modes
    - *Isshōkenmei benkyō shita keredo, shiken ni gōkaku shinakatta.*
 3. **～けど** is more casual.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

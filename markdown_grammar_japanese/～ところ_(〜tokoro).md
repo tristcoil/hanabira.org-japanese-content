@@ -95,3 +95,8 @@ Japanese culture often places importance on punctuality and the timing of action
    - **Answer**: **Verb ている + ところ**
 ---
 By mastering ～ところ, you can convey precise timing in your conversations, making your Japanese sound more fluent and natural.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

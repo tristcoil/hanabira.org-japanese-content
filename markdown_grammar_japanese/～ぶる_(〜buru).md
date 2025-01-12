@@ -98,3 +98,8 @@ In Japanese culture, modesty and humility are valued traits. Pretending to be mo
 2. **B) 彼は専門家ぶる。** *(He acts like an expert.)*
 3. **She is pretending to be a celebrity.**
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

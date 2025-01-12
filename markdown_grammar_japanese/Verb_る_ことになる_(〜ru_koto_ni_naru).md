@@ -98,3 +98,8 @@ The Japanese grammar pattern **Verbることになる (〜ることになる)** 
    a) 日本語を勉強することになる  
    b) 日本語を勉強することにする
    ***Answer***: b) 日本語を勉強することにする
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

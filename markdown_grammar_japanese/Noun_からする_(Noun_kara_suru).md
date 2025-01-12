@@ -91,3 +91,8 @@ In Japanese culture, expressing humility is valued, but when discussing impressi
 3. **a)** 彼女は5キロからする猫を飼っている。  
    *(She has a cat weighing as much as 5 kilograms.)*
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

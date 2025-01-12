@@ -119,3 +119,8 @@ Translate to Japanese using **もしかすると〜かもしれない**:
 - **もしかすると** 今夜雪が降る **かもしれない**。
 ---
 By understanding and practicing **もしかすると〜かもしれない**, you'll be better equipped to express uncertainty and possibility in Japanese, making your conversations more nuanced and native-like.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

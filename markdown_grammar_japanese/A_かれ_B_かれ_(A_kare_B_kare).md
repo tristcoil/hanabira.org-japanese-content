@@ -95,3 +95,8 @@ Here are some common idiomatic expressions using **AかれBかれ**:
 3. False. It is primarily used with adjectives.
 ---
 By understanding and practicing **AかれBかれ**, you'll enhance your comprehension of formal Japanese expressions and add depth to your language skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

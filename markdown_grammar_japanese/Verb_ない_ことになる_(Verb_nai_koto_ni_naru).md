@@ -145,3 +145,8 @@ In Japanese culture, it's common to express decisions as outcomes determined by 
 ---
 By mastering **Verb ないことになる**, you can effectively communicate decisions made by external factors in Japanese, enhancing your ability to express nuanced situations.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

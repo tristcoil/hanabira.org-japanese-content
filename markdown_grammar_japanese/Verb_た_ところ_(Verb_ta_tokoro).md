@@ -115,3 +115,8 @@ To form this grammar pattern:
    **Answer:** b) レポートを書いたところ、間違いに気付いた。
 ---
 By mastering **Verb たところ**, you can effectively convey the sequence of events and the discoveries that follow actions in Japanese. Keep practicing by creating your own sentences, and soon this grammar point will become a natural part of your language skills!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

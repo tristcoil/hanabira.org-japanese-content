@@ -86,3 +86,8 @@ The expression **「ならでは」** is neutral in politeness and can be used i
    - *Translation*: This festival is a tradition unique to this town.
 ---
 By understanding **「Noun + ならでは」**, you can express appreciation for unique qualities and deepen your connection with Japanese language and culture. Practice using this expression to describe things that are special to you!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

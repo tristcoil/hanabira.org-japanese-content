@@ -105,3 +105,8 @@ In Japanese culture, expressing inclusivity and showing concern for others is im
    *Kanojo mo gakusei desu.*
 ---
 By understanding and practicing the use of **も**, you can make your Japanese conversations richer and more nuanced. Remember to pay attention to context, especially in negative sentences, to ensure your meaning is clear.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

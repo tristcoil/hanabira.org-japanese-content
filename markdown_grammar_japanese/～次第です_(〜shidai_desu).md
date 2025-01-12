@@ -120,3 +120,8 @@ In Japanese culture, expressing oneself appropriately in formal situations is cr
 ---
 By mastering **～次第です**, you'll enhance your ability to communicate formally and respectfully in Japanese. This grammar point is essential for professional interactions and demonstrates a high level of language proficiency.
 Feel free to practice by creating your own sentences using **～次第です**!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

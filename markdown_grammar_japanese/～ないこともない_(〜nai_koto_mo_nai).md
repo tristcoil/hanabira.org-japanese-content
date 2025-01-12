@@ -115,3 +115,8 @@ In Japanese culture, direct refusals or assertions can be considered impolite or
 
 ---
 By understanding and practicing **～ないこともない**, you can add nuance to your Japanese and communicate with greater subtlety and politeness. Keep practicing, and don't hesitate to use this expression in appropriate situations!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

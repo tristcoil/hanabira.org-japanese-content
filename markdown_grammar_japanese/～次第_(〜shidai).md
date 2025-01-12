@@ -121,3 +121,8 @@ Verb (ます-stem) + 次第
 ---
 By mastering **～次第**, you can enhance your formal Japanese communication skills, making your speech and writing sound more professional and polished.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

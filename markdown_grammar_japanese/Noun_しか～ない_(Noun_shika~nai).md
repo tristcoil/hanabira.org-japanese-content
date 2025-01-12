@@ -119,3 +119,8 @@ While both mean "only," they differ in nuance and usage.
      - *She listens to nothing but music.*
 ---
 By mastering **しか～ない**, you'll be able to express limitations and exclusivity in Japanese effectively, adding depth to your language skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

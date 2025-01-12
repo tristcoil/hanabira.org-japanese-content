@@ -141,3 +141,8 @@ Try crafting sentences using **A にしろ B にしろ** with the following word
    - *Whether you go or not, please reserve a ticket.*
 ---
 Keep practicing, and soon using **A にしろ B にしろ** will become second nature!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

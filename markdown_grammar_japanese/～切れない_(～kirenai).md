@@ -98,3 +98,8 @@ In Japanese culture, expressing one's limitations politely is important. Using *
    - Translation: I can't go through all these materials in one day.
 ---
 By understanding and practicing **～切れない**, you'll be able to express limitations and the inability to complete actions, adding nuance to your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

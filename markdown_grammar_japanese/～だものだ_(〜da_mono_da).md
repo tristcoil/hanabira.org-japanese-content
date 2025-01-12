@@ -133,3 +133,8 @@ The grammar point **～だものだ (〜da mono da)** is used in Japanese to ref
 3. **B)**
 ---
 By understanding and practicing **～だものだ**, you can express nostalgic feelings and emphasize general truths in Japanese, adding depth and emotion to your language.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

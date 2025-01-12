@@ -100,3 +100,8 @@ These phrases are often paired with **～こととて** to enhance the apologeti
    **Answer:** No, it's too formal and should be reserved for polite or formal contexts.
 
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

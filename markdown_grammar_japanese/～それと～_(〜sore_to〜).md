@@ -86,3 +86,8 @@ In Japanese culture, providing additional information or reminders is a common p
    *Gyūnyū to pan o kau hitsuyō ga arimasu. Sore to, tamago mo.*
 ---
 By incorporating **それと** into your Japanese, you'll be able to connect your thoughts more naturally and sound more like a native speaker. Practice by adding additional information in your daily conversations!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -160,3 +160,8 @@ When **～について** modifies a noun, **の** is required to connect them.
    ～に関して is more formal.
 ---
 By practicing the usage of **～について**, you'll be able to effectively communicate about various topics, enhancing your Japanese language proficiency.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

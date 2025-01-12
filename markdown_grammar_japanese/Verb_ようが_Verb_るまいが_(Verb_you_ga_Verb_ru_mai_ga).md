@@ -120,3 +120,8 @@ This pattern can emphasize a strong will, indifference to the action, or inevita
    **Correct Sentence:** **彼が来ようが来るまいが、会議は始めます。**
 ---
 By mastering **Verbようが Verbるまいが**, you'll be able to express determination and inevitability in your Japanese communication, adding depth and nuance to your language skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -87,3 +87,8 @@ In Japanese culture, punctuality and promptness are highly valued. Using **す�
    - **Answer**: "Soon" or "in a little while," but not immediately.
 ---
 By mastering **すぐに**, you enhance your ability to express urgency and immediacy in Japanese, making your communication more precise and culturally appropriate.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

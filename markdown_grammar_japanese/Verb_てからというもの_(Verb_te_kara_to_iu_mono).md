@@ -88,3 +88,8 @@ While the grammar point itself does not inherently carry politeness, it is more 
    (*Ever since I started studying Japanese, my interest in Japanese culture has deepened.*)
 ---
 By understanding and practicing **〜てからというもの**, you can express profound changes in your life experiences more naturally in Japanese. Keep practicing by reflecting on your own significant life events!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

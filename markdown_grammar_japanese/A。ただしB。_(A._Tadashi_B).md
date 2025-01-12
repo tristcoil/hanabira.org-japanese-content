@@ -91,3 +91,8 @@ While **ただし** is similar to other conjunctions like **しかし (shikashi)
 3. c) ただし
 ---
 By mastering **ただし**, you can add depth to your Japanese by expressing exceptions and conditions clearly and formally. Remember to pay attention to the context and choose the appropriate conjunction based on the level of formality.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

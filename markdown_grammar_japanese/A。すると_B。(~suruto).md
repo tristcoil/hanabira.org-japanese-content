@@ -102,3 +102,8 @@ It implies that **B** happens directly after **A**, sometimes with a causal rela
    2. B) すると
 ---
 By understanding **「A。すると B。」**, you can enhance your storytelling in Japanese, making your narratives more engaging and natural.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

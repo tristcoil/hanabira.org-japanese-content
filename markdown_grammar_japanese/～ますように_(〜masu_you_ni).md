@@ -88,3 +88,8 @@ Example:
 1. **できますように**
 2. **早く良くなりますように。** (*Hayaku yokunarimasu yō ni.*)
 3. **False**. You should use the **ます-form**, not the plain form.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -102,3 +102,8 @@ In Japanese society, adherence to plans, guidelines, and social norms is valued.
    - **Answer:** b) **規則に沿って守る**
 ---
 By understanding and practicing **～に沿って**, you can express alignment with plans and guidelines naturally in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

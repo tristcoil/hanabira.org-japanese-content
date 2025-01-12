@@ -110,3 +110,8 @@ While **「〜ようもない」** itself is not an idiom, it is often used in e
 3. **地図がなくて、場所を見つけようもない。**
 ---
 By understanding and practicing **「〜ようもない」**, you can express situations where something is impossible due to the lack of methods or means, adding depth to your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

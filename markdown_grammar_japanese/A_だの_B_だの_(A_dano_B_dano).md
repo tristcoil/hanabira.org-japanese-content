@@ -98,3 +98,8 @@ The structure of **AだのBだの** is as follows:
 2. No, because だの is informal and carries a negative tone, which is unsuitable for formal business communication.
 3. 彼は天気が悪い**だの**渋滞がひどい**だの**、いつも文句を言っている。
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

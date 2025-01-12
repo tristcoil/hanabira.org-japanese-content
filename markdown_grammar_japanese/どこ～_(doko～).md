@@ -170,3 +170,8 @@ In Japanese, the level of politeness can change how you ask "where."
    *Kinō wa dokomo ikimasendeshita.*
 ---
 By mastering **どこ～ (doko～)** and its related forms, you will greatly improve your ability to discuss locations and ask questions in Japanese. Practice using these structures in your daily conversations to become more fluent.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

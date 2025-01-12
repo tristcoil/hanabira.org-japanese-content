@@ -96,3 +96,8 @@ Noun + ですら
    *Isogashikute, suimin desura torenakatta.*
    "I was so busy that I couldn't **even** get any sleep."
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

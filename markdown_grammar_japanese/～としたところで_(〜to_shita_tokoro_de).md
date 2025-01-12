@@ -125,3 +125,8 @@ While **～としたところで** itself is a grammatical construction, not an 
    **Answer:** a) 今から寝たとしたところで、十分な睡眠は取れない。
 ---
 **Congratulations!** You've learned how to use **～としたところで** to express situations where an action won't significantly impact the outcome. Keep practicing by creating your own sentences reflecting this nuance.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

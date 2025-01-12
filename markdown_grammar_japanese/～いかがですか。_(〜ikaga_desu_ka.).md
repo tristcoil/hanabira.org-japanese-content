@@ -104,3 +104,8 @@ The basic structure is:
    **Answer:** この商品**は**いかがですか。
 ---
 By understanding and correctly using **～いかがですか。**, you can communicate more politely and effectively in formal Japanese settings.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

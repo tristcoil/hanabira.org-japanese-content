@@ -77,3 +77,8 @@ The grammar point ～ものか (*~mono ka*) is an expressive way to strongly den
    - **Answer**: ものか
 ---
 By understanding and practicing ～ものか, you can express strong emotions and reactions naturally in Japanese when appropriate.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

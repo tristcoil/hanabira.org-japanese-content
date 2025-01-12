@@ -102,3 +102,8 @@ The expression **〜からして** is neutral in terms of politeness and can be 
 2. "His room is strange—even the color of the walls."
 3. **Yes**
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

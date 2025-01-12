@@ -101,3 +101,8 @@ Sentence A. Therefore, Sentence B.
 2. Cause-and-effect relationship.
 3. *(Student's own answer.)*
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

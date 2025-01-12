@@ -119,3 +119,8 @@ In Japanese communication, expressing impossibility in a polite and indirect man
      *Naoshiyou ga nai.*
 ---
 Feel free to reach out if you have any questions or need further clarification on **〜ようがない**. Keep practicing by creating your own sentences, and soon this grammar point will become second nature!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

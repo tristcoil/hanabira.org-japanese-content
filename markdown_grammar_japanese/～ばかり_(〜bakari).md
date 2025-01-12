@@ -117,3 +117,8 @@ In this lesson, we'll explore the versatile Japanese grammar point **～ばか�
      - *Even though I just bought it yesterday, it's already broken.*
 ---
 By understanding and practicing the usage of **～ばかり**, you'll be able to add precision and subtlety to your Japanese communication. Keep an eye out for this grammar point in real-life contexts to reinforce your learning!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

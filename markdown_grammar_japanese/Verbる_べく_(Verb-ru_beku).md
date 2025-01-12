@@ -110,3 +110,8 @@ To form this grammar point:
 3. **No**
 ---
 By understanding and practicing this grammar point, you'll enhance your ability to comprehend and use formal Japanese expressions that convey purpose and intention.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -108,3 +108,8 @@ Noun + のいかんによっては + [Outcome/Result]
    - **Answer**: "Depending on the content of your application, it may take some time."
 ---
 By understanding and practicing **のいかんによっては**, you enhance your ability to communicate formally and accurately in Japanese, especially in professional and official settings.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

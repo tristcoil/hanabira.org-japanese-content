@@ -85,3 +85,8 @@ A。おまけに B。
 2. No, it's more appropriate for informal contexts. In formal writing, use **さらに** or **その上**.
 3. *(Your own sentence. Example: 昨日は雨だった。おまけに風も強かった。)*
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

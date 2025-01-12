@@ -93,3 +93,8 @@ In Japanese culture, **commitment and responsibility** are highly valued. Using 
 3. **上は**
 ---
 By understanding and applying **～上は**, you'll be able to express firm resolutions and recognize the nuances of formality in Japanese. Keep practicing to become more comfortable with this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

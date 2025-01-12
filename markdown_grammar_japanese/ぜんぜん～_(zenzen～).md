@@ -89,3 +89,8 @@ The adverb **ぜんぜん (zenzen)** is a commonly used word in Japanese that mo
    - *まったく is more formal.*
 ---
 Feel free to revisit the examples and notes to reinforce your understanding of **ぜんぜん〜 (zenzen〜)**. Practice using it in sentences to become more comfortable with both its traditional and modern usages.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

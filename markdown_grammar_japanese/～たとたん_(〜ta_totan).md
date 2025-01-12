@@ -137,3 +137,8 @@ Verb (た-form) + とたん
 3. **False**: ～たとたん is used for unexpected actions that occur immediately after another action.
 ---
 By mastering **～たとたん**, you'll enhance your ability to describe sudden events and make your Japanese communication more vivid and engaging.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

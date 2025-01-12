@@ -111,3 +111,8 @@ This phrase is often used when one finally understands something after it has be
    - **True**
 ---
 By mastering ～ということだ, you'll improve your ability to convey information and clarify meanings, enhancing your overall communication skills in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

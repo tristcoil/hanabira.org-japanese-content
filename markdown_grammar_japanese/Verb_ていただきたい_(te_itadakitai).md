@@ -107,3 +107,8 @@ The expression **～ていただきたい** (*te itadakitai*) is a **polite requ
 By understanding and correctly using **～ていただきたい**, you can communicate your requests politely and show respect in formal Japanese settings. Practice incorporating this grammar point into your formal conversations and written communications.
 ---
 *Note: Always consider the relationship and context when choosing the appropriate level of politeness in Japanese.*
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

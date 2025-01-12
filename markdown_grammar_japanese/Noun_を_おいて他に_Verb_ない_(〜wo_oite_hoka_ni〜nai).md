@@ -131,3 +131,8 @@ Let's look at some example sentences to see how this grammar point is used in va
 ---
 By mastering **「Noun をおいて他に～ない」**, you can effectively emphasize exclusivity and uniqueness in formal Japanese communication. Remember to use it appropriately within formal contexts to convey respect and admiration.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

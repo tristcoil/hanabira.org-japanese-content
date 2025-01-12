@@ -108,3 +108,8 @@ In Japanese culture, expressing situations indirectly or emphasizing circumstanc
    Correct Sentence: お金があっても、買うにも買え**ない**。
 ---
 By understanding and practicing **Verbる にも**, you'll be able to express situations where you’re hindered from acting on your intentions, a subtle yet essential aspect of Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -120,3 +120,8 @@ While **にて** and **で** can both indicate location or means, their usage di
    - **Answer:** False. **にて** is used in formal contexts; **で** is used in casual conversation.
 ---
 By understanding the usage of **にて**, you can enhance your formal Japanese communication and better comprehend official documents and announcements.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

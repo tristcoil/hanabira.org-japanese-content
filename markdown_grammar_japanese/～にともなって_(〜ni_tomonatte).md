@@ -96,3 +96,8 @@ Note[As A occurs,\nB occurs along with it.]
 # End of Lesson
 Practice creating your own sentences using **～にともなって** to reinforce your understanding. Remember to consider the relationship between the two events you are connecting!
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

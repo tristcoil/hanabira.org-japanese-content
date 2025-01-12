@@ -88,3 +88,8 @@ These idioms use the negative form **～に堪えない** to express that someth
    - **Answer**: 彼女のスピーチは聞くに堪えた。
 ---
 By mastering **～に堪える**, you enhance your ability to express value judgments thoughtfully in Japanese. Practice using this grammar point in sentences to become more comfortable with its nuances.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

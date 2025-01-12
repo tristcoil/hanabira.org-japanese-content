@@ -119,3 +119,8 @@ The structure of **～ようにしましょう** is:
    **Answer:** **True**
 ---
 Feel free to practice by making your own sentences using **～ようにしましょう** to talk about habits you want to adopt or avoid!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

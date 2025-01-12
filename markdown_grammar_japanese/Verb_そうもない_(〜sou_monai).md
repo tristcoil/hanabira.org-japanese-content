@@ -101,3 +101,8 @@ It expresses the speaker's judgment that there is a low possibility of an action
    - **Answer**: **行きそうだ** means "seems like (someone) will go," while **行きそうもない** means "doesn't seem like (someone) will go."
 ---
 By mastering **Verb そうもない**, you can more accurately express uncertainty and expectations in Japanese, making your speech sound more natural and nuanced. Practice creating your own sentences to become comfortable with this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

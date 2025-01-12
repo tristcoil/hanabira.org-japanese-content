@@ -102,3 +102,8 @@ The verb **限る (かぎる)** means "to limit." When combined with the particl
    - *Answer*: デザートはアイスクリームに限る。
 ---
 By mastering **Noun に限る**, you can confidently express strong preferences and recommendations in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

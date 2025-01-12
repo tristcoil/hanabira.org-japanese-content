@@ -111,3 +111,8 @@ Noun + からすると / からすれば / からして
    - **Answer**: b)
 ---
 Congratulations! You've learned how to use **～からすると** to express inferences and judgments in Japanese. Keep practicing by observing situations and forming sentences using this structure.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

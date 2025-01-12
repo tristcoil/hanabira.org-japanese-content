@@ -112,3 +112,8 @@ The base form **しない** is informal. To make it polite, use **しません**
 ---
 By mastering **～ようとしない**, you'll enhance your ability to express subtle nuances about intention and effort in Japanese, making your communication more precise and culturally appropriate.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

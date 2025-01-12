@@ -87,3 +87,8 @@ Rewrite the following sentences using **～わりには**:
 # Conclusion
 Understanding **～わりには** allows you to express nuances about expectations versus reality in Japanese, enriching your ability to communicate subtleties in everyday conversations.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

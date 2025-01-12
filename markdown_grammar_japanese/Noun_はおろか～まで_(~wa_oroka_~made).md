@@ -115,3 +115,8 @@ These phrases highlight a lack of basic social etiquette, which is significant i
 ## Additional Practice
 Try creating your own sentences using **Noun はおろか Noun まで** to describe situations where not only the first noun doesn't apply, but even the second noun doesn't apply.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

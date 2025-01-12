@@ -92,3 +92,8 @@ Both **～に関して** and **～について** mean "about" or "regarding," bu
    **Answer:** *経済**に関する**論文を読みました。*
 ---
 By understanding and practicing **～に関して**, you can effectively express topics in formal Japanese and enhance your communication skills in professional settings.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

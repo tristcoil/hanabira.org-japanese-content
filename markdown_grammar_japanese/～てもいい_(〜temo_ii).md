@@ -147,3 +147,8 @@ The basic structure to form ～てもいい is:
    (*Use the correct て-form: 撮って*)
 ---
 Feel free to practice using **～てもいい** in your own sentences to become more comfortable with expressing and requesting permission in Japanese!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

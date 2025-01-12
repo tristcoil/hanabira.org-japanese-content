@@ -153,3 +153,8 @@ He is the fastest on the team.
 ---
 By understanding and practicing **"A が いちばん～,"** you can effectively express superlatives in Japanese, allowing you to share your preferences, make comparisons, and convey opinions confidently and naturally.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

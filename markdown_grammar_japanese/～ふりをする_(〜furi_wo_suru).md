@@ -101,3 +101,8 @@ In Japanese society, harmony and avoiding direct confrontation are valued. Somet
 
 ---
 By mastering **～ふりをする**, you can express subtle nuances about actions and intentions, enhancing your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -101,3 +101,8 @@ It can also be used with adjectives or nouns in certain cases.
    **Answer**: a) *Verb (dictionary form) + に + つけ*
 ---
 By mastering **～につけ～につけ**, you can express nuanced thoughts about situations where the same feelings or outcomes apply, enriching your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

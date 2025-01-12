@@ -95,3 +95,8 @@ In this lesson, we'll explore the Japanese grammar point **Verbる 嫌いがあ�
    - **Answer**: False. Use the dictionary form of the verb.
 ---
 By understanding and practicing this grammar point, you'll be able to express subtle critiques and observations about tendencies in Japanese, adding depth to your language skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

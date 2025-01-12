@@ -98,3 +98,8 @@ To form this pattern:
 3. Corrected Sentence: 友達と話し**た**り、カフェに行っ**た**りします。
 ---
 By mastering this grammar point, you'll enhance your ability to describe your activities and experiences more naturally in Japanese. Practice by creating sentences about what you do in your free time using **～たり、～たりします**!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

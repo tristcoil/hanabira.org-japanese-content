@@ -94,3 +94,8 @@ It emphasizes that something holds true especially because of the situation desc
    - "In case of emergency, please press this button."
 ---
 End of lesson on **にあっては (ni atte wa)**. Practice using this grammar point in sentences to become more familiar with its usage!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

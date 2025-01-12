@@ -116,3 +116,8 @@ For な-Adjectives and Nouns:
 
 ---
 By understanding and practicing **AうとBうと**, you'll be able to express unwavering actions or states regardless of varying conditions, adding depth and sophistication to your Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

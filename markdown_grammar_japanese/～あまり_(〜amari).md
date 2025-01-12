@@ -120,3 +120,8 @@ Japanese culture often values modesty and restraint. Using **～あまり** allo
 
 ---
 Feel free to revisit the examples and explanations to reinforce your understanding of **～あまり**.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -92,3 +92,8 @@ In Japanese society, group orientation and central themes are significant. Using
 
 ---
 By understanding and practicing **～を中心に**, you'll be able to express the idea of central themes and focuses in Japanese effectively. Use this grammar point to highlight what is most important in your sentences.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

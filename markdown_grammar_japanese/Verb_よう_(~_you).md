@@ -113,3 +113,8 @@ For verbs ending with **-iru** or **-eru**, replace **る** with **よう**.
 3. In formal situations or when you need to be polite.
 ---
 By mastering **～よう**, you can effectively express your intentions and make suggestions in Japanese, enhancing your communication skills in both casual and formal settings.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

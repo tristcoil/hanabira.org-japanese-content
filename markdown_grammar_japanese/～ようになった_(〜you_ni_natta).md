@@ -124,3 +124,8 @@ These expressions are commonly used to discuss improvements in skills or changes
    **Answer:** ようになった
 ---
 ## Thank you for studying ～ようになった! Keep practicing by making your own sentences to describe changes in your habits or abilities.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

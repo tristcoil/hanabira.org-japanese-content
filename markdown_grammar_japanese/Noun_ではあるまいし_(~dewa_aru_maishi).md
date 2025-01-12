@@ -102,3 +102,8 @@ In Japanese culture, indirect expressions are often used to convey criticism or 
 3. *"You're not a ghost, so please don't scare me."*
 ---
 By understanding and practicing **〜ではあるまいし**, you'll be able to express nuanced reasons and gently correct misconceptions or improper expectations in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

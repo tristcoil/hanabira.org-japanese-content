@@ -100,3 +100,8 @@ While **それから** itself is straightforward, it's essential to use it appro
 3. **それから** emphasizes sequence or addition, while **そして** simply connects sentences without emphasizing order.
 ---
 By incorporating **それから** into your conversations, you'll be able to express sequences and add information smoothly, enhancing your overall communication skills in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

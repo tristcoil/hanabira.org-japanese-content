@@ -124,3 +124,8 @@ A。でも、B。
 2. b) 私は行きます。でも、彼は行きません。
 3. False. **でも** is used at the beginning of the second sentence, not mid-sentence.
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

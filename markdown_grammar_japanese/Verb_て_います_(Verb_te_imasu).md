@@ -131,3 +131,8 @@ Some expressions using "Verb て います" have idiomatic meanings:
    - **Answer**: Incorrect. The correct form is 彼は映画を見ています。 You should not combine ます and ています.
 ---
 Feel free to revisit each section for a deeper understanding, and practice by creating your own sentences using "Verb て います"!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -123,3 +123,8 @@ While **Verbる なり** isn't part of any specific idiomatic expressions, maste
    - **Answer**: "As soon as he entered the store, he began looking for the new product."
 ---
 By understanding and practicing **Verbる なり**, you'll enhance your ability to express immediate sequences of actions in Japanese, adding depth and nuance to your language skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

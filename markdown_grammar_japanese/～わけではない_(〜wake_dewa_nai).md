@@ -98,3 +98,8 @@ In Japanese communication, it's common to avoid direct negations or affirmations
    - **Answer**: False. It is used for partial negation or to clarify.
 ---
 Feel free to review the examples and explanations to reinforce your understanding of **～わけではない**. Practice by creating your own sentences to become more comfortable with this grammar point.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

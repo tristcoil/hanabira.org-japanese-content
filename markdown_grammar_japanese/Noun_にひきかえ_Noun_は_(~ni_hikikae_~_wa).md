@@ -106,3 +106,8 @@ The grammar point **にひきかえ (ni hikikae)** is used to draw a contrast be
 2. No, it should be used with nouns. Convert verbs/adjectives to noun forms if necessary.
 3. *(Student's own answer.)*
 ---
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -96,3 +96,8 @@ The basic structure is:
 3. Corrected Sentence: *テレビを見ている間に、電話が鳴った。*
 ---
 By understanding and practicing **Verb ている間に**, you'll be able to express simultaneous actions more naturally in Japanese. Remember to use the **ている** form to highlight ongoing actions, and pay attention to the nuances between **間** and **間に**.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)
