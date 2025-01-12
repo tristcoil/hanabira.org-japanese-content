@@ -142,7 +142,7 @@ The basic structure is:
 - **コーチは選手たちに毎日練習するように言った。**
 ---
 By understanding and using **Verb ように言う**, you'll improve your ability to convey indirect speech in Japanese, making your communication more nuanced and culturally appropriate.
----
+
 
 
 ---
