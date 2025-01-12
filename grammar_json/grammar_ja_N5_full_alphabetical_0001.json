@@ -8,30 +8,24 @@
       {
         "jp": "この中で、寿司が一番好きです。",
         "romaji": "Kono naka de, sushi ga ichiban suki desu.",
-        "en": "Of all these, I like sushi the most.",
-        "grammar_audio": "/audio/grammar/s_AがいちばんAgaichiban_20230511_この中で寿司が一番好きです.mp3"
+        "en": "Of all these, I like sushi the most."
       },
       {
         "jp": "彼女はクラスで一番速く泳げます。",
         "romaji": "Kanojo wa kurasu de ichiban hayaku oyogemasu.",
-        "en": "She can swim the fastest in the class.",
-        "grammar_audio": "/audio/grammar/s_AがいちばんAgaichiban_20230511_彼女はクラスで一番速く泳げます.mp3"
+        "en": "She can swim the fastest in the class."
       },
       {
         "jp": "この町では、この公園が一番きれいです。",
         "romaji": "Kono machi de wa, kono kouen ga ichiban kirei desu.",
-        "en": "In this town, this park is the most beautiful.",
-        "grammar_audio": "/audio/grammar/s_AがいちばんAgaichiban_20230511_この町ではこの公園が一番きれいです.mp3"
+        "en": "In this town, this park is the most beautiful."
       },
       {
         "jp": "コーヒーより紅茶が一番好きです。",
         "romaji": "Koohii yori koucha ga ichiban suki desu.",
-        "en": "I like tea the most, more than coffee.",
-        "grammar_audio": "/audio/grammar/s_AがいちばんAgaichiban_20230511_コーヒーより紅茶が一番好きです.mp3"
+        "en": "I like tea the most, more than coffee."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "A。けれども、～B。(A. Keredomo,~ B.)",
@@ -42,30 +36,24 @@
       {
         "jp": "今日は晴れている。けれども、寒いです。",
         "romaji": "Kyou wa harete iru. Keredo mo, samui desu.",
-        "en": "It is sunny today. However, it is cold.",
-        "grammar_audio": "/audio/grammar/s_AけれどもBA.Keredomo,~B._20230511_今日は晴れているけれども寒いです.mp3"
+        "en": "It is sunny today. However, it is cold."
       },
       {
         "jp": "彼女はうるさい。けれども、面白いです。",
         "romaji": "Kanojo wa urusai. Keredo mo, omoshiroi desu.",
-        "en": "She is noisy. But, she is interesting.",
-        "grammar_audio": "/audio/grammar/s_AけれどもBA.Keredomo,~B._20230511_彼女はうるさいけれども面白いです.mp3"
+        "en": "She is noisy. But, she is interesting."
       },
       {
         "jp": "その映画は長かった。けれども、退屈じゃなかった。",
         "romaji": "Sono eiga wa nagakatta. Keredo mo, taikutsu janakatta.",
-        "en": "The movie was long. But, it wasn't boring.",
-        "grammar_audio": "/audio/grammar/s_AけれどもBA.Keredomo,~B._20230511_その映画は長かったけれども退屈じゃなかった.mp3"
+        "en": "The movie was long. But, it wasn't boring."
       },
       {
         "jp": "彼は運動が得意だ。けれども、勉強は苦手だ。",
         "romaji": "Kare wa undou ga tokui da. Keredo mo, benkyou wa nigate da.",
-        "en": "He is good at sports. However, he is not good at studying.",
-        "grammar_audio": "/audio/grammar/s_AけれどもBA.Keredomo,~B._20230511_彼は運動が得意だけれども勉強は苦手だ.mp3"
+        "en": "He is good at sports. However, he is not good at studying."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "A。しかし、～B。 (A. Shikashi, ~B.)",
@@ -76,30 +64,24 @@
       {
         "jp": "今日は忙しい。しかし、時間があるなら、コーヒーを飲もう。",
         "romaji": "Kyou wa isogashii. Shikashi, jikan ga aru nara, koohii o nomou.",
-        "en": "I'm busy today. However, if I have time, let's have coffee.",
-        "grammar_audio": "/audio/grammar/s_AしかしBA.Shikashi,~B._20230511_今日は忙しいしかし時間があるならコーヒーを飲もう.mp3"
+        "en": "I'm busy today. However, if I have time, let's have coffee."
       },
       {
         "jp": "その映画は面白かった。しかし、長すぎました。",
         "romaji": "Sono eiga wa omoshirokatta. Shikashi, nagasugimashita.",
-        "en": "The movie was interesting. But, it was too long.",
-        "grammar_audio": "/audio/grammar/s_AしかしBA.Shikashi,~B._20230511_その映画は面白かったしかし長すぎました.mp3"
+        "en": "The movie was interesting. But, it was too long."
       },
       {
         "jp": "彼は疲れていた。しかし、宿題を終わらせた。",
         "romaji": "Kare wa tsukareteita. Shikashi, shukudai o owaraseta.",
-        "en": "He was tired. However, he finished his homework.",
-        "grammar_audio": "/audio/grammar/s_AしかしBA.Shikashi,~B._20230511_彼は疲れていたしかし宿題を終わらせた.mp3"
+        "en": "He was tired. However, he finished his homework."
       },
       {
         "jp": "部屋は狭いです。しかし、便利な場所にあります。",
         "romaji": "Heya wa semai desu. Shikashi, benri na basho ni arimasu.",
-        "en": "The room is small. But, it is in a convenient location.",
-        "grammar_audio": "/audio/grammar/s_AしかしBA.Shikashi,~B._20230511_部屋は狭いですしかし便利な場所にあります.mp3"
+        "en": "The room is small. But, it is in a convenient location."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "A。じゃ、～B。(A. Ja, ~B.)",
@@ -110,30 +92,24 @@
       {
         "jp": "映画は時間がない。じゃ、また今度行こう。",
         "romaji": "Eiga wa jikan ga nai. Ja, mata kondo ikou.",
-        "en": "There's no time for a movie. Well then, let's go another time.",
-        "grammar_audio": "/audio/grammar/s_AじゃBA.Ja,~B._20230511_映画は時間がないじゃまた今度行こう.mp3"
+        "en": "There's no time for a movie. Well then, let's go another time."
       },
       {
         "jp": "お腹がすいた。じゃ、レストランに行こう。",
         "romaji": "Onaka ga suita. Ja, resutoran ni ikou.",
-        "en": "I'm hungry. In that case, let's go to a restaurant.",
-        "grammar_audio": "/audio/grammar/s_AじゃBA.Ja,~B._20230511_お腹がすいたじゃレストランに行こう.mp3"
+        "en": "I'm hungry. In that case, let's go to a restaurant."
       },
       {
         "jp": "電車が遅れた。じゃ、バスで行こう。",
         "romaji": "Densha ga okureta. Ja, basu de ikou.",
-        "en": "The train is late. So, let's go by bus.",
-        "grammar_audio": "/audio/grammar/s_AじゃBA.Ja,~B._20230511_電車が遅れたじゃバスで行こう.mp3"
+        "en": "The train is late. So, let's go by bus."
       },
       {
         "jp": "このシャツは高い。じゃ、別のを買おう。",
         "romaji": "Kono shatsu wa takai. Ja, betsu no o kau.",
-        "en": "This shirt is expensive. Well then, let's buy a different one.",
-        "grammar_audio": "/audio/grammar/s_AじゃBA.Ja,~B._20230511_このシャツは高いじゃ別のを買おう.mp3"
+        "en": "This shirt is expensive. Well then, let's buy a different one."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "A。それじゃ、～B。(A. Soreja,~B.)",
@@ -144,30 +120,24 @@
       {
         "jp": "今日は休みです。それじゃ、映画を観に行きましょう。",
         "romaji": "Kyou wa yasumi desu. Soreja, eiga wo mi ni ikimashou.",
-        "en": "Today is a day off. In that case, let's go watch a movie.",
-        "grammar_audio": "/audio/grammar/s_AそれじゃBA.Soreja,~B._20230511_今日は休みですそれじゃ映画を観に行きましょう.mp3"
+        "en": "Today is a day off. In that case, let's go watch a movie."
       },
       {
         "jp": "電気が切れた。それじゃ、ろうそくを使いましょう。",
         "romaji": "Denki ga kireta. Soreja, rousoku wo tsukaimashou.",
-        "en": "The electricity went out. In that case, let's use candles.",
-        "grammar_audio": "/audio/grammar/s_AそれじゃBA.Soreja,~B._20230511_電気が切れたそれじゃろうそくを使いましょう.mp3"
+        "en": "The electricity went out. In that case, let's use candles."
       },
       {
         "jp": "レストランが混んでいます。それじゃ、別の場所で食べましょう。",
         "romaji": "Resutoran ga kondeimasu. Soreja, betsu no basho de tabemashou.",
-        "en": "The restaurant is crowded. In that case, let's eat somewhere else.",
-        "grammar_audio": "/audio/grammar/s_AそれじゃBA.Soreja,~B._20230511_レストランが混んでいますそれじゃ別の場所で食べましょう.mp3"
+        "en": "The restaurant is crowded. In that case, let's eat somewhere else."
       },
       {
         "jp": "明日は雨が降るらしい。それじゃ、ピクニックは中止しましょう。",
         "romaji": "Ashita wa ame ga furu rashii. Soreja, pikunikku wa chuushi shimashou.",
-        "en": "It seems it will rain tomorrow. In that case, let's cancel the picnic.",
-        "grammar_audio": "/audio/grammar/s_AそれじゃBA.Soreja,~B._20230511_明日は雨が降るらしいそれじゃピクニックは中止しましょう.mp3"
+        "en": "It seems it will rain tomorrow. In that case, let's cancel the picnic."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "A。それでは、～B。(A. Soredewa,~B.)",
@@ -178,30 +148,24 @@
       {
         "jp": "今日は休みだ。それでは、映画を見に行こう。",
         "romaji": "Kyou wa yasumi da. Sore dewa, eiga wo mi ni ikou.",
-        "en": "Today is a day off. In that case, let's go see a movie.",
-        "grammar_audio": "/audio/grammar/s_AそれではBA.Soredewa,~B._20230511_今日は休みだそれでは映画を見に行こう.mp3"
+        "en": "Today is a day off. In that case, let's go see a movie."
       },
       {
         "jp": "このパンはもう古いです。それでは、捨てましょう。",
         "romaji": "Kono pan wa mou furui desu. Sore dewa, sutemashou.",
-        "en": "This bread is already old. Then, let's throw it away.",
-        "grammar_audio": "/audio/grammar/s_AそれではBA.Soredewa,~B._20230511_このパンはもう古いですそれでは捨てましょう.mp3"
+        "en": "This bread is already old. Then, let's throw it away."
       },
       {
         "jp": "雨が降ってきた。それでは、室内で遊ぼう。",
         "romaji": "Ame ga futtekita. Sore dewa, shitsunai de asobou.",
-        "en": "It started raining. In that case, let's play indoors.",
-        "grammar_audio": "/audio/grammar/s_AそれではBA.Soredewa,~B._20230511_雨が降ってきたそれでは室内で遊ぼう.mp3"
+        "en": "It started raining. In that case, let's play indoors."
       },
       {
         "jp": "お腹が空いた。それでは、何か食べに行きましょう。",
         "romaji": "Onaka ga suita. Sore dewa, nani ka tabe ni ikimashou.",
-        "en": "I'm hungry. So, let's go eat something.",
-        "grammar_audio": "/audio/grammar/s_AそれではBA.Soredewa,~B._20230511_お腹が空いたそれでは何か食べに行きましょう.mp3"
+        "en": "I'm hungry. So, let's go eat something."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "A。 では、～B。 (A. Dewa, ~B)",
@@ -212,30 +176,24 @@
       {
         "jp": "果物では、リンゴが一番好きです。",
         "romaji": "Kudamono dewa, ringo ga ichiban suki desu.",
-        "en": "As for fruits, apples are my favorite.",
-        "grammar_audio": "/audio/grammar/s_AではBA.Dewa,~B_20230511_果物ではリンゴが一番好きです.mp3"
+        "en": "As for fruits, apples are my favorite."
       },
       {
         "jp": "スポーツでは、サッカーが一番人気です。",
         "romaji": "Supōtsu dewa, sakkā ga ichiban ninki desu.",
-        "en": "As for sports, soccer is the most popular.",
-        "grammar_audio": "/audio/grammar/s_AではBA.Dewa,~B_20230511_スポーツではサッカーが一番人気です.mp3"
+        "en": "As for sports, soccer is the most popular."
       },
       {
         "jp": "今日の天気では、雨が降りそうです。",
         "romaji": "Kyou no tenki dewa, ame ga furisou desu.",
-        "en": "As for today's weather, it looks like it will rain.",
-        "grammar_audio": "/audio/grammar/s_AではBA.Dewa,~B_20230511_今日の天気では雨が降りそうです.mp3"
+        "en": "As for today's weather, it looks like it will rain."
       },
       {
         "jp": "料理では、和食が一番得意です。",
         "romaji": "Ryouri dewa, washoku ga ichiban tokui desu.",
-        "en": "As for cooking, I am best at Japanese cuisine.",
-        "grammar_audio": "/audio/grammar/s_AではBA.Dewa,~B_20230511_料理では和食が一番得意です.mp3"
+        "en": "As for cooking, I am best at Japanese cuisine."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "A。でも、～B。(A. Demo, ~B)",
@@ -246,30 +204,24 @@
       {
         "jp": "昨日は寒かった。でも、今日は暖かいです。",
         "romaji": "Kinou wa samukatta. Demo, kyou wa atatakai desu.",
-        "en": "Yesterday was cold. However, today it is warm.",
-        "grammar_audio": "/audio/grammar/s_AでもBA.Demo,~B_20230511_昨日は寒かったでも今日は暖かいです.mp3"
+        "en": "Yesterday was cold. However, today it is warm."
       },
       {
         "jp": "彼は忙しい。でも、友達と遊ぶ時間がある。",
         "romaji": "Kare wa isogashii. Demo, tomodachi to asobu jikan ga aru.",
-        "en": "He is busy. However, he still has time to hang out with friends.",
-        "grammar_audio": "/audio/grammar/s_AでもBA.Demo,~B_20230511_彼は忙しいでも友達と遊ぶ時間がある.mp3"
+        "en": "He is busy. However, he still has time to hang out with friends."
       },
       {
         "jp": "試験に合格した。でも、まだ勉強を続けています。",
         "romaji": "Shiken ni goukaku shita. Demo, mada benkyou wo tsuzuketeimasu.",
-        "en": "I passed the exam. However, I am still continuing to study.",
-        "grammar_audio": "/audio/grammar/s_AでもBA.Demo,~B_20230511_試験に合格したでもまだ勉強を続けています.mp3"
+        "en": "I passed the exam. However, I am still continuing to study."
       },
       {
         "jp": "彼女は有名だ。でも、とても謙虚です。",
         "romaji": "Kanojo wa yuumei da. Demo, totemo kenkyo desu.",
-        "en": "She is famous. However, she is very humble.",
-        "grammar_audio": "/audio/grammar/s_AでもBA.Demo,~B_20230511_彼女は有名だでもとても謙虚です.mp3"
+        "en": "She is famous. However, she is very humble."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "Aと Bと どちら～ (A to B to dochira~)",
@@ -280,30 +232,24 @@
       {
         "jp": "りんごとみかんとどちらが好きですか。",
         "romaji": "Ringo to mikan to dochira ga suki desu ka?",
-        "en": "Which do you like, apples or oranges?",
-        "grammar_audio": "/audio/grammar/s_AとBとどちらAtoBtodochira~_20230511_りんごとみかんとどちらが好きですか.mp3"
+        "en": "Which do you like, apples or oranges?"
       },
       {
         "jp": "電車とバスとどちらで行くべきですか。",
         "romaji": "Densha to basu to dochira de iku beki desu ka?",
-        "en": "Should I go by train or bus?",
-        "grammar_audio": "/audio/grammar/s_AとBとどちらAtoBtodochira~_20230511_電車とバスとどちらで行くべきですか.mp3"
+        "en": "Should I go by train or bus?"
       },
       {
         "jp": "赤いワンピースと青いワンピースとどちらが似合うと思いますか。",
         "romaji": "Akai wanpiisu to aoi wanpiisu to dochira ga niau to omoimasu ka?",
-        "en": "Which do you think suits me better, the red dress or the blue dress?",
-        "grammar_audio": "/audio/grammar/s_AとBとどちらAtoBtodochira~_20230511_赤いワンピースと青いワンピースとどちらが似合うと思いますか.mp3"
+        "en": "Which do you think suits me better, the red dress or the blue dress?"
       },
       {
         "jp": "このカメラとあのカメラとどちらのほうが使いやすいですか。",
         "romaji": "Kono kamera to ano kamera to dochira no hou ga tsukaiyasui desu ka?",
-        "en": "Which one is easier to use, this camera or that camera?",
-        "grammar_audio": "/audio/grammar/s_AとBとどちらAtoBtodochira~_20230511_このカメラとあのカメラとどちらのほうが使いやすいですか.mp3"
+        "en": "Which one is easier to use, this camera or that camera?"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "AとBと どっち〜 (A to B to docchi〜)",
@@ -314,30 +260,24 @@
       {
         "jp": "コーヒーと紅茶とどっちが好き？",
         "romaji": "Koohii to koucha to docchi ga suki?",
-        "en": "Which do you like, coffee or tea?",
-        "grammar_audio": "/audio/grammar/s_AとBとどっちAtoBtodocchi_20230511_コーヒーと紅茶とどっちが好き.mp3"
+        "en": "Which do you like, coffee or tea?"
       },
       {
         "jp": "映画と音楽とどっちを楽しむ？",
         "romaji": "Eiga to ongaku to docchi o tanoshimu?",
-        "en": "Which do you enjoy, movies or music?",
-        "grammar_audio": "/audio/grammar/s_AとBとどっちAtoBtodocchi_20230511_映画と音楽とどっちを楽しむ.mp3"
+        "en": "Which do you enjoy, movies or music?"
       },
       {
         "jp": "赤いシャツと青いシャツとどっちを買う？",
         "romaji": "Akai shatsu to aoi shatsu to docchi o kau?",
-        "en": "Which one will you buy, the red shirt or the blue shirt?",
-        "grammar_audio": "/audio/grammar/s_AとBとどっちAtoBtodocchi_20230511_赤いシャツと青いシャツとどっちを買う.mp3"
+        "en": "Which one will you buy, the red shirt or the blue shirt?"
       },
       {
         "jp": "日本語と韓国語とどっちを勉強したい？",
         "romaji": "Nihongo to kankokugo to docchi o benkyou shitai?",
-        "en": "Which do you want to study, Japanese or Korean?",
-        "grammar_audio": "/audio/grammar/s_AとBとどっちAtoBtodocchi_20230511_日本語と韓国語とどっちを勉強したい.mp3"
+        "en": "Which do you want to study, Japanese or Korean?"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "A は B が〜 (A wa B ga〜)",
@@ -348,30 +288,24 @@
       {
         "jp": "彼女は髪が長いです。",
         "romaji": "Kanojo wa kami ga nagai desu.",
-        "en": "What's special about her is that she has long hair.",
-        "grammar_audio": "/audio/grammar/s_AはBがAwaBga_20230511_彼女は髪が長いです.mp3"
+        "en": "What's special about her is that she has long hair."
       },
       {
         "jp": "このレストランは雰囲気が良いです。",
         "romaji": "Kono resutoran wa fun'iki ga ii desu.",
-        "en": "What's great about this restaurant is the atmosphere.",
-        "grammar_audio": "/audio/grammar/s_AはBがAwaBga_20230511_このレストランは雰囲気が良いです.mp3"
+        "en": "What's great about this restaurant is the atmosphere."
       },
       {
         "jp": "私は朝ごはんが一番好きです。",
         "romaji": "Watashi wa asagohan ga ichiban suki desu.",
-        "en": "What I like the most is breakfast.",
-        "grammar_audio": "/audio/grammar/s_AはBがAwaBga_20230511_私は朝ごはんが一番好きです.mp3"
+        "en": "What I like the most is breakfast."
       },
       {
         "jp": "彼は英語が得意です。",
         "romaji": "Kare wa eigo ga tokui desu.",
-        "en": "He is particularly good at English.",
-        "grammar_audio": "/audio/grammar/s_AはBがAwaBga_20230511_彼は英語が得意です.mp3"
+        "en": "He is particularly good at English."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "A は B より～ (A wa B yori～)",
@@ -382,30 +316,24 @@
       {
         "jp": "このジュースはあのジュースより甘いです。",
         "romaji": "Kono juusu wa ano juusu yori amai desu.",
-        "en": "This juice is sweeter than that juice.",
-        "grammar_audio": "/audio/grammar/s_AはBよりAwaByori_20230511_このジュースはあのジュースより甘いです.mp3"
+        "en": "This juice is sweeter than that juice."
       },
       {
         "jp": "夏は冬より暑いです。",
         "romaji": "Natsu wa fuyu yori atsui desu.",
-        "en": "Summer is hotter than winter.",
-        "grammar_audio": "/audio/grammar/s_AはBよりAwaByori_20230511_夏は冬より暑いです.mp3"
+        "en": "Summer is hotter than winter."
       },
       {
         "jp": "彼女は私より速く走ります。",
         "romaji": "Kanojo wa watashi yori hayaku hashirimasu.",
-        "en": "She runs faster than me.",
-        "grammar_audio": "/audio/grammar/s_AはBよりAwaByori_20230511_彼女は私より速く走ります.mp3"
+        "en": "She runs faster than me."
       },
       {
         "jp": "スーパーはコンビニより安いです。",
         "romaji": "Suupaa wa konbini yori yasui desu.",
-        "en": "The supermarket is cheaper than the convenience store.",
-        "grammar_audio": "/audio/grammar/s_AはBよりAwaByori_20230511_スーパーはコンビニより安いです.mp3"
+        "en": "The supermarket is cheaper than the convenience store."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "A より B のほうが～ (A yori B no hou ga ～)",
@@ -416,30 +344,24 @@
       {
         "jp": "ピザよりハンバーガーのほうが美味しい。",
         "romaji": "Piza yori hanbaagaa no hou ga oishii.",
-        "en": "Hamburgers are more delicious than pizza.",
-        "grammar_audio": "/audio/grammar/s_AよりBのほうがAyoriBnohouga_20230511_ピザよりハンバーガーのほうが美味しい.mp3"
+        "en": "Hamburgers are more delicious than pizza."
       },
       {
         "jp": "夏より冬のほうが寒い。",
         "romaji": "Natsu yori fuyu no hou ga samui.",
-        "en": "Winter is colder than summer.",
-        "grammar_audio": "/audio/grammar/s_AよりBのほうがAyoriBnohouga_20230511_夏より冬のほうが寒い.mp3"
+        "en": "Winter is colder than summer."
       },
       {
         "jp": "ここよりそこのほうが静かです。",
         "romaji": "Koko yori soko no hou ga shizuka desu.",
-        "en": "There is quieter than here.",
-        "grammar_audio": "/audio/grammar/s_AよりBのほうがAyoriBnohouga_20230511_ここよりそこのほうが静かです.mp3"
+        "en": "There is quieter than here."
       },
       {
         "jp": "車より電車のほうが速い。",
         "romaji": "Kuruma yori densha no hou ga hayai.",
-        "en": "Trains are faster than cars.",
-        "grammar_audio": "/audio/grammar/s_AよりBのほうがAyoriBnohouga_20230511_車より電車のほうが速い.mp3"
+        "en": "Trains are faster than cars."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "い-Adjective く + Verb (i-Adjective + ku + Verb)",
@@ -450,30 +372,24 @@
       {
         "jp": "彼は速く走りました。",
         "romaji": "Kare wa hayaku hashirimashita.",
-        "en": "He ran quickly.",
-        "grammar_audio": "/audio/grammar/s_い-Adjectiveく+Verbi-Adjective+ku+Verb_20230511_彼は速く走りました.mp3"
+        "en": "He ran quickly."
       },
       {
         "jp": "この料理は美味しく食べました。",
         "romaji": "Kono ryouri wa oishiku tabemashita.",
-        "en": "I ate this dish deliciously.",
-        "grammar_audio": "/audio/grammar/s_い-Adjectiveく+Verbi-Adjective+ku+Verb_20230511_この料理は美味しく食べました.mp3"
+        "en": "I ate this dish deliciously."
       },
       {
         "jp": "彼女は静かに話します。",
         "romaji": "Kanojo wa shizuka ni hanashimasu.",
-        "en": "She speaks quietly.",
-        "grammar_audio": "/audio/grammar/s_い-Adjectiveく+Verbi-Adjective+ku+Verb_20230511_彼女は静かに話します.mp3"
+        "en": "She speaks quietly."
       },
       {
         "jp": "母は熱心に仕事をしています。",
         "romaji": "Haha wa nesshin ni shigoto wo shiteimasu.",
-        "en": "My mother is working diligently.",
-        "grammar_audio": "/audio/grammar/s_い-Adjectiveく+Verbi-Adjective+ku+Verb_20230511_母は熱心に仕事をしています.mp3"
+        "en": "My mother is working diligently."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "い-Adjective く します (i-Adjective ku shimasu)",
@@ -484,30 +400,24 @@
       {
         "jp": "部屋を明るくします。",
         "romaji": "Heya wo akaruku shimasu.",
-        "en": "I will make the room brighter.",
-        "grammar_audio": "/audio/grammar/s_い-Adjectiveくしますi-Adjectivekushimasu_20230511_部屋を明るくします.mp3"
+        "en": "I will make the room brighter."
       },
       {
         "jp": "友達の気分を楽しくします。",
         "romaji": "Tomodachi no kibun wo tanoshiku shimasu.",
-        "en": "I will make my friend's mood enjoyable.",
-        "grammar_audio": "/audio/grammar/s_い-Adjectiveくしますi-Adjectivekushimasu_20230511_友達の気分を楽しくします.mp3"
+        "en": "I will make my friend's mood enjoyable."
       },
       {
         "jp": "仕事が簡単になるように効率的にやり方を早くします。",
         "romaji": "Shigoto ga kantan ni naru you ni kouritsuteki ni yarikata wo hayaku shimasu.",
-        "en": "I will make the way of working faster and efficient to make the job easier.",
-        "grammar_audio": "/audio/grammar/s_い-Adjectiveくしますi-Adjectivekushimasu_20230511_仕事が簡単になるように効率的にやり方を早くします.mp3"
+        "en": "I will make the way of working faster and efficient to make the job easier."
       },
       {
         "jp": "食べ物を美味しくします。",
         "romaji": "Tabemono wo oishiku shimasu.",
-        "en": "I will make the food delicious.",
-        "grammar_audio": "/audio/grammar/s_い-Adjectiveくしますi-Adjectivekushimasu_20230511_食べ物を美味しくします.mp3"
+        "en": "I will make the food delicious."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "い-Adjective く ないます (i-Adjective ku naimasu)",
@@ -518,30 +428,24 @@
       {
         "jp": "このピザは美味しくないです。",
         "romaji": "Kono piza wa oishiku nai desu.",
-        "en": "This pizza is not delicious.",
-        "grammar_audio": "/audio/grammar/s_い-Adjectiveくないますi-Adjectivekunaimasu_20230511_このピザは美味しくないです.mp3"
+        "en": "This pizza is not delicious."
       },
       {
         "jp": "この部屋は広くないです。",
         "romaji": "Kono heya wa hiroku nai desu.",
-        "en": "This room is not spacious.",
-        "grammar_audio": "/audio/grammar/s_い-Adjectiveくないますi-Adjectivekunaimasu_20230511_この部屋は広くないです.mp3"
+        "en": "This room is not spacious."
       },
       {
         "jp": "彼の意見は面白くないです。",
         "romaji": "Kare no iken wa omoshiroku nai desu.",
-        "en": "His opinion is not interesting.",
-        "grammar_audio": "/audio/grammar/s_い-Adjectiveくないますi-Adjectivekunaimasu_20230511_彼の意見は面白くないです.mp3"
+        "en": "His opinion is not interesting."
       },
       {
         "jp": "その映画は楽しくないです。",
         "romaji": "Sono eiga wa tanoshiku nai desu.",
-        "en": "That movie is not enjoyable.",
-        "grammar_audio": "/audio/grammar/s_い-Adjectiveくないますi-Adjectivekunaimasu_20230511_その映画は楽しくないです.mp3"
+        "en": "That movie is not enjoyable."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "い-Adjective て (i-Adjective + te~)",
@@ -552,30 +456,24 @@
       {
         "jp": "このリンゴは甘くて美味しいです。",
         "romaji": "Kono ringo wa amakute oishii desu.",
-        "en": "This apple is sweet and delicious.",
-        "grammar_audio": "/audio/grammar/s_い-Adjectiveてi-Adjective+te~_20230511_このリンゴは甘くて美味しいです.mp3"
+        "en": "This apple is sweet and delicious."
       },
       {
         "jp": "彼女は親切でかわいいです。",
         "romaji": "Kanojo wa shinsetsu de kawaii desu.",
-        "en": "She is kind and cute.",
-        "grammar_audio": "/audio/grammar/s_い-Adjectiveてi-Adjective+te~_20230511_彼女は親切でかわいいです.mp3"
+        "en": "She is kind and cute."
       },
       {
         "jp": "映画は面白くて感動的でした。",
         "romaji": "Eiga wa omoshirokute kandouteki deshita.",
-        "en": "The movie was interesting and touching.",
-        "grammar_audio": "/audio/grammar/s_い-Adjectiveてi-Adjective+te~_20230511_映画は面白くて感動的でした.mp3"
+        "en": "The movie was interesting and touching."
       },
       {
         "jp": "この部屋は広くて明るいです。",
         "romaji": "Kono heya wa hirokute akarui desu.",
-        "en": "This room is spacious and bright.",
-        "grammar_audio": "/audio/grammar/s_い-Adjectiveてi-Adjective+te~_20230511_この部屋は広くて明るいです.mp3"
+        "en": "This room is spacious and bright."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "な-Adjective く Verb (na-Adjective + ku + Verb)",
@@ -586,30 +484,24 @@
       {
         "jp": "彼は静かく話す。",
         "romaji": "Kare wa shizuka ku hanasu.",
-        "en": "He speaks quietly.",
-        "grammar_audio": "/audio/grammar/s_な-AdjectiveくVerbna-Adjective+ku+Verb_20230511_彼は静かく話す.mp3"
+        "en": "He speaks quietly."
       },
       {
         "jp": "部屋をきれいく掃除した。",
         "romaji": "Heya wo kirei ku souji shita.",
-        "en": "I cleaned the room neatly.",
-        "grammar_audio": "/audio/grammar/s_な-AdjectiveくVerbna-Adjective+ku+Verb_20230511_部屋をきれいく掃除した.mp3"
+        "en": "I cleaned the room neatly."
       },
       {
         "jp": "彼女は元気く働いています。",
         "romaji": "Kanojo wa genki ku hataraiteimasu.",
-        "en": "She works energetically.",
-        "grammar_audio": "/audio/grammar/s_な-AdjectiveくVerbna-Adjective+ku+Verb_20230511_彼女は元気く働いています.mp3"
+        "en": "She works energetically."
       },
       {
         "jp": "先生は親切く説明してくれる。",
         "romaji": "Sensei wa shinsetsu ku setsumei shite kureru.",
-        "en": "The teacher explains kindly.",
-        "grammar_audio": "/audio/grammar/s_な-AdjectiveくVerbna-Adjective+ku+Verb_20230511_先生は親切く説明してくれる.mp3"
+        "en": "The teacher explains kindly."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "な-Adjective で～ (na-Adjective de~)",
@@ -620,30 +512,24 @@
       {
         "jp": "彼は綺麗で優しい女性が好きです。",
         "romaji": "Kare wa kirei de yasashii josei ga suki desu.",
-        "en": "He likes women who are beautiful and kind.",
-        "grammar_audio": "/audio/grammar/s_な-Adjectiveでna-Adjectivede~_20230511_彼は綺麗で優しい女性が好きです.mp3"
+        "en": "He likes women who are beautiful and kind."
       },
       {
         "jp": "この料理はおいしくて、元気な気分になります。",
         "romaji": "Kono ryouri wa oishikute, genki na kibun ni narimasu.",
-        "en": "This dish is delicious and makes you feel energetic.",
-        "grammar_audio": "/audio/grammar/s_な-Adjectiveでna-Adjectivede~_20230511_この料理はおいしくて元気な気分になります.mp3"
+        "en": "This dish is delicious and makes you feel energetic."
       },
       {
         "jp": "彼は静かで落ち着いた環境で仕事をしたい。",
         "romaji": "Kare wa shizuka de ochitsuita kankyou de shigoto wo shitai.",
-        "en": "He wants to work in a quiet and calm environment.",
-        "grammar_audio": "/audio/grammar/s_な-Adjectiveでna-Adjectivede~_20230511_彼は静かで落ち着いた環境で仕事をしたい.mp3"
+        "en": "He wants to work in a quiet and calm environment."
       },
       {
         "jp": "この部屋は広くて明るい。",
         "romaji": "Kono heya wa hirokute akarui.",
-        "en": "This room is spacious and bright.",
-        "grammar_audio": "/audio/grammar/s_な-Adjectiveでna-Adjectivede~_20230511_この部屋は広くて明るい.mp3"
+        "en": "This room is spacious and bright."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "な-Adjective に します (na-Adjective ni shimasu)",
@@ -654,30 +540,24 @@
       {
         "jp": "静かにします。",
         "romaji": "Shizuka ni shimasu.",
-        "en": "I will be quiet.",
-        "grammar_audio": "/audio/grammar/s_な-Adjectiveにしますna-Adjectivenishimasu_20230511_静かにします.mp3"
+        "en": "I will be quiet."
       },
       {
         "jp": "部屋をきれいにします。",
         "romaji": "Heya wo kirei ni shimasu.",
-        "en": "I will make the room clean.",
-        "grammar_audio": "/audio/grammar/s_な-Adjectiveにしますna-Adjectivenishimasu_20230511_部屋をきれいにします.mp3"
+        "en": "I will make the room clean."
       },
       {
         "jp": "明日は早くにします。",
         "romaji": "Ashita wa hayaku ni shimasu.",
-        "en": "I will do it early tomorrow.",
-        "grammar_audio": "/audio/grammar/s_な-Adjectiveにしますna-Adjectivenishimasu_20230511_明日は早くにします.mp3"
+        "en": "I will do it early tomorrow."
       },
       {
         "jp": "健康的な食事にします。",
         "romaji": "Kenkou-teki na shokuji ni shimasu.",
-        "en": "I will choose a healthy meal.",
-        "grammar_audio": "/audio/grammar/s_な-Adjectiveにしますna-Adjectivenishimasu_20230511_健康的な食事にします.mp3"
+        "en": "I will choose a healthy meal."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "な-Adjective に なります (na-Adjective ni narimasu)",
@@ -688,30 +568,24 @@
       {
         "jp": "暑い日は部屋が暑苦しくなります。",
         "romaji": "Atsui hi wa heya ga atsuku-narikuniku ni narimasu.",
-        "en": "On hot days, the room becomes stuffy.",
-        "grammar_audio": "/audio/grammar/s_な-Adjectiveになりますna-Adjectiveninarimasu_20230511_暑い日は部屋が暑苦しくなります.mp3"
+        "en": "On hot days, the room becomes stuffy."
       },
       {
         "jp": "この部屋は静かになります。",
         "romaji": "Kono heya wa shizuka ni narimasu.",
-        "en": "This room becomes quiet.",
-        "grammar_audio": "/audio/grammar/s_な-Adjectiveになりますna-Adjectiveninarimasu_20230511_この部屋は静かになります.mp3"
+        "en": "This room becomes quiet."
       },
       {
         "jp": "彼は怒らない人になります。",
         "romaji": "Kare wa okoranai hito ni narimasu.",
-        "en": "He becomes a person who doesn't get angry.",
-        "grammar_audio": "/audio/grammar/s_な-Adjectiveになりますna-Adjectiveninarimasu_20230511_彼は怒らない人になります.mp3"
+        "en": "He becomes a person who doesn't get angry."
       },
       {
         "jp": "子供たちは大人になります。",
         "romaji": "Kodomo-tachi wa otona ni narimasu.",
-        "en": "Children become adults.",
-        "grammar_audio": "/audio/grammar/s_な-Adjectiveになりますna-Adjectiveninarimasu_20230511_子供たちは大人になります.mp3"
+        "en": "Children become adults."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "Noun か Noun か～ (Noun ka Noun ka～)",
@@ -722,30 +596,24 @@
       {
         "jp": "今日、映画を見るか、散歩するかどちらにしますか？",
         "romaji": "Kyou, eiga wo miru ka, sanpo suru ka dochira ni shimasu ka?",
-        "en": "Will you either watch a movie or go for a walk today?",
-        "grammar_audio": "/audio/grammar/s_NounかNounかNounkaNounka_20230511_今日映画を見るか散歩するかどちらにしますか.mp3"
+        "en": "Will you either watch a movie or go for a walk today?"
       },
       {
         "jp": "コーヒーか紅茶か、一つだけ選んでください。",
         "romaji": "Koohii ka koucha ka, hitotsu dake erande kudasai.",
-        "en": "Please choose only one, either coffee or tea.",
-        "grammar_audio": "/audio/grammar/s_NounかNounかNounkaNounka_20230511_コーヒーか紅茶か一つだけ選んでください.mp3"
+        "en": "Please choose only one, either coffee or tea."
       },
       {
         "jp": "電車かバスか使って、学校に行くつもりです。",
         "romaji": "Densha ka basu ka tsukatte, gakkou ni iku tsumori desu.",
-        "en": "I plan to go to school using either train or bus.",
-        "grammar_audio": "/audio/grammar/s_NounかNounかNounkaNounka_20230511_電車かバスか使って学校に行くつもりです.mp3"
+        "en": "I plan to go to school using either train or bus."
       },
       {
         "jp": "週末は山に登るか海に行くか決めませんでした。",
         "romaji": "Shuumatsu wa yama ni noboru ka umi ni iku ka kimemasen deshita.",
-        "en": "I didn't decide whether to climb the mountain or go to the beach on the weekend.",
-        "grammar_audio": "/audio/grammar/s_NounかNounかNounkaNounka_20230511_週末は山に登るか海に行くか決めませんでした.mp3"
+        "en": "I didn't decide whether to climb the mountain or go to the beach on the weekend."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "Noun が できます (Noun ga dekimasu)",
@@ -756,30 +624,24 @@
       {
         "jp": "英語ができます。",
         "romaji": "Eigo ga dekimasu.",
-        "en": "I can speak English.",
-        "grammar_audio": "/audio/grammar/s_NounができますNoungadekimasu_20230511_英語ができます.mp3"
+        "en": "I can speak English."
       },
       {
         "jp": "料理ができます。",
         "romaji": "Ryouri ga dekimasu.",
-        "en": "I can cook.",
-        "grammar_audio": "/audio/grammar/s_NounができますNoungadekimasu_20230511_料理ができます.mp3"
+        "en": "I can cook."
       },
       {
         "jp": "彼は泳ぎができます。",
         "romaji": "Kare wa oyogi ga dekimasu.",
-        "en": "He can swim.",
-        "grammar_audio": "/audio/grammar/s_NounができますNoungadekimasu_20230511_彼は泳ぎができます.mp3"
+        "en": "He can swim."
       },
       {
         "jp": "彼女はピアノができます。",
         "romaji": "Kanojo wa piano ga dekimasu.",
-        "en": "She can play the piano.",
-        "grammar_audio": "/audio/grammar/s_NounができますNoungadekimasu_20230511_彼女はピアノができます.mp3"
+        "en": "She can play the piano."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "Noun がほしいです (〜ga hoshii desu)",
@@ -790,30 +652,24 @@
       {
         "jp": "新しい車がほしいです。",
         "romaji": "Atarashii kuruma ga hoshii desu.",
-        "en": "I want a new car.",
-        "grammar_audio": "/audio/grammar/s_Nounがほしいですgahoshiidesu_20230511_新しい車がほしいです.mp3"
+        "en": "I want a new car."
       },
       {
         "jp": "コーヒーがほしいです。",
         "romaji": "Koohii ga hoshii desu.",
-        "en": "I would like some coffee.",
-        "grammar_audio": "/audio/grammar/s_Nounがほしいですgahoshiidesu_20230511_コーヒーがほしいです.mp3"
+        "en": "I would like some coffee."
       },
       {
         "jp": "彼女に花がほしいです。",
         "romaji": "Kanojo ni hana ga hoshii desu.",
-        "en": "She wants flowers.",
-        "grammar_audio": "/audio/grammar/s_Nounがほしいですgahoshiidesu_20230511_彼女に花がほしいです.mp3"
+        "en": "She wants flowers."
       },
       {
         "jp": "友達がほしいです。",
         "romaji": "Tomodachi ga hoshii desu.",
-        "en": "I want a friend.",
-        "grammar_audio": "/audio/grammar/s_Nounがほしいですgahoshiidesu_20230511_友達がほしいです.mp3"
+        "en": "I want a friend."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "Noun から Noun まで (Noun kara Noun made)",
@@ -824,30 +680,24 @@
       {
         "jp": "朝9時から午後5時まで働きます。",
         "romaji": "Asa 9 ji kara gogo 5 ji made hatarakimasu.",
-        "en": "I work from 9 AM to 5 PM.",
-        "grammar_audio": "/audio/grammar/s_NounからNounまでNounkaraNounmade_20230511_朝9時から午後5時まで働きます.mp3"
+        "en": "I work from 9 AM to 5 PM."
       },
       {
         "jp": "東京から大阪まで電車で行く。",
         "romaji": "Toukyou kara Osaka made densha de iku.",
-        "en": "I will go by train from Tokyo to Osaka.",
-        "grammar_audio": "/audio/grammar/s_NounからNounまでNounkaraNounmade_20230511_東京から大阪まで電車で行く.mp3"
+        "en": "I will go by train from Tokyo to Osaka."
       },
       {
         "jp": "地下鉄は午前6時から深夜まで運行しています。",
         "romaji": "Chikatetsu wa gozen 6 ji kara shin'ya made unkou shiteimasu.",
-        "en": "The subway runs from 6 AM until midnight.",
-        "grammar_audio": "/audio/grammar/s_NounからNounまでNounkaraNounmade_20230511_地下鉄は午前6時から深夜まで運行しています.mp3"
+        "en": "The subway runs from 6 AM until midnight."
       },
       {
         "jp": "月曜日から金曜日まで学校に通います。",
         "romaji": "Getsuyoubi kara kinyoubi made gakkou ni kayoimasu.",
-        "en": "I attend school from Monday to Friday.",
-        "grammar_audio": "/audio/grammar/s_NounからNounまでNounkaraNounmade_20230511_月曜日から金曜日まで学校に通います.mp3"
+        "en": "I attend school from Monday to Friday."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "25"
+    ]
   },
   {
     "title": "Noun くらい～ (Noun kurai～)",
@@ -858,30 +708,24 @@
       {
         "jp": "この本は三百ページくらいあります。",
         "romaji": "Kono hon wa sanbyaku peeji kurai arimasu.",
-        "en": "This book has about 300 pages.",
-        "grammar_audio": "/audio/grammar/s_NounくらいNounkurai_20230511_この本は三百ページくらいあります.mp3"
+        "en": "This book has about 300 pages."
       },
       {
         "jp": "彼の家まで歩いて２０分くらいかかります。",
         "romaji": "Kare no ie made aruite nijuppun kurai kakarimasu.",
-        "en": "It takes about 20 minutes to walk to his house.",
-        "grammar_audio": "/audio/grammar/s_NounくらいNounkurai_20230511_彼の家まで歩いて２０分くらいかかります.mp3"
+        "en": "It takes about 20 minutes to walk to his house."
       },
       {
         "jp": "明日は暑くて、３０度くらいになるでしょう。",
         "romaji": "Ashita wa atsukute, sanjuu-do kurai ni naru deshou.",
-        "en": "Tomorrow will be hot, about 30 degrees.",
-        "grammar_audio": "/audio/grammar/s_NounくらいNounkurai_20230511_明日は暑くて３０度くらいになるでしょう.mp3"
+        "en": "Tomorrow will be hot, about 30 degrees."
       },
       {
         "jp": "この料理を作るのに、材料は５００円くらい必要です。",
         "romaji": "Kono ryouri wo tsukuru noni, zairyou wa gohyaku-en kurai hitsuyou desu.",
-        "en": "You need about 500 yen worth of ingredients to make this dish.",
-        "grammar_audio": "/audio/grammar/s_NounくらいNounkurai_20230511_この料理を作るのに材料は５００円くらい必要です.mp3"
+        "en": "You need about 500 yen worth of ingredients to make this dish."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Noun ぐらい～ (Noun gurai～)",
@@ -892,30 +736,24 @@
       {
         "jp": "一日中勉強したので、１０時間ぐらい勉強しました。",
         "romaji": "Ichinichijuu benkyou shita node, juu jikan gurai benkyou shimashita.",
-        "en": "I studied all day, so I studied for about 10 hours.",
-        "grammar_audio": "/audio/grammar/s_NounぐらいNoungurai_20230511_一日中勉強したので１０時間ぐらい勉強しました.mp3"
+        "en": "I studied all day, so I studied for about 10 hours."
       },
       {
         "jp": "この本は１００ページぐらいある。",
         "romaji": "Kono hon wa hyaku peeji gurai aru.",
-        "en": "This book has about 100 pages.",
-        "grammar_audio": "/audio/grammar/s_NounぐらいNoungurai_20230511_この本は１００ページぐらいある.mp3"
+        "en": "This book has about 100 pages."
       },
       {
         "jp": "彼は果物を５個ぐらい食べました。",
         "romaji": "Kare wa kudamono wo go-ko gurai tabemashita.",
-        "en": "He ate about 5 pieces of fruit.",
-        "grammar_audio": "/audio/grammar/s_NounぐらいNoungurai_20230511_彼は果物を５個ぐらい食べました.mp3"
+        "en": "He ate about 5 pieces of fruit."
       },
       {
         "jp": "駅から家まで歩いて２０分ぐらいかかります。",
         "romaji": "Eki kara ie made aruite nijuppun gurai kakarimasu.",
-        "en": "It takes about 20 minutes to walk from the station to my house.",
-        "grammar_audio": "/audio/grammar/s_NounぐらいNoungurai_20230511_駅から家まで歩いて２０分ぐらいかかります.mp3"
+        "en": "It takes about 20 minutes to walk from the station to my house."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Noun ごろ～ (Noun + goro～)",
@@ -926,30 +764,24 @@
       {
         "jp": "昼ごろに電話してください。",
         "romaji": "Hiru goro ni denwa shite kudasai.",
-        "en": "Please call me around noon.",
-        "grammar_audio": "/audio/grammar/s_NounごろNoun+goro_20230511_昼ごろに電話してください.mp3"
+        "en": "Please call me around noon."
       },
       {
         "jp": "彼は10歳ごろに日本に来ました。",
         "romaji": "Kare wa juu-sai goro ni Nihon ni kimashita.",
-        "en": "He came to Japan around the age of 10.",
-        "grammar_audio": "/audio/grammar/s_NounごろNoun+goro_20230511_彼は10歳ごろに日本に来ました.mp3"
+        "en": "He came to Japan around the age of 10."
       },
       {
         "jp": "午後３時ごろに会いましょう。",
         "romaji": "Gogo san-ji goro ni aimashou.",
-        "en": "Let's meet around 3 PM.",
-        "grammar_audio": "/audio/grammar/s_NounごろNoun+goro_20230511_午後３時ごろに会いましょう.mp3"
+        "en": "Let's meet around 3 PM."
       },
       {
         "jp": "昨日の夜8時ごろに帰りました。",
         "romaji": "Kinou no yoru hachi-ji goro ni kaerimashita.",
-        "en": "I returned home last night around 8 o'clock.",
-        "grammar_audio": "/audio/grammar/s_NounごろNoun+goro_20230511_昨日の夜8時ごろに帰りました.mp3"
+        "en": "I returned home last night around 8 o'clock."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Noun だけ〜 (〜dake)",
@@ -960,30 +792,24 @@
       {
         "jp": "コーヒーだけ飲んで、帰りました。",
         "romaji": "Koohii dake nonde, kaerimashita.",
-        "en": "I only drank coffee and went home.",
-        "grammar_audio": "/audio/grammar/s_Nounだけdake_20230511_コーヒーだけ飲んで帰りました.mp3"
+        "en": "I only drank coffee and went home."
       },
       {
         "jp": "この本は二十ページだけ読んだ。",
         "romaji": "Kono hon wa nijuu peeji dake yonda.",
-        "en": "I only read twenty pages of this book.",
-        "grammar_audio": "/audio/grammar/s_Nounだけdake_20230511_この本は二十ページだけ読んだ.mp3"
+        "en": "I only read twenty pages of this book."
       },
       {
         "jp": "彼女はとても速いですが、走るだけ速くなく、考えるだけ速いです。",
         "romaji": "Kanojo wa totemo hayai desu ga, hashiru dake hayaku naku, kangaeru dake hayai desu.",
-        "en": "She is very fast, not only in running but also in thinking.",
-        "grammar_audio": "/audio/grammar/s_Nounだけdake_20230511_彼女はとても速いですが走るだけ速くなく考えるだけ速いです.mp3"
+        "en": "She is very fast, not only in running but also in thinking."
       },
       {
         "jp": "この部屋は寝るだけの場所です。",
         "romaji": "Kono heya wa neru dake no basho desu.",
-        "en": "This room is a place only for sleeping.",
-        "grammar_audio": "/audio/grammar/s_Nounだけdake_20230511_この部屋は寝るだけの場所です.mp3"
+        "en": "This room is a place only for sleeping."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Nounで～ (Noun de ~)",
@@ -994,30 +820,24 @@
       {
         "jp": "図書館で勉強します。",
         "romaji": "Toshokan de benkyou shimasu.",
-        "en": "I study at the library.",
-        "grammar_audio": "/audio/grammar/s_NounでNounde~_20230511_図書館で勉強します.mp3"
+        "en": "I study at the library."
       },
       {
         "jp": "バスで学校に行きます。",
         "romaji": "Basu de gakkou ni ikimasu.",
-        "en": "I go to school by bus.",
-        "grammar_audio": "/audio/grammar/s_NounでNounde~_20230511_バスで学校に行きます.mp3"
+        "en": "I go to school by bus."
       },
       {
         "jp": "鉛筆で書きました。",
         "romaji": "Enpitsu de kakimashita.",
-        "en": "I wrote it using a pencil.",
-        "grammar_audio": "/audio/grammar/s_NounでNounde~_20230511_鉛筆で書きました.mp3"
+        "en": "I wrote it using a pencil."
       },
       {
         "jp": "英語で話しましょう。",
         "romaji": "Eigo de hanashimashou.",
-        "en": "Let's talk in English.",
-        "grammar_audio": "/audio/grammar/s_NounでNounde~_20230511_英語で話しましょう.mp3"
+        "en": "Let's talk in English."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Noun と～ (Noun to～)",
@@ -1028,30 +848,24 @@
       {
         "jp": "リンゴとバナナを買いました。",
         "romaji": "Ringo to banana wo kaimashita.",
-        "en": "I bought apples and bananas.",
-        "grammar_audio": "/audio/grammar/s_NounとNounto_20230511_リンゴとバナナを買いました.mp3"
+        "en": "I bought apples and bananas."
       },
       {
         "jp": "友達と映画を見に行きます。",
         "romaji": "Tomodachi to eiga wo mi ni ikimasu.",
-        "en": "I will go to watch a movie with my friend.",
-        "grammar_audio": "/audio/grammar/s_NounとNounto_20230511_友達と映画を見に行きます.mp3"
+        "en": "I will go to watch a movie with my friend."
       },
       {
         "jp": "父と母と一緒に旅行しました。",
         "romaji": "Chichi to haha to issho ni ryokou shimashita.",
-        "en": "I traveled together with my father and mother.",
-        "grammar_audio": "/audio/grammar/s_NounとNounto_20230511_父と母と一緒に旅行しました.mp3"
+        "en": "I traveled together with my father and mother."
       },
       {
         "jp": "彼と彼女は結婚しました。",
         "romaji": "Kare to kanojo wa kekkon shimashita.",
-        "en": "He and she got married.",
-        "grammar_audio": "/audio/grammar/s_NounとNounto_20230511_彼と彼女は結婚しました.mp3"
+        "en": "He and she got married."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Noun に～ (Noun ni～)",
@@ -1062,30 +876,24 @@
       {
         "jp": "彼女にプレゼントをあげました。",
         "romaji": "Kanojo ni purezento wo agemashita.",
-        "en": "I gave a present to her.",
-        "grammar_audio": "/audio/grammar/s_NounにNounni_20230511_彼女にプレゼントをあげました.mp3"
+        "en": "I gave a present to her."
       },
       {
         "jp": "日本に行きます。",
         "romaji": "Nihon ni ikimasu.",
-        "en": "I am going to Japan.",
-        "grammar_audio": "/audio/grammar/s_NounにNounni_20230511_日本に行きます.mp3"
+        "en": "I am going to Japan."
       },
       {
         "jp": "6時に集合しましょう。",
         "romaji": "Roku-ji ni shuugou shimashou.",
-        "en": "Let's meet at 6 o'clock.",
-        "grammar_audio": "/audio/grammar/s_NounにNounni_20230511_6時に集合しましょう.mp3"
+        "en": "Let's meet at 6 o'clock."
       },
       {
         "jp": "友達に手紙を書きます。",
         "romaji": "Tomodachi ni tegami wo kakimasu.",
-        "en": "I will write a letter to my friend.",
-        "grammar_audio": "/audio/grammar/s_NounにNounni_20230511_友達に手紙を書きます.mp3"
+        "en": "I will write a letter to my friend."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Noun に かえります (Noun ni kaerimasu)",
@@ -1096,30 +904,24 @@
       {
         "jp": "来週、部屋をきれいにかえります。",
         "romaji": "Raishuu, heya wo kirei ni kaerimasu.",
-        "en": "Next week, I will return the room to a clean state.",
-        "grammar_audio": "/audio/grammar/s_NounにかえりますNounnikaerimasu_20230511_来週部屋をきれいにかえります.mp3"
+        "en": "Next week, I will return the room to a clean state."
       },
       {
         "jp": "夏休みが終わったら、学校にかえります。",
         "romaji": "Natsuyasumi ga owattara, gakkou ni kaerimasu.",
-        "en": "When summer vacation ends, I'll go back to school.",
-        "grammar_audio": "/audio/grammar/s_NounにかえりますNounnikaerimasu_20230511_夏休みが終わったら学校にかえります.mp3"
+        "en": "When summer vacation ends, I'll go back to school."
       },
       {
         "jp": "買い物を終えたら、家にかえります。",
         "romaji": "Kaimono wo oetara, ie ni kaerimasu.",
-        "en": "After finishing shopping, I will return home.",
-        "grammar_audio": "/audio/grammar/s_NounにかえりますNounnikaerimasu_20230511_買い物を終えたら家にかえります.mp3"
+        "en": "After finishing shopping, I will return home."
       },
       {
         "jp": "コンピュータを直したら、元の場所にかえります。",
         "romaji": "Konpyuuta wo naoshitara, moto no basho ni kaerimasu.",
-        "en": "After fixing the computer, I will return it to its original place.",
-        "grammar_audio": "/audio/grammar/s_NounにかえりますNounnikaerimasu_20230511_コンピュータを直したら元の場所にかえります.mp3"
+        "en": "After fixing the computer, I will return it to its original place."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Noun に します (Noun ni shimasu)",
@@ -1130,30 +932,24 @@
       {
         "jp": "今日の昼ご飯は寿司にします。",
         "romaji": "Kyou no hirugohan wa sushi ni shimasu.",
-        "en": "I'll choose sushi for today's lunch.",
-        "grammar_audio": "/audio/grammar/s_NounにしますNounnishimasu_20230511_今日の昼ご飯は寿司にします.mp3"
+        "en": "I'll choose sushi for today's lunch."
       },
       {
         "jp": "この靴を買うか迷っていますが、赤い色の方にします。",
         "romaji": "Kono kutsu wo kau ka mayotteimasu ga, akai iro no hou ni shimasu.",
-        "en": "I was hesitating about which shoes to buy, but I'll go with the red ones.",
-        "grammar_audio": "/audio/grammar/s_NounにしますNounnishimasu_20230511_この靴を買うか迷っていますが赤い色の方にします.mp3"
+        "en": "I was hesitating about which shoes to buy, but I'll go with the red ones."
       },
       {
         "jp": "休みの日に何をするか決めた。映画館に行くことにします。",
         "romaji": "Yasumi no hi ni nani wo suru ka kimeta. Eigakan ni iku koto ni shimasu.",
-        "en": "I've decided what to do on my day off. I'll go to the movie theater.",
-        "grammar_audio": "/audio/grammar/s_NounにしますNounnishimasu_20230511_休みの日に何をするか決めた映画館に行くことにします.mp3"
+        "en": "I've decided what to do on my day off. I'll go to the movie theater."
       },
       {
         "jp": "フランス語とスペイン語のどちらを勉強するか悩んだが、フランス語にします。",
         "romaji": "Furansugo to Supeingo no dochira wo benkyou suru ka nayanda ga, Furansugo ni shimasu.",
-        "en": "I was torn between studying French and Spanish, but I decided on French.",
-        "grammar_audio": "/audio/grammar/s_NounにしますNounnishimasu_20230511_フランス語とスペイン語のどちらを勉強するか悩んだがフランス語にします.mp3"
+        "en": "I was torn between studying French and Spanish, but I decided on French."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Noun に なります (Noun ni narimasu)",
@@ -1164,30 +960,24 @@
       {
         "jp": "彼は医者になります。",
         "romaji": "Kare wa isha ni narimasu.",
-        "en": "He will become a doctor.",
-        "grammar_audio": "/audio/grammar/s_NounになりますNounninarimasu_20230511_彼は医者になります.mp3"
+        "en": "He will become a doctor."
       },
       {
         "jp": "この茶色の葉が赤になります。",
         "romaji": "Kono chairo no ha ga aka ni narimasu.",
-        "en": "These brown leaves will turn red.",
-        "grammar_audio": "/audio/grammar/s_NounになりますNounninarimasu_20230511_この茶色の葉が赤になります.mp3"
+        "en": "These brown leaves will turn red."
       },
       {
         "jp": "料理が冷めたら、美味しくなくなります。",
         "romaji": "Ryouri ga sametara, oishikunaku narimasu.",
-        "en": "When the dish cools down, it becomes less delicious.",
-        "grammar_audio": "/audio/grammar/s_NounになりますNounninarimasu_20230511_料理が冷めたら美味しくなくなります.mp3"
+        "en": "When the dish cools down, it becomes less delicious."
       },
       {
         "jp": "来年、東京オリンピックになります。",
         "romaji": "Rainen, Toukyou Orinpikku ni narimasu.",
-        "en": "Next year, it will be the Tokyo Olympics.",
-        "grammar_audio": "/audio/grammar/s_NounになりますNounninarimasu_20230511_来年東京オリンピックになります.mp3"
+        "en": "Next year, it will be the Tokyo Olympics."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Noun に 来ます (ni kimasu)",
@@ -1198,30 +988,24 @@
       {
         "jp": "私は明日図書館に行きます。",
         "romaji": "Watashi wa ashita toshokan ni ikimasu.",
-        "en": "I will go to the library tomorrow.",
-        "grammar_audio": "/audio/grammar/s_Nounに来ますnikimasu_20230511_私は明日図書館に行きます.mp3"
+        "en": "I will go to the library tomorrow."
       },
       {
         "jp": "友達が私の家に来ます。",
         "romaji": "Tomodachi ga watashi no ie ni kimasu.",
-        "en": "My friend will come to my house.",
-        "grammar_audio": "/audio/grammar/s_Nounに来ますnikimasu_20230511_友達が私の家に来ます.mp3"
+        "en": "My friend will come to my house."
       },
       {
         "jp": "今晩、父が駅に迎えに来ます。",
         "romaji": "Konban, chichi ga eki ni mukae ni kimasu.",
-        "en": "Tonight, my father will come to pick me up at the station.",
-        "grammar_audio": "/audio/grammar/s_Nounに来ますnikimasu_20230511_今晩父が駅に迎えに来ます.mp3"
+        "en": "Tonight, my father will come to pick me up at the station."
       },
       {
         "jp": "春休みには、故郷に帰ります。",
         "romaji": "Haruyasumi ni wa, furusato ni kaerimasu.",
-        "en": "I will return to my hometown during spring break.",
-        "grammar_audio": "/audio/grammar/s_Nounに来ますnikimasu_20230511_春休みには故郷に帰ります.mp3"
+        "en": "I will return to my hometown during spring break."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Noun に 行きます (Noun ni ikimasu)",
@@ -1232,30 +1016,24 @@
       {
         "jp": "学校に行きます。",
         "romaji": "Gakkou ni ikimasu.",
-        "en": "I will go to school.",
-        "grammar_audio": "/audio/grammar/s_Nounに行きますNounniikimasu_20230511_学校に行きます.mp3"
+        "en": "I will go to school."
       },
       {
         "jp": "明日、スーパーに行きます。",
         "romaji": "Ashita, suupaa ni ikimasu.",
-        "en": "I will go to the supermarket tomorrow.",
-        "grammar_audio": "/audio/grammar/s_Nounに行きますNounniikimasu_20230511_明日スーパーに行きます.mp3"
+        "en": "I will go to the supermarket tomorrow."
       },
       {
         "jp": "週末に映画館に行きます。",
         "romaji": "Shuumatsu ni eigakan ni ikimasu.",
-        "en": "I will go to the movie theater on the weekend.",
-        "grammar_audio": "/audio/grammar/s_Nounに行きますNounniikimasu_20230511_週末に映画館に行きます.mp3"
+        "en": "I will go to the movie theater on the weekend."
       },
       {
         "jp": "夏休みに海に行きます。",
         "romaji": "Natsu yasumi ni umi ni ikimasu.",
-        "en": "I will go to the sea during the summer vacation.",
-        "grammar_audio": "/audio/grammar/s_Nounに行きますNounniikimasu_20230511_夏休みに海に行きます.mp3"
+        "en": "I will go to the sea during the summer vacation."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Noun の あとで (Noun no atode)",
@@ -1266,30 +1044,24 @@
       {
         "jp": "朝ご飯のあとで、歯を磨きます。",
         "romaji": "Asagohan no atode, ha wo migakimasu.",
-        "en": "After breakfast, I brush my teeth.",
-        "grammar_audio": "/audio/grammar/s_NounのあとでNounnoatode_20230511_朝ご飯のあとで歯を磨きます.mp3"
+        "en": "After breakfast, I brush my teeth."
       },
       {
         "jp": "映画のあとで、レストランで夕食を食べました。",
         "romaji": "Eiga no atode, resutoran de yuushoku o tabemashita.",
-        "en": "After the movie, we ate dinner at a restaurant.",
-        "grammar_audio": "/audio/grammar/s_NounのあとでNounnoatode_20230511_映画のあとでレストランで夕食を食べました.mp3"
+        "en": "After the movie, we ate dinner at a restaurant."
       },
       {
         "jp": "会議のあとで、上司と話し合います。",
         "romaji": "Kaigi no atode, joushi to hanashiaimasu.",
-        "en": "I will discuss with my boss after the meeting.",
-        "grammar_audio": "/audio/grammar/s_NounのあとでNounnoatode_20230511_会議のあとで上司と話し合います.mp3"
+        "en": "I will discuss with my boss after the meeting."
       },
       {
         "jp": "晩ご飯のあとで、散歩に行きました。",
         "romaji": "Bangohan no atode, sanpo ni ikimashita.",
-        "en": "After dinner, I went for a walk.",
-        "grammar_audio": "/audio/grammar/s_NounのあとでNounnoatode_20230511_晩ご飯のあとで散歩に行きました.mp3"
+        "en": "After dinner, I went for a walk."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Noun の 前に (Noun no mae ni)",
@@ -1300,30 +1072,24 @@
       {
         "jp": "駅の前にコンビニがあります。",
         "romaji": "Eki no mae ni konbini ga arimasu.",
-        "en": "There is a convenience store in front of the station.",
-        "grammar_audio": "/audio/grammar/s_Nounの前にNounnomaeni_20230511_駅の前にコンビニがあります.mp3"
+        "en": "There is a convenience store in front of the station."
       },
       {
         "jp": "家の前に車を止めてください。",
         "romaji": "Ie no mae ni kuruma wo tomete kudasai.",
-        "en": "Please park the car in front of the house.",
-        "grammar_audio": "/audio/grammar/s_Nounの前にNounnomaeni_20230511_家の前に車を止めてください.mp3"
+        "en": "Please park the car in front of the house."
       },
       {
         "jp": "私の前に彼が立っていました。",
         "romaji": "Watashi no mae ni kare ga tatte imashita.",
-        "en": "He was standing in front of me.",
-        "grammar_audio": "/audio/grammar/s_Nounの前にNounnomaeni_20230511_私の前に彼が立っていました.mp3"
+        "en": "He was standing in front of me."
       },
       {
         "jp": "ホテルの前にタクシーが来た。",
         "romaji": "Hoteru no mae ni takushii ga kita.",
-        "en": "A taxi came in front of the hotel.",
-        "grammar_audio": "/audio/grammar/s_Nounの前にNounnomaeni_20230511_ホテルの前にタクシーが来た.mp3"
+        "en": "A taxi came in front of the hotel."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Noun は～ (Noun wa〜)",
@@ -1334,30 +1100,24 @@
       {
         "jp": "私は日本の料理が好きです。",
         "romaji": "Watashi wa Nihon no ryouri ga suki desu.",
-        "en": "As for me, I like Japanese cuisine.",
-        "grammar_audio": "/audio/grammar/s_NounはNounwa_20230511_私は日本の料理が好きです.mp3"
+        "en": "As for me, I like Japanese cuisine."
       },
       {
         "jp": "彼は英語が上手です。",
         "romaji": "Kare wa eigo ga jouzu desu.",
-        "en": "As for him, he is good at English.",
-        "grammar_audio": "/audio/grammar/s_NounはNounwa_20230511_彼は英語が上手です.mp3"
+        "en": "As for him, he is good at English."
       },
       {
         "jp": "この本は面白いです。",
         "romaji": "Kono hon wa omoshiroi desu.",
-        "en": "As for this book, it's interesting.",
-        "grammar_audio": "/audio/grammar/s_NounはNounwa_20230511_この本は面白いです.mp3"
+        "en": "As for this book, it's interesting."
       },
       {
         "jp": "今日は暑いですね。",
         "romaji": "Kyou wa atsui desu ne.",
-        "en": "Speaking of today, it's hot, isn't it?",
-        "grammar_audio": "/audio/grammar/s_NounはNounwa_20230511_今日は暑いですね.mp3"
+        "en": "Speaking of today, it's hot, isn't it?"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Noun も〜 (Noun mo~)",
@@ -1368,30 +1128,24 @@
       {
         "jp": "私も日本語を勉強しています。",
         "romaji": "Watashi mo nihongo wo benkyou shiteimasu.",
-        "en": "I am also studying Japanese.",
-        "grammar_audio": "/audio/grammar/s_NounもNounmo~_20230511_私も日本語を勉強しています.mp3"
+        "en": "I am also studying Japanese."
       },
       {
         "jp": "彼もケーキが好きです。",
         "romaji": "Kare mo keeki ga suki desu.",
-        "en": "He also likes cake.",
-        "grammar_audio": "/audio/grammar/s_NounもNounmo~_20230511_彼もケーキが好きです.mp3"
+        "en": "He also likes cake."
       },
       {
         "jp": "東京も大阪も観光スポットがたくさんあります。",
         "romaji": "Toukyou mo oosaka mo kankou supotto ga takusan arimasu.",
-        "en": "There are many tourist spots in both Tokyo and Osaka.",
-        "grammar_audio": "/audio/grammar/s_NounもNounmo~_20230511_東京も大阪も観光スポットがたくさんあります.mp3"
+        "en": "There are many tourist spots in both Tokyo and Osaka."
       },
       {
         "jp": "この映画もあの映画も面白かった。",
         "romaji": "Kono eiga mo ano eiga mo omoshirokatta.",
-        "en": "Both this movie and that movie were interesting.",
-        "grammar_audio": "/audio/grammar/s_NounもNounmo~_20230511_この映画もあの映画も面白かった.mp3"
+        "en": "Both this movie and that movie were interesting."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Noun や Noun など～ (Noun ya Noun nado)",
@@ -1402,30 +1156,24 @@
       {
         "jp": "彼は野菜や果物などを食べるのが好きです。",
         "romaji": "Kare wa yasai ya kudamono nado o taberu no ga suki desu.",
-        "en": "He likes to eat things like vegetables and fruits.",
-        "grammar_audio": "/audio/grammar/s_NounやNounなどNounyaNounnado_20230511_彼は野菜や果物などを食べるのが好きです.mp3"
+        "en": "He likes to eat things like vegetables and fruits."
       },
       {
         "jp": "日本の都市や東京、大阪などに行きたいです。",
         "romaji": "Nihon no toshi ya Toukyou, Oosaka nado ni ikitai desu.",
-        "en": "I want to go to Japanese cities such as Tokyo, Osaka, and so on.",
-        "grammar_audio": "/audio/grammar/s_NounやNounなどNounyaNounnado_20230511_日本の都市や東京大阪などに行きたいです.mp3"
+        "en": "I want to go to Japanese cities such as Tokyo, Osaka, and so on."
       },
       {
         "jp": "彼女は猫や犬など動物が好きです。",
         "romaji": "Kanojo wa neko ya inu nado doubutsu ga suki desu.",
-        "en": "She likes animals like cats, dogs, and so on.",
-        "grammar_audio": "/audio/grammar/s_NounやNounなどNounyaNounnado_20230511_彼女は猫や犬など動物が好きです.mp3"
+        "en": "She likes animals like cats, dogs, and so on."
       },
       {
         "jp": "この本屋では漫画や小説などたくさんの本が売られています。",
         "romaji": "Kono honya de wa manga ya shousetsu nado takusan no hon ga urarete imasu.",
-        "en": "In this bookstore, many books such as manga and novels are being sold.",
-        "grammar_audio": "/audio/grammar/s_NounやNounなどNounyaNounnado_20230511_この本屋では漫画や小説などたくさんの本が売られています.mp3"
+        "en": "In this bookstore, many books such as manga and novels are being sold."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Noun を〜 (Noun wo〜)",
@@ -1436,30 +1184,24 @@
       {
         "jp": "私は本を読みます。",
         "romaji": "Watashi wa hon wo yomimasu.",
-        "en": "I read a book.",
-        "grammar_audio": "/audio/grammar/s_NounをNounwo_20230511_私は本を読みます.mp3"
+        "en": "I read a book."
       },
       {
         "jp": "彼はケーキを食べました。",
         "romaji": "Kare wa keeki wo tabemashita.",
-        "en": "He ate a cake.",
-        "grammar_audio": "/audio/grammar/s_NounをNounwo_20230511_彼はケーキを食べました.mp3"
+        "en": "He ate a cake."
       },
       {
         "jp": "母はコーヒーを飲むのが好きです。",
         "romaji": "Haha wa koohii wo nomu no ga suki desu.",
-        "en": "My mother likes to drink coffee.",
-        "grammar_audio": "/audio/grammar/s_NounをNounwo_20230511_母はコーヒーを飲むのが好きです.mp3"
+        "en": "My mother likes to drink coffee."
       },
       {
         "jp": "友達が私のペンを使いました。",
         "romaji": "Tomodachi ga watashi no pen wo tsukaimashita.",
-        "en": "My friend used my pen.",
-        "grammar_audio": "/audio/grammar/s_NounをNounwo_20230511_友達が私のペンを使いました.mp3"
+        "en": "My friend used my pen."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Verb た あとで (ta ato de)",
@@ -1470,30 +1212,24 @@
       {
         "jp": "宿題をしたあとで、テレビを見ました。",
         "romaji": "Shukudai wo shita ato de, terebi wo mimashita.",
-        "en": "After doing my homework, I watched TV.",
-        "grammar_audio": "/audio/grammar/s_Verbたあとでtaatode_20230511_宿題をしたあとでテレビを見ました.mp3"
+        "en": "After doing my homework, I watched TV."
       },
       {
         "jp": "朝ごはんを食べたあとで、歯を磨きます。",
         "romaji": "Asagohan wo tabeta ato de, ha wo migakimasu.",
-        "en": "After eating breakfast, I brush my teeth.",
-        "grammar_audio": "/audio/grammar/s_Verbたあとでtaatode_20230511_朝ごはんを食べたあとで歯を磨きます.mp3"
+        "en": "After eating breakfast, I brush my teeth."
       },
       {
         "jp": "仕事が終わったあとで、ジムに行く予定です。",
         "romaji": "Shigoto ga owatta ato de, jimu ni iku yotei desu.",
-        "en": "After finishing work, I plan to go to the gym.",
-        "grammar_audio": "/audio/grammar/s_Verbたあとでtaatode_20230511_仕事が終わったあとでジムに行く予定です.mp3"
+        "en": "After finishing work, I plan to go to the gym."
       },
       {
         "jp": "映画を見たあとで、カフェでコーヒーを飲みました。",
         "romaji": "Eiga wo mita ato de, kafe de koohii wo nomimashita.",
-        "en": "After watching the movie, I drank coffee at a cafe.",
-        "grammar_audio": "/audio/grammar/s_Verbたあとでtaatode_20230511_映画を見たあとでカフェでコーヒーを飲みました.mp3"
+        "en": "After watching the movie, I drank coffee at a cafe."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Verb たいです (taidesu)",
@@ -1504,30 +1240,24 @@
       {
         "jp": "私は寿司を食べたいです。",
         "romaji": "Watashi wa sushi wo tabetai desu.",
-        "en": "I want to eat sushi.",
-        "grammar_audio": "/audio/grammar/s_Verbたいですtaidesu_20230511_私は寿司を食べたいです.mp3"
+        "en": "I want to eat sushi."
       },
       {
         "jp": "彼は日本に行きたいです。",
         "romaji": "Kare wa Nihon ni ikitai desu.",
-        "en": "He wants to go to Japan.",
-        "grammar_audio": "/audio/grammar/s_Verbたいですtaidesu_20230511_彼は日本に行きたいです.mp3"
+        "en": "He wants to go to Japan."
       },
       {
         "jp": "彼女は英語を勉強したいです。",
         "romaji": "Kanojo wa eigo wo benkyou shitai desu.",
-        "en": "She wants to study English.",
-        "grammar_audio": "/audio/grammar/s_Verbたいですtaidesu_20230511_彼女は英語を勉強したいです.mp3"
+        "en": "She wants to study English."
       },
       {
         "jp": "子供たちは遊びたいです。",
         "romaji": "Kodomo-tachi wa asobitai desu.",
-        "en": "The children want to play.",
-        "grammar_audio": "/audio/grammar/s_Verbたいですtaidesu_20230511_子供たちは遊びたいです.mp3"
+        "en": "The children want to play."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Verb て～ (Verb + te～)",
@@ -1538,30 +1268,24 @@
       {
         "jp": "コーヒーを飲んで、出かけます。",
         "romaji": "Koohii o nonde, dekakemasu.",
-        "en": "After drinking coffee, I will go out.",
-        "grammar_audio": "/audio/grammar/s_VerbてVerb+te_20230511_コーヒーを飲んで出かけます.mp3"
+        "en": "After drinking coffee, I will go out."
       },
       {
         "jp": "買い物をして、家に帰りましょう。",
         "romaji": "Kaimono o shite, ie ni kaerimashou.",
-        "en": "Let's go shopping and then go home.",
-        "grammar_audio": "/audio/grammar/s_VerbてVerb+te_20230511_買い物をして家に帰りましょう.mp3"
+        "en": "Let's go shopping and then go home."
       },
       {
         "jp": "宿題をして、寝ます。",
         "romaji": "Shukudai o shite, nemasu.",
-        "en": "After doing my homework, I will sleep.",
-        "grammar_audio": "/audio/grammar/s_VerbてVerb+te_20230511_宿題をして寝ます.mp3"
+        "en": "After doing my homework, I will sleep."
       },
       {
         "jp": "友達を待って、一緒に映画を見に行きます。",
         "romaji": "Tomodachi o matte, issho ni eiga o mini ikimasu.",
-        "en": "I will wait for my friend and go watch a movie together.",
-        "grammar_audio": "/audio/grammar/s_VerbてVerb+te_20230511_友達を待って一緒に映画を見に行きます.mp3"
+        "en": "I will wait for my friend and go watch a movie together."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Verb て います (Verb te imasu)",
@@ -1572,30 +1296,24 @@
       {
         "jp": "彼女は今ピアノを弾いています。",
         "romaji": "Kanojo wa ima piano wo hiteimasu.",
-        "en": "She is playing the piano now.",
-        "grammar_audio": "/audio/grammar/s_VerbていますVerbteimasu_20230511_彼女は今ピアノを弾いています.mp3"
+        "en": "She is playing the piano now."
       },
       {
         "jp": "私たちは日本語を勉強しています。",
         "romaji": "Watashitachi wa nihongo wo benkyou shiteimasu.",
-        "en": "We are studying Japanese.",
-        "grammar_audio": "/audio/grammar/s_VerbていますVerbteimasu_20230511_私たちは日本語を勉強しています.mp3"
+        "en": "We are studying Japanese."
       },
       {
         "jp": "彼は映画を見ています。",
         "romaji": "Kare wa eiga wo miteimasu.",
-        "en": "He is watching a movie.",
-        "grammar_audio": "/audio/grammar/s_VerbていますVerbteimasu_20230511_彼は映画を見ています.mp3"
+        "en": "He is watching a movie."
       },
       {
         "jp": "入っていますので、お待ちください。",
         "romaji": "Haitteimasu node, omachi kudasai.",
-        "en": "I am in, so please wait.",
-        "grammar_audio": "/audio/grammar/s_VerbていますVerbteimasu_20230511_入っていますのでお待ちください.mp3"
+        "en": "I am in, so please wait."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Verb てから～ (〜te kara)",
@@ -1606,30 +1324,24 @@
       {
         "jp": "宿題をしてから、テレビを見ました。",
         "romaji": "Shukudai wo shite kara, terebi wo mimashita.",
-        "en": "I watched TV after doing my homework.",
-        "grammar_audio": "/audio/grammar/s_Verbてからtekara_20230511_宿題をしてからテレビを見ました.mp3"
+        "en": "I watched TV after doing my homework."
       },
       {
         "jp": "食べてから、歯を磨きましょう。",
         "romaji": "Tabete kara, ha wo migakimashou.",
-        "en": "Let's brush our teeth after eating.",
-        "grammar_audio": "/audio/grammar/s_Verbてからtekara_20230511_食べてから歯を磨きましょう.mp3"
+        "en": "Let's brush our teeth after eating."
       },
       {
         "jp": "仕事が終わってから、友達と飲みに行きます。",
         "romaji": "Shigoto ga owatte kara, tomodachi to nomi ni ikimasu.",
-        "en": "I will go drinking with my friends after work is done.",
-        "grammar_audio": "/audio/grammar/s_Verbてからtekara_20230511_仕事が終わってから友達と飲みに行きます.mp3"
+        "en": "I will go drinking with my friends after work is done."
       },
       {
         "jp": "学校が終わってから、図書館で勉強します。",
         "romaji": "Gakkou ga owatte kara, toshokan de benkyou shimasu.",
-        "en": "I will study in the library after school is over.",
-        "grammar_audio": "/audio/grammar/s_Verbてからtekara_20230511_学校が終わってから図書館で勉強します.mp3"
+        "en": "I will study in the library after school is over."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Verb て ください (Verb-te kudasai)",
@@ -1640,30 +1352,24 @@
       {
         "jp": "ドアを開けてください。",
         "romaji": "Doa wo akete kudasai.",
-        "en": "Please open the door.",
-        "grammar_audio": "/audio/grammar/s_VerbてくださいVerb-tekudasai_20230511_ドアを開けてください.mp3"
+        "en": "Please open the door."
       },
       {
         "jp": "電話番号を教えてください。",
         "romaji": "Denwa bangou wo oshiete kudasai.",
-        "en": "Please tell me your phone number.",
-        "grammar_audio": "/audio/grammar/s_VerbてくださいVerb-tekudasai_20230511_電話番号を教えてください.mp3"
+        "en": "Please tell me your phone number."
       },
       {
         "jp": "ゆっくり話してください。",
         "romaji": "Yukkuri hanashite kudasai.",
-        "en": "Please speak slowly.",
-        "grammar_audio": "/audio/grammar/s_VerbてくださいVerb-tekudasai_20230511_ゆっくり話してください.mp3"
+        "en": "Please speak slowly."
       },
       {
         "jp": "コーヒーを一つ持ってきてください。",
         "romaji": "Koohii wo hitotsu motte kite kudasai.",
-        "en": "Please bring me a coffee.",
-        "grammar_audio": "/audio/grammar/s_VerbてくださいVerb-tekudasai_20230511_コーヒーを一つ持ってきてください.mp3"
+        "en": "Please bring me a coffee."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Verb ないで ください (〜naide kudasai)",
@@ -1674,30 +1380,24 @@
       {
         "jp": "タバコを吸わないでください。",
         "romaji": "Tabako wo suwanaide kudasai.",
-        "en": "Please don't smoke.",
-        "grammar_audio": "/audio/grammar/s_Verbないでくださいnaidekudasai_20230511_タバコを吸わないでください.mp3"
+        "en": "Please don't smoke."
       },
       {
         "jp": "ここで走らないでください。",
         "romaji": "Koko de hashiranaide kudasai.",
-        "en": "Please don't run here.",
-        "grammar_audio": "/audio/grammar/s_Verbないでくださいnaidekudasai_20230511_ここで走らないでください.mp3"
+        "en": "Please don't run here."
       },
       {
         "jp": "大きな声で話さないでください。",
         "romaji": "Ookina koe de hanasanaide kudasai.",
-        "en": "Please don't speak loudly.",
-        "grammar_audio": "/audio/grammar/s_Verbないでくださいnaidekudasai_20230511_大きな声で話さないでください.mp3"
+        "en": "Please don't speak loudly."
       },
       {
         "jp": "写真を撮らないでください。",
         "romaji": "Shashin wo toranaide kudasai.",
-        "en": "Please don't take photos.",
-        "grammar_audio": "/audio/grammar/s_Verbないでくださいnaidekudasai_20230511_写真を撮らないでください.mp3"
+        "en": "Please don't take photos."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "50"
+    ]
   },
   {
     "title": "Verb に かえります (〜ni kaerimasu)",
@@ -1708,30 +1408,24 @@
       {
         "jp": "冷蔵庫に入れると、溶けたアイスクリームは固まるにかえります。",
         "romaji": "Reizouko ni ireru to, toketa aisukurīmu wa katamaru ni kaerimasu.",
-        "en": "When put back in the refrigerator, the melted ice cream will return to being solid.",
-        "grammar_audio": "/audio/grammar/s_Verbにかえりますnikaerimasu_20230511_冷蔵庫に入れると溶けたアイスクリームは固まるにかえります.mp3"
+        "en": "When put back in the refrigerator, the melted ice cream will return to being solid."
       },
       {
         "jp": "休暇が終わったら、仕事に戻ります。",
         "romaji": "Kyuuka ga owattara, shigoto ni modorimasu.",
-        "en": "When the vacation ends, I will return to work.",
-        "grammar_audio": "/audio/grammar/s_Verbにかえりますnikaerimasu_20230511_休暇が終わったら仕事に戻ります.mp3"
+        "en": "When the vacation ends, I will return to work."
       },
       {
         "jp": "リモートワークが終わった後、元のオフィスに戻ります。",
         "romaji": "Rimōto wāku ga owatta ato, moto no ofisu ni modorimasu.",
-        "en": "After remote work is over, we will return to our original office.",
-        "grammar_audio": "/audio/grammar/s_Verbにかえりますnikaerimasu_20230511_リモートワークが終わった後元のオフィスに戻ります.mp3"
+        "en": "After remote work is over, we will return to our original office."
       },
       {
         "jp": "外国で勉強した後、日本に帰ります。",
         "romaji": "Gaikoku de benkyou shita ato, nihon ni kaerimasu.",
-        "en": "After studying abroad, I will return to Japan.",
-        "grammar_audio": "/audio/grammar/s_Verbにかえりますnikaerimasu_20230511_外国で勉強した後日本に帰ります.mp3"
+        "en": "After studying abroad, I will return to Japan."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "Verb に 来ます (Verb ni kimasu)",
@@ -1742,30 +1436,24 @@
       {
         "jp": "友達に会いに来ました。",
         "romaji": "Tomodachi ni ai ni kimashita.",
-        "en": "I came to meet my friend.",
-        "grammar_audio": "/audio/grammar/s_Verbに来ますVerbnikimasu_20230511_友達に会いに来ました.mp3"
+        "en": "I came to meet my friend."
       },
       {
         "jp": "映画を見に来ました。",
         "romaji": "Eiga wo mi ni kimashita.",
-        "en": "I came to watch a movie.",
-        "grammar_audio": "/audio/grammar/s_Verbに来ますVerbnikimasu_20230511_映画を見に来ました.mp3"
+        "en": "I came to watch a movie."
       },
       {
         "jp": "先生に質問しに来ました。",
         "romaji": "Sensei ni shitsumon shi ni kimashita.",
-        "en": "I came to ask the teacher a question.",
-        "grammar_audio": "/audio/grammar/s_Verbに来ますVerbnikimasu_20230511_先生に質問しに来ました.mp3"
+        "en": "I came to ask the teacher a question."
       },
       {
         "jp": "買い物をしに来ました。",
         "romaji": "Kaimono wo shi ni kimashita.",
-        "en": "I came to go shopping.",
-        "grammar_audio": "/audio/grammar/s_Verbに来ますVerbnikimasu_20230511_買い物をしに来ました.mp3"
+        "en": "I came to go shopping."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "Verb に 行きます (Verb ni ikimasu)",
@@ -1776,30 +1464,24 @@
       {
         "jp": "公園に遊びに行きます。",
         "romaji": "Kouen ni asobi ni ikimasu.",
-        "en": "I will go to the park to play.",
-        "grammar_audio": "/audio/grammar/s_Verbに行きますVerbniikimasu_20230511_公園に遊びに行きます.mp3"
+        "en": "I will go to the park to play."
       },
       {
         "jp": "図書館に勉強しに行きます。",
         "romaji": "Toshokan ni benkyou shi ni ikimasu.",
-        "en": "I will go to the library to study.",
-        "grammar_audio": "/audio/grammar/s_Verbに行きますVerbniikimasu_20230511_図書館に勉強しに行きます.mp3"
+        "en": "I will go to the library to study."
       },
       {
         "jp": "スーパーに買い物に行きます。",
         "romaji": "Suupaa ni kaimono ni ikimasu.",
-        "en": "I will go to the supermarket to do shopping.",
-        "grammar_audio": "/audio/grammar/s_Verbに行きますVerbniikimasu_20230511_スーパーに買い物に行きます.mp3"
+        "en": "I will go to the supermarket to do shopping."
       },
       {
         "jp": "映画館に映画を見に行きます。",
         "romaji": "Eigakan ni eiga wo mi ni ikimasu.",
-        "en": "I will go to the movie theater to watch a movie.",
-        "grammar_audio": "/audio/grammar/s_Verbに行きますVerbniikimasu_20230511_映画館に映画を見に行きます.mp3"
+        "en": "I will go to the movie theater to watch a movie."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "Verb ましょう (mashou)",
@@ -1810,30 +1492,24 @@
       {
         "jp": "一緒に映画を見ましょう。",
         "romaji": "Issho ni eiga wo mimashou.",
-        "en": "Let's watch a movie together.",
-        "grammar_audio": "/audio/grammar/s_Verbましょうmashou_20230511_一緒に映画を見ましょう.mp3"
+        "en": "Let's watch a movie together."
       },
       {
         "jp": "散歩しましょう。",
         "romaji": "Sanpo shimashou.",
-        "en": "Let's take a walk.",
-        "grammar_audio": "/audio/grammar/s_Verbましょうmashou_20230511_散歩しましょう.mp3"
+        "en": "Let's take a walk."
       },
       {
         "jp": "今晩、食事に行きましょう。",
         "romaji": "Konban, shokuji ni ikimashou.",
-        "en": "Let's go out for dinner tonight.",
-        "grammar_audio": "/audio/grammar/s_Verbましょうmashou_20230511_今晩食事に行きましょう.mp3"
+        "en": "Let's go out for dinner tonight."
       },
       {
         "jp": "明日勉強しましょう。",
         "romaji": "Ashita benkyou shimashou.",
-        "en": "Let's study tomorrow.",
-        "grammar_audio": "/audio/grammar/s_Verbましょうmashou_20230511_明日勉強しましょう.mp3"
+        "en": "Let's study tomorrow."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "Verb ましょうか。 (〜mashou ka.)",
@@ -1844,30 +1520,24 @@
       {
         "jp": "一緒に映画を見に行きましょうか。",
         "romaji": "Issho ni eiga wo mi ni ikimashou ka.",
-        "en": "Shall we go to see a movie together?",
-        "grammar_audio": "/audio/grammar/s_Verbましょうかmashouka._20230511_一緒に映画を見に行きましょうか.mp3"
+        "en": "Shall we go to see a movie together?"
       },
       {
         "jp": "コーヒーをもう一杯飲みましょうか。",
         "romaji": "Koohii wo mou ippai nomimashou ka.",
-        "en": "Should we have another cup of coffee?",
-        "grammar_audio": "/audio/grammar/s_Verbましょうかmashouka._20230511_コーヒーをもう一杯飲みましょうか.mp3"
+        "en": "Should we have another cup of coffee?"
       },
       {
         "jp": "あなたの荷物を持ちましょうか。",
         "romaji": "Anata no nimotsu wo mochimashou ka.",
-        "en": "Do you want me to carry your luggage?",
-        "grammar_audio": "/audio/grammar/s_Verbましょうかmashouka._20230511_あなたの荷物を持ちましょうか.mp3"
+        "en": "Do you want me to carry your luggage?"
       },
       {
         "jp": "窓を開けましょうか。",
         "romaji": "Mado wo akemashou ka.",
-        "en": "Shall I open the window?",
-        "grammar_audio": "/audio/grammar/s_Verbましょうかmashouka._20230511_窓を開けましょうか.mp3"
+        "en": "Shall I open the window?"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "Verb ませんか。 (Verb-masenka)",
@@ -1878,30 +1548,24 @@
       {
         "jp": "一緒に映画を見ませんか。",
         "romaji": "Issho ni eiga wo mimasenka.",
-        "en": "Won't you watch a movie together with me?",
-        "grammar_audio": "/audio/grammar/s_VerbませんかVerb-masenka_20230511_一緒に映画を見ませんか.mp3"
+        "en": "Won't you watch a movie together with me?"
       },
       {
         "jp": "明日のパーティーに参加しませんか。",
         "romaji": "Ashita no paatii ni sanka shimasenka.",
-        "en": "Why don't you join tomorrow's party?",
-        "grammar_audio": "/audio/grammar/s_VerbませんかVerb-masenka_20230511_明日のパーティーに参加しませんか.mp3"
+        "en": "Why don't you join tomorrow's party?"
       },
       {
         "jp": "週末にピクニックに行きませんか。",
         "romaji": "Shuumatsu ni pikunikku ni ikimasenka.",
-        "en": "Shall we go for a picnic on the weekend?",
-        "grammar_audio": "/audio/grammar/s_VerbませんかVerb-masenka_20230511_週末にピクニックに行きませんか.mp3"
+        "en": "Shall we go for a picnic on the weekend?"
       },
       {
         "jp": "一緒に勉強しませんか。",
         "romaji": "Issho ni benkyou shimasenka.",
-        "en": "How about studying together?",
-        "grammar_audio": "/audio/grammar/s_VerbませんかVerb-masenka_20230511_一緒に勉強しませんか.mp3"
+        "en": "How about studying together?"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "Verb ること～ (〜ru koto)",
@@ -1912,30 +1576,24 @@
       {
         "jp": "泳ぐことが大好きです。",
         "romaji": "Oyogu koto ga daisuki desu.",
-        "en": "I love the act of swimming.",
-        "grammar_audio": "/audio/grammar/s_Verbることrukoto_20230511_泳ぐことが大好きです.mp3"
+        "en": "I love the act of swimming."
       },
       {
         "jp": "日本語を勉強することは楽しいです。",
         "romaji": "Nihongo wo benkyou suru koto wa tanoshii desu.",
-        "en": "Studying Japanese is fun.",
-        "grammar_audio": "/audio/grammar/s_Verbることrukoto_20230511_日本語を勉強することは楽しいです.mp3"
+        "en": "Studying Japanese is fun."
       },
       {
         "jp": "友達と話すことがストレスを軽減します。",
         "romaji": "Tomodachi to hanasu koto ga sutoresu wo keigen shimasu.",
-        "en": "The act of talking with friends reduces stress.",
-        "grammar_audio": "/audio/grammar/s_Verbることrukoto_20230511_友達と話すことがストレスを軽減します.mp3"
+        "en": "The act of talking with friends reduces stress."
       },
       {
         "jp": "彼は歌うことが得意です。",
         "romaji": "Kare wa utau koto ga tokui desu.",
-        "en": "He is good at singing.",
-        "grammar_audio": "/audio/grammar/s_Verbることrukoto_20230511_彼は歌うことが得意です.mp3"
+        "en": "He is good at singing."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "Verb る こと が できます (ru koto ga dekimasu)",
@@ -1946,30 +1604,24 @@
       {
         "jp": "この問題を解くことができます。",
         "romaji": "Kono mondai o toku koto ga dekimasu.",
-        "en": "I can solve this problem.",
-        "grammar_audio": "/audio/grammar/s_Verbることができますrukotogadekimasu_20230511_この問題を解くことができます.mp3"
+        "en": "I can solve this problem."
       },
       {
         "jp": "彼は英語を話すことができます。",
         "romaji": "Kare wa eigo o hanasu koto ga dekimasu.",
-        "en": "He can speak English.",
-        "grammar_audio": "/audio/grammar/s_Verbることができますrukotogadekimasu_20230511_彼は英語を話すことができます.mp3"
+        "en": "He can speak English."
       },
       {
         "jp": "私は高い所に登ることができません。",
         "romaji": "Watashi wa takai tokoro ni noboru koto ga dekimasen.",
-        "en": "I cannot climb to high places.",
-        "grammar_audio": "/audio/grammar/s_Verbることができますrukotogadekimasu_20230511_私は高い所に登ることができません.mp3"
+        "en": "I cannot climb to high places."
       },
       {
         "jp": "彼女はピアノを弾くことができます。",
         "romaji": "Kanojo wa piano o hiku koto ga dekimasu.",
-        "en": "She can play the piano.",
-        "grammar_audio": "/audio/grammar/s_Verbることができますrukotogadekimasu_20230511_彼女はピアノを弾くことができます.mp3"
+        "en": "She can play the piano."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "Verb る こと ができる (ru koto ga dekiru)",
@@ -1980,30 +1632,24 @@
       {
         "jp": "この問題を解くことができる？",
         "romaji": "Kono mondai o toku koto ga dekiru?",
-        "en": "Can you solve this problem?",
-        "grammar_audio": "/audio/grammar/s_Verbることができるrukotogadekiru_20230511_この問題を解くことができる.mp3"
+        "en": "Can you solve this problem?"
       },
       {
         "jp": "彼は泳ぐことができます。",
         "romaji": "Kare wa oyogu koto ga dekimasu.",
-        "en": "He can swim.",
-        "grammar_audio": "/audio/grammar/s_Verbることができるrukotogadekiru_20230511_彼は泳ぐことができます.mp3"
+        "en": "He can swim."
       },
       {
         "jp": "日本に行くことができて、とても嬉しいです。",
         "romaji": "Nihon ni iku koto ga dekite, totemo ureshii desu.",
-        "en": "I'm very happy that I can go to Japan.",
-        "grammar_audio": "/audio/grammar/s_Verbることができるrukotogadekiru_20230511_日本に行くことができてとても嬉しいです.mp3"
+        "en": "I'm very happy that I can go to Japan."
       },
       {
         "jp": "彼女はピアノを弾くことができます。",
         "romaji": "Kanojo wa piano o hiku koto ga dekimasu.",
-        "en": "She can play the piano.",
-        "grammar_audio": "/audio/grammar/s_Verbることができるrukotogadekiru_20230511_彼女はピアノを弾くことができます.mp3"
+        "en": "She can play the piano."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "Verb る の～ (Verb + ru + no~)",
@@ -2014,30 +1660,24 @@
       {
         "jp": "買い物をするために、銀行でお金をおろすの。",
         "romaji": "Kaimono o suru tame ni, ginkou de okane o orosu no.",
-        "en": "I will withdraw money from the bank to go shopping.",
-        "grammar_audio": "/audio/grammar/s_VerbるのVerb+ru+no~_20230511_買い物をするために銀行でお金をおろすの.mp3"
+        "en": "I will withdraw money from the bank to go shopping."
       },
       {
         "jp": "友達にプレゼントをあげるので、ケーキを焼くの。",
         "romaji": "Tomodachi ni purezento o ageru node, keeki o yaku no.",
-        "en": "I will bake a cake because I want to give a present to my friend.",
-        "grammar_audio": "/audio/grammar/s_VerbるのVerb+ru+no~_20230511_友達にプレゼントをあげるのでケーキを焼くの.mp3"
+        "en": "I will bake a cake because I want to give a present to my friend."
       },
       {
         "jp": "ダイエットを始めるので、ジムに入会するの。",
         "romaji": "Daietto o hajimeru node, jimu ni nyuukai suru no.",
-        "en": "I will join a gym since I am starting a diet.",
-        "grammar_audio": "/audio/grammar/s_VerbるのVerb+ru+no~_20230511_ダイエットを始めるのでジムに入会するの.mp3"
+        "en": "I will join a gym since I am starting a diet."
       },
       {
         "jp": "軽い食事がいいので、サラダを作るの。",
         "romaji": "Karui shokuji ga ii node, sarada o tsukuru no.",
-        "en": "I will make a salad because I want a light meal.",
-        "grammar_audio": "/audio/grammar/s_VerbるのVerb+ru+no~_20230511_軽い食事がいいのでサラダを作るの.mp3"
+        "en": "I will make a salad because I want a light meal."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "Verb る 前に (ru mae ni)",
@@ -2048,30 +1688,24 @@
       {
         "jp": "出かける前に、部屋を掃除してください。",
         "romaji": "Dekakeru mae ni, heya o souji shite kudasai.",
-        "en": "Please clean the room before leaving.",
-        "grammar_audio": "/audio/grammar/s_Verbる前にrumaeni_20230511_出かける前に部屋を掃除してください.mp3"
+        "en": "Please clean the room before leaving."
       },
       {
         "jp": "寝る前に、歯を磨きます。",
         "romaji": "Neru mae ni, ha o migakimasu.",
-        "en": "I brush my teeth before going to bed.",
-        "grammar_audio": "/audio/grammar/s_Verbる前にrumaeni_20230511_寝る前に歯を磨きます.mp3"
+        "en": "I brush my teeth before going to bed."
       },
       {
         "jp": "雨が降る前に、洗濯物を取り込むこと。",
         "romaji": "Ame ga furu mae ni, sentakumono o torikomu koto.",
-        "en": "Take in the laundry before it rains.",
-        "grammar_audio": "/audio/grammar/s_Verbる前にrumaeni_20230511_雨が降る前に洗濯物を取り込むこと.mp3"
+        "en": "Take in the laundry before it rains."
       },
       {
         "jp": "会議が始まる前に、資料を準備しましょう。",
         "romaji": "Kaigi ga hajimaru mae ni, shiryou o junbi shimashou.",
-        "en": "Let's prepare the documents before the meeting starts.",
-        "grammar_audio": "/audio/grammar/s_Verbる前にrumaeni_20230511_会議が始まる前に資料を準備しましょう.mp3"
+        "en": "Let's prepare the documents before the meeting starts."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "あまり～ありません (amari ~ arimasen)",
@@ -2082,30 +1716,24 @@
       {
         "jp": "彼はあまり疲れていません。",
         "romaji": "Kare wa amari tsukareteimasen.",
-        "en": "He is not really tired.",
-        "grammar_audio": "/audio/grammar/s_あまりありませんamari~arimasen_20230511_彼はあまり疲れていません.mp3"
+        "en": "He is not really tired."
       },
       {
         "jp": "彼女はあまり早くないですよ。",
         "romaji": "Kanojo wa amari hayakunai desu yo.",
-        "en": "She is not very fast.",
-        "grammar_audio": "/audio/grammar/s_あまりありませんamari~arimasen_20230511_彼女はあまり早くないですよ.mp3"
+        "en": "She is not very fast."
       },
       {
         "jp": "私はあまり勉強しないです。",
         "romaji": "Watashi wa amari benkyou shinai desu.",
-        "en": "I don't study very much.",
-        "grammar_audio": "/audio/grammar/s_あまりありませんamari~arimasen_20230511_私はあまり勉強しないです.mp3"
+        "en": "I don't study very much."
       },
       {
         "jp": "あまりお金がありません。",
         "romaji": "Amari okane ga arimasen.",
-        "en": "I don't have much money.",
-        "grammar_audio": "/audio/grammar/s_あまりありませんamari~arimasen_20230511_あまりお金がありません.mp3"
+        "en": "I don't have much money."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "あまり～ないです (amari ~ nai desu)",
@@ -2116,30 +1744,24 @@
       {
         "jp": "あまり食べないです。",
         "romaji": "Amari tabenai desu.",
-        "en": "I don't really eat much.",
-        "grammar_audio": "/audio/grammar/s_あまりないですamari~naidesu_20230511_あまり食べないです.mp3"
+        "en": "I don't really eat much."
       },
       {
         "jp": "この映画はあまり面白くないです。",
         "romaji": "Kono eiga wa amari omoshirokunai desu.",
-        "en": "This movie is not really interesting.",
-        "grammar_audio": "/audio/grammar/s_あまりないですamari~naidesu_20230511_この映画はあまり面白くないです.mp3"
+        "en": "This movie is not really interesting."
       },
       {
         "jp": "彼はあまり親切じゃないです。",
         "romaji": "Kare wa amari shinsetsu ja nai desu.",
-        "en": "He is not very kind.",
-        "grammar_audio": "/audio/grammar/s_あまりないですamari~naidesu_20230511_彼はあまり親切じゃないです.mp3"
+        "en": "He is not very kind."
       },
       {
         "jp": "私はあまり日本語が上手じゃないです。",
         "romaji": "Watashi wa amari nihongo ga jouzu ja nai desu.",
-        "en": "I am not very good at Japanese.",
-        "grammar_audio": "/audio/grammar/s_あまりないですamari~naidesu_20230511_私はあまり日本語が上手じゃないです.mp3"
+        "en": "I am not very good at Japanese."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "～あります (〜arimasu)",
@@ -2150,30 +1772,24 @@
       {
         "jp": "教室に机があります。",
         "romaji": "Kyoushitsu ni tsukue ga arimasu.",
-        "en": "There is a desk in the classroom.",
-        "grammar_audio": "/audio/grammar/s_ありますarimasu_20230511_教室に机があります.mp3"
+        "en": "There is a desk in the classroom."
       },
       {
         "jp": "この公園にたくさんの花があります。",
         "romaji": "Kono kouen ni takusan no hana ga arimasu.",
-        "en": "There are many flowers in this park.",
-        "grammar_audio": "/audio/grammar/s_ありますarimasu_20230511_この公園にたくさんの花があります.mp3"
+        "en": "There are many flowers in this park."
       },
       {
         "jp": "駅の近くにコンビニがあります。",
         "romaji": "Eki no chikaku ni konbini ga arimasu.",
-        "en": "There is a convenience store near the station.",
-        "grammar_audio": "/audio/grammar/s_ありますarimasu_20230511_駅の近くにコンビニがあります.mp3"
+        "en": "There is a convenience store near the station."
       },
       {
         "jp": "家の中に猫があります。",
         "romaji": "Ie no naka ni neko ga arimasu.",
-        "en": "There is a cat inside the house.",
-        "grammar_audio": "/audio/grammar/s_ありますarimasu_20230511_家の中に猫があります.mp3"
+        "en": "There is a cat inside the house."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "～いかがですか。 (〜ikaga desu ka.)",
@@ -2184,30 +1800,24 @@
       {
         "jp": "お茶はいかがですか？",
         "romaji": "Ocha wa ikaga desu ka?",
-        "en": "How about some tea?",
-        "grammar_audio": "/audio/grammar/s_いかがですかikagadesuka._20230511_お茶はいかがですか.mp3"
+        "en": "How about some tea?"
       },
       {
         "jp": "このドレスはいかがですか？",
         "romaji": "Kono doresu wa ikaga desu ka?",
-        "en": "How about this dress?",
-        "grammar_audio": "/audio/grammar/s_いかがですかikagadesuka._20230511_このドレスはいかがですか.mp3"
+        "en": "How about this dress?"
       },
       {
         "jp": "ケーキを食べていかがですか？",
         "romaji": "Keeki wo tabete ikaga desu ka?",
-        "en": "How about eating some cake?",
-        "grammar_audio": "/audio/grammar/s_いかがですかikagadesuka._20230511_ケーキを食べていかがですか.mp3"
+        "en": "How about eating some cake?"
       },
       {
         "jp": "映画を見ていかがですか？",
         "romaji": "Eiga wo mite ikaga desu ka?",
-        "en": "How about watching a movie?",
-        "grammar_audio": "/audio/grammar/s_いかがですかikagadesuka._20230511_映画を見ていかがですか.mp3"
+        "en": "How about watching a movie?"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "いくつ～ (ikutsu~",
@@ -2218,30 +1828,24 @@
       {
         "jp": "いくつリンゴがありますか？",
         "romaji": "Ikutsu ringo ga arimasu ka?",
-        "en": "How many apples are there?",
-        "grammar_audio": "/audio/grammar/s_いくつikutsu~_20230511_いくつリンゴがありますか.mp3"
+        "en": "How many apples are there?"
       },
       {
         "jp": "いくつかの問題を解決しなければなりません。",
         "romaji": "Ikutsu ka no mondai o kaiketsu shinakereba narimasen.",
-        "en": "I have to solve several problems.",
-        "grammar_audio": "/audio/grammar/s_いくつikutsu~_20230511_いくつかの問題を解決しなければなりません.mp3"
+        "en": "I have to solve several problems."
       },
       {
         "jp": "あなたはいくつの言語を話せますか？",
         "romaji": "Anata wa ikutsu no gengo o hanasemasu ka?",
-        "en": "How many languages can you speak?",
-        "grammar_audio": "/audio/grammar/s_いくつikutsu~_20230511_あなたはいくつの言語を話せますか.mp3"
+        "en": "How many languages can you speak?"
       },
       {
         "jp": "パーティーにはいくつかの飲み物があります。",
         "romaji": "Paatii ni wa ikutsu ka no nomimono ga arimasu.",
-        "en": "There are several drinks at the party.",
-        "grammar_audio": "/audio/grammar/s_いくつikutsu~_20230511_パーティーにはいくつかの飲み物があります.mp3"
+        "en": "There are several drinks at the party."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "いつか～ (itsuka～)",
@@ -2252,30 +1856,24 @@
       {
         "jp": "いつか日本に行きたいです。",
         "romaji": "Itsuka Nihon ni ikitai desu.",
-        "en": "I want to go to Japan someday.",
-        "grammar_audio": "/audio/grammar/s_いつかitsuka_20230511_いつか日本に行きたいです.mp3"
+        "en": "I want to go to Japan someday."
       },
       {
         "jp": "彼はいつか有名な作家になるでしょう。",
         "romaji": "Kare wa itsuka yuumei na sakka ni naru deshou.",
-        "en": "He will become a famous writer someday.",
-        "grammar_audio": "/audio/grammar/s_いつかitsuka_20230511_彼はいつか有名な作家になるでしょう.mp3"
+        "en": "He will become a famous writer someday."
       },
       {
         "jp": "いつかあの山を登りたいと思っています。",
         "romaji": "Itsuka ano yama wo noboritai to omotte imasu.",
-        "en": "I think I want to climb that mountain someday.",
-        "grammar_audio": "/audio/grammar/s_いつかitsuka_20230511_いつかあの山を登りたいと思っています.mp3"
+        "en": "I think I want to climb that mountain someday."
       },
       {
         "jp": "彼女はいつか夢を叶えることができると信じています。",
         "romaji": "Kanojo wa itsuka yume wo kanaeru koto ga dekiru to shinjiteimasu.",
-        "en": "I believe she can achieve her dream someday.",
-        "grammar_audio": "/audio/grammar/s_いつかitsuka_20230511_彼女はいつか夢を叶えることができると信じています.mp3"
+        "en": "I believe she can achieve her dream someday."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "いつでも～ (itsudemo～)",
@@ -2286,30 +1884,24 @@
       {
         "jp": "いつでも遊びに来てください。",
         "romaji": "Itsudemo asobi ni kite kudasai.",
-        "en": "Please come to play anytime.",
-        "grammar_audio": "/audio/grammar/s_いつでもitsudemo_20230511_いつでも遊びに来てください.mp3"
+        "en": "Please come to play anytime."
       },
       {
         "jp": "彼女はいつでも笑顔です。",
         "romaji": "Kanojo wa itsudemo egao desu.",
-        "en": "She is always smiling.",
-        "grammar_audio": "/audio/grammar/s_いつでもitsudemo_20230511_彼女はいつでも笑顔です.mp3"
+        "en": "She is always smiling."
       },
       {
         "jp": "いつでも電話で連絡できます。",
         "romaji": "Itsudemo denwa de renraku dekimasu.",
-        "en": "You can contact me by phone anytime.",
-        "grammar_audio": "/audio/grammar/s_いつでもitsudemo_20230511_いつでも電話で連絡できます.mp3"
+        "en": "You can contact me by phone anytime."
       },
       {
         "jp": "この店はいつでも混んでいます。",
         "romaji": "Kono mise wa itsudemo konde imasu.",
-        "en": "This store is always crowded.",
-        "grammar_audio": "/audio/grammar/s_いつでもitsudemo_20230511_この店はいつでも混んでいます.mp3"
+        "en": "This store is always crowded."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "いつも～ (itsumo～)",
@@ -2320,30 +1912,24 @@
       {
         "jp": "彼はいつも遅刻します。",
         "romaji": "Kare wa itsumo chikoku shimasu.",
-        "en": "He is always late.",
-        "grammar_audio": "/audio/grammar/s_いつもitsumo_20230511_彼はいつも遅刻します.mp3"
+        "en": "He is always late."
       },
       {
         "jp": "私はいつも優しい犬が好きです。",
         "romaji": "Watashi wa itsumo yasashii inu ga suki desu.",
-        "en": "I always like gentle dogs.",
-        "grammar_audio": "/audio/grammar/s_いつもitsumo_20230511_私はいつも優しい犬が好きです.mp3"
+        "en": "I always like gentle dogs."
       },
       {
         "jp": "彼女はいつも静かな場所で勉強します。",
         "romaji": "Kanojo wa itsumo shizuka na basho de benkyou shimasu.",
-        "en": "She always studies in a quiet place.",
-        "grammar_audio": "/audio/grammar/s_いつもitsumo_20230511_彼女はいつも静かな場所で勉強します.mp3"
+        "en": "She always studies in a quiet place."
       },
       {
         "jp": "いつも朝ご飯を食べます。",
         "romaji": "Itsumo asagohan wo tabemasu.",
-        "en": "I always eat breakfast.",
-        "grammar_audio": "/audio/grammar/s_いつもitsumo_20230511_いつも朝ご飯を食べます.mp3"
+        "en": "I always eat breakfast."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "～います (〜imasu)",
@@ -2354,30 +1940,24 @@
       {
         "jp": "今、音楽を聞いています。",
         "romaji": "Ima, ongaku wo kiiteimasu.",
-        "en": "I am listening to music right now.",
-        "grammar_audio": "/audio/grammar/s_いますimasu_20230511_今音楽を聞いています.mp3"
+        "en": "I am listening to music right now."
       },
       {
         "jp": "父は新聞を読んでいます。",
         "romaji": "Chichi wa shinbun wo yondeimasu.",
-        "en": "My father is reading a newspaper.",
-        "grammar_audio": "/audio/grammar/s_いますimasu_20230511_父は新聞を読んでいます.mp3"
+        "en": "My father is reading a newspaper."
       },
       {
         "jp": "彼女は英語を勉強しています。",
         "romaji": "Kanojo wa eigo wo benkyou shiteimasu.",
-        "en": "She is studying English.",
-        "grammar_audio": "/audio/grammar/s_いますimasu_20230511_彼女は英語を勉強しています.mp3"
+        "en": "She is studying English."
       },
       {
         "jp": "子供たちは公園で遊んでいます。",
         "romaji": "Kodomotachi wa kouen de asondeimasu.",
-        "en": "The children are playing in the park.",
-        "grammar_audio": "/audio/grammar/s_いますimasu_20230511_子供たちは公園で遊んでいます.mp3"
+        "en": "The children are playing in the park."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "～が (〜ga)",
@@ -2388,30 +1968,24 @@
       {
         "jp": "私が学生です。",
         "romaji": "Watashi ga gakusei desu.",
-        "en": "I am a student.",
-        "grammar_audio": "/audio/grammar/s_がga_20230511_私が学生です.mp3"
+        "en": "I am a student."
       },
       {
         "jp": "このりんごが美味しい。",
         "romaji": "Kono ringo ga oishii.",
-        "en": "This apple is delicious.",
-        "grammar_audio": "/audio/grammar/s_がga_20230511_このりんごが美味しい.mp3"
+        "en": "This apple is delicious."
       },
       {
         "jp": "彼は頭がいいが、性格が悪い。",
         "romaji": "Kare wa atama ga ii ga, seikaku ga warui.",
-        "en": "He is smart but has a bad personality.",
-        "grammar_audio": "/audio/grammar/s_がga_20230511_彼は頭がいいが性格が悪い.mp3"
+        "en": "He is smart but has a bad personality."
       },
       {
         "jp": "走りたいが、足が痛い。",
         "romaji": "Hashiritai ga, ashi ga itai.",
-        "en": "I want to run, but my leg hurts.",
-        "grammar_audio": "/audio/grammar/s_がga_20230511_走りたいが足が痛い.mp3"
+        "en": "I want to run, but my leg hurts."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "～が、～ (〜ga, 〜)",
@@ -2422,30 +1996,24 @@
       {
         "jp": "デザートは美味しいが、カロリーが高い。",
         "romaji": "Dezaato wa oishii ga, karorii ga takai.",
-        "en": "The dessert is delicious, but it is high in calories.",
-        "grammar_audio": "/audio/grammar/s_がga,_20230511_デザートは美味しいがカロリーが高い.mp3"
+        "en": "The dessert is delicious, but it is high in calories."
       },
       {
         "jp": "彼は頭がいいが、少し怠け者だ。",
         "romaji": "Kare wa atama ga ii ga, sukoshi namakemono da.",
-        "en": "He is smart, but a bit lazy.",
-        "grammar_audio": "/audio/grammar/s_がga,_20230511_彼は頭がいいが少し怠け者だ.mp3"
+        "en": "He is smart, but a bit lazy."
       },
       {
         "jp": "会社は利益を上げたが、従業員の給与は上がらなかった。",
         "romaji": "Kaisha wa rieki wo ageta ga, juugyouin no kyuuyo wa agaranakatta.",
-        "en": "The company made a profit, however, the employees' salaries did not increase.",
-        "grammar_audio": "/audio/grammar/s_がga,_20230511_会社は利益を上げたが従業員の給与は上がらなかった.mp3"
+        "en": "The company made a profit, however, the employees' salaries did not increase."
       },
       {
         "jp": "外国語を勉強することが楽しいが、時々難しい。",
         "romaji": "Gaikokugo wo benkyou suru koto ga tanoshii ga, tokidoki muzukashii.",
-        "en": "Studying foreign languages is fun, but sometimes difficult.",
-        "grammar_audio": "/audio/grammar/s_がga,_20230511_外国語を勉強することが楽しいが時々難しい.mp3"
+        "en": "Studying foreign languages is fun, but sometimes difficult."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "～から、～ (〜kara、～)",
@@ -2456,30 +2024,24 @@
       {
         "jp": "明日は試験があるから、今晩勉強しなければなりません。",
         "romaji": "Ashita wa shiken ga aru kara, konban benkyou shinakereba narimasen.",
-        "en": "Because I have an exam tomorrow, I must study tonight.",
-        "grammar_audio": "/audio/grammar/s_からkara_20230511_明日は試験があるから今晩勉強しなければなりません.mp3"
+        "en": "Because I have an exam tomorrow, I must study tonight."
       },
       {
         "jp": "この部屋は狭いから、もっと大きい部屋を探しています。",
         "romaji": "Kono heya wa semai kara, motto ookii heya wo sagashiteimasu.",
-        "en": "Since this room is small, I am looking for a bigger one.",
-        "grammar_audio": "/audio/grammar/s_からkara_20230511_この部屋は狭いからもっと大きい部屋を探しています.mp3"
+        "en": "Since this room is small, I am looking for a bigger one."
       },
       {
         "jp": "彼は友達だから、手伝ってくれるでしょう。",
         "romaji": "Kare wa tomodachi dakara, tetsudatte kureru deshou.",
-        "en": "Since he is my friend, he will probably help me.",
-        "grammar_audio": "/audio/grammar/s_からkara_20230511_彼は友達だから手伝ってくれるでしょう.mp3"
+        "en": "Since he is my friend, he will probably help me."
       },
       {
         "jp": "雨が降ったから、外に出られません。",
         "romaji": "Ame ga futta kara, soto ni deraremasen.",
-        "en": "Because it rained, I can't go outside.",
-        "grammar_audio": "/audio/grammar/s_からkara_20230511_雨が降ったから外に出られません.mp3"
+        "en": "Because it rained, I can't go outside."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "～からです (〜kara desu)",
@@ -2490,30 +2052,24 @@
       {
         "jp": "寒いからです、コートを着ています。",
         "romaji": "Samui kara desu, kooto wo kiteimasu.",
-        "en": "I am wearing a coat because it is cold.",
-        "grammar_audio": "/audio/grammar/s_からですkaradesu_20230511_寒いからですコートを着ています.mp3"
+        "en": "I am wearing a coat because it is cold."
       },
       {
         "jp": "この店は安いからです、よく来ます。",
         "romaji": "Kono mise wa yasui kara desu, yoku kimasu.",
-        "en": "I often come to this store because it is cheap.",
-        "grammar_audio": "/audio/grammar/s_からですkaradesu_20230511_この店は安いからですよく来ます.mp3"
+        "en": "I often come to this store because it is cheap."
       },
       {
         "jp": "彼は親切ですからです、みんなに好かれています。",
         "romaji": "Kare wa shinsetsu desu kara desu, minna ni suka-rete imasu.",
-        "en": "Everybody likes him because he is kind.",
-        "grammar_audio": "/audio/grammar/s_からですkaradesu_20230511_彼は親切ですからですみんなに好かれています.mp3"
+        "en": "Everybody likes him because he is kind."
       },
       {
         "jp": "彼女は学生ですからです、図書館で勉強しています。",
         "romaji": "Kanojo wa gakusei desu kara desu, toshokan de benkyou shiteimasu.",
-        "en": "She is studying at the library because she is a student.",
-        "grammar_audio": "/audio/grammar/s_からですkaradesu_20230511_彼女は学生ですからです図書館で勉強しています.mp3"
+        "en": "She is studying at the library because she is a student."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "～から もらいます (〜kara moraimasu)",
@@ -2524,30 +2080,24 @@
       {
         "jp": "友達からプレゼントをもらいました。",
         "romaji": "Tomodachi kara purezento wo moraimashita.",
-        "en": "I received a present from my friend.",
-        "grammar_audio": "/audio/grammar/s_からもらいますkaramoraimasu_20230511_友達からプレゼントをもらいました.mp3"
+        "en": "I received a present from my friend."
       },
       {
         "jp": "先生から宿題を渡してもらいました。",
         "romaji": "Sensei kara shukudai wo watashite moraimashita.",
-        "en": "I got the teacher to hand out the homework.",
-        "grammar_audio": "/audio/grammar/s_からもらいますkaramoraimasu_20230511_先生から宿題を渡してもらいました.mp3"
+        "en": "I got the teacher to hand out the homework."
       },
       {
         "jp": "お母さんから料理を作ってもらいました。",
         "romaji": "Okaasan kara ryouri wo tsukutte moraimashita.",
-        "en": "I got my mom to cook for me.",
-        "grammar_audio": "/audio/grammar/s_からもらいますkaramoraimasu_20230511_お母さんから料理を作ってもらいました.mp3"
+        "en": "I got my mom to cook for me."
       },
       {
         "jp": "兄から車を借りてもらいました。",
         "romaji": "Ani kara kuruma wo karite moraimashita.",
-        "en": "I got my older brother to lend me his car.",
-        "grammar_audio": "/audio/grammar/s_からもらいますkaramoraimasu_20230511_兄から車を借りてもらいました.mp3"
+        "en": "I got my older brother to lend me his car."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "75"
+    ]
   },
   {
     "title": "～が 私に くれます (〜ga watashi ni kuremasu)",
@@ -2558,30 +2108,24 @@
       {
         "jp": "彼がプレゼントを私にくれました。",
         "romaji": "Kare ga purezento wo watashi ni kuremashita.",
-        "en": "He gave me a present.",
-        "grammar_audio": "/audio/grammar/s_が私にくれますgawatashinikuremasu_20230511_彼がプレゼントを私にくれました.mp3"
+        "en": "He gave me a present."
       },
       {
         "jp": "友達が宿題を手伝って私にくれました。",
         "romaji": "Tomodachi ga shukudai wo tetsudatte watashi ni kuremashita.",
-        "en": "My friend helped me with my homework.",
-        "grammar_audio": "/audio/grammar/s_が私にくれますgawatashinikuremasu_20230511_友達が宿題を手伝って私にくれました.mp3"
+        "en": "My friend helped me with my homework."
       },
       {
         "jp": "お母さんがお弁当を作って私にくれました。",
         "romaji": "Okaasan ga obentou wo tsukutte watashi ni kuremashita.",
-        "en": "My mom made and gave me a lunch box.",
-        "grammar_audio": "/audio/grammar/s_が私にくれますgawatashinikuremasu_20230511_お母さんがお弁当を作って私にくれました.mp3"
+        "en": "My mom made and gave me a lunch box."
       },
       {
         "jp": "先生がアドバイスを私にくれました。",
         "romaji": "Sensei ga adobaisu wo watashi ni kuremashita.",
-        "en": "The teacher gave me advice.",
-        "grammar_audio": "/audio/grammar/s_が私にくれますgawatashinikuremasu_20230511_先生がアドバイスを私にくれました.mp3"
+        "en": "The teacher gave me advice."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "～けど、～ (〜kedo、～)",
@@ -2592,30 +2136,24 @@
       {
         "jp": "授業に出たけど、まだ宿題をしないと。",
         "romaji": "Jugyou ni deta kedo, mada shukudai wo shinai to.",
-        "en": "I attended the class, but I still have to do my homework.",
-        "grammar_audio": "/audio/grammar/s_けどkedo_20230511_授業に出たけどまだ宿題をしないと.mp3"
+        "en": "I attended the class, but I still have to do my homework."
       },
       {
         "jp": "昨日寒かったけど、今日は暖かいです。",
         "romaji": "Kinou samukatta kedo, kyou wa atatakai desu.",
-        "en": "Yesterday was cold, but today is warm.",
-        "grammar_audio": "/audio/grammar/s_けどkedo_20230511_昨日寒かったけど今日は暖かいです.mp3"
+        "en": "Yesterday was cold, but today is warm."
       },
       {
         "jp": "彼は親切だけど、ちょっと怖い。",
         "romaji": "Kare wa shinsetsu da kedo, chotto kowai.",
-        "en": "He is kind, but a little scary.",
-        "grammar_audio": "/audio/grammar/s_けどkedo_20230511_彼は親切だけどちょっと怖い.mp3"
+        "en": "He is kind, but a little scary."
       },
       {
         "jp": "これはおいしそうだけど、高すぎる。",
         "romaji": "Kore wa oishisou da kedo, takasugiru.",
-        "en": "This looks delicious, but it is too expensive.",
-        "grammar_audio": "/audio/grammar/s_けどkedo_20230511_これはおいしそうだけど高すぎる.mp3"
+        "en": "This looks delicious, but it is too expensive."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "～けれど、～ (〜keredo、～)",
@@ -2626,30 +2164,24 @@
       {
         "jp": "今日は寒いけれど、散歩に行きます。",
         "romaji": "Kyou wa samui keredo, sanpo ni ikimasu.",
-        "en": "Even though it's cold today, I'll go for a walk.",
-        "grammar_audio": "/audio/grammar/s_けれどkeredo_20230511_今日は寒いけれど散歩に行きます.mp3"
+        "en": "Even though it's cold today, I'll go for a walk."
       },
       {
         "jp": "彼は親切けれど、少し怖いです。",
         "romaji": "Kare wa shinsetsu keredo, sukoshi kowai desu.",
-        "en": "He is kind, but a little scary.",
-        "grammar_audio": "/audio/grammar/s_けれどkeredo_20230511_彼は親切けれど少し怖いです.mp3"
+        "en": "He is kind, but a little scary."
       },
       {
         "jp": "この部屋は狭いけれど、明るいです。",
         "romaji": "Kono heya wa semai keredo, akarui desu.",
-        "en": "This room is small, but it's bright.",
-        "grammar_audio": "/audio/grammar/s_けれどkeredo_20230511_この部屋は狭いけれど明るいです.mp3"
+        "en": "This room is small, but it's bright."
       },
       {
         "jp": "彼女は病気だけれど、毎日働いています。",
         "romaji": "Kanojo wa byouki dakeredo, mainichi hataraiteimasu.",
-        "en": "She is sick, but she works every day.",
-        "grammar_audio": "/audio/grammar/s_けれどkeredo_20230511_彼女は病気だけれど毎日働いています.mp3"
+        "en": "She is sick, but she works every day."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "こちら～ (kochira～)",
@@ -2660,30 +2192,24 @@
       {
         "jp": "こちらは田中さんです。",
         "romaji": "Kochira wa Tanaka-san desu.",
-        "en": "This is Mr./Ms. Tanaka.",
-        "grammar_audio": "/audio/grammar/s_こちらkochira_20230511_こちらは田中さんです.mp3"
+        "en": "This is Mr./Ms. Tanaka."
       },
       {
         "jp": "こちらのレストランは美味しいです。",
         "romaji": "Kochira no resutoran wa oishii desu.",
-        "en": "This restaurant is delicious.",
-        "grammar_audio": "/audio/grammar/s_こちらkochira_20230511_こちらのレストランは美味しいです.mp3"
+        "en": "This restaurant is delicious."
       },
       {
         "jp": "こちらへどうぞ。",
         "romaji": "Kochira e douzo.",
-        "en": "Please come this way.",
-        "grammar_audio": "/audio/grammar/s_こちらkochira_20230511_こちらへどうぞ.mp3"
+        "en": "Please come this way."
       },
       {
         "jp": "こちらの方がいいですか、それともあちらの方がいいですか？",
         "romaji": "Kochira no hou ga ii desu ka, sore to mo achira no hou ga ii desu ka?",
-        "en": "Is this one better, or is that one better?",
-        "grammar_audio": "/audio/grammar/s_こちらkochira_20230511_こちらの方がいいですかそれともあちらの方がいいですか.mp3"
+        "en": "Is this one better, or is that one better?"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "さっき～ (sakki～)",
@@ -2694,30 +2220,24 @@
       {
         "jp": "さっき電話がありました。",
         "romaji": "Sakki denwa ga arimashita.",
-        "en": "There was a phone call just now.",
-        "grammar_audio": "/audio/grammar/s_さっきsakki_20230511_さっき電話がありました.mp3"
+        "en": "There was a phone call just now."
       },
       {
         "jp": "さっき部屋を掃除しました。",
         "romaji": "Sakki heya wo souji shimashita.",
-        "en": "I cleaned the room a short while ago.",
-        "grammar_audio": "/audio/grammar/s_さっきsakki_20230511_さっき部屋を掃除しました.mp3"
+        "en": "I cleaned the room a short while ago."
       },
       {
         "jp": "さっき彼に会いました。",
         "romaji": "Sakki kare ni aimashita.",
-        "en": "I met him just now.",
-        "grammar_audio": "/audio/grammar/s_さっきsakki_20230511_さっき彼に会いました.mp3"
+        "en": "I met him just now."
       },
       {
         "jp": "さっきのニュースを見ましたか？",
         "romaji": "Sakki no nyuusu wo mimashita ka?",
-        "en": "Did you watch the news a short time ago?",
-        "grammar_audio": "/audio/grammar/s_さっきsakki_20230511_さっきのニュースを見ましたか.mp3"
+        "en": "Did you watch the news a short time ago?"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "すぐに～ (sugu ni～)",
@@ -2728,30 +2248,24 @@
       {
         "jp": "友達が来たら、すぐに電話をかけてください。",
         "romaji": "Tomodachi ga kitara, sugu ni denwa wo kakete kudasai.",
-        "en": "When my friend arrives, please call me right away.",
-        "grammar_audio": "/audio/grammar/s_すぐにsuguni_20230511_友達が来たらすぐに電話をかけてください.mp3"
+        "en": "When my friend arrives, please call me right away."
       },
       {
         "jp": "そのニュースを聞いたら、すぐに会社に行きました。",
         "romaji": "Sono nyuusu wo kiitara, sugu ni kaisha ni ikimashita.",
-        "en": "Upon hearing that news, I went to the company immediately.",
-        "grammar_audio": "/audio/grammar/s_すぐにsuguni_20230511_そのニュースを聞いたらすぐに会社に行きました.mp3"
+        "en": "Upon hearing that news, I went to the company immediately."
       },
       {
         "jp": "彼女はすぐに泣き出した。",
         "romaji": "Kanojo wa sugu ni nakidashita.",
-        "en": "She started crying right away.",
-        "grammar_audio": "/audio/grammar/s_すぐにsuguni_20230511_彼女はすぐに泣き出した.mp3"
+        "en": "She started crying right away."
       },
       {
         "jp": "教室に入ると、先生はすぐに授業を始めた。",
         "romaji": "Kyoushitsu ni hairu to, sensei wa sugu ni jugyou wo hajimeta.",
-        "en": "As soon as I entered the classroom, the teacher started the lesson immediately.",
-        "grammar_audio": "/audio/grammar/s_すぐにsuguni_20230511_教室に入ると先生はすぐに授業を始めた.mp3"
+        "en": "As soon as I entered the classroom, the teacher started the lesson immediately."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "ぜんぜん～ (zenzen～)",
@@ -2762,30 +2276,24 @@
       {
         "jp": "彼はぜんぜん話さない。",
         "romaji": "Kare wa zenzen hanasanai.",
-        "en": "He doesn't talk at all.",
-        "grammar_audio": "/audio/grammar/s_ぜんぜんzenzen_20230511_彼はぜんぜん話さない.mp3"
+        "en": "He doesn't talk at all."
       },
       {
         "jp": "この部屋はぜんぜん暗くない。",
         "romaji": "Kono heya wa zenzen kurakunai.",
-        "en": "This room is not dark at all.",
-        "grammar_audio": "/audio/grammar/s_ぜんぜんzenzen_20230511_この部屋はぜんぜん暗くない.mp3"
+        "en": "This room is not dark at all."
       },
       {
         "jp": "彼女はぜんぜん疲れていない。",
         "romaji": "Kanojo wa zenzen tsukarete inai.",
-        "en": "She is not tired at all.",
-        "grammar_audio": "/audio/grammar/s_ぜんぜんzenzen_20230511_彼女はぜんぜん疲れていない.mp3"
+        "en": "She is not tired at all."
       },
       {
         "jp": "その映画はぜんぜん面白くなかった。",
         "romaji": "Sono eiga wa zenzen omoshirokunakatta.",
-        "en": "That movie was not interesting at all.",
-        "grammar_audio": "/audio/grammar/s_ぜんぜんzenzen_20230511_その映画はぜんぜん面白くなかった.mp3"
+        "en": "That movie was not interesting at all."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "そして、～ (soshite、～)",
@@ -2796,30 +2304,24 @@
       {
         "jp": "朝起きて、そして宿題をしました。",
         "romaji": "Asa okite, soshite shukudai wo shimashita.",
-        "en": "I woke up in the morning and then I did my homework.",
-        "grammar_audio": "/audio/grammar/s_そしてsoshite_20230511_朝起きてそして宿題をしました.mp3"
+        "en": "I woke up in the morning and then I did my homework."
       },
       {
         "jp": "コーヒーを飲んで、そして新聞を読みました。",
         "romaji": "Kōhī wo nonde, soshite shinbun wo yomimashita.",
-        "en": "I drank coffee and then read the newspaper.",
-        "grammar_audio": "/audio/grammar/s_そしてsoshite_20230511_コーヒーを飲んでそして新聞を読みました.mp3"
+        "en": "I drank coffee and then read the newspaper."
       },
       {
         "jp": "家を出発しました。そして、駅へ行きました。",
         "romaji": "Ie wo shuppatsu shimashita. Soshite, eki e ikimashita.",
-        "en": "I left my house and then went to the station.",
-        "grammar_audio": "/audio/grammar/s_そしてsoshite_20230511_家を出発しましたそして駅へ行きました.mp3"
+        "en": "I left my house and then went to the station."
       },
       {
         "jp": "彼はゲームをした。そして、テレビを見ました。",
         "romaji": "Kare wa gēmu wo shita. Soshite, terebi wo mimashita.",
-        "en": "He played games and then watched TV.",
-        "grammar_audio": "/audio/grammar/s_そしてsoshite_20230511_彼はゲームをしたそしてテレビを見ました.mp3"
+        "en": "He played games and then watched TV."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "そちら～ (sochira～)",
@@ -2830,30 +2332,24 @@
       {
         "jp": "そちらのレストランはどうですか？",
         "romaji": "Sochira no resutoran wa dou desu ka?",
-        "en": "How is that restaurant over there?",
-        "grammar_audio": "/audio/grammar/s_そちらsochira_20230511_そちらのレストランはどうですか.mp3"
+        "en": "How is that restaurant over there?"
       },
       {
         "jp": "そちらの方、お名前を教えていただけますか？",
         "romaji": "Sochira no kata, onamae o oshiete itadakemasu ka?",
-        "en": "Can you tell me the name of that person over there?",
-        "grammar_audio": "/audio/grammar/s_そちらsochira_20230511_そちらの方お名前を教えていただけますか.mp3"
+        "en": "Can you tell me the name of that person over there?"
       },
       {
         "jp": "そちらに行く途中で駅があります。",
         "romaji": "Sochira ni iku tochuu de eki ga arimasu.",
-        "en": "There is a station on the way to that direction.",
-        "grammar_audio": "/audio/grammar/s_そちらsochira_20230511_そちらに行く途中で駅があります.mp3"
+        "en": "There is a station on the way to that direction."
       },
       {
         "jp": "そちらのかばん、私のと似ていますね。",
         "romaji": "Sochira no kaban, watashi no to niteimasu ne.",
-        "en": "That bag over there looks similar to mine.",
-        "grammar_audio": "/audio/grammar/s_そちらsochira_20230511_そちらのかばん私のと似ていますね.mp3"
+        "en": "That bag over there looks similar to mine."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "それから、～ (sorekara、～)",
@@ -2864,30 +2360,24 @@
       {
         "jp": "コーヒーを飲んで、それから家を出ました。",
         "romaji": "Kōhī o nonde, sorekara ie o demashita.",
-        "en": "I drank coffee, and then I left the house.",
-        "grammar_audio": "/audio/grammar/s_それからsorekara_20230511_コーヒーを飲んでそれから家を出ました.mp3"
+        "en": "I drank coffee, and then I left the house."
       },
       {
         "jp": "買い物をして、それから映画を見に行きました。",
         "romaji": "Kaimono o shite, sorekara eiga o mini ikimashita.",
-        "en": "I went shopping, and then I went to watch a movie.",
-        "grammar_audio": "/audio/grammar/s_それからsorekara_20230511_買い物をしてそれから映画を見に行きました.mp3"
+        "en": "I went shopping, and then I went to watch a movie."
       },
       {
         "jp": "彼女は勉強をして、それから寝ました。",
         "romaji": "Kanojo wa benkyou o shite, sorekara nemashita.",
-        "en": "She studied, and then she went to sleep.",
-        "grammar_audio": "/audio/grammar/s_それからsorekara_20230511_彼女は勉強をしてそれから寝ました.mp3"
+        "en": "She studied, and then she went to sleep."
       },
       {
         "jp": "パーティーに行って、それから友達と話しました。",
         "romaji": "Paatii ni itte, sorekara tomodachi to hanashimashita.",
-        "en": "I went to the party, and then I talked with my friends.",
-        "grammar_audio": "/audio/grammar/s_それからsorekara_20230511_パーティーに行ってそれから友達と話しました.mp3"
+        "en": "I went to the party, and then I talked with my friends."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "だいたい〜 (daitai〜)",
@@ -2898,30 +2388,24 @@
       {
         "jp": "だいたい１００人がパーティーに参加しました。",
         "romaji": "Daitai hyaku nin ga paatii ni sanka shimashita.",
-        "en": "Approximately 100 people attended the party.",
-        "grammar_audio": "/audio/grammar/s_だいたいdaitai_20230511_だいたい１００人がパーティーに参加しました.mp3"
+        "en": "Approximately 100 people attended the party."
       },
       {
         "jp": "彼女はだいたい２時間でその仕事を終えます。",
         "romaji": "Kanojo wa daitai ni jikan de sono shigoto o oemasu.",
-        "en": "She finishes that work in roughly two hours.",
-        "grammar_audio": "/audio/grammar/s_だいたいdaitai_20230511_彼女はだいたい２時間でその仕事を終えます.mp3"
+        "en": "She finishes that work in roughly two hours."
       },
       {
         "jp": "だいたい８０％の生徒が試験に合格しました。",
         "romaji": "Daitai hachijuu paasento no seito ga shiken ni goukaku shimashita.",
-        "en": "About 80% of the students passed the exam.",
-        "grammar_audio": "/audio/grammar/s_だいたいdaitai_20230511_だいたい８０％の生徒が試験に合格しました.mp3"
+        "en": "About 80% of the students passed the exam."
       },
       {
         "jp": "今日はだいたい３０度の暑さです。",
         "romaji": "Kyou wa daitai sanjuu-do no atsusa desu.",
-        "en": "Today is almost 30 degrees hot.",
-        "grammar_audio": "/audio/grammar/s_だいたいdaitai_20230511_今日はだいたい３０度の暑さです.mp3"
+        "en": "Today is almost 30 degrees hot."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "たいてい～ (taitei～)",
@@ -2932,30 +2416,24 @@
       {
         "jp": "たいてい朝８時に起きます。",
         "romaji": "Taitei asa hachi-ji ni okimasu.",
-        "en": "I usually wake up at 8 o'clock in the morning.",
-        "grammar_audio": "/audio/grammar/s_たいていtaitei_20230511_たいてい朝８時に起きます.mp3"
+        "en": "I usually wake up at 8 o'clock in the morning."
       },
       {
         "jp": "彼はたいてい遅刻します。",
         "romaji": "Kare wa taitei chikoku shimasu.",
-        "en": "He is usually late.",
-        "grammar_audio": "/audio/grammar/s_たいていtaitei_20230511_彼はたいてい遅刻します.mp3"
+        "en": "He is usually late."
       },
       {
         "jp": "この店の商品はたいてい安いです。",
         "romaji": "Kono mise no shouhin wa taitei yasui desu.",
-        "en": "The items at this store are usually cheap.",
-        "grammar_audio": "/audio/grammar/s_たいていtaitei_20230511_この店の商品はたいてい安いです.mp3"
+        "en": "The items at this store are usually cheap."
       },
       {
         "jp": "たいていの人はその映画が好きです。",
         "romaji": "Taitei no hito wa sono eiga ga suki desu.",
-        "en": "Most people like that movie.",
-        "grammar_audio": "/audio/grammar/s_たいていtaitei_20230511_たいていの人はその映画が好きです.mp3"
+        "en": "Most people like that movie."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "だから、～ (dakara、～)",
@@ -2966,30 +2444,24 @@
       {
         "jp": "雨が降っているだから、傘を持って行きましょう。",
         "romaji": "Ame ga futte iru dakara, kasa wo motte ikimashou.",
-        "en": "Because it is raining, let's bring an umbrella.",
-        "grammar_audio": "/audio/grammar/s_だからdakara_20230511_雨が降っているだから傘を持って行きましょう.mp3"
+        "en": "Because it is raining, let's bring an umbrella."
       },
       {
         "jp": "このケーキは美味しいだから、みんなが食べたいです。",
         "romaji": "Kono keeki wa oishii dakara, minna ga tabetai desu.",
-        "en": "Because this cake is delicious, everyone wants to eat it.",
-        "grammar_audio": "/audio/grammar/s_だからdakara_20230511_このケーキは美味しいだからみんなが食べたいです.mp3"
+        "en": "Because this cake is delicious, everyone wants to eat it."
       },
       {
         "jp": "彼は病気だから、学校に行けません。",
         "romaji": "Kare wa byouki dakara, gakkou ni ikemasen.",
-        "en": "Because he is sick, he cannot go to school.",
-        "grammar_audio": "/audio/grammar/s_だからdakara_20230511_彼は病気だから学校に行けません.mp3"
+        "en": "Because he is sick, he cannot go to school."
       },
       {
         "jp": "彼女は学生だから、このレストランで割引があります。",
         "romaji": "Kanojo wa gakusei dakara, kono resutoran de waribiki ga arimasu.",
-        "en": "Because she is a student, there is a discount at this restaurant.",
-        "grammar_audio": "/audio/grammar/s_だからdakara_20230511_彼女は学生だからこのレストランで割引があります.mp3"
+        "en": "Because she is a student, there is a discount at this restaurant."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "～たり、～たり します (〜tari, 〜tari shimasu)",
@@ -3000,30 +2472,24 @@
       {
         "jp": "休日には、映画を見たり、友達と遊んだりします。",
         "romaji": "Kyuujitsu niwa, eiga wo mitari, tomodachi to asondari shimasu.",
-        "en": "On holidays, I do things like watch movies and hang out with friends.",
-        "grammar_audio": "/audio/grammar/s_たりたりしますtari,tarishimasu_20230511_休日には映画を見たり友達と遊んだりします.mp3"
+        "en": "On holidays, I do things like watch movies and hang out with friends."
       },
       {
         "jp": "彼は歌ったり、踊ったり、ピアノを弾いたりします。",
         "romaji": "Kare wa utattari, odottari, piano wo hikitari shimasu.",
-        "en": "He sings, dances, plays the piano, among other things.",
-        "grammar_audio": "/audio/grammar/s_たりたりしますtari,tarishimasu_20230511_彼は歌ったり踊ったりピアノを弾いたりします.mp3"
+        "en": "He sings, dances, plays the piano, among other things."
       },
       {
         "jp": "このレストランでは、寿司を食べたり、刺身を食べたりします。",
         "romaji": "Kono resutoran de wa, sushi wo tabetari, sashimi wo tabetari shimasu.",
-        "en": "At this restaurant, you can eat sushi, sashimi, and so on.",
-        "grammar_audio": "/audio/grammar/s_たりたりしますtari,tarishimasu_20230511_このレストランでは寿司を食べたり刺身を食べたりします.mp3"
+        "en": "At this restaurant, you can eat sushi, sashimi, and so on."
       },
       {
         "jp": "彼女は毎朝、ジョギングしたり、ヨガをしたりします。",
         "romaji": "Kanojo wa maiasa, joggingu shitari, yoga wo shitari shimasu.",
-        "en": "Every morning, she does things like jogging and yoga.",
-        "grammar_audio": "/audio/grammar/s_たりたりしますtari,tarishimasu_20230511_彼女は毎朝ジョギングしたりヨガをしたりします.mp3"
+        "en": "Every morning, she does things like jogging and yoga."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "だれ～ (dare～)",
@@ -3034,30 +2500,24 @@
       {
         "jp": "だれがその本を買いましたか。",
         "romaji": "Dare ga sono hon o kaimashita ka.",
-        "en": "Who bought that book?",
-        "grammar_audio": "/audio/grammar/s_だれdare_20230511_だれがその本を買いましたか.mp3"
+        "en": "Who bought that book?"
       },
       {
         "jp": "だれを待っていますか。",
         "romaji": "Dare o matteimasu ka.",
-        "en": "Whom are you waiting for?",
-        "grammar_audio": "/audio/grammar/s_だれdare_20230511_だれを待っていますか.mp3"
+        "en": "Whom are you waiting for?"
       },
       {
         "jp": "だれがそのリンゴを食べましたか。",
         "romaji": "Dare ga sono ringo o tabemashita ka.",
-        "en": "Who ate that apple?",
-        "grammar_audio": "/audio/grammar/s_だれdare_20230511_だれがそのリンゴを食べましたか.mp3"
+        "en": "Who ate that apple?"
       },
       {
         "jp": "だれが鍵を持っていますか。",
         "romaji": "Dare ga kagi o motteimasu ka.",
-        "en": "Who has the key?",
-        "grammar_audio": "/audio/grammar/s_だれdare_20230511_だれが鍵を持っていますか.mp3"
+        "en": "Who has the key?"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "だれか〜 (dareka〜)",
@@ -3068,30 +2528,24 @@
       {
         "jp": "だれかがドアをノックしました。",
         "romaji": "Dareka ga doa wo nokku shimashita.",
-        "en": "Someone knocked on the door.",
-        "grammar_audio": "/audio/grammar/s_だれかdareka_20230511_だれかがドアをノックしました.mp3"
+        "en": "Someone knocked on the door."
       },
       {
         "jp": "だれかが私の傘を盗みました。",
         "romaji": "Dareka ga watashi no kasa wo nusumimashita.",
-        "en": "Someone stole my umbrella.",
-        "grammar_audio": "/audio/grammar/s_だれかdareka_20230511_だれかが私の傘を盗みました.mp3"
+        "en": "Someone stole my umbrella."
       },
       {
         "jp": "だれか助けてください。",
         "romaji": "Dareka tasukete kudasai.",
-        "en": "Someone, please help.",
-        "grammar_audio": "/audio/grammar/s_だれかdareka_20230511_だれか助けてください.mp3"
+        "en": "Someone, please help."
       },
       {
         "jp": "だれかのせいで、電気がきれました。",
         "romaji": "Dareka no sei de, denki ga kiremashita.",
-        "en": "Because of someone, the electricity went out.",
-        "grammar_audio": "/audio/grammar/s_だれかdareka_20230511_だれかのせいで電気がきれました.mp3"
+        "en": "Because of someone, the electricity went out."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "だれでも～ (dare demo～)",
@@ -3102,30 +2556,24 @@
       {
         "jp": "だれでもこのゲームができます。",
         "romaji": "Dare demo kono geemu ga dekimasu.",
-        "en": "Anyone can play this game.",
-        "grammar_audio": "/audio/grammar/s_だれでもdaredemo_20230511_だれでもこのゲームができます.mp3"
+        "en": "Anyone can play this game."
       },
       {
         "jp": "だれでも疲れることがあります。",
         "romaji": "Dare demo tsukareru koto ga arimasu.",
-        "en": "Everyone gets tired sometimes.",
-        "grammar_audio": "/audio/grammar/s_だれでもdaredemo_20230511_だれでも疲れることがあります.mp3"
+        "en": "Everyone gets tired sometimes."
       },
       {
         "jp": "だれでも無料でこのイベントに参加できます。",
         "romaji": "Dare demo muryou de kono ibento ni sanka dekimasu.",
-        "en": "Anyone can participate in this event for free.",
-        "grammar_audio": "/audio/grammar/s_だれでもdaredemo_20230511_だれでも無料でこのイベントに参加できます.mp3"
+        "en": "Anyone can participate in this event for free."
       },
       {
         "jp": "だれでもこの町の観光スポットを楽しむことができます。",
         "romaji": "Dare demo kono machi no kankou supotto wo tanoshimu koto ga dekimasu.",
-        "en": "No matter who you are, you can enjoy the sightseeing spots in this town.",
-        "grammar_audio": "/audio/grammar/s_だれでもdaredemo_20230511_だれでもこの町の観光スポットを楽しむことができます.mp3"
+        "en": "No matter who you are, you can enjoy the sightseeing spots in this town."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "だれも～ないです (dare mo ~ nai desu)",
@@ -3136,30 +2584,24 @@
       {
         "jp": "だれも知らないです。",
         "romaji": "Daremo shiranai desu.",
-        "en": "Nobody knows.",
-        "grammar_audio": "/audio/grammar/s_だれもないですdaremo~naidesu_20230511_だれも知らないです.mp3"
+        "en": "Nobody knows."
       },
       {
         "jp": "だれも来ないです。",
         "romaji": "Daremo konai desu.",
-        "en": "Nobody is coming.",
-        "grammar_audio": "/audio/grammar/s_だれもないですdaremo~naidesu_20230511_だれも来ないです.mp3"
+        "en": "Nobody is coming."
       },
       {
         "jp": "彼女はだれも好きじゃないです。",
         "romaji": "Kanojo wa daremo suki ja nai desu.",
-        "en": "She doesn't like anyone.",
-        "grammar_audio": "/audio/grammar/s_だれもないですdaremo~naidesu_20230511_彼女はだれも好きじゃないです.mp3"
+        "en": "She doesn't like anyone."
       },
       {
         "jp": "ここにはだれもいないです。",
         "romaji": "Koko ni wa daremo inai desu.",
-        "en": "There is nobody here.",
-        "grammar_audio": "/audio/grammar/s_だれもないですdaremo~naidesu_20230511_ここにはだれもいないです.mp3"
+        "en": "There is nobody here."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "だれも～ません (daremo ~masen)",
@@ -3170,30 +2612,24 @@
       {
         "jp": "だれも秘密を知りません。",
         "romaji": "Daremo himitsu wo shirimasen.",
-        "en": "No one knows the secret.",
-        "grammar_audio": "/audio/grammar/s_だれもませんdaremo~masen_20230511_だれも秘密を知りません.mp3"
+        "en": "No one knows the secret."
       },
       {
         "jp": "だれもその質問に答えませんでした。",
         "romaji": "Daremo sono shitsumon ni kotae masen deshita.",
-        "en": "Nobody answered that question.",
-        "grammar_audio": "/audio/grammar/s_だれもませんdaremo~masen_20230511_だれもその質問に答えませんでした.mp3"
+        "en": "Nobody answered that question."
       },
       {
         "jp": "だれも彼を助けてあげません。",
         "romaji": "Daremo kare wo tasukete agemasen.",
-        "en": "Nobody will help him.",
-        "grammar_audio": "/audio/grammar/s_だれもませんdaremo~masen_20230511_だれも彼を助けてあげません.mp3"
+        "en": "Nobody will help him."
       },
       {
         "jp": "だれもその映画を見たがりません。",
         "romaji": "Daremo sono eiga wo mitagari masen.",
-        "en": "No one wants to watch that movie.",
-        "grammar_audio": "/audio/grammar/s_だれもませんdaremo~masen_20230511_だれもその映画を見たがりません.mp3"
+        "en": "No one wants to watch that movie."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "～どう しますか。 (～dou shimasu ka.)",
@@ -3204,30 +2640,24 @@
       {
         "jp": "雨が降っているので、どうしますか？",
         "romaji": "Ame ga futte iru node, dou shimasu ka?",
-        "en": "It's raining, so what will you do?",
-        "grammar_audio": "/audio/grammar/s_どうしますかdoushimasuka._20230511_雨が降っているのでどうしますか.mp3"
+        "en": "It's raining, so what will you do?"
       },
       {
         "jp": "この問題について、どうしますか？",
         "romaji": "Kono mondai ni tsuite, dou shimasu ka?",
-        "en": "What are you going to do about this issue?",
-        "grammar_audio": "/audio/grammar/s_どうしますかdoushimasuka._20230511_この問題についてどうしますか.mp3"
+        "en": "What are you going to do about this issue?"
       },
       {
         "jp": "彼が来なかったら、どうしますか？",
         "romaji": "Kare ga konakattara, dou shimasu ka?",
-        "en": "If he doesn't come, what will you do?",
-        "grammar_audio": "/audio/grammar/s_どうしますかdoushimasuka._20230511_彼が来なかったらどうしますか.mp3"
+        "en": "If he doesn't come, what will you do?"
       },
       {
         "jp": "進路を決める時、どうしますか？",
         "romaji": "Shinro wo kimeru toki, dou shimasu ka?",
-        "en": "What will you do when choosing your career path?",
-        "grammar_audio": "/audio/grammar/s_どうしますかdoushimasuka._20230511_進路を決める時どうしますか.mp3"
+        "en": "What will you do when choosing your career path?"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "～どうですか。 (〜dou desu ka.)",
@@ -3238,30 +2668,24 @@
       {
         "jp": "この映画はどうですか？",
         "romaji": "Kono eiga wa dou desu ka?",
-        "en": "How about this movie? / What do you think of this movie?",
-        "grammar_audio": "/audio/grammar/s_どうですかdoudesuka._20230511_この映画はどうですか.mp3"
+        "en": "How about this movie? / What do you think of this movie?"
       },
       {
         "jp": "晩ご飯に寿司を食べるのはどうですか？",
         "romaji": "Bangohan ni sushi wo taberu no wa dou desu ka?",
-        "en": "How about eating sushi for dinner?",
-        "grammar_audio": "/audio/grammar/s_どうですかdoudesuka._20230511_晩ご飯に寿司を食べるのはどうですか.mp3"
+        "en": "How about eating sushi for dinner?"
       },
       {
         "jp": "この部屋は広いと思いますが、どうですか？",
         "romaji": "Kono heya wa hiroi to omoimasu ga, dou desu ka?",
-        "en": "I think this room is spacious, what do you think?",
-        "grammar_audio": "/audio/grammar/s_どうですかdoudesuka._20230511_この部屋は広いと思いますがどうですか.mp3"
+        "en": "I think this room is spacious, what do you think?"
       },
       {
         "jp": "新しい会社の要件が厳しいですね。鈴木さん、転職するならどうですか？",
         "romaji": "Atarashii kaisha no youken ga kibishii desu ne. Suzuki-san, tenshoku suru nara dou desu ka?",
-        "en": "The new company's requirements are strict, aren't they? Suzuki-san, how about changing jobs if that's the case?",
-        "grammar_audio": "/audio/grammar/s_どうですかdoudesuka._20230511_新しい会社の要件が厳しいですね鈴木さん転職するならどうですか.mp3"
+        "en": "The new company's requirements are strict, aren't they? Suzuki-san, how about changing jobs if that's the case?"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "どうやって～ (douyatte～)",
@@ -3272,30 +2696,24 @@
       {
         "jp": "どうやってお寿司を作りますか？",
         "romaji": "Douyatte o-sushi wo tsukurimasu ka?",
-        "en": "How do you make sushi?",
-        "grammar_audio": "/audio/grammar/s_どうやってdouyatte_20230511_どうやってお寿司を作りますか.mp3"
+        "en": "How do you make sushi?"
       },
       {
         "jp": "どうやって日本語を勉強しましたか？",
         "romaji": "Douyatte nihongo wo benkyou shimashita ka?",
-        "en": "How did you study Japanese?",
-        "grammar_audio": "/audio/grammar/s_どうやってdouyatte_20230511_どうやって日本語を勉強しましたか.mp3"
+        "en": "How did you study Japanese?"
       },
       {
         "jp": "どうやってこの問題を解決しますか？",
         "romaji": "Douyatte kono mondai wo kaiketsu shimasu ka?",
-        "en": "How do you solve this problem?",
-        "grammar_audio": "/audio/grammar/s_どうやってdouyatte_20230511_どうやってこの問題を解決しますか.mp3"
+        "en": "How do you solve this problem?"
       },
       {
         "jp": "どうやって駅に行きますか？",
         "romaji": "Douyatte eki ni ikimasu ka?",
-        "en": "How do you go to the station?",
-        "grammar_audio": "/audio/grammar/s_どうやってdouyatte_20230511_どうやって駅に行きますか.mp3"
+        "en": "How do you go to the station?"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "～どう 言いますか。 (〜dou iimasu ka.)",
@@ -3306,30 +2724,24 @@
       {
         "jp": "「ありがとう」は英語でどう言いますか。",
         "romaji": "「Arigatou」wa eigo de dou iimasu ka.",
-        "en": "How do you say 'thank you' in English?",
-        "grammar_audio": "/audio/grammar/s_どう言いますかdouiimasuka._20230511_「ありがとう」は英語でどう言いますか.mp3"
+        "en": "How do you say 'thank you' in English?"
       },
       {
         "jp": "この言葉を日本語でどう言いますか。",
         "romaji": "Kono kotoba wo nihongo de dou iimasu ka.",
-        "en": "How do you say this word in Japanese?",
-        "grammar_audio": "/audio/grammar/s_どう言いますかdouiimasuka._20230511_この言葉を日本語でどう言いますか.mp3"
+        "en": "How do you say this word in Japanese?"
       },
       {
         "jp": "「すみません」はフランス語でどう言いますか。",
         "romaji": "「Sumimasen」wa furansugo de dou iimasu ka.",
-        "en": "How do you say 'excuse me' in French?",
-        "grammar_audio": "/audio/grammar/s_どう言いますかdouiimasuka._20230511_「すみません」はフランス語でどう言いますか.mp3"
+        "en": "How do you say 'excuse me' in French?"
       },
       {
         "jp": "その表現をスペイン語でどう言いますか。",
         "romaji": "Sono hyougen wo supeingo de dou iimasu ka.",
-        "en": "How do you say that expression in Spanish?",
-        "grammar_audio": "/audio/grammar/s_どう言いますかdouiimasuka._20230511_その表現をスペイン語でどう言いますか.mp3"
+        "en": "How do you say that expression in Spanish?"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "～とき (〜toki)",
@@ -3340,30 +2752,24 @@
       {
         "jp": "公園で遊ぶとき、帽子をかぶりましょう。",
         "romaji": "Kouen de asobu toki, boushi wo kaburimashou.",
-        "en": "When playing in the park, let's wear a hat.",
-        "grammar_audio": "/audio/grammar/s_ときtoki_20230511_公園で遊ぶとき帽子をかぶりましょう.mp3"
+        "en": "When playing in the park, let's wear a hat."
       },
       {
         "jp": "このりんごが赤いとき、食べごろです。",
         "romaji": "Kono ringo ga akai toki, tabegoro desu.",
-        "en": "This apple is ready to eat when it is red.",
-        "grammar_audio": "/audio/grammar/s_ときtoki_20230511_このりんごが赤いとき食べごろです.mp3"
+        "en": "This apple is ready to eat when it is red."
       },
       {
         "jp": "私が勉強するなとき、家族は静かにしてくれます。",
         "romaji": "Watashi ga benkyou suru na toki, kazoku wa shizuka ni shite kuremasu.",
-        "en": "When I am studying, my family keeps quiet for me.",
-        "grammar_audio": "/audio/grammar/s_ときtoki_20230511_私が勉強するなとき家族は静かにしてくれます.mp3"
+        "en": "When I am studying, my family keeps quiet for me."
       },
       {
         "jp": "子供のとき、よくおばあちゃんの家に遊びに行きました。",
         "romaji": "Kodomo no toki, yoku obaachan no ie ni asobi ni ikimashita.",
-        "en": "When I was a child, I often went to play at my grandmother's house.",
-        "grammar_audio": "/audio/grammar/s_ときtoki_20230511_子供のときよくおばあちゃんの家に遊びに行きました.mp3"
+        "en": "When I was a child, I often went to play at my grandmother's house."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "ときどき～ (tokidoki～)",
@@ -3374,30 +2780,24 @@
       {
         "jp": "彼はときどきケーキを作ります。",
         "romaji": "Kare wa tokidoki keeki o tsukurimasu.",
-        "en": "He sometimes makes cakes.",
-        "grammar_audio": "/audio/grammar/s_ときどきtokidoki_20230511_彼はときどきケーキを作ります.mp3"
+        "en": "He sometimes makes cakes."
       },
       {
         "jp": "ときどき雨が降るので、傘を持って行ったほうがいいです。",
         "romaji": "Tokidoki ame ga furu node, kasa o motte itta hou ga ii desu.",
-        "en": "It occasionally rains, so it's better to bring an umbrella.",
-        "grammar_audio": "/audio/grammar/s_ときどきtokidoki_20230511_ときどき雨が降るので傘を持って行ったほうがいいです.mp3"
+        "en": "It occasionally rains, so it's better to bring an umbrella."
       },
       {
         "jp": "私はときどきこの店で買い物をします。",
         "romaji": "Watashi wa tokidoki kono mise de kaimono o shimasu.",
-        "en": "I shop at this store now and then.",
-        "grammar_audio": "/audio/grammar/s_ときどきtokidoki_20230511_私はときどきこの店で買い物をします.mp3"
+        "en": "I shop at this store now and then."
       },
       {
         "jp": "彼女はときどき遅刻します。",
         "romaji": "Kanojo wa tokidoki chikoku shimasu.",
-        "en": "She is sometimes late.",
-        "grammar_audio": "/audio/grammar/s_ときどきtokidoki_20230511_彼女はときどき遅刻します.mp3"
+        "en": "She is sometimes late."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "100"
+    ]
   },
   {
     "title": "どこ～ (doko～)",
@@ -3408,30 +2808,24 @@
       {
         "jp": "駅はどこですか？",
         "romaji": "Eki wa doko desu ka?",
-        "en": "Where is the station?",
-        "grammar_audio": "/audio/grammar/s_どこdoko_20230511_駅はどこですか.mp3"
+        "en": "Where is the station?"
       },
       {
         "jp": "どこで映画を見ましたか？",
         "romaji": "Doko de eiga wo mimashita ka?",
-        "en": "Where did you watch the movie?",
-        "grammar_audio": "/audio/grammar/s_どこdoko_20230511_どこで映画を見ましたか.mp3"
+        "en": "Where did you watch the movie?"
       },
       {
         "jp": "どこに住んでいますか？",
         "romaji": "Doko ni sunde imasu ka?",
-        "en": "Where do you live?",
-        "grammar_audio": "/audio/grammar/s_どこdoko_20230511_どこに住んでいますか.mp3"
+        "en": "Where do you live?"
       },
       {
         "jp": "どこへ行きたいですか？",
         "romaji": "Doko e ikitai desu ka?",
-        "en": "Where do you want to go?",
-        "grammar_audio": "/audio/grammar/s_どこdoko_20230511_どこへ行きたいですか.mp3"
+        "en": "Where do you want to go?"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "どこか～ (dokoka～)",
@@ -3442,30 +2836,24 @@
       {
         "jp": "どこかで財布をなくしました。",
         "romaji": "Dokoka de saifu wo nakushimashita.",
-        "en": "I lost my wallet somewhere.",
-        "grammar_audio": "/audio/grammar/s_どこかdokoka_20230511_どこかで財布をなくしました.mp3"
+        "en": "I lost my wallet somewhere."
       },
       {
         "jp": "今日はどこかに行きたいです。",
         "romaji": "Kyou wa dokoka ni ikitai desu.",
-        "en": "I want to go somewhere today.",
-        "grammar_audio": "/audio/grammar/s_どこかdokoka_20230511_今日はどこかに行きたいです.mp3"
+        "en": "I want to go somewhere today."
       },
       {
         "jp": "どこか安いレストランがありますか？",
         "romaji": "Dokoka yasui resutoran ga arimasu ka?",
-        "en": "Is there a cheap restaurant somewhere?",
-        "grammar_audio": "/audio/grammar/s_どこかdokoka_20230511_どこか安いレストランがありますか.mp3"
+        "en": "Is there a cheap restaurant somewhere?"
       },
       {
         "jp": "どこか静かな場所で勉強したい。",
         "romaji": "Dokoka shizuka na basho de benkyou shitai.",
-        "en": "I want to study in a quiet place somewhere.",
-        "grammar_audio": "/audio/grammar/s_どこかdokoka_20230511_どこか静かな場所で勉強したい.mp3"
+        "en": "I want to study in a quiet place somewhere."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "どこでも～ (dokodemo～)",
@@ -3476,30 +2864,24 @@
       {
         "jp": "どこでも好きな場所で勉強できます。",
         "romaji": "Dokodemo sukina basho de benkyou dekimasu.",
-        "en": "You can study anywhere you like.",
-        "grammar_audio": "/audio/grammar/s_どこでもdokodemo_20230511_どこでも好きな場所で勉強できます.mp3"
+        "en": "You can study anywhere you like."
       },
       {
         "jp": "このノートパソコンは便利なので、どこでもインターネットが使えます。",
         "romaji": "Kono nootopasokon wa benri nano de, dokodemo intaanetto ga tsukaemasu.",
-        "en": "This laptop is convenient, so you can use the internet anywhere.",
-        "grammar_audio": "/audio/grammar/s_どこでもdokodemo_20230511_このノートパソコンは便利なのでどこでもインターネットが使えます.mp3"
+        "en": "This laptop is convenient, so you can use the internet anywhere."
       },
       {
         "jp": "彼はどこでも寝ることができます。",
         "romaji": "Kare wa dokodemo neru koto ga dekimasu.",
-        "en": "He can sleep anywhere.",
-        "grammar_audio": "/audio/grammar/s_どこでもdokodemo_20230511_彼はどこでも寝ることができます.mp3"
+        "en": "He can sleep anywhere."
       },
       {
         "jp": "彼女はどこでも歌うのが大好きです。",
         "romaji": "Kanojo wa dokodemo utau no ga daisuki desu.",
-        "en": "She loves singing anywhere.",
-        "grammar_audio": "/audio/grammar/s_どこでもdokodemo_20230511_彼女はどこでも歌うのが大好きです.mp3"
+        "en": "She loves singing anywhere."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "どこにも + Verb + ないです (doko ni mo + Verb + nai desu)",
@@ -3510,30 +2892,24 @@
       {
         "jp": "どこにも傘が売ってないです。",
         "romaji": "Doko ni mo kasa ga uttenai desu.",
-        "en": "Umbrellas are not sold anywhere.",
-        "grammar_audio": "/audio/grammar/s_どこにも+Verb+ないですdokonimo+Verb+naidesu_20230511_どこにも傘が売ってないです.mp3"
+        "en": "Umbrellas are not sold anywhere."
       },
       {
         "jp": "彼はどこにも見つけられないです。",
         "romaji": "Kare wa doko ni mo mitsukerarenai desu.",
-        "en": "He cannot be found anywhere.",
-        "grammar_audio": "/audio/grammar/s_どこにも+Verb+ないですdokonimo+Verb+naidesu_20230511_彼はどこにも見つけられないです.mp3"
+        "en": "He cannot be found anywhere."
       },
       {
         "jp": "どこにも勉強できる場所がないです。",
         "romaji": "Doko ni mo benkyou dekiru basho ga nai desu.",
-        "en": "There is no place to study anywhere.",
-        "grammar_audio": "/audio/grammar/s_どこにも+Verb+ないですdokonimo+Verb+naidesu_20230511_どこにも勉強できる場所がないです.mp3"
+        "en": "There is no place to study anywhere."
       },
       {
         "jp": "どこにも美味しいビーガン料理がないです。",
         "romaji": "Doko ni mo oishii bi-gan ryouri ga nai desu.",
-        "en": "There are no delicious vegan dishes anywhere.",
-        "grammar_audio": "/audio/grammar/s_どこにも+Verb+ないですdokonimo+Verb+naidesu_20230511_どこにも美味しいビーガン料理がないです.mp3"
+        "en": "There are no delicious vegan dishes anywhere."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "どこにも + Verb + ません (doko ni mo + Verb + masen)",
@@ -3544,30 +2920,24 @@
       {
         "jp": "どこにもあの猫がいません。",
         "romaji": "Doko ni mo ano neko ga imasen.",
-        "en": "The cat is not anywhere.",
-        "grammar_audio": "/audio/grammar/s_どこにも+Verb+ませんdokonimo+Verb+masen_20230511_どこにもあの猫がいません.mp3"
+        "en": "The cat is not anywhere."
       },
       {
         "jp": "どこにもお金を置いていません。",
         "romaji": "Doko ni mo okane wo oiteimasen.",
-        "en": "I didn't put the money anywhere.",
-        "grammar_audio": "/audio/grammar/s_どこにも+Verb+ませんdokonimo+Verb+masen_20230511_どこにもお金を置いていません.mp3"
+        "en": "I didn't put the money anywhere."
       },
       {
         "jp": "この町にはどこにも美味しいラーメン屋がありません。",
         "romaji": "Kono machi ni wa doko ni mo oishii raamenya ga arimasen.",
-        "en": "There are no delicious ramen shops anywhere in this town.",
-        "grammar_audio": "/audio/grammar/s_どこにも+Verb+ませんdokonimo+Verb+masen_20230511_この町にはどこにも美味しいラーメン屋がありません.mp3"
+        "en": "There are no delicious ramen shops anywhere in this town."
       },
       {
         "jp": "どこにも彼女の名前が書いていません。",
         "romaji": "Doko ni mo kanojo no namae ga kaiteimasen.",
-        "en": "Her name is not written anywhere.",
-        "grammar_audio": "/audio/grammar/s_どこにも+Verb+ませんdokonimo+Verb+masen_20230511_どこにも彼女の名前が書いていません.mp3"
+        "en": "Her name is not written anywhere."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "どこへも Verb ないです (doko e mo + Verb + nai desu)",
@@ -3578,30 +2948,24 @@
       {
         "jp": "今週末どこへも行かないです。",
         "romaji": "Konshuu matsu doko e mo ikanai desu.",
-        "en": "I'm not going anywhere this weekend.",
-        "grammar_audio": "/audio/grammar/s_どこへもVerbないですdokoemo+Verb+naidesu_20230511_今週末どこへも行かないです.mp3"
+        "en": "I'm not going anywhere this weekend."
       },
       {
         "jp": "彼女はどこへも買い物に行きませんでした。",
         "romaji": "Kanojo wa doko e mo kaimono ni ikimasen deshita.",
-        "en": "She didn't go shopping anywhere.",
-        "grammar_audio": "/audio/grammar/s_どこへもVerbないですdokoemo+Verb+naidesu_20230511_彼女はどこへも買い物に行きませんでした.mp3"
+        "en": "She didn't go shopping anywhere."
       },
       {
         "jp": "スーパーはどこへも売らないです。",
         "romaji": "Suupaa wa doko e mo uranai desu.",
-        "en": "It is not sold at any supermarket.",
-        "grammar_audio": "/audio/grammar/s_どこへもVerbないですdokoemo+Verb+naidesu_20230511_スーパーはどこへも売らないです.mp3"
+        "en": "It is not sold at any supermarket."
       },
       {
         "jp": "私はどこへも友達がいないです。",
         "romaji": "Watashi wa doko e mo tomodachi ga inai desu.",
-        "en": "I have no friends anywhere.",
-        "grammar_audio": "/audio/grammar/s_どこへもVerbないですdokoemo+Verb+naidesu_20230511_私はどこへも友達がいないです.mp3"
+        "en": "I have no friends anywhere."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "どこへも Verb ません (doko e mo + Verb + masen)",
@@ -3612,30 +2976,24 @@
       {
         "jp": "今日はどこへも行きません。",
         "romaji": "Kyou wa doko e mo ikimasen.",
-        "en": "I won't go anywhere today.",
-        "grammar_audio": "/audio/grammar/s_どこへもVerbませんdokoemo+Verb+masen_20230511_今日はどこへも行きません.mp3"
+        "en": "I won't go anywhere today."
       },
       {
         "jp": "彼はどこへも走りませんでした。",
         "romaji": "Kare wa doko e mo hashirimasen deshita.",
-        "en": "He didn't run anywhere.",
-        "grammar_audio": "/audio/grammar/s_どこへもVerbませんdokoemo+Verb+masen_20230511_彼はどこへも走りませんでした.mp3"
+        "en": "He didn't run anywhere."
       },
       {
         "jp": "どこへも買い物に行きませんでした。",
         "romaji": "Doko e mo kaimono ni ikimasen deshita.",
-        "en": "I didn't go shopping anywhere.",
-        "grammar_audio": "/audio/grammar/s_どこへもVerbませんdokoemo+Verb+masen_20230511_どこへも買い物に行きませんでした.mp3"
+        "en": "I didn't go shopping anywhere."
       },
       {
         "jp": "彼女はどこへも連れて行かせません。",
         "romaji": "Kanojo wa doko e mo tsurete ikasemasen.",
-        "en": "She won't take me anywhere.",
-        "grammar_audio": "/audio/grammar/s_どこへもVerbませんdokoemo+Verb+masen_20230511_彼女はどこへも連れて行かせません.mp3"
+        "en": "She won't take me anywhere."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "どこも Verb ないです (dokomo + Verb + naidesu)",
@@ -3646,30 +3004,24 @@
       {
         "jp": "どこもうちわがないです。",
         "romaji": "Dokomo uchiwa ga naidesu.",
-        "en": "I can't find fans anywhere.",
-        "grammar_audio": "/audio/grammar/s_どこもVerbないですdokomo+Verb+naidesu_20230511_どこもうちわがないです.mp3"
+        "en": "I can't find fans anywhere."
       },
       {
         "jp": "この町ではどこも美味しいラーメンがないです。",
         "romaji": "Kono machi de wa dokomo oishii raamen ga naidesu.",
-        "en": "There are no delicious ramen shops anywhere in this town.",
-        "grammar_audio": "/audio/grammar/s_どこもVerbないですdokomo+Verb+naidesu_20230511_この町ではどこも美味しいラーメンがないです.mp3"
+        "en": "There are no delicious ramen shops anywhere in this town."
       },
       {
         "jp": "どこも駐車場がないです。",
         "romaji": "Dokomo chuushajou ga naidesu.",
-        "en": "There is no parking anywhere.",
-        "grammar_audio": "/audio/grammar/s_どこもVerbないですdokomo+Verb+naidesu_20230511_どこも駐車場がないです.mp3"
+        "en": "There is no parking anywhere."
       },
       {
         "jp": "どこも席がないです。",
         "romaji": "Dokomo seki ga naidesu.",
-        "en": "There are no seats available anywhere.",
-        "grammar_audio": "/audio/grammar/s_どこもVerbないですdokomo+Verb+naidesu_20230511_どこも席がないです.mp3"
+        "en": "There are no seats available anywhere."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "どこも Verb ません (dokomo + Verb + masen)",
@@ -3680,30 +3032,24 @@
       {
         "jp": "どこも静かじゃありません。",
         "romaji": "Doko mo shizuka ja arimasen.",
-        "en": "Nowhere is quiet.",
-        "grammar_audio": "/audio/grammar/s_どこもVerbませんdokomo+Verb+masen_20230511_どこも静かじゃありません.mp3"
+        "en": "Nowhere is quiet."
       },
       {
         "jp": "どこもその本を売っていません。",
         "romaji": "Doko mo sono hon wo utteimasen.",
-        "en": "Nowhere sells that book.",
-        "grammar_audio": "/audio/grammar/s_どこもVerbませんdokomo+Verb+masen_20230511_どこもその本を売っていません.mp3"
+        "en": "Nowhere sells that book."
       },
       {
         "jp": "この地域では、どこもインターネットに接続できません。",
         "romaji": "Kono chiiki de wa, doko mo intaanetto ni setsuzoku dekimasen.",
-        "en": "In this area, nowhere can connect to the internet.",
-        "grammar_audio": "/audio/grammar/s_どこもVerbませんdokomo+Verb+masen_20230511_この地域ではどこもインターネットに接続できません.mp3"
+        "en": "In this area, nowhere can connect to the internet."
       },
       {
         "jp": "どこも彼を知りません。",
         "romaji": "Doko mo kare wo shirimasen.",
-        "en": "Nowhere knows him.",
-        "grammar_audio": "/audio/grammar/s_どこもVerbませんdokomo+Verb+masen_20230511_どこも彼を知りません.mp3"
+        "en": "Nowhere knows him."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "どちら～ (dochira～)",
@@ -3714,30 +3060,24 @@
       {
         "jp": "この二つのリンゴ、どちらが美味しいですか？",
         "romaji": "Kono futatsu no ringo, dochira ga oishii desu ka?",
-        "en": "Which of these two apples is delicious?",
-        "grammar_audio": "/audio/grammar/s_どちらdochira_20230511_この二つのリンゴどちらが美味しいですか.mp3"
+        "en": "Which of these two apples is delicious?"
       },
       {
         "jp": "どちらのドレスを着たいですか？",
         "romaji": "Dochira no doresu wo kitaidesuka?",
-        "en": "Which dress would you like to wear?",
-        "grammar_audio": "/audio/grammar/s_どちらdochira_20230511_どちらのドレスを着たいですか.mp3"
+        "en": "Which dress would you like to wear?"
       },
       {
         "jp": "この二つの町、どちらに行きたいですか？",
         "romaji": "Kono futatsu no machi, dochira ni ikitai desu ka?",
-        "en": "Which of these two towns do you want to go to?",
-        "grammar_audio": "/audio/grammar/s_どちらdochira_20230511_この二つの町どちらに行きたいですか.mp3"
+        "en": "Which of these two towns do you want to go to?"
       },
       {
         "jp": "どちらの映画が面白いと思いますか？",
         "romaji": "Dochira no eiga ga omoshiroi to omoimasu ka?",
-        "en": "Which movie do you think is interesting?",
-        "grammar_audio": "/audio/grammar/s_どちらdochira_20230511_どちらの映画が面白いと思いますか.mp3"
+        "en": "Which movie do you think is interesting?"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "どなた～ (donata～)",
@@ -3748,30 +3088,24 @@
       {
         "jp": "すみません、どなたが山田さんですか？",
         "romaji": "Sumimasen, donata ga Yamada-san desu ka?",
-        "en": "Excuse me, who is Mr. Yamada?",
-        "grammar_audio": "/audio/grammar/s_どなたdonata_20230511_すみませんどなたが山田さんですか.mp3"
+        "en": "Excuse me, who is Mr. Yamada?"
       },
       {
         "jp": "どなたも知っている有名な俳優です。",
         "romaji": "Donata mo shitte iru yuumei na haiyuu desu.",
-        "en": "He is a famous actor whom everyone knows.",
-        "grammar_audio": "/audio/grammar/s_どなたdonata_20230511_どなたも知っている有名な俳優です.mp3"
+        "en": "He is a famous actor whom everyone knows."
       },
       {
         "jp": "明日のパーティーにはどなたが来ますか？",
         "romaji": "Ashita no paatii ni wa donata ga kimasu ka?",
-        "en": "Who is coming to the party tomorrow?",
-        "grammar_audio": "/audio/grammar/s_どなたdonata_20230511_明日のパーティーにはどなたが来ますか.mp3"
+        "en": "Who is coming to the party tomorrow?"
       },
       {
         "jp": "どなたか手伝っていただけますか？",
         "romaji": "Donata ka tetsudatte itadakemasu ka?",
-        "en": "Could someone please help me?",
-        "grammar_audio": "/audio/grammar/s_どなたdonata_20230511_どなたか手伝っていただけますか.mp3"
+        "en": "Could someone please help me?"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "どの Noun (dono Noun)",
@@ -3782,30 +3116,24 @@
       {
         "jp": "どの本が一番面白いですか。",
         "romaji": "Dono hon ga ichiban omoshiroi desu ka.",
-        "en": "Which book is the most interesting?",
-        "grammar_audio": "/audio/grammar/s_どのNoundonoNoun_20230511_どの本が一番面白いですか.mp3"
+        "en": "Which book is the most interesting?"
       },
       {
         "jp": "どの服を着たいですか。",
         "romaji": "Dono fuku wo kitaidesu ka.",
-        "en": "Which clothes do you want to wear?",
-        "grammar_audio": "/audio/grammar/s_どのNoundonoNoun_20230511_どの服を着たいですか.mp3"
+        "en": "Which clothes do you want to wear?"
       },
       {
         "jp": "どの色が好きですか。",
         "romaji": "Dono iro ga suki desu ka.",
-        "en": "Which color do you like?",
-        "grammar_audio": "/audio/grammar/s_どのNoundonoNoun_20230511_どの色が好きですか.mp3"
+        "en": "Which color do you like?"
       },
       {
         "jp": "どのレストランに行きたいですか。",
         "romaji": "Dono resutoran ni ikitai desu ka.",
-        "en": "Which restaurant do you want to go to?",
-        "grammar_audio": "/audio/grammar/s_どのNoundonoNoun_20230511_どのレストランに行きたいですか.mp3"
+        "en": "Which restaurant do you want to go to?"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "どれでも～ (dore demo～)",
@@ -3816,30 +3144,24 @@
       {
         "jp": "どれでもいいですか？",
         "romaji": "Dore demo ii desu ka?",
-        "en": "Is any choice okay?",
-        "grammar_audio": "/audio/grammar/s_どれでもdoredemo_20230511_どれでもいいですか.mp3"
+        "en": "Is any choice okay?"
       },
       {
         "jp": "どれでも選んでください。",
         "romaji": "Dore demo erande kudasai.",
-        "en": "Please choose whichever you like.",
-        "grammar_audio": "/audio/grammar/s_どれでもdoredemo_20230511_どれでも選んでください.mp3"
+        "en": "Please choose whichever you like."
       },
       {
         "jp": "どれでもおいしいです。",
         "romaji": "Dore demo oishii desu.",
-        "en": "All of them are delicious.",
-        "grammar_audio": "/audio/grammar/s_どれでもdoredemo_20230511_どれでもおいしいです.mp3"
+        "en": "All of them are delicious."
       },
       {
         "jp": "この中でどれでも好きなものを持って行ってください。",
         "romaji": "Kono naka de dore demo suki na mono wo motte itte kudasai.",
-        "en": "Please take whichever you like from these.",
-        "grammar_audio": "/audio/grammar/s_どれでもdoredemo_20230511_この中でどれでも好きなものを持って行ってください.mp3"
+        "en": "Please take whichever you like from these."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "どんな Noun (donna)",
@@ -3850,30 +3172,24 @@
       {
         "jp": "どんな音楽が好きですか？",
         "romaji": "Donna ongaku ga suki desu ka?",
-        "en": "What kind of music do you like?",
-        "grammar_audio": "/audio/grammar/s_どんなNoundonna_20230511_どんな音楽が好きですか.mp3"
+        "en": "What kind of music do you like?"
       },
       {
         "jp": "彼女はどんな映画が好きだと思う？",
         "romaji": "Kanojo wa donna eiga ga suki da to omou?",
-        "en": "What kind of movies do you think she likes?",
-        "grammar_audio": "/audio/grammar/s_どんなNoundonna_20230511_彼女はどんな映画が好きだと思う.mp3"
+        "en": "What kind of movies do you think she likes?"
       },
       {
         "jp": "どんな本が一番面白いですか？",
         "romaji": "Donna hon ga ichiban omoshiroi desu ka?",
-        "en": "What kind of books are the most interesting?",
-        "grammar_audio": "/audio/grammar/s_どんなNoundonna_20230511_どんな本が一番面白いですか.mp3"
+        "en": "What kind of books are the most interesting?"
       },
       {
         "jp": "どんな料理が得意ですか？",
         "romaji": "Donna ryouri ga tokui desu ka?",
-        "en": "What kind of dishes are you good at making?",
-        "grammar_audio": "/audio/grammar/s_どんなNoundonna_20230511_どんな料理が得意ですか.mp3"
+        "en": "What kind of dishes are you good at making?"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "なに～ (nani~)",
@@ -3884,30 +3200,24 @@
       {
         "jp": "これはなにですか。",
         "romaji": "Kore wa nani desu ka?",
-        "en": "What is this?",
-        "grammar_audio": "/audio/grammar/s_なにnani~_20230511_これはなにですか.mp3"
+        "en": "What is this?"
       },
       {
         "jp": "あの人はなにをしているのですか？",
         "romaji": "Ano hito wa nani wo shite iru no desu ka?",
-        "en": "What is that person doing?",
-        "grammar_audio": "/audio/grammar/s_なにnani~_20230511_あの人はなにをしているのですか.mp3"
+        "en": "What is that person doing?"
       },
       {
         "jp": "なにが好きですか？",
         "romaji": "Nani ga suki desu ka?",
-        "en": "What do you like?",
-        "grammar_audio": "/audio/grammar/s_なにnani~_20230511_なにが好きですか.mp3"
+        "en": "What do you like?"
       },
       {
         "jp": "今日の天気はなにですか？",
         "romaji": "Kyou no tenki wa nani desu ka?",
-        "en": "What is today's weather?",
-        "grammar_audio": "/audio/grammar/s_なにnani~_20230511_今日の天気はなにですか.mp3"
+        "en": "What is today's weather?"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "なにか～ (nanika～)",
@@ -3918,30 +3228,24 @@
       {
         "jp": "なにか飲み物を持ってきてください。",
         "romaji": "Nanika nomimono wo motte kite kudasai.",
-        "en": "Please bring some kind of drink.",
-        "grammar_audio": "/audio/grammar/s_なにかnanika_20230511_なにか飲み物を持ってきてください.mp3"
+        "en": "Please bring some kind of drink."
       },
       {
         "jp": "なにか質問があれば、遠慮なく聞いてください。",
         "romaji": "Nanika shitsumon ga areba, enryo naku kiite kudasai.",
-        "en": "If you have any questions, please feel free to ask.",
-        "grammar_audio": "/audio/grammar/s_なにかnanika_20230511_なにか質問があれば遠慮なく聞いてください.mp3"
+        "en": "If you have any questions, please feel free to ask."
       },
       {
         "jp": "彼女はなにかプレゼントを持っている。",
         "romaji": "Kanojo wa nanika purezento wo motte iru.",
-        "en": "She has some kind of present.",
-        "grammar_audio": "/audio/grammar/s_なにかnanika_20230511_彼女はなにかプレゼントを持っている.mp3"
+        "en": "She has some kind of present."
       },
       {
         "jp": "なにか助けが必要なら、言ってください。",
         "romaji": "Nanika tasuke ga hitsuyou nara, itte kudasai.",
-        "en": "If you need any help, please let me know.",
-        "grammar_audio": "/audio/grammar/s_なにかnanika_20230511_なにか助けが必要なら言ってください.mp3"
+        "en": "If you need any help, please let me know."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "なにも～ないです (nani mo~nai desu)",
@@ -3952,30 +3256,24 @@
       {
         "jp": "彼はなにも言わなかったです。",
         "romaji": "Kare wa nani mo iwanakatta desu.",
-        "en": "He didn't say anything.",
-        "grammar_audio": "/audio/grammar/s_なにもないですnanimo~naidesu_20230511_彼はなにも言わなかったです.mp3"
+        "en": "He didn't say anything."
       },
       {
         "jp": "私はなにも食べないです。",
         "romaji": "Watashi wa nani mo tabenai desu.",
-        "en": "I don't eat anything.",
-        "grammar_audio": "/audio/grammar/s_なにもないですnanimo~naidesu_20230511_私はなにも食べないです.mp3"
+        "en": "I don't eat anything."
       },
       {
         "jp": "彼女はなにも持っていないです。",
         "romaji": "Kanojo wa nani mo motte inai desu.",
-        "en": "She doesn't have anything.",
-        "grammar_audio": "/audio/grammar/s_なにもないですnanimo~naidesu_20230511_彼女はなにも持っていないです.mp3"
+        "en": "She doesn't have anything."
       },
       {
         "jp": "この箱にはなにも入っていないです。",
         "romaji": "Kono hako ni wa nani mo haitte inai desu.",
-        "en": "There is nothing in this box.",
-        "grammar_audio": "/audio/grammar/s_なにもないですnanimo~naidesu_20230511_この箱にはなにも入っていないです.mp3"
+        "en": "There is nothing in this box."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "なにも～ません (nanimo~masen)",
@@ -3986,30 +3284,24 @@
       {
         "jp": "昨日はなにも食べませんでした。",
         "romaji": "Kinou wa nanimo tabemasen deshita.",
-        "en": "I didn't eat anything yesterday.",
-        "grammar_audio": "/audio/grammar/s_なにもませんnanimo~masen_20230511_昨日はなにも食べませんでした.mp3"
+        "en": "I didn't eat anything yesterday."
       },
       {
         "jp": "彼はなにも話しません。",
         "romaji": "Kare wa nanimo hanashimasen.",
-        "en": "He doesn't say anything.",
-        "grammar_audio": "/audio/grammar/s_なにもませんnanimo~masen_20230511_彼はなにも話しません.mp3"
+        "en": "He doesn't say anything."
       },
       {
         "jp": "この部屋ではなにも見えません。",
         "romaji": "Kono heya de wa nanimo miemasen.",
-        "en": "I cannot see anything in this room.",
-        "grammar_audio": "/audio/grammar/s_なにもませんnanimo~masen_20230511_この部屋ではなにも見えません.mp3"
+        "en": "I cannot see anything in this room."
       },
       {
         "jp": "彼女はなにも買いませんでした。",
         "romaji": "Kanojo wa nanimo kaimasen deshita.",
-        "en": "She didn't buy anything.",
-        "grammar_audio": "/audio/grammar/s_なにもませんnanimo~masen_20230511_彼女はなにも買いませんでした.mp3"
+        "en": "She didn't buy anything."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "なん～ (nan~)",
@@ -4020,30 +3312,24 @@
       {
         "jp": "あなたはなん歳ですか？",
         "romaji": "Anata wa nan-sai desu ka?",
-        "en": "How old are you?",
-        "grammar_audio": "/audio/grammar/s_なんnan~_20230511_あなたはなん歳ですか.mp3"
+        "en": "How old are you?"
       },
       {
         "jp": "これはなんですか？",
         "romaji": "Kore wa nan desu ka?",
-        "en": "What is this?",
-        "grammar_audio": "/audio/grammar/s_なんnan~_20230511_これはなんですか.mp3"
+        "en": "What is this?"
       },
       {
         "jp": "彼はなんで来ましたか？",
         "romaji": "Kare wa nan de kimashita ka?",
-        "en": "Why did he come?",
-        "grammar_audio": "/audio/grammar/s_なんnan~_20230511_彼はなんで来ましたか.mp3"
+        "en": "Why did he come?"
       },
       {
         "jp": "あのレストランはなんと言う名前ですか？",
         "romaji": "Ano resutoran wa nan to iu namae desu ka?",
-        "en": "What is the name of that restaurant?",
-        "grammar_audio": "/audio/grammar/s_なんnan~_20230511_あのレストランはなんと言う名前ですか.mp3"
+        "en": "What is the name of that restaurant?"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "なんで～ (nande～)",
@@ -4054,30 +3340,24 @@
       {
         "jp": "なんで遅れたの？",
         "romaji": "Nande okureta no?",
-        "en": "Why were you late?",
-        "grammar_audio": "/audio/grammar/s_なんでnande_20230511_なんで遅れたの.mp3"
+        "en": "Why were you late?"
       },
       {
         "jp": "なんでこの部屋はこんなに汚いの？",
         "romaji": "Nande kono heya wa konna ni kitanai no?",
-        "en": "Why is this room so dirty?",
-        "grammar_audio": "/audio/grammar/s_なんでnande_20230511_なんでこの部屋はこんなに汚いの.mp3"
+        "en": "Why is this room so dirty?"
       },
       {
         "jp": "なんで彼女は怒っているの？",
         "romaji": "Nande kanojo wa okotte iru no?",
-        "en": "Why is she angry?",
-        "grammar_audio": "/audio/grammar/s_なんでnande_20230511_なんで彼女は怒っているの.mp3"
+        "en": "Why is she angry?"
       },
       {
         "jp": "なんで今日は休みなの？",
         "romaji": "Nande kyou wa yasumi na no?",
-        "en": "Why is today a holiday?",
-        "grammar_audio": "/audio/grammar/s_なんでnande_20230511_なんで今日は休みなの.mp3"
+        "en": "Why is today a holiday?"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "なんでも～ (nandemo～)",
@@ -4088,30 +3368,24 @@
       {
         "jp": "なんでも食べられるから、何を頼んでも大丈夫です。",
         "romaji": "Nandemo taberareru kara, nani wo tanondemo daijoubu desu.",
-        "en": "I can eat anything, so it's okay to order whatever you want.",
-        "grammar_audio": "/audio/grammar/s_なんでもnandemo_20230511_なんでも食べられるから何を頼んでも大丈夫です.mp3"
+        "en": "I can eat anything, so it's okay to order whatever you want."
       },
       {
         "jp": "なんでもよければ、この本をおすすめします。",
         "romaji": "Nandemo yokereba, kono hon wo osusume shimasu.",
-        "en": "If you're okay with anything, I recommend this book.",
-        "grammar_audio": "/audio/grammar/s_なんでもnandemo_20230511_なんでもよければこの本をおすすめします.mp3"
+        "en": "If you're okay with anything, I recommend this book."
       },
       {
         "jp": "なんでもできるスタッフを探しています。",
         "romaji": "Nandemo dekiru sutaffu wo sagashiteimasu.",
-        "en": "We are looking for a staff member who can do anything.",
-        "grammar_audio": "/audio/grammar/s_なんでもnandemo_20230511_なんでもできるスタッフを探しています.mp3"
+        "en": "We are looking for a staff member who can do anything."
       },
       {
         "jp": "この食堂では、なんでも美味しくて安い料理が出されます。",
         "romaji": "Kono shokudou de wa, nandemo oishikute yasui ryouri ga dasaremasu.",
-        "en": "In this cafeteria, any dish served is delicious and inexpensive.",
-        "grammar_audio": "/audio/grammar/s_なんでもnandemo_20230511_この食堂ではなんでも美味しくて安い料理が出されます.mp3"
+        "en": "In this cafeteria, any dish served is delicious and inexpensive."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "～なんと 言いますか。 (〜nan to iimasu ka.)",
@@ -4122,30 +3396,24 @@
       {
         "jp": "この花はなんと言いますか。",
         "romaji": "Kono hana wa nan to iimasu ka.",
-        "en": "How do you say this flower?",
-        "grammar_audio": "/audio/grammar/s_なんと言いますかnantoiimasuka._20230511_この花はなんと言いますか.mp3"
+        "en": "How do you say this flower?"
       },
       {
         "jp": "この料理はなんと言いますか。",
         "romaji": "Kono ryouri wa nan to iimasu ka.",
-        "en": "What do you call this dish?",
-        "grammar_audio": "/audio/grammar/s_なんと言いますかnantoiimasuka._20230511_この料理はなんと言いますか.mp3"
+        "en": "What do you call this dish?"
       },
       {
         "jp": "日本でこれはなんと言いますか。",
         "romaji": "Nihon de kore wa nan to iimasu ka.",
-        "en": "How do you say this in Japanese?",
-        "grammar_audio": "/audio/grammar/s_なんと言いますかnantoiimasuka._20230511_日本でこれはなんと言いますか.mp3"
+        "en": "How do you say this in Japanese?"
       },
       {
         "jp": "その映画の名前はなんと言いますか。",
         "romaji": "Sono eiga no namae wa nan to iimasu ka.",
-        "en": "What is the name of that movie?",
-        "grammar_audio": "/audio/grammar/s_なんと言いますかnantoiimasuka._20230511_その映画の名前はなんと言いますか.mp3"
+        "en": "What is the name of that movie?"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "～に あげます (〜 ni agemasu)",
@@ -4156,30 +3424,24 @@
       {
         "jp": "私は友達に本をあげました。",
         "romaji": "Watashi wa tomodachi ni hon wo agemashita.",
-        "en": "I gave a book to my friend.",
-        "grammar_audio": "/audio/grammar/s_にあげますniagemasu_20230511_私は友達に本をあげました.mp3"
+        "en": "I gave a book to my friend."
       },
       {
         "jp": "彼にプレゼントをあげましょう。",
         "romaji": "Kare ni purezento wo agemashou.",
-        "en": "Let's give him a present.",
-        "grammar_audio": "/audio/grammar/s_にあげますniagemasu_20230511_彼にプレゼントをあげましょう.mp3"
+        "en": "Let's give him a present."
       },
       {
         "jp": "先生に花をあげます。",
         "romaji": "Sensei ni hana wo agemasu.",
-        "en": "I will give flowers to the teacher.",
-        "grammar_audio": "/audio/grammar/s_にあげますniagemasu_20230511_先生に花をあげます.mp3"
+        "en": "I will give flowers to the teacher."
       },
       {
         "jp": "お母さんにチョコレートをあげたいです。",
         "romaji": "Okaasan ni chokoreeto wo agetai desu.",
-        "en": "I want to give chocolate to my mom.",
-        "grammar_audio": "/audio/grammar/s_にあげますniagemasu_20230511_お母さんにチョコレートをあげたいです.mp3"
+        "en": "I want to give chocolate to my mom."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "～に もらいます (〜ni moraimasu)",
@@ -4190,30 +3452,24 @@
       {
         "jp": "友達にプレゼントをもらいました。",
         "romaji": "Tomodachi ni purezento wo moraimashita.",
-        "en": "I received a gift from my friend.",
-        "grammar_audio": "/audio/grammar/s_にもらいますnimoraimasu_20230511_友達にプレゼントをもらいました.mp3"
+        "en": "I received a gift from my friend."
       },
       {
         "jp": "先生にアドバイスをもらいました。",
         "romaji": "Sensei ni adobaisu wo moraimashita.",
-        "en": "I got advice from my teacher.",
-        "grammar_audio": "/audio/grammar/s_にもらいますnimoraimasu_20230511_先生にアドバイスをもらいました.mp3"
+        "en": "I got advice from my teacher."
       },
       {
         "jp": "おばあさんに手紙を書いてもらいました。",
         "romaji": "Obaasan ni tegami wo kaite moraimashita.",
-        "en": "I had my grandmother write a letter for me.",
-        "grammar_audio": "/audio/grammar/s_にもらいますnimoraimasu_20230511_おばあさんに手紙を書いてもらいました.mp3"
+        "en": "I had my grandmother write a letter for me."
       },
       {
         "jp": "弟に宿題を手伝ってもらいました。",
         "romaji": "Otouto ni shukudai wo tetsudatte moraimashita.",
-        "en": "I got help from my younger brother with my homework.",
-        "grammar_audio": "/audio/grammar/s_にもらいますnimoraimasu_20230511_弟に宿題を手伝ってもらいました.mp3"
+        "en": "I got help from my younger brother with my homework."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "～の (〜no)",
@@ -4224,30 +3480,24 @@
       {
         "jp": "これは私の鞄です。",
         "romaji": "Kore wa watashi no kaban desu.",
-        "en": "This is my bag.",
-        "grammar_audio": "/audio/grammar/s_のno_20230511_これは私の鞄です.mp3"
+        "en": "This is my bag."
       },
       {
         "jp": "彼女は赤いのバッグを持っています。",
         "romaji": "Kanojo wa akai no baggu o motte imasu.",
-        "en": "She has a red bag.",
-        "grammar_audio": "/audio/grammar/s_のno_20230511_彼女は赤いのバッグを持っています.mp3"
+        "en": "She has a red bag."
       },
       {
         "jp": "彼はきれいなの部屋があります。",
         "romaji": "Kare wa kirei na no heya ga arimasu.",
-        "en": "He has a clean room.",
-        "grammar_audio": "/audio/grammar/s_のno_20230511_彼はきれいなの部屋があります.mp3"
+        "en": "He has a clean room."
       },
       {
         "jp": "東京の天気は暑いです。",
         "romaji": "Toukyou no tenki wa atsui desu.",
-        "en": "The weather in Tokyo is hot.",
-        "grammar_audio": "/audio/grammar/s_のno_20230511_東京の天気は暑いです.mp3"
+        "en": "The weather in Tokyo is hot."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "125"
+    ]
   },
   {
     "title": "～はたいへんです (〜wa taihen desu)",
@@ -4258,30 +3508,24 @@
       {
         "jp": "漢字を覚えるのはたいへんです。",
         "romaji": "Kanji o oboeru no wa taihen desu.",
-        "en": "It is difficult to remember kanji.",
-        "grammar_audio": "/audio/grammar/s_はたいへんですwataihendesu_20230511_漢字を覚えるのはたいへんです.mp3"
+        "en": "It is difficult to remember kanji."
       },
       {
         "jp": "この仕事はたいへんです。",
         "romaji": "Kono shigoto wa taihen desu.",
-        "en": "This job is tough.",
-        "grammar_audio": "/audio/grammar/s_はたいへんですwataihendesu_20230511_この仕事はたいへんです.mp3"
+        "en": "This job is tough."
       },
       {
         "jp": "日本の駅のことを理解するのはたいへんです。",
         "romaji": "Nihon no eki no koto o rikai suru no wa taihen desu.",
-        "en": "Understanding Japanese train stations is difficult.",
-        "grammar_audio": "/audio/grammar/s_はたいへんですwataihendesu_20230511_日本の駅のことを理解するのはたいへんです.mp3"
+        "en": "Understanding Japanese train stations is difficult."
       },
       {
         "jp": "彼女は病気の時、生活はたいへんです。",
         "romaji": "Kanojo wa byouki no toki, seikatsu wa taihen desu.",
-        "en": "When she is sick, life is tough.",
-        "grammar_audio": "/audio/grammar/s_はたいへんですwataihendesu_20230511_彼女は病気の時生活はたいへんです.mp3"
+        "en": "When she is sick, life is tough."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "150"
+    ]
   },
   {
     "title": "ほとんど〜 (hotondo〜)",
@@ -4292,30 +3536,24 @@
       {
         "jp": "彼女はほとんど英語を話せません。",
         "romaji": "Kanojo wa hotondo eigo o hanasemasen.",
-        "en": "She can hardly speak English.",
-        "grammar_audio": "/audio/grammar/s_ほとんどhotondo_20230511_彼女はほとんど英語を話せません.mp3"
+        "en": "She can hardly speak English."
       },
       {
         "jp": "ほとんどの人がパーティーに出席しました。",
         "romaji": "Hotondo no hito ga paatii ni shusseki shimashita.",
-        "en": "Most people attended the party.",
-        "grammar_audio": "/audio/grammar/s_ほとんどhotondo_20230511_ほとんどの人がパーティーに出席しました.mp3"
+        "en": "Most people attended the party."
       },
       {
         "jp": "私たちはほとんど勉強しないでテストに合格しました。",
         "romaji": "Watashitachi wa hotondo benkyou shinaide tesuto ni goukaku shimashita.",
-        "en": "We passed the test with hardly any studying.",
-        "grammar_audio": "/audio/grammar/s_ほとんどhotondo_20230511_私たちはほとんど勉強しないでテストに合格しました.mp3"
+        "en": "We passed the test with hardly any studying."
       },
       {
         "jp": "この本はほとんど読み終わりました。",
         "romaji": "Kono hon wa hotondo yomiowarimashita.",
-        "en": "I have almost finished reading this book.",
-        "grammar_audio": "/audio/grammar/s_ほとんどhotondo_20230511_この本はほとんど読み終わりました.mp3"
+        "en": "I have almost finished reading this book."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "150"
+    ]
   },
   {
     "title": "まあまあ～ (maa maa～)",
@@ -4326,30 +3564,24 @@
       {
         "jp": "彼の料理の腕前はまあまあです。",
         "romaji": "Kare no ryouri no udemae wa maa maa desu.",
-        "en": "His cooking skills are so-so.",
-        "grammar_audio": "/audio/grammar/s_まあまあmaamaa_20230511_彼の料理の腕前はまあまあです.mp3"
+        "en": "His cooking skills are so-so."
       },
       {
         "jp": "今日の天気はまあまあですね。",
         "romaji": "Kyou no tenki wa maa maa desu ne.",
-        "en": "The weather today is not bad, huh?",
-        "grammar_audio": "/audio/grammar/s_まあまあmaamaa_20230511_今日の天気はまあまあですね.mp3"
+        "en": "The weather today is not bad, huh?"
       },
       {
         "jp": "あの映画はまあまあ面白かったです。",
         "romaji": "Ano eiga wa maa maa omoshirokatta desu.",
-        "en": "That movie was somewhat interesting.",
-        "grammar_audio": "/audio/grammar/s_まあまあmaamaa_20230511_あの映画はまあまあ面白かったです.mp3"
+        "en": "That movie was somewhat interesting."
       },
       {
         "jp": "彼女の歌はまあまあ上手だと思います。",
         "romaji": "Kanojo no uta wa maa maa jouzu da to omoimasu.",
-        "en": "I think her singing is not bad.",
-        "grammar_audio": "/audio/grammar/s_まあまあmaamaa_20230511_彼女の歌はまあまあ上手だと思います.mp3"
+        "en": "I think her singing is not bad."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "150"
+    ]
   },
   {
     "title": "まだ〜 (mada〜)",
@@ -4360,30 +3592,24 @@
       {
         "jp": "昼ご飯はまだ食べていません。",
         "romaji": "Hirugohan wa mada tabete imasen.",
-        "en": "I haven't eaten lunch yet.",
-        "grammar_audio": "/audio/grammar/s_まだmada_20230511_昼ご飯はまだ食べていません.mp3"
+        "en": "I haven't eaten lunch yet."
       },
       {
         "jp": "山田さんはまだ来ていません。",
         "romaji": "Yamada-san wa mada kite imasen.",
-        "en": "Yamada-san has not arrived yet.",
-        "grammar_audio": "/audio/grammar/s_まだmada_20230511_山田さんはまだ来ていません.mp3"
+        "en": "Yamada-san has not arrived yet."
       },
       {
         "jp": "この部屋はまだ暑いです。",
         "romaji": "Kono heya wa mada atsui desu.",
-        "en": "This room is still hot.",
-        "grammar_audio": "/audio/grammar/s_まだmada_20230511_この部屋はまだ暑いです.mp3"
+        "en": "This room is still hot."
       },
       {
         "jp": "彼はまだ学生じゃないです。",
         "romaji": "Kare wa mada gakusei ja nai desu.",
-        "en": "He is not a student yet.",
-        "grammar_audio": "/audio/grammar/s_まだmada_20230511_彼はまだ学生じゃないです.mp3"
+        "en": "He is not a student yet."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "150"
+    ]
   },
   {
     "title": "まだ〜ないです (mada 〜 nai desu)",
@@ -4394,30 +3620,24 @@
       {
         "jp": "まだ宿題をしていないです。",
         "romaji": "Mada shukudai wo shite inai desu.",
-        "en": "I haven't done my homework yet.",
-        "grammar_audio": "/audio/grammar/s_まだないですmadanaidesu_20230511_まだ宿題をしていないです.mp3"
+        "en": "I haven't done my homework yet."
       },
       {
         "jp": "彼はまだ来ないです。",
         "romaji": "Kare wa mada konai desu.",
-        "en": "He still hasn't come yet.",
-        "grammar_audio": "/audio/grammar/s_まだないですmadanaidesu_20230511_彼はまだ来ないです.mp3"
+        "en": "He still hasn't come yet."
       },
       {
         "jp": "映画はまだ始まっていないです。",
         "romaji": "Eiga wa mada hajimatte inai desu.",
-        "en": "The movie hasn't started yet.",
-        "grammar_audio": "/audio/grammar/s_まだないですmadanaidesu_20230511_映画はまだ始まっていないです.mp3"
+        "en": "The movie hasn't started yet."
       },
       {
         "jp": "私たちはまだ夕食を食べないです。",
         "romaji": "Watashitachi wa mada yuushoku wo tabenai desu.",
-        "en": "We haven't eaten dinner yet.",
-        "grammar_audio": "/audio/grammar/s_まだないですmadanaidesu_20230511_私たちはまだ夕食を食べないです.mp3"
+        "en": "We haven't eaten dinner yet."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "150"
+    ]
   },
   {
     "title": "まだ～ません (mada ~masen)",
@@ -4428,30 +3648,24 @@
       {
         "jp": "昼ご飯をまだ食べていません。",
         "romaji": "Hirugohan wo mada tabeteimasen.",
-        "en": "I have not eaten lunch yet.",
-        "grammar_audio": "/audio/grammar/s_まだませんmada~masen_20230511_昼ご飯をまだ食べていません.mp3"
+        "en": "I have not eaten lunch yet."
       },
       {
         "jp": "宿題がまだ終わっていません。",
         "romaji": "Shukudai ga mada owatteimasen.",
-        "en": "I have not finished my homework yet.",
-        "grammar_audio": "/audio/grammar/s_まだませんmada~masen_20230511_宿題がまだ終わっていません.mp3"
+        "en": "I have not finished my homework yet."
       },
       {
         "jp": "東京にはまだ行ったことがありません。",
         "romaji": "Toukyou ni wa mada itta koto ga arimasen.",
-        "en": "I have not been to Tokyo yet.",
-        "grammar_audio": "/audio/grammar/s_まだませんmada~masen_20230511_東京にはまだ行ったことがありません.mp3"
+        "en": "I have not been to Tokyo yet."
       },
       {
         "jp": "彼はまだ来ていません。",
         "romaji": "Kare wa mada kiteimasen.",
-        "en": "He has not come yet.",
-        "grammar_audio": "/audio/grammar/s_まだませんmada~masen_20230511_彼はまだ来ていません.mp3"
+        "en": "He has not come yet."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "150"
+    ]
   },
   {
     "title": "もう～ (mou～)",
@@ -4462,30 +3676,24 @@
       {
         "jp": "もう昼ごはんを食べました。",
         "romaji": "Mou hirugohan o tabemashita.",
-        "en": "I already ate lunch.",
-        "grammar_audio": "/audio/grammar/s_もうmou_20230511_もう昼ごはんを食べました.mp3"
+        "en": "I already ate lunch."
       },
       {
         "jp": "もうここでは働かない。",
         "romaji": "Mou koko de wa hatarakanai.",
-        "en": "I won't work here anymore.",
-        "grammar_audio": "/audio/grammar/s_もうmou_20230511_もうここでは働かない.mp3"
+        "en": "I won't work here anymore."
       },
       {
         "jp": "もうすぐ夏休みですね。",
         "romaji": "Mou sugu natsu yasumi desu ne.",
-        "en": "Summer vacation is coming soon, isn't it?",
-        "grammar_audio": "/audio/grammar/s_もうmou_20230511_もうすぐ夏休みですね.mp3"
+        "en": "Summer vacation is coming soon, isn't it?"
       },
       {
         "jp": "もう十分です。",
         "romaji": "Mou juubun desu.",
-        "en": "It's already enough.",
-        "grammar_audio": "/audio/grammar/s_もうmou_20230511_もう十分です.mp3"
+        "en": "It's already enough."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "150"
+    ]
   },
   {
     "title": "もうすぐ〜 (mou sugu~)",
@@ -4496,30 +3704,24 @@
       {
         "jp": "もうすぐ春が来ます。",
         "romaji": "Mou sugu haru ga kimasu.",
-        "en": "Spring is coming soon.",
-        "grammar_audio": "/audio/grammar/s_もうすぐmousugu~_20230511_もうすぐ春が来ます.mp3"
+        "en": "Spring is coming soon."
       },
       {
         "jp": "もうすぐ彼女の誕生日です。",
         "romaji": "Mou sugu kanojo no tanjoubi desu.",
-        "en": "Her birthday is coming up soon.",
-        "grammar_audio": "/audio/grammar/s_もうすぐmousugu~_20230511_もうすぐ彼女の誕生日です.mp3"
+        "en": "Her birthday is coming up soon."
       },
       {
         "jp": "もうすぐ試験が終わる。",
         "romaji": "Mou sugu shiken ga owaru.",
-        "en": "The exam will be over soon.",
-        "grammar_audio": "/audio/grammar/s_もうすぐmousugu~_20230511_もうすぐ試験が終わる.mp3"
+        "en": "The exam will be over soon."
       },
       {
         "jp": "もうすぐ雨が止むでしょう。",
         "romaji": "Mou sugu ame ga yamu deshou.",
-        "en": "The rain will likely stop soon.",
-        "grammar_audio": "/audio/grammar/s_もうすぐmousugu~_20230511_もうすぐ雨が止むでしょう.mp3"
+        "en": "The rain will likely stop soon."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "150"
+    ]
   },
   {
     "title": "もっと〜 (motto〜)",
@@ -4530,30 +3732,24 @@
       {
         "jp": "もっと勉強しなければなりません。",
         "romaji": "Motto benkyou shinakereba narimasen.",
-        "en": "I have to study more.",
-        "grammar_audio": "/audio/grammar/s_もっとmotto_20230511_もっと勉強しなければなりません.mp3"
+        "en": "I have to study more."
       },
       {
         "jp": "このかばんをもっと大きいサイズに変えたいです。",
         "romaji": "Kono kaban wo motto ookii saizu ni kaetai desu.",
-        "en": "I want to change this bag to a larger size.",
-        "grammar_audio": "/audio/grammar/s_もっとmotto_20230511_このかばんをもっと大きいサイズに変えたいです.mp3"
+        "en": "I want to change this bag to a larger size."
       },
       {
         "jp": "もっと静かな場所で働きたいです。",
         "romaji": "Motto shizuka na basho de hatarakitai desu.",
-        "en": "I want to work in a quieter place.",
-        "grammar_audio": "/audio/grammar/s_もっとmotto_20230511_もっと静かな場所で働きたいです.mp3"
+        "en": "I want to work in a quieter place."
       },
       {
         "jp": "彼女はもっと上手になりたいと思っています。",
         "romaji": "Kanojo wa motto jouzu ni naritai to omotteimasu.",
-        "en": "She wants to become even better.",
-        "grammar_audio": "/audio/grammar/s_もっとmotto_20230511_彼女はもっと上手になりたいと思っています.mp3"
+        "en": "She wants to become even better."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "150"
+    ]
   },
   {
     "title": "よく～ (yoku ~)",
@@ -4564,30 +3760,24 @@
       {
         "jp": "彼はよく勉強します。",
         "romaji": "Kare wa yoku benkyou shimasu.",
-        "en": "He studies often.",
-        "grammar_audio": "/audio/grammar/s_よくyoku~_20230511_彼はよく勉強します.mp3"
+        "en": "He studies often."
       },
       {
         "jp": "彼女はよく料理を作ります。",
         "romaji": "Kanojo wa yoku ryouri o tsukurimasu.",
-        "en": "She often cooks.",
-        "grammar_audio": "/audio/grammar/s_よくyoku~_20230511_彼女はよく料理を作ります.mp3"
+        "en": "She often cooks."
       },
       {
         "jp": "昔の友達とよく遊んでいました。",
         "romaji": "Mukashi no tomodachi to yoku asonde imashita.",
-        "en": "I used to play a lot with my old friends.",
-        "grammar_audio": "/audio/grammar/s_よくyoku~_20230511_昔の友達とよく遊んでいました.mp3"
+        "en": "I used to play a lot with my old friends."
       },
       {
         "jp": "よくできました！",
         "romaji": "Yoku dekimashita!",
-        "en": "Well done!",
-        "grammar_audio": "/audio/grammar/s_よくyoku~_20230511_よくできました！.mp3"
+        "en": "Well done!"
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "150"
+    ]
   },
   {
     "title": "～（場所）に～があります (〜basho ni 〜 ga arimasu)",
@@ -4598,29 +3788,23 @@
       {
         "jp": "図書館にたくさんの本があります。",
         "romaji": "Toshokan ni takusan no hon ga arimasu.",
-        "en": "There are many books in the library.",
-        "grammar_audio": "/audio/grammar/s_場所にがありますbashonigaarimasu_20230511_図書館にたくさんの本があります.mp3"
+        "en": "There are many books in the library."
       },
       {
         "jp": "公園に池があります。",
         "romaji": "Kouen ni ike ga arimasu.",
-        "en": "There is a pond in the park.",
-        "grammar_audio": "/audio/grammar/s_場所にがありますbashonigaarimasu_20230511_公園に池があります.mp3"
+        "en": "There is a pond in the park."
       },
       {
         "jp": "駅の前にコンビニがあります。",
         "romaji": "Eki no mae ni konbini ga arimasu.",
-        "en": "There is a convenience store in front of the station.",
-        "grammar_audio": "/audio/grammar/s_場所にがありますbashonigaarimasu_20230511_駅の前にコンビニがあります.mp3"
+        "en": "There is a convenience store in front of the station."
       },
       {
         "jp": "山の上に神社があります。",
         "romaji": "Yama no ue ni jinja ga arimasu.",
-        "en": "There is a shrine on top of the mountain.",
-        "grammar_audio": "/audio/grammar/s_場所にがありますbashonigaarimasu_20230511_山の上に神社があります.mp3"
+        "en": "There is a shrine on top of the mountain."
       }
-    ],
-    "p_tag": "JLPT_N5",
-    "s_tag": "150"
+    ]
   }
 ]
