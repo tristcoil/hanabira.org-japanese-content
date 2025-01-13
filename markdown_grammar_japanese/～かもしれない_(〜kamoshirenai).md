@@ -1,6 +1,6 @@
 Processing keyword: ～かもしれない (〜kamoshirenai)
 # Japanese Grammar Point: ～かもしれない (〜kamoshirenai)
-# Grammar Lesson: ～かもしれない (〜kamoshirenai)
+
 ## 1. Introduction
 The grammar point **～かもしれない** (*〜kamoshirenai*) is a common way to express **possibility** or **uncertainty** in Japanese. It translates to "might", "may", or "possibly" in English. This structure allows speakers to convey that something **might happen** or that they **aren't sure** about a particular fact.
 
@@ -94,6 +94,7 @@ Attach **かもしれない** directly to the plain form of verbs, adjectives, o
 ---
 ### Cultural Relevance
 In Japanese culture, expressing uncertainty can be a way to show humility and avoid being overly assertive. Using **～かもしれない** allows speakers to present ideas or opinions softly, respecting others' perspectives.
+
 ---
 ### Idiomatic Expressions
 - **知らないかもね。**

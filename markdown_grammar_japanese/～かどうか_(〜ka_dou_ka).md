@@ -1,6 +1,6 @@
 Processing keyword: ～かどうか (〜ka dou ka)
 # Japanese Grammar Point: ～かどうか (〜ka dou ka)
-# ～かどうか (〜ka dou ka)
+
 ## 1. Introduction
 The grammar point **～かどうか (〜ka dou ka)** is used in Japanese to express "**whether or not**" or to embed a yes/no question within a sentence. It's a valuable structure for conveying uncertainty, seeking confirmation, or reporting indirect questions.
 ## 2. Core Grammar Explanation

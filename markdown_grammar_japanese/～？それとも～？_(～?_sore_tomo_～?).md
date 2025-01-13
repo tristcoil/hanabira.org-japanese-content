@@ -1,6 +1,6 @@
 Processing keyword: ～？それとも～？ (～? sore tomo ～?)
 # Japanese Grammar Point: ～？それとも～？ (～? sore tomo ～?)
-# ～？それとも～？ (～? それとも ～?): Presenting Alternatives in Questions
+
 ## 1. Introduction
 The grammar point **～？それとも～？** (～? *sore tomo* ～?) is used in Japanese to present two alternative options within a question, much like "or" in English. This structure is commonly employed in both spoken and written Japanese to ask someone to choose between two possibilities.
 

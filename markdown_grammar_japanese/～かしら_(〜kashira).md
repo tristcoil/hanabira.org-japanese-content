@@ -1,10 +1,10 @@
 Processing keyword: ～かしら (〜kashira)
 # Japanese Grammar Point: ～かしら (〜kashira)
-# Japanese Grammar Point: ～かしら (〜kashira)
 
 ---
 ## 1. Introduction
 The expression **～かしら** (〜kashira) is a sentence-ending particle used to express one's thoughts, doubts, or uncertainties in a nuanced and gentle manner. Predominantly used by women in casual speech, it reflects a contemplative or wondering tone similar to "I wonder..." in English.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -82,7 +82,6 @@ The formation of sentences with **～かしら** is straightforward:
    - *Translation*: "I wonder if it will be sunny tomorrow."
 3. **Which is more masculine: ～かな or ～かしら?**
    - **Answer**: ～かな is more neutral or slightly masculine.
----
 
 
 ---

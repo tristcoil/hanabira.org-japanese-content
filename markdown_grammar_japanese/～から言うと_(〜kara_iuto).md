@@ -1,6 +1,6 @@
 Processing keyword: ～から言うと (〜kara iuto)
 # Japanese Grammar Point: ～から言うと (〜kara iuto)
-# ～から言うと (〜kara iu to)
+
 ## 1. Introduction
 The grammar point ～から言うと (*~kara iu to*) is a Japanese expression used to convey a perspective or standpoint. It translates to "from the point of view of" or "considering". This expression is useful when you want to express an opinion or judgment based on a particular aspect.
 

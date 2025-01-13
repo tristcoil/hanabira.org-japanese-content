@@ -1,6 +1,6 @@
 Processing keyword: ～かける (〜kakeru)
 # Japanese Grammar Point: ～かける (〜kakeru)
-# ～かける (〜kakeru)
+
 ## 1. Introduction
 The grammar point ～かける (〜kakeru) is a versatile expression in Japanese that conveys the meaning of an action being **incomplete** or **in progress**. It often translates to "half-..." or "begun to..." in English, indicating that something has started but not yet finished.
 

@@ -1,6 +1,6 @@
 Processing keyword: ～から見ると (〜kara miru to)
 # Japanese Grammar Point: ～から見ると (〜kara miru to)
-# 〜から見ると (〜kara miru to)
+
 ## 1. Introduction
 Welcome to this lesson on the Japanese grammar point **〜から見ると (〜kara miru to)**. This expression is used to convey a perspective or point of view, much like saying "from the standpoint of" or "from the perspective of" in English. Understanding this grammar point will help you express opinions and observations from various viewpoints in Japanese.
 

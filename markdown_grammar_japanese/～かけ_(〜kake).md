@@ -1,6 +1,6 @@
 Processing keyword: ～かけ (〜kake)
 # Japanese Grammar Point: ～かけ (〜kake)
-# ～かけ (〜kake)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～かけ (〜kake)**. This suffix is used to express actions that have been **started but not yet completed**. It's a handy way to talk about things that are **half-done** or **in progress**.
 

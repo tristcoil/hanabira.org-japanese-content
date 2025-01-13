@@ -1,6 +1,6 @@
 Processing keyword: ～がゆえの Noun (〜ga yue no Noun)
 # Japanese Grammar Point: ～がゆえの Noun (〜ga yue no Noun)
-# ～がゆえの Noun (～ga yue no Noun)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～がゆえの** (**～ga yue no**), a formal expression used to indicate a cause or reason that modifies a noun. Understanding this structure will enhance your ability to read and write more sophisticated Japanese, especially in literary or formal contexts.
 

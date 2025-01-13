@@ -1,6 +1,6 @@
 Processing keyword: ～から～にかけて (〜kara 〜ni kakete)
 # Japanese Grammar Point: ～から～にかけて (〜kara 〜ni kakete)
-# ～から～にかけて (〜kara 〜ni kakete)
+
 ## 1. Introduction
 The grammar point ～から～にかけて (〜kara 〜ni kakete) is used in Japanese to express a range or span between two points in time or space. It is often translated as "from... to..." or "throughout" in English. This expression indicates that something occurs continuously or repeatedly over a certain period or area.
 
@@ -121,7 +121,6 @@ The grammar point ～から～にかけて (〜kara 〜ni kakete) is used in Jap
 ### Answers:
 1. **b) An approximate range between two points**
 2. **c) 昨日から今日にかけて、雨が降りました。**
----
 
 
 ---

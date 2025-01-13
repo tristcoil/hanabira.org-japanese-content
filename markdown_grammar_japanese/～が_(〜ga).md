@@ -1,5 +1,6 @@
 Processing keyword: ～が (〜ga)
 # Japanese Grammar Point: ～が (〜ga)
+
 # 1. Introduction
 In Japanese grammar, particles are essential tools that define the roles of words within a sentence. One such crucial particle is **が (ga)**. Understanding how to use **が** effectively will significantly enhance your ability to construct meaningful and natural sentences in Japanese.
 # 2. Core Grammar Explanation

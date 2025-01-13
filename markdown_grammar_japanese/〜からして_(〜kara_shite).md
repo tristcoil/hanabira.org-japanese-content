@@ -1,6 +1,6 @@
 Processing keyword: 〜からして (〜kara shite)
 # Japanese Grammar Point: 〜からして (〜kara shite)
-# 〜からして (〜kara shite)
+
 ## 1. Introduction
 The grammar point **〜からして (〜kara shite)** is used in Japanese to indicate that something is typical or representative of a broader situation. It often implies that even just considering a specific example, one can make a judgment about the whole. This expression is commonly used to highlight a point from which a conclusion can be drawn.
 
@@ -101,7 +101,6 @@ The expression **〜からして** is neutral in terms of politeness and can be 
 1. **C) Noun**
 2. "His room is strange—even the color of the walls."
 3. **Yes**
----
 
 
 ---

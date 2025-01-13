@@ -1,6 +1,6 @@
 Processing keyword: ～かねない (〜kane nai)
 # Japanese Grammar Point: ～かねない (〜kane nai)
-# ～かねない (〜kane nai)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～かねない (〜kane nai)**. This expression is used to indicate that there is a possibility of something negative or undesirable occurring. Understanding how to use **～かねない** will help you express potential negative outcomes or concerns in various contexts.
 
@@ -92,7 +92,7 @@ A[Verb Stem] --> B[+ かねない] --> C[Potential Negative Outcome]
    - **Answer**: If you say something like that, you might make him angry.
 ---
 By mastering **～かねない**, you can effectively express concerns about potential negative consequences in Japanese, enhancing both your spoken and written communication skills.
----
+
 
 
 ---

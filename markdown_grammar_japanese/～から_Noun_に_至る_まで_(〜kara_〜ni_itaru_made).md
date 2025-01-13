@@ -1,6 +1,6 @@
 Processing keyword: ～から Noun に 至る まで (〜kara 〜ni itaru made)
 # Japanese Grammar Point: ～から Noun に 至る まで (〜kara 〜ni itaru made)
-# ～から Noun に至るまで (〜kara Noun ni itaru made)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～から Noun に至るまで** (〜kara Noun ni itaru made). This expression is used to emphasize the extensive range or scope of something, highlighting that it includes everything from one extreme to another.
 

@@ -1,6 +1,6 @@
 Processing keyword: ～からといって (〜kara to itte)
 # Japanese Grammar Point: ～からといって (〜kara to itte)
-# Grammar Point: ～からといって (〜kara to itte)
+
 ## 1. Introduction
 The expression **～からといって** (〜kara to itte) in Japanese is used to convey that just because one thing is true, it doesn't necessarily mean that another thing is true. It often translates to:
 - "Just because..."

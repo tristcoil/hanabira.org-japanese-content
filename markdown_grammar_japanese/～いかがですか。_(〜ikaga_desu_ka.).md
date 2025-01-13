@@ -1,6 +1,6 @@
 Processing keyword: ～いかがですか。 (〜ikaga desu ka.)
 # Japanese Grammar Point: ～いかがですか。 (〜ikaga desu ka.)
-# ～いかがですか。 (〜ikaga desu ka.)
+
 ## 1. Introduction
 The expression **～いかがですか。** (〜ikaga desu ka.) is a polite and formal way to offer something or inquire about someone's preference, condition, or opinion in Japanese. It's commonly used in business settings, customer service, or when speaking to someone of higher status to show respect and courtesy.
 
@@ -53,6 +53,7 @@ The basic structure is:
 **お手伝いしましょうか。何かお困りのことはいかがですか。**  
 *Otetsudai shimashō ka. Nanika okomari no koto wa ikaga desu ka.*  
 "Shall I assist you? Is there anything you're having trouble with?"
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance

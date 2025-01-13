@@ -1,6 +1,6 @@
 Processing keyword: ～あります (〜arimasu)
 # Japanese Grammar Point: ～あります (〜arimasu)
-# Understanding ～あります (〜arimasu) in Japanese
+
 ## 1. Introduction
 The verb **あります (arimasu)** is an essential Japanese verb used to indicate the existence or presence of **inanimate** objects and to express possession. Mastering **あります** is crucial for constructing basic sentences and communicating effectively about things that exist or that you have.
 

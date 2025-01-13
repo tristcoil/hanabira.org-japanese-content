@@ -1,6 +1,6 @@
 Processing keyword: ～かいもなく (〜kai mo naku)
 # Japanese Grammar Point: ～かいもなく (〜kai mo naku)
-# ～かいもなく (〜kai mo naku)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～かいもなく (〜kai mo naku)**. This expression is used to convey the feeling that despite making an effort or taking action, the expected result was not achieved. It often carries a sense of disappointment or regret.
 ## 2. Core Grammar Explanation

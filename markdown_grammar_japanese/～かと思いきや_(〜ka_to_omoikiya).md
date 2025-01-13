@@ -1,6 +1,6 @@
 Processing keyword: ～かと思いきや (〜ka to omoikiya)
 # Japanese Grammar Point: ～かと思いきや (〜ka to omoikiya)
-# ～かと思いきや (〜ka to omoikiya)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **～かと思いきや (〜ka to omoikiya)**. This expression is used to indicate that something happened contrary to what was expected. It's a valuable tool for expressing surprise or unexpected outcomes in both spoken and written Japanese.
 
@@ -69,6 +69,7 @@ The structure of **～かと思いきや** is:
 **～かと思いきや** is versatile and can be used in both formal and informal contexts. It doesn't carry a particular politeness level but adjusts according to the surrounding language.
 ### Usage in Japanese Culture
 In Japanese communication, there's often an emphasis on indirect expressions and hinting at expectations or surprises. **～かと思いきや** fits into this cultural aspect by allowing speakers to express unexpected outcomes politely and effectively.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes

@@ -1,6 +1,6 @@
 Processing keyword: 〜の上では (〜no ue de wa)
 # Japanese Grammar Point: 〜の上では (〜no ue de wa)
-# 〜の上では (〜no ue de wa)
+
 ## 1. Introduction
 The grammar point **〜の上では (〜no ue de wa)** is used in Japanese to express the idea of "according to" or "from the standpoint of." It often appears in contexts where there's a discrepancy between theory and reality, or when discussing something based on certain information or data.
 

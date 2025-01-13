@@ -1,6 +1,6 @@
 Processing keyword: ～が Verb られる (〜ga Verb rareru)
 # Japanese Grammar Point: ～が Verb られる (〜ga Verb rareru)
-# ～が Verb られる (〜ga Verb rareru)
+
 ## 1. Introduction
 In Japanese, the construction **～が Verb られる** is used to express involuntary actions, spontaneous feelings, or situations where something occurs naturally without the subject's deliberate intent. This form often conveys that an action happens by itself or that the speaker cannot control their feelings or thoughts about something.
 
@@ -118,7 +118,7 @@ Change the ending う sound to the corresponding あ sound + れる
 1. c) Involuntary actions or spontaneous feelings
 2. b) It is raining (naturally).
 3. False. (The spontaneous passive does not involve an agent.)
----
+
 
 
 ---

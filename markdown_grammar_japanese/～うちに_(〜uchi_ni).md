@@ -1,6 +1,6 @@
 Processing keyword: ～うちに (〜uchi ni)
 # Japanese Grammar Point: ～うちに (〜uchi ni)
-# ～うちに (〜uchi ni)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～うちに (〜uchi ni)**, which is commonly used to express the idea of "while" or "before" in English. This grammar structure helps convey actions or changes that occur naturally or should be completed within a certain timeframe.
 
