@@ -1,6 +1,6 @@
 Processing keyword: ～つつ (〜tsutsu)
 # Japanese Grammar Point: ～つつ (〜tsutsu)
-# ～つつ (〜tsutsu)
+
 ## 1. Introduction
 The grammar point **～つつ (〜tsutsu)** is a formal Japanese expression used to indicate two actions occurring simultaneously or to show a contrast between actions or states. It is often found in written language, literature, and formal speeches. Mastering ～つつ will enhance your ability to understand and express nuanced thoughts in Japanese.
 ## 2. Core Grammar Explanation
@@ -20,6 +20,7 @@ Verb Stem + つつ
 ```
 - **Verb Stem**: The base form of a verb without the ます or dictionary form endings.
 **Example of Verb Stems**:
+
 | Verb (Dictionary Form) | Verb Stem | Meaning       |
 |------------------------|-----------|---------------|
 | 食べる (taberu)         | 食べ       | to eat        |

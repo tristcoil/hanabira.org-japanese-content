@@ -1,6 +1,6 @@
 Processing keyword: ～くらい～は～ない (〜kurai 〜wa 〜nai)
 # Japanese Grammar Point: ～くらい～は～ない (〜kurai 〜wa 〜nai)
-# ～くらい～は～ない (〜kurai 〜wa 〜nai)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～くらい～はない** (〜kurai 〜wa 〜nai). This structure is used to express that something is the most or least among all others—essentially saying "there is nothing/no one as... as...". It's a powerful way to emphasize your feelings or opinions about a subject.
 
@@ -121,8 +121,6 @@ In Japanese culture, expressing one's feelings indirectly is common. The use of 
    - **Translation:** "There's no season as hot as summer."
 ---
 By mastering **～くらい～はない**, you can effectively express strong comparisons and emphasize your opinions in Japanese. Keep practicing by creating your own sentences, and soon this grammatical structure will become a natural part of your language skills!
----
-
 
 ---
 

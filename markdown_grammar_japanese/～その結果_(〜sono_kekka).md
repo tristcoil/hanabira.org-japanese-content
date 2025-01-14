@@ -1,6 +1,6 @@
 Processing keyword: ～その結果 (〜sono kekka)
 # Japanese Grammar Point: ～その結果 (〜sono kekka)
-# ～その結果 (〜sono kekka)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～その結果 (〜sono kekka)**, which translates to **"as a result"** or **"consequently"** in English. This expression is used to indicate that something happened as a direct outcome of a preceding action or event.
 
@@ -59,6 +59,7 @@ The basic structure is:
 けいざいが あっかした。そのけっか、おおくの きぎょうが とうさんした。
 **Translation:**
 The economy worsened. As a result, many companies went bankrupt.
+
 ---
 ### Example 2: Formal Spoken
 **Japanese:**
@@ -67,6 +68,7 @@ The economy worsened. As a result, many companies went bankrupt.
 かれは ねっしんに けんきゅうした。そのけっか、じゅうような はっけんを した。
 **Translation:**
 He researched diligently. As a result, he made an important discovery.
+
 ---
 ### Example 3: Informal Written
 **Japanese:**
@@ -75,6 +77,7 @@ He researched diligently. As a result, he made an important discovery.
 よふかし ばかり していた。そのけっか、たいちょうを くずした。
 **Translation:**
 I kept staying up late. As a result, I got sick.
+
 ---
 ### Example 4: Spoken Conversation
 **Japanese:**
@@ -83,6 +86,7 @@ I kept staying up late. As a result, I got sick.
 あたらしい レシピを ためした。そのけっか、おいしい りょうりが できた。
 **Translation:**
 I tried a new recipe. As a result, I made delicious food.
+
 ---
 ## 5. Cultural Notes
 ### Formality and Politeness
@@ -91,6 +95,7 @@ I tried a new recipe. As a result, I made delicious food.
 ### Usage in Japanese Society
 - Emphasizing the consequence of actions is important in Japanese culture, which values cause-and-effect relationships.
 - Recognizing the formality helps convey respect and professionalism.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistake 1: Using in Casual Contexts

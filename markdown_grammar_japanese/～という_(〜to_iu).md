@@ -1,6 +1,6 @@
 Processing keyword: ～という (〜to iu)
 # Japanese Grammar Point: ～という (〜to iu)
-# ～という (〜to iu)
+
 ## 1. Introduction
 The grammar point **～という (〜to iu)** is a versatile expression in Japanese that is commonly used to:
 - Indicate names or titles
@@ -157,9 +157,7 @@ In Japanese culture, indirect communication is often preferred. Using **～と�
 2. **True**
 3. **a) 「桜」という花が好きです。**
 ---
-By mastering **～という**, you will improve your ability to describe and discuss various topics in Japanese with greater clarity and nuance.
----
-Feel free to revisit this guide and practice using **～という** in your daily conversations and writing!
+By mastering **～という**, you will improve your ability to describe and discuss various topics in Japanese with greater clarity and nuance. Feel free to revisit this guide and practice using **～という** in your daily conversations and writing!
 
 
 ---

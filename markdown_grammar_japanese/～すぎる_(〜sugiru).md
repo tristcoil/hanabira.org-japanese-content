@@ -1,6 +1,6 @@
 Processing keyword: ～すぎる (〜sugiru)
 # Japanese Grammar Point: ～すぎる (〜sugiru)
-# ～すぎる (〜sugiru)
+
 ## 1. Introduction
 In Japanese, the grammar pattern ～すぎる (〜sugiru) is used to express the idea of "too much" or "excessively." It's a versatile structure that can be attached to verbs and adjectives to indicate that something is done to an excessive degree. This lesson will explore how to form and use ～すぎる, provide examples in various contexts, and offer insights into common mistakes to avoid.
 

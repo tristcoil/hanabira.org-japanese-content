@@ -1,6 +1,6 @@
 Processing keyword: ～つもりだ (〜tsumori da)
 # Japanese Grammar Point: ～つもりだ (〜tsumori da)
-# JLPT Grammar Point: ～つもりだ (〜tsumori da)
+
 ## 1. Introduction
 The expression **～つもりだ** is a common Japanese grammar point used to indicate one's intention or plan to do something. It allows speakers to convey their future actions or decisions clearly. Understanding this grammar point is essential for expressing intentions in both casual and formal conversations.
 

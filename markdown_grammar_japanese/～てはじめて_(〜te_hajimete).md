@@ -1,6 +1,6 @@
 Processing keyword: ～てはじめて (〜te hajimete)
 # Japanese Grammar Point: ～てはじめて (〜te hajimete)
-# ～てはじめて (〜te hajimete)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～てはじめて (〜te hajimete)**. This structure is used to express the idea that something significant happens **only after** a certain action or event occurs. It emphasizes new experiences, realizations, or changes that were not present before.
 ## 2. Core Grammar Explanation

@@ -1,6 +1,6 @@
 Processing keyword: ～といったらありはしない (〜to ittara ari wa shinai)
 # Japanese Grammar Point: ～といったらありはしない (〜to ittara ari wa shinai)
-# ～といったらありはしない (～to ittara ari wa shinai)
+
 ## 1. Introduction
 The expression **～といったらありはしない** is an emphatic way to express strong emotions or feelings about something, whether positive or negative. It can be translated as "extremely" or "so... that there's no words to describe it." This grammar point is often used in conversational Japanese to emphasize one's feelings about a particular situation or thing.
 
@@ -88,7 +88,6 @@ In Japanese culture, expressing emotions directly is often avoided to maintain h
 1. Use the **な-adjective stem** without **な**: [な-adjective stem] + といったらありはしない.
 2. "Her beauty is beyond words."
 3. Using the **な** in **な-adjectives**; the correct form omits **な** before **といったらありはしない**.
----
 
 
 ---

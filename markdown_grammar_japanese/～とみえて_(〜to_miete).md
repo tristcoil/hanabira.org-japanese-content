@@ -1,6 +1,6 @@
 Processing keyword: ～とみえて (〜to miete)
 # Japanese Grammar Point: ～とみえて (〜to miete)
-# ～とみえて (〜to miete)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～とみえて** (〜to miete), which allows you to express conjecture or inference based on observable evidence. This expression is akin to saying "it seems that..." or "apparently..." in English when you've noticed something that leads you to a conclusion.
 
@@ -44,26 +44,31 @@ While all these expressions can indicate conjecture, they differ in nuances:
 **日本語:** 彼は疲れている**とみえて**、早く寝てしまった。
 **Romaji:** Kare wa tsukarete iru **to miete**, hayaku nete shimatta.
 **English:** He seems to be tired; he went to bed early.
+
 ---
 ### Example 2: Formal Writing
 **日本語:** 新製品は好評**とみえて**、注文が殺到している。
 **Romaji:** Shinseihin wa kōhyō **to miete**, chūmon ga sattō shite iru.
 **English:** It appears the new product is popular; orders are flooding in.
+
 ---
 ### Example 3: Observational Statement
 **日本語:** 子供たちは暇**とみえて**、公園で遊んでいる。
 **Romaji:** Kodomotachi wa hima **to miete**, kōen de asonde iru.
 **English:** The children seem to be free; they're playing in the park.
+
 ---
 ### Example 4: Expressing Surprise
 **日本語:** 彼女は料理が得意**とみえて**、パーティーで手作り料理を披露した。
 **Romaji:** Kanojo wa ryōri ga tokui **to miete**, pātī de tezukuri ryōri o hirō shita.
 **English:** She seems to be good at cooking; she presented homemade dishes at the party.
+
 ---
 ### Example 5: Discussing Weather
 **日本語:** 雪が降った**とみえて**、山が白くなっている。
 **Romaji:** Yuki ga futta **to miete**, yama ga shiroku natte iru.
 **English:** It seems it snowed; the mountains have turned white.
+
 ---
 ## 5. Cultural Notes
 ### Politeness and Formality
@@ -71,17 +76,20 @@ While all these expressions can indicate conjecture, they differ in nuances:
 - It reflects a tendency in Japanese to express judgments or assumptions cautiously.
 ### Idiomatic Expressions
 While **～とみえて** itself isn't highly idiomatic, it's part of a broader pattern of expressions that convey inference based on observation, which is common in Japanese communication.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Mistake 1: Omitting だ with Nouns and な-adjectives
 **Incorrect:** 彼は先生とみえて。
 **Correct:** 彼は先生**だ**とみえて。
 **Tip:** Remember to include **だ** for nouns and な-adjectives before **とみえて**.
+
 ---
 ### Mistake 2: Using Formal Forms Unnecessarily
 **Incorrect:** 彼は忙しいですとみえて。
 **Correct:** 彼は忙しいとみえて。
 **Tip:** Stick to the plain form before **とみえて** even in polite sentences.
+
 ---
 ### Learning Strategies
 - **Visual Association:** Connect **見えて** with **見える** (to appear/see) to remember it relates to appearance or perception.

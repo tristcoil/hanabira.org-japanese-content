@@ -1,6 +1,6 @@
 Processing keyword: ～こととて (〜koto tote)
 # Japanese Grammar Point: ～こととて (〜koto tote)
-# ～こととて (〜koto tote)
+
 ## 1. Introduction
 The grammar point **～こととて** (〜koto tote) is a formal Japanese expression used to indicate a reason or cause, often with a humble or apologetic tone. It conveys the sense of "because of" or "since" in English and is typically found in formal writing or polite speech.
 ## 2. Core Grammar Explanation
@@ -99,7 +99,7 @@ These phrases are often paired with **～こととて** to enhance the apologeti
 3. **Is it appropriate to use ～こととて in casual conversations?**
    **Answer:** No, it's too formal and should be reserved for polite or formal contexts.
 
----
+
 
 
 ---

@@ -1,6 +1,6 @@
 Processing keyword: ～てはいけない (〜te wa ikenai)
 # Japanese Grammar Point: ～てはいけない (〜te wa ikenai)
-# ～てはいけない (〜te wa ikenai)
+
 ## 1. Introduction
 The grammar point ～てはいけない (〜te wa ikenai) is an essential construct in Japanese that expresses prohibition. It is used to tell someone that they must not do something or that something is not allowed.
 
@@ -97,7 +97,7 @@ To form this structure, attach **〜てはいけない** to the **て-form** of 
 1. 廊下を走ってはいけない。 (Rōka o hashitte wa ikenai.)
 2. The **て-form** of the verb.
 3. Less formal.
----
+
 
 
 ---

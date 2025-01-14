@@ -1,6 +1,6 @@
 Processing keyword: ～けれど (〜keredo)
 # Japanese Grammar Point: ～けれど (〜keredo)
-# ～けれど (〜keredo)
+
 ## 1. Introduction
 The Japanese conjunction **～けれど (〜keredo)** is used to connect two clauses, expressing contrast or contradiction between them. It translates to English as "but", "although", or "though". This grammar point is essential for constructing complex sentences and conveying nuanced meanings in Japanese.
 
@@ -154,7 +154,6 @@ Using **～けれど** at the end of a sentence can indicate hesitation or modes
 2. **一生懸命勉強したけれど、試験に合格しなかった。**
    - *Isshōkenmei benkyō shita keredo, shiken ni gōkaku shinakatta.*
 3. **～けど** is more casual.
----
 
 
 ---

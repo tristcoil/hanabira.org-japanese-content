@@ -1,6 +1,6 @@
 Processing keyword: ～さえ (～sae)
 # Japanese Grammar Point: ～さえ (～sae)
-# ～さえ (～sae)
+
 ## 1. Introduction
 The particle **～さえ (sae)** is a versatile tool in Japanese grammar that adds emphasis to sentences. It often conveys meanings like **"even"**, **"if only"**, or **"as long as"**. Mastering ～さえ can help you express nuanced thoughts and highlight unexpected situations in Japanese.
 
@@ -43,26 +43,31 @@ The particle **～さえ (sae)** is a versatile tool in Japanese grammar that ad
 **Sentence**: 漢字は日本人でさえ難しい。
 **Reading**: *Kanji wa Nihonjin de sae muzukashii.*
 **Translation**: *Kanji is difficult even for Japanese people.*
+
 ---
 ### Example 2: Conditional "If only"
 **Sentence**: 君さえいれば幸せです。
 **Reading**: *Kimi sae ireba shiawase desu.*
 **Translation**: *As long as I have you, I'm happy.*
+
 ---
 ### Example 3: Using with Verb Stem
 **Sentence**: 食べさえすれば元気になります。
 **Reading**: *Tabe sae sureba genki ni narimasu.*
 **Translation**: *If you just eat, you'll feel better.*
+
 ---
 ### Example 4: Informal Spoken Context
 **Sentence**: そんなこと、子供でさえ知ってるよ。
 **Reading**: *Sonna koto, kodomo de sae shitteru yo.*
 **Translation**: *Even kids know that!*
+
 ---
 ### Example 5: Formal Written Context
 **Sentence**: 彼は忙しくて、週末さえ休めない。
 **Reading**: *Kare wa isogashikute, shūmatsu sae yasumenai.*
 **Translation**: *He is so busy that he can't even rest on weekends.*
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -99,8 +104,7 @@ The particle **～さえ (sae)** is a versatile tool in Japanese grammar that ad
    **Answer**: ～しか ⇒ 500円しかない。
 ---
 By incorporating **～さえ** into your Japanese, you'll be able to express emphasis and conditions more naturally, enriching your communication skills.
----
-#end
+
 
 
 ---

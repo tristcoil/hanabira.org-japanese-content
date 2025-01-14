@@ -1,6 +1,6 @@
 Processing keyword: ～そうにない (〜sou ni nai)
 # Japanese Grammar Point: ～そうにない (〜sou ni nai)
-# ～そうにない (〜sou ni nai)
+
 ## 1. Introduction
 The grammar pattern **～そうにない** is used in Japanese to express that something **does not seem likely to happen** or is **unlikely to occur**. It conveys the speaker's intuition or observation that a particular event or action probably won't take place.
 
@@ -87,7 +87,6 @@ The structure involves attaching **～そうにない** to the **masu-stem** of 
    - **Answer:** **彼らは時間通りに到着しそうにない。**
 3. What is the difference between **～そうだ** and **～そうにない**?
    - **Answer:** **～そうだ** means "seems like it will happen," whereas **～そうにない** means "does not seem like it will happen."
----
 
 
 ---

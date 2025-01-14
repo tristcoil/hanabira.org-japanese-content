@@ -1,6 +1,6 @@
 Processing keyword: ～くらい (〜kurai)
 # Japanese Grammar Point: ～くらい (〜kurai)
-# ～くらい (〜kurai)
+
 ## 1. Introduction
 The Japanese particle **～くらい (〜kurai)** is a versatile term used to express approximations and degrees. Understanding its usage is essential for conveying quantities and expressing the extent of situations or emotions in Japanese.
 

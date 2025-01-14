@@ -1,6 +1,6 @@
 Processing keyword: ～とすると (〜to suru to)
 # Japanese Grammar Point: ～とすると (〜to suru to)
-# ～とすると (〜to suru to)
+
 ## 1. Introduction
 The grammar point **～とすると** (〜to suru to) is used to express a hypothetical situation or assumption. It translates to **"assuming that..."**, **"supposing that..."**, or **"if we suppose that..."** in English. This expression allows the speaker to discuss potential outcomes based on certain suppositions.
 

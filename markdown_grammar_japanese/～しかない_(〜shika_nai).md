@@ -1,6 +1,6 @@
 Processing keyword: ～しかない (〜shika nai)
 # Japanese Grammar Point: ～しかない (〜shika nai)
-# ～しかない (〜shika nai)
+
 ## 1. Introduction
 The grammar pattern **～しかない (〜shika nai)** is used in Japanese to express the meaning of "only" or "nothing but." It emphasizes that there is no other option or possibility beyond what is stated. It's a useful structure for conveying limitations or expressing that something is the only choice available.
 
@@ -11,12 +11,14 @@ The grammar pattern **～しかない (〜shika nai)** is used in Japanese to ex
 - It emphasizes scarcity or exclusivity, often with a sense of resignation or inevitability.
 ### Structure
 The pattern combines with nouns, verbs, and quantities, always followed by a **negative form** of the verb.
-```markdown
+
 **Formation Diagram**
+
 | Component       | Structure                            |
 |-----------------|--------------------------------------|
 | Noun/Verb (Plain Form) | + しか + Negative Verb Form    |
-```
+
+
 ### Formation
 1. **Noun + しか + Negative Verb**
    - Example: 

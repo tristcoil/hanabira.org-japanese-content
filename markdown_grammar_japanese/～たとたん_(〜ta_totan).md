@@ -1,6 +1,6 @@
 Processing keyword: ～たとたん (〜ta totan)
 # Japanese Grammar Point: ～たとたん (〜ta totan)
-# ～たとたん (〜ta totan)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～たとたん (〜ta totan)**. This expression is used to indicate that something happened immediately after another action was completed. Understanding **～たとたん** will help you convey sudden and unexpected events in your Japanese conversations and writings.
 

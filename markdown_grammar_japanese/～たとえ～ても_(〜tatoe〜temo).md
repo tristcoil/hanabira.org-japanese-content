@@ -1,6 +1,6 @@
 Processing keyword: ～たとえ～ても (〜tatoe〜temo)
 # Japanese Grammar Point: ～たとえ～ても (〜tatoe〜temo)
-# ～たとえ～ても (tatoe ~ temo)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～たとえ～ても** (*tatoe ~ temo*), which is used to express situations where an outcome remains the same **even if** a certain condition exists. Mastering this structure will enhance your ability to convey hypothetical situations and emphasize unwavering intentions in Japanese.
 
@@ -94,7 +94,7 @@ In Japanese culture, perseverance and determination are highly valued traits. Us
 2. たとえ **忙しく** ても、あなたを **手伝います**。
 3. It reflects the cultural values of perseverance and determination, showing a strong will to continue regardless of obstacles.
 ---
-# Thank you for studying with us!
+
 Practice using **たとえ～ても** in your daily conversations to become more comfortable with expressing hypothetical situations in Japanese.
 
 

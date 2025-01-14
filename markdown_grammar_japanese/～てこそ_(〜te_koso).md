@@ -1,6 +1,6 @@
 Processing keyword: ～てこそ (〜te koso)
 # Japanese Grammar Point: ～てこそ (〜te koso)
-# ～てこそ (〜te koso)
+
 ## 1. Introduction
 The grammar point ～てこそ (〜te koso) is an expressive way to emphasize that only by doing a certain action or only when a particular condition is met can a desired result or state be achieved. It's often translated as "only when" or "now that".
 
@@ -89,7 +89,7 @@ In Japanese culture, emphasis is often placed on effort, humility, and the impor
    - Or, if emphasizing that only by going to Japan can you study Japanese deeply:
    - **日本に行ってこそ、日本語を深く学べる。**
 </details>
----
+
 
 
 ---

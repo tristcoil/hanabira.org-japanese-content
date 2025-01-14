@@ -1,6 +1,6 @@
 Processing keyword: ～どう 言いますか。 (〜dou iimasu ka.)
 # Japanese Grammar Point: ～どう 言いますか。 (〜dou iimasu ka.)
-# ～どう言いますか (〜どう いいますか) - "How Do You Say ～?"
+
 ## 1. Introduction
 The phrase **～どう言いますか** (〜どう いいますか) is an essential expression in Japanese that means **"How do you say ～?"**. It's a crucial tool for language learners to ask for translations and expand their vocabulary. This phrase allows you to inquire about the Japanese equivalent of an English word or phrase (or vice versa), facilitating better communication and understanding.
 

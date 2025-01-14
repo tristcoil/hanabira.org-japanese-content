@@ -1,6 +1,6 @@
 Processing keyword: ～つもりで (〜tsumori de)
 # Japanese Grammar Point: ～つもりで (〜tsumori de)
-# ～つもりで (〜tsumori de)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～つもりで (〜tsumori de)**. This expression is used to convey doing something with a particular intention or under a certain assumption. Understanding how to use ～つもりで will help you express your mindset or approach when performing actions in Japanese.
 

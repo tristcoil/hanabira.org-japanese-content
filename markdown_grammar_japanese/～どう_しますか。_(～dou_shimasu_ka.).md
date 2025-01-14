@@ -1,6 +1,6 @@
 Processing keyword: ～どう しますか。 (～dou shimasu ka.)
 # Japanese Grammar Point: ～どう しますか。 (～dou shimasu ka.)
-# Grammar Lesson: ～どうしますか。 (～dou shimasu ka.)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～どうしますか** (～dou shimasu ka.), which is used to ask someone what they will do or how they will handle a certain situation. This expression is commonly used in everyday conversations to inquire about plans, decisions, or actions regarding a specific topic.
 

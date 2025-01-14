@@ -1,6 +1,6 @@
 Processing keyword: ～てかなわない (〜te kanawanai)
 # Japanese Grammar Point: ～てかなわない (〜te kanawanai)
-# 〜てかなわない (〜te kanawanai)
+
 ## 1. Introduction
 The grammar point **〜てかなわない** is used to express a strong sense of being unable to tolerate or endure something because it is unbearable or intolerable. It conveys feelings of annoyance, frustration, or discomfort caused by external factors.
 
@@ -101,7 +101,6 @@ While **〜てかなわない** is itself an expression of intolerance, it's oft
 1. **会議が早くてかなわない。**
 2. **False.** It's used for expressing annoyance or discomfort, not positive desires.
 3. **b) このペンは書きにくくてかなわない。**
----
 
 
 ---

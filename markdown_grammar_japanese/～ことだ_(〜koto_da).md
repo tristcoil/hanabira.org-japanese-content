@@ -1,6 +1,6 @@
 Processing keyword: ～ことだ (〜koto da)
 # Japanese Grammar Point: ～ことだ (〜koto da)
-# ～ことだ (〜koto da)
+
 ## Introduction
 In this lesson, we'll explore the Japanese grammar point **～ことだ (〜koto da)**. This expression is frequently used to give advice or suggest that someone should (or should not) do something. Understanding how to use **～ことだ** correctly will enhance your ability to express recommendations and comprehend nuances in everyday conversations.
 

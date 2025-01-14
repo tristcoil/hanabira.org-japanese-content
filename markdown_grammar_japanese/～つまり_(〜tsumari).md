@@ -1,10 +1,11 @@
 Processing keyword: ～つまり (〜tsumari)
 # Japanese Grammar Point: ～つまり (〜tsumari)
-# Grammar Lesson: ～つまり (〜tsumari)
+
 
 ---
 ## 1. Introduction
 In this lesson, we'll explore the Japanese conjunction **「つまり」 (tsumari)**. This grammar point is essential for expressing summaries, conclusions, or restatements in conversations and writing. Understanding how to use 「つまり」 will help you clarify your thoughts and ensure your listener understands your point.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -42,6 +43,7 @@ In this lesson, we'll explore the Japanese conjunction **「つまり」 (tsumar
 Kare wa chichi no otōto no musuko desu. Tsumari, watashi no itoko desu.
 **English Translation:**  
 He is my father's younger brother's son. In other words, he's my cousin.
+
 ---
 ### Example 2: Summarizing a Situation
 **Japanese:**  
@@ -50,6 +52,7 @@ He is my father's younger brother's son. In other words, he's my cousin.
 Ame mo futte iru shi, densha mo okurete iru. Tsumari, kyō wa dekakenai hō ga ii.
 **English Translation:**  
 It's raining, and the trains are delayed. In short, it's better not to go out today.
+
 ---
 ### Example 3: Restating for Clarity
 **Japanese:**  
@@ -58,6 +61,7 @@ It's raining, and the trains are delayed. In short, it's better not to go out to
 Kono nedan wa zeikomi desu. Tsumari, shōhizei o fukunda kakaku desu.
 **English Translation:**  
 This price includes tax. That is to say, it's the price with consumption tax included.
+
 ---
 ### Example 4: Explaining in Conversation (Informal)
 **Japanese:**  
@@ -66,6 +70,7 @@ This price includes tax. That is to say, it's the price with consumption tax inc
 Kare, shigoto o yametan datte. Tsumari, ano purojekuto wa chūshi kana.
 **English Translation:**  
 He quit his job, they say. So basically, that project might be canceled.
+
 ---
 ## 5. Cultural Notes
 ### Politeness and Formality

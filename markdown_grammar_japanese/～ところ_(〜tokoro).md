@@ -1,6 +1,6 @@
 Processing keyword: ～ところ (〜tokoro)
 # Japanese Grammar Point: ～ところ (〜tokoro)
-# ～ところ (〜tokoro)
+
 ## 1. Introduction
 The Japanese grammar point ～ところ (〜tokoro) is a versatile expression that can indicate a specific point in time relative to an action. It translates roughly to "about to," "in the middle of," or "just finished" an action, depending on the verb form used. Understanding ～ところ is essential for conveying precise timing and is commonly used in everyday Japanese.
 
@@ -67,6 +67,7 @@ The use of **です/ます** forms in sentences with ～ところ adjusts the po
   - *今出かけるところです。* - "I'm about to go out."
 ### Emphasis on Timing
 Japanese culture often places importance on punctuality and the timing of actions. Using ～ところ accurately conveys respect for others' time by specifying exactly when an action is happening.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes

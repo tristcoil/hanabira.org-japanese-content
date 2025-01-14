@@ -1,6 +1,6 @@
 Processing keyword: ～てほしい (〜te hoshii)
 # Japanese Grammar Point: ～てほしい (〜te hoshii)
-# ～てほしい (〜te hoshii)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～てほしい (〜te hoshii)**, which is used to express a desire for someone else to do something. This structure is essential for conveying your wishes or requests regarding others' actions in a natural and polite manner.
 ## 2. Core Grammar Explanation

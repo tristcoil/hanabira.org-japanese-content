@@ -1,6 +1,6 @@
 Processing keyword: ～だろうとなかろうと (〜darou to nakarou to)
 # Japanese Grammar Point: ～だろうとなかろうと (〜darou to nakarou to)
-# JLPT Grammar Lesson: ～だろうとなかろうと (〜darou to nakarou to)
+
 ## 1. Introduction
 Welcome to today's lesson on the Japanese grammar point **～だろうとなかろうと (〜darou to nakarou to)**. This expression is used to convey "whether or not" and emphasizes that the outcome remains the same regardless of the condition. It's a formal phrase often found in written language and speeches.
 

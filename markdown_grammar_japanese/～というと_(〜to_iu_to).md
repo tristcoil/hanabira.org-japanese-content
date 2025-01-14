@@ -1,10 +1,11 @@
 Processing keyword: ～というと (〜to iu to)
 # Japanese Grammar Point: ～というと (〜to iu to)
-# JLPT Grammar Lesson: ～というと (〜to iu to)
+
 
 ---
 ## 1. Introduction
 Welcome to today's grammar lesson! We will explore the Japanese expression **～というと (〜to iu to)**, a useful phrase that helps you make associations or prompt further discussion on a topic. This expression is common in both spoken and written Japanese, and mastering it will enhance your conversational skills.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

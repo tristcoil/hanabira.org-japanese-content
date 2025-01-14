@@ -1,6 +1,6 @@
 Processing keyword: ～ことはない (〜koto wa nai)
 # Japanese Grammar Point: ～ことはない (〜koto wa nai)
-# 〜ことはない (〜koto wa nai)
+
 ## 1. Introduction
 The expression **〜ことはない** in Japanese is used to indicate that there is **no need to do something** or that an action is **unnecessary**. It's often used to reassure someone or to tell them that a certain action is not required.
 
@@ -102,7 +102,6 @@ The expression **〜ことはない** in Japanese is used to indicate that there
    **Answer:** The **dictionary form** of the verb.
 3. **True or False:** "行かないことはない" means "There's no need to go."
    **Answer:** False. It means "It's not that I won't go."
----
 
 
 ---

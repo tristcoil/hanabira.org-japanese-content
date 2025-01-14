@@ -1,6 +1,6 @@
 Processing keyword: ～でしょう (〜deshou)
 # Japanese Grammar Point: ～でしょう (〜deshou)
-# ～でしょう (〜deshou)
+
 ## 1. Introduction
 The grammar point **～でしょう** (〜deshou) is a versatile expression in Japanese used to indicate probability, conjecture, or to seek confirmation. It often translates to "probably," "I think," or "isn't it?" in English. Understanding how to use **～でしょう** correctly will enhance your ability to express uncertainty, make predictions, and confirm information in both formal and informal contexts.
 
@@ -105,7 +105,7 @@ B --> C[+ でしょう]
 2. **～でしょう** is more formal.
 3. **彼は先生でしょう。**  
    *Kare wa sensei deshou.*
----
+
 
 
 ---

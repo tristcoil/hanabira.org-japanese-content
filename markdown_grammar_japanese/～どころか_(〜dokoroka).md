@@ -1,6 +1,6 @@
 Processing keyword: ～どころか (〜dokoroka)
 # Japanese Grammar Point: ～どころか (〜dokoroka)
-# ～どころか (〜dokoroka)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～どころか** (〜dokoroka), which is used to express a stark contrast or to emphasize that something is far from what is expected. This grammar point is often used to highlight that not only did the expected outcome not occur, but the opposite happened.
 
@@ -64,6 +64,7 @@ Far from helping, he's causing trouble.
 Kanojo wa uta ga heta na dokoroka, puro no kashu da.  
 **English:**  
 Far from being bad at singing, she's a professional singer.
+
 ---
 ## 5. Cultural Notes
 ### Levels of Politeness

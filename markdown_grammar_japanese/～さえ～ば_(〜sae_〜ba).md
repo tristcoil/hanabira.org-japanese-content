@@ -1,6 +1,6 @@
 Processing keyword: ～さえ～ば (〜sae 〜ba)
 # Japanese Grammar Point: ～さえ～ば (〜sae 〜ba)
-# ～さえ～ば (〜sae 〜ba)
+
 ## 1. Introduction
 The Japanese grammar pattern **～さえ～ば** (〜sae 〜ba) is a versatile and commonly used construction that expresses the meaning of "**if only...**, **as long as...**, or **provided that...**". It emphasizes that a minimal or single condition is sufficient for a certain result or state to occur. Mastering this grammar point will greatly enhance your ability to express conditional statements and minimal requirements in Japanese.
 
@@ -151,7 +151,6 @@ This reflects the Japanese value placed on perseverance and holding onto hope de
 ---
 By understanding **～さえ～ば**, you can effectively express minimal conditions and enhance your fluency in Japanese. Keep practicing by incorporating this structure into your daily conversations!
 
----
 
 
 ---

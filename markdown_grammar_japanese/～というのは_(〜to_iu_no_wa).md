@@ -1,6 +1,6 @@
 Processing keyword: ～というのは (〜to iu no wa)
 # Japanese Grammar Point: ～というのは (〜to iu no wa)
-# ～というのは (〜to iu no wa)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **～というのは (〜to iu no wa)**. This structure is commonly used in Japanese to define or explain the meaning of a word or phrase. It's a handy tool for clarifying terms, asking for definitions, or providing explanations, making your conversations more precise and meaningful.
 
@@ -36,21 +36,25 @@ The basic structure is:
 **Japanese:** 友達というのは、困ったときに助けてくれる人のことです。
 **Romaji:** Tomodachi to iu no wa, komatta toki ni tasukete kureru hito no koto desu.
 **English:** "A friend is someone who helps you when you're in trouble."
+
 ---
 ### Example 2: Asking for a Definition
 **Japanese:** 「おもてなし」というのは、どういう意味ですか？
 **Romaji:** "Omotenashi" to iu no wa, dō iu imi desu ka?
 **English:** "What does 'omotenashi' mean?"
+
 ---
 ### Example 3: Clarifying a Concept in Conversation (Informal)
 **Japanese:** デジタルデトックスというのは、スマホとかパソコンを使わない時間を作ることだよ。
 **Romaji:** Dejitaru detokkusu to iu no wa, sumaho toka pasokon o tsukawanai jikan o tsukuru koto dayo.
 **English:** "Digital detox is about setting time when you don't use your smartphone or computer."
+
 ---
 ### Example 4: Explaining in a Formal Context
 **Japanese:** 持続可能というのは、長期的に維持できるという意味です。
 **Romaji:** Jizoku kanō to iu no wa, chōkiteki ni iji dekiru to iu imi desu.
 **English:** "'Sustainable' means that something can be maintained over the long term."
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance

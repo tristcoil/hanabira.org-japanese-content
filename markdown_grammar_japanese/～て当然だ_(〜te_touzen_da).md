@@ -1,6 +1,6 @@
 Processing keyword: ～て当然だ (〜te touzen da)
 # Japanese Grammar Point: ～て当然だ (〜te touzen da)
-# ～て当然だ (〜te tōzen da)
+
 ## 1. Introduction
 The grammar point ～て当然だ (〜te tōzen da) is used in Japanese to express that something is natural or expected given the circumstances. It conveys the idea that an action or state is no surprise and is to be expected.
 
@@ -53,6 +53,7 @@ The expression ～て当然だ is used to state that a certain outcome or reacti
 Chōjikan hatarakeba tsukarete ite tōzen desu.
 **Translation**:  
 "If you work long hours, it is natural to be tired."
+
 ---
 ### Example 2: Informal Context
 **Japanese**:  
@@ -61,6 +62,7 @@ Chōjikan hatarakeba tsukarete ite tōzen desu.
 Kanojo ga okotte iru no wa tōzen da.
 **Translation**:  
 "It's no wonder she's angry."
+
 ---
 ### Example 3: Written Context
 **Japanese**:  
@@ -69,6 +71,7 @@ Kanojo ga okotte iru no wa tōzen da.
 Shiken ga chikai no dakara, kare ga kinchō shite ite tōzen da.
 **Translation**:  
 "Since the exam is approaching, it's natural that he's nervous."
+
 ---
 ### Example 4: Spoken Context
 **Japanese**:  
@@ -77,6 +80,7 @@ Shiken ga chikai no dakara, kare ga kinchō shite ite tōzen da.
 Mainichi renshū shiterun dakara, umaku naru no wa tōzen da yo.
 **Translation**:  
 "You've been practicing every day, so of course you're getting better."
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -122,7 +126,7 @@ Mainichi renshū shiterun dakara, umaku naru no wa tōzen da yo.
    "It's no wonder he was late." or "It's natural that he was late."
 3. **Answer**:  
    **～のも無理はない** conveys a stronger sense of empathy or understanding.
----
+
 
 
 ---

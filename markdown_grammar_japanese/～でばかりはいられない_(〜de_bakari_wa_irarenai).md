@@ -1,6 +1,6 @@
 Processing keyword: ～でばかりはいられない (〜de bakari wa irarenai)
 # Japanese Grammar Point: ～でばかりはいられない (〜de bakari wa irarenai)
-# ～でばかりはいられない (〜de bakari wa irarenai)
+
 ## 1. Introduction
 The grammar point ～でばかりはいられない (〜でばかりはいられない) expresses the idea that one **cannot keep doing only** a particular action. It conveys a sense of needing to change behavior or take action, highlighting that one can't remain in the current state forever.
 

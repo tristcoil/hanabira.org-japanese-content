@@ -1,6 +1,6 @@
 Processing keyword: ～ていられない (〜te irarenai)
 # Japanese Grammar Point: ～ていられない (〜te irarenai)
-# ～ていられない (〜te irarenai)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～ていられない (〜te irarenai)**. This expression is essential for conveying that one **cannot continue doing something** or **can't afford to do something** due to certain circumstances. Understanding this grammar point will enhance your ability to express urgency and limitations in Japanese.
 

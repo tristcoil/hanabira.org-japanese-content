@@ -1,6 +1,6 @@
 Processing keyword: ～さ～ (〜sa〜)
 # Japanese Grammar Point: ～さ～ (〜sa〜)
-# ～さ～ (〜sa〜) Grammar Point
+
 ## 1. Introduction
 In casual Japanese conversation, certain particles are used to express emotions, emphasize statements, or engage the listener. One such particle is **～さ～ (sa)**. This particle adds a tone of informality and emphasis to statements, making conversations feel more natural and engaging.
 

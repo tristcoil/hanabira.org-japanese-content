@@ -1,6 +1,6 @@
 Processing keyword: ～どころではない (〜Dokoro de wa nai)
 # Japanese Grammar Point: ～どころではない (〜Dokoro de wa nai)
-# ～どころではない (〜Dokoro de wa nai)
+
 ## 1. Introduction
 The grammar point ～どころではない (〜dokoro de wa nai) is an expression used to indicate that something is far from being possible due to certain circumstances. It conveys a strong denial or emphasizes that the situation is not suitable for the intended action.
 

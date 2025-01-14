@@ -1,6 +1,6 @@
 Processing keyword: ～とく (〜toku)
 # Japanese Grammar Point: ～とく (〜toku)
-# ～とく (〜toku)
+
 ## 1. Introduction
 The grammar point ～とく (〜toku) is a casual contraction often used in spoken Japanese. It originates from the phrase ～ておく (~te oku), which means "to do something in advance" or "to do something for future purposes." Understanding this contraction is essential for comprehending and engaging in everyday conversations in Japanese.
 

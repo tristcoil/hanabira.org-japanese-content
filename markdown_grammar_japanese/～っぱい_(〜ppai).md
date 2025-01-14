@@ -1,6 +1,6 @@
 Processing keyword: ～っぱい (〜ppai)
 # Japanese Grammar Point: ～っぱい (〜ppai)
-# ～っぽい (〜ppoi) Grammar Lesson
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～っぽい (〜ppoi)**. This suffix is commonly used to describe something that has a certain quality or tendency, similar to "-ish" or "like" in English. Understanding how to use **～っぽい** will help you express subtle nuances in descriptions and personal characteristics.
 

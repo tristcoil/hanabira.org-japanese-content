@@ -1,6 +1,6 @@
 Processing keyword: ～こと (〜koto)
 # Japanese Grammar Point: ～こと (〜koto)
-# ～こと (〜koto)
+
 ## 1. Introduction
 The Japanese grammar point **～こと (koto)** is a versatile term that plays multiple roles in the language. Primarily, it is used to:
 - **Nominalize verbs and adjectives**, turning them into noun phrases.

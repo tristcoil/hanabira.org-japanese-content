@@ -1,6 +1,6 @@
 Processing keyword: ～でしょうがない (〜deshou ga nai)
 # Japanese Grammar Point: ～でしょうがない (〜deshou ga nai)
-# ～でしょうがない (〜deshou ga nai)
+
 ## 1. Introduction
 The grammar point **～でしょうがない** (〜deshou ga nai) is used in Japanese to express strong, uncontrollable feelings or sensations. It conveys that something is so intense that one **"can't help but feel"** a certain way. This expression adds emphasis to emotions, desires, or physical sensations that are overwhelming.
 
@@ -99,7 +99,6 @@ Here are some natural-sounding sentences using **～でしょうがない** in v
    - **Answer**: 映画が気になってしょうがない。
 ---
 By understanding and practicing **～でしょうがない**, you can more naturally express strong feelings in Japanese, adding depth to your language skills.
----
 
 
 ---

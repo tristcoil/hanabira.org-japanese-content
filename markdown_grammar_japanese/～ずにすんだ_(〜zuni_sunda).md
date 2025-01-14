@@ -1,6 +1,6 @@
 Processing keyword: ～ずにすんだ (〜zuni sunda)
 # Japanese Grammar Point: ～ずにすんだ (〜zuni sunda)
-**Grammar Point:** ～ずにすんだ (〜zuni sunda)
+
 # 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～ずにすんだ (〜zuni sunda)**. This expression is used to convey relief that an action you anticipated or feared didn't happen, or that you managed to avoid doing something undesirable.
 # 2. Core Grammar Explanation
@@ -63,6 +63,7 @@ The problem was resolved quickly, so I avoided wasting time.
 Kokyaku kara no kureemu o ukezuni sunde anshin shimashita.
 **English Translation:**
 I'm relieved that we avoided receiving a complaint from the customer.
+
 ---
 ### Example 3: Casual Spoken Context
 **Japanese:**
@@ -71,6 +72,7 @@ I'm relieved that we avoided receiving a complaint from the customer.
 Jūtai ga nakatta kara, chikoku sezu ni sunda yo.
 **English Translation:**
 Since there was no traffic jam, I managed not to be late.
+
 ---
 ### Example 4: Personal Experience
 **Japanese:**
@@ -79,6 +81,7 @@ Since there was no traffic jam, I managed not to be late.
 Tomodachi ga kuruma de okutte kureta node, arukazu ni sunda.
 **English Translation:**
 My friend gave me a ride, so I didn't have to walk.
+
 ---
 ### Example 5: Avoiding Unpleasant Task
 **Japanese:**
@@ -87,6 +90,7 @@ My friend gave me a ride, so I didn't have to walk.
 Kōun ni mo shiken o ukezuni sunda.
 **English Translation:**
 Fortunately, I was able to avoid taking the exam.
+
 ---
 # 5. Cultural Notes
 ## Cultural Relevance

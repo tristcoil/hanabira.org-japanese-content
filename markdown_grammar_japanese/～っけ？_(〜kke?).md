@@ -1,6 +1,6 @@
 Processing keyword: ～っけ？ (〜kke?)
 # Japanese Grammar Point: ～っけ？ (〜kke?)
-# ～っけ？ (〜kke?)
+
 ## 1. Introduction
 The Japanese sentence-ending particle **～っけ** (〜kke?) is used when the speaker is trying to recall information they have forgotten or are unsure about. It conveys a sense of *"Was it... again?"*, *"I wonder..."*, or *"What was it again?"*. This expression adds a casual, sometimes introspective tone to the sentence.
 

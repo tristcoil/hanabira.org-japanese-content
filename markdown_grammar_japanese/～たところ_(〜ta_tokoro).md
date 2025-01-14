@@ -1,6 +1,6 @@
 Processing keyword: ～たところ (〜ta tokoro)
 # Japanese Grammar Point: ～たところ (〜ta tokoro)
-# ～たところ (〜ta tokoro)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～たところ (〜ta tokoro)**. This expression is used to indicate that upon completing an action, a certain result or unexpected situation occurred. Mastering this grammar point will help you describe sequences of events and their outcomes in Japanese more naturally.
 
@@ -49,26 +49,31 @@ In this lesson, we'll explore the Japanese grammar point **～たところ (〜t
 **Sentence:** ドアを開けたところ、猫が入ってきた。
 **Reading:** ドアを あけたところ、ねこが はいってきた。
 **Translation:** When I opened the door, a cat came in.
+
 ---
 ### Example 2: Formal Speech
 **Sentence:** 申込書を送ったところ、すぐに返信をいただきました。
 **Reading:** もうしこみしょを おくったところ、すぐに へんしんを いただきました。
 **Translation:** When I sent the application form, I received a reply immediately.
+
 ---
 ### Example 3: Past Experience
 **Sentence:** 新しいケーキを作ってみたところ、家族に大好評だった。
 **Reading:** あたらしい ケーキを つくってみたところ、かぞくに だいこうひょうだった。
 **Translation:** When I tried making a new cake, it was a big hit with my family.
+
 ---
 ### Example 4: Unexpected Outcome
 **Sentence:** 高い山に登ったところ、雪が降り始めた。
 **Reading:** たかい やまに のぼったところ、ゆきが ふりはじめた。
 **Translation:** When I climbed the high mountain, it started to snow.
+
 ---
 ### Example 5: Discovery
 **Sentence:** 古い箱を開けたところ、昔の写真が見つかった。
 **Reading:** ふるい はこを あけたところ、むかしの しゃしんが みつかった。
 **Translation:** When I opened the old box, I found some old photographs.
+
 ---
 ## 5. Cultural Notes
 ### Levels of Politeness and Formality
@@ -76,6 +81,7 @@ In this lesson, we'll explore the Japanese grammar point **～たところ (〜t
 - Can be used in casual conversations and formal settings, adjusting the surrounding language to match the desired level of politeness.
 ### Idiomatic Expressions
 While **～たところ** itself is a grammatical construction, it's often found in idiomatic phrases and expressions that convey a sense of discovery or unexpected results, reflecting the Japanese cultural appreciation for subtle revelations.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Mistake 1: Using the Wrong Verb Form

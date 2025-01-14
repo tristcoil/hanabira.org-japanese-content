@@ -1,6 +1,6 @@
 Processing keyword: ～としたら (〜to shitara)
 # Japanese Grammar Point: ～としたら (〜to shitara)
-# ～としたら (〜to shitara)
+
 ## 1. Introduction
 The grammar point **～としたら** (〜to shitara) is used in Japanese to discuss hypothetical situations or to make suppositions that are uncertain or unlikely to happen. It translates to **"if we assume that..."**, **"if it were the case that..."**, or **"supposing that..."** in English.
 

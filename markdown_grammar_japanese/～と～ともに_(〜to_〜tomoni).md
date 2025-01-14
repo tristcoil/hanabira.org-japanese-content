@@ -1,6 +1,6 @@
 Processing keyword: ～と～ともに (〜to 〜tomoni)
 # Japanese Grammar Point: ～と～ともに (〜to 〜tomoni)
-# ～と～ともに (〜to 〜tomoni)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar pattern **～と～ともに (〜to 〜tomoni)**. This structure is commonly used to express the meaning of "together with," "along with," or "as... then...". It indicates that two actions or states occur simultaneously or that one change happens alongside another.
 Understanding this grammar point will enhance your ability to describe simultaneous actions, parallel changes, and relationships between events or states in Japanese.

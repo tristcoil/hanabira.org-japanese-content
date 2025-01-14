@@ -1,6 +1,6 @@
 Processing keyword: ～たびに (〜tabi ni)
 # Japanese Grammar Point: ～たびに (〜tabi ni)
-# ～たびに (〜tabi ni)
+
 ## 1. Introduction
 The grammar point ～たびに (〜tabi ni) is a useful expression in Japanese that translates to "every time" or "whenever" in English. It is used to indicate that whenever a certain action or event occurs, another action or event invariably follows.
 
@@ -101,7 +101,7 @@ The grammar point ～たびに (〜tabi ni) is a useful expression in Japanese t
 2. False
 3. b) 旅行のたびに、新しい文化を学ぶ。
 ---
-# Thank you for studying ～たびに (〜tabi ni)!
+
 Feel free to review this lesson and practice creating your own sentences using ～たびに.
 
 

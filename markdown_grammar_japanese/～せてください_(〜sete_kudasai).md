@@ -1,6 +1,6 @@
 Processing keyword: ～せてください (〜sete kudasai)
 # Japanese Grammar Point: ～せてください (〜sete kudasai)
-# ～せてください (〜sete kudasai)
+
 ## 1. Introduction
 The grammar point **～せてください (〜sete kudasai)** is a polite expression used in Japanese to request permission to perform an action oneself. It translates to "Please let me..." or "Please allow me to...". This form is essential for expressing desires respectfully and is commonly used in both formal and informal settings.
 

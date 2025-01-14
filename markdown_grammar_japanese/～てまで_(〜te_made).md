@@ -1,6 +1,6 @@
 Processing keyword: ～てまで (〜te made)
 # Japanese Grammar Point: ～てまで (〜te made)
-# ～てまで (〜te made) Grammar Point
+
 ## 1. Introduction
 The grammar pattern **～てまで (〜te made)** is used in Japanese to express the idea of going to great lengths, even to the extent of doing something extreme or undesirable, to achieve a certain outcome. It often carries a connotation of surprise, criticism, or disapproval towards the extent of the action taken.
 
@@ -21,6 +21,7 @@ Verbて-form + まで
 ---
 ### Detailed Explanation
 The pattern **～てまで** is attached to the **て-form of a verb**, indicating that someone does something to an extreme degree, often beyond what is considered normal or acceptable, in order to achieve a certain goal. It highlights the lengths to which someone is willing to go, sometimes suggesting that the action is excessive or unnecessary.
+
 ---
 ## 3. Comparative Analysis
 ### Comparison with ～までして (～made shite)
@@ -95,7 +96,7 @@ The use of **～てまで** is neutral in politeness but the context in which it
 ---
 ### Additional Practice
 Try creating sentences using **～てまで** about actions you might consider excessive or unnecessary in your own life.
----
+
 
 
 ---

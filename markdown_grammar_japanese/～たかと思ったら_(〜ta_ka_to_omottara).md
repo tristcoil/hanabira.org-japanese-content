@@ -1,6 +1,6 @@
 Processing keyword: ～たかと思ったら (〜ta ka to omottara)
 # Japanese Grammar Point: ～たかと思ったら (〜ta ka to omottara)
-# ～たかと思ったら (〜ta ka to omottara)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **～たかと思ったら (〜ta ka to omottara)**. This expression is used to describe situations where something happens immediately after another thing, often unexpectedly or surprisingly. By mastering this grammar point, you'll be able to articulate sudden changes or events that occur in quick succession.
 ## 2. Core Grammar Explanation

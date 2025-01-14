@@ -1,6 +1,6 @@
 Processing keyword: ～ではすまない (〜dewa sumanai)
 # Japanese Grammar Point: ～ではすまない (〜dewa sumanai)
-# Understanding the Japanese Grammar Point: ～ではすまない (〜dewa sumanai)
+
 ## 1. Introduction
 In Japanese, expressing that something cannot be resolved or overlooked easily requires specific grammatical structures. One such expression is **～ではすまない (〜dewa sumanai)**, which conveys the idea that "it won't end with just..." or "cannot be settled with only...". This grammar point is essential for expressing a sense of inevitability or insufficiency in dealing with a situation, often implying that more serious consequences or actions are necessary.
 

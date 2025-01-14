@@ -1,6 +1,6 @@
 Processing keyword: ～でならない (〜de naranai)
 # Japanese Grammar Point: ～でならない (〜de naranai)
-# ～でならない (〜de naranai)
+
 ## 1. Introduction
 The expression **～でならない (〜de naranai)** is used in Japanese to convey an overwhelming emotion or feeling that cannot be controlled. It often translates to phrases like:
 - "can't help but..."
@@ -87,6 +87,7 @@ Both expressions convey strong emotions or feelings, but they have subtle differ
   - Polite conversations.
 ### Idiomatic Expressions
 While not idiomatic, this expression can add a **literary** or **poetic** tone to your language, making it sound more sophisticated.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

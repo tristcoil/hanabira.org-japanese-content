@@ -1,6 +1,6 @@
 Processing keyword: ～っこない (〜kkonai)
 # Japanese Grammar Point: ～っこない (〜kkonai)
-# ～っこない (〜kkonai)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～っこない (〜kkonai)**. This expression is used to emphatically state that something is absolutely impossible or that there is no chance of it happening. Understanding this grammar will help you express strong disbelief or certainty in casual conversations.
 
