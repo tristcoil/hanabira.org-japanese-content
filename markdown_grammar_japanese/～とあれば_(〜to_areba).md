@@ -1,6 +1,6 @@
 Processing keyword: ～とあれば (〜to areba)
 # Japanese Grammar Point: ～とあれば (〜to areba)
-# ～とあれば (〜to areba)
+
 ## 1. Introduction
 In this lesson, we'll delve into the Japanese grammar point **～とあれば (〜to areba)**. This structure allows you to express that if a certain special condition is met, then a particular action will follow. Mastering **～とあれば** will enable you to articulate conditions under which you or someone else is willing to do something, often implying that the action is exceptional or goes beyond the norm.
 ## 2. Core Grammar Explanation

@@ -1,6 +1,6 @@
 Processing keyword: ～というものだ (〜to iu mono da)
 # Japanese Grammar Point: ～というものだ (〜to iu mono da)
-# Grammar Lesson: ～というものだ (〜to iu mono da)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～というものだ (〜to iu mono da)**. This expression is used to emphasize that something is exactly what one would expect or to assert that something is typical or natural under certain circumstances.
 

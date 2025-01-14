@@ -1,6 +1,6 @@
 Processing keyword: ～てもいい (〜temo ii)
 # Japanese Grammar Point: ～てもいい (〜temo ii)
-# ～てもいい (〜temo ii)
+
 ## 1. Introduction
 The grammar point **～てもいい** (〜temo ii) is used in Japanese to **express permission** or to **ask for permission**. It translates to phrases like "**It's okay to...**", "**You may...**", or "**May I...?**" in English. This form is essential for everyday conversations when you want to allow someone to do something or seek approval.
 

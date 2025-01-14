@@ -1,6 +1,6 @@
 Processing keyword: ～といったらない。 (〜to ittara nai)
 # Japanese Grammar Point: ～といったらない。 (〜to ittara nai)
-# ～といったらない (〜to ittara nai)
+
 ## 1. Introduction
 The grammar point **～といったらない** is used to express an extreme degree of something that is beyond words. It conveys strong emotions or impressions that are indescribable. This expression is often translated as "extremely," "incredibly," or "unspeakably" in English.
 

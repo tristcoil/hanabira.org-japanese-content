@@ -1,6 +1,6 @@
 Processing keyword: ～ところだった (〜tokoro datta)
 # Japanese Grammar Point: ～ところだった (〜tokoro datta)
-# ～ところだった (〜tokoro datta)
+
 ## 1. Introduction
 The Japanese grammar point **～ところだった (〜tokoro datta)** is used to express that something almost happened but ultimately did not occur. It's a way to convey near-misses or situations where an outcome was narrowly avoided.
 ## 2. Core Grammar Explanation

@@ -1,6 +1,6 @@
 Processing keyword: ～というより (〜to iu yori)
 # Japanese Grammar Point: ～というより (〜to iu yori)
-# ～というより (〜to iu yori)
+
 ## 1. Introduction
 The expression **～というより** is a Japanese grammar point used to correct or clarify a statement by offering a more accurate or suitable description. It can be translated as:
 - "Rather than saying ~, it's more ~"

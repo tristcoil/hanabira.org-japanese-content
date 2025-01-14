@@ -1,6 +1,6 @@
 Processing keyword: ～といいなあ (〜to ii naa)
 # Japanese Grammar Point: ～といいなあ (〜to ii naa)
-# ～といいなあ (〜to ii naa)
+
 ## 1. Introduction
 In Japanese, expressing hopes and wishes is an essential part of daily communication. The grammar point **～といいなあ (〜to ii naa)** is a common and natural way to convey your personal desires or hopes for something to happen. Mastering this expression will enable you to articulate your wishes authentically in various contexts.
 

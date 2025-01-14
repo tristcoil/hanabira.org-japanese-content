@@ -1,6 +1,6 @@
 Processing keyword: ～とのことだ (〜to no koto da)
 # Japanese Grammar Point: ～とのことだ (〜to no koto da)
-# ～とのことだ (〜to no koto da)
+
 ## 1. Introduction
 The grammar point ～とのことだ (〜to no koto da) is used in Japanese to relay information that has been heard from someone else. It is often used to report hearsay or convey messages indirectly, making it a valuable construct in both formal and informal communication.
 

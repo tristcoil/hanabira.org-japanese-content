@@ -1,6 +1,6 @@
 Processing keyword: ～ということだ (〜to iu koto da)
 # Japanese Grammar Point: ～ということだ (〜to iu koto da)
-# ～ということだ (〜to iu koto da)
+
 ## 1. Introduction
 The grammar point ～ということだ (〜to iu koto da) is a versatile expression in Japanese that is used to:
 - Convey hearsay or reported speech ("I've heard that...", "They say that...")

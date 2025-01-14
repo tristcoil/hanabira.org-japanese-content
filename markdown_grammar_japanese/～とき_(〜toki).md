@@ -1,10 +1,11 @@
 Processing keyword: ～とき (〜toki)
 # Japanese Grammar Point: ～とき (〜toki)
-# ～とき (〜toki)
+
 
 ---
 ## 1. Introduction
 The grammar point **～とき (〜toki)** is a fundamental structure in Japanese that is used to express **"when"** or **"at the time when"**. It allows speakers to indicate the time or occasion when an action or event occurs.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

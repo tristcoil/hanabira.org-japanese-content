@@ -1,6 +1,6 @@
 Processing keyword: ～てくれと (〜te kureto)
 # Japanese Grammar Point: ～てくれと (〜te kureto)
-# ～てくれと (〜te kure to)
+
 ## 1. Introduction
 In Japanese, conveying that someone requested or told you to do something involves specific grammatical structures. One such structure is **～てくれと** (〜te kure to). This grammar point is essential for expressing indirect requests or commands made by someone else towards the speaker.
 ## 2. Core Grammar Explanation
@@ -43,24 +43,28 @@ My friend asked me to help.
 上司に報告書を提出してくれと言われました。
 **English Translation**
 My boss told me to submit the report.
+
 ---
 ### Example 3: Casual Conversation
 **日本語**
 母が野菜を食べてくれと注意した。
 **English Translation**
 My mother cautioned me to eat my vegetables.
+
 ---
 ### Example 4: Formal Spoken
 **日本語**
 先生にもっと練習してくれと指導を受けた。
 **English Translation**
 I was instructed by my teacher to practice more.
+
 ---
 ### Example 5: Indirect Request
 **日本語**
 彼女は私に早く帰ってくれと言った。
 **English Translation**
 She told me to go home early.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -80,10 +84,12 @@ She told me to go home early.
 **Correct**
 部長はプロジェクトを完成してくれと言った。
 **Tip**: Always use the **て-form** of the verb before **くれと**.
+
 ---
 ### Common Mistake 2: Misinterpretation of Politeness
 Using **～てくれと** in formal situations can come across as rude.
 **Tip**: In formal contexts, opt for more polite expressions.
+
 ---
 ### Common Mistake 3: Omitting "と"
 **Incorrect**
@@ -91,6 +97,7 @@ Using **～てくれと** in formal situations can come across as rude.
 **Correct**
 彼は待ってくれと言った。
 **Tip**: Don't forget to include the particle **と** after **くれ**.
+
 ---
 ## 7. Summary and Review
 ### Key Takeaways
