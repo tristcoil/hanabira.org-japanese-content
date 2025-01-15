@@ -6,5 +6,6 @@ Japanese content for hanabira.org portal. Creative Commons License. This means t
 
 Changelog:
 updated
-grammar_ja_N5_full_alphabetical_0001.json with proofreadings - whole file
-grammar_ja_N4_full_alphabetical_0001.json with proofreadings - whole file
+- grammar_ja_N5_full_alphabetical_0001.json with proofreadings - whole file
+- grammar_ja_N4_full_alphabetical_0001.json with proofreadings - whole file
+- grammar_ja_N4_full_alphabetical_0001.json with proofreadings - whole file
