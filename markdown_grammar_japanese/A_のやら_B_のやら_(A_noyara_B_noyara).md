@@ -1,6 +1,6 @@
 Processing keyword: A のやら B のやら (A noyara B noyara)
 # Japanese Grammar Point: A のやら B のやら (A noyara B noyara)
-# JLPT Grammar Lesson: A のやら B のやら (A のやら B のやら)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **A のやら B のやら (A noyara B noyara)**. This expression is used to convey uncertainty or indecisiveness between two contrasting options. It's commonly used to describe situations where the speaker is unsure whether it's **A** or **B**, often reflecting confusion or mixed emotions.
 

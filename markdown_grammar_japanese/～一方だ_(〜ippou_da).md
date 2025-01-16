@@ -1,6 +1,6 @@
 Processing keyword: ～一方だ (〜ippou da)
 # Japanese Grammar Point: ～一方だ (〜ippou da)
-# ～一方だ (〜ippou da)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～一方だ (〜ippou da)**. This expression is used to indicate that a certain situation is continuously progressing in one direction, often with a sense of the change being unstoppable or inevitable. It conveys that something is **"increasingly..."** or **"continuously..."** happening over time.
 
@@ -62,6 +62,7 @@ The structure for using **～一方だ** is as follows:
 - **Politeness and Formality:** Since **～一方だ** is often used in formal contexts, it aligns with the Japanese cultural value of respecting formality in appropriate settings.
 ### Idiomatic Expressions
 While **～一方だ** itself is not an idiom, it's frequently used in idiomatic expressions related to societal trends or environmental issues.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

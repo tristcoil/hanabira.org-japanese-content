@@ -1,6 +1,6 @@
 Processing keyword: ～ものだ (〜mono da)
 # Japanese Grammar Point: ～ものだ (〜mono da)
-# ～ものだ (〜mono da)
+
 ## 1. Introduction
 The grammar point **～ものだ (〜mono da)** is a versatile expression in Japanese that conveys various nuances depending on the context. It is commonly used to:
 - Express general truths or social norms.

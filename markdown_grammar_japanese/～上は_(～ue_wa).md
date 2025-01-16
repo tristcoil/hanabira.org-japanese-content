@@ -1,6 +1,6 @@
 Processing keyword: ～上は (～ue wa)
 # Japanese Grammar Point: ～上は (～ue wa)
-# ～上は (～うえは)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～上は** (～うえは, *~ue wa*), which is used to express a strong sense of determination or obligation that arises from a particular situation. It can be translated as "now that," "since," or "once."
 
@@ -53,6 +53,7 @@ In this lesson, we'll explore the Japanese grammar point **～上は** (～う�
 **大学に入学する上は、しっかり勉強するつもりです。**
 *Daigaku ni nyūgaku suru ue wa, shikkari benkyō suru tsumori desu.*
 *Now that I'm entering university, I plan to study hard.*
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance

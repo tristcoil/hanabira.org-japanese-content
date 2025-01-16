@@ -1,6 +1,6 @@
 Processing keyword: ～も～ば～も～ (〜mo〜ba〜mo〜)
 # Japanese Grammar Point: ～も～ば～も～ (〜mo〜ba〜mo〜)
-# ～も～ば～も～ (〜mo〜ba〜mo〜)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～も～ば～も～ (〜mo〜ba〜mo〜)**. This structure is used to express "**both... and...**" or "**not only... but also...**", emphasizing multiple attributes, actions, or situations related to a subject.
 
@@ -45,6 +45,7 @@ While **～も～ば～も～** emphasizes conditions or multiple attributes tha
   (He is kind, handsome, and popular.)
   ```
 **Key Difference:** **～も～ば～も～** often involves conditional forms and stresses the coexistence of attributes, while **～も～し～も～** is used to list multiple reasons or qualities, suggesting there are even more.
+
 ---
 ## 4. Examples in Context
 ### Example 1: Verbs
@@ -54,6 +55,7 @@ While **～も～ば～も～** emphasizes conditions or multiple attributes tha
 Kare wa gitā mo hikeba, uta mo utau.  
 **English Translation:**  
 He not only plays the guitar but also sings.
+
 ---
 ### Example 2: い-Adjectives
 **Japanese:**  
@@ -62,6 +64,7 @@ He not only plays the guitar but also sings.
 Kono ryōri wa yasukereba mo oishii.  
 **English Translation:**  
 This dish is both cheap and tasty.
+
 ---
 ### Example 3: な-Adjectives
 **Japanese:**  
@@ -70,6 +73,7 @@ This dish is both cheap and tasty.
 Kanojo wa shinsetsu nara mo sainō mo aru.  
 **English Translation:**  
 She is not only kind but also talented.
+
 ---
 ### Example 4: Nouns
 **Japanese:**  
@@ -78,6 +82,7 @@ She is not only kind but also talented.
 Ame no hi wa dokusho mo tanoshikereba, eiga mo ii.  
 **English Translation:**  
 On rainy days, both reading and watching movies are enjoyable.
+
 ---
 ### Example 5: Negative Context
 **Japanese:**  
@@ -86,6 +91,7 @@ On rainy days, both reading and watching movies are enjoyable.
 Kare wa jikan mo nakereba, okane mo nai.  
 **English Translation:**  
 He has neither time nor money.
+
 ---
 ### Formal Context
 **Japanese:**  
@@ -94,6 +100,7 @@ He has neither time nor money.
 Tōsha no seihin wa hinshitsu mo takakereba, sābisu mo sugurete imasu.  
 **English Translation:**  
 Our company's products are not only high in quality but also excellent in service.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -104,6 +111,7 @@ The use of **～も～ば～も～** is appropriate in both casual and formal co
 - **泣きもすれば、笑いもする**  
   **Romaji:** Naki mo sureba, warai mo suru  
   **Meaning:** There are times to cry and times to laugh.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -148,9 +156,6 @@ The use of **～も～ば～も～** is appropriate in both casual and formal co
    False. It can be used in both positive and negative contexts.
 ---
 By mastering **～も～ば～も～**, you'll enhance your ability to describe subjects with multiple attributes fluently in Japanese. Keep practicing by creating your own sentences!
----
-Feel free to ask if you have any questions or need further clarification on this grammar point.
-
 
 ---
 

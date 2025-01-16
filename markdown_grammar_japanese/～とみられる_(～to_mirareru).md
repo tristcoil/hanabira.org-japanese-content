@@ -1,7 +1,6 @@
 Processing keyword: ～とみられる (～to mirareru)
 # Japanese Grammar Point: ～とみられる (～to mirareru)
-TODO: start from here
-# Grammar Point: ～とみられる (～to mirareru)
+
 ## 1. Introduction
 The expression **～とみられる** is used in Japanese to convey that something is considered, believed, or expected to be a certain way based on evidence or reasoning. It is often translated as "it is believed that...", "it is considered that...", or "it is expected that...". This grammar point is commonly found in formal contexts such as news reports, academic writings, and official statements.
 ## 2. Core Grammar Explanation

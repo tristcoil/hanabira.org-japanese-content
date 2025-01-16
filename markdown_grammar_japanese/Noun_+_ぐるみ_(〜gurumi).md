@@ -1,10 +1,10 @@
 Processing keyword: Noun + ぐるみ (〜gurumi)
 # Japanese Grammar Point: Noun + ぐるみ (〜gurumi)
-# Grammar Lesson: Noun + ぐるみ (〜ぐるみ)
 
 ---
 ## 1. Introduction
 The grammar pattern **Noun + ぐるみ (〜ぐるみ)** is used in Japanese to express the idea of involving the entirety of something or someone. It implies that an action or state includes all members or aspects of the noun it attaches to.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -51,6 +51,7 @@ The grammar pattern **Noun + ぐるみ (〜ぐるみ)** is used in Japanese to e
 **Sentence**: 仲間ぐるみで旅行に行く予定だ。
 **Reading**: なかまぐるみで りょこうに いくよていだ。
 **Translation**: "We're planning to go on a trip with the whole group of friends."
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -59,6 +60,7 @@ The grammar pattern **Noun + ぐるみ (〜ぐるみ)** is used in Japanese to e
 ### Idiomatic Expressions
 - **家族ぐるみの付き合い**: Indicates a close relationship where entire families interact regularly.
 - **町ぐるみのプロジェクト**: A project that involves or benefits the whole town.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes
@@ -79,12 +81,11 @@ The grammar pattern **Noun + ぐるみ (〜ぐるみ)** is used in Japanese to e
 1. What does **家族ぐるみ** mean?
 2. How does **〜ぐるみ** differ from **〜ごと**?
 3. Create a sentence using **学校ぐるみ** (the whole school).
+
 **Answers**:
 1. Involving the whole family.
 2. **〜ぐるみ** emphasizes involvement of all members, while **〜ごと** means including everything, sometimes unintended parts.
 3. Example: 学校ぐるみで清掃活動を行った。("We conducted a cleaning activity involving the whole school.")
----
-
 
 ---
 

@@ -1,6 +1,6 @@
 Processing keyword: ～びた Noun (～ bi ta ～)
 # Japanese Grammar Point: ～びた Noun (～ bi ta ～)
-# ～びた (Noun + びた)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～びた**, a suffix attached to nouns to describe something that appears or behaves like the noun it's attached to. This construction is useful for expressing nuances about someone's appearance, behavior, or certain qualities of objects.
 

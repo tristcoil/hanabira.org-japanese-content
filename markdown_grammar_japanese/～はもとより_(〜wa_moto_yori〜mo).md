@@ -1,6 +1,6 @@
 Processing keyword: ～はもとより (〜wa moto yori〜mo)
 # Japanese Grammar Point: ～はもとより (〜wa moto yori〜mo)
-# ～はもとより (〜wa moto yori〜mo)
+
 ## 1. Introduction
 The grammar point **～はもとより** (〜wa moto yori) is a Japanese expression used to emphasize that something is obvious or a given, and additionally, something else also applies. It's similar to saying "**not only... but also...**" or "**let alone...**" in English.
 
@@ -94,7 +94,7 @@ In Japanese communication, it's common to acknowledge what's generally accepted 
 1. **子供はもとより、大人も祭りを楽しんだ。**
 2. **False**: Adjectives need to be nominalized to use with **～はもとより**.
 3. **英語** (*English*)
----
+
 
 
 ---

@@ -1,6 +1,6 @@
 Processing keyword: ～ないではいられない (〜nai de wa irarenai)
 # Japanese Grammar Point: ～ないではいられない (〜nai de wa irarenai)
-# ～ないではいられない (〜nai de wa irarenai)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～ないではいられない** (〜nai de wa irarenai). This expression conveys the idea of "can't help but do" or "cannot help doing" something due to strong feelings or compulsion.
 ## 2. Core Grammar Explanation
@@ -17,11 +17,13 @@ In this lesson, we'll explore the Japanese grammar point **～ないではいら
 2. **Formation Steps**
    - **Take the verb in its negative form** (ない form).
    - **Add** ではいられない.
+   
    | Verb (Dictionary Form) | Verb (Negative Form) | + ではいられない | Final Form                     |
    |-------------------------|----------------------|-----------------|-------------------------------|
    | 食べる (to eat)          | 食べない             | ではいられない   | 食べないではいられない         |
    | 言う (to say)            | 言わない             | ではいられない   | 言わないではいられない         |
    | 笑う (to laugh)          | 笑わない             | ではいられない   | 笑わないではいられない         |
+
 ### Visual Aid
 - **Chart: Usage of ～ないではいられない**
   | Function               | Indicates an uncontrollable action due to emotions or urges |

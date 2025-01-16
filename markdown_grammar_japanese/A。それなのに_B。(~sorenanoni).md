@@ -1,6 +1,6 @@
 Processing keyword: A。それなのに B。(~sorenanoni)
 # Japanese Grammar Point: A。それなのに B。(~sorenanoni)
-# それなのに（sorenanoni）
+
 ## 1. Introduction
 **それなのに** is a Japanese conjunctive phrase meaning **"and yet," "even so,"** or **"despite that."** It is used to express a contrast between two statements, where the second statement (B) is unexpected or contrary to what would be anticipated from the first statement (A).
 

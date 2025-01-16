@@ -1,6 +1,6 @@
 Processing keyword: ～折に (〜ori ni)
 # Japanese Grammar Point: ～折に (〜ori ni)
-# ～折に (〜おりに)
+
 ## 1. Introduction
 The grammar point ～折に (〜おりに) is a formal expression used to indicate an opportunity or a specific occasion when something happens. It translates to "on the occasion of," "when," or "at the time of" in English. Understanding how to use ～折に correctly can enhance your ability to communicate formally in Japanese, especially in written language or polite conversations.
 

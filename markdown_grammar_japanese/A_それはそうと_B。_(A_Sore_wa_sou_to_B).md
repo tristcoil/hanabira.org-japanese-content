@@ -1,6 +1,6 @@
 Processing keyword: A それはそうと B。 (A Sore wa sou to B)
 # Japanese Grammar Point: A それはそうと B。 (A Sore wa sou to B)
-# それはそうと (Sore wa sou to)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **それはそうと** (*sore wa sō to*), which is commonly used in conversation to smoothly shift from one topic to another. Understanding this expression will help you navigate conversations more naturally in Japanese.
 
@@ -45,6 +45,7 @@ Both **それはそうと** and **ところで** mean "by the way" and are used 
 Kinō no pātī wa tanoshikatta ne. Sore wa sō to, tsugi no shūmatsu wa aiteru?
 **Translation:**  
 "Yesterday's party was fun, wasn't it? By the way, are you free next weekend?"
+
 ---
 ### Example 2: Formal Context
 **Japanese:**  
@@ -53,6 +54,7 @@ Kinō no pātī wa tanoshikatta ne. Sore wa sō to, tsugi no shūmatsu wa aiteru
 Atarashii purojekuto ga hajimarimashita. Sore wa sō to, yosan no ken ni tsuite go-sōdan dekimasu ka.
 **Translation:**  
 "The new project has started. By the way, may I consult with you regarding the budget?"
+
 ---
 ### Example 3: Written Communication
 **Japanese:**  
@@ -61,6 +63,7 @@ Atarashii purojekuto ga hajimarimashita. Sore wa sō to, yosan no ken ni tsuite 
 Honsho de wa kankyō mondai ni tsuite giron shimasu. Sore wa sō to, senjitsu no seminā shiryō o okuri shimashita.
 **Translation:**  
 "This book discusses environmental issues. Incidentally, I have sent you the seminar materials from the other day."
+
 ---
 ### Example 4: Introducing a Related Topic
 **Japanese:**  
@@ -69,6 +72,7 @@ Honsho de wa kankyō mondai ni tsuite giron shimasu. Sore wa sō to, senjitsu no
 Tenki ga waruku narisō desu ne. Sore wa sō to, kasa o motte kimashita ka.
 **Translation:**  
 "It looks like the weather is going to get worse, doesn't it? By the way, did you bring an umbrella?"
+
 ---
 ## 5. Cultural Notes
 ### Politeness Levels
@@ -77,6 +81,7 @@ Tenki ga waruku narisō desu ne. Sore wa sō to, kasa o motte kimashita ka.
 ### Natural Conversation Flow
 - Using **それはそうと** helps in making conversations flow naturally.
 - It shows attentiveness and the ability to connect different topics smoothly.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistake 1: Misusing with Unrelated Topics
@@ -88,6 +93,7 @@ Tenki ga waruku narisō desu ne. Sore wa sō to, kasa o motte kimashita ka.
 ### Learning Strategy
 - **Mnemonic**: Think of **"So, that being said"** for **それはそうと**, as it indicates a shift.
 - **Practice**: Create sentences using **それはそうと** to transition between related topics.
+
 ---
 ## 7. Summary and Review
 ### Key Takeaways
@@ -98,15 +104,16 @@ Tenki ga waruku narisō desu ne. Sore wa sō to, kasa o motte kimashita ka.
 1. What is the primary function of **それはそうと** in a conversation?
 2. How does **それはそうと** differ from **ところで**?
 3. Create a sentence using **それはそうと** to shift to a related topic.
+
 ---
 **Answers:**
 1. To smoothly shift the conversation to a new, somewhat related topic.
 2. **それはそうと** introduces a new but related topic; **ところで** introduces a completely unrelated topic.
 3. *(Example answer)* 今日のミーティングは成功でした。それはそうと、次のプロジェクトについて話しましょう。  
    *"Today's meeting was a success. By the way, let's talk about the next project."*
+
 ---
 Feel free to practice by incorporating **それはそうと** into your own sentences to become more comfortable with its usage!
-
 
 ---
 

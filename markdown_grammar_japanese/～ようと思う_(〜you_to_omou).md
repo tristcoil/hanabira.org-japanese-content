@@ -1,6 +1,6 @@
 Processing keyword: ～ようと思う (〜you to omou)
 # Japanese Grammar Point: ～ようと思う (〜you to omou)
-# ～ようと思う (〜you to omou)
+
 ## 1. Introduction
 Expressing intentions and plans is essential in any language. In Japanese, one common way to convey your intention to do something is by using the grammar pattern **～ようと思う** (*〜you to omou*). This structure allows you to articulate your decisions or what you're thinking of doing, often implying that you're considering or have just decided on a course of action.
 

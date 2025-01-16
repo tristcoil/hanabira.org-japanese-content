@@ -1,6 +1,6 @@
 Processing keyword: ～とみると (〜to miru to)
 # Japanese Grammar Point: ～とみると (〜to miru to)
-# ～とみると (〜to miru to)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **～とみると (〜to miru to)**. This expression is used in Japanese to indicate that as soon as someone realizes or notices something, they immediately take action or there is an immediate consequence. It's a useful structure that adds nuance to your expressions, especially when describing quick reactions following a realization.
 
@@ -61,6 +61,7 @@ Verb (plain form) + とみると
 In Japanese culture, attentiveness and quick responses are valued traits. The use of **～とみると** reflects the importance of being observant and reacting appropriately in social situations.
 ### Levels of Politeness
 This grammar point is neutral and can be used in both formal and informal contexts, but the choice of verbs and overall sentence structure will determine the politeness level.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

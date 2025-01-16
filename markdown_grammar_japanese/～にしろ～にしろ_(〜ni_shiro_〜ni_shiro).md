@@ -1,6 +1,6 @@
 Processing keyword: ～にしろ～にしろ (〜ni shiro 〜ni shiro)
 # Japanese Grammar Point: ～にしろ～にしろ (〜ni shiro 〜ni shiro)
-# Grammar Lesson: ～にしろ～にしろ (〜ni shiro 〜ni shiro)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar pattern **～にしろ～にしろ (〜ni shiro 〜ni shiro)**. This expression is used to present two or more options or examples, emphasizing that the same conclusion applies to all of them. It's similar to saying **"whether... or..."** in English.
 
@@ -20,6 +20,7 @@ In this lesson, we'll explore the Japanese grammar pattern **～にしろ～に�
 [Verb/Adjective/Noun] + にしろ、[Verb/Adjective/Noun] + にしろ、[Outcome/Statement]
 ```
 **Formation Breakdown:**
+
 | **Component**         | **Formation**                   | **Example**                |
 |-----------------------|---------------------------------|----------------------------|
 | **Verb (Dictionary Form)**     | Verb + にしろ                     | 行くにしろ (iku ni shiro) |
@@ -27,6 +28,7 @@ In this lesson, we'll explore the Japanese grammar pattern **～にしろ～に�
 | **い-Adjective**      | Adjective + にしろ               | 高いにしろ (takai ni shiro) |
 | **な-Adjective**      | Adjective + にしろ               | 静かにしろ (shizuka ni shiro) |
 | **Noun**              | Noun + にしろ                   | 雨にしろ (ame ni shiro) |
+
 **Note:** The phrase **にしろ** comes from the imperative form of the verb **する (to do)** — **しろ** — combined with the particle **に**. However, in this grammar pattern, **にしろ** functions as a conjunction meaning "even if" or "whether."
 ### Visual Aid: Formation Diagram
 ```
@@ -112,7 +114,7 @@ Option 2 [Verb/Adj/Noun] + にしろ、
    - *Answer:* "Whether you have time or not, preparation is necessary."
 ---
 Keep practicing this grammar pattern by creating your own sentences, and soon it will become a natural part of your Japanese language skills!
----
+
 
 
 ---

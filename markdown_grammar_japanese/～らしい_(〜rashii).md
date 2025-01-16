@@ -1,6 +1,6 @@
 Processing keyword: ～らしい (〜rashii)
 # Japanese Grammar Point: ～らしい (〜rashii)
-# ～らしい (〜rashii)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～らしい (〜rashii)**. This expression is commonly used to convey hearsay, assumptions based on evidence, or to describe something as typical or characteristic of a particular thing or person.
 ## 2. Core Grammar Explanation

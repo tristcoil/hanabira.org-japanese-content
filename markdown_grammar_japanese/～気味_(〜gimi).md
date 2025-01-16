@@ -1,6 +1,6 @@
 Processing keyword: ～気味 (〜gimi)
 # Japanese Grammar Point: ～気味 (〜gimi)
-# ～気味 (〜gimi)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **～気味 (〜gimi)**. Understanding this expression will enhance your ability to describe subtle states or feelings in yourself or others.
 
@@ -52,6 +52,7 @@ While both **～気味** and **～っぽい** can indicate a tendency towards so
 In Japanese culture, modesty and understatement are valued traits. Using expressions like **～気味** allows speakers to express concerns or negative states softly without sounding overly direct or harsh. It aligns with the cultural emphasis on harmony and subtlety in communication.
 ### Levels of Politeness
 The use of **～気味** is neutral and can be used in both formal and informal contexts. However, the overall politeness of the sentence will depend on other factors like verb endings and honorifics.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -78,8 +79,6 @@ The use of **～気味** is neutral and can be used in both formal and informal 
 1. Attach **～気味** to the **verb stem** (the masu-form without masu).
 2. "I've been eating a bit too much, so I will reduce my meal portions."
 3. It indicates a slight or subtle tendency towards a state, often with a negative connotation.
----
-
 
 ---
 

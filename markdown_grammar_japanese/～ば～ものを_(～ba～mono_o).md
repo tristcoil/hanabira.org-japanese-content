@@ -1,6 +1,6 @@
 Processing keyword: ～ば～ものを (～ba～mono o)
 # Japanese Grammar Point: ～ば～ものを (～ba～mono o)
-# ～ば～ものを (～ba～mono o)
+
 ## 1. Introduction
 The grammar pattern **～ば～ものを** is used in Japanese to express **regret**, **dissatisfaction**, or **criticism** about an action that did not occur but could have led to a better outcome if it had. It conveys the nuance of "if only..." or "had (someone) done...", highlighting a missed opportunity or unrealized condition.
 
@@ -48,6 +48,7 @@ When combined, **～ば～ものを** emphasizes that **if the action in the con
 もっとはやくしゅっぱつすればまにあったものを。
 **Translation:**  
 *If only we had left earlier, we would have made it in time.*
+
 ---
 ### Example 2: Mild Criticism
 **Sentence:**  
@@ -56,7 +57,8 @@ When combined, **～ば～ものを** emphasizes that **if the action in the con
 れんらくしてくれればむかえにいったものを。
 **Translation:**  
 *Had you contacted me, I would have come to pick you up.*
----
+
+--
 ### Example 3: Expressing Frustration
 **Sentence:**  
 あの時注意していれば、こんなことにはならなかったものを。
@@ -64,6 +66,7 @@ When combined, **～ば～ものを** emphasizes that **if the action in the con
 あのときちゅういしていれば、こんなことにはならなかったものを。
 **Translation:**  
 *If only I had been careful back then, this wouldn't have happened.*
+
 ---
 ### Example 4: Formal Written Context
 **Sentence:**  
@@ -72,6 +75,7 @@ When combined, **～ば～ものを** emphasizes that **if the action in the con
 てきせつなしょちをほどこしていれば、かんじゃはすくえたものを。
 **Translation:**  
 *Had appropriate measures been taken, the patient could have been saved.*
+
 ---
 ### Example 5: Hypothetical Past Situation
 **Sentence:**  
@@ -80,6 +84,7 @@ When combined, **～ば～ものを** emphasizes that **if the action in the con
 かれがしんじつをはなしていれば、ごかいはしょうじなかったものを。
 **Translation:**  
 *If he had told the truth, the misunderstanding wouldn't have occurred.*
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance

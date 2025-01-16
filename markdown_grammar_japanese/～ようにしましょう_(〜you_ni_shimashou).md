@@ -1,6 +1,6 @@
 Processing keyword: ～ようにしましょう (〜you ni shimashou)
 # Japanese Grammar Point: ～ようにしましょう (〜you ni shimashou)
-# ～ようにしましょう (〜you ni shimashou)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～ようにしましょう** (〜you ni shimashou). This expression is commonly used to suggest making an effort to do something or to encourage someone (including yourself) to adopt a certain habit or behavior. It's a polite way to say "Let's try to..." or "Let's make sure to...".
 

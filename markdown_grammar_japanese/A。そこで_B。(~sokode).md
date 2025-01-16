@@ -1,6 +1,6 @@
 Processing keyword: A。そこで B。(~sokode)
 # Japanese Grammar Point: A。そこで B。(~sokode)
-# Grammar Lesson: A。そこで B。(~sokode)
+
 ## 1. Introduction
 In Japanese, connecting ideas smoothly is essential for clear communication. One useful conjunction for expressing cause and effect is **そこで (sokode)**. This grammar point helps link a situation or problem with a consequent action or decision. This lesson will delve into the usage of **そこで**, ensuring you understand how to use it naturally in various contexts.
 ## 2. Core Grammar Explanation

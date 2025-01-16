@@ -1,10 +1,9 @@
 Processing keyword: A。だって B。(Datte~)
 # Japanese Grammar Point: A。だって B。(Datte~)
-# JLPT Grammar Lesson: **A。だって B。** (Datte)
 
----
 ## 1. Introduction
 In this lesson, we will explore the grammar point **だって** (datte), a versatile expression in Japanese that can convey reasons, highlight exceptions, or emphasize inclusivity. Understanding **だって** helps learners grasp nuanced conversations and express themselves more naturally.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -36,13 +35,16 @@ The exact meaning depends on the context in which it is used.
 ---
 ## 3. Comparative Analysis
 ### Comparing **だって** with Similar Grammar Points
+
 | Grammar Point | Usage                             | Example                              |
 |---------------|-----------------------------------|--------------------------------------|
 | **だって**     | Indicates reason or emphasis      | 行かない。**だって**忙しいもん。         |
 | **から**       | Indicates a reason (because)      | 忙しい**から**、行かない。             |
 | **も**         | Indicates inclusivity (also/even) | 私**も**行きたい。                     |
 | **でも**       | Indicates "even if"/"but"         | 雨**でも**行きます。                   |
+
 **Note**: While **から** is a standard way to express "because," **だって** adds a nuance of giving an excuse or justification, often used in spoken language.
+
 ---
 ## 4. Examples in Context
 ### Example Sentences

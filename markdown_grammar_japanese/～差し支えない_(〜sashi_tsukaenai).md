@@ -1,6 +1,6 @@
 Processing keyword: ～差し支えない (〜sashi tsukaenai)
 # Japanese Grammar Point: ～差し支えない (〜sashi tsukaenai)
-# ～差し支えない (〜sashitsukaenai)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～差し支えない (〜sashitsukaenai)**. Understanding this expression will enhance your ability to communicate permissions and express that something is acceptable or poses no problem in both formal and informal contexts.
 

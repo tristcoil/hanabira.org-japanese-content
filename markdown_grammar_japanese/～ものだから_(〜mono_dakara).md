@@ -1,6 +1,6 @@
 Processing keyword: ～ものだから (〜mono dakara)
 # Japanese Grammar Point: ～ものだから (〜mono dakara)
-# ～ものだから (〜mono dakara)
+
 ## 1. Introduction
 The expression **～ものだから** (〜mono dakara) is a conjunction used in Japanese to express a reason or excuse in a personal and explanatory manner. It often conveys a sense of justification or an unavoidable reason behind an action or situation. This grammar point adds emotional emphasis, highlighting that the reason is significant to the speaker.
 

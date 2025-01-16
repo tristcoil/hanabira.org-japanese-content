@@ -1,6 +1,6 @@
 Processing keyword: ～やら～やら (〜yara〜yara)
 # Japanese Grammar Point: ～やら～やら (〜yara〜yara)
-# ～やら～やら (〜yara〜yara)
+
 ## 1. Introduction
 The grammatical pattern **～やら～やら (〜yara〜yara)** is used in Japanese to list multiple examples in a non-exhaustive manner. It often conveys a sense of being overwhelmed or describes a situation where various things are happening simultaneously.
 

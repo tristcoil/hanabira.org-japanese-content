@@ -1,10 +1,11 @@
 Processing keyword: A。したがって B。(A. Shitagatte B.)
 # Japanese Grammar Point: A。したがって B。(A. Shitagatte B.)
-# Understanding the Grammar Point: A。したがって B。
+
 
 ---
 ## 1. Introduction
 In this lesson, we'll explore the Japanese conjunction **したがって** (*shitagatte*), which is used to express a logical consequence or result. Mastering this grammar point will help you connect ideas smoothly and enhance the coherence of your speech and writing, especially in formal contexts.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -147,8 +148,6 @@ A。したがって B。
    **Answer:** **したがって** is too formal for this casual context. Replace with **だから**.
 ---
 By understanding and correctly using **したがって**, you can enhance the sophistication of your Japanese in formal settings. Practice by writing sentences or paragraphs using **したがって** to describe logical consequences.
----
-
 
 ---
 

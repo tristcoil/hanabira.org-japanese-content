@@ -1,6 +1,6 @@
 Processing keyword: ～足りない (～tarinai)
 # Japanese Grammar Point: ～足りない (～tarinai)
-# ～足りない (～tarinai) Grammar Point Explanation
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **～足りない (～tarinai)**, which expresses the idea of **"not enough"** or **"insufficient."** Understanding this grammar point is essential for conveying situations where something is lacking or inadequate in quantity or degree.
 
@@ -88,7 +88,6 @@ While **足りない (tarinai)** is appropriate in casual conversation, in forma
    - **Answer:** "Her explanation is not enough."
 ---
 *Feel free to revisit this lesson to reinforce your understanding of ～足りない (～tarinai). Practice by creating your own sentences expressing insufficiency!*
----
 
 
 ---

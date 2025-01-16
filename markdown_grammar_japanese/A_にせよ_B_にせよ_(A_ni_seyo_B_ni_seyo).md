@@ -1,6 +1,6 @@
 Processing keyword: A にせよ B にせよ (A ni seyo B ni seyo)
 # Japanese Grammar Point: A にせよ B にせよ (A ni seyo B ni seyo)
-# A にせよ B にせよ (A ni seyo B ni seyo)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **A にせよ B にせよ (A ni seyo B ni seyo)**. This expression is used to indicate that, regardless of whether it's *A* or *B*, the result or conclusion remains the same. It's a useful structure for expressing that the speaker's statement applies equally to multiple scenarios or conditions.
 
@@ -98,8 +98,6 @@ The grammar structure combines two or more options (nouns, verbs, or adjectives)
    - **Answer**: a) is correct because it provides two options.
 ---
 By understanding and practicing **A にせよ B にせよ**, you'll enhance your ability to express complex conditions and improve your formal Japanese communication skills.
----
-
 
 ---
 

@@ -1,6 +1,6 @@
 Processing keyword: A。要するに B。(A. Yousuru ni B.)
 # Japanese Grammar Point: A。要するに B。(A. Yousuru ni B.)
-# **A。要するに B。** Grammar Point
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「要するに (ようするに)」**, which is used to **summarize or restate information** in a concise way. Understanding how to use **「要するに」** will help you communicate more effectively by emphasizing the main point of your statements.
 
@@ -57,6 +57,7 @@ Where:
 ```
 **English Translation:**
 "He plans to quit his job and travel the world. In short, he wants to be free."
+
 ---
 ### **Example 2: Formal Writing**
 **Japanese:**
@@ -66,6 +67,7 @@ Where:
 ```
 **English Translation:**
 "What we understand from these survey results is that consumer needs are diversifying. In summary, a review of market strategies is necessary."
+
 ---
 ### **Example 3: Spoken Language**
 **Japanese:**
@@ -75,6 +77,7 @@ Where:
 ```
 **English Translation:**
 "Yesterday's presentation showed a lack of preparation. Basically, more practice is needed."
+
 ---
 ### **Example 4: Informal Discussion**
 **Japanese:**
@@ -84,6 +87,7 @@ Where:
 ```
 **English Translation:**
 "This cake doesn't have sugar or butter. In other words, it's a healthy snack."
+
 ---
 ## 5. Cultural Notes
 ### **Cultural Relevance**
@@ -108,14 +112,17 @@ Where:
   彼は来ないって、電話があった。要するに、予定を変更しなきゃ。
   ```
 **Tip:** Place **「要するに」** at the beginning of the summary statement after the detailed explanation.
+
 ---
 #### **Mistake 2: Overusing 「要するに」**
 Using **「要するに」** too frequently can make speech sound repetitive.
 **Tip:** Use it when a summary or emphasis is truly needed, not after every statement.
+
 ---
 ### **Learning Strategies**
 - **Practice Summarization:** Read a paragraph in Japanese and try to summarize it using **「要するに」**.
 - **Mnemonic Device:** Associate **「要するに」** with "getting to the **essence** (要) of the matter."
+
 ---
 ## 7. Summary and Review
 ### **Key Takeaways**
@@ -123,6 +130,7 @@ Using **「要するに」** too frequently can make speech sound repetitive.
 - It translates to **"in short," "to sum up,"** or **"basically."**
 - Suitable for both **formal** and **informal** contexts.
 - Helps to **clarify** communication and ensure the listener understands the main idea.
+
 ---
 ### **Quick Recap Quiz**
 **1. What is the primary function of 「要するに」 in a sentence?**
@@ -130,18 +138,20 @@ Using **「要するに」** too frequently can make speech sound repetitive.
 - B) To summarize or restate the main point
 - C) To ask a question
 <details><summary>Answer</summary><p>B) To summarize or restate the main point</p></details>
+
 ---
 **2. Fill in the blank with the correct use of 「要するに」:**
 ```plaintext
 プロジェクトは予算オーバーで進行が遅れている。____、計画を見直す必要がある。
 ```
 <details><summary>Answer</summary><p>プロジェクトは予算オーバーで進行が遅れている。<strong>要するに</strong>、計画を見直す必要がある。</p></details>
+
 ---
 **3. True or False: 「要するに」 can only be used in formal contexts.**
 <details><summary>Answer</summary><p>False. 「要するに」 is neutral and can be used in both formal and informal contexts.</p></details>
+
 ---
 By mastering **「要するに」**, you'll be able to communicate your thoughts more effectively and ensure your listeners understand the main points you're conveying.
----
 
 
 ---

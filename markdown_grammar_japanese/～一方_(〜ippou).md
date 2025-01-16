@@ -1,6 +1,6 @@
 Processing keyword: ～一方 (〜ippou)
 # Japanese Grammar Point: ～一方 (〜ippou)
-# ～一方 (〜ippou)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～一方 (〜ippou)**. This grammar construct is used to express the idea of something continuing to change in one direction, often indicating a trend that is intensifying over time. Understanding how to use ～一方 will help you describe ongoing changes and contrasts in various contexts.
 
@@ -40,11 +40,14 @@ In this lesson, we'll explore the Japanese grammar point **～一方 (〜ippou)*
 ---
 ## 3. Comparative Analysis
 ### Comparing ～一方だ with ますます
+
 | Grammar Point | Meaning                       | Usage                                |
 |---------------|-------------------------------|--------------------------------------|
 | ～一方だ         | Indicates a continuous trend   | Verb (dictionary form) + 一方だ        |
 | ますます         | "More and more", emphasizes increasing degree | Used before verbs or adjectives |
+
 **Note**: While both express increasing intensity, **ますます** is an adverb and modifies verbs or adjectives, whereas **～一方だ** is a verb phrase construction.
+
 ---
 ## 4. Examples in Context
 ### Usage 1: Indicating a Continuous Trend
@@ -109,7 +112,6 @@ In this lesson, we'll explore the Japanese grammar point **～一方 (〜ippou)*
 **Answers**:
 1. a) 一方だ
 2. b) Contrast
----
 
 
 ---

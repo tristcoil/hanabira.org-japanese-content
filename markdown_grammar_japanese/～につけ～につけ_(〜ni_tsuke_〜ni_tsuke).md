@@ -1,6 +1,6 @@
 Processing keyword: ～につけ～につけ (〜ni tsuke 〜ni tsuke)
 # Japanese Grammar Point: ～につけ～につけ (〜ni tsuke 〜ni tsuke)
-# ～につけ～につけ (〜ni tsuke 〜ni tsuke)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～につけ～につけ (〜ni tsuke 〜ni tsuke)**. This pattern is used to express that the same thought or feeling applies in various situations, emphasizing consistency across different scenarios.
 

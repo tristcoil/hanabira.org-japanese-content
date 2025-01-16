@@ -1,6 +1,6 @@
 Processing keyword: ～わけではない (〜wake dewa nai)
 # Japanese Grammar Point: ～わけではない (〜wake dewa nai)
-# ～わけではない (〜wake dewa nai)
+
 ## 1. Introduction
 The grammar point ～わけではない (〜wake dewa nai) is used to express a partial negation or to clarify a misunderstanding. It conveys the nuance of "it's not that..." or "it doesn't mean that...". This structure is essential for expressing subtleties in Japanese and is commonly used in both spoken and written language.
 

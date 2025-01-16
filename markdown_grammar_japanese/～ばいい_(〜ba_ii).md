@@ -1,6 +1,6 @@
 Processing keyword: ～ばいい (〜ba ii)
 # Japanese Grammar Point: ～ばいい (〜ba ii)
-# ～ばいい (〜ba ii)
+
 ## 1. Introduction
 The grammar point **～ばいい** is a useful construction in Japanese that allows you to offer suggestions or advice. It roughly translates to "**you should...**", "**it would be good if...**", or "**why don't you...**". Mastering this expression will enable you to give recommendations and guidance politely and effectively in various situations.
 
@@ -19,6 +19,7 @@ The structure involves using the conditional form (ば-form) of a verb, followed
 1. **Godan Verbs (五段動詞 - Group 1):**
    - Change the final **う** sound to its corresponding **え** sound.
    - Add **ば**.
+   
    | Verb (Dictionary Form) | Stem Change | ば-form     |
    |------------------------|-------------|-------------|
    | 書く (kaku)            | 書け (kake) | 書けば      |
@@ -27,6 +28,7 @@ The structure involves using the conditional form (ば-form) of a verb, followed
 2. **Ichidan Verbs (一段動詞 - Group 2):**
    - Remove **る**.
    - Add **れば**.
+   
    | Verb (Dictionary Form) | Stem    | ば-form     |
    |------------------------|---------|-------------|
    | 食べる (taberu)         | 食べ    | 食べれば    |

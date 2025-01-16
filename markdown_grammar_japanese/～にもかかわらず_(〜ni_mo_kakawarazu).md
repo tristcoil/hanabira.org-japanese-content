@@ -1,6 +1,6 @@
 Processing keyword: ～にもかかわらず (〜ni mo kakawarazu)
 # Japanese Grammar Point: ～にもかかわらず (〜ni mo kakawarazu)
-# ～にもかかわらず (〜ni mo kakawarazu)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **～にもかかわらず (〜ni mo kakawarazu)**. This expression is used to indicate that something happens **despite** a certain circumstance. It conveys a sense of **unexpectedness** or that an outcome occurs **against expectations**.
 ## 2. Core Grammar Explanation

@@ -1,6 +1,6 @@
 Processing keyword: ～ものではない (〜mono dewa nai)
 # Japanese Grammar Point: ～ものではない (〜mono dewa nai)
-# ～ものではない (〜mono dewa nai)
+
 ## 1. Introduction
 The grammar point ～ものではない (〜mono dewa nai) is used to give advice or express a general opinion that something should not be done. It carries a sense of admonishment or moral judgement, often based on common sense or social norms.
 
@@ -62,6 +62,7 @@ In Japanese culture, there is a strong emphasis on social harmony and respect fo
 - It is often used in written language, formal speech, or when giving advice in a considerate manner.
 ### Idiomatic Expressions
 While **～ものではない** itself is a set phrase, it can be found in idiomatic expressions that promote moral behavior and mutual respect.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes

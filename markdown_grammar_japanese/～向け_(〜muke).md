@@ -1,6 +1,6 @@
 Processing keyword: ～向け (〜muke)
 # Japanese Grammar Point: ～向け (〜muke)
-# Japanese Grammar Lesson: ～向け (〜muke)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **～向け (〜muke)**. This expression is commonly used to indicate that something is **intended for**, **aimed at**, or **designed for** a particular group or purpose.
 
@@ -100,8 +100,6 @@ In Japanese culture, products and services are often tailored to specific groups
    *Answer*: Yes, it is correct.
 3. **What particle follows 向け when modifying a noun?**
    *Answer*: **の**
----
-
 
 ---
 

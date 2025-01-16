@@ -1,6 +1,6 @@
 Processing keyword: ～ないと (〜nai to)
 # Japanese Grammar Point: ～ないと (〜nai to)
-# JLPT Grammar Point: ～ないと (〜nai to)
+
 ## 1. Introduction
 The grammar point **～ないと (〜nai to)** is a colloquial expression used in Japanese to indicate obligation or necessity. It conveys the meaning of "have to do something" or "must do something" and is commonly used in spoken Japanese.
 
@@ -102,7 +102,7 @@ In Japanese culture, the level of politeness and formality is essential in commu
 1. **a) 勉強しないと。**
 2. **b) 行かなければなりません。**
 3. **False**
----
+
 
 
 ---

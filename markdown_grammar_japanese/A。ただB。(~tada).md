@@ -1,8 +1,9 @@
 Processing keyword: A。ただB。(~tada)
 # Japanese Grammar Point: A。ただB。(~tada)
-# 1. Introduction
+
+## 1. Introduction
 In Japanese, the conjunction **ただ** is a versatile word that can serve multiple functions, such as "only," "just," or "however." In this lesson, we'll focus on its usage as **"however"** or **"but"** to express a contrast or an exception to a previous statement. The structure **A。ただB。** is commonly used to connect two sentences where **B** provides additional information, a limitation, or a contrasting point to **A**.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The conjunction **ただ** is used to introduce a **contradiction**, **exception**, or **limitation** to the preceding statement. It functions similarly to "however," "but," or "only" in English when highlighting a caveat or a contrasting point.
 ## Structure
@@ -18,7 +19,7 @@ A。ただB。
 | A         | Initial statement         | Any complete sentence.              |
 | ただ      | Conjunction (however/but) | Indicates contrast or exception.    |
 | B         | Contrasting statement     | Specifies the limitation or addition.|
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### ただ vs. しかし vs. でも
 While **ただ**, **しかし**, and **でも** can all be used to introduce contrast, there are nuances:
 - **ただ**: Often highlights an exception or limitation to the previous statement.
@@ -29,7 +30,7 @@ While **ただ**, **しかし**, and **でも** can all be used to introduce con
 | ただ        | Neutral   | Exception/Limitation       |
 | しかし      | Formal    | Strong contrast            |
 | でも        | Casual    | General contradiction      |
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example 1: Formal Context
 **A**: このレポートはよく書けています。  
 **ただ**、いくつか誤字があります。
@@ -55,7 +56,7 @@ While **ただ**, **しかし**, and **でも** can all be used to introduce con
 **ただ**、副作用に注意が必要です。
 *Translation:*  
 "This medicine is effective. However, caution is needed regarding side effects."
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Politeness and Formality
 - **ただ** is a neutral term and can be used in both formal and informal settings.
 - It is suitable for written reports, business conversations, and casual dialogue.
@@ -65,7 +66,7 @@ While **ただ**, **しかし**, and **でも** can all be used to introduce con
   条件は自由です。**ただし**、予算内でお願いします。
   *Translation:*
   "The conditions are flexible. However, please stay within the budget."
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Using ただ incorrectly as "only" in this structure:**
    - **Incorrect:** 彼は学生だ。ただ、先生もしている。
@@ -77,7 +78,7 @@ While **ただ**, **しかし**, and **でも** can all be used to introduce con
 ## Tips
 - Remember that **ただ** introduces an exception or limitation to what was previously stated.
 - If emphasizing an exception in a formal context, consider using **ただし**.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **ただ** is used as a conjunction meaning "however" or "but."
 - The structure **A。ただB。** connects two sentences where **B** provides a contrast or exception to **A**.
@@ -95,7 +96,7 @@ While **ただ**, **しかし**, and **でも** can all be used to introduce con
    **ただ**、ページ数が多い。
    *Translation:*
    "This book is very interesting. However, it has many pages."
-# End of Lesson
+
 Feel free to review the examples and notes to strengthen your understanding of using **ただ** as a conjunction in Japanese!
 
 

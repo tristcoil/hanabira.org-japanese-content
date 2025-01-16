@@ -1,6 +1,6 @@
 Processing keyword: ～に あげます (〜 ni agemasu)
 # Japanese Grammar Point: ～に あげます (〜 ni agemasu)
-# ～に あげます (〜 ni agemasu)
+
 ## 1. Introduction
 Understanding how to express giving and receiving in Japanese is essential for effective communication. The grammar point **～に あげます (〜 ni agemasu)** is used to indicate that the speaker (or someone close to the speaker) gives something to someone else. This structure is fundamental in conveying actions involving gifts, favors, and offerings.
 ## 2. Core Grammar Explanation

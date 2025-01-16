@@ -1,6 +1,6 @@
 Processing keyword: ～において (〜ni oite)
 # Japanese Grammar Point: ～において (〜ni oite)
-# ～において (〜ni oite)
+
 ## 1. Introduction
 The expression **～において** (〜ni oite) is a Japanese grammar point used to indicate the location, time, or situation where something occurs. It is often found in formal writing and speeches. Understanding this grammar point will enhance your ability to comprehend and express ideas in more formal contexts.
 

@@ -1,6 +1,6 @@
 Processing keyword: A かたわら B (A katawara B)
 # Japanese Grammar Point: A かたわら B (A katawara B)
-# JLPT Grammar Point: A かたわら B (A katawara B)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **A かたわら B (A katawara B)**, which is used to express that someone engages in **B** as a secondary activity while primarily doing **A**. This structure highlights the simultaneous commitment to two activities over a period of time.
 

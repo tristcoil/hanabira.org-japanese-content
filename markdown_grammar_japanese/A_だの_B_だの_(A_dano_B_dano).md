@@ -1,10 +1,11 @@
 Processing keyword: A だの B だの (A dano B dano)
 # Japanese Grammar Point: A だの B だの (A dano B dano)
-# Grammar Lesson: AだのBだの (A dano B dano)
+
 
 ---
 ## 1. Introduction
 In this lesson, we'll explore the grammar pattern **AだのBだの** (A **dano** B **dano**), a useful structure in Japanese used to list multiple items or actions, often with a sense of dissatisfaction or criticism. Understanding this pattern will help you express complex thoughts and opinions more naturally in Japanese.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -60,6 +61,7 @@ The structure of **AだのBだの** is as follows:
 てんちょうは ひんしつかんり **だの** こきゃくたいおう **だの**、さまざまな もんだいに ちょくめんしている。
 **English Translation:**  
 "The store manager is facing various issues like quality control, customer service, and so on."
+
 ---
 ## 5. Cultural Notes
 ### Levels of Politeness and Formality
@@ -67,6 +69,7 @@ The structure of **AだのBだの** is as follows:
 - It's advisable to be cautious when using **だの**, especially in formal situations or with superiors.
 ### Idiomatic Expressions
 - Combining **だの** with complaints or lists of troubles is common in Japanese, reflecting a cultural tendency to express dissatisfaction indirectly.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes
@@ -97,8 +100,6 @@ The structure of **AだのBだの** is as follows:
 1. It is used to express dissatisfaction, annoyance, or criticism while listing items or actions.
 2. No, because だの is informal and carries a negative tone, which is unsuitable for formal business communication.
 3. 彼は天気が悪い**だの**渋滞がひどい**だの**、いつも文句を言っている。
----
-
 
 ---
 

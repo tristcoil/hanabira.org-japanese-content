@@ -1,6 +1,6 @@
 Processing keyword: ～にかかわらず (〜ni kakawarazu)
 # Japanese Grammar Point: ～にかかわらず (〜ni kakawarazu)
-# ～にかかわらず (〜ni kakawarazu)
+
 ## 1. Introduction
 The grammar point ～にかかわらず (*ni kakawarazu*) is a useful expression in Japanese that translates to "regardless of" or "irrespective of" in English. It is used to indicate that something is true or will happen regardless of certain conditions or factors.
 

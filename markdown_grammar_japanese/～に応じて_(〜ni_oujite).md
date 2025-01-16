@@ -1,6 +1,6 @@
 Processing keyword: ～に応じて (〜ni oujite)
 # Japanese Grammar Point: ～に応じて (〜ni oujite)
-# ～に応じて (〜ni oujite)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **～に応じて (〜ni oujite)**, a useful expression in Japanese that allows you to indicate that something changes or is done **"in accordance with," "depending on," or "according to"** certain circumstances or conditions. Mastering this grammar point will enable you to describe actions or outcomes that adjust based on varying factors.
 
@@ -14,7 +14,7 @@ In this lesson, we'll explore the grammar point **～に応じて (〜ni oujite)
 #### Formation
 | **Noun** | + に応じて |
 |----------|-----------|
-| **Noun** | に応じて   |
+
 #### Diagram
 ```
 [Condition Noun] + に応じて + [Action/Outcome]
@@ -114,6 +114,7 @@ In Japanese culture, adaptability and responsiveness to situations are highly va
    - *Answer:* **a)**
 ---
 By understanding and using **～に応じて**, you can effectively communicate adjustments and responses to varying conditions in Japanese. Remember to pair it with a noun and adjust your sentence's politeness level to suit the context.
+
 ---
 **Practice Sentence Creation:**
 Try creating your own sentences using **～に応じて**. For example:

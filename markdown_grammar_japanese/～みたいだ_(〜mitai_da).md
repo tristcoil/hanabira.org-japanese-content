@@ -1,6 +1,6 @@
 Processing keyword: ～みたいだ (〜mitai da)
 # Japanese Grammar Point: ～みたいだ (〜mitai da)
-# Lesson on ～みたいだ (〜mitai da)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～みたいだ (〜mitai da)**, which is used to express resemblance or similarity, and to make conjectures based on appearances or evidence. Understanding how to use **～みたいだ** will enhance your ability to describe observations and express assumptions in Japanese.
 
@@ -19,12 +19,11 @@ The formation of **～みたいだ** depends on the type of word it attaches to:
 | **な-adjective**      | **な-adjective** + みたいだ |
 | **Noun**             | **Noun** + みたいだ        |
 ### Formation Diagram
-```mermaid
-graph LR
+```
 A[Verb (casual form)] --> B(みたいだ)
-C[い-adjective] --> B
-D[な-adjective] --> B
-E[Noun] --> B
+A[い-adjective] --> B(みたいだ)
+A[な-adjective] --> B(みたいだ)
+A[Noun] --> B(みたいだ)
 ```
 ### Detailed Explanation
 1. **Expressing Similarity**
@@ -133,8 +132,6 @@ Understanding the nuances between similar expressions can enhance your Japanese 
    - **Answer**: b) *彼は忙しいようだ。*
 ---
 By understanding and practicing **～みたいだ**, you'll be able to express your observations and assumptions more naturally in Japanese. Try using it in your daily conversations!
----
-
 
 ---
 

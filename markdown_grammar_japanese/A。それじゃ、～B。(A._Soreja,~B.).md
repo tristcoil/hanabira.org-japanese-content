@@ -1,6 +1,6 @@
 Processing keyword: A。それじゃ、～B。(A. Soreja,~B.)
 # Japanese Grammar Point: A。それじゃ、～B。(A. Soreja,~B.)
-# A。それじゃ、～B。 (A. Soreja, ~B.)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「それじゃ」 (sore ja)**, a conversational phrase used to transition between topics or to conclude a conversation. Understanding this grammar point will help you sound more natural and fluent in everyday Japanese conversations.
 

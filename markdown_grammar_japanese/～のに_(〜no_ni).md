@@ -1,6 +1,6 @@
 Processing keyword: ～のに (〜no ni)
 # Japanese Grammar Point: ～のに (〜no ni)
-# ～のに (〜no ni)
+
 ## 1. Introduction
 The grammar point ～のに (〜no ni) is a conjunction used in Japanese to express contrast or an unexpected result. It is similar to "although," "even though," or "despite" in English. Understanding how to use ～のに will allow you to create complex sentences that highlight contradictions or unexpected situations.
 
@@ -30,10 +30,12 @@ The grammar point ～のに (〜no ni) is a conjunction used in Japanese to expr
 ### ～のに vs. ～ても (〜temo)
 - **～のに** emphasizes the unexpectedness of the result, expressing the speaker's surprise or dissatisfaction.
 - **～ても** means "even if" and is used to indicate that the result in the second clause will occur regardless of the condition in the first clause.
+
 | Grammar Point | Usage                                  | Example                                 |
 |---------------|----------------------------------------|-----------------------------------------|
 | **～のに**      | Unexpected result despite known fact   | 雨が降っているのに、彼は出かけた。           |
 | **～ても**      | Result occurs regardless of condition | 雨が降っても、彼は出かける。               |
+
 **Translation:**
 - **～のに**: *Even though it's raining, he went out.* (Unexpected)
 - **～ても**: *Even if it rains, he will go out.* (Regardless)

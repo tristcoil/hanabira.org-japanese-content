@@ -1,6 +1,6 @@
 Processing keyword: A にしろ B にしろ (A nishiro B nishiro)
 # Japanese Grammar Point: A にしろ B にしろ (A nishiro B nishiro)
-# A にしろ B にしろ (A nishiro B nishiro)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **A にしろ B にしろ** (*A nishiro B nishiro*). This structure is used to express "whether it's A or B" or "regardless of whether it's A or B." It's a useful way to highlight that the same conclusion or condition applies to multiple scenarios.
 
@@ -125,6 +125,7 @@ Let's look at some examples to see how **A にしろ B にしろ** is used in di
 - **にせよ** is a more formal alternative.
 ---
 By understanding and practicing **A にしろ B にしろ**, you'll be able to express "whether A or B" scenarios effectively in Japanese. This structure is versatile and commonly used, making it a valuable addition to your language skills.
+
 ---
 # Additional Practice
 Try crafting sentences using **A にしろ B にしろ** with the following word pairs:

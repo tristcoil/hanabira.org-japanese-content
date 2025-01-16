@@ -1,6 +1,6 @@
 Processing keyword: ～はもちろん～も (〜wa mochiron 〜mo)
 # Japanese Grammar Point: ～はもちろん～も (〜wa mochiron 〜mo)
-# ～はもちろん～も (〜wa mochiron 〜mo)
+
 ## 1. Introduction
 The grammar pattern ～はもちろん～も (～はもちろん、～も) is used in Japanese to express that not only one thing but also another thing exists or is applicable. It emphasizes that something is a given (of course), and in addition, there is something else.
 **English Equivalent**: "Not only ~, but also ~", "Of course ~, also ~"

@@ -1,6 +1,6 @@
 Processing keyword: A とも B とも (A tomo B tomo)
 # Japanese Grammar Point: A とも B とも (A tomo B tomo)
-# AともBとも (A tomo B tomo)
+
 ## 1. Introduction
 In Japanese, expressing uncertainty or ambiguity is often necessary, especially when you cannot clearly define or categorize something. The grammar point **AともBとも** is used to convey that something cannot be definitively labeled as A or B. This structure is particularly useful for expressing nuanced opinions or observations.
 

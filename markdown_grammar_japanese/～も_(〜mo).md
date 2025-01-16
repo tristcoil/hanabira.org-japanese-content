@@ -1,6 +1,6 @@
 Processing keyword: ～も (〜mo)
 # Japanese Grammar Point: ～も (〜mo)
-# ～も (〜mo)
+
 ## 1. Introduction
 The particle **も (mo)** is a common and versatile particle in Japanese that adds the meanings of "also," "too," or "even" to a sentence. It's used to indicate that something applies in addition to something else or to emphasize a particular point. Mastering **も** will enhance your ability to express inclusivity and emphasis in Japanese.
 

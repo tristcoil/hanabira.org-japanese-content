@@ -1,6 +1,6 @@
 Processing keyword: A。というのは B。(Toiu no wa~)
 # Japanese Grammar Point: A。というのは B。(Toiu no wa~)
-# Understanding the Grammar Point: **A。というのは B。 (〜というのは)**
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **〜というのは** (*to iu no wa*). This expression is commonly used to define or explain the meaning of a word or phrase. Understanding how to use **〜というのは** will help you clarify concepts and enhance your communication skills in Japanese.
 
@@ -88,8 +88,6 @@ A + というのは + B (です / だ)
    "A 'hikikomori' is a person who stays at home and avoids social contact."
    **Answer:**
    **引きこもりというのは、家にこもって社会的な接触を避ける人のことです。**
----
-
 
 ---
 

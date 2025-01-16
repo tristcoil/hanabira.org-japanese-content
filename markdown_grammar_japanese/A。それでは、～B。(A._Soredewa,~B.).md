@@ -1,6 +1,6 @@
 Processing keyword: A。それでは、～B。(A. Soredewa,~B.)
 # Japanese Grammar Point: A。それでは、～B。(A. Soredewa,~B.)
-# JLPT Grammar Point: A。それでは、～B。
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar pattern **A。それでは、～B。** This structure is commonly used in Japanese to connect ideas or actions based on a previous statement. It helps in making conversations flow naturally and indicates a response or decision influenced by prior information.
 
@@ -60,6 +60,7 @@ A。それでは、～B。
 **B:** **それでは**、早めに出発しましょう。  
 *(Soredewa, hayame ni shuppatsu shimashō.)*  
 *In that case, let's depart early.*
+
 ---
 ### Example 2
 **A:** このレストランは満席だそうです。  
@@ -68,6 +69,7 @@ A。それでは、～B。
 **B:** **それでは**、別の店に行きましょうか。  
 *(Soredewa, betsu no mise ni ikimashō ka.)*  
 *Well then, shall we go to another place?*
+
 ---
 ### Example 3
 **A:** ペンが見つかりません。  
@@ -76,6 +78,7 @@ A。それでは、～B。
 **B:** **それでは**、私のを使ってください。  
 *(Soredewa, watashi no o tsukatte kudasai.)*  
 *In that case, please use mine.*
+
 ---
 ### Example 4
 **A:** 会議は延期になりました。  
@@ -84,6 +87,7 @@ A。それでは、～B。
 **B:** **それでは**、午後は自由ですね。  
 *(Soredewa, gogo wa jiyū desu ne.)*  
 *Well then, we're free this afternoon, aren't we?*
+
 ---
 ### Example 5
 **A:** プリンターが故障しています。  
@@ -92,6 +96,7 @@ A。それでは、～B。
 **B:** **それでは**、修理を依頼しましょう。  
 *(Soredewa, shūri o irai shimashō.)*  
 *In that case, let's request repairs.*
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -106,6 +111,7 @@ A。それでは、～B。
   *(Soredewa mata.)*  
   *Well then, see you again.*  
   - A polite way to say goodbye until next time.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -133,7 +139,6 @@ A。それでは、～B。
    **Answer:** それでは
 ---
 Congratulations on learning the **A。それでは、～B。** grammar pattern! Try using **それでは** in your next Japanese conversation to make your speech more natural and connected.
----
 
 
 ---

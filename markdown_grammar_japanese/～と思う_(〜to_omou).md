@@ -131,7 +131,7 @@ These phrases are commonly used to agree with someone's opinion politely.
    - **Answer:** これは重要だと思います。
 ---
 Feel free to apply **～と思う** in your daily Japanese conversations to express your thoughts and opinions naturally!
----
+
 
 
 ---

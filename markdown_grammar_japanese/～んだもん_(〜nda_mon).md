@@ -1,6 +1,6 @@
 Processing keyword: ～んだもん (〜nda mon)
 # Japanese Grammar Point: ～んだもん (〜nda mon)
-# ～んだもん (〜nda mon)
+
 ## 1. Introduction
 The expression **～んだもん** is a colloquial Japanese grammar structure used to emphasize a reason or excuse in an informal and often emphatic manner. It conveys a sense of personal justification, sometimes with a whining or complaining tone, similar to saying "because..." or "after all..." in English.
 
@@ -30,10 +30,12 @@ The expression **～んだもん** is a colloquial Japanese grammar structure us
 ### Comparison with **～から**
 - **～から** also means "because" but is neutral in tone.
 - **～んだもん** adds emotion, making it more personal or emphatic.
+
 | Expression    | Nuance                            |
 |---------------|-----------------------------------|
 | **～から**     | Simple reason                     |
 | **～んだもん** | Emphatic reason with emotion     |
+
 **Example:**
 - **疲れたから、休みます。**  
   "I'll rest because I'm tired."

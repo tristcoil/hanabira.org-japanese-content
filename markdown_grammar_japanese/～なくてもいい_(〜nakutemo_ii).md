@@ -1,5 +1,6 @@
 Processing keyword: ～なくてもいい (〜nakutemo ii)
 # Japanese Grammar Point: ～なくてもいい (〜nakutemo ii)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～なくてもいい (〜nakutemo ii)**. This structure is essential for expressing that something is _not necessary_ or that one "_does not have to_" do something. Mastering this grammar will help you convey permission and relieve obligations in various contexts.
 

@@ -1,6 +1,6 @@
 Processing keyword: ～ようになった (〜you ni natta)
 # Japanese Grammar Point: ～ようになった (〜you ni natta)
-# ～ようになった (〜you ni natta)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point ～ようになった (〜you ni natta), which is used to express a change or development in ability, habit, or situation over time. Understanding this structure will enable you to describe how you or others have started to do something or have come to be able to do something.
 
@@ -123,7 +123,7 @@ These expressions are commonly used to discuss improvements in skills or changes
 3. 彼は日本語を話す______。(He has become able to speak Japanese.)
    **Answer:** ようになった
 ---
-## Thank you for studying ～ようになった! Keep practicing by making your own sentences to describe changes in your habits or abilities.
+Thank you for studying ～ようになった! Keep practicing by making your own sentences to describe changes in your habits or abilities.
 
 
 ---

@@ -1,6 +1,6 @@
 Processing keyword: ～ながらに (～nagara ni)
 # Japanese Grammar Point: ～ながらに (～nagara ni)
-# Grammar Point: ～ながらに (～nagara ni)
+
 ## 1. Introduction
 The grammar pattern **～ながらに** (pronounced *nagara ni*) is used in Japanese to express a state or condition that remains unchanged from a certain time or while in a certain condition. It conveys the meaning of "since," "while," or "in (a certain state)."
 
@@ -88,7 +88,7 @@ While **ながらに** can be attached to verb stems, it is most commonly used i
    その芸術家は生まれながらにして天才だった。
    - *That artist was a genius since birth.*
 ---
-**Practice creating your own sentences using ～ながらに to deepen your understanding of this grammar point!**
+Practice creating your own sentences using ～ながらに to deepen your understanding of this grammar point!
 
 
 ---

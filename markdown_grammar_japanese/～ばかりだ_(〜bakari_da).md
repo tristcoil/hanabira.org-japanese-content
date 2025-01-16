@@ -1,6 +1,6 @@
 Processing keyword: ～ばかりだ (〜bakari da)
 # Japanese Grammar Point: ～ばかりだ (〜bakari da)
-# ～ばかりだ (〜bakari da)
+
 ## 1. Introduction
 The grammar point ～ばかりだ (〜bakari da) is a versatile expression in Japanese that conveys the idea of an action or state continuing in a certain direction, often with a sense of inevitability or without stopping. It can indicate that something **keeps happening**, usually trending towards a negative outcome, or that an action **has just been completed**.
 
@@ -99,7 +99,6 @@ Both express that an action has just occurred, but:
 1. Verb (dictionary form) + ばかりだ (e.g., 減るばかりだ)
 2. たばかりだ implies not much time has passed; たところだ emphasizes immediacy.
 3. "Studying Japanese keeps getting more difficult."
----
 
 
 ---

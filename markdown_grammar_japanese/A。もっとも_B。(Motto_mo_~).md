@@ -1,6 +1,6 @@
 Processing keyword: A。もっとも B。(Motto mo ~)
 # Japanese Grammar Point: A。もっとも B。(Motto mo ~)
-# JLPT Grammar Point: A。もっとも B。 (～もっとも)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **もっとも (motto mo)**, which is used to provide an exception or add a caveat to a previous statement. This conjunction is similar to "however" or "though" in English and is useful for making your Japanese more nuanced and natural.
 
@@ -92,6 +92,7 @@ The grammar structure for **もっとも** is straightforward:
    a) このケーキはおいしい。もっと、チョコレート味です。
    b) このケーキはおいしい。もっとも、甘すぎるかもしれません。
 3. **True or False:** もっとも can be used interchangeably with もっと.
+
 **Answers:**
 1. **B** - To add an exception or modify the previous statement.
 2. **b** is correct. Sentence **a** incorrectly uses もっと instead of もっとも.

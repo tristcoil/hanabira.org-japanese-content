@@ -1,6 +1,6 @@
 Processing keyword: ～に対して (〜ni taishite)
 # Japanese Grammar Point: ～に対して (〜ni taishite)
-# ～に対して (〜ni taishite)
+
 ## 1. Introduction
 The expression **～に対して (〜ni taishite)** is a versatile grammar point in Japanese that is used to indicate direction towards a target, to express contrast, or to specify the object of certain emotions or actions. It can be translated as "towards," "against," "regarding," "in contrast to," or "whereas" in English.
 ## 2. Core Grammar Explanation
@@ -29,20 +29,24 @@ The expression **～に対して (〜ni taishite)** is a versatile grammar point
      - *Atarashii keikaku ni taishite iken ga arimasu.*
      - "I have an opinion regarding the new plan."
 ### Visual Aid: Usage Table
+
 | Function                              | Usage                                     | Example                                                  |
 |---------------------------------------|-------------------------------------------|----------------------------------------------------------|
 | Direction towards someone/something   | Actions or feelings aimed at a target     | 彼は会社に対して不満を持っている。<br>*He is dissatisfied with the company.* |
 | Contrast between two things/situations | Highlighting differences                  | 夏に対して冬は寒い。<br>*In contrast to summer, winter is cold.*        |
 | Regarding a topic                     | Discussing or addressing a subject matter | 環境問題に対して関心が高まっている。<br>*Interest in environmental issues is growing.* |
+
 ## 3. Comparative Analysis
 ### ～について (〜ni tsuite)
 - **Meaning:** About; Concerning; Regarding
 - **Usage:** Used when discussing or describing a topic in general.
 - **Comparison:** While both **に対して** and **について** can be translated as "regarding," **に対して** often implies a response, action, or feeling directed towards the subject, or a contrast, whereas **について** is used simply to indicate the topic of discussion.
+
 | Grammar Point | Meaning                      | Usage                                        |
 |---------------|------------------------------|----------------------------------------------|
 | **～に対して**  | Towards; Against; In contrast | Actions/feelings directed at something; Contrast |
 | **～について**  | About; Regarding             | General discussion or description of a topic |
+
 ## 4. Examples in Context
 ### Example 1: Formal Situation
 **Japanese:** 社長は社員の提案に対して検討を約束した。
@@ -54,16 +58,19 @@ The expression **～に対して (〜ni taishite)** is a versatile grammar point
 **Japanese:** 彼女は友人に対して感謝の気持ちを持っている。
 **Romaji:** Kanojo wa yūjin ni taishite kansha no kimochi o motte iru.
 **English:** She feels grateful towards her friends.
+
 ---
 ### Example 3: Highlighting Contrast
 **Japanese:** 都会の生活が便利なのに対して、田舎の生活は静かだ。
 **Romaji:** Tokai no seikatsu ga benri na no ni taishite, inaka no seikatsu wa shizuka da.
 **English:** Whereas city life is convenient, country life is quiet.
+
 ---
 ### Example 4: Informal Conversation
 **Japanese:** 兄は辛いものが好きなのに対して、私は甘いものが好きだ。
 **Romaji:** Ani wa karai mono ga suki na no ni taishite, watashi wa amai mono ga suki da.
 **English:** My older brother likes spicy food, whereas I like sweets.
+
 ---
 ### Example 5: Written Language
 **Japanese:** この問題に対して、様々な意見が出された。

@@ -1,6 +1,6 @@
 Processing keyword: ～ばかりか〜も (〜bakari ka 〜 mo)
 # Japanese Grammar Point: ～ばかりか〜も (〜bakari ka 〜 mo)
-# ～ばかりか〜も（~bakari ka ~ mo）
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～ばかりか〜も** (～**bakari ka** ～**mo**). This structure is used to express the meaning "not only... but also...", emphasizing that in addition to one thing, there's more to consider. It's a useful way to highlight extra information that might be surprising or noteworthy.
 

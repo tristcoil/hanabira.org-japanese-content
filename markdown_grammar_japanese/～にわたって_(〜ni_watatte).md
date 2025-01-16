@@ -1,6 +1,6 @@
 Processing keyword: ～にわたって (〜ni watatte)
 # Japanese Grammar Point: ～にわたって (〜ni watatte)
-# ～にわたって (〜ni watatte)
+
 ## 1. Introduction
 The grammar point **～にわたって (〜ni watatte)** is used in Japanese to express that something extends over a certain **period of time**, **area**, or **range**. It emphasizes the breadth or scope of an action or state, and is often translated as "over," "throughout," or "across" in English.
 
@@ -41,22 +41,27 @@ The grammar point **～にわたって (〜ni watatte)** is used in Japanese to 
 ### Example 1: Over a Period of Time
 **会議は２日間にわたって行われました。**
 *The conference was held over two days.*
+
 ---
 ### Example 2: Across an Area
 **その鳥はアジア全域にわたって生息している。**
 *That bird lives throughout the whole of Asia.*
+
 ---
 ### Example 3: Throughout a Range
 **この問題は教育、経済、政治など多方面にわたって影響を与える。**
 *This issue affects various fields such as education, economy, and politics.*
+
 ---
 ### Example 4: Formal Written Context
 **２０年にわたる研究の成果がついに出版された。**
 *The results of research spanning 20 years have finally been published.*
+
 ---
 ### Example 5: Informal Spoken Context
 **彼は長年にわたってその店で働いていた。**
 *He worked at that shop for many years.*
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -65,6 +70,7 @@ The grammar point **～にわたって (〜ni watatte)** is used in Japanese to 
 ### Idiomatic Expressions
 - **全国にわたって (zenkoku ni watatte):** "Throughout the country"
 - **長期にわたって (chōki ni watatte):** "Over a long period"
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes

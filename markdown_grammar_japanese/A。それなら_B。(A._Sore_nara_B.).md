@@ -1,10 +1,10 @@
 Processing keyword: A。それなら B。(A. Sore nara B.)
 # Japanese Grammar Point: A。それなら B。(A. Sore nara B.)
-# Japanese Grammar Lesson: **A。それなら B。**
 
 ---
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「それなら」 (sore nara)**, which translates to **"if that's the case," "in that case," or "if so"** in English. This conjunction is used to respond to information by suggesting a consequent action or remark. Understanding how to use **「それなら」** will enhance your ability to connect ideas smoothly in conversation.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -47,6 +47,7 @@ A: 明日は雨が降るそうです。
 それなら、傘を持っていったほうがいいですね。  
 *(Sore nara, kasa wo motte itta hou ga ii desu ne.)*  
 "In that case, you should take an umbrella."
+
 ---
 **2. Casual Conversation**
 A: 今日のパーティー、中止になったよ。  
@@ -55,6 +56,7 @@ A: 今日のパーティー、中止になったよ。
 それなら、家で映画を見よう。  
 *(Sore nara, ie de eiga wo miyou.)*  
 "In that case, let's watch a movie at home."
+
 ---
 **3. Written Context**
 A: 新しいプロジェクトに資金が必要です。  
@@ -63,6 +65,7 @@ A: 新しいプロジェクトに資金が必要です。
 それなら、スポンサーを探しましょう。  
 *(Sore nara, suponsaa wo sagashimashou.)*  
 "In that case, let's look for sponsors."
+
 ---
 **4. Polite Conversation**
 A: お疲れのようですね。  
@@ -71,6 +74,7 @@ A: お疲れのようですね。
 それなら、少し休憩してください。  
 *(Sore nara, sukoshi kyuukei shite kudasai.)*  
 "In that case, please take a short break."
+
 ---
 ## 5. Cultural Notes
 ### Politeness and Formality
@@ -79,6 +83,7 @@ A: お疲れのようですね。
 ### Social Norms
 - Using **「それなら」** shows attentiveness to the information provided by the speaker.
 - It demonstrates logical reasoning and responsiveness in dialogue.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes
@@ -92,6 +97,7 @@ A: お疲れのようですね。
 ### Tips
 - **Ensure there is a prior statement (A) before using 「それなら」**.
 - **Remember**: 「それなら」 = "Given that information" → Response.
+
 ---
 ## 7. Summary and Review
 ### Key Takeaways

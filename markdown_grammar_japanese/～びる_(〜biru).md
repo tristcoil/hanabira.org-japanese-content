@@ -1,6 +1,6 @@
 Processing keyword: ～びる (〜biru)
 # Japanese Grammar Point: ～びる (〜biru)
-# ～びる (〜biru)
+
 ## 1. Introduction
 In this lesson, we'll delve into the Japanese grammar suffix **～びる (〜biru)**. This suffix is used to form verbs that express "to appear like" or "to have the characteristics of" something. Understanding **～びる** will help you describe subtle nuances in appearance and behavior in Japanese.
 

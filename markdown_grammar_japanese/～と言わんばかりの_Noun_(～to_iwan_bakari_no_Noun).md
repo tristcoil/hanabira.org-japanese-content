@@ -1,6 +1,6 @@
 Processing keyword: ～と言わんばかりの Noun (～to iwan bakari no Noun)
 # Japanese Grammar Point: ～と言わんばかりの Noun (～to iwan bakari no Noun)
-# ～と言わんばかりの Noun (～といわんばかりの Noun)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～と言わんばかりの** (～といわんばかりの), which is used to describe a noun that seems to be expressing or implying something without directly stating it. This expression translates to "**as if to say ~**" or "**as though ~**" in English.
 
@@ -106,7 +106,6 @@ In Japanese culture, non-verbal communication and reading between the lines are 
    **Translation**: *The dog was wagging its tail as if to say "I love you."*
 ---
 By understanding **～と言わんばかりの**, you can better interpret and express nuanced feelings and implied messages in Japanese communication.
----
 
 
 ---

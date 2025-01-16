@@ -1,6 +1,6 @@
 Processing keyword: A は B ほど～ない (A wa B hodo ~ nai)
 # Japanese Grammar Point: A は B ほど～ない (A wa B hodo ~ nai)
-# Grammar Lesson: AはBほど～ない (A wa B hodo ~ nai)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **AはBほど～ない (A wa B hodo ~ nai)**. This structure is used to express that **"A is not as... as B."** It's a common way to make comparisons in Japanese when indicating that one thing does not match the degree or extent of another.
 
@@ -61,6 +61,7 @@ A は B ほど ～ない
 **この映画は期待したほど面白くなかった。**  
 *Kono eiga wa kitai shita hodo omoshiroku nakatta.*  
 "The movie wasn't as interesting as I expected."
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -70,6 +71,7 @@ In Japanese culture, modesty and humility are valued. Using structures like **A�
   *Naku hodo warau*  
   "Laugh so much that you cry."
   - **Note**: Here, **ほど** is used in a positive sense to indicate the extent of an action.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -108,7 +110,6 @@ In Japanese culture, modesty and humility are valued. Using structures like **A�
    "This town is not as lively as Tokyo."
 ---
 By understanding and practicing this grammar point, you'll be able to make nuanced comparisons in Japanese more naturally. Remember to pay attention to the structure and use it to express that something doesn't quite match up to something else in degree or extent.
----
 
 
 ---

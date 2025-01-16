@@ -1,6 +1,6 @@
 Processing keyword: A。なおB。(A. Nao B.)
 # Japanese Grammar Point: A。なおB。(A. Nao B.)
-# A。なおB。 (A. Nao B.)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「なお」** used in the structure **A。なおB。**. This conjunction is commonly used to add supplementary information or provide additional remarks related to the previous statement. Understanding how to use **「なお」** will enhance your ability to connect sentences smoothly, especially in formal contexts.
 
@@ -48,30 +48,35 @@ Sentence A。なお、Sentence B。
 本日の会議はこれで終了です。なお、次回の会議は来週月曜日に行います。
 **English Translation:**  
 "This concludes today's meeting. **Furthermore**, the next meeting will be held next Monday."
+
 ---
 ### Example 2: Informing Additional Rules
 **Japanese:**  
 試験中は携帯電話の電源を切ってください。なお、試験開始後の退室は認められません。
 **English Translation:**  
 "Please turn off your mobile phones during the exam. **In addition**, leaving the room after the exam has started is not permitted."
+
 ---
 ### Example 3: Written Announcement
 **Japanese:**  
 新しい図書館がオープンしました。なお、利用時間は午前9時から午後8時までです。
 **English Translation:**  
 "The new library has opened. **Moreover**, the hours of operation are from 9 AM to 8 PM."
+
 ---
 ### Example 4: Adding Clarification
 **Japanese:**  
 この商品は現在在庫切れです。なお、入荷予定は未定です。
 **English Translation:**  
 "This product is currently out of stock. **Furthermore**, the restock date is undecided."
+
 ---
 ### Example 5: Casual Conversation (Less common)
 **Japanese:**  
 明日のパーティーに行くよ。なお、プレゼントは不要だよ。
 **English Translation:**  
 "I'm going to the party tomorrow. **Also**, you don't need to bring a gift."
+
 ---
 ## 5. Cultural Notes
 ### Formality and Usage
@@ -84,6 +89,7 @@ Sentence A。なお、Sentence B。
 ### Idiomatic Expressions
 - While **「なお」** itself is a conjunction, it's often found in set phrases in formal contexts.
 - Commonly used in legal documents, manuals, and formal letters.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes
@@ -99,6 +105,7 @@ Sentence A。なお、Sentence B。
 ### Mnemonic Device
 - **"Now, more info!"**  
   - Think of **「なお」** as saying "Now, here's more information," emphasizing that additional, relevant details are coming.
+
 ---
 ## 7. Summary and Review
 ### Key Takeaways

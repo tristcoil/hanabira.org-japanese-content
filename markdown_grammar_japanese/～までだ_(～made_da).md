@@ -1,6 +1,6 @@
 Processing keyword: ～までだ (～made da)
 # Japanese Grammar Point: ～までだ (～made da)
-# ～までだ (～made da)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～までだ (～made da)**. This expression is used to convey modesty about one's actions or to express resignation, indicating that there's nothing left to do but a certain action. Mastering this grammar point will enhance your ability to express subtle nuances in Japanese conversation.
 

@@ -1,6 +1,6 @@
 Processing keyword: ～ぶる (〜buru)
 # Japanese Grammar Point: ～ぶる (〜buru)
-# ～ぶる (〜buru)
+
 ## 1. Introduction
 The grammar point ～ぶる (〜buru) is a suffix used in Japanese to express the idea of someone pretending, acting like, or putting on airs of something or someone they're not. It often carries a negative connotation, suggesting insincerity or pretentiousness.
 
@@ -97,7 +97,6 @@ In Japanese culture, modesty and humility are valued traits. Pretending to be mo
 1. **B) Pretending or acting like something/someone**
 2. **B) 彼は専門家ぶる。** *(He acts like an expert.)*
 3. **She is pretending to be a celebrity.**
----
 
 
 ---

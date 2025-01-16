@@ -1,6 +1,6 @@
 Processing keyword: ～ないことはない (〜nai koto wa nai)
 # Japanese Grammar Point: ～ないことはない (〜nai koto wa nai)
-# ～ないことはない (〜nai koto wa nai)
+
 ## 1. Introduction
 The grammar pattern **～ないことはない** is used in Japanese to express that something is not impossible or that there is a possibility, albeit slight. It often conveys a nuanced affirmation, suggesting that while something may not be easy or preferred, it isn't entirely out of the question.
 
@@ -113,6 +113,7 @@ These expressions are often used to imply that, while possible, there may be rea
 "# ～ないことはない (〜nai koto wa nai)
 ## 1. Introduction
 The grammar pattern **～ないことはない** is used in Japanese to express that something is not impossible or that there is a possibility, albeit slight. It often conveys a nuanced affirmation, suggesting that while something may not be easy or preferred, it isn't entirely out of the question.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

@@ -1,6 +1,6 @@
 Processing keyword: ～のです (〜no desu)
 # Japanese Grammar Point: ～のです (〜no desu)
-# ～のです (〜no desu) Grammar Point
+
 ## 1. Introduction
 The grammar point **～のです (〜no desu)** is a Japanese expression used to provide explanations, emphasize information, or seek clarification politely. It adds nuance to statements and questions, making them more informative and expressive.
 

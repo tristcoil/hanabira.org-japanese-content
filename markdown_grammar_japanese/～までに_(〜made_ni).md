@@ -1,6 +1,6 @@
 Processing keyword: ～までに (〜made ni)
 # Japanese Grammar Point: ～までに (〜made ni)
-# ～までに (〜made ni)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～までに (〜made ni)**. This expression is essential for indicating deadlines or the latest time by which an action should be completed. Mastering **～までに** will enhance your ability to discuss schedules, commitments, and time-sensitive tasks in Japanese.
 

@@ -1,6 +1,6 @@
 Processing keyword: ～ばかりか (〜bakarika) ～も (mo)
 # Japanese Grammar Point: ～ばかりか (〜bakarika) ～も (mo)
-# ～ばかりか (〜bakarika) ～も（も）
+
 ## 1. Introduction
 In this lesson, we will learn the Japanese grammar point **～ばかりか (～bakarika) ～も**, which is used to express "not only... but also..." in Japanese. Mastering this grammar structure will enhance your ability to emphasize additional information in both spoken and written Japanese.
 

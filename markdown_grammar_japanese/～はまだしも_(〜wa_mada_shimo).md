@@ -1,6 +1,6 @@
 Processing keyword: ～はまだしも (〜wa mada shimo)
 # Japanese Grammar Point: ～はまだしも (〜wa mada shimo)
-# ～はまだしも (〜wa mada shimo)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～はまだしも** (〜wa mada shimo). This expression is used to compare two situations, where one is considered acceptable or tolerable, while the other is not. Understanding this grammar point will help you express nuanced opinions and preferences in Japanese.
 

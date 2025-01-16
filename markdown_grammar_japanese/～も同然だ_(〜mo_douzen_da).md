@@ -1,6 +1,6 @@
 Processing keyword: ～も同然だ (〜mo douzen da)
 # Japanese Grammar Point: ～も同然だ (〜mo douzen da)
-# ～も同然だ (〜mo douzen da)
+
 ## 1. Introduction
 The grammar point ～も同然だ (*~mo dōzen da*) is used in Japanese to express that something is virtually the same as something else. It conveys the meaning of "practically," "virtually," or "as good as" in English. This expression is handy when you want to emphasize that, although something isn't exactly a certain way, it's so close that it might as well be.
 

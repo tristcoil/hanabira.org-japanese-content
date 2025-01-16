@@ -1,6 +1,6 @@
 Processing keyword: ～まい (〜mai)
 # Japanese Grammar Point: ～まい (〜mai)
-# ～まい (〜mai)
+
 ## 1. Introduction
 The grammar point **～まい (〜mai)** is a suffix used in Japanese to express strong negative intentions or conjectures. It often translates to "will not," "won't," "shall not," or "probably not" in English. This form is more formal and is commonly found in written language, literature, or formal speeches.
 

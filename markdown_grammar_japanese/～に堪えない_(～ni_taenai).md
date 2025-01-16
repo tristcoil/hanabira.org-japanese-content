@@ -1,6 +1,6 @@
 Processing keyword: ～に堪えない (～ni taenai)
 # Japanese Grammar Point: ～に堪えない (～ni taenai)
-# ～に堪えない (～にたえない)
+
 ## 1. Introduction
 The grammar point **～に堪えない (～にたえない)** is a formal expression used to convey that one cannot suppress or contain strong emotions or feelings towards something. It often reflects deep emotions such as gratitude, sorrow, or admiration that are beyond one's ability to endure silently.
 

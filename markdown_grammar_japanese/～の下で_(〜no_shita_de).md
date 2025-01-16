@@ -1,6 +1,6 @@
 Processing keyword: ～の下で (〜no shita de)
 # Japanese Grammar Point: ～の下で (〜no shita de)
-# ～の下で (〜no shita de)
+
 ## 1. Introduction
 The grammar point **～の下で (〜no shita de)** is used to express that an action occurs under the influence, guidance, or condition of someone or something. It conveys the idea of being "under" in a figurative sense, such as under the supervision, leadership, or within certain conditions.
 ## 2. Core Grammar Explanation

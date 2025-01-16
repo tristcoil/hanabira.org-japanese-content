@@ -1,6 +1,6 @@
 Processing keyword: ～次第 (〜shidai)
 # Japanese Grammar Point: ～次第 (〜shidai)
-# ～次第（しだい）
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **～次第（しだい）**. This expression is essential for conveying that something will happen **as soon as** a particular action is completed. It's commonly used in formal situations, such as business or polite communications.
 
@@ -120,7 +120,6 @@ Verb (ます-stem) + 次第
 3. **b) Formal business email**
 ---
 By mastering **～次第**, you can enhance your formal Japanese communication skills, making your speech and writing sound more professional and polished.
----
 
 
 ---

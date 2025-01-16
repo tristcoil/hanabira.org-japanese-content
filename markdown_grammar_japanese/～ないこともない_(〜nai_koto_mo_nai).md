@@ -1,6 +1,6 @@
 Processing keyword: ～ないこともない (〜nai koto mo nai)
 # Japanese Grammar Point: ～ないこともない (〜nai koto mo nai)
-# ～ないこともない (～nai koto mo nai)
+
 ## 1. Introduction
 Welcome to today's lesson on the Japanese grammar point **～ないこともない** (*~nai koto mo nai*). This expression is a double negative construction used to convey that something is not impossible or that you don't entirely disagree with something. It's a nuanced way to express possibility or agreement, often implying hesitation or reservation.
 ## 2. Core Grammar Explanation

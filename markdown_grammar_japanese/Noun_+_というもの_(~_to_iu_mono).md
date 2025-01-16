@@ -1,6 +1,6 @@
 Processing keyword: Noun + というもの (~ to iu mono)
 # Japanese Grammar Point: Noun + というもの (~ to iu mono)
-# Noun + というもの (~というもの)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Noun + というもの**. This expression is used to emphasize or define the true nature or essence of something. It often conveys strong feelings, reflections, or philosophical thoughts about the noun it describes.
 
@@ -18,13 +18,14 @@ In this lesson, we'll explore the Japanese grammar point **Noun + というも�
   - To express strong feelings or opinions about a topic.
 ### Structure
 The structure is straightforward:
+
 | **Noun** | + というもの |
 |----------|-------------|
-| Noun     | というもの   |
+
 - **Noun**: Any noun or noun phrase.
+
 ### Formation Diagram
-```mermaid
-graph LR
+```
 A[Noun] --> B[というもの]
 ```
 ---

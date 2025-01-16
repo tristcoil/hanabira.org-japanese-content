@@ -1,6 +1,6 @@
 Processing keyword: A かれ B かれ (A kare B kare)
 # Japanese Grammar Point: A かれ B かれ (A kare B kare)
-# AかれBかれ (A kare B kare)
+
 ## 1. Introduction
 In this lesson, we will explore the grammar point **AかれBかれ (A kare B kare)**. This expression is used to convey the meaning of "whether A or B" or "regardless of A or B". It emphasizes that no matter which of the two contrasting options applies, the outcome remains the same.
 
@@ -52,6 +52,7 @@ Let's form the expression **多かれ少なかれ** ("more or less"):
 **遅かれ早かれ、真実が明らかになるだろう。**
 *おそかれはやかれ、しんじつがあきらかになるだろう。*
 "Sooner or later, the truth will come to light."
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -60,11 +61,13 @@ Let's form the expression **多かれ少なかれ** ("more or less"):
 - **Usage**: Commonly used in idiomatic expressions rather than in everyday conversation.
 ### Idiomatic Expressions
 Here are some common idiomatic expressions using **AかれBかれ**:
+
 | Expression          | Reading              | Meaning                   |
 |---------------------|----------------------|---------------------------|
 | 多かれ少なかれ       | おおかれすくなかれ   | More or less              |
 | 良かれ悪しかれ     | よかれあしかれ       | For better or worse       |
 | 遅かれ早かれ       | おそかれはやかれ     | Sooner or later           |
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

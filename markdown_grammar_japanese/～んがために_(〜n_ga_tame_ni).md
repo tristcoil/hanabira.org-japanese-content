@@ -1,20 +1,9 @@
 Processing keyword: ～んがために (〜n ga tame ni)
 # Japanese Grammar Point: ～んがために (〜n ga tame ni)
-**Table of Contents**
-1. [Introduction](#introduction)
-2. [Core Grammar Explanation](#core-grammar-explanation)
-   - [Meaning](#meaning)
-   - [Structure](#structure)
-   - [Formation Diagram](#formation-diagram)
-3. [Comparative Analysis](#comparative-analysis)
-4. [Examples in Context](#examples-in-context)
-5. [Cultural Notes](#cultural-notes)
-6. [Common Mistakes and Tips](#common-mistakes-and-tips)
-7. [Summary and Review](#summary-and-review)
 
----
 ## Introduction
 In this lesson, we'll delve into the Japanese grammar point **〜んがために** (*~n ga tame ni*). This expression is utilized to indicate **purpose or intent** with a strong sense of determination. It's a formal construction often found in written language, speeches, and formal announcements. Understanding this grammar point will enhance your ability to express purposeful actions in a sophisticated manner.
+
 ---
 ## Core Grammar Explanation
 ### Meaning
@@ -130,8 +119,6 @@ Here’s how it looks:
    - **Answer:** He practices every day in order to break the record.
 ---
 By mastering **〜んがために**, you're adding a powerful tool to express purpose with determination in formal Japanese. Keep practicing by reading formal texts and composing sentences using this grammar point to reinforce your understanding.
----
-
 
 ---
 

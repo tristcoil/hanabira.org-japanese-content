@@ -1,6 +1,6 @@
 Processing keyword: A であれ B であれ (A deare B deare)
 # Japanese Grammar Point: A であれ B であれ (A deare B deare)
-# JLPT Grammar Point: AであれBであれ (A deare B deare)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **AであれBであれ** (A deare B deare), a structure used to express "whether A or B" or "regardless of whether it's A or B". This construction is helpful when emphasizing that the outcome remains the same in different scenarios. It's a formal expression often found in written language and speeches.
 

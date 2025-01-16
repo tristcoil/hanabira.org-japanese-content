@@ -1,6 +1,6 @@
 Processing keyword: ～上げる (〜ageru)
 # Japanese Grammar Point: ～上げる (〜ageru)
-# ～上げる (〜ageru)
+
 ## 1. Introduction
 In Japanese, the auxiliary verb **～上げる (〜ageru)** is used to express the **completion** of an action, often implying that it was done with effort or that something was brought to a finish. It adds a sense of accomplishment or culmination to the verb it attaches to.
 
@@ -106,8 +106,6 @@ Verb Stem + 上げる
      - "They completed building the skyscraper."
 ---
 By understanding and practicing **～上げる**, you'll be able to express actions that have been completed thoroughly, adding depth to your Japanese communication. Keep creating your own sentences to become more familiar with this grammar point!
----
-
 
 ---
 

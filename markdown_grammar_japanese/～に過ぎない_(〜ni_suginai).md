@@ -1,6 +1,6 @@
 Processing keyword: ～に過ぎない (〜ni suginai)
 # Japanese Grammar Point: ～に過ぎない (〜ni suginai)
-# ～に過ぎない (〜ni suginai)
+
 ## 1. Introduction
 In Japanese, the expression **～に過ぎない (〜ni suginai)** is used to convey that something is **nothing more than**, **merely**, or **just** what is stated. It is a way to downplay the significance of something, often out of modesty or to emphasize that something is not as important or exceptional as it might seem.
 

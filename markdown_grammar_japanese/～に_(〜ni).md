@@ -1,6 +1,6 @@
 Processing keyword: ～に (〜ni)
 # Japanese Grammar Point: ～に (〜ni)
-# ～に (〜ni)
+
 ## 1. Introduction
 Welcome to today's lesson on the Japanese particle **に (ni)**. This versatile particle is fundamental in Japanese grammar, and mastering its various uses is essential for effective communication. We'll explore its multiple functions, providing clear explanations and examples to help you understand and use **に** naturally.
 

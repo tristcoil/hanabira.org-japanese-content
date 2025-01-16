@@ -1,6 +1,6 @@
 Processing keyword: Noun + あっての + Noun (A atteno B)
 # Japanese Grammar Point: Noun + あっての + Noun (A atteno B)
-# Noun + あっての + Noun (A あっての B)
+
 ## 1. Introduction
 Understanding the nuances of Japanese grammar can greatly enhance your ability to communicate effectively. In this lesson, we'll explore the grammar pattern **「Noun A + あっての + Noun B」**, which emphasizes that **B exists because of A**. This structure highlights the indispensable nature of one noun in relation to another.
 

@@ -1,10 +1,9 @@
 Processing keyword: A は B より～ (A wa B yori～)
 # Japanese Grammar Point: A は B より～ (A wa B yori～)
-# Japanese Grammar Lesson: AはBより～
 
----
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **AはBより～ (A wa B yori ～)**. This structure is commonly used to make comparisons between two things, indicating that **A is more ~ than B**. Understanding how to compare items is essential for daily conversations and expressing preferences in Japanese.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

@@ -1,6 +1,6 @@
 Processing keyword: ～末 (～sue)
 # Japanese Grammar Point: ～末 (～sue)
-# Grammar Point: ～末（～すえ）
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **～末（～すえ）**, which is used to express the culmination of actions or efforts leading to a particular result. It's a valuable structure for conveying that after much time, consideration, or effort, something has finally occurred.
 

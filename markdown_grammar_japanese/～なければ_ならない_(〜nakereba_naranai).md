@@ -1,6 +1,6 @@
 Processing keyword: ～なければ ならない (〜nakereba naranai)
 # Japanese Grammar Point: ～なければ ならない (〜nakereba naranai)
-# ～なければならない (〜nakereba naranai)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **～なければならない (〜nakereba naranai)**, which is used to express obligation or necessity in Japanese. It's equivalent to saying "must" or "have to" in English. Mastering this structure will allow you to articulate duties and responsibilities effectively.
 

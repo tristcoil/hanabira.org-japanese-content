@@ -1,6 +1,6 @@
 Processing keyword: ～わけがない (〜wake ga nai)
 # Japanese Grammar Point: ～わけがない (〜wake ga nai)
-# ～わけがない (〜wake ga nai)
+
 ## 1. Introduction
 Welcome to today's Japanese grammar lesson! In this session, we'll delve into the expression **～わけがない (〜wake ga nai)**. This phrase is essential when you want to convey that something is impossible or inconceivable. Mastering this grammar point will enhance your ability to express strong disbelief or denial in Japanese.
 

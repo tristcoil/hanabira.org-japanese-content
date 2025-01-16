@@ -1,6 +1,6 @@
 Processing keyword: ～に関わって (〜ni kakawatte)
 # Japanese Grammar Point: ～に関わって (〜ni kakawatte)
-# ～に関わって (〜ni kakawatte)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～に関わって** (〜ni kakawatte). This expression is commonly used to indicate a relation or connection to something. Understanding how to use ～に関わって will enhance your ability to express topics related to specific matters in both formal and informal contexts.
 

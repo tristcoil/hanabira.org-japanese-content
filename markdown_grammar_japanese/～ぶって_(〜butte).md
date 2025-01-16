@@ -1,6 +1,6 @@
 Processing keyword: ～ぶって (〜butte)
 # Japanese Grammar Point: ～ぶって (〜butte)
-# ～ぶって (〜butte) Grammar Point
+
 ## 1. Introduction
 The grammar pattern **～ぶって** (〜butte) is used in Japanese to express someone's behavior of pretending or acting as if they are something they're not. It often carries a negative connotation, suggesting that the person is putting on airs or being pretentious.
 
@@ -43,12 +43,14 @@ This pattern is similar to **～ふりをする** (〜furi wo suru), which also 
 5. **彼女は何でも知っているぶっていて、ちょっと嫌だ。**
    *Kanojo wa nandemo shitte iru butte ite, chotto iya da.*
    *She pretends to know everything, and it's a bit annoying.*
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
 In Japanese culture, modesty is valued, and humility is considered a virtue. Using **～ぶって** highlights someone's lack of humility by pointing out their pretentious behavior. It often carries a critical tone, emphasizing that the person is overstepping social norms by pretending to be more than they are.
 ### Levels of Politeness and Formality
 The expression **～ぶって** is informal and can be considered rude if used directly towards someone. It's more commonly used in casual conversations among peers when talking about a third party.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

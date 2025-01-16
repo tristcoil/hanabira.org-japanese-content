@@ -1,6 +1,6 @@
 Processing keyword: ～にしても (〜ni shitemo)
 # Japanese Grammar Point: ～にしても (〜ni shitemo)
-# ～にしても (〜ni shitemo)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～にしても (〜ni shitemo)**. This expression is used to convey the meaning of "even if," "even though," or "granted that." It allows the speaker to acknowledge a certain condition while expressing that the following statement remains true regardless of that condition.
 
@@ -123,9 +123,6 @@ The formality can be adjusted by choosing appropriate verbs and polite forms:
    *They are similar but have nuances in usage. **～にしても** emphasizes concession more than **～ても**.*
 3. **Translation**:
    *Even if it's expensive, I want to buy it if the quality is good.*
----
-*End of Lesson*
-
 
 ---
 

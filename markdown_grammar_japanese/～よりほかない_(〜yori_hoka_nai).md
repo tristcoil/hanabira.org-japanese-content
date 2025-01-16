@@ -1,6 +1,6 @@
 Processing keyword: ～よりほかない (〜yori hoka nai)
 # Japanese Grammar Point: ～よりほかない (〜yori hoka nai)
-# ～よりほかない (〜yori hoka nai)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～よりほかない (〜yori hoka nai)**. This expression is used to convey a sense of inevitability or lack of alternatives, similar to saying "have no choice but to" in English. Understanding this grammar point will help you express necessity or resignation in various contexts.
 

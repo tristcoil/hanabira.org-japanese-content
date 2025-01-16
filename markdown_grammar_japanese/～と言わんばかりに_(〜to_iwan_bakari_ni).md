@@ -1,6 +1,6 @@
 Processing keyword: ～と言わんばかりに (〜to iwan bakari ni)
 # Japanese Grammar Point: ～と言わんばかりに (〜to iwan bakari ni)
-# Japanese Grammar Lesson: ～と言わんばかりに (〜といわんばかりに)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **～と言わんばかりに (〜といわんばかりに)**. This expression is used to describe a situation where someone's actions or demeanor convey a message as if they are saying something without actually speaking the words. It's a useful phrase to express implied meanings and nonverbal communication in Japanese.
 
@@ -37,6 +37,7 @@ The structure of **～と言わんばかりに** is as follows:
 - **Structure**: [Phrase] + かのように + [Action]
 - **Meaning**: "As if..." or "as though..."
 - **Difference**: **～かのように** is used to describe situations that resemble something else, but without the implication of someone's intention to convey a message.
+
 ---
 ## 4. Examples in Context
 ### Example Sentences
@@ -44,21 +45,25 @@ The structure of **～と言わんばかりに** is as follows:
 **Sentence**: 彼は何も言わず、早く行けと言わんばかりに手を振った。
 **Reading**: かれは なにも いわず、はやく いけ と いわんばかりに てを ふった。
 **Translation**: He said nothing but waved his hand as if to say "Hurry up and go."
+
 ---
 #### 2. Formal Written Context
 **Sentence**: 部長は諦めるなと言わんばかりに私たちを見た。
 **Reading**: ぶちょうは あきらめるな と いわんばかりに わたしたちを みた。
 **Translation**: The manager looked at us as if to say "Don't give up."
+
 ---
 #### 3. Expressing Nonverbal Cues
 **Sentence**: 猫はもっと食べたいと言わんばかりに私を見上げた。
 **Reading**: ねこは もっと たべたい と いわんばかりに わたしを みあげた。
 **Translation**: The cat looked up at me as if to say "I want more food."
+
 ---
 #### 4. Describing Atmospheric Impressions
 **Sentence**: 空は今にも雨が降ると言わんばかりに暗くなってきた。
 **Reading**: そらは いまにも あめが ふる と いわんばかりに くらくなってきた。
 **Translation**: The sky grew dark as if to say it would rain any moment.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance

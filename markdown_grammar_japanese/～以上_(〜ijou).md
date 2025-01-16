@@ -1,6 +1,6 @@
 Processing keyword: ～以上 (〜ijou)
 # Japanese Grammar Point: ～以上 (〜ijou)
-# ～以上 (〜いじょう)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **～以上 (〜いじょう)**, a versatile expression in Japanese that conveys meanings such as "since," "now that," or "as long as." Understanding how to use ～以上 correctly will enhance your ability to express causality and obligations in various contexts.
 

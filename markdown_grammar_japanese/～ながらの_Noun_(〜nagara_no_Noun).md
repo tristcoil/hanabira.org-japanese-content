@@ -1,6 +1,6 @@
 Processing keyword: ～ながらの Noun (〜nagara no Noun)
 # Japanese Grammar Point: ～ながらの Noun (〜nagara no Noun)
-# Japanese Grammar Lesson: ～ながらの Noun (〜nagara no Noun)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **～ながらの Noun** (〜nagara no Noun). This structure allows you to modify nouns with verbs, expressing actions that occur simultaneously or characteristics of a noun while an action is happening. Understanding this grammar point will enhance your ability to describe complex situations and simultaneous actions succinctly in Japanese.
 
@@ -37,26 +37,31 @@ The pattern **～ながらの Noun** is used to describe a noun that is characte
 **Japanese**: 彼女は笑いながらの返事をくれた。
 **Romaji**: Kanojo wa warai-nagara no henji o kureta.
 **English**: She gave a reply while laughing.
+
 ---
 ### Example 2
 **Japanese**: 歩きながらの読書は危ないです。
 **Romaji**: Aruki-nagara no dokusho wa abunai desu.
 **English**: Reading while walking is dangerous.
+
 ---
 ### Example 3
 **Japanese**: 泣きながらの告白は心に響いた。
 **Romaji**: Naki-nagara no kokuhaku wa kokoro ni hibiita.
 **English**: The confession while crying resonated in my heart.
+
 ---
 ### Example 4
 **Japanese**: 音楽を聞きながらの作業は楽しい。
 **Romaji**: Ongaku o kiki-nagara no sagyou wa tanoshii.
 **English**: Working while listening to music is enjoyable.
+
 ---
 ### Example 5
 **Japanese**: テレビを見ながらの食事は健康によくない。
 **Romaji**: Terebi o mi-nagara no shokuji wa kenkou ni yokunai.
 **English**: Eating while watching TV is not good for your health.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance

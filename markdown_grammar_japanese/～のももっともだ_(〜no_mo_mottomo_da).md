@@ -1,6 +1,6 @@
 Processing keyword: ～のももっともだ (〜no mo mottomo da)
 # Japanese Grammar Point: ～のももっともだ (〜no mo mottomo da)
-# ～のももっともだ (〜no mo mottomo da)
+
 ## 1. Introduction
 Understanding how to express that something is natural or reasonable is essential in Japanese. The grammar point **～のももっともだ** (*~no mo mottomo da*) allows you to convey that a situation or reaction is only to be expected given the circumstances.
 ## 2. Core Grammar Explanation

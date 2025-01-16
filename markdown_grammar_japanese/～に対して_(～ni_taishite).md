@@ -1,6 +1,6 @@
 Processing keyword: ～に対して (～ni taishite)
 # Japanese Grammar Point: ～に対して (～ni taishite)
-# ～に対して (～ni taishite)
+
 ## 1. Introduction
 The grammar point ～に対して (～ni taishite) is a versatile expression in Japanese that is used to indicate direction towards a target, contrast between two things, or a response to something. It can be translated as "towards," "against," "in contrast to," or "whereas" in English.
 

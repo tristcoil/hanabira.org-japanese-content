@@ -1,6 +1,6 @@
 Processing keyword: A。しかも B。(A. Shikamo B.)
 # Japanese Grammar Point: A。しかも B。(A. Shikamo B.)
-# A。しかも B。 (A. Shikamo B.)
+
 ## 1. Introduction
 The conjunction **しかも (shikamo)** is used in Japanese to add information to a previous statement, emphasizing that the added information is notable or unexpected. It can be translated as "moreover," "furthermore," "what's more," or "on top of that" in English.
 
@@ -68,6 +68,7 @@ A。しかも、B。
 - It is appropriate for written and spoken language.
 ### Idiomatic Expressions
 While **しかも** itself isn't part of an idiomatic expression, it's often used in literature and speeches to build emphasis and persuade the audience by stacking points.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

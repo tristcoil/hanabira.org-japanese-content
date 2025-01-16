@@ -1,6 +1,6 @@
 Processing keyword: A につけ B につけ （A ni tsuke B ni tsuke）
 # Japanese Grammar Point: A につけ B につけ （A ni tsuke B ni tsuke）
-# A につけ B につけ （A につけ B につけ）
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「A につけ B につけ」** (A ni tsuke B ni tsuke). This structure is commonly used to express that regardless of whether it's A or B, the result is the same. It's a way to present two contrasting examples that lead to the same conclusion.
 

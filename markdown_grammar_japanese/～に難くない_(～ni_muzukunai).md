@@ -1,10 +1,10 @@
 Processing keyword: ～に難くない (～ni muzukunai)
 # Japanese Grammar Point: ～に難くない (～ni muzukunai)
-# Japanese Grammar Lesson: ～に難くない (～にかたくない)
 
 ---
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **～に難くない (～にかたくない)**. This expression is used to convey that something is "not hard to..." or "easy to..." imagine, understand, or believe. It adds a formal tone to the sentence and is often found in written Japanese.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -45,21 +45,25 @@ Verb Phrase / Noun + に難くない
 **Japanese**: 彼が成功したことは想像に難くない。  
 **Romaji**: Kare ga seikō shita koto wa sōzō ni katakunai.  
 **Translation**: It's not hard to imagine that he succeeded.
+
 ---
 ### Example 2
 **Japanese**: この結果に彼女が驚くのは理解に難くない。  
 **Romaji**: Kono kekka ni kanojo ga odoroku no wa rikai ni katakunai.  
 **Translation**: It's not hard to understand that she is surprised by this result.
+
 ---
 ### Example 3
 **Japanese**: 新しい環境でストレスを感じるのは察しに難くない。  
 **Romaji**: Atarashii kankyō de sutoresu o kanjiru no wa sashi ni katakunai.  
 **Translation**: It's not hard to guess that one would feel stressed in a new environment.
+
 ---
 ### Example 4 (Formal Written)
 **Japanese**: 多くの人々がその決定に反対することは予想に難くない。  
 **Romaji**: Ōku no hitobito ga sono kettei ni hantai suru koto wa yosō ni katakunai.  
 **Translation**: It's not hard to anticipate that many people will oppose that decision.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance

@@ -1,6 +1,6 @@
 Processing keyword: ～めったに～ない (〜metta ni 〜nai)
 # Japanese Grammar Point: ～めったに～ない (〜metta ni 〜nai)
-# ～めったに～ない (〜metta ni 〜nai)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～めったに～ない (metta ni 〜nai)**, which is used to express the idea of doing something **rarely** or **seldom**. Understanding this structure will enhance your ability to describe infrequent actions or occurrences in Japanese.
 

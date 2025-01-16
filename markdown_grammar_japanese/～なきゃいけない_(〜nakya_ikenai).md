@@ -1,6 +1,6 @@
 Processing keyword: ～なきゃいけない (〜nakya ikenai)
 # Japanese Grammar Point: ～なきゃいけない (〜nakya ikenai)
-# ～なきゃいけない (〜nakya ikenai)
+
 ## 1. Introduction
 The expression **～なきゃいけない (〜nakya ikenai)** is a colloquial Japanese grammar pattern used to express obligation or necessity. It conveys the meaning of "must do" or "have to do" something. This construction is widely used in everyday conversation and is considered informal.
 
@@ -136,7 +136,7 @@ Verb (Negative Plain Form without い) + きゃいけない
    *Formed by: 話す → 話さない → 話さ + なきゃいけない*
 2. **b) Informal**
 3. **b) ～なければならない**
----
+
 
 
 ---

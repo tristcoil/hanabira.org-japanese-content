@@ -1,6 +1,6 @@
 Processing keyword: ～足る Noun (〜taru～)
 # Japanese Grammar Point: ～足る Noun (〜taru～)
-# ～足る Noun (〜たる～): Expressing Worthiness or Suitability
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **～足る (〜たる)**, a formal expression used in Japanese to denote worthiness or suitability. This structure emphasizes that someone or something possesses the qualities necessary for a particular role or status.
 

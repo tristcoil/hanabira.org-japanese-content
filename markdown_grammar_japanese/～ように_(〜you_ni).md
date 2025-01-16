@@ -1,6 +1,6 @@
 Processing keyword: ～ように (〜you ni)
 # Japanese Grammar Point: ～ように (〜you ni)
-# ～ように (〜you ni)
+
 ## 1. Introduction
 The grammar point **～ように (〜you ni)** is a versatile expression in Japanese that conveys meanings such as **"so that," "in order to," "as,"** or **"I hope that."** It is commonly used to express purpose, wishes, instructions, or to describe how something is done.
 Understanding **～ように** is essential for expressing intentions, desires, and manner of actions in Japanese communication.
@@ -143,8 +143,6 @@ In Japanese culture, expressing hopes and purposes subtly is important to mainta
    - **Answer:** みんなに聞こえる **ように**、大きな声で話してください。
 ---
 Understanding **～ように** enhances your ability to express intentions and hopes in Japanese, making your speech more natural and culturally appropriate.
----
-
 
 ---
 

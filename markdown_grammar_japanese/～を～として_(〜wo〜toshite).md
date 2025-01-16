@@ -1,6 +1,6 @@
 Processing keyword: ～を～として (〜wo〜toshite)
 # Japanese Grammar Point: ～を～として (〜wo〜toshite)
-# ～を～として (〜wo〜toshite)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～を～として (〜wo〜toshite)**. This structure is used to indicate that something or someone is being regarded or used **"as"** something else. It's a common way to express roles, purposes, or positions that items or people assume in various contexts.
 

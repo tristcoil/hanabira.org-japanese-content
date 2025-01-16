@@ -1,6 +1,6 @@
 Processing keyword: ～に限り (〜ni kagiri)
 # Japanese Grammar Point: ～に限り (〜ni kagiri)
-# ～に限り (〜ni kagiri)
+
 ## 1. Introduction
 The grammar point **～に限り (〜ni kagiri)** is used in Japanese to indicate that something is limited exclusively to a particular group, time, or condition. It translates to "only," "limited to," or "exclusively for" in English. This expression is commonly found in formal contexts such as announcements, advertisements, and official statements.
 ## 2. Core Grammar Explanation

@@ -1,6 +1,6 @@
 Processing keyword: ～には及ばない (〜ni wa oyobanai)
 # Japanese Grammar Point: ～には及ばない (〜ni wa oyobanai)
-# ～には及ばない (〜ni wa oyobanai)
+
 ## 1. Introduction
 In this lesson, we will learn about the Japanese grammar point **～には及ばない (〜ni wa oyobanai)**. This expression is used to indicate that something is **unnecessary** or that it **doesn't compare** to something else. Mastering this grammar point will help you express humility, politely decline offers, or indicate that an action is not needed.
 

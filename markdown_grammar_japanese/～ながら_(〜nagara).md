@@ -1,6 +1,6 @@
 Processing keyword: ～ながら (〜nagara)
 # Japanese Grammar Point: ～ながら (〜nagara)
-# 〜ながら (～nagara)
+
 ## 1. Introduction
 In Japanese, **〜ながら** (〜nagara) is a grammatical structure used to express two actions happening at the same time. It's similar to the English conjunction "while" as in "doing something while doing another thing." Mastering 〜ながら allows you to describe simultaneous actions smoothly and naturally.
 

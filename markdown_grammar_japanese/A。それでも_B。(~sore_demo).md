@@ -1,6 +1,6 @@
 Processing keyword: A。それでも B。(~sore demo)
 # Japanese Grammar Point: A。それでも B。(~sore demo)
-# それでも (~sore demo)
+
 ## 1. Introduction
 In Japanese, **それでも** is a conjunction that connects two statements, often expressing contrast or unexpected results. It translates to **"Even so," "Nevertheless,"** or **"Despite that"** in English. Understanding how to use **それでも** properly will enhance your ability to express contrasting ideas and add depth to your conversations.
 
@@ -29,11 +29,13 @@ The basic structure using **それでも** is:
 #### しかし (Shikashi) vs. それでも (Sore demo)
 - **しかし**: Means "However" or "But," introducing a simple contrast.
 - **それでも**: Implies that despite the previous statement, something still holds true.
+
 |     | しかし (Shikashi)           | それでも (Sore demo)                         |
 |-----|-----------------------------|---------------------------------------------|
 | Use | Simple contrast or objection | Outcome occurs despite the previous situation |
 | Example | 雨が降っています。しかし、出かけます。 | 雨が降っています。それでも、出かけます。 |
 | Meaning | "It's raining. However, I'll go out." | "It's raining. Even so, I'll go out." |
+
 ---
 ## 4. Examples in Context
 ### Example Sentences

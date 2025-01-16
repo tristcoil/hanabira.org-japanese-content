@@ -1,6 +1,6 @@
 Processing keyword: ～ば～というものでもない (〜ba 〜to iu mono demo nai)
 # Japanese Grammar Point: ～ば～というものでもない (〜ba 〜to iu mono demo nai)
-# ～ば～というものでもない (〜ba 〜to iu mono demo nai)
+
 ## 1. Introduction
 In Japanese, it's common to express that a certain condition does not always lead to an expected result. The grammar point **～ば～というものでもない** is used to convey that "just because X happens, it doesn't necessarily mean Y will follow." This structure helps highlight that situations are not always straightforward and that exceptions may exist.
 ## 2. Core Grammar Explanation

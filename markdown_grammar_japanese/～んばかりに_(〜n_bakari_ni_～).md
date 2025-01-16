@@ -1,6 +1,6 @@
 Processing keyword: ～んばかりに (〜n bakari ni ～)
 # Japanese Grammar Point: ～んばかりに (〜n bakari ni ～)
-# ～んばかりに (〜n bakari ni ～)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～んばかりに (〜n bakari ni ～)**. This expression is used to describe a situation where someone appears as if they're about to do something, even though they don't actually do it. Understanding this grammar point will help you express nuanced emotions and exaggerated actions in Japanese.
 
@@ -94,8 +94,6 @@ Here are some example sentences demonstrating **～んばかりに** in various 
    **Answer:** **No, it is more common in formal writing and speech.**
 ---
 By mastering **～んばかりに**, you can enhance your ability to express detailed and nuanced emotions in Japanese. Keep practicing with different verbs to become more comfortable with this expressive grammar point!
----
-
 
 ---
 

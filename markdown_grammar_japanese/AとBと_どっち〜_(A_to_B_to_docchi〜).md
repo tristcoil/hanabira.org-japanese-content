@@ -1,6 +1,6 @@
 Processing keyword: AとBと どっち〜 (A to B to docchi〜)
 # Japanese Grammar Point: AとBと どっち〜 (A to B to docchi〜)
-# AとBとどっち〜 (A to B to docchi〜)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **AとBとどっち〜** (A to B to docchi~). This structure is used to compare two items and ask which one the listener prefers or considers better. It's a common and useful expression in everyday conversations.
 
@@ -95,6 +95,7 @@ Nihon ryōri to Furansu ryōri to dochira ga okonomi desu ka?
 Asa to yoru to docchi ga benkyō shi yasui?  
 **Translation:**  
 "Which is easier for studying, morning or night?"
+
 ---
 ## 5. Cultural Notes
 ### Levels of Politeness

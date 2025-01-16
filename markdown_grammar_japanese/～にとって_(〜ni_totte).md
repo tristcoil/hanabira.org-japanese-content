@@ -1,6 +1,6 @@
 Processing keyword: ～にとって (〜ni totte)
 # Japanese Grammar Point: ～にとって (〜ni totte)
-# JLPT Grammar Point: ～にとって (〜ni totte)
+
 ## 1. Introduction
 The grammar point **～にとって** (〜ni totte) is used to express a perspective, opinion, or evaluation from the standpoint of someone or something. It is an essential expression in Japanese for conveying subjective judgments or feelings about a topic.
 
@@ -69,6 +69,7 @@ Noun + にとって + Sentence
 - The expression **～にとって** itself is neutral and can be used in both polite and casual speech. Adjust the politeness by modifying the verbs and sentence endings.
 ### Idiomatic Expressions
 While **～にとって** is not typically part of idiomatic expressions, mastering its usage is crucial for understanding phrases that express opinions or perspectives in Japanese.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

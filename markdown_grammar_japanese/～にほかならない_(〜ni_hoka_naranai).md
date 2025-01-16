@@ -1,6 +1,6 @@
 Processing keyword: ～にほかならない (〜ni hoka naranai)
 # Japanese Grammar Point: ～にほかならない (〜ni hoka naranai)
-# Grammar Point: ～にほかならない (〜ni hoka naranai)
+
 ## 1. Introduction
 The expression **～にほかならない** (*~ni hoka naranai*) is a formal Japanese grammar point used to emphasize that something is nothing other than what is stated. It conveys a strong conviction that there is no other possibility or explanation.
 
@@ -110,7 +110,6 @@ Noun + にほかならない
    **Answer:** b) にすぎない
 ---
 By understanding and correctly using **～にほかならない**, you can add emphasis and assertiveness to your formal Japanese statements. Remember to use it appropriately to convey strong conviction in your expressions.
----
 
 
 ---

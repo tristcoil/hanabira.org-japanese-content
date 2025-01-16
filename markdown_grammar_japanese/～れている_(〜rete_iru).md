@@ -1,6 +1,6 @@
 Processing keyword: ～れている (〜rete iru)
 # Japanese Grammar Point: ～れている (〜rete iru)
-# ～れている (〜rete iru)
+
 ## 1. Introduction
 The grammar point ～れている (〜rete iru) in Japanese combines the passive form of a verb with the continuous aspect expressed by ている (te iru). This construction is used to indicate that an action is being done to the subject by someone else and is ongoing or has a current state resulting from a past action.
 ## 2. Core Grammar Explanation

@@ -1,6 +1,6 @@
 Processing keyword: ～のは Noun ぐらいのものだ (〜no wa 〜 gurai no mono da)
 # Japanese Grammar Point: ～のは Noun ぐらいのものだ (〜no wa 〜 gurai no mono da)
-# ～のは Noun ぐらいのものだ (〜no wa 〜 gurai no mono da)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **～のは Noun ぐらいのものだ**. This structure is used to express that only a particular person or thing meets a certain condition or is capable of something. It's a way to emphasize uniqueness or exclusivity in a statement.
 ## 2. Core Grammar Explanation

@@ -1,10 +1,11 @@
 Processing keyword: ～ぶり (〜buri)
 # Japanese Grammar Point: ～ぶり (〜buri)
-# Grammar Lesson: ～ぶり (〜buri)
+
 
 ---
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～ぶり (〜buri)**. This suffix is used to express the passage of time since a previous event or to describe the manner or style of an action. Understanding how to use ～ぶり will enhance your ability to articulate experiences and observations in Japanese with greater nuance.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning:

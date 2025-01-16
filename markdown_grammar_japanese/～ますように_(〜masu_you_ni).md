@@ -1,8 +1,8 @@
 Processing keyword: ～ますように (〜masu you ni)
 # Japanese Grammar Point: ～ますように (〜masu you ni)
-# 1. Introduction
+## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～ますように (〜masu you ni)**. This expression is commonly used to convey wishes or hopes in a polite and formal manner. Whether you're wishing for good health, success, or favorable weather, **～ますように** is an essential structure to express your desires.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 **～ますように** is used to express a hope or wish that something will happen. It translates to "I hope that..." or "May it be that..." in English.
 ## Structure
@@ -22,7 +22,7 @@ Example:
 | 食べる (taberu)         | 食べます    | 食べますように  | I hope (someone) eats       |
 | 会う (au)              | 会います    | 会いますように  | I hope to meet             |
 | 合格する (gōkaku suru)  | 合格します   | 合格しますように | I hope to pass (an exam)     |
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### ～ますように vs. ～たいです
 - **～ますように**: Expresses a wish or hope that something happens, often used for things beyond one's control.
   - Example: *雨が止みますように。* (*I hope the rain stops.*)
@@ -32,7 +32,7 @@ Example:
 - **～ますように**: A straightforward way to express hope.
 - **～ますようにと願う**: Adds emphasis by including "to pray/wish," making it explicit.
   - Example: *彼が早く良くなりますようにと願っています。* (*I am praying that he gets well soon.*)
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example 1: Formal Setting
 **願い事が叶いますように。**  
 *Negai goto ga kanaimasu yō ni.*  
@@ -53,7 +53,7 @@ Example:
 **試合に勝てますように！**  
 *Shiai ni katemasu yō ni!*  
 "I hope we win the game!"
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Use in Prayers and Wishes**: At Japanese shrines and temples, people often write their wishes on wooden plaques called *ema* using **～ますように** to express their hopes.
 - **Politeness Level**: The use of the ます-form adds a level of politeness, making it suitable for both formal and informal situations when expressing sincere wishes.
@@ -62,7 +62,7 @@ Example:
   "I wish you happiness."
 - **世界が平和になりますように。**  
   "May the world be at peace."
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 ### Mistake 1: Using Plain Form Instead of ます-Form
 - **Incorrect**: *合格するように。*
@@ -75,7 +75,7 @@ Example:
 ## Learning Strategies
 - **Associations**: Link **ますように** with making wishes or praying, as it's often used in those contexts.
 - **Practice with Common Phrases**: Memorize set expressions like *健康でありますように* ("I hope you stay healthy") to become familiar with the structure.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **～ますように** is used to express hopes or wishes politely.
 - Formed by adding **ように** to the **ます-form** of a verb.

@@ -1,8 +1,9 @@
 Processing keyword: A。それで B。 (~sore de)
 # Japanese Grammar Point: A。それで B。 (~sore de)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we'll explore the Japanese conjunction **それで (sore de)**. This phrase is commonly used to connect two sentences, where the first sentence provides a reason or cause, and the second sentence presents the result or effect. Understanding how to use **それで** will help you express causality and sequence events naturally in Japanese.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 **それで** translates to **"and so," "therefore,"** or **"because of that"** in English. It's used to indicate that the second sentence is a direct result or conclusion of the first sentence.
 ## Structure
@@ -23,7 +24,7 @@ A。それで B。
 | **A。**              | Reason or cause                             |
 | **それで**            | Conjunction indicating result or conclusion |
 | **B。**              | Result or conclusion                        |
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 **それで** vs **だから**
 While both **それで** and **だから** mean "therefore" or "so," there are subtle differences:
 - **それで** is used to connect two sentences, emphasizing the result that naturally follows from the previous statement. It's slightly more formal and often used in narratives or explanations.
@@ -35,7 +36,7 @@ While both **それで** and **だから** mean "therefore" or "so," there are s
 - **だから**
   - 雨が降っている。だから、傘を持っていこう。
   - (It's raining. So, let's take an umbrella.)
-# 4. Examples in Context
+## 4. Examples in Context
 ## Example 1: Formal Written Context
 **Japanese:**
 電車が遅れました。それで、会議に遅刻しました。
@@ -64,7 +65,7 @@ While both **それで** and **だから** mean "therefore" or "so," there are s
 みちにまよいました。それで、おくれました。
 **English Translation:**
 "I got lost. Because of that, I was late."
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Levels of Politeness
 - **それで** is considered neutral and can be used in both formal and informal contexts.
 - It's appropriate in written communication, formal speeches, and everyday conversations.
@@ -72,7 +73,7 @@ While both **それで** and **だから** mean "therefore" or "so," there are s
 - **それでこそ**: "That's why" or "That's the way"
   - **Example:** それでこそ君だ。
   - **Translation:** "That's why you're you." / "That's the spirit."
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Using それで Incorrectly to Ask for Continuation**
    - Incorrect: それで、どうしたの？
@@ -94,7 +95,7 @@ While both **それで** and **だから** mean "therefore" or "so," there are s
   Think of **"それで"** as **"So-Re Deeds"** – "**So, resulting in this deed**."
 - **Pay Attention to Context**
   Ensure that the sentences connected by **それで** have a clear cause-and-effect relationship.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **それで** is a conjunction meaning **"and so," "therefore,"** or **"because of that."**
 - Used to connect a cause (A) and its effect (B).

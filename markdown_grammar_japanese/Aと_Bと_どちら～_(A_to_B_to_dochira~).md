@@ -1,6 +1,6 @@
 Processing keyword: Aと Bと どちら～ (A to B to dochira~)
 # Japanese Grammar Point: Aと Bと どちら～ (A to B to dochira~)
-# Aと Bと どちら〜 (A と B と どちら〜)
+
 ## 1. Introduction
 The grammar pattern **Aと Bと どちら〜** is commonly used in Japanese to ask for a preference or to compare two items. It translates to "Which is more ~, A or B?" and is essential for everyday conversations, especially when making choices or seeking opinions.
 

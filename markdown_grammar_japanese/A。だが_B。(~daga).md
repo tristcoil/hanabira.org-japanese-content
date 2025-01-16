@@ -1,6 +1,6 @@
 Processing keyword: A。だが B。(~daga)
 # Japanese Grammar Point: A。だが B。(~daga)
-# JLPT Grammar Point: A。だが B。 (~daga)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **だが (~daga)**, which is commonly used to link two sentences or clauses with contrasting information. Understanding how to use **だが** will enhance your ability to construct complex sentences and express contrasting ideas in Japanese.
 
@@ -48,6 +48,7 @@ A。だが、B。
 ### Example 4 (Historical Text)
 **戦いは終わった。だが、平和は訪れなかった。**
 *The battle was over. However, peace did not come.*
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -57,6 +58,7 @@ A。だが、B。
 While **だが** itself is a conjunction, understanding its usage can help with phrases like:
 - **努力した。だが、無駄だった。**
   *I made an effort. However, it was in vain.*
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
