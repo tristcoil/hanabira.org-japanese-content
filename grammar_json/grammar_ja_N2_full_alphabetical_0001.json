@@ -240,8 +240,8 @@
         "en": "This restaurant is crowded. Therefore, let's eat lunch at a different place."
       },
       {
-        "jp": "彼女がアレルギーがある。そこで彼女のために別の料理を作ります。",
-        "romaji": "Kanojo ga arerugii ga aru. Soko de kanojo no tame ni betsu no ryouri wo tsukurimasu.",
+        "jp": "彼女はアレルギーがある。そこで彼女のために別の料理を作ります。",
+        "romaji": "Kanojo wa arerugii ga aru. Soko de kanojo no tame ni betsu no ryouri wo tsukurimasu.",
         "en": "She has an allergy. Therefore, I'll cook a different dish for her."
       },
       {
@@ -253,35 +253,35 @@
   },
   {
     "title": "A。それがB。(~sorega)",
-    "short_explanation": "Expressing 'that's what A is; in other words, B'.",
-    "long_explanation": "The grammar point A。それがB。is used to show that B is a restatement or clarification of A, emphasizing the point being made. It can be translated as 'that's what A is; in other words, B' in English.",
+    "short_explanation": "Expressing 'that's exactly what A is; in other words, B'.",
+    "long_explanation": "The grammar point A。それがB。can be used to restate or clarify that B is precisely what A means. It emphasizes the essence or definition of A by stating B. It can be translated as 'that’s what A is,' 'that is precisely A/B,' or 'in other words, B.'",
     "formation": "A (Statement)。それが B (Restatement or explanation of A)。",
     "examples": [
       {
-        "jp": "彼は勉強ができる。それが天才だ。",
-        "romaji": "Kare wa benkyou ga dekiru. Sore ga tensai da.",
-        "en": "He can study well. That's what a genius is."
+        "jp": "彼は勉強ができる。それが天才というものだ。",
+        "romaji": "Kare wa benkyou ga dekiru. Sore ga tensai to iu mono da.",
+        "en": "He can study well. That's what you call a genius."
       },
       {
-        "jp": "美味しい料理を作る。それが私の趣味だ。",
-        "romaji": "Oishii ryouri wo tsukuru. Sore ga watashi no shumi da.",
-        "en": "I make delicious food. That's what my hobby is."
+        "jp": "美味しい料理を作る。それが私の趣味なんです。",
+        "romaji": "Oishii ryouri wo tsukuru. Sore ga watashi no shumi nan desu.",
+        "en": "I make delicious food. That's my hobby."
       },
       {
-        "jp": "彼女は私を助ける。それが友達だ。",
-        "romaji": "Kanojo wa watashi wo tasukeru. Sore ga tomodachi da.",
-        "en": "She helps me. That's what friends are for."
+        "jp": "彼女は私を助けてくれる。それが友達というものだ。",
+        "romaji": "Kanojo wa watashi wo tasukete kureru. Sore ga tomodachi to iu mono da.",
+        "en": "She helps me. That's what a friend is."
       },
       {
-        "jp": "一人で長い旅をする。それが自由だ。",
-        "romaji": "Hitori de nagai tabi wo suru. Sore ga jiyuu da.",
+        "jp": "一人で長い旅をする。それが自由というものだ。",
+        "romaji": "Hitori de nagai tabi wo suru. Sore ga jiyuu to iu mono da.",
         "en": "Traveling alone for a long time. That's what freedom is."
       }
     ]
   },
   {
     "title": "A。それで B。 (~sore de)",
-    "short_explanation": "Express a sequence of events; 'and then', 'so', 'because of that'.",
+    "short_explanation": "Express a sequence of events or cause-and-effect; 'and then', 'so', 'because of that'.",
     "long_explanation": "The A。それで B。grammar point is used to connect two sentences or events, expressing a sequence of events or explaining the reason for the second event based on the first event. Essentially, it means 'and then', 'so', or 'because of that' in English.",
     "formation": "Sentence A +。それで+ Sentence B。",
     "examples": [
@@ -349,7 +349,7 @@
       {
         "jp": "私は早く起きた。それなのに、バスに遅れた。",
         "romaji": "Watashi wa hayaku okita. Sore nanoni, basu ni okureta.",
-        "en": "I woke up early. Even though, I was late for the bus."
+        "en": "I woke up early. Even so, I was late for the bus."
       },
       {
         "jp": "昨日は晴れていた。それなのに、彼は傘を持っていた。",
@@ -359,7 +359,7 @@
       {
         "jp": "彼女は運動が苦手だ。それなのに、マラソンを走ることにした。",
         "romaji": "Kanojo wa undou ga nigate da. Sore nanoni, marason wo hashiru koto ni shita.",
-        "en": "She is not good at sports. Even though, she decided to run a marathon."
+        "en": "She is not good at sports. Nevertheless, she decided to run a marathon."
       }
     ]
   },
@@ -385,7 +385,7 @@
         "en": "They have already left. If that's the case, I'll go home too."
       },
       {
-        "jp": "あのレストランは予約がいっぱいだ。それなら、別の場所を探そう。 ",
+        "jp": "あのレストランは予約がいっぱいだ。それなら、別の場所を探そう。",
         "romaji": "Ano resutoran wa yoyaku ga ippai da. Sore nara, betsu no basho wo sagasou.",
         "en": "Reservations at that restaurant are full. In that case, let's find another place."
       }
@@ -450,7 +450,7 @@
   {
     "title": "A。ただB。(~tada)",
     "short_explanation": "Express contrast between two situations; 'although', 'but', 'however'.",
-    "long_explanation": "The ただ grammar point is used to express contrast between two situations or facts. It can often be translated as 'although', 'but', or 'however' in English. It is used to show a contradiction or a different aspect of a situation ",
+    "long_explanation": "The ただ grammar point is used to express contrast between two situations or facts. It can often be translated as 'although', 'but', or 'however' in English. It is used to show a contradiction or a different aspect of a situation.",
     "formation": "Sentence A + ただ + Sentence B",
     "examples": [
       {
@@ -595,22 +595,22 @@
     "examples": [
       {
         "jp": "彼は非常に疲れています。というのは、昨夜、車で遠くまで行ってきたためです。",
-        "romaji": "Kare wa hijou ni tsukareteimasu. to iu no wa, sakuya, kuruma de tooku made itte kita tame desu.",
+        "romaji": "Kare wa hijou ni tsukareteimasu. To iu no wa, sakuya, kuruma de tooku made itte kita tame desu.",
         "en": "He is very tired. That is to say, because he went far by car last night."
       },
       {
         "jp": "このレストランはおすすめです。というのは、料理が美味しいし、雰囲気もいいからです。",
-        "romaji": "Kono resutoran wa osusume desu. to iu no wa, ryouri ga oishii shi, fun'iki mo ii kara desu.",
+        "romaji": "Kono resutoran wa osusume desu. To iu no wa, ryouri ga oishii shi, fun'iki mo ii kara desu.",
         "en": "I recommend this restaurant. That is to say, because the food is delicious and the atmosphere is nice."
       },
       {
         "jp": "試験に落ちた。というのは、十分に勉強しなかったからです。",
-        "romaji": "Shiken ni ochita. to iu no wa, juubun ni benkyou shinakatta kara desu.",
+        "romaji": "Shiken ni ochita. To iu no wa, juubun ni benkyou shinakatta kara desu.",
         "en": "I failed the exam. In other words, because I didn't study enough."
       },
       {
         "jp": "彼女は独特な趣味がある。というのは、昆虫収集だ。",
-        "romaji": "Kanojo wa dokutoku na shumi ga aru. to iu no wa, konchuu shuushuu da.",
+        "romaji": "Kanojo wa dokutoku na shumi ga aru. To iu no wa, konchuu shuushuu da.",
         "en": "She has a unique hobby. Namely, insect collecting."
       }
     ]
@@ -758,35 +758,35 @@
   {
     "title": "Noun の ことだから (Noun no koto dakara)",
     "short_explanation": "Used to provide a reason or explanation based on one's knowledge about the noun; 'since', 'because', 'knowing'.",
-    "long_explanation": "The の ことだから (no koto dakara) grammar point is used when providing a reason or explanation for something based on one's knowledge or understanding of the noun. It can be translated as 'since', 'because', or 'knowing' in English.",
+    "long_explanation": "The の ことだから (no koto dakara) grammar point is used when giving a reason or explanation based on one’s knowledge or understanding of a particular person or thing. It often implies 'given that this is the kind of person/thing it is'.",
     "formation": "Noun + のことだから",
     "examples": [
       {
-        "jp": "彼は料理が得意なのことだから、美味しい料理を作ってくれるでしょう。",
-        "romaji": "Kare wa ryouri ga tokui na no koto dakara, oishii ryouri wo tsukutte kureru deshou.",
-        "en": "Since he is good at cooking, he will probably make us delicious food."
+        "jp": "料理が得意な彼のことだから、美味しい料理を作ってくれるでしょう。",
+        "romaji": "Ryouri ga tokui na kare no koto dakara, oishii ryouri wo tsukutte kureru deshou.",
+        "en": "Since he’s good at cooking, he’ll probably make delicious food."
       },
       {
-        "jp": "彼女はいつも遅刻するのことだから、今日も遅れるかもしれない。",
-        "romaji": "Kanojo wa itsumo chikoku suru no koto dakara, kyou mo okureru kamoshirenai.",
-        "en": "Because she is always late, she might be late today as well."
+        "jp": "いつも遅刻する彼女のことだから、今日も遅れるかもしれない。",
+        "romaji": "Itsumo chikoku suru kanojo no koto dakara, kyou mo okureru kamoshirenai.",
+        "en": "Because she’s always late, she might be late again today."
       },
       {
-        "jp": "この店は安いのことだから、たくさん売れるはずだ。",
-        "romaji": "Kono mise wa yasui no koto dakara, takusan ureru hazu da.",
-        "en": "Since this store is cheap, it should sell a lot."
+        "jp": "安い店のことだから、たくさん売れるはずだ。",
+        "romaji": "Yasui mise no koto dakara, takusan ureru hazu da.",
+        "en": "Since it’s a cheap store, it should sell a lot."
       },
       {
-        "jp": "彼はドラマが好きなのことだから、最新のドラマについて話すと良いでしょう。",
-        "romaji": "Kare wa dorama ga suki na no koto dakara, saishin no dorama ni tsuite hanasu to ii deshou.",
-        "en": "Knowing that he likes dramas, it would be good to talk about the latest dramas with him."
+        "jp": "ドラマ好きな彼のことだから、最新のドラマについて話すといいでしょう。",
+        "romaji": "Dorama suki na kare no koto dakara, saishin no dorama ni tsuite hanasu to ii deshou.",
+        "en": "Knowing he likes dramas, it’d be good to talk about the latest shows."
       }
     ]
   },
   {
     "title": "Noun を はじめ (Noun wo hajime)",
     "short_explanation": "Meaning 'starting with', 'including', 'not only... but also'.",
-    "long_explanation": "The grammar point Nounをはじめ is used to show that there are other things or people being included apart from the mentioned noun. It can be used to provide an example, indicate a representative or list items. This can be translated as 'starting with', 'including', 'not only... but also...' in English.",
+    "long_explanation": "The grammar point Nounをはじめ is used to show that there are other things or people being included apart from the mentioned noun. It can be used to provide an example, indicate a representative or list items. This can be translated as 'starting with', 'including', or 'not only... but also...' in English.",
     "formation": "Noun + をはじめ",
     "examples": [
       {
@@ -812,57 +812,57 @@
     ]
   },
   {
-    "title": "Noun を はじめとして (Noun wo hajimete shite)",
+    "title": "Noun を はじめとして (Noun wo hajime to shite)",
     "short_explanation": "Expresses 'starting with', 'beginning with', or 'including'.",
     "long_explanation": "The grammar point Noun を はじめとして is used to emphasize a particular item or example along with others. It translates to 'starting with', 'beginning with', or 'including' in English. It is used to present a specific case and imply there are more related items.",
     "formation": "Noun + をはじめとして",
     "examples": [
       {
         "jp": "東京をはじめとして、日本にはたくさんの観光スポットがあります。",
-        "romaji": "Toukyou wo hajimete shite, Nihon ni wa takusan no kankou supotto ga arimasu.",
+        "romaji": "Tōkyō o hajime to shite, Nihon ni wa takusan no kankō supotto ga arimasu.",
         "en": "There are many tourist spots in Japan, starting with Tokyo."
       },
       {
         "jp": "彼は、ピアノをはじめとして、たくさんの楽器を演奏できます。",
-        "romaji": "Kare wa, piano wo hajimete shite, takusan no gakki wo ensou dekimasu.",
+        "romaji": "Kare wa, piano o hajime to shite, takusan no gakki o ensō dekimasu.",
         "en": "He can play many instruments, starting with piano."
       },
       {
         "jp": "この本は手作りのガーゼマスクをはじめとして、便利な生活アイディアが満載です。",
-        "romaji": "Kono hon wa tejina no gaaze masuku wo hajimete shite, benrina seikatsu aidea ga mansai desu.",
+        "romaji": "Kono hon wa tezukuri no gāze masuku o hajime to shite, benrina seikatsu aidea ga mansai desu.",
         "en": "This book is packed with useful life hacks, including how to make a handmade gauze mask."
       },
       {
         "jp": "そのショッピングモールには、ZARAをはじめとして、多くのブランドが集まっています。",
-        "romaji": "Sono shoppingu mooru ni wa, ZARA wo hajimete shite, ooku no burando ga atsumatte imasu.",
+        "romaji": "Sono shoppingu mōru ni wa, ZARA o hajime to shite, ōku no burando ga atsumatte imasu.",
         "en": "Many brands, including ZARA, gather in that shopping mall."
       }
     ]
   },
   {
-    "title": "Noun を はじめとする Noun (Noun wo hajimete suru Noun)",
+    "title": "Noun を はじめとする Noun (Noun o hajime to suru Noun)",
     "short_explanation": "Indicates a representative example of a group; 'starting with', 'including', 'such as'.",
     "long_explanation": "The grammar pattern 'Noun を はじめとする Noun' is used to indicate a representative example of a group and suggests that there are other things besides the mentioned example. It can be translated as 'starting with', 'including', or 'such as' in English.",
     "formation": "Noun1 を はじめとする Noun2",
     "examples": [
       {
         "jp": "彼はフランス語をはじめとする外国語が話せる。",
-        "romaji": "Kare wa furansugo wo hajimete suru gaikokugo ga hanaseru.",
+        "romaji": "Kare wa furansugo o hajime to suru gaikokugo ga hanaseru.",
         "en": "He can speak foreign languages, starting with French."
       },
       {
         "jp": "このコンサートには、BTSをはじめとする人気アーティストが出演する予定です。",
-        "romaji": "Kono konsaato ni wa, BTS wo hajimete suru ninki aatisuto ga shutsuen suru yotei desu.",
+        "romaji": "Kono konsāto ni wa, BTS o hajime to suru ninki ātisuto ga shutsuen suru yotei desu.",
         "en": "This concert is scheduled to feature popular artists, including BTS."
       },
       {
         "jp": "彼女は魚をはじめとする海の幸が大好きだ。",
-        "romaji": "Kanojo wa sakana wo hajimeto suru umi no sachi ga daisuki da.",
+        "romaji": "Kanojo wa sakana o hajime to suru umi no sachi ga daisuki da.",
         "en": "She loves seafood, starting with fish."
       },
       {
         "jp": "この図書館には、子供向けの本をはじめとするさまざまなジャンルの本があります。",
-        "romaji": "Kono toshokan ni wa, kodomomuke no hon wo hajimete suru samazama na janru no hon ga arimasu.",
+        "romaji": "Kono toshokan ni wa, kodomomuke no hon o hajime to suru samazama na janru no hon ga arimasu.",
         "en": "This library has various genres of books, including children's books."
       }
     ]
@@ -875,50 +875,50 @@
     "examples": [
       {
         "jp": "環境問題をめぐって、多くの議論が行われています。",
-        "romaji": "Kankyou mondai wo megutte, ooku no giron ga okonawareteimasu.",
+        "romaji": "Kankyō mondai o megutte, ōku no giron ga okonawarete imasu.",
         "en": "Many discussions are held concerning environmental issues."
       },
       {
         "jp": "彼の死をめぐって、いくつかの陰謀説が浮かび上がっている。",
-        "romaji": "Kare no shi wo megutte, ikutsuka no inbousetsu ga ukabiagatteiru.",
+        "romaji": "Kare no shi o megutte, ikutsuka no inbōsetsu ga ukabiagatte iru.",
         "en": "Several conspiracy theories have emerged regarding his death."
       },
       {
         "jp": "昇給をめぐって会社と労働組合が話し合いをしています。",
-        "romaji": "Shoukyuu wo megutte kaisha to roudou kumiai ga hanashiai wo shiteimasu.",
+        "romaji": "Shōkyū o megutte kaisha to rōdō kumiai ga hanashiai o shite imasu.",
         "en": "The company and the labor union are having discussions about pay raises."
       },
       {
         "jp": "この映画をめぐって、賛否両論が存在している。",
-        "romaji": "Kono eiga wo megutte, sanpi ryouron ga sonzai shiteiru.",
+        "romaji": "Kono eiga o megutte, sanpi ryōron ga sonzai shite iru.",
         "en": "There are both pros and cons regarding this movie."
       }
     ]
   },
   {
-    "title": "Noun を めぐる Noun (Noun wo meguru Noun)",
+    "title": "Noun を めぐる Noun (Noun o meguru Noun)",
     "short_explanation": "Indicate a situation or event revolving around a particular noun; 'concerning', 'regarding', 'pertaining to'.",
     "long_explanation": "The NounをめぐるNoun grammar point is used to express that a situation or event is centered around a particular noun. It can be translated as 'concerning', 'regarding', or 'pertaining to' in English. The formation consists of the particle 'を' placed between two nouns, and the verb 'めぐる' (to revolve around) following the first noun.",
     "formation": "Noun1 + を + めぐる + Noun2",
     "examples": [
       {
         "jp": "この事件をめぐる議論が続いています。",
-        "romaji": "Kono jiken wo meguru giron ga tsuduiteimasu.",
+        "romaji": "Kono jiken o meguru giron ga tsudzuite imasu.",
         "en": "The debate concerning this incident continues."
       },
       {
         "jp": "環境問題をめぐる国際会議が開かれます。",
-        "romaji": "Kankyou mondai wo meguru kokusai kaigi ga hirakaremasu.",
+        "romaji": "Kankyō mondai o meguru kokusai kaigi ga hirakaremasu.",
         "en": "An international conference regarding environmental issues will be held."
       },
       {
         "jp": "彼の突然の辞任をめぐるうわさが広がっている。",
-        "romaji": "Kare no totsuzen no jinin wo meguru uwasa ga hirogatte iru.",
+        "romaji": "Kare no totsuzen no jinin o meguru uwasa ga hirogatte iru.",
         "en": "Rumors are spreading concerning his sudden resignation."
       },
       {
         "jp": "映画祭をめぐる活動が多くなっています。",
-        "romaji": "Eiga sai wo meguru katsudou ga ooku natteimasu.",
+        "romaji": "Eigashai o meguru katsudō ga ōku natte imasu.",
         "en": "There are increasing activities surrounding the film festival."
       }
     ]
@@ -936,17 +936,17 @@
       },
       {
         "jp": "彼の経験をもとにアドバイスが必要だ。",
-        "romaji": "Kare no keiken o moto ni adobaisu ga hitsuyou da.",
+        "romaji": "Kare no keiken o moto ni adobaisu ga hitsuyō da.",
         "en": "Advice is needed based on his experience."
       },
       {
         "jp": "データをもとに分析を行いました。",
-        "romaji": "Deeta o moto ni bunseki o okonaimashita.",
+        "romaji": "Dēta o moto ni bunseki o okonaimashita.",
         "en": "I performed an analysis based on the data."
       },
       {
         "jp": "世界中の美術館をもとにコレクションを作りました。",
-        "romaji": "Sekaijuu no bijutsukan o moto ni korekushon o tsukurimashita.",
+        "romaji": "Sekaijū no bijutsukan o moto ni korekushon o tsukurimashita.",
         "en": "I created a collection based on art galleries all over the world."
       }
     ]
@@ -959,22 +959,22 @@
     "examples": [
       {
         "jp": "彼の意見をもとにして、計画を変更しました。",
-        "romaji": "Kare no iken wo moto ni shite, keikaku wo henkou shimashita.",
+        "romaji": "Kare no iken o moto ni shite, keikaku o henkō shimashita.",
         "en": "Based on his opinion, we changed the plan."
       },
       {
         "jp": "この小説は実話をもとにして書かれています。",
-        "romaji": "Kono shousetsu wa jitsuwa wo moto ni shite kakareteimasu.",
+        "romaji": "Kono shōsetsu wa jitsuwa o moto ni shite kakarete imasu.",
         "en": "This novel is written based on a true story."
       },
       {
         "jp": "資料をもとにして、レポートを作成しました。",
-        "romaji": "Shiryou wo moto ni shite, repooto wo sakusei shimashita.",
+        "romaji": "Shiryō o moto ni shite, repōto o sakusei shimashita.",
         "en": "I created the report based on the materials."
       },
       {
         "jp": "過去の成功例をもとにして、新しいプロジェクトを進める予定です。",
-        "romaji": "Kako no seikourei wo moto ni shite, atarashii purojekuto wo susumeru yotei desu.",
+        "romaji": "Kako no seikōrei o moto ni shite, atarashii purojekuto o susumeru yotei desu.",
         "en": "We plan to proceed with the new project based on past successful examples."
       }
     ]
@@ -987,22 +987,22 @@
     "examples": [
       {
         "jp": "彼女は泣くことなく帰ってしまいました。",
-        "romaji": "Kanojo wa naku kotonaku kaette shimaimashita.",
+        "romaji": "Kanojo wa naku koto naku kaette shimaimashita.",
         "en": "She went home without crying."
       },
       {
         "jp": "彼は注意することなく突然出かけた。",
-        "romaji": "Kare wa chuui suru kotonaku totsuzen dekaketa.",
+        "romaji": "Kare wa chūi suru koto naku totsuzen dekaketa.",
         "en": "He suddenly left without giving any warning."
       },
       {
         "jp": "山田さんは誰にも話すことなく会社を辞めました。",
-        "romaji": "Yamada-san wa dare ni mo hanasu kotonaku kaisha wo yamemashita.",
+        "romaji": "Yamada-san wa dare ni mo hanasu koto naku kaisha o yamemashita.",
         "en": "Mr. Yamada quit the company without talking to anyone."
       },
       {
         "jp": "２０年間、病気になることなく働いています。",
-        "romaji": "Nijuunenkan, byouki ni naru kotonaku hataraite imasu.",
+        "romaji": "Nijūnenkan, byōki ni naru koto naku hataraite imasu.",
         "en": "I have been working for 20 years without getting sick."
       }
     ]
@@ -1015,22 +1015,22 @@
     "examples": [
       {
         "jp": "薬を飲まないことには、病気が治らない。",
-        "romaji": "Kusuri o nomanai koto niwa, byouki ga naoranai.",
+        "romaji": "Kusuri o nomanai koto ni wa, byōki ga naoranai.",
         "en": "Unless you take the medicine, the illness won't get better."
       },
       {
         "jp": "この問題によく考えないことには、解決できない。",
-        "romaji": "Kono mondai ni yoku kangaenai koto niwa, kaiketsu dekinai.",
+        "romaji": "Kono mondai ni yoku kangaenai koto ni wa, kaiketsu dekinai.",
         "en": "Unless you think carefully about this problem, you can't solve it."
       },
       {
         "jp": "練習をしないことには、スキルが上達しない。",
-        "romaji": "Renshuu o shinai koto niwa, sukiru ga joutatsu shinai.",
+        "romaji": "Renshū o shinai koto ni wa, sukiru ga jōtatsu shinai.",
         "en": "Unless you practice, your skills won't improve."
       },
       {
         "jp": "手続きをしないことには、新しいパスポートがもらえない。",
-        "romaji": "Tetsuzuki o shinai koto niwa, atarashii pasupo-to ga moraenai.",
+        "romaji": "Tetsuzuki o shinai koto ni wa, atarashii pasupōto ga moraenai.",
         "en": "Unless you go through the procedures, you can't get a new passport."
       }
     ]
@@ -1048,17 +1048,17 @@
       },
       {
         "jp": "いろいろな方法を試したあげく、成功した。",
-        "romaji": "Iroiro na houhou wo tameshita ageku, seikou shita.",
+        "romaji": "Iroiro na hōhō o tameshita ageku, seikō shita.",
         "en": "After trying various methods, I finally succeeded."
       },
       {
         "jp": "彼は失敗のあげく、会社を辞める決心をした。",
-        "romaji": "Kare wa shippai no ageku, kaisha wo yameru kesshin wo shita.",
+        "romaji": "Kare wa shippai no ageku, kaisha o yameru kesshin o shita.",
         "en": "In the end, after his failures, he decided to quit the company."
       },
       {
         "jp": "彼女は長い間悩んだあげく、その仕事を断った。",
-        "romaji": "Kanojo wa nagai aida nayanda ageku, sono shigoto wo kotowatta.",
+        "romaji": "Kanojo wa nagai aida nayanda ageku, sono shigoto o kotowatta.",
         "en": "After worrying for a long time, she finally turned down the job."
       }
     ]
@@ -1067,11 +1067,11 @@
     "title": "～あまり (〜amari)",
     "short_explanation": "Expresses the result of doing something excessively or beyond a certain point.",
     "long_explanation": "The ～あまり grammar point is used to express a negative or undesirable outcome caused by doing something excessively or beyond a certain point. It often follows verbs, adjectives and nouns, and is commonly translated as 'so much', 'too much' or 'to the extent that'.",
-    "formation": "Verb-ます stem + あまり, い-Adjective + あまり,  な-Adjective + のあまり, Noun + のあまり",
+    "formation": "Verb-ます stem + あまり, い-Adjective + あまり, な-Adjective + のあまり, Noun + のあまり",
     "examples": [
       {
         "jp": "昨日は疲れすぎたあまり、朝まで眠り続けました。",
-        "romaji": "Kinou wa tsukaresugita amari, asa made nemuri tsuzukemashita.",
+        "romaji": "Kinō wa tsukare-sugita amari, asa made nemuri tsuzukemashita.",
         "en": "Yesterday, I was so tired that I slept until morning."
       },
       {
@@ -1080,8 +1080,8 @@
         "en": "She was so happy that she ended up crying."
       },
       {
-        "jp": "彼は安全を確認するのあまり、何回もドアをチェックしている。",
-        "romaji": "Kare wa anzen wo kakunin suru no amari, nankai mo doa wo chekku shite iru.",
+        "jp": "彼は安全を確認するあまり、何回もドアをチェックしている。",
+        "romaji": "Kare wa anzen o kakunin suru amari, nankai mo doa o chekku shite iru.",
         "en": "He is so concerned about safety that he checks the door many times."
       },
       {
@@ -1095,26 +1095,26 @@
     "title": "～うちに (〜uchi ni)",
     "short_explanation": "Expresses doing something while a certain condition still holds; 'while', 'before', 'as long as'.",
     "long_explanation": "The ～うちに grammar point is used to indicate that an action should be done while a certain condition still exists or before a situation changes. It can be translated as 'while', 'before', or 'as long as' in English. The formation differs depending on whether it is used with a verb, い-adjective, な-adjective, or noun.",
-    "formation": "Verb-casual + うちに, い-Adjective + いうちに, な-Adjective + なうちに, Noun + のうちに",
+    "formation": "Verb-casual + うちに, い-Adjective + うちに, な-Adjective + なうちに, Noun + のうちに",
     "examples": [
       {
         "jp": "元気なうちに、旅行を楽しんでください。",
-        "romaji": "Genki na uchi ni, ryokou wo tanoshinde kudasai.",
+        "romaji": "Genki na uchi ni, ryokō o tanoshinde kudasai.",
         "en": "Enjoy traveling while you are healthy."
       },
       {
         "jp": "若いうちに、いろいろなことを学ぶべきだ。",
-        "romaji": "Wakai uchi ni, iroiro na koto wo manabu beki da.",
+        "romaji": "Wakai uchi ni, iroiro na koto o manabu beki da.",
         "en": "One should learn various things while they are young."
       },
       {
         "jp": "子供が寝ているうちに、夕食の準備をしましょう。",
-        "romaji": "Kodomo ga nete iru uchi ni, yuushoku no junbi wo shimashou.",
+        "romaji": "Kodomo ga nete iru uchi ni, yūshoku no junbi o shimashō.",
         "en": "Let's prepare dinner while the kids are sleeping."
       },
       {
         "jp": "雨が降らないうちに、家に帰りましょう。",
-        "romaji": "Ame ga furanai uchi ni, ie ni kaerimashou.",
+        "romaji": "Ame ga furanai uchi ni, ie ni kaerimashō.",
         "en": "Let's go home before it starts raining."
       }
     ]
@@ -1122,27 +1122,27 @@
   {
     "title": "～がい (〜gai)",
     "short_explanation": "Expresses 'worth doing' for verbs.",
-    "long_explanation": "The ～がい grammar point is used to express that an action is worth doing or to emphasize the value and importance of doing something. It is attached to verbs and can be translated as 'worth doing' in English. The formation is straightforward, with the verb changing to its stem form and adding がい.",
+    "long_explanation": "The ～がい grammar point is used to express that an action is worth doing or to emphasize the value and importance of doing something. It is attached to verbs in their stem form and can be translated as 'worth doing' in English.",
     "formation": "Verb-stem + がい",
     "examples": [
       {
-        "jp": "この本を読むがいです。",
-        "romaji": "Kono hon wo yomugai desu.",
+        "jp": "この本は読みがいがあります。",
+        "romaji": "Kono hon wa yomi-gai ga arimasu.",
         "en": "This book is worth reading."
       },
       {
-        "jp": "早起きするがいがあります。",
-        "romaji": "Hayaoki suru gai ga arimasu.",
-        "en": "It's worth waking up early."
+        "jp": "早起きしがいがあると思いますよ。",
+        "romaji": "Hayaoki shigai ga aru to omoimasu yo.",
+        "en": "I think it's worth waking up early."
       },
       {
-        "jp": "長い時間をかけるがいがある仕事。",
-        "romaji": "Nagai jikan wo kakeru gai ga aru shigoto.",
-        "en": "A job worth spending a long time on."
+        "jp": "長い時間をかけがいのある仕事だ。",
+        "romaji": "Nagai jikan o kake-gai no aru shigoto da.",
+        "en": "It's a job worth spending a long time on."
       },
       {
-        "jp": "彼と話をするがいがあるでしょう。",
-        "romaji": "Kare to hanashi wo surugai ga aru deshou.",
+        "jp": "彼とは話しがいがあるでしょう。",
+        "romaji": "Kare to wa hanashi-gai ga aru deshō.",
         "en": "It's worth talking to him."
       }
     ]
@@ -1151,55 +1151,55 @@
     "title": "～かいがあって (〜kaiga atte)",
     "short_explanation": "Used to express that an effort is worth it or has value; 'to be worth the effort' or 'to pay off'.",
     "long_explanation": "The ～かいがあって grammar point is used to convey the idea that an action or effort is worth it, or that it has value. It is often translated as 'to be worth the effort' or 'to pay off' in English. It is typically associated with actions or efforts that led to a successful or desirable result.",
-    "formation": "Verb-casual (stem) + かいがあって",
+    "formation": "Verb-past + かいがあって / Noun + の + かいがあって",
     "examples": [
       {
-        "jp": "毎日勉強するかいがあって、テストに合格した。",
-        "romaji": "Mainichi benkyou suru kaiga atte, tesuto ni goukaku shita.",
-        "en": "It was worth the effort of studying every day, as I passed the test."
+        "jp": "毎日勉強したかいがあって、テストに合格しました。",
+        "romaji": "Mainichi benkyō shita kai ga atte, tesuto ni gōkaku shimashita.",
+        "en": "Studying every day paid off—I passed the test."
       },
       {
         "jp": "練習のかいがあって、試合に勝つことができた。",
-        "romaji": "Renshuu no kaiga atte, shiai ni katsu koto ga dekita.",
+        "romaji": "Renshū no kai ga atte, shiai ni katsu koto ga dekita.",
         "en": "The practice paid off, and we were able to win the match."
       },
       {
         "jp": "雨の中を走ってきたかいがあって、電車に間に合った。",
-        "romaji": "Ame no naka wo hashitte kita kaiga atte, densha ni maniatta.",
-        "en": "It was worth running in the rain, as I made it to the train on time."
+        "romaji": "Ame no naka o hashitte kita kai ga atte, densha ni maniatta.",
+        "en": "Running in the rain was worth it, as I made it to the train on time."
       },
       {
-        "jp": "早起きしてお掃除をしたかいがあって、部屋がきれいになった。",
-        "romaji": "Hayaoki shite o-souji wo shita kaiga atte, heya ga kirei ni natta.",
-        "en": "Waking up early and cleaning was worth it, as the room became clean."
+        "jp": "早起きして掃除をしたかいがあって、部屋がきれいになった。",
+        "romaji": "Hayaoki shite sōji o shita kai ga atte, heya ga kirei ni natta.",
+        "en": "Waking up early to clean paid off; the room is now spotless."
       }
     ]
   },
   {
     "title": "～かいもなく (〜kai mo naku)",
     "short_explanation": "Expresses the meaning of 'without worth', 'in vain', 'fruitless'.",
-    "long_explanation": "The ～かいもなく grammar point is used to express that something has been done without worth, in vain, or fruitlessly. It can be attached to verbs in their ます stem or dictionary form to indicate that the effort has been wasted or the action did not produce the expected results.",
-    "formation": "Verb-ます stem + かいもなく, Verb-dictionary form + かいもなく",
+    "long_explanation": "The ～かいもなく grammar point is used to express that something has been done without worth, in vain, or fruitlessly. It often appears as 'Verb-た + かいもなく' or 'Noun + の + かいもなく' to indicate that an effort did not produce the hoped-for result.",
+    "formation": "Verb-た + かいもなく / Noun + の + かいもなく",
     "examples": [
       {
-        "jp": "長い間苦労したが、かいもなく失敗した。",
-        "romaji": "Nagai aida kurou shita ga, kai mo naku shippai shita.",
+        "jp": "長い間苦労したかいもなく、失敗してしまった。",
+        "romaji": "Nagai aida kurō shita kai mo naku, shippai shite shimatta.",
         "en": "I struggled for a long time, but in the end, it was all in vain and I failed."
       },
       {
-        "jp": "このプロジェクトにたくさん時間をかけたが、かいもなく終わった。",
-        "romaji": "Kono purojekuto ni takusan jikan wo kaketa ga, kai mo naku owatta.",
+        "jp": "このプロジェクトにたくさん時間をかけたかいもなく、うまくいかなかった。",
+        "romaji": "Kono purojekuto ni takusan jikan o kaketa kai mo naku, umaku ikanakatta.",
         "en": "I spent a lot of time on this project, but it ended fruitlessly."
       },
       {
-        "jp": "彼は助けを求めたが、かいもなく誰も来なかった。",
-        "romaji": "Kare wa tasuke wo motometa ga, kai mo naku daremo konakatta.",
+        "jp": "助けを求めたかいもなく、誰も来なかった。",
+        "romaji": "Tasuke o motometa kai mo naku, dare mo konakatta.",
         "en": "He asked for help, but it was in vain as no one came."
       },
       {
-        "jp": "色々な方法でダイエットを試みたが、かいもなく全然痩せなかった。",
-        "romaji": "Iroirona houhou de daietto wo kokoromita ga, kai mo naku zenzen yasenakatta.",
-        "en": "I tried various methods to diet, but it was all for naught as I didn't lose any weight."
+        "jp": "色々な方法でダイエットを試みたかいもなく、全然痩せなかった。",
+        "romaji": "Iroirona hōhō de daietto o kokoromita kai mo naku, zenzen yasenakatta.",
+        "en": "I tried various diet methods, but it was all for nothing—I didn't lose any weight."
       }
     ]
   },
@@ -1211,23 +1211,23 @@
     "examples": [
       {
         "jp": "彼女は食べかけのリンゴを置いて出かけた。",
-        "romaji": "Kanojo wa tabekake no ringo wo oite dekaketa.",
+        "romaji": "Kanojo wa tabe-kake no ringo o oite dekaketa.",
         "en": "She left a partially eaten apple and went out."
       },
       {
-        "jp": "子供たちは勉強かけの宿題を机の上に残した。",
-        "romaji": "Kodomotachi wa benkyoukake no shukudai wo tsukue no ue ni nokoshita.",
+        "jp": "子供たちはやりかけの宿題を机の上に残した。",
+        "romaji": "Kodomotachi wa yari-kake no shukudai o tsukue no ue ni nokoshita.",
         "en": "The children left their half-finished homework on the desk."
       },
       {
         "jp": "読みかけの本を夜になると探す。",
-        "romaji": "Yomikake no hon wo yoru ni naru to sagasu.",
-        "en": "I look for the book I've started reading when it's night."
+        "romaji": "Yomi-kake no hon o yoru ni naru to sagasu.",
+        "en": "I look for the book I started reading once night comes."
       },
       {
-        "jp": "オフィスには、作成かけの書類がたくさんある。",
-        "romaji": "Ofisu ni wa, sakuseikake no shorui ga takusan aru.",
-        "en": "There are lots of documents in the process of being created in the office."
+        "jp": "オフィスには、作りかけの書類がたくさんある。",
+        "romaji": "Ofisu ni wa, tsukuri-kake no shorui ga takusan aru.",
+        "en": "There are a lot of documents in the process of being created in the office."
       }
     ]
   },
@@ -1235,26 +1235,26 @@
     "title": "～がち (〜gachi)",
     "short_explanation": "Expresses that something tends to occur frequently or habitually.",
     "long_explanation": "The ～がち grammar point is used to express that something has a tendency to occur frequently or habitually. It can be attached to verbs and adjectives to indicate that the action or state tends to occur often.",
-    "formation": "Verb-ますstem + がち, い-Adjective stem + がち, な-Adjective stem + がち",
+    "formation": "Verb-ますstem + がち / い-Adjective stem + がち / な-Adjective stem + がち",
     "examples": [
       {
         "jp": "彼は風邪を引きがちです。",
-        "romaji": "Kare wa kaze wo hikigachi desu.",
-        "en": "He tends to catch a cold easily."
+        "romaji": "Kare wa kaze o hiki-gachi desu.",
+        "en": "He tends to catch colds easily."
       },
       {
         "jp": "この地域は雨が降りがちです。",
-        "romaji": "Kono chiiki wa ame ga furigachi desu.",
-        "en": "This area tends to have a lot of rain."
+        "romaji": "Kono chiiki wa ame ga furi-gachi desu.",
+        "en": "This area tends to get a lot of rain."
       },
       {
-        "jp": "彼女は忘れ物をするがちです。",
-        "romaji": "Kanojo wa wasuremono wo suru gachi desu.",
-        "en": "She tends to leave things behind."
+        "jp": "彼女は忘れ物をしがちです。",
+        "romaji": "Kanojo wa wasuremono o shi-gachi desu.",
+        "en": "She tends to forget things."
       },
       {
-        "jp": "私は遅刻しがちなので、もっと早く起きないといけない。",
-        "romaji": "Watashi wa chikoku shi gachi nanode, motto hayaku okinai to ikenai.",
+        "jp": "私は遅刻しがちなので、もっと早く起きないといけません。",
+        "romaji": "Watashi wa chikoku shi-gachi na no de, motto hayaku okinai to ikemasen.",
         "en": "I tend to be late, so I need to wake up earlier."
       }
     ]
@@ -1268,21 +1268,21 @@
       {
         "jp": "駅に着くか着かないかのうちに、雨が降り出した。",
         "romaji": "Eki ni tsuku ka tsukanai ka no uchi ni, ame ga furidashita.",
-        "en": "The moment I arrived at the station, it started raining."
+        "en": "No sooner had I arrived at the station than it started raining."
       },
       {
-        "jp": "ケータイを買ったか買わないかのうちに、新しいモデルが発売された。",
-        "romaji": "Keitai wo katta ka kawanai ka no uchi ni, atarashii moderu ga hatsubai sareta.",
-        "en": "As soon as I bought the cell phone, a new model was released."
+        "jp": "ケータイを買うか買わないかのうちに、新しいモデルが発売された。",
+        "romaji": "Keitai o kau ka kawanai ka no uchi ni, atarashii moderu ga hatsubai sareta.",
+        "en": "As soon as I decided to buy the cell phone, a new model was released."
       },
       {
         "jp": "彼が家を出るか出ないかのうちに、電話が鳴った。",
-        "romaji": "Kare ga ie wo deru ka denai ka no uchi ni, denwa ga natta.",
+        "romaji": "Kare ga ie o deru ka denai ka no uchi ni, denwa ga natta.",
         "en": "The moment he left the house, the phone rang."
       },
       {
         "jp": "パーティーが始まるか始まらないかのうちに、彼女が泣き出した。",
-        "romaji": "Paatii ga hajimaru ka hajimaranai ka no uchi ni, kanojo ga nakidashita.",
+        "romaji": "Pātī ga hajimaru ka hajimaranai ka no uchi ni, kanojo ga nakidashita.",
         "en": "As soon as the party began, she started crying."
       }
     ]
@@ -1290,59 +1290,87 @@
   {
     "title": "～かねない (〜kane nai)",
     "short_explanation": "Express the likelihood of a negative outcome or consequence.",
-    "long_explanation": "The ～かねない grammar point is used to express the possibility or likelihood of a negative outcome or consequence, often used when there is concern about the result. It is typically used with verbs and can be understood as 'might' or 'cannot guarantee'.",
+    "long_explanation": "The ～かねない grammar point is used to express the possibility or likelihood of a negative outcome or consequence, often used when there is concern about the result. It is typically used with verbs in their stem form and can be understood as 'might' or 'cannot guarantee.'",
     "formation": "Verb-stem + かねない",
     "examples": [
       {
-        "jp": "彼はそんなに無責任だから、約束を守れかねない。",
-        "romaji": "Kare wa sonna ni musekinin dakara, yakusoku wo mamore kane nai.",
-        "en": "He is so irresponsible that he might not keep his promise."
+        "jp": "彼はあまりにも無責任で、約束を破りかねない。",
+        "romaji": "Kare wa amarini mo musekinin de, yakusoku o yaburi-kane nai.",
+        "en": "He is so irresponsible that he might break his promise."
       },
       {
         "jp": "注意しないと、事故を起こしかねない。",
-        "romaji": "Chuui shinai to, jiko wo okoshi kane nai.",
+        "romaji": "Chūi shinai to, jiko o okoshi-kane nai.",
         "en": "If you don't pay attention, you might cause an accident."
       },
       {
-        "jp": "このアプリはバグが多いので、正常に動作しかねない。",
-        "romaji": "Kono apuri wa bug ga ooi node, seijou ni dousa shi kane nai.",
-        "en": "This app has many bugs, so it might not work properly."
+        "jp": "このアプリはバグが多いので、クラッシュしかねない。",
+        "romaji": "Kono apuri wa bagu ga ōi no de, kurasshu shi-kane nai.",
+        "en": "Since this app has many bugs, it might crash."
       },
       {
-        "jp": "彼女は緊張しているので、うまく話しかねない。",
-        "romaji": "Kanojo wa kinchou shiteiru node, umaku hanashi kane nai.",
-        "en": "She is nervous, so she might not be able to speak well."
+        "jp": "彼女は緊張しているので、失敗しかねない。",
+        "romaji": "Kanojo wa kinchō shite iru no de, shippai shi-kane nai.",
+        "en": "She's so nervous that she might fail."
       }
     ]
   },
   {
     "title": "～かねる (〜kaneru)",
     "short_explanation": "Express inability or impossibility of doing an action.",
-    "long_explanation": "The ～かねる grammar point is used to express that someone cannot do an action or something is impossible. It typically has a negative connotation and is used with potential form of verbs to show incapability.",
+    "long_explanation": "The ～かねる grammar point is used to express that someone cannot do an action or that something is impossible. It typically has a nuance of reluctance or polite refusal, and is formed by adding かねる to the ます-stem of the verb.",
     "formation": "Verb-ます stem + かねる",
     "examples": [
       {
-        "jp": "その問題は難しいので、私には解決できかねます。",
-        "romaji": "Sono mondai wa muzukashii node, watashi niwa kaiketsu dekikanemasu.",
+        "jp": "その問題は難しいので、私には解決しかねます。",
+        "romaji": "Sono mondai wa muzukashii no de, watashi ni wa kaiketsu shi-kanemasu.",
         "en": "Since that problem is difficult, I cannot solve it."
       },
       {
         "jp": "彼の言っていることが真実かどうか判断しかねます。",
-        "romaji": "Kare no itte iru koto ga shinjitsu ka douka handan shikanemasu.",
+        "romaji": "Kare no itte iru koto ga shinjitsu ka dō ka handan shi-kanemasu.",
         "en": "I cannot judge whether what he is saying is true or not."
       },
       {
         "jp": "彼女が来るかどうか今すぐには分かりかねます。",
-        "romaji": "Kanojo ga kuru ka douka ima sugu ni wa wakarikanemasu.",
+        "romaji": "Kanojo ga kuru ka dō ka ima sugu ni wa wakari-kanemasu.",
         "en": "I cannot immediately know whether she will come or not."
       },
       {
         "jp": "詳しい内容については説明しかねます。",
-        "romaji": "Kuwashii naiyou ni tsuite wa setsumei shikanemasu.",
-        "en": "I cannot explain the detailed contents."
+        "romaji": "Kuwashii naiyō ni tsuite wa setsumei shi-kanemasu.",
+        "en": "I cannot explain the details."
       }
     ]
   },
+
+
+
+
+
+
+
+
+
+
+
+
+TODO best to take also 300 lines above from here
+--------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   {
     "title": "～かのようだ (〜ka no you da)",
     "short_explanation": "Express a similarity or comparison; 'as if', 'like', 'as though'.",
@@ -1595,6 +1623,34 @@
       }
     ]
   },
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   {
     "title": "～から言うと (〜kara iuto)",
     "short_explanation": "Express a judgment or opinion based on a specific criterion; 'speaking from', 'in terms of', 'from the viewpoint of'.",
