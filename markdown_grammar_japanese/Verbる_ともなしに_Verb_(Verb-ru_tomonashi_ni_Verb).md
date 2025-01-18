@@ -1,6 +1,6 @@
 Processing keyword: Verbる ともなしに Verb (Verb-ru tomonashi ni Verb)
 # Japanese Grammar Point: Verbる ともなしに Verb (Verb-ru tomonashi ni Verb)
-# Grammar Point: VerbるともなしにVerb (Verb-ru *tomonashi ni* Verb)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar pattern **VerbるともなしにVerb** (*Verb-ru tomonashi ni Verb*). This expression is used to describe actions that are done unintentionally or without a specific purpose. Understanding this grammar point will help you express unintentional or unconscious actions in Japanese, adding subtlety and nuance to your language skills.
 
@@ -27,12 +27,14 @@ Let's break down an example sentence:
 **Sentence:**
 - 見るともなしにテレビを見る。
 **Breakdown:**
+
 | Part               | Explanation                 |
 |--------------------|-----------------------------|
 | 見る               | To look/watch (dictionary form) |
 | ともなしに         | Without intending to          |
 | テレビを           | Television (object)           |
 | 見る               | To look/watch                 |
+
 **Translation:**
 - "I watch TV without really intending to."
 ---
@@ -45,10 +47,12 @@ Let's break down an example sentence:
 - 何を見るともなく窓の外を眺めていた。
   - "Without looking at anything in particular, I was gazing out the window."
 **Comparison Table:**
+
 | Grammar Pattern     | Usage                                      | Example                                           |
 |---------------------|--------------------------------------------|---------------------------------------------------|
 | **VerbるともなしにVerb** | Repeats the verb; unintentional action     | 聞くともなしに音楽を聞いていた。<br>"I was listening to music without really intending to." |
 | **Verbるともなく**     | Often with interrogatives; does not repeat verb | どこへ行くともなく歩き出した。<br>"I started walking off to nowhere in particular."    |
+
 ---
 ## 4. Examples in Context
 ### Example Sentences

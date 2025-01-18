@@ -1,6 +1,6 @@
 Processing keyword: Verbる べからざる Noun (Verb-ru bekara zaru Noun)
 # Japanese Grammar Point: Verbる べからざる Noun (Verb-ru bekara zaru Noun)
-# Japanese Grammar Lesson: Verbる べからざる Noun
+
 ## 1. Introduction
 In this lesson, we'll explore the classical Japanese grammar structure **"Verbる べからざる Noun"**. This form is often found in formal writing, literature, and historical texts. Understanding this grammar point will enhance your ability to read and appreciate more sophisticated Japanese materials.
 

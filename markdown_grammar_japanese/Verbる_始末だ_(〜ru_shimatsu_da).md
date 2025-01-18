@@ -1,6 +1,6 @@
 Processing keyword: Verbる 始末だ (〜ru shimatsu da)
 # Japanese Grammar Point: Verbる 始末だ (〜ru shimatsu da)
-# Verbる始末だ (〜るしまつだ)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verbる始末だ (〜るしまつだ)**. This expression is used to convey that things have ended up in a bad situation after a series of events. It's often utilized to express dissatisfaction or disappointment about an unfavorable outcome.
 
@@ -30,21 +30,25 @@ The formation of this grammar point is straightforward:
 **Sentence**: 彼は毎日遅刻し、ついには仕事をクビになる始末だ。
 **Reading**: かれはまいにちちこくし、ついにはしごとをクビになるしまつだ。
 **Translation**: He was late every day, and ultimately, he ended up getting fired.
+
 ---
 ### Example 2: Social Commentary
 **Sentence**: 店員に文句を言い続け、警察を呼ばれる始末だ。
 **Reading**: てんいんにもんくをいいつづけ、けいさつをよばれるしまつだ。
 **Translation**: He kept complaining to the store clerk, and in the end, the police were called on him.
+
 ---
 ### Example 3: Casual Conversation
 **Sentence**: ダイエットすると言っていたのに、ケーキを全部食べる始末だ。
 **Reading**: ダイエットするといっていたのに、ケーキをぜんぶたべるしまつだ。
 **Translation**: Even though she said she'd go on a diet, she ended up eating all the cake.
+
 ---
 ### Example 4: Formal Writing
 **Sentence**: 政府の対応が遅れ、問題が悪化する始末だ。
 **Reading**: せいふのたいおうがおくれ、もんだいがあっかするしまつだ。
 **Translation**: The government's delayed response led to the problem worsening in the end.
+
 ---
 ## 5. Cultural Notes
 ### Levels of Politeness and Formality
@@ -54,6 +58,7 @@ The formation of this grammar point is straightforward:
 - **この始末だ**: An idiom meaning "to end up like this (in a bad way)."
   - **Example**: 努力もしないで、この始末だ。
   - **Translation**: Without even trying, he ended up like this.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -75,10 +80,9 @@ The formation of this grammar point is straightforward:
    - **Answer**: No, it's used for negative outcomes only.
 3. Create a sentence using **始末だ** to describe someone who didn't study and failed their exam.
 ---
-### Sample Answer for Question 3
+#### Sample Answer for Question 3
 **Sentence**: 彼は全く勉強せず、試験に落ちる始末だ。
 **Translation**: He didn't study at all and ended up failing the exam.
----
 
 
 ---

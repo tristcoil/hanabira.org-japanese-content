@@ -1,6 +1,6 @@
 Processing keyword: Verbる や否や (verb-ru ya ina ya)
 # Japanese Grammar Point: Verbる や否や (verb-ru ya ina ya)
-# Verbるや否や (やいなや)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **や否や** (*ya ina ya*), which is used to express that something happened immediately after another action. It's a formal expression often found in written Japanese, such as literature and newspapers.
 
@@ -33,12 +33,14 @@ The structure for using **や否や** is as follows:
    - **Usage:** Indicates that upon completion of one action, another will occur.
    - **Nuance:** Often used in formal situations and expresses intention.
 **Comparison Table:**
+
 | Grammar Point      | Formality | Nuance                   |
 |--------------------|-----------|--------------------------|
 | や否や             | Formal    | Immediate succession     |
 | たとたんに          | Neutral   | Unexpected occurrence    |
 | かと思うと          | Formal    | Uncontrollable sequence  |
 | 次第               | Formal    | Intentional action after |
+
 ---
 ## 4. Examples in Context
 ### Example 1
@@ -69,6 +71,7 @@ As soon as the new product was released, queues formed at the store.
 せんしゅが スタートを きるやいなや、かんきゃくは おおごえで おうえんしはじめた。  
 **Translation:**  
 The moment the athletes started, the spectators began cheering loudly.
+
 ---
 ## 5. Cultural Notes
 ### Formality and Usage
@@ -77,6 +80,7 @@ The moment the athletes started, the spectators began cheering loudly.
 - Not usually used in everyday conversation.
 ### Idiomatic Expressions
 While **や否や** itself is a set phrase, understanding and using formal expressions like this can help in reading Japanese literature and formal documents.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes
@@ -104,10 +108,9 @@ While **や否や** itself is a set phrase, understanding and using formal expre
 3. Translate the following sentence using **や否や**:  
    "As soon as the meeting ended, she left the office."
    - **Answer:** 会議が終わるや否や、彼女はオフィスを出た。
+
 ---
 By understanding **や否や**, you can enhance your comprehension of formal Japanese texts and express immediate sequences in a sophisticated manner.
----
-
 
 ---
 

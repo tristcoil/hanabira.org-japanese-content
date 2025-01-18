@@ -1,6 +1,6 @@
 Processing keyword: Verbる なり (Verb-ru nari)
 # Japanese Grammar Point: Verbる なり (Verb-ru nari)
-# Verbる なり (Verb-ru nari)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verbる なり (Verb-ru nari)**. This structure is used to express that one action occurs immediately after another, often highlighting the swift or unexpected nature of the sequence. Understanding this grammar point will help you articulate events that happen in quick succession.
 
@@ -87,6 +87,7 @@ Verb (Dictionary Form) + なり + [Subsequent Action]
 - **Neutral Formality**: This grammar point doesn't inherently carry politeness but is often used in contexts that require a formal tone.
 ### Idiomatic Expressions
 While **Verbる なり** isn't part of any specific idiomatic expressions, mastering it can enhance understanding of Japanese literature where this structure is more frequently employed.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes

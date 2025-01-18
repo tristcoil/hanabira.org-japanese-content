@@ -1,6 +1,6 @@
 Processing keyword: Verb 方 (〜hou)
 # Japanese Grammar Point: Verb 方 (〜hou)
-# Verb 方（〜かた）
+
 ## 1. Introduction
 The grammar point **Verb 方（〜かた）** is a fundamental structure in Japanese that translates to "**how to do [something]**" or "**the way of doing [something]**." It allows speakers to discuss methods, procedures, or ways of performing an action.
 

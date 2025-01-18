@@ -1,6 +1,6 @@
 Processing keyword: Verbる ときりがない (verb-ru to kiri ga nai)
 # Japanese Grammar Point: Verbる ときりがない (verb-ru to kiri ga nai)
-# Verbるときりがない (Verb-ru to kiri ga nai)
+
 ## 1. Introduction
 In Japanese, expressing the notion that an action could go on endlessly is important for conveying situations where things seem limitless or unending. The grammar point **Verbるときりがない** allows speakers to indicate that if an action is continued, there will be no end to it.
 

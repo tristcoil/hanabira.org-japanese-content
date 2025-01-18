@@ -1,10 +1,11 @@
 Processing keyword: Verbる べからず (〜ru bekara zu)
 # Japanese Grammar Point: Verbる べからず (〜ru bekara zu)
-# 1. Introduction
+
+## 1. Introduction
 The grammar point **Verbるべからず (～るべからず)** is an old-fashioned or literary expression used to indicate strong prohibition. It translates to "must not" or "should not" in English and is commonly found on signs, warnings, or in written instructions. Although not frequently used in everyday conversation, understanding this grammar is useful for reading literature, historical texts, or formal writings.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 **Verbるべからず** is used to express that something is strictly prohibited or should not be done under any circumstances.
 - **English Equivalent**: "Must not ~", "Should not ~", "Do not ~"
@@ -18,7 +19,7 @@ The structure involves attaching **べからず** directly to the dictionary for
 - **立ち入る** (to enter) + **べからず** → **立ち入るべからず** (Do not enter)
 - **捨てる** (to throw away) + **べからず** → **捨てるべからず** (Do not throw away)
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## Comparison with 〜てはいけない
 While **べからず** is a classical and literary form, **〜てはいけない** is a more common expression used in daily conversation to indicate prohibition.
 | Grammar Point          | Usage                             | Formality         |
@@ -26,7 +27,7 @@ While **べからず** is a classical and literary form, **〜てはいけない
 | **Verbるべからず**     | Strong prohibition (literary)      | Formal, Written   |
 | **Verbてはいけない**   | Prohibition (common use)          | Neutral, Spoken   |
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Formal/Written Examples
 1. **ここにゴミを捨てるべからず。**
    - *Koko ni gomi o suteru bekara zu.*
@@ -43,7 +44,7 @@ While **べからず** is a classical and literary form, **〜てはいけない
    - *Reigi o wasuru bekara zu.*
    - **Translation**: Do not forget your manners.
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Usage in Signs**: You might encounter **べからず** on old signs or traditional buildings in Japan, indicating prohibitions in a formal manner.
 - **Formality**: This expression reflects a high level of formality and is associated with authoritative directives.
@@ -53,7 +54,7 @@ While **べからず** is a classical and literary form, **〜てはいけない
   - **Translation**: Do not forget a favor received.
   - **Explanation**: Emphasizes the importance of gratitude in Japanese culture.
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Using in Casual Speech**: Avoid using **べからず** in daily conversation; it may sound unnatural or overly formal.
 - **Incorrect Verb Form**: Remember to use the dictionary form of the verb before **べからず**, not the masu-form or te-form.
@@ -61,7 +62,7 @@ While **べからず** is a classical and literary form, **〜てはいけない
 - **Mnemonic Device**: Think of **"べからず"** as "べから (do not) + ず (negative ending)" to remember it conveys prohibition.
 - **Contextual Learning**: Read traditional Japanese texts or visit historical sites to see this grammar in authentic contexts.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **Verbるべからず** is a formal, literary expression meaning "must not ~" or "should not ~".
 - It is attached directly to the dictionary form of a verb.

@@ -1,6 +1,6 @@
 Processing keyword: Verbる こと なし に (Verb-ru koto nashi ni)
 # Japanese Grammar Point: Verbる こと なし に (Verb-ru koto nashi ni)
-# JLPT Grammar Point: Verbることなしに (Verb-ru koto nashi ni)
+
 ## 1. Introduction
 Welcome to today's lesson on the JLPT grammar point **Verbることなしに (Verb-ru koto nashi ni)**. This structure is a formal expression used to indicate doing something **"without doing"** a preceding action. Mastering this grammar point will enhance your ability to understand and use more sophisticated Japanese, especially in written and formal contexts.
 
