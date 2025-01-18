@@ -92,3 +92,6 @@ Both endings are used to make polite requests or commands, but they differ in fo
    **Answer:** False
 ---
 Feel free to practice by creating your own sentences using **~(으)십시오** to become more familiar with this polite form!
+
+---
+© [Hanabira.org](https://hanabira.org)

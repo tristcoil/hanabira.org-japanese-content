@@ -96,3 +96,6 @@ In Korean culture, expressing desires or wishes is often done indirectly to main
    - **답**: **마셨으면 좋겠다.**
 ---
 Use this grammar pattern to express your wishes and hopes in Korean accurately and naturally!
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -96,3 +96,6 @@ In this lesson, we'll explore the Korean grammar point **~어/아 두다 [eo/a d
 3. a) **창문을 닫아 두세요.**
 ---
 By mastering **~어/아 두다**, you enhance your ability to express actions done for future benefits or actions whose results remain over time.
+
+---
+© [Hanabira.org](https://hanabira.org)

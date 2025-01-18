@@ -103,3 +103,6 @@ In Korean culture, perseverance and dedication are highly valued traits. The use
 ---
 By incorporating **~할지라도** into your Korean language usage, you'll be able to express complex contrasts and hypothetical situations more effectively. Keep practicing to become more comfortable with this grammar point!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

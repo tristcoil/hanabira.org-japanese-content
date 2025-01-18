@@ -98,3 +98,6 @@ While **~을래** is generally informal, to make it more polite, add **요** at 
 3. **갈래요?** asks for the listener's preference ("Do you want to go?"), while **갈까요?** is a suggestion ("Shall we go?").
 # End of Lesson
 Feel free to review this lesson and practice forming sentences with **~을래** to express your intentions and ask others about theirs in Korean!
+
+---
+© [Hanabira.org](https://hanabira.org)

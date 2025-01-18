@@ -106,3 +106,6 @@ The basic structure of **~도록 하다** is:
    - **Answer**: 내일 만나도록 해.
 ---
 Feel free to practice by creating your own sentences using **~도록 하다** to reinforce your understanding of this grammar point!
+
+---
+© [Hanabira.org](https://hanabira.org)

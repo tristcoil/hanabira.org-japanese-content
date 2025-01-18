@@ -98,3 +98,6 @@ The suffix **~어/아도** attaches to verb and adjective stems to mean **"even 
    - **Answer**: 읽**어도** 이해가 안 돼요. (읽다 ends with the vowel **ㅣ**, so use **어도**.)
 ---
 By understanding and practicing the **~어/아도** grammar pattern, you'll be able to express concessions and conditions effectively in Korean, enhancing your conversational skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

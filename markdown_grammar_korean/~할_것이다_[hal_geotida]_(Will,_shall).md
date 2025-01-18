@@ -167,3 +167,6 @@ These expressions often convey hope, reassurance, or certainty about the future.
 ---
 Continue practicing by creating your own sentences using **~할 것이다** to describe future plans or actions. Understanding and using this grammar point will significantly enhance your ability to communicate about future events in Korean.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -86,3 +86,6 @@ In Korean culture, expressing the initiation of actions is often linked to showi
 3. **내리기** - 비가 내리기 시작했어요.
 </details>
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

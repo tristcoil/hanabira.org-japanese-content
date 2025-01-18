@@ -108,3 +108,6 @@ In Korean, expressing that something occurred **while in the middle of doing** s
 ---
 By understanding and practicing **~는 도중에**, you can more effectively communicate events that occur during other actions, adding depth and clarity to your Korean language skills.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

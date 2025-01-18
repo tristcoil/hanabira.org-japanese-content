@@ -96,3 +96,6 @@ In Korean culture, expressing oneself indirectly or showing humility is common. 
 
 ---
 Remember to practice using **~(으)면서도** in sentences to become comfortable with its contrasting nuance. Listening to native speakers and noting how they use this grammar point can also enhance your understanding.
+
+---
+© [Hanabira.org](https://hanabira.org)

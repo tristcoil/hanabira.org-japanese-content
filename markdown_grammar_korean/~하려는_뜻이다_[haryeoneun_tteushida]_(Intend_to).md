@@ -101,3 +101,6 @@ Both grammar patterns express intention, but there are nuances:
      - *"공부하다" is already a verb, so **-를** is unnecessary.*
 ---
 By mastering **~하려는 뜻이다**, you can effectively express your intentions in Korean with clarity and appropriate formality. Practice creating your own sentences to become more comfortable with this grammar pattern!
+
+---
+© [Hanabira.org](https://hanabira.org)

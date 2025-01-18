@@ -102,3 +102,6 @@ It emphasizes the absence of a place, method, or means to perform a certain acti
    - **Answer**: 만들 **데가 없다**
 ---
 By understanding and practicing **~(으)ㄹ 데가 없다**, you'll be able to express limitations and the absence of options more naturally in Korean conversations.
+
+---
+© [Hanabira.org](https://hanabira.org)

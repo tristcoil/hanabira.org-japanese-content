@@ -115,3 +115,6 @@ In Korean culture, reflecting on past events and considering "what if" scenarios
 ---
 By understanding and practicing **~았/었다면**, you can more accurately express complex thoughts about past events in Korean. Keep practicing, and soon you'll be able to convey your reflections and regrets just like a native speaker!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

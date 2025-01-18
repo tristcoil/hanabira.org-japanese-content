@@ -109,3 +109,6 @@ Translation: "Perhaps (someone) won't see?" or "Maybe (someone) doesn't see?"
 ---
 By mastering "**~지 않을까(요)**", you enhance your ability to communicate subtlety and politeness in Korean, making your speech sound more natural and culturally appropriate. Keep practicing, and don't hesitate to use this grammar point in your daily conversations!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

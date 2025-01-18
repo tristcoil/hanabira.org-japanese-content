@@ -119,3 +119,6 @@ To use **~도록**, follow this simple structure:
    - *Answer*: 시험에 합격하도록 열심히 공부해요.
 ---
 By mastering **~도록**, you enhance your ability to articulate intentions and describe actions more vividly in Korean. Keep practicing by incorporating this grammar point into your daily conversations!
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -83,3 +83,6 @@ While **~남짓** is not part of an idiom, it's commonly used in combination wit
    **Answer:** b) 스무 명 남짓 왔어요.
 ---
 By mastering **~남짓**, you can express approximate amounts more naturally and understand nuances in conversations where precision is less important.
+
+---
+© [Hanabira.org](https://hanabira.org)

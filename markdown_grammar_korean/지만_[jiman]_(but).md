@@ -91,3 +91,6 @@ The general structure for using **-지만** is as follows:
    - **Answer:** No error if the past tense is intended. If present tense is needed, it should be 좋지만.
 ---
 Feel free to revisit this lesson to reinforce your understanding of **-지만**. Practice by forming your own sentences, and soon you'll use this grammar point with confidence!
+
+---
+© [Hanabira.org](https://hanabira.org)

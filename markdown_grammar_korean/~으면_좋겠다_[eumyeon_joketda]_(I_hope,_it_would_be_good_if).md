@@ -110,3 +110,6 @@ Attach **좋겠다** directly after the conditional clause.
    - **Answer**: 좋은 소식을 받으면 좋겠어요.
 ---
 By practicing this grammar point, you'll be able to express your hopes and wishes naturally in Korean conversations!
+
+---
+© [Hanabira.org](https://hanabira.org)

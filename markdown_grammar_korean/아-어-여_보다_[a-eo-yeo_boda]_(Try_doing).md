@@ -112,3 +112,6 @@ Verb Stem + 아/어/여 보다 = Trying the action
 
 ---
 By understanding and practicing **-아/어/여 보다**, you can express attempts and experiences more naturally in Korean. Remember to pay attention to the verb stem endings and practice with various verbs to become more fluent in usage.
+
+---
+© [Hanabira.org](https://hanabira.org)

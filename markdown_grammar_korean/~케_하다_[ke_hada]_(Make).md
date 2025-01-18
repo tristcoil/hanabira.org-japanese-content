@@ -87,3 +87,6 @@ The Korean grammar pattern **~케 하다** [ke hada] is used to express the idea
    - **Answer:** He made her happy.
 ---
 Feel free to revisit each section to reinforce your understanding of **~게 하다** and how it is used in Korean sentences.
+
+---
+© [Hanabira.org](https://hanabira.org)

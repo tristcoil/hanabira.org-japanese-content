@@ -121,3 +121,6 @@ They are used to modify nouns, helping to specify and describe more precisely.
    - **Answer**: 이런
 ---
 By understanding and practicing **이런**, **그런**, and **저런**, you'll enhance your descriptive abilities in Korean and communicate more naturally.
+
+---
+© [Hanabira.org](https://hanabira.org)

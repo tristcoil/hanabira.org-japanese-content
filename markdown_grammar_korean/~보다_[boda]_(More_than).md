@@ -114,3 +114,6 @@ The general structure using "~보다" is:
 ---
 👏 **Well done!** You've learned how to use "~보다" to make comparisons in Korean. Try creating your own sentences to further solidify your understanding.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -107,3 +107,6 @@ In Korean culture, polite and indirect speech is valued. Using conditional sente
    - **Answer**: False (It should be **읽으면**.)
 ---
 By mastering "~면," you enhance your ability to form conditional statements, enriching your Korean communication skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

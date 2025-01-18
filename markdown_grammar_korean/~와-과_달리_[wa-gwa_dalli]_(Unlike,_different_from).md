@@ -105,3 +105,6 @@ Attach **~와 달리** or **~과 달리** directly to a noun:
      _(Unlike my sister, I am good at swimming.)_
 ---
 By understanding and practicing **~와/과 달리**, you can effectively express contrasts and differences in Korean, enriching your communication skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

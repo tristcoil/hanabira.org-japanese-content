@@ -113,3 +113,6 @@ In Korean, expressing conditions where an action or situation doesn't affect the
    - **Answer**: **가도** means "even if (I) go", while **가 봐도** means "even if (I) try to go".
 ---
 By mastering **~해도** and **~해봐도**, you can express complex conditions and contrasts in Korean, enhancing both your spoken and written communication skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

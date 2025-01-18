@@ -102,3 +102,6 @@ The structure of **~거니와** is as follows:
    - **Answer**: b) 그는 친절거니와 똑똑하다.
 ---
 By understanding and practicing **~거니와**, you can enhance your Korean skills, especially in formal communication!
+
+---
+© [Hanabira.org](https://hanabira.org)

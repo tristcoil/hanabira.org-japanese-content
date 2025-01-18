@@ -92,3 +92,6 @@ The structure combines a verb stem with the ending **~하여야만**.
    - **Answer:** False
 ---
 By understanding and practicing **~하여야만**, you'll be able to convey necessity and exclusivity in your Korean sentences effectively. Keep practicing with different verbs to become more comfortable with this grammar point.
+
+---
+© [Hanabira.org](https://hanabira.org)

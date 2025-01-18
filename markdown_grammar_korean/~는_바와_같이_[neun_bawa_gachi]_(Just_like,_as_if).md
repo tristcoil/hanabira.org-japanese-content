@@ -131,3 +131,6 @@ The structure involves attaching **~는 바와 같이** to the verb stem.
    **Answer:** b) *선생님처럼*
 ---
 By understanding and correctly using **~는 바와 같이**, you can enhance your formal Korean communication and better understand professional or academic texts.
+
+---
+© [Hanabira.org](https://hanabira.org)

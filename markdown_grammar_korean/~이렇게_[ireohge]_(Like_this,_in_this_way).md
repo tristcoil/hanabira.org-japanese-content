@@ -80,3 +80,6 @@ Try creating your own sentences using **이렇게** to describe how you do daily
 
 ---
 *Feel free to ask any questions or provide sentences you've made for additional feedback.*
+
+---
+© [Hanabira.org](https://hanabira.org)

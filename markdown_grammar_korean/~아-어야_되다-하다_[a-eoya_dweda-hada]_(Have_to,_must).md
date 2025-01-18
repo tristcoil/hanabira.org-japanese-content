@@ -102,3 +102,6 @@ The choice between **되다** and **하다** is generally interchangeable in thi
 ---
 Keep practicing this grammar point by applying it in your daily conversations. Understanding and using **~아/어야 되다/하다** will significantly enhance your ability to express necessity and obligations in Korean.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

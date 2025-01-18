@@ -116,3 +116,6 @@ The pattern combines **대로**, meaning "as" or "according to", with **하다**
 ---
 By understanding and practicing "~대로 하다", you'll be able to clearly communicate adherence to instructions and expectations in Korean, which is essential in both personal and professional settings.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

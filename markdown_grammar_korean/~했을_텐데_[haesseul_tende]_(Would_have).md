@@ -100,3 +100,6 @@ In Korean culture, there is a strong emphasis on humility and reflection. Using 
      *(Replace **했을 때인데요** with **했을 텐데요**.)*
 ---
 By understanding and practicing **~했을 텐데**, you can express nuanced reflections on past events, aligning your Korean language skills more closely with natural and culturally appropriate expressions.
+
+---
+© [Hanabira.org](https://hanabira.org)

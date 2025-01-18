@@ -88,3 +88,6 @@ In this lesson, we'll explore the grammar point **~에 비추어 볼 때**, whic
      *Considering the economic situation, we need to reduce expenses.*
 ---
 Feel free to practice by creating your own sentences using **~에 비추어 볼 때** to solidify your understanding!
+
+---
+© [Hanabira.org](https://hanabira.org)

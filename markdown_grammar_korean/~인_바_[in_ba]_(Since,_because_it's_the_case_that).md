@@ -108,3 +108,6 @@ Let's compare **~인 바** with other similar grammar points:
 3. **일정이 변경된 인 바 새로운 시간표를 확인해 주시기 바랍니다.**
 ---
 By understanding and appropriately using **~인 바**, you can enhance your comprehension and use of formal Korean, particularly in professional and official settings.
+
+---
+© [Hanabira.org](https://hanabira.org)

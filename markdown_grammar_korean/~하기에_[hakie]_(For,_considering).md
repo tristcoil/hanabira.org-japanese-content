@@ -114,3 +114,6 @@ The Korean grammar pattern **~하기에** is used to express a reason or basis f
      - **Answer**: False (Adjectives often require different grammatical structures)
 ---
 By understanding and practicing **~하기에**, you enhance your ability to express reasons based on considerations or evaluations, adding depth to your Korean communication skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

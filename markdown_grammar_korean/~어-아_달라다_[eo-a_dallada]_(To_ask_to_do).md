@@ -97,3 +97,6 @@ The structure combines a **verb stem** with **~어/아 달라다**.
    - **Answer:** 그녀는 나에게 기다려 달라고 했어요.
 ---
 By understanding and practicing **~어/아 달라다**, you'll be better equipped to make polite and appropriate requests in Korean!
+
+---
+© [Hanabira.org](https://hanabira.org)

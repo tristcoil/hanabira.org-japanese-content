@@ -112,3 +112,6 @@ While both **~아/어서** and **~(으)니까** can mean "because," they have di
    - **Answer**: No, because the sentence is expressing intention (won't go out), and **~(으)니까** is appropriate here.
 ---
 By understanding and practicing **~아/어서**, you can effectively express reasons and cause-effect relationships in Korean, making your speech and writing more coherent and natural.
+
+---
+© [Hanabira.org](https://hanabira.org)

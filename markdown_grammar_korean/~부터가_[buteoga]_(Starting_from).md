@@ -93,3 +93,6 @@ The use of **~부터가** itself is neutral in terms of politeness. However, the
    **Answer:** Remove **가** to make it **오늘부터 세일이 시작됩니다.** (Because the emphasis is unnecessary).
 ---
 By understanding and practicing **~부터가**, you can add nuance to your Korean expressions, emphasizing important starting points in your conversations and writing.
+
+---
+© [Hanabira.org](https://hanabira.org)

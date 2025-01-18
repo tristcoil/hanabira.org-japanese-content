@@ -101,3 +101,6 @@ The basic structure involves attaching **~게 하다** to the verb stem.
    - **Answer:** Adjusting the level of politeness to match the social context and respecting hierarchy.
 ---
 By mastering **~게 하다**, you enhance your ability to express complex actions involving causation, a valuable skill in achieving fluency in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

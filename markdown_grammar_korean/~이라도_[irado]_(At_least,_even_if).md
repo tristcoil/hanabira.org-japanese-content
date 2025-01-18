@@ -103,3 +103,6 @@ In Korean culture, there is a strong emphasis on politeness and consideration fo
    - **Answer:** No. It should be *물이라도 마셔요.*
 ---
 By understanding and practicing **~이라도**, you can make your Korean sound more natural and convey nuances of suggestion and concession effectively. Keep practicing with different nouns to become more comfortable with this grammar point.
+
+---
+© [Hanabira.org](https://hanabira.org)

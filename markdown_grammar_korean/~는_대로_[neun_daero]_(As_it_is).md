@@ -110,3 +110,6 @@ In Korean society, attention to detail and following established methods are hig
    - **Answer:** **~는 대로** implies doing something exactly the same way, while **~처럼** suggests similarity but not exact replication.
 ---
 By understanding and practicing **~는 대로**, you'll be able to express actions done in the exact manner as another, adding precision and depth to your Korean language skills. Keep practicing with different verbs and contexts to master this grammar point!
+
+---
+© [Hanabira.org](https://hanabira.org)

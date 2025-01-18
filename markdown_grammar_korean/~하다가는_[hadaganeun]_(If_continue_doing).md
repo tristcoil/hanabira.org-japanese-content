@@ -82,3 +82,6 @@ The pattern **~하다가는** translates to **"if (someone) keeps doing..."** or
    - **Answer**: **~하다가는** should not be used with stative verbs like **사랑하다**. The sentence implies loving a friend will lead to problems, which may not fit the cautionary use of **~하다가는**.
 ---
 Feel free to revisit the examples and notes to reinforce your understanding of **~하다가는**. Practice by creating your own sentences using this grammar pattern.
+
+---
+© [Hanabira.org](https://hanabira.org)

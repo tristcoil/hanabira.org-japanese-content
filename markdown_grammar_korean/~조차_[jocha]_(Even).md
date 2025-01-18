@@ -107,3 +107,6 @@ The particle **~조차** attaches directly to nouns, pronouns, or noun phrases.
    - **Answer**: b) 그는 밥조차 먹지 않았다. (He didn't even eat rice.)
 ---
 **Keep practicing using **~조차** in your own sentences to become more comfortable with its usage!**
+
+---
+© [Hanabira.org](https://hanabira.org)

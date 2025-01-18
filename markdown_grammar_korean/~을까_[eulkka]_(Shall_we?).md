@@ -116,3 +116,6 @@ The structure varies slightly depending on whether the verb stem ends with a con
 3. True (When expressing wonder.)
 ---
 By mastering **~을까**, you can make polite suggestions and express curiosity, making your Korean conversations more natural and engaging.
+
+---
+© [Hanabira.org](https://hanabira.org)

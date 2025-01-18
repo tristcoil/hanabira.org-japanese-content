@@ -127,3 +127,6 @@ In Korean culture, especially in formal and professional settings, it's importan
    - *Translation*: We drew a conclusion based on that data.
 ---
 By mastering **~에 근거하여**, you can effectively express the basis of your thoughts, decisions, and statements in Korean, enhancing your communication in formal contexts.
+
+---
+© [Hanabira.org](https://hanabira.org)

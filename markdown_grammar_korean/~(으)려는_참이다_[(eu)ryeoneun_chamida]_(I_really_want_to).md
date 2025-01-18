@@ -118,3 +118,6 @@ In Korean culture, expressing intentions clearly and politely is important in so
 3. **~(으)려는 참이다** expresses that an action is about to happen imminently, whereas **~(으)려고 하다** indicates a general intention or plan for the future.
 ---
 Keep practicing by creating your own sentences using **~(으)려는 참이다**. This will help solidify your understanding and make your Korean conversations more natural!
+
+---
+© [Hanabira.org](https://hanabira.org)

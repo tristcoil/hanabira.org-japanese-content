@@ -119,3 +119,6 @@ The structure of **~나마저** varies slightly depending on whether it is attac
 ---
 By understanding and practicing **~나마저**, you can express nuanced emotions and situations where even the last expected outcome occurs.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

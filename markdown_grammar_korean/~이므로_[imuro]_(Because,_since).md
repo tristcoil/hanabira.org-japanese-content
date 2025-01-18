@@ -127,3 +127,6 @@ In this lesson, we will explore the Korean grammar point **~(으)므로** and **
    **Answer**: 그는 선생님**이므로** 많이 압니다.
 ---
 By mastering **~(으)므로 / ~(이)므로**, you enhance your ability to express reasons formally in Korean, which is especially useful in writing and formal speech. Remember to consider the context and formality level when choosing this grammar point.
+
+---
+© [Hanabira.org](https://hanabira.org)

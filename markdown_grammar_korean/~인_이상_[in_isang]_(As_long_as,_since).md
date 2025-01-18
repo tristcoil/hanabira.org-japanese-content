@@ -89,3 +89,6 @@ The expression **~인 이상** can be used in both formal and informal situation
 3. **비가 오는 이상 집에 있자.**
 ---
 By mastering **~인 이상**, you can effectively convey cause-and-effect relationships and express expectations based on conditions in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

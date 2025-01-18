@@ -127,3 +127,6 @@ The Korean grammar ending **~잖다** is commonly used in conversation to remind
    **Answer:** **False** – ~잖다 is used for known information.
 ---
 By understanding and practicing **~잖다**, you'll enhance your conversational Korean, making your speech more natural and engaging. Remember to use it when you want to gently remind someone of something or to assert a shared understanding.
+
+---
+© [Hanabira.org](https://hanabira.org)

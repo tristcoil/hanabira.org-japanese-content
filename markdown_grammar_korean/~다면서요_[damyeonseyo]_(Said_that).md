@@ -149,3 +149,6 @@ In Korean culture, direct confrontation or questioning can sometimes be consider
    **Answer:** 그 사람이 의사**라면서요**?
 ---
 By understanding and practicing **~다면서요**, you'll enhance your ability to engage in more nuanced and polite conversations in Korean. Keep practicing, and soon it will become a natural part of your speech!
+
+---
+© [Hanabira.org](https://hanabira.org)

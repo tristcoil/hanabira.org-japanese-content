@@ -121,3 +121,6 @@ In Korean culture, expressing one’s intentions with consideration is important
 3. **False** – '먹겠어요' means "I will eat," while '먹어야겠어요' means "I should eat."
 ---
 By mastering **아/어/여야겠다**, you can effectively express your intentions and obligations, making your Korean sound more natural and fluent.
+
+---
+© [Hanabira.org](https://hanabira.org)

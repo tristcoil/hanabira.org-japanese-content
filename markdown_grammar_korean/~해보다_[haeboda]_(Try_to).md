@@ -125,3 +125,6 @@ It is used to indicate:
    - **Answer**: **한번 해 보세요.**
 ---
 By incorporating **~해보다** into your Korean conversations, you'll be able to express attempts and encourage others effectively. Keep practicing with different verbs and contexts to build your confidence.
+
+---
+© [Hanabira.org](https://hanabira.org)

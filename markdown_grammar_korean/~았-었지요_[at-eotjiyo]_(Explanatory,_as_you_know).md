@@ -85,3 +85,6 @@ The **~았/었지요** ending is used to:
 3. The casual form is **~았/었죠**
 ---
 Feel free to review this lesson and practice using **~았/었지요** in your own sentences to enhance your Korean conversational skills!
+
+---
+© [Hanabira.org](https://hanabira.org)

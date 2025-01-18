@@ -88,3 +88,6 @@ The structure combines **~대로**, which means **"as"** or **"according to"**, 
 3. **Korean**: 너의 말대로이면 우리가 이길 거야.  
    **Translation**: If it's as you say, we will win.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -98,3 +98,6 @@ In Korean, expressing contrast between two actions or states is essential for cl
 ---
 By practicing **~았/었지만**, you'll enhance your ability to express contrasts and nuances in past events, making your Korean conversations more natural and engaging.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

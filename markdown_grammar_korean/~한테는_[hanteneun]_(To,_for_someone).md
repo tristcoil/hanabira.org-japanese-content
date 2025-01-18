@@ -127,3 +127,6 @@ The structure for using **~한테는** is:
 ---
 By incorporating **~한테는** into your Korean, you can express emphasis and contrasts more effectively, making your speech more nuanced and precise.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

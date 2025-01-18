@@ -111,3 +111,6 @@ Using **되다** in different speech levels:
 5. 나는 좋은 사람이 되기를 바랍니다.
 ---
 By mastering **~이 되다**, you can effectively communicate changes and aspirations in Korean, adding depth to your conversations.
+
+---
+© [Hanabira.org](https://hanabira.org)

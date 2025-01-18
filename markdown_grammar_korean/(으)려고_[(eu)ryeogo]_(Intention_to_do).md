@@ -96,3 +96,6 @@ The use of **(으)려고** itself does not change with levels of politeness; how
    - **Answer**: 공부하려고 책을 샀어요.
 ---
 Feel free to revisit this lesson to strengthen your understanding of **(으)려고** and its usage in expressing intentions in Korean!
+
+---
+© [Hanabira.org](https://hanabira.org)

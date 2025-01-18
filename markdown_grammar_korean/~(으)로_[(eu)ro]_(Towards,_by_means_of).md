@@ -154,3 +154,6 @@ The particle **~(으)로** is a versatile postposition in Korean that denotes di
 3. **b) ~(으)로**  
    Explanation: Use **~(으)로** to indicate means of transportation.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

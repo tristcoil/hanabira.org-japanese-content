@@ -106,3 +106,6 @@ While **~답게**, **~처럼**, and **~같이** can all be translated as "like" 
 ---
 ## Final Note
 By understanding **~답게**, learners can express nuances of expected behavior and characteristics in Korean, enhancing both their grammatical accuracy and cultural competence.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -110,3 +110,6 @@ Expressing difficulty using **~기 힘들다** can reflect humility in Korean cu
    - **Answer:** 힘든
 ---
 By practicing and familiarizing yourself with **~기 힘들다**, you'll be able to express difficulties naturally in Korean. Remember to consider the context and the type of difficulty when choosing between **힘들다** and **어렵다**.
+
+---
+© [Hanabira.org](https://hanabira.org)

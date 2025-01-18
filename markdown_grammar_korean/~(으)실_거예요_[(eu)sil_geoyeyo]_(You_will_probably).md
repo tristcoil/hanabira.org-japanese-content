@@ -120,3 +120,6 @@ Remove **-다** from the dictionary form of the verb.
 
 ---
 By incorporating **~(으)실 거예요** into your Korean conversations, you'll be able to respectfully discuss future events involving people of higher status or those you wish to show respect.
+
+---
+© [Hanabira.org](https://hanabira.org)

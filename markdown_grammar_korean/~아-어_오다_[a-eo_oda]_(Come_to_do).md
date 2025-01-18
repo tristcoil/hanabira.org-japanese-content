@@ -92,3 +92,6 @@ The structure **~아/어 오다** is used to indicate that an action started in 
    - **Answer:** **~아/어 가다**
 ---
 By understanding **~아/어 오다**, you can express ongoing actions and experiences that shape who you are today. Keep practicing to master this essential grammar point!
+
+---
+© [Hanabira.org](https://hanabira.org)

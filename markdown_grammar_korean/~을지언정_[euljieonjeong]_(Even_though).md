@@ -81,3 +81,6 @@ Try creating sentences using **~을지언정** with the following verbs/adjectiv
 **Example**:
 - **공부할지언정 포기하지 않겠다.**
   - *Even if I have to study hard, I won't give up.*
+
+---
+© [Hanabira.org](https://hanabira.org)

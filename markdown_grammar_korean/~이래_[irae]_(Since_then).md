@@ -98,3 +98,6 @@ In Korean culture, expressing the continuity of actions or states from a point i
 ---
 By understanding and practicing **~(으)ㄴ 이래(로)**, you'll be able to express the continuity of events from the past to the present, making your Korean communication more fluent and natural. Keep practicing by creating your own sentences!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

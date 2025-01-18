@@ -116,3 +116,6 @@ In Korean culture, encouraging someone to try something is common, especially wi
 
 ---
 Feel free to ask any questions or request further examples!
+
+---
+© [Hanabira.org](https://hanabira.org)

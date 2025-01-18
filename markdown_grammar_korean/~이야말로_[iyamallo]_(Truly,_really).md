@@ -88,3 +88,6 @@ In this lesson, we'll explore the Korean grammar point **~이야말로** [iyamal
    - **Answer:** False. It is used with nouns.
 ---
 Feel free to revisit this lesson and practice creating your own sentences to master the usage of **~이야말로**!
+
+---
+© [Hanabira.org](https://hanabira.org)

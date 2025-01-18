@@ -99,3 +99,6 @@ When attaching **~하고** to a noun:
    - **Answer**: **친구하고 공부했어요.**
 ---
 Feel free to review this lesson as needed, and don't hesitate to ask if you have any questions!
+
+---
+© [Hanabira.org](https://hanabira.org)

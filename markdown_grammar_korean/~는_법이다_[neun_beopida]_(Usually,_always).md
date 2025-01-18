@@ -91,3 +91,6 @@ In Korean culture, proverbs and sayings are commonly used to convey wisdom and l
    - *Answer Example:* 시간이 지나면 상처는 치유되는 법이에요. (As time passes, wounds are naturally healed.)
 ---
 By mastering **~는 법이다**, you enhance your ability to express natural outcomes and general truths, adding depth to your Korean language skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

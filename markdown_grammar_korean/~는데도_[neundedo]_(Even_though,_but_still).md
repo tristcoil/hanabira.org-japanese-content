@@ -108,3 +108,6 @@ Politeness in Korean is often conveyed through verb endings. **~는데도** rema
    - **Answer**: **~지만** expresses a simple contrast, while **~는데도** emphasizes an unexpected result despite the preceding situation.
 ---
 By mastering **~는데도**, you can express complex contrasts and enrich your Korean communication. Practice by creating your own sentences, and soon it will become a natural part of your language skills!
+
+---
+© [Hanabira.org](https://hanabira.org)

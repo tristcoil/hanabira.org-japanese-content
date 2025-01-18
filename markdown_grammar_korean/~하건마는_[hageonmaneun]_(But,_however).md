@@ -97,3 +97,6 @@ The structure **~하건마는** attaches to the verb stem and is typically used 
    </details>
 ---
 By mastering **~하건마는 [hageonmaneun]**, you enhance your ability to express complex contrasts in formal Korean. Keep practicing by reading formal texts and trying to incorporate this structure into your writing exercises.
+
+---
+© [Hanabira.org](https://hanabira.org)

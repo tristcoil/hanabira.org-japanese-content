@@ -142,3 +142,6 @@ In Korean culture, expressing one's intentions politely is important to maintain
    - **Correction:** 비가 오**려고 해요**. (Since "오" ends with a vowel, use **-려고 해요**.)
 ---
 By understanding and practicing **~려고 하다**, you'll be able to express your intentions and plans more naturally in Korean conversations. Keep practicing with different verbs and contexts to strengthen your grasp of this useful grammar point!
+
+---
+© [Hanabira.org](https://hanabira.org)

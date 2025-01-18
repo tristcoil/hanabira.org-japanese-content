@@ -85,3 +85,6 @@ While **~을/를 틈타** itself is an idiomatic expression, it is often used in
    - **Answer**: **~을/를 틈타** implies seizing an opportunity, while **~는 동안** simply indicates that something happens during a period of time without the nuance of opportunism.
 ---
 Feel free to create your own sentences using **~을/를 틈타** to become more comfortable with this grammar point!
+
+---
+© [Hanabira.org](https://hanabira.org)

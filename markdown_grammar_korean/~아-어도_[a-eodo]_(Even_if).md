@@ -130,3 +130,6 @@ B -- 하 --> E[Add 여도 (해도)]
    - **Answer:** Yes, **찾았어도** implies past tense; if indicating "even though I found the way," it's correct. Ensure tense matches intended meaning.
 ---
 By understanding and practicing **~아/어도**, you can express concessions and conditions more naturally in Korean, enhancing both your spoken and written communication skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

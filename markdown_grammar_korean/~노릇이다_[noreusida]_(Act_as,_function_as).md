@@ -120,3 +120,6 @@ In Korean culture, there's a strong emphasis on harmony, fate, and acceptance of
    **Answer:** False. It is used with verbs.
 ---
 By mastering **~노릇이다**, you'll be able to convey nuances of inevitability and resignation in Korean, enriching your expressive abilities in the language.
+
+---
+© [Hanabira.org](https://hanabira.org)

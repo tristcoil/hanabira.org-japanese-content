@@ -101,3 +101,6 @@ Korean language has different levels of formality. Using **~게 하다** in poli
 3. **The parents let the children play.**
 ---
 Feel free to ask any questions or request further clarification on **~게 하다**!
+
+---
+© [Hanabira.org](https://hanabira.org)

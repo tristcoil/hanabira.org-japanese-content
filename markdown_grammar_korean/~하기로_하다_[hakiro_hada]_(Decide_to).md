@@ -110,3 +110,6 @@ To form this expression, attach "**기로 하다**" to the stem of a verb.
    - **Answer**: 우리는 오후 3시에 만나기로 했어요.
 ---
 By understanding and practicing the use of **~하기로 하다**, you'll be able to express decisions confidently and naturally in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

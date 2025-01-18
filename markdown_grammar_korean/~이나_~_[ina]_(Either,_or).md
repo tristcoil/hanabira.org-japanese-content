@@ -136,3 +136,6 @@ The usage of **~이나~** depends on whether the noun ends with a consonant or a
 ---
 By understanding and practicing **~이나~**, you can enhance your Korean by offering choices naturally and respectfully, which is an essential aspect of effective communication in Korean culture.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

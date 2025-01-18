@@ -121,3 +121,6 @@ The particle **~이랑** attaches to nouns and has two forms depending on whethe
 3. **With whom are you going to eat lunch?**
 ---
 By mastering **~(이)랑**, you'll enhance your ability to connect ideas and interact casually in Korean. Practice using it in daily conversations with friends to become more comfortable with its usage.
+
+---
+© [Hanabira.org](https://hanabira.org)

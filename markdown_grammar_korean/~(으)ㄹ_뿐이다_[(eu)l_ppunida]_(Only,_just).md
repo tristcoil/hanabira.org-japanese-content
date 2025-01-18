@@ -94,3 +94,6 @@ The formation of **~(으)ㄹ 뿐이다** depends on whether the verb or adjectiv
    - **Answer:** *뿐*
 ---
 By understanding and practicing **~(으)ㄹ 뿐이다**, you'll be able to express limitations and modesty in your Korean communication more naturally.
+
+---
+© [Hanabira.org](https://hanabira.org)

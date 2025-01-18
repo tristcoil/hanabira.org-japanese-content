@@ -114,3 +114,6 @@ In Korean culture, context and situational factors play a significant role in co
    _학생들 **생각에** 따라 수업 방식이 달라요._
 ---
 By mastering **~에 따라**, you can more accurately describe how different factors influence outcomes in Korean. Keep practicing by crafting your own sentences using this grammar point!
+
+---
+© [Hanabira.org](https://hanabira.org)

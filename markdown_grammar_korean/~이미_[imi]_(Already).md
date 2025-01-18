@@ -105,3 +105,6 @@ b) **벌써**
 ---
 By understanding and practicing the use of **이미**, you can express past actions more naturally and accurately in Korean.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

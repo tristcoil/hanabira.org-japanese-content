@@ -109,3 +109,6 @@ In Korean culture, expressing the effort or resources required to achieve someth
    - **Answer**: Confusing **~하는 데** with **~하는데** and using it with adjectives.
 Feel free to review the lesson and ask any questions!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

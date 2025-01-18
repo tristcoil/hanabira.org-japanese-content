@@ -121,3 +121,6 @@ Using **~어도/아도** instead:
 3. **시간이 없을지라도 꼭 참석하겠습니다.**
 ---
 By mastering **~(으)ㄹ지라도**, you can express complex ideas and concessions with a formal tone, enhancing both your comprehension and expression in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -119,3 +119,6 @@ While **너무**, **매우**, and **아주** can all mean "very," they have subt
    - **Answer:** **False.** It can be used for positive emphasis as well.
 ---
 By understanding and practicing the use of **너무**, you'll be able to express yourself more naturally and accurately in Korean. Remember to consider the context to convey the right nuance!
+
+---
+© [Hanabira.org](https://hanabira.org)

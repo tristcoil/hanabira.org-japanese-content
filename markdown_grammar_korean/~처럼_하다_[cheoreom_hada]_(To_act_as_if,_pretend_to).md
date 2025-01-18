@@ -133,3 +133,6 @@ Both **~처럼 하다** and **~인 척하다** are used to express pretending, b
    - **Answer:** 그는 아픈 것처럼 했어요.
 ---
 **Happy learning! Keep practicing the structure to master expressions of pretending in Korean.**
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -84,3 +84,6 @@ Using **~하기는** can soften statements, showing humility or politeness by ac
 2. 좋아하기는 하지만 비싸요.
 3. **~지만** is a direct "but", while **~하기는** emphasizes the action before contrasting.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

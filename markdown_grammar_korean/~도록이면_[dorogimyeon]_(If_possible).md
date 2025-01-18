@@ -113,3 +113,6 @@ In Korean culture, **indirect communication** is often preferred, especially whe
    - Using it with adjectives instead of verbs.
 ---
 By understanding and practicing **"~도록이면"**, you'll enhance your ability to make polite and culturally appropriate requests in Korean. Keep observing its usage in various contexts to deepen your comprehension.
+
+---
+© [Hanabira.org](https://hanabira.org)

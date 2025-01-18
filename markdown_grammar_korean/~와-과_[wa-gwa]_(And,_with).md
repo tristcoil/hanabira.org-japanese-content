@@ -83,3 +83,6 @@ There are other particles in Korean that also mean "and" or "with." Understandin
    **Answer:** 우유**와** 커피
 ---
 By consistently practicing and paying attention to noun endings, you will become proficient in using **~와/과** to connect nouns in formal Korean language contexts.
+
+---
+© [Hanabira.org](https://hanabira.org)

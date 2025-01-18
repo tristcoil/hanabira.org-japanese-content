@@ -98,3 +98,6 @@ In Korean culture, expressing comparisons using **~과/와 같이** adds vividne
    - **Answer**: Remove either '처럼' or '같이' to correct redundancy: "바람처럼 달린다." or "바람과 같이 달린다."
 ---
 Feel free to practice by making your own sentences using **~과/와 같이** to describe similarities!
+
+---
+© [Hanabira.org](https://hanabira.org)

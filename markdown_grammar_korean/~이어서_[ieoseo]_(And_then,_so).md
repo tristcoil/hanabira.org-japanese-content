@@ -103,3 +103,6 @@ In Korean culture, expressing reasons and sequences clearly is important for eff
    **Answer:** 월요일**이어서** 가게가 문을 닫았어요.
 ---
 By mastering **~이어서/~여서**, you enhance your ability to express reasons and sequences in Korean, making your conversations more natural and coherent.
+
+---
+© [Hanabira.org](https://hanabira.org)

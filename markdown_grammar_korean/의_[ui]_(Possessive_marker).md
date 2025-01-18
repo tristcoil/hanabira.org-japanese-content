@@ -121,3 +121,6 @@ The Korean particle **의 [ui]** is a possessive marker used to indicate ownersh
    - *I use my older brother's computer.*
 ---
 Feel free to review the examples and practice creating your own sentences using **의 [ui]** to express possession in Korean!
+
+---
+© [Hanabira.org](https://hanabira.org)

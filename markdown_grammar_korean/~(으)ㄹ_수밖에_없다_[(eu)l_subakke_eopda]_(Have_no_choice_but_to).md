@@ -104,3 +104,6 @@ In Korean, expressing inevitability or the lack of alternative is common in dail
    **Answer**: **~(으)ㄹ 수밖에 없다** emphasizes that there are no other options available (inevitability), while **~야 하다** indicates necessity or obligation without implying the lack of alternatives.
 ---
 By understanding and practicing **~(으)ㄹ 수밖에 없다**, you'll be able to express inevitability and unavoidable circumstances naturally in Korean!
+
+---
+© [Hanabira.org](https://hanabira.org)

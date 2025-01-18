@@ -111,3 +111,6 @@ In Korean culture, being prepared and considerate is valued. Using **~아/어 �
    - Answer: 주소를 적어 놓았어요.
 ---
 By understanding and practicing **~아/어 놓다**, you can express actions done in advance and enhance your ability to communicate preparation and intentionality in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

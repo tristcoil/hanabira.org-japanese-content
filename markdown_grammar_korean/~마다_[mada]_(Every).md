@@ -147,3 +147,6 @@ In Korean, the particle **~마다** (*[mada]*) is used to express the meaning of
 
 ---
 This completes the detailed explanation of the Korean grammar point **~마다** (*[mada]*) meaning **"every."**
+
+---
+© [Hanabira.org](https://hanabira.org)

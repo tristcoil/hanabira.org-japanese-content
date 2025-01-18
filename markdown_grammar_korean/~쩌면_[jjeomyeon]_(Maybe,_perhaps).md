@@ -86,3 +86,6 @@ In Korean culture, expressing uncertainty or humility in statements is common an
 
 ---
 By understanding and practicing **어쩌면**, you can more naturally express uncertainty and possibility in Korean, making your conversations more nuanced and culturally appropriate.
+
+---
+© [Hanabira.org](https://hanabira.org)

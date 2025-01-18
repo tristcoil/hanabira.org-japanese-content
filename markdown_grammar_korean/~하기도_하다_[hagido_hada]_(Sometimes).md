@@ -84,3 +84,6 @@ Understanding and using the correct level of politeness is crucial in Korean cul
    - **Answer**: It nominalizes the verb, turning it into a noun form before adding **-도 하다**.
 ---
 By understanding and practicing **~하기도 하다**, you can express occasional or additional actions naturally in Korean!
+
+---
+© [Hanabira.org](https://hanabira.org)

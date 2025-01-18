@@ -112,3 +112,6 @@ In Korean communication, expressing limitations or accepting inevitable outcomes
 2. False
 3. b) 지금 출발해 보아야 늦을 것 같아요.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

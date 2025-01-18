@@ -104,3 +104,6 @@ Both **~(으)니까** and **~아서/어서** can indicate reasons or causes, but
 3. **추우니까 코트를 입으세요.**
 ---
 Feel free to revisit this lesson to reinforce your understanding of **~(으)니까**. Practice creating your own sentences to become more comfortable with this grammar point!
+
+---
+© [Hanabira.org](https://hanabira.org)

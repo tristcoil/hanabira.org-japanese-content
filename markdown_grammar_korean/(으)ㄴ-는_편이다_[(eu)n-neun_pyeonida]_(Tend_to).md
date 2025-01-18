@@ -108,3 +108,6 @@ The structure differs depending on whether you're using an adjective or a verb:
 3. False. It makes statements less direct.
 ---
 By understanding and practicing **(으)ㄴ/는 편이다**, you'll be able to express tendencies and soften your statements naturally in Korean!
+
+---
+© [Hanabira.org](https://hanabira.org)

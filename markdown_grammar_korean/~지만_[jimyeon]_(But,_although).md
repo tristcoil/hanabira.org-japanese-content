@@ -104,3 +104,6 @@ Attach **~지만** directly to the stem of a verb, adjective, or copula in the f
 ---
 Feel free to create your own sentences using **~지만** to express contrasts and deepen your understanding!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

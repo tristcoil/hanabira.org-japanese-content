@@ -92,3 +92,6 @@ However, **다** is often placed **before the verb** it modifies.
 3. Before the verb or adjective it modifies.
 ---
 By mastering **다**, you enhance your ability to express totality and completeness in Korean, making your speech and writing more precise and natural.
+
+---
+© [Hanabira.org](https://hanabira.org)

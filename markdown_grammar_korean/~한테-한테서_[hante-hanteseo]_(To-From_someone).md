@@ -116,3 +116,6 @@ Using the correct particle demonstrates respect and awareness of social norms. U
      - Answer: **친구한테서 선물을 받았어요.**
 ---
 By mastering **한테** and **한테서**, you enhance your ability to express interactions between people accurately and respectfully, which is essential in Korean communication.
+
+---
+© [Hanabira.org](https://hanabira.org)

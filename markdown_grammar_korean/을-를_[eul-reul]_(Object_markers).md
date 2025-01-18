@@ -119,3 +119,6 @@ Korean language has different speech levels to indicate formality and respect. T
 Mastering the use of **을/를** is a significant step toward fluency in Korean. Regular practice and application of these object markers will enhance your ability to communicate clearly and effectively in various contexts.
 Feel free to revisit this guide and practice with different nouns and verbs to solidify your understanding.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

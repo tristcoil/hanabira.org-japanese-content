@@ -84,3 +84,6 @@ Verb Stem + 고 말다
    - **Answer**: **~고 말다** implies inevitability or unintended outcome, whereas **~아/어 버리다** emphasizes completion with emotional nuance.
 ---
 **Congratulations!** You've learned how to use **~고 말다** to express actions that end up happening, often with a sense of inevitability or regret.
+
+---
+© [Hanabira.org](https://hanabira.org)

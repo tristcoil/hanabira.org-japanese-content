@@ -111,3 +111,6 @@ In Korean, expressing when an action takes place in relation to another is essen
    - **Answer**: **~전에** means "before," indicating an action happens prior to another. **~전까지** means "by [a certain time]," emphasizing a deadline.
 ---
 By mastering **~전에** and **~전까지**, you enhance your ability to discuss timelines and deadlines, which is crucial for effective communication in Korean. Keep practicing, and soon it'll become second nature!
+
+---
+© [Hanabira.org](https://hanabira.org)

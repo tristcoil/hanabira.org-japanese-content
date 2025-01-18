@@ -116,3 +116,6 @@ In Korean, expressing reasons and causes is essential for clear communication. T
    **Answer**: b) 날씨가 추우므로 집에 있습니다.
 ---
 By understanding and practicing **~(으)므로**, you'll enhance your ability to read and write formal Korean effectively.
+
+---
+© [Hanabira.org](https://hanabira.org)

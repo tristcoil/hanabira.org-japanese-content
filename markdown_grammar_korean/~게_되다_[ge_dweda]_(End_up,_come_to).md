@@ -93,3 +93,6 @@ Adjusting the politeness level of **되다** tailors the expression appropriatel
 
 ---
 Feel free to revisit this guide to reinforce your understanding of **~게 되다** and incorporate it into your Korean language practice!
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -100,3 +100,6 @@ In this lesson, we will explore the Korean grammar point **~남짓** (*namjit*),
 ---
 Now that you've learned how to use **~남짓**, try incorporating it into your daily Korean practice. Using natural approximations will make your Korean sound more fluent and native-like!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

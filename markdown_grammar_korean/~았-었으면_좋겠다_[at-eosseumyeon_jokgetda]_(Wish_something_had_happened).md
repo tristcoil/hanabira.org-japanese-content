@@ -103,3 +103,6 @@ Choose the appropriate level of politeness based on the social context and the p
    </details>
 ---
 By mastering **~았/었으면 좋겠다**, you can express past regrets and wishes naturally in Korean, adding depth to your conversations.
+
+---
+© [Hanabira.org](https://hanabira.org)

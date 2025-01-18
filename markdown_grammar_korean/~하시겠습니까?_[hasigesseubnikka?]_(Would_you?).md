@@ -108,3 +108,6 @@ For other verbs:
 
 ---
 By mastering **~하시겠습니까?**, you enhance your ability to communicate respectfully in formal Korean settings, aligning with cultural expectations of politeness and honorifics.
+
+---
+© [Hanabira.org](https://hanabira.org)

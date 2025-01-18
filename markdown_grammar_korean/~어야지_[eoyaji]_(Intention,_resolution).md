@@ -101,3 +101,6 @@ In Korean culture, expressing one's intentions and resolutions is important, esp
    - **False** (It's more common in informal contexts; for formal writing, use **~어야겠습니다**.)
 ---
 Feel free to practice by creating your own sentences using **~어야지** to express your intentions and resolutions!
+
+---
+© [Hanabira.org](https://hanabira.org)

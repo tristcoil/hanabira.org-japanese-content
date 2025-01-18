@@ -94,3 +94,6 @@ In Korean, politeness levels are crucial. The grammar point **~(으)ㄹ 것 같�
    - **Answer:** Should be "비가 올 것 같아요."
 ---
 Happy learning! Remember, practice makes perfect. Try creating your own sentences using **~(으)ㄹ 것 같다** to express your thoughts about future events.
+
+---
+© [Hanabira.org](https://hanabira.org)

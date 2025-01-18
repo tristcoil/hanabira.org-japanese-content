@@ -117,3 +117,6 @@ Verb Stem + 았/었/했었는데
 By mastering **~했었는데**, you can express nuanced changes between the past and present, making your Korean storytelling more vivid and precise.
 ---
 Feel free to practice by creating sentences about your past experiences that have changed!
+
+---
+© [Hanabira.org](https://hanabira.org)

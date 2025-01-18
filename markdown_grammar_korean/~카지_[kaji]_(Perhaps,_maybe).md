@@ -14,3 +14,6 @@ Could you please confirm or provide more context about the grammar point you're 
 
 ---
 Feel free to provide more details, and we'll continue from there!
+
+---
+© [Hanabira.org](https://hanabira.org)

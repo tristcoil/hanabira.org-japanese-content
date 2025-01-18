@@ -103,3 +103,6 @@ For Verbs/Adjectives:
 3. Misplacing **(이)** by not matching it with the noun ending (vowel or consonant).
 ---
 Feel free to practice by making your own sentences using **~이든지 ~든지** to solidify your understanding!
+
+---
+© [Hanabira.org](https://hanabira.org)

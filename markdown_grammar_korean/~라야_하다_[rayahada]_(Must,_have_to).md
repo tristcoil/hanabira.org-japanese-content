@@ -98,3 +98,6 @@ The formation of **~라야 하다** depends on whether the verb stem ends with a
 ---
 By understanding **~라야 하다**, you can enhance your ability to express obligations in Korean, especially in more formal contexts. Practice forming sentences using this grammar point to become more familiar with its usage.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

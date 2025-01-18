@@ -118,3 +118,6 @@ While **~아/어지다** is used with adjectives to express a change in state, *
 ---
 By mastering **~아/어지다**, you can describe changes in states or conditions effectively, enriching your Korean communication skills.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

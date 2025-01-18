@@ -113,3 +113,6 @@ In Korean culture, there's an emphasis on the journey and the experiences gained
 ---
 By incorporating **~하다 보니** into your Korean conversations, you'll be able to naturally express discoveries and changes experienced over time. Practice by recounting your own experiences using this grammar point to become more comfortable with its usage.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

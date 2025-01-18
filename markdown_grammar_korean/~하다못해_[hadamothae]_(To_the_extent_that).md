@@ -99,3 +99,6 @@ The use of **~하다못해** itself is neutral, but the overall formality depend
 2. Remove **-다** from the verb to get the stem and attach **하다못해** (e.g., **기다리다** → **기다리** + **하다못해**).
 3. **그는 일하다못해 지쳤습니다.** *(He worked to the extent that he became exhausted.)*
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

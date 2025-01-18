@@ -127,3 +127,6 @@ Comparing **~만큼** with similar grammar points:
 
 ---
 By understanding and practicing **~만큼**, you can make more precise and natural comparisons in Korean, enhancing both your spoken and written communication skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

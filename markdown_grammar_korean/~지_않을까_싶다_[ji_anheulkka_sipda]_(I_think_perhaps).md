@@ -121,3 +121,6 @@ Create sentences using **~지 않을까 싶다** with the following words:
    - *I think perhaps the price might be high.*
 ---
 Feel free to practice with your own examples and explore different contexts to fully grasp the usage of **~지 않을까 싶다**!
+
+---
+© [Hanabira.org](https://hanabira.org)

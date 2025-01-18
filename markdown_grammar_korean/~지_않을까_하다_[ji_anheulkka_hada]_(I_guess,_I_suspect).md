@@ -90,3 +90,6 @@ In Korean, expressing oneself indirectly or tentatively is a common way to maint
 2. Attach **지 않다** to the verb stem, then add **을까 하다**.
 3. *(Example)* 친구가 늦지 않을까 해요. *I guess my friend might be late.*
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

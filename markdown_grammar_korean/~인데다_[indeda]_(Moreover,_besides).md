@@ -145,3 +145,6 @@ The structure of **~인데다** varies depending on whether it is attached to a 
 ---
 By understanding and practicing the usage of **~인데다**, you can enhance your Korean language skills, allowing you to express additional information smoothly within your sentences.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

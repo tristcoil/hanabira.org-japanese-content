@@ -116,3 +116,6 @@ Ensure you adjust the verb ending to match the social context and relationship.
 Try using **`~에 힘쓰다`** in sentences about your personal goals or activities you're dedicated to.
 - Example: *저는 취업 준비에 힘쓰고 있습니다.* (I am putting effort into job preparation.)
 Feel free to share your sentences for feedback!
+
+---
+© [Hanabira.org](https://hanabira.org)

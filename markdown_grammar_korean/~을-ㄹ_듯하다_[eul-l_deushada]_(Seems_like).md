@@ -113,3 +113,6 @@ The ending of **~듯하다** can change to reflect different levels of politenes
    - **Correct:** **읽을 듯해요.**
 ---
 By understanding and practicing **~을/ㄹ 듯하다**, you'll enhance your ability to express subtle nuances in Korean, making your speech and writing more natural and precise.
+
+---
+© [Hanabira.org](https://hanabira.org)

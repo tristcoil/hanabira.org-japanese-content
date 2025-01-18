@@ -93,3 +93,6 @@ In Korean culture, where indirect communication is valued, using expressions lik
 
 ---
 By understanding and practicing **~리가 없다**, you can more effectively express skepticism or disbelief in Korean conversations.
+
+---
+© [Hanabira.org](https://hanabira.org)

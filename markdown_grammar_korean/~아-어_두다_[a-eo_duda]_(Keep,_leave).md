@@ -104,3 +104,6 @@ In Korean culture, being prepared and thinking ahead is highly valued. Using **~
 3. **Translate into Korean**: "I wrote down the address for future reference."
    - **Answer**: 참고하려고 주소를 적어 두었어요.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

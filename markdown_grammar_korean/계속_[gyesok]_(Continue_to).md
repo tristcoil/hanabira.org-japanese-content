@@ -94,3 +94,6 @@ While **계속** means "to continue," it's useful to compare it with other expre
    - **Answer:** 그녀는 계속 말하고 있어요.
 ---
 Feel free to revisit this lesson to reinforce your understanding of **계속**. Practice by making your own sentences to describe actions that continue over time!
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -110,3 +110,6 @@ In Korean, showing respect and politeness in language is essential, especially w
 By mastering **아/어/여 드리다**, you enhance your ability to communicate respectfully in Korean, which is essential for building positive relationships and navigating social hierarchies.
 ---
 *Practice crafting your own sentences using **아/어/여 드리다** to become more comfortable with this honorific form!*
+
+---
+© [Hanabira.org](https://hanabira.org)

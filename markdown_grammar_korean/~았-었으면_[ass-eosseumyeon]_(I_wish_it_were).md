@@ -114,3 +114,6 @@ _I wish you had gone on vacation._
    - *Explanation*: Missing **었** in **왔으면** to correctly form **~았/었으면**.
 ---
 By understanding and practicing **~았/었으면**, you can express your wishes and regrets more naturally in Korean, aligning with cultural communication styles.
+
+---
+© [Hanabira.org](https://hanabira.org)

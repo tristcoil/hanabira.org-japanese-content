@@ -92,3 +92,6 @@ While **~에 한하다** itself is straightforward, it's often found in set phra
 ---
 By understanding and practicing the use of **~에 한하다**, you'll enhance your ability to comprehend and compose formal Korean texts, especially those involving rules, policies, and official statements.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

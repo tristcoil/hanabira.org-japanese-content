@@ -93,3 +93,6 @@ Choosing the correct level of politeness is crucial in Korean. Using **힘들어
 Try forming sentences using **~힘들다** with verbs you commonly use. This will help solidify your understanding and make your Korean sound more natural.
 ---
 # End of Lesson
+
+---
+© [Hanabira.org](https://hanabira.org)

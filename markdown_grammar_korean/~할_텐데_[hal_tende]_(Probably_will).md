@@ -111,3 +111,6 @@ The structure of **~할 텐데** varies depending on the verb stem ending.
    - **Answer:** To express strong assumptions or expectations about future events.
 ---
 By mastering **~할 텐데**, you can more accurately convey your expectations and assumptions in Korean, enhancing both your spoken and written communication.
+
+---
+© [Hanabira.org](https://hanabira.org)

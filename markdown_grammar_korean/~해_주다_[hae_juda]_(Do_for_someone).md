@@ -96,3 +96,6 @@ In Korean culture, showing consideration and performing favors are important soc
    - Corrected: **저를 도와 주세요.**
 ---
 By mastering **~해 주다**, you enhance your ability to express favors and kindness in Korean, aligning with cultural norms of politeness and respect.
+
+---
+© [Hanabira.org](https://hanabira.org)

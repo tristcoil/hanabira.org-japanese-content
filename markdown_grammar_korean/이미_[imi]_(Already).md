@@ -92,3 +92,6 @@ Try translating these sentences using **이미**:
 3. They already know the truth.
 ---
 Feel free to ask any questions or for further clarification on using **이미**!
+
+---
+© [Hanabira.org](https://hanabira.org)

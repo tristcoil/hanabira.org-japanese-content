@@ -119,3 +119,6 @@ flowchart TD
 3. "It's raining, so please take an umbrella."
 ---
 *By mastering **~하는데**, you've taken another step towards fluency in Korean! Keep practicing by creating your own sentences using this grammar point.*
+
+---
+© [Hanabira.org](https://hanabira.org)

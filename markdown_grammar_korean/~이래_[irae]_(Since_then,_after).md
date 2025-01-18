@@ -87,3 +87,6 @@ By attaching **~ㄴ/은 이래** to the verb stem, you're expressing that the ac
    **Answer:** Attaching **~이래** to the present tense form instead of the past tense verb stem.
 
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

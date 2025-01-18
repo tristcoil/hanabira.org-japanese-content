@@ -89,3 +89,6 @@ In Korean culture, showing consideration for others is highly valued. Using **~(
    - **Answer:** It's not appropriate because going on a trip is a self-decided action not influenced by the listener. It should be *제가 다음 주에 여행 갈 거예요.*
 ---
 Feel free to revisit this lesson to strengthen your understanding of **~(으)ㄹ게요**. Practice by creating your own sentences to express promises or commitments to others!
+
+---
+© [Hanabira.org](https://hanabira.org)

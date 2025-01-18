@@ -99,3 +99,6 @@ The grammar pattern **~기만 하다** is used in Korean to express the meaning 
    - **Answer**: 나는 기달기만 했어요. *(Wait = 기다리다, so it should be 기다리기만 했어요.)*
 ---
 By understanding and practicing **~기만 하다**, you'll be able to express actions that are done exclusively, enhancing your ability to convey nuances in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

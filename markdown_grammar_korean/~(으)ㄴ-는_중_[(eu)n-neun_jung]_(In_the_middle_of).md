@@ -85,3 +85,6 @@ In Korean culture, stating that you're in the middle of something politely infor
 ---
 By understanding and practicing **~(으)ㄴ/는 중**, you'll be able to express ongoing actions more precisely in Korean. Keep practicing with different verbs to become more comfortable with this grammar point!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -130,3 +130,6 @@ In Korean culture, modesty is valued. Using **~할 만하다** allows speakers t
 By incorporating **~할 만하다** into your Korean language skills, you'll be able to offer recommendations and express opinions in a way that is both culturally appropriate and linguistically accurate.
 ---
 *Note: Practice using this grammar point in daily conversations to become more fluent and natural in your expressions.*
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -109,3 +109,6 @@ B --> C[리가 없다]
    - **Answer**: 그녀가 일을 끝냈을 리가 없어요.
 ---
 Practice creating your own sentences using **~(으)ㄹ 리가 없다** to become more comfortable with expressing disbelief in Korean!
+
+---
+© [Hanabira.org](https://hanabira.org)

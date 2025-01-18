@@ -128,3 +128,6 @@ In Korean culture, expressing relationships between actions and states often inv
 # Conclusion
 By mastering **-일수록**, you can express complex comparative relationships in Korean, enhancing both your speaking and writing skills. Regular practice with various verbs and adjectives will help solidify your understanding of this essential grammar point.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

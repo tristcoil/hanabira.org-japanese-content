@@ -89,3 +89,6 @@ The ending **-습니다 / -ㅂ니다** makes the sentence formal, suitable for o
 
 ---
 By mastering **아/어/여서는 안 되다**, you'll be able to express prohibitions and strong dissuasions effectively in Korean, enhancing both your conversational skills and cultural understanding.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -84,3 +84,6 @@ In Korean culture, using the correct counter is important and reflects a speaker
 
 ---
 Happy studying! Remember that mastering counters like **~장** will greatly improve your fluency in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -121,3 +121,6 @@ Another way to express prohibition is **~(으)면 안 되다**, which attaches t
    **Answer:** 도서관에서 음식을 먹어서는 안 됩니다.
 ---
 By mastering **~하여서는 안 되다**, you will be able to understand and use formal prohibitions in Korean, enhancing your comprehension of official notices and improving your formal communication skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

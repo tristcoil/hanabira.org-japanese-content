@@ -100,3 +100,6 @@ The structure **~했을 때** combines the past tense of a verb with **-을 때*
    - **Answer**: **배웠을 때** (When I first learned Korean, it was very difficult.)
 ---
 By mastering **~했을 때**, you can more accurately describe past experiences and share stories in Korean. Remember to pay attention to verb tenses and practice with various verbs to become more comfortable with this grammar point.
+
+---
+© [Hanabira.org](https://hanabira.org)

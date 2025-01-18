@@ -106,3 +106,6 @@ To form this expression, you attach **아/어/여 보다** to the verb stem.
    - **Answer**: *봐 보다*
 ---
 By understanding and practicing **아/어/여 보다**, you can confidently express attempts and encourage others to try new experiences in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

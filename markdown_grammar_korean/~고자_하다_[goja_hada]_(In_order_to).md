@@ -90,3 +90,6 @@ The structure combines the verb stem with **~고자 하다**:
    - **Answer**: 계획을 변경하**려고 해요**.
 ---
 By understanding and practicing **~고자 하다**, you can enhance your ability to express intentions formally in Korean, which is essential for professional and academic communication.
+
+---
+© [Hanabira.org](https://hanabira.org)

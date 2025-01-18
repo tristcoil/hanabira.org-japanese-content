@@ -88,3 +88,6 @@ In Korean culture, respecting rules, regulations, and social norms is highly val
 3. **~아/어/여서는 안 되다** is used to state a prohibition or that something is unacceptable, often due to rules or norms. **~지 마세요** is a polite request or command asking someone not to do something.
 ---
 By mastering **~아/어/여서는 안 되다**, you'll enhance your ability to understand and communicate essential prohibitions and cultural expectations in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

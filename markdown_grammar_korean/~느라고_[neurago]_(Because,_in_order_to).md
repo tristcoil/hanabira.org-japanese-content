@@ -91,3 +91,6 @@ The Korean grammar point "~느라고" is commonly used to express the reason or 
 3. **Correction**: **버스를 놓쳐서 회사에 늦게 도착했어요.**
    - *Since "버스를 놓치다" is not an intentional action, use ~아서/어서.*
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

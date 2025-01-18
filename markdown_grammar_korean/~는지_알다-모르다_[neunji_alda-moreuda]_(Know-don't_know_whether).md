@@ -149,3 +149,6 @@ The formation of **~는지 알다/모르다** varies depending on the type of wo
 2. a) **그 사람이 누구인지 몰라요.**
 ---
 By mastering **~는지 알다/모르다**, you'll enhance your ability to communicate uncertainties and questions about knowledge in Korean, making your conversations more nuanced and fluent.
+
+---
+© [Hanabira.org](https://hanabira.org)

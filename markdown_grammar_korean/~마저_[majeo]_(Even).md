@@ -132,3 +132,6 @@ a) 마저  b) 까지
 **Explanation:** **~까지** is suitable for positive inclusion without negative nuance.
 ---
 By understanding and practicing the usage of **~마저**, you can add depth to your Korean language expressions, especially when conveying emotions related to exhaustive situations.
+
+---
+© [Hanabira.org](https://hanabira.org)

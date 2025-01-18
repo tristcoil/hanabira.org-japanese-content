@@ -114,3 +114,6 @@ The structure is formed by:
    - **Answer**: It serves as a retrospective modifier, indicating past actions being recalled or perceived with some uncertainty.
 ---
 By mastering **~았/었던 것 같다**, you'll enhance your ability to express nuanced thoughts about past events in Korean, aligning with the cultural emphasis on humility and indirect communication.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -120,3 +120,6 @@ In Korean, expressing actions or states that occurred in the past and have since
 ---
 By understanding and using **~았/었던**, you can effectively communicate past experiences and how things have changed, adding depth to your Korean language skills.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

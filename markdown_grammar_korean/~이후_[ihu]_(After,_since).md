@@ -96,3 +96,6 @@ In Korean, expressing the sequence of events is essential for clear communicatio
 ---
 By mastering **"~이후,"** you enhance your ability to discuss timelines and articulate events with clarity in Korean. Keep practicing by forming your own sentences and soon it will become second nature!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

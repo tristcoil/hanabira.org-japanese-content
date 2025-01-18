@@ -122,3 +122,6 @@ The grammar endings **~지요/~죠** are commonly used in Korean to seek agreeme
    **Possible Answer**: 우리 같이 공부하죠. (Let's study together, shall we?)
 ---
 By understanding and practicing **~지요/~죠**, you'll be able to make your Korean conversations more natural and engaging, reflecting a native speaker's way of confirming information and seeking agreement.
+
+---
+© [Hanabira.org](https://hanabira.org)

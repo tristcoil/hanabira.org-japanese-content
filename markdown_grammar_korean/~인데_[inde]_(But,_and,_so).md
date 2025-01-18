@@ -104,3 +104,6 @@ The formation of **~인데** depends on whether the noun ends with a consonant o
    - **Answer:** **False** (It is used after nouns.)
 ---
 By understanding and practicing **~인데**, you'll be able to connect your thoughts more naturally in Korean conversations, reflecting the nuances of the language and culture.
+
+---
+© [Hanabira.org](https://hanabira.org)

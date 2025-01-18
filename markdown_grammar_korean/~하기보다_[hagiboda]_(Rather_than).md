@@ -79,3 +79,6 @@ In Korean culture, indirect expressions are often used to show politeness. Using
    - **Answer**: Verbs
 ---
 Feel free to revisit this lesson to reinforce your understanding of **~하기보다**!
+
+---
+© [Hanabira.org](https://hanabira.org)

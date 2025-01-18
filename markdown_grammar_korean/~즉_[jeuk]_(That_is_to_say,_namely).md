@@ -98,3 +98,6 @@ In Korean culture, communication often emphasizes clarity and respect, especiall
    *Explanation*: **즉** should be placed between the two related statements.
 ---
 By mastering **~즉**, you enhance your ability to communicate clearly and formally in Korean, which is invaluable in academic and professional settings. Keep practicing, and soon you'll incorporate this grammar point naturally into your language usage!
+
+---
+© [Hanabira.org](https://hanabira.org)

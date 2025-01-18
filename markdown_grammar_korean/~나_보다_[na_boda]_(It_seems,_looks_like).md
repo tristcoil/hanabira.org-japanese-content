@@ -132,3 +132,6 @@ In Korean culture, being indirect can be a way to show politeness and humility. 
 ---
 By mastering **~나 보다**, you'll add nuance to your Korean communication, making your speech sound more natural and fluent. Keep practicing by observing situations and expressing your guesses in Korean!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

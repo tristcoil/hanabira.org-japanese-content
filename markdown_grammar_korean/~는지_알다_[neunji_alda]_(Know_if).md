@@ -99,3 +99,6 @@ The pattern combines a verb or adjective with **~는지** (or **~(으)ㄴ지**, 
    - **Answer**: False (Use **~(으)ㄹ지 알다** for future events)
 ---
 By understanding and practicing **~는지 알다**, you'll enhance your ability to ask and answer questions about information you or others may or may not know, which is a vital skill in Korean communication.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -138,3 +138,6 @@ The grammar pattern **아/어/여야 되다** is a fundamental Korean expression
    - Correction: **내일은 일해야 돼요.**
 ---
 By understanding and practicing **아/어/여야 되다**, you can effectively express obligations and necessities in Korean, enhancing both your communication skills and cultural understanding.
+
+---
+© [Hanabira.org](https://hanabira.org)

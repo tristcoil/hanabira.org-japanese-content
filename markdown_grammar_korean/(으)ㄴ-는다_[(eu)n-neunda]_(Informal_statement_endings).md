@@ -96,3 +96,6 @@ The formation of **(으)ㄴ/는다** depends on the verb stem's final consonant 
    - **Answer:** 듣는다
 ---
 By understanding and practicing the **(으)ㄴ/는다** ending, you'll enhance your ability to read and write Korean narratives and better understand informal contexts.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -91,3 +91,6 @@ The combination of **이다 + -ㄴ즉** becomes **인즉**.
    - **Answer**: The problem is complicated. **In other words**, we need expert help.
 ---
 By understanding and practicing **~인즉**, you can enhance your Korean language skills, especially in formal writing and speech.
+
+---
+© [Hanabira.org](https://hanabira.org)

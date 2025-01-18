@@ -108,3 +108,6 @@ In Korean culture, offering or accepting a minimal option reflects politeness an
    - **Answer**: It would be good to at least read a book.
 ---
 By understanding and practicing **~이라도**, you can express suggestions and concessions more naturally in Korean conversations.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -88,3 +88,6 @@ The basic structure is:
 ---
 By understanding and practicing **~을지라도**, you can enhance your Korean language skills, especially in formal contexts. Remember to consider the level of formality required in your speech or writing to choose the appropriate grammar point.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

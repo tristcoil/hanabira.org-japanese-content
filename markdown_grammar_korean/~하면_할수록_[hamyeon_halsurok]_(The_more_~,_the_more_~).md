@@ -129,3 +129,6 @@ In Korean, expressing proportional relationships is common in daily conversation
 ---
 By mastering **~하면 할수록**, you enhance your ability to describe complex relationships and emphasize increasing degrees in Korean, making your speech and writing more nuanced and expressive.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -87,3 +87,6 @@ The general structure for using **~기는** is:
    - **Answer**: **False**
 ---
 By understanding and practicing **~기는**, you can add nuance to your Korean expressions, effectively conveying contrast and concession in your conversations.
+
+---
+© [Hanabira.org](https://hanabira.org)

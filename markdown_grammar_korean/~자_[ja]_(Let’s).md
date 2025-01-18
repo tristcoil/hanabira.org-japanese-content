@@ -98,3 +98,6 @@ Verb Stem + 자
    - **Answer:** 공부하자.
 ---
 **Practice forming sentences using **~자** to become more comfortable with informal suggestions in Korean!**
+
+---
+© [Hanabira.org](https://hanabira.org)

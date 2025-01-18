@@ -156,3 +156,6 @@ Understanding similar grammatical endings helps distinguish their unique uses.
    c) *같이 먹나요.*
    - **Answer**: **b) 같이 먹지요.**
 [End of Lesson]
+
+---
+© [Hanabira.org](https://hanabira.org)

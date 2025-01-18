@@ -119,3 +119,6 @@ Understanding how **~다가도** differs from similar grammar patterns helps cla
 Understanding **~다가도** enriches your ability to express unexpected contrasts and sudden changes in Korean. By practicing this pattern, you'll enhance both your comprehension and expression, making your Korean more natural and nuanced.
 ---
 Feel free to create your own sentences using **~다가도** to solidify your understanding. Happy learning!
+
+---
+© [Hanabira.org](https://hanabira.org)

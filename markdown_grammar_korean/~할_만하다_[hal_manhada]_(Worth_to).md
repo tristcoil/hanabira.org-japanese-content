@@ -159,3 +159,6 @@ By mastering **~할 만하다**, you enhance your ability to **recommend** and *
      - *The experience of that day is worth remembering.*
 ---
 Feel free to use **~할 만하다** in your daily conversations to confidently express the worthiness of actions and experiences!
+
+---
+© [Hanabira.org](https://hanabira.org)

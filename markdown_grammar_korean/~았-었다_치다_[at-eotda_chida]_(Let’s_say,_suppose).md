@@ -101,3 +101,6 @@ Using hypothetical statements like **~았/었다 치다** allows speakers to dis
    - **Answer**: **False**. It is used with past tense verbs to suppose past actions.
 ---
 By mastering **~았/었다 치다**, you can enhance your ability to discuss hypothetical past scenarios in Korean, making your conversations richer and more nuanced.
+
+---
+© [Hanabira.org](https://hanabira.org)

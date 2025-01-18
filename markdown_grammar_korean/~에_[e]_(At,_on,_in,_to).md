@@ -97,3 +97,6 @@ While **~에** itself doesn't change with politeness levels, the verbs and sente
 
 ---
 Feel free to review these notes and practice using **~에** in your own sentences!
+
+---
+© [Hanabira.org](https://hanabira.org)

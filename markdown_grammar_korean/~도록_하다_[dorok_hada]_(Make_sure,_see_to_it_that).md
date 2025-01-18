@@ -96,3 +96,6 @@ In Korean culture, indirect expressions are often used to give commands or make 
 ---
 By mastering **~도록 하다**, you enhance your ability to give polite commands and strong suggestions, reflecting the nuances of Korean language and culture.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

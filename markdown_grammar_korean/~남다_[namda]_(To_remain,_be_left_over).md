@@ -127,3 +127,6 @@ In Korean culture, respecting social hierarchy and showing appropriate levels of
 3. 시간이 남았어요?
 ---
 By mastering **남다**, you'll enhance your ability to describe remaining quantities, time, and more in Korean conversations. Practice constructing sentences using **남다** to become more comfortable with its usage!
+
+---
+© [Hanabira.org](https://hanabira.org)

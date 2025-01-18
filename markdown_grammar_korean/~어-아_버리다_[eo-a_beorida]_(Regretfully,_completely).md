@@ -92,3 +92,6 @@ The pattern is formed by attaching **~어/아 버리다** to the verb stem.
    - **Answer**: False
 ---
 By understanding **~어/아 버리다**, you can express nuanced emotions related to the completion of actions, making your Korean more natural and expressive.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -101,3 +101,6 @@ In Korean culture, there is a strong emphasis on societal norms and respecting r
 2. **해서는 안 되다**
 3. **는 안 되다**
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

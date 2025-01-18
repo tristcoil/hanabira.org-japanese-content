@@ -104,3 +104,6 @@ The structure varies slightly depending on whether the verb stem ends in a conso
    - **Answer**: 만나지요 or 만나죠.
 ---
 By mastering **~지요/죠**, you enhance your ability to engage in more natural and agreeable Korean conversations.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -79,3 +79,6 @@ In Korean culture, sharing personal experiences adds authenticity to conversatio
    - **Answer:** **~던데** expresses personal recollection of a past event, while **~었는데** indicates a completed past action without emphasizing personal observation.
 ---
 By mastering **~던데**, you enhance your ability to share experiences and make contextually rich comments in Korean. Practice by recalling past events and relating them to your current conversations!
+
+---
+© [Hanabira.org](https://hanabira.org)

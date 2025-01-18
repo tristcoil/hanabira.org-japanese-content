@@ -90,3 +90,6 @@ The Korean grammar point **아/어/여 가지다** combines a verb with **가지
 2. False (That is **아/어/여 가다**)
 3. 그는 선물을 사**아** 가지다. → 그는 선물을 사**서** 가지다.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

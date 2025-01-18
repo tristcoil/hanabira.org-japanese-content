@@ -92,3 +92,6 @@ In Korean culture, expressing intentions and conditions politely is important. U
    - **Answer:** **~(으)려면** includes a conditional "if" aspect, whereas **~(으)려고** simply states the purpose "in order to" without the condition.
 ---
 Feel free to practice by creating your own sentences using **~(으)려면** to solidify your understanding!
+
+---
+© [Hanabira.org](https://hanabira.org)

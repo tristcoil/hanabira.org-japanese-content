@@ -108,3 +108,6 @@ Korean language emphasizes respect and hierarchy through speech levels. The endi
    - **Answer**: **False** (They both refer to future actions but have different nuances.)
 ---
 Feel free to practice by creating your own sentences using **~할 것이다** and experiment with different verbs and politeness levels!
+
+---
+© [Hanabira.org](https://hanabira.org)

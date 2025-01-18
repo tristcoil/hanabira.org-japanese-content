@@ -109,3 +109,6 @@ The structure combines a verb stem with **을/ㄹ 줄 알다**:
    - **Answer**: **자동차를 운전할 줄 알아요?**
 ---
 You now have a solid understanding of how to use **~을/ㄹ 줄 알다** to express knowing how to do something in Korean. Keep practicing with different verbs to become more fluent!
+
+---
+© [Hanabira.org](https://hanabira.org)

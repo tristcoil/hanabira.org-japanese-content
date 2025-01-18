@@ -94,3 +94,6 @@ In this lesson, we will explore the Korean grammar point **~더니만** (*deonim
      - "He practiced piano every day, and then became very skilled."
 ---
 By understanding and practicing **~더니만**, you can enhance your ability to express cause and effect based on observations, adding depth to your Korean communication skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

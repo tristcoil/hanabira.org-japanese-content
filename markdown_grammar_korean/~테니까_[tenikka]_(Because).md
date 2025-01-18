@@ -111,3 +111,6 @@ D -- No --> F[Add -을 테니까]
 3. **제가 살 테니까 당신은 안 사셔도 돼요.**
 ---
 By mastering **~테니까**, you'll be able to express reasons based on intentions or assumptions, making your Korean more natural and expressive. Keep practicing with different verbs and contexts!
+
+---
+© [Hanabira.org](https://hanabira.org)

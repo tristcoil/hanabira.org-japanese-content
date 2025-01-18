@@ -102,3 +102,6 @@ It conveys the sense of taking advantage of the situation to accomplish more.
    **Answer:** Yes, it's correct. It means "While reading a book, I listen to music," expressing doing both actions together.
 ---
 By understanding and practicing **~하는 김에**, you can make your Korean more natural and express efficiency in your actions. Keep using it in daily sentences to become more familiar with its usage!
+
+---
+© [Hanabira.org](https://hanabira.org)

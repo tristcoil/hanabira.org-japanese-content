@@ -91,3 +91,6 @@ Let's construct the pattern using the verb **가다** (to go):
 By understanding and practicing **~지 않아도 되다**, you'll be able to express that something is not required, adding nuance and politeness to your Korean conversations.
 ---
 Feel free to create your own sentences using **~지 않아도 되다** to become more familiar with this grammar pattern!
+
+---
+© [Hanabira.org](https://hanabira.org)

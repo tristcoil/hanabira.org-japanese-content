@@ -97,3 +97,6 @@ The structure varies slightly depending on whether you're using a verb, adjectiv
 ---
 By incorporating **~는지 모르겠다** into your Korean conversations, you'll communicate uncertainty naturally and understand others better when they express doubt or lack of knowledge.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

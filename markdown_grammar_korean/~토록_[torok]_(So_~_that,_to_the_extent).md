@@ -96,3 +96,6 @@ In this lesson, we will explore the Korean grammar point **~토록 [torok]**, wh
 3. **너를 보고 싶**토록** 잠을 잘 수 없었어.**
 ---
 By understanding and practicing **~토록**, you can add depth and emphasis to your Korean expressions, especially in formal or written contexts.
+
+---
+© [Hanabira.org](https://hanabira.org)

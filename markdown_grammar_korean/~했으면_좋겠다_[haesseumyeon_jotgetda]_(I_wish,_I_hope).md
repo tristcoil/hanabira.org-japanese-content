@@ -99,3 +99,6 @@ To form **~했으면 좋겠다**, attach **~았/었으면 좋겠다** to the ver
 3. **False**: **~했으면 좋겠다** often expresses a more hypothetical or less certain wish than **~면 좋겠다**.
 ---
 By understanding and practicing **~했으면 좋겠다**, you can more naturally express your hopes and wishes in Korean, adding depth and nuance to your conversations.
+
+---
+© [Hanabira.org](https://hanabira.org)

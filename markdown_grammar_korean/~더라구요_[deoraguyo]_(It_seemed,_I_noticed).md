@@ -144,3 +144,6 @@ The formation of **~더라구요** depends on the type of word it attaches to:
    - **Answer**: 가게가 문을 닫았더라구요.
 ---
 By mastering **~더라구요**, you'll enhance your ability to share personal experiences and observations, making your Korean conversations more natural and engaging.
+
+---
+© [Hanabira.org](https://hanabira.org)

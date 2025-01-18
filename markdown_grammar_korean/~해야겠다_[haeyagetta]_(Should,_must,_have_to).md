@@ -173,3 +173,6 @@ True or False: **~아/어야겠다** can be used to express obligations imposed 
 ---
 By understanding **~해야겠다**, you can effectively express your intentions and decisions in Korean, reflecting both necessity and personal commitment.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

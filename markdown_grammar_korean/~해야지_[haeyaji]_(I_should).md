@@ -96,3 +96,6 @@ In Korean culture, expressing one's intentions and resolutions is common, especi
 3. **친구에게 전화해야지.**
 ---
 By mastering **~해야지**, you can effectively express your intentions and obligations in Korean, adding depth to your communication skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

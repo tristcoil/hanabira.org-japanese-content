@@ -133,3 +133,6 @@ In Korean communication, emphasizing additional information is common to express
    **Answer**: b)
 ---
 By mastering **게다가**, you can enhance your Korean speaking and writing by adding depth and emphasis to your statements. Remember to use it when you want to highlight that the additional information significantly impacts the context of the conversation.
+
+---
+© [Hanabira.org](https://hanabira.org)

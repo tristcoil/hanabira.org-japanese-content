@@ -97,3 +97,6 @@ Verb/Adjective Stem + 아/어서는 + [Result Clause]
    - **Answer**: b) 피곤해서는 잠이 오지 않았어요. (*Although I was tired, I couldn't sleep.*)
 ---
 *Practice using **~아/어서는** in your own sentences to express contrasts and limitations!*
+
+---
+© [Hanabira.org](https://hanabira.org)

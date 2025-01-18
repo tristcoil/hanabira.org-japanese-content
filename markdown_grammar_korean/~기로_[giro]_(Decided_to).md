@@ -82,3 +82,6 @@ In Korean culture, the way decisions are expressed can reflect the level of form
    - **Answer**: **~기로 하다** expresses a decided action, while **~(으)려고 하다** expresses an intention or plan.
 ---
 By mastering **~기로 하다**, you can confidently express your decisions in Korean, enhancing both your spoken and written communication skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

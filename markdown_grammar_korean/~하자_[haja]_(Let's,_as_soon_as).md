@@ -116,3 +116,6 @@ Attach **~자** to the verb stem of the first action verb.
 3. **False**
 ---
 By mastering **~자**, you enhance both your casual conversation skills and your ability to express sequences in Korean. Remember to consider the context and formality to communicate effectively and respectfully.
+
+---
+© [Hanabira.org](https://hanabira.org)

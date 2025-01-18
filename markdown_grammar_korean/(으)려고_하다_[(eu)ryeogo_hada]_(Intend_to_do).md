@@ -98,3 +98,6 @@ While **(으)려고 하다** expresses intention, **~(으)려면** means "if you
 ---
 By understanding and practicing **(으)려고 하다**, you'll be able to express your intentions and plans more naturally in Korean. Keep practicing with different verbs to become more comfortable with this grammar point.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

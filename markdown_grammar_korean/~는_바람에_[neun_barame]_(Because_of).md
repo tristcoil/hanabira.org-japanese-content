@@ -85,3 +85,6 @@ While **~는 바람에** itself is not idiomatic, it often appears in contexts i
    - **Answer**: 버스를 놓치는 바람에 지각했어요.
 ---
 By understanding **~는 바람에**, you can express nuanced reasons for negative outcomes caused by unexpected events, making your Korean more natural and precise.
+
+---
+© [Hanabira.org](https://hanabira.org)

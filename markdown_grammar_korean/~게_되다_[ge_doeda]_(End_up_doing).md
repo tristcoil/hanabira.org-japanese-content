@@ -92,3 +92,6 @@ Using **~게 되다** in formal situations shows respect and politeness, which i
    **Answer**: **그녀는 진실을 알게 될 거예요.**
 ---
 Feel free to revisit the lesson and practice crafting your own sentences using **~게 되다** to solidify your understanding!
+
+---
+© [Hanabira.org](https://hanabira.org)

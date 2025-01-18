@@ -94,3 +94,6 @@ For the verb **가다** (to go):
    - **Answer**: **~지 않을 테니** expresses the speaker's intention not to do something and implies a suggestion, while **~지 마세요** is a direct request for someone not to do something.
 ---
 Feel free to create your own sentences using **~지 않을 테니** to reinforce your understanding!
+
+---
+© [Hanabira.org](https://hanabira.org)

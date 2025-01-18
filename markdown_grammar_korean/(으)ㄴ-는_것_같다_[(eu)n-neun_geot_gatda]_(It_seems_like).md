@@ -111,3 +111,6 @@ In Korean culture, making direct statements can sometimes be considered too stro
 2. **산 것 같다.** (살다 -> 산 것 같다)
 3. **(으)ㄴ/는 것 같다** is used with both action and descriptive verbs in various tenses, while **-나 보다** is used only with action verbs and indicates speculation based on evidence.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -106,3 +106,6 @@ The grammar point can be used across different levels of speech, but the conjuga
 Try creating your own sentences using **아/어/여 버리다** to express a completed action with emotion.
 ---
 *Happy studying! 화이팅!*
+
+---
+© [Hanabira.org](https://hanabira.org)

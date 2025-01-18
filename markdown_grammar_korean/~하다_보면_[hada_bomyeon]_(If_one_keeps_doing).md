@@ -98,3 +98,6 @@ In Korean culture, perseverance and continuous effort are highly valued. The exp
    - *If you keep speaking in Korean, you'll gain confidence.*
 
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

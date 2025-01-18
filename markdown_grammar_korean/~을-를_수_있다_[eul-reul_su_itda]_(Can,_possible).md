@@ -118,3 +118,6 @@ In Korean culture, modesty is valued. People might understate their abilities or
    - **Answer**: Yes, it is correct. (*He can swim.*)
 ---
 By understanding and practicing **~을/를 수 있다**, you can express your abilities and possibilities confidently in Korean!
+
+---
+© [Hanabira.org](https://hanabira.org)

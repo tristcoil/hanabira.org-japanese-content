@@ -95,3 +95,6 @@ Using **~려는데** is a polite way to introduce your intentions while leaving 
    - **Answer**: To express the speaker's intention to do something and provide background information for the following statement.
 ---
 Feel free to practice by creating your own sentences using **~려는데**!
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -75,3 +75,6 @@ The structure combines a verb or adjective stem with **~해서야**, connecting 
 1. It expresses that only when a certain action is done, the following result can occur.
 2. Attach **~해서야** to the verb/adjective stem of the necessary action, followed by the resulting clause.
 3. *(Example Answer)* 그는 열심히 연습해서야 경기에 나갈 수 있었다. ("Only after practicing hard could he participate in the game.")
+
+---
+© [Hanabira.org](https://hanabira.org)

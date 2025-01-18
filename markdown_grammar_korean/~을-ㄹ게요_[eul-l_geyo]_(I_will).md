@@ -103,3 +103,6 @@ While both forms refer to future actions, they differ in nuance and usage.
    - **Answer**: b) 볼게요 (implying "I will see you tomorrow" with consideration).
 ---
 By understanding and practicing **~을/ㄹ게요**, you can effectively express your intentions and promises in a way that is considerate of your listener, aligning with Korean cultural communication styles.
+
+---
+© [Hanabira.org](https://hanabira.org)

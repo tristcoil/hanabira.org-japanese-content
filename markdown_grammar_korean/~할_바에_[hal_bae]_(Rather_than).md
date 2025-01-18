@@ -104,3 +104,6 @@ The structure of **~할 바에** is as follows:
    - **Answer**: 비싼 옷을 살 바에 돈을 모을 거예요.
 ---
 By understanding and practicing **~할 바에**, you can more naturally express preferences and choices in Korean. Remember to consider the context and the nuances of politeness when using this grammar point.
+
+---
+© [Hanabira.org](https://hanabira.org)

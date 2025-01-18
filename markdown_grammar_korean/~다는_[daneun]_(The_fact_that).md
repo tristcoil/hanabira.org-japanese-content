@@ -128,3 +128,6 @@ Attach **~다는** directly to the **stem** of action verbs and descriptive verb
 ---
 By mastering **~다는**, you enhance your ability to express complex thoughts and discuss facts or statements in Korean. Practice by creating your own sentences to become more comfortable with this grammar point.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

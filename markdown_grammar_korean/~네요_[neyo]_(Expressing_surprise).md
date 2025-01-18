@@ -132,3 +132,6 @@ Some common expressions using **~네요**:
 ---
 By understanding and practicing the use of **~네요**, you can enhance your Korean language skills and express your reactions more naturally. Remember to pay attention to the context and use this expression to share your immediate impressions!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

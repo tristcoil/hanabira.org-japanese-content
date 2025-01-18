@@ -97,3 +97,6 @@ In Korean culture, providing reasons for actions is common, reflecting a collect
    **Correct Sentence**: 머리가 아파요. **그러니까** 약을 드세요. ("I have a headache. **So** please take some medicine.")
 # Thank you for studying **그래서** with us!
 Feel free to create your own sentences using **그래서** to deepen your understanding.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -105,3 +105,6 @@ The Korean grammatical structure **(으)면서** is used to express that two act
    - **Answer:** 그들은 커피를 마시면서 공부해요.
 ---
 Keep practicing using **(으)면서** in your daily conversations to become more fluent in expressing simultaneous actions!
+
+---
+© [Hanabira.org](https://hanabira.org)

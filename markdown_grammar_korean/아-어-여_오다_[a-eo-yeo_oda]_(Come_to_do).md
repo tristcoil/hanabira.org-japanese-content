@@ -128,3 +128,6 @@ The structure combines the verb stem with **-아/어/여 오다**.
 3. **읽어 왔다**
 ---
 By understanding and practicing **-아/어/여 오다**, you can express ongoing actions and experiences more naturally in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

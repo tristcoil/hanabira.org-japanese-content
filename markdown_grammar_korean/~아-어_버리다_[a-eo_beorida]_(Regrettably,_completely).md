@@ -107,3 +107,6 @@ In Korean culture, subtle expression of emotions is common. The use of **~아/�
    **Answer:** 써버렸어요. (The correct form is **써 버렸어요**.)
 ---
 Feel free to revisit this lesson to reinforce your understanding of **~아/어 버리다** and practice using it in various contexts!
+
+---
+© [Hanabira.org](https://hanabira.org)

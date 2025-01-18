@@ -123,3 +123,6 @@ Example:
    **Answer:** Negative contexts.
 ---
 **Continue practicing by forming your own sentences using **~커녕** to express strong negative contrasts in Korean!**
+
+---
+© [Hanabira.org](https://hanabira.org)

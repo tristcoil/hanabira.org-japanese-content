@@ -92,3 +92,6 @@ The verb **모르다** means "to not know." When combined, the expression litera
 3. **내일 눈이 올지도 몰라요.**
 ---
 By mastering **~을/ㄹ지도 모르다**, you can express uncertainty and possibilities more naturally in Korean. Practice by making sentences about everyday situations that might happen!
+
+---
+© [Hanabira.org](https://hanabira.org)

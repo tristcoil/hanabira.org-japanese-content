@@ -122,3 +122,6 @@ C & D --> E[+ 가다/오다]
    - **Answer**: **영어를 가르치러 한국에 왔어요.**
 ---
 By understanding and practicing **(으)러 가다/오다**, you'll be able to describe your actions' purposes more naturally in Korean conversations.
+
+---
+© [Hanabira.org](https://hanabira.org)

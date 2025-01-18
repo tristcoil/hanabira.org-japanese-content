@@ -112,3 +112,6 @@ While there are no specific idioms that include **~는데다가**, it's commonly
    - **Answer**: False (Tense is expressed in the final verb)
 ---
 By understanding and practicing **~는데다가**, you can effectively convey compounded situations and enhance the cohesiveness of your sentences in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

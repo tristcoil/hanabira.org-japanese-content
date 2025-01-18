@@ -110,3 +110,6 @@ In Korean culture, expressing obligations is often influenced by social relation
 ---
 Keep practicing by creating your own sentences using **~어/아야 하다** to express your daily obligations!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

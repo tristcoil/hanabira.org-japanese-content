@@ -103,3 +103,6 @@ Both **~해서** and **~했기 때문에** can mean "because," but they differ i
    **Answer:** 어제 눈이 내렸기 때문에 길이 미끄러워요.
 ---
 By mastering **~했기 때문에**, you can effectively express past reasons and causes in Korean with the appropriate level of formality. Keep practicing with various verbs and contexts to enhance your fluency.
+
+---
+© [Hanabira.org](https://hanabira.org)

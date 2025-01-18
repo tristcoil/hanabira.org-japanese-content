@@ -92,3 +92,6 @@ The particle **~(으)로써** itself does not change with levels of politeness; 
    _(He achieved his dream **by** passion.)_
 3. 그녀는 글쓰기**로써** 감정을 표현했다.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

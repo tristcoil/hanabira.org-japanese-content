@@ -99,3 +99,6 @@ While **도** means "even," other particles like **까지** and **조차** can a
    - **Answer:** 숙제도
 ---
 By mastering the use of **도** as "even," you can add depth to your Korean expressions, making your speech more natural and nuanced. Practice using **도** in various sentences to become comfortable with its placement and meaning.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -143,3 +143,6 @@ While **한테서** and **에서** are common, you might also encounter **에게
    **Answer:** b) 에서 (회사**에서** 중요한 소식을 들었습니다.)
 ---
 By understanding the nuances of **한테서** and **에서**, and their proper usage, you'll enhance your ability to communicate sources and origins in Korean effectively and respectfully.
+
+---
+© [Hanabira.org](https://hanabira.org)

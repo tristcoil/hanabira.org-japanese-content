@@ -104,3 +104,6 @@ The basic structure for attaching **~으니** or **~니까** to verbs and adject
 3. **What's the difference between ~어서 and ~으니까?**
    - **Answer**: **~아서/어서** cannot be used in imperative or propositive sentences, whereas **~으니까** can be used. Also, **~아서/어서** expresses an objective reason or natural sequence, while **~으니까** may convey a subjective reason.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

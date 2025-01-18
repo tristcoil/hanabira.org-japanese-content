@@ -136,3 +136,6 @@ After a noun ending with a consonant (**책**), include **이** to form **책이
    ("The thing called friendship is precious.")
 ---
 By mastering **~이라는 것**, you'll be able to effectively define and explain concepts in Korean, enhancing your communication skills and deepening your understanding of the language.
+
+---
+© [Hanabira.org](https://hanabira.org)

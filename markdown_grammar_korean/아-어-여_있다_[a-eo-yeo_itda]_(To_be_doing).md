@@ -115,3 +115,6 @@ Understanding how to express ongoing actions or states is essential in mastering
 
 ---
 By mastering **아/어/여 있다**, you can describe states and ongoing actions more naturally in Korean. Practice forming sentences and pay attention to verbs that commonly use this structure to enhance your fluency.
+
+---
+© [Hanabira.org](https://hanabira.org)

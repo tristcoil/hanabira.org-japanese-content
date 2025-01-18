@@ -110,3 +110,6 @@ In Korean culture, showing modesty and humility is essential. Using approximatio
    - **Answer**: **오후**
 ---
 Feel free to revisit this lesson and practice using **~쯤** in different sentences to become more comfortable with expressing approximations in Korean!
+
+---
+© [Hanabira.org](https://hanabira.org)

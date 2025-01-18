@@ -88,3 +88,6 @@ The suffix **~던지** is attached to verbs to express uncertainty or to convey 
 3. **~던지** expresses uncertainty about past events ("whether"), while **~든지** indicates options or alternatives ("any", "either... or...").
 ---
 By mastering **~던지**, you can more effectively discuss past uncertainties and add nuance to your Korean conversations. Keep practicing by creating your own sentences using this grammar point!
+
+---
+© [Hanabira.org](https://hanabira.org)

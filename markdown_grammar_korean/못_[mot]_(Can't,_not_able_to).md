@@ -151,3 +151,6 @@ Being mindful of the appropriate level of politeness is crucial in Korean social
 3. **False**
    *못 is not used with adjectives; use 안 instead.*
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

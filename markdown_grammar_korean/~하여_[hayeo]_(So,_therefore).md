@@ -127,3 +127,6 @@ However, in modern Korean, these forms are often contracted (**기다려**, **�
    ✅ **Answer:** Please review this material and let me know your opinions.
 ---
 By understanding and appropriately using **~하여**, you can enhance your formal Korean writing and comprehension skills, making your communication more effective in official and academic contexts.
+
+---
+© [Hanabira.org](https://hanabira.org)

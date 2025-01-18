@@ -88,3 +88,6 @@ Adjusting the verb endings can change the politeness level:
 2. Correct Sentence: **저는 동생과 같이 산책했어요.**
 3. **같이 공부할까요?**
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

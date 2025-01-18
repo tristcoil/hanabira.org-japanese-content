@@ -118,3 +118,6 @@ In this lesson, we'll explore the Korean grammar point **`후에야`** which tra
    - **Answer:** `후에` means "after," simply indicating sequence, whereas `후에야` means "only after," emphasizing that the main action occurs exclusively after the prior action is completed.
 ---
 By understanding and practicing **`후에야`**, you can express nuanced sequences of actions and emphasize the necessity of certain conditions in Korean. Keep practicing with different verbs and contexts to master this grammar point!
+
+---
+© [Hanabira.org](https://hanabira.org)

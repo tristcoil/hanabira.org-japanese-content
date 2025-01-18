@@ -105,3 +105,6 @@ While **~하여 그런지** itself is a grammatical structure, it appears in som
    - **Answer:** *False*
 ---
 By understanding and practicing **~하여 그런지** and its counterparts, you'll enhance your ability to express nuanced reasons and hypotheses in Korean, both in formal and informal contexts.
+
+---
+© [Hanabira.org](https://hanabira.org)

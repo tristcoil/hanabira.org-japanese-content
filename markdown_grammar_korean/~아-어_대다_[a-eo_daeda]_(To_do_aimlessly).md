@@ -107,3 +107,6 @@ In Korean society, moderation and consideration for others are valued traits. Us
 2. It adds a sense of an action being done excessively, aimlessly, or recklessly, often causing annoyance.
 3. **그가 시끄럽게 떠들어 대서 신경이 쓰여요.**
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

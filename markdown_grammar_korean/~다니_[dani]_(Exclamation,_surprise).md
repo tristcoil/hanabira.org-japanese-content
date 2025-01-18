@@ -102,3 +102,6 @@ Korean language often uses specific grammar structures to convey emotions subtly
 ---
 By incorporating **~다니** into your speech, you'll communicate your reactions more naturally and connect better with Korean speakers through shared expressions of surprise or admiration.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

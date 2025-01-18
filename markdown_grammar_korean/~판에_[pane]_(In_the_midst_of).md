@@ -94,3 +94,6 @@ In Korean culture, punctuality and respecting others' time are highly valued. Us
 By mastering **~판에**, you can effectively convey situations where timing is crucial, adding depth to your Korean language skills.
 --- 
 *Happy studying!*
+
+---
+© [Hanabira.org](https://hanabira.org)

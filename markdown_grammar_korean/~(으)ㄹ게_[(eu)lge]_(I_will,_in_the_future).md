@@ -116,3 +116,6 @@ While both **~(으)ㄹ게** and **~(으)ㄹ 거예요** express future actions, 
 ---
 By mastering **~(으)ㄹ게**, you can express your intentions and promises thoughtfully, aligning with Korean cultural norms of politeness and consideration.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

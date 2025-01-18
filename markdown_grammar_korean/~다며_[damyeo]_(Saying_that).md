@@ -133,3 +133,6 @@ The conjugation of **~다며** depends on the type of word it attaches to:
    **Answer**: **~다며** is used for hearsay or confirming information heard, while **~다면** is a conditional meaning "if."
 ---
 By incorporating **~다며** into your Korean conversations, you'll be able to naturally confirm information and express curiosity, making your interactions more engaging and authentic.
+
+---
+© [Hanabira.org](https://hanabira.org)

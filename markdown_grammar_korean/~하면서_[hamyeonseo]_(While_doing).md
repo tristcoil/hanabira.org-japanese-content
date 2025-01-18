@@ -118,3 +118,6 @@ Translate the following sentence into Korean using **~하면서**:
   - **Answer**: *저는 조깅하면서 팟캐스트를 들어요.*
 ---
 By understanding and practicing **~하면서**, you can accurately describe actions happening at the same time and enhance the flow of your Korean sentences.
+
+---
+© [Hanabira.org](https://hanabira.org)

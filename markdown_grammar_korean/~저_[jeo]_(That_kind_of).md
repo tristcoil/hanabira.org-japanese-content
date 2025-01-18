@@ -153,3 +153,6 @@ c) 어제 만난 **그** 친구 기억나요?
 *[Geuneun wae jeoreoke chumchugo isseoyo?]*
 ---
 Feel free to revisit this lesson to reinforce your understanding of **저** and its related forms. Practice using them in sentences to become more comfortable with their nuances.
+
+---
+© [Hanabira.org](https://hanabira.org)

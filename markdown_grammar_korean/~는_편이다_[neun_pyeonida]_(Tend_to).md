@@ -99,3 +99,6 @@ The formation of **~는 편이다** varies depending on the type of verb or adje
    - **Answer:** False
 ---
 Feel free to create your own sentences using **~는 편이다** to describe your habits or tendencies!
+
+---
+© [Hanabira.org](https://hanabira.org)

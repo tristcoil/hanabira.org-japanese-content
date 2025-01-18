@@ -90,3 +90,6 @@ The use of **~기 위해서** is neutral in politeness but often appears in form
 2. **~기 위해서** is more formal and can be used with nouns and verbs, while **~(으)려고** is more casual and used only with action verbs.
 3. **Corrected Sentence**: **한국어 배우기 위해서 한국에 갔어요.**
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

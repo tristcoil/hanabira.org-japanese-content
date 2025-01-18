@@ -76,3 +76,6 @@ In Korean, expressing contrast or concession respectfully is important, especial
    - **Answer:** **~하기는** emphasizes and acknowledges the verb action before contrasting, while **~지만** is a direct conjunction meaning "but."
 ---
 Feel free to revisit the examples and notes to reinforce your understanding of **~하기는**. Practice by creating your own sentences using this grammar point!
+
+---
+© [Hanabira.org](https://hanabira.org)

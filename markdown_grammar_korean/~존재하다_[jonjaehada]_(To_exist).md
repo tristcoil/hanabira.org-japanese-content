@@ -104,3 +104,6 @@ While both **존재하다** and **있다** mean "to exist," they are used differ
 3. 존재한다
 ---
 By understanding the nuances of **존재하다**, you can enhance your Korean language skills, especially in formal and academic contexts.
+
+---
+© [Hanabira.org](https://hanabira.org)

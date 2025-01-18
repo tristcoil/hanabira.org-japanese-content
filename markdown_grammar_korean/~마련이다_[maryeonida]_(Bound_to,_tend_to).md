@@ -104,3 +104,6 @@ In Korean culture, acknowledging the inevitability of certain situations reflect
 2. **Incorrect.** Correct sentence: **행복은 찾아오기 마련이다.**
 3. **비 온 뒤에 땅이 굳기 마련이다.**
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

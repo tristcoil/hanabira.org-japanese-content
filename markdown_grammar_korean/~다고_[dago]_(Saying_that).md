@@ -115,3 +115,6 @@ In Korean culture, indirect speech is a polite way to convey messages, especiall
 3. "학생**이라고** 했어요." (They said that they are a student.)
 ---
 By understanding and practicing **~다고**, you'll be able to convey indirect statements effectively in Korean, enhancing both your speaking and comprehension skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -106,3 +106,6 @@ In Korean, expressing strong contrast or making a concession often involves spec
 2. a) 늦을지언정 서두르지 마세요.
 3. b) No
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

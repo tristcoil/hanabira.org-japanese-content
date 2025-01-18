@@ -102,3 +102,6 @@ While **~테니라고** itself isn't part of a fixed idiom, understanding it enh
 3. **그녀는 눈이 올 테니라고 집에 있었어요.**
 ---
 By incorporating **~테니라고** into your Korean language usage, you'll be able to express future-based reasons with greater nuance and clarity. Practice by thinking about your plans and the assumptions behind them, crafting sentences that reflect your expectations.
+
+---
+© [Hanabira.org](https://hanabira.org)

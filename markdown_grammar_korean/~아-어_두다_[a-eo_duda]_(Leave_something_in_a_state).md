@@ -95,3 +95,6 @@ The structure itself doesn't change with politeness levels, but the verb forms s
 2. 닫아 둬요.
 ---
 By understanding and practicing **~아/어 두다**, you can express actions done for future benefit, adding depth and practicality to your Korean communication.
+
+---
+© [Hanabira.org](https://hanabira.org)

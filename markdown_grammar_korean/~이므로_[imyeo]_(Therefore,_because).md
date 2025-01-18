@@ -109,3 +109,6 @@ While **~이므로** is not typically used in idiomatic expressions, its usage r
 ---
 By understanding and practicing **~이므로**, you'll be able to express reasons formally in Korean, enhancing both your writing and speaking skills in formal contexts.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

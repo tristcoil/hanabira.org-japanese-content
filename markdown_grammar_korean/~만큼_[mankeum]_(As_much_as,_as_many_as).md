@@ -109,3 +109,6 @@ The grammar point **~만큼** `[mankeum]` is a versatile particle in Korean used
    **Answer:** **~만큼** indicates equality in degree or quantity ("as much as"), while **~처럼** indicates similarity ("like" or "as").
 ---
 **Practice creating your own sentences using ~만큼 to solidify your understanding!**
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -80,3 +80,6 @@ These expressions soften statements, making them sound less absolute and more mo
 3. Using **~하는 편이다** with absolute facts instead of tendencies.
 ---
 Feel free to practice by making your own sentences using **~하는 편이다**!
+
+---
+© [Hanabira.org](https://hanabira.org)

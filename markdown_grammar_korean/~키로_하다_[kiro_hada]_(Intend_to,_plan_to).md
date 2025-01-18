@@ -135,3 +135,6 @@ Both expressions indicate an intention to do something, but there are nuances:
    - *Explanation*: The verb **하다** should be correctly conjugated to **했어요**.
 ---
 By understanding and practicing **~기로 하다**, you can confidently express your decisions and plans in Korean, enhancing both your spoken and written communication skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

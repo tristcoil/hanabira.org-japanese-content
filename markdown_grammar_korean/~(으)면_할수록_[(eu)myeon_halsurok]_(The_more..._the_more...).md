@@ -108,3 +108,6 @@ The repetitive nature of **~(으)면 할수록** reflects the Korean language's 
 - **Correct:** 재미있으면 재미있을수록 시간이 빨리 가요.
 ---
 By understanding and practicing **~(으)면 할수록**, you can add depth to your Korean expressions and effectively communicate increasing relationships between actions and states.
+
+---
+© [Hanabira.org](https://hanabira.org)

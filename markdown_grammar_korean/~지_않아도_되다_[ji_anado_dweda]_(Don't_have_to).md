@@ -84,3 +84,6 @@ Understanding and using the appropriate level of politeness is crucial in Korean
 3. **True or False:** **~지 않아도 되다** and **~지 말다** have the same meaning.
    - **Answer:** **False.** **~지 않아도 되다** means "don't have to [do]," whereas **~지 말다** means "do not [do]" (imperative form).
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

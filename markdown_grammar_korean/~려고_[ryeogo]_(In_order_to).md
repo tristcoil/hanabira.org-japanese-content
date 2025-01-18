@@ -96,3 +96,6 @@ To form sentences using **~려고**, you attach it to the verb stem of the actio
 3. The sentence is redundant. Correct version: **받으려고 신청했어요.** (*I applied in order to receive it.*)
 ---
 Feel free to practice using **~려고** in your own sentences to become more comfortable with expressing intentions in Korean!
+
+---
+© [Hanabira.org](https://hanabira.org)

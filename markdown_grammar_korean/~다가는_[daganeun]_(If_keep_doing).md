@@ -133,3 +133,6 @@ To form **~다가는**, follow these steps:
 3. **False**
    - **~다가는** is used with verbs, not adjectives.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

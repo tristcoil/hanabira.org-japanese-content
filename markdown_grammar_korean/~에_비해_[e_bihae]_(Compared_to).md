@@ -110,3 +110,6 @@ So, **명사 + 에 비해** means "compared to [Noun]".
 ---
 Feel free to revisit the examples and explanations to strengthen your understanding of **~에 비해**. Practice by creating your own sentences comparing different nouns or situations!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

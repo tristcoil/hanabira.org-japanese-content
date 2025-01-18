@@ -83,3 +83,6 @@ Using **~기를** in expressions conveys a polite and considerate tone. It's oft
 ---
 By understanding and practicing **~기를**, you'll be able to express your hopes and wishes more naturally in Korean. Keep practicing, and soon it'll become second nature!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

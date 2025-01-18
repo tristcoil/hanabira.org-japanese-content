@@ -106,3 +106,6 @@ Processing keyword: 조금 [jogeum] (A little)
 - **Practice Sentences:**
   - Create your own sentences using **조금** to talk about your daily activities.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

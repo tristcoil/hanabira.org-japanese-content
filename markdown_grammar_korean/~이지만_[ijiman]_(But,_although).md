@@ -94,3 +94,6 @@ The attachment of **~이지만** depends on whether the noun ends with a consona
    - **Answer**: 그녀는 가수지만 노래를 잘 못 해요.
 ---
 By understanding and practicing the use of **~이지만**, you can express contrasts involving nouns effectively in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

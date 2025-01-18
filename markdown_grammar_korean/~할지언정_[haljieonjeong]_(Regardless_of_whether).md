@@ -132,3 +132,6 @@ In mastering Korean, it's essential to understand various grammatical structures
    **Answer:** _나는 피곤하지언정 공부를 해야 합니다._ (Even if I am tired, I must study.)
 ---
 By understanding **~할지언정**, you can enhance your ability to express complex contrasts and concessions in Korean, especially in formal contexts.
+
+---
+© [Hanabira.org](https://hanabira.org)

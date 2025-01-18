@@ -109,3 +109,6 @@ But typically, we attach **~라는 것이다** directly to the clause we want to
 1. Attach **~이라는 것이다** to the noun to define it.
 2. **~라는 것이다** is often used with verbs and adjectives for definitions or explanations, while **~다는 것이다** is used more generally with statements.
 3. "What he is saying is that we need to be cautious."
+
+---
+© [Hanabira.org](https://hanabira.org)

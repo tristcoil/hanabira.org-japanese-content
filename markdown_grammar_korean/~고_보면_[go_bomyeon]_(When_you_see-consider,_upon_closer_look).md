@@ -105,3 +105,6 @@ So, **~고 보면** literally translates to "**and if you see**" or "**and upon 
    - **Answer**: *그 영화를 보고 보면 재미있어요.*
 ---
 Feel free to practice by making your own sentences using **~고 보면**!
+
+---
+© [Hanabira.org](https://hanabira.org)

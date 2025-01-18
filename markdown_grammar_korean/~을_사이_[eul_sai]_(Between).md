@@ -129,3 +129,6 @@ The basic structure is:
 
 ---
 By understanding and practicing **~을 사이**, you'll enhance your ability to describe relationships and positions in Korean naturally.
+
+---
+© [Hanabira.org](https://hanabira.org)

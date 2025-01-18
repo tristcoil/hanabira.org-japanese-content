@@ -94,3 +94,6 @@ Choosing the appropriate form shows respect and understanding of social norms.
    - **Answer:** ~했다
 ---
 By understanding and practicing the use of **~했다**, you'll be able to discuss past events accurately and appropriately in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

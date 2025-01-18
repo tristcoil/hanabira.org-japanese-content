@@ -112,3 +112,6 @@ Processing keyword: ~함께 [hamkke] (Together with)
 1. **b) 과**
 2. **True**
 3. **동생과 함께 공원에 산책 갔어요.**
+
+---
+© [Hanabira.org](https://hanabira.org)

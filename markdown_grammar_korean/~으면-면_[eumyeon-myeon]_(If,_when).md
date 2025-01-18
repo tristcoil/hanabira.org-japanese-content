@@ -119,3 +119,6 @@ The attachment of **~으면** or **~면** depends on whether the verb or adjecti
      - **Answer:** 비싸면 사지 않을 거예요.
 ---
 By mastering **~으면/면**, you enhance your ability to express conditions and hypotheses, making your Korean communication more precise and natural.
+
+---
+© [Hanabira.org](https://hanabira.org)

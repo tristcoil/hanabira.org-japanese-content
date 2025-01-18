@@ -106,3 +106,6 @@ The use of **~다가** itself does not inherently carry a level of politeness. P
 3. **What's the difference between ~다가 and ~면서?**
    - **Answer**: **~다가** implies an interruption; **~면서** indicates simultaneous actions.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

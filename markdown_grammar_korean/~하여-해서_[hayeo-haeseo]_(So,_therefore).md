@@ -128,3 +128,6 @@ In Korean, expressing cause and effect or reasoning between actions and events i
 ---
 # End of Lesson
 Feel free to revisit this lesson to reinforce your understanding of **~하여/해서**. Practice by forming your own sentences to become more comfortable with these connectors.
+
+---
+© [Hanabira.org](https://hanabira.org)

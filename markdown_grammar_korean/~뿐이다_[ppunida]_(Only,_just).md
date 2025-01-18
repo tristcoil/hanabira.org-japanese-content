@@ -135,3 +135,6 @@ The structure of **~뿐이다** varies slightly depending on whether it is attac
 2. **False**
 3. **-ㄹ 뿐이다** (기다릴 뿐이다)
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

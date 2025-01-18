@@ -90,3 +90,6 @@ The pattern **~아/어지다** is used to express that the subject **becomes** o
    - **Answer**: False
 ---
 By mastering **~아/어지다**, you can effectively describe changes and transformations, adding depth to your Korean communication skills. Keep practicing by observing changes around you and describing them using this grammar pattern!
+
+---
+© [Hanabira.org](https://hanabira.org)

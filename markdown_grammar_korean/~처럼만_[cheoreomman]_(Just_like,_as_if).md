@@ -107,3 +107,6 @@ The addition of **만** narrows the focus, stressing that the action is limited 
    - *Answer*: **그는 치타처럼만 달린다.**
 ---
 Congratulations! You've learned how to use **~처럼만** to express precise comparisons in Korean. Keep practicing by creating your own sentences, and soon you'll use this grammar point naturally.
+
+---
+© [Hanabira.org](https://hanabira.org)

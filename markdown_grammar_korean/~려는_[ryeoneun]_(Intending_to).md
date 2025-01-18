@@ -113,3 +113,6 @@ Korean language has different levels of politeness. Using **~려는** is neutral
    - **Answer:** 저는 친구를 만나려고 해요.
 ---
 Congratulations! You've learned how to use **~려는 (~ryeoneun)** to express intentions in Korean. Keep practicing by creating your own sentences using this grammar point.
+
+---
+© [Hanabira.org](https://hanabira.org)

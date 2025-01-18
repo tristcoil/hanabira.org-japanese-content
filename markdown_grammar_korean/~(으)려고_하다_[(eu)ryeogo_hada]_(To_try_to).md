@@ -131,3 +131,6 @@ These expressions show how **~(으)려고 하다** can be used to predict immine
    - *I intend to study abroad.*
 ---
 By mastering **~(으)려고 하다**, you can effectively express your intentions and discuss future plans, making your Korean conversations more dynamic and expressive. Keep practicing by expressing your daily plans and intentions in Korean!
+
+---
+© [Hanabira.org](https://hanabira.org)

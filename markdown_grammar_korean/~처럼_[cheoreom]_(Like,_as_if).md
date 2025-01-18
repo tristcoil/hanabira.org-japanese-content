@@ -87,3 +87,6 @@ In Korean culture, using similes with **~처럼** adds depth to communication, a
 
 ---
 By incorporating **~처럼** into your sentences, you can make your Korean expressions more vivid and descriptive. Practice by creating your own comparisons using nouns that are familiar to you.
+
+---
+© [Hanabira.org](https://hanabira.org)

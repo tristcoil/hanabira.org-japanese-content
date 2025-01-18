@@ -118,3 +118,6 @@ The Korean grammar point **~하다가** is used to indicate that an action was i
    - b) Implies you listened to music while exercising.
 ---
 Feel free to revisit the examples and explanations to strengthen your understanding of **~하다가**. Practice creating your own sentences to become more comfortable with its usage!
+
+---
+© [Hanabira.org](https://hanabira.org)

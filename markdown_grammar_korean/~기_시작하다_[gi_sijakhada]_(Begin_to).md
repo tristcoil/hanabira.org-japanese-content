@@ -100,3 +100,6 @@ In Korean, expressing the beginning of an action or state is essential for daily
 3. Corrected: **노래 부르기 시작했어요.** (*Norae bureugi sijakaesseoyo.*)
 ---
 Feel free to practice by making your own sentences using **~기 시작하다**!
+
+---
+© [Hanabira.org](https://hanabira.org)

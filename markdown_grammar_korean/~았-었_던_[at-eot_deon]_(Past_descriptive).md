@@ -90,3 +90,6 @@ To form **~았/었 던**, you attach **-았던** or **-었던** to the verb stem
    - **Answer**: **~았/었 던** indicates past actions/states with relevance to the present or a contrast, while **~았/었 었다** emphasizes that an action was completed in the past with no direct relevance to the present.
 ---
 Feel free to revisit this lesson and practice creating your own sentences using **~았/었 던** to describe past experiences that contrast with your present situation!
+
+---
+© [Hanabira.org](https://hanabira.org)

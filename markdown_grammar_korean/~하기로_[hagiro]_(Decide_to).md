@@ -107,3 +107,6 @@ In collectivist Korean culture, decisions are often made in groups. Using **~기
    - **Answer:** 가기로 했어요.
 ---
 **Congratulations!** You have learned how to use **~기로 하다** to express decisions in Korean. Practice by making sentences about decisions you've made recently.
+
+---
+© [Hanabira.org](https://hanabira.org)

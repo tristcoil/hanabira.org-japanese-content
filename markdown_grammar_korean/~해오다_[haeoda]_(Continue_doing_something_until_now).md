@@ -116,3 +116,6 @@ To form this grammar pattern:
    **Answer:** *우리는 환경을 보호해오고 있습니다.*
 ---
 By understanding and practicing **~해오다**, you can accurately express actions that have been ongoing from the past until now, adding depth to your Korean communication.
+
+---
+© [Hanabira.org](https://hanabira.org)

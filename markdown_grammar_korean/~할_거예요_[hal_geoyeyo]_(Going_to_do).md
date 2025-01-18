@@ -88,3 +88,6 @@ The structure combines the verb stem with **-ㄹ/을 거예요**:
    - **Answer**: **~할 거예요** states a future plan neutrally, while **~할게요** expresses a commitment or promise considering the listener.
 ---
 By mastering **~할 거예요**, you can confidently talk about your future plans in Korean!
+
+---
+© [Hanabira.org](https://hanabira.org)

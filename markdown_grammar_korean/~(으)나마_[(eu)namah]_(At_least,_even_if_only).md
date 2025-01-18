@@ -102,3 +102,6 @@ Both **~(으)나마** and **~(이)라도** can imply concession or minimal accep
    - **A:** **~(으)나마** acknowledges minimal value with modesty, while **~(이)라도** offers an alternative or minimal option.
 ---
 By understanding and practicing **~(으)나마**, you can express humility and acknowledge minimal contributions effectively in Korean, aligning your speech with cultural norms of modesty.
+
+---
+© [Hanabira.org](https://hanabira.org)

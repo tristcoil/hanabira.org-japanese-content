@@ -108,3 +108,6 @@ The particle **~지만** is attached to the stem of a verb or adjective to mean 
 ---
 By practicing and applying **~지만** in your sentences, you'll become more proficient in expressing contrasting ideas in Korean. Keep experimenting with different verbs and adjectives to enhance your fluency!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

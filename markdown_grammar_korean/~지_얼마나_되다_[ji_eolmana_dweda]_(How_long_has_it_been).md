@@ -96,3 +96,6 @@ Understanding and using appropriate levels of politeness is crucial in Korean cu
 3. **일을 시작한 지 얼마나 되었어요?**
 ---
 By mastering **~지 얼마나 되다**, you can effectively communicate and inquire about time durations in Korean, enhancing both your conversational skills and cultural understanding.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -85,3 +85,6 @@ Example:
 
 ---
 By understanding expressions like **~카이다**, you deepen your appreciation of Korean language diversity and enhance your communicative skills in various contexts.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -89,3 +89,6 @@ The expression **~게 해서는 안 되다** is used to:
 - **Cultural Insights**: Research more about Korean workplace etiquette and parental roles.
 ---
 By understanding and practicing this grammar point, you'll be better equipped to express prohibitions involving others in Korean, aligning with social norms and respectful communication.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -105,3 +105,6 @@ In Korean culture, modesty and humility are valued traits. Using **~편이다** 
 ---
 By mastering **~편이다**, you can express nuances in your speech that make your Korean sound more natural and culturally appropriate.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

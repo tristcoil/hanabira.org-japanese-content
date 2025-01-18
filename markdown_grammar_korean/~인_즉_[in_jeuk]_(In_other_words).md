@@ -81,3 +81,6 @@ The structure of **~인즉** is:
    - **Answer**: **인즉** should not be attached to an adjective. Correct version: 날씨**가** 추우니, 옷을 따뜻하게 입으세요.
 ---
 By mastering **~인즉**, you can add clarity and emphasis to your Korean expressions, making your communication more effective and nuanced.
+
+---
+© [Hanabira.org](https://hanabira.org)

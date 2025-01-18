@@ -122,3 +122,6 @@ To construct sentences using **~하다가**, follow these steps:
    **Correction:** *춤을 추다가 넘어졌어요.*
 ---
 By understanding and practicing **~하다가**, you can more vividly describe events and interruptions in your daily life, making your Korean communication more natural and effective.
+
+---
+© [Hanabira.org](https://hanabira.org)

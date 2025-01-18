@@ -109,3 +109,6 @@ Attach **~텐데** directly to the verb stem.
    - **Explanation:** This sentence correctly uses **~올 텐데** to express an expectation that it might rain.
 ---
 By incorporating **~텐데** into your Korean conversations, you'll be able to express expectations and make polite suggestions more naturally, aligning with Korean communication styles.
+
+---
+© [Hanabira.org](https://hanabira.org)

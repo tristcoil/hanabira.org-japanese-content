@@ -97,3 +97,6 @@ Verb Stem + ~든지 말든지
    - **Answer**: No, it's typically used with verbs.
 ---
 Feel free to create your own sentences using **~하든지 말든지** to enhance your understanding!
+
+---
+© [Hanabira.org](https://hanabira.org)

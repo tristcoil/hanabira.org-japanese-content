@@ -82,3 +82,6 @@ To form **~했을 텐데**, attach **~았/었을 텐데** to the verb stem.
    - **Answer**: Using the wrong tense or incorrect verb stem conjugation.
 ---
 By understanding and practicing **~했을 텐데**, you can express nuanced thoughts about past events and enhance your Korean communication skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

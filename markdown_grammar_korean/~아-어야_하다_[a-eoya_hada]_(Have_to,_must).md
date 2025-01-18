@@ -94,3 +94,6 @@ Both **~아/어야 하다** and **~아/어야 되다** express necessity or obli
 - **Practice Workbook**: Complete exercises using **~아/어야 하다** in various sentences.
 - **Listen and Repeat**: Watch Korean dramas or shows and listen for uses of **~아/어야 하다**.
 - **Conversation Practice**: Create dialogues with a partner using this grammar point.
+
+---
+© [Hanabira.org](https://hanabira.org)

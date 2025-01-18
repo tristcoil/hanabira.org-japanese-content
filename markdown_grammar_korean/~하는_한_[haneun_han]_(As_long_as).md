@@ -109,3 +109,6 @@ In Korean culture, conditions and social expectations are significant. Using **~
 ---
 By mastering **~하는 한**, you enhance your ability to express conditions and dependencies in Korean, making your language use more nuanced and natural.
 # 끝
+
+---
+© [Hanabira.org](https://hanabira.org)

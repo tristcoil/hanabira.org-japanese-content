@@ -104,3 +104,6 @@ Korean has two primary ways to form negative sentences:
 ---
 By mastering **~지 않다**, you enhance your ability to convey negation clearly and appropriately across different contexts in the Korean language.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

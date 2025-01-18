@@ -93,3 +93,6 @@ The grammar pattern combines a noun with the postposition **~에**, followed by 
 1. _뉴스에 따르면 내일 눈이 올 것입니다._
 2. **~에 따르다** is often used directly with the verb **따르다**, while **~에 의하면** is typically used with reported speech endings and emphasizes the source.
 3. Correct sentence: _규칙에 따르다_
+
+---
+© [Hanabira.org](https://hanabira.org)

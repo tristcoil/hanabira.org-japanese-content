@@ -103,3 +103,6 @@ The formation of **~했건만** involves attaching the suffix **~건만** to the
    - **Answer**: **B** is more appropriate for casual conversation.
 ---
 By understanding and practicing **~했건만**, you can enhance your comprehension of formal Korean texts and express contrasts in a more nuanced way.
+
+---
+© [Hanabira.org](https://hanabira.org)

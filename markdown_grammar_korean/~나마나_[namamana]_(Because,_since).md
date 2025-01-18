@@ -91,3 +91,6 @@ The use of **~나마나** is generally neutral but can be adjusted for formality
    - **Answer**: No, it's used with verbs.
 ---
 Feel free to revisit this lesson to reinforce your understanding of **~나마나**. Practice by creating your own sentences, and soon you'll master this expressive grammar point! 😊
+
+---
+© [Hanabira.org](https://hanabira.org)

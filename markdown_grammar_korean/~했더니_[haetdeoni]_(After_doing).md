@@ -110,3 +110,6 @@ The pattern is formed by attaching **았/었더니** to the verb stem.
    - **Answer**: 많이 걸었더니 다리가 아파요.
 ---
 By understanding and practicing **~했더니**, you can express personal experiences and their outcomes more naturally in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

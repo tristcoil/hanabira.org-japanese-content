@@ -135,3 +135,6 @@ The basic structure for using **보다** is:
 
 ---
 By understanding and practicing the use of **보다**, you can confidently make comparisons in Korean, making your conversations more precise and natural. Keep practicing with different adjectives and verbs to enhance your fluency.
+
+---
+© [Hanabira.org](https://hanabira.org)

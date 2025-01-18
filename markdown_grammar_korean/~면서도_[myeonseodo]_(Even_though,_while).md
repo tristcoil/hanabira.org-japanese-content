@@ -99,3 +99,6 @@ The structure of **~면서도** is attached directly to the verb stem.
    - **Answer:** Attaching it to the full verb instead of the verb stem.
 ---
 By mastering **~면서도**, you'll be able to articulate complex ideas involving contrast and simultaneity, enriching your Korean communication skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

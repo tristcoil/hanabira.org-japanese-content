@@ -93,3 +93,6 @@ In Korean culture, diligence and meeting conditions are highly valued. Expressio
    **Answer**: **~기만 하면** emphasizes that only the mentioned action is needed for the result, whereas **~(으)면** is a general conditional meaning "if" or "when".
 ---
 By understanding and practicing **~하기만 하면**, you enhance your ability to express conditions and expectations effectively in Korean. Keep practicing by forming your own sentences, and soon this grammar point will become a natural part of your Korean language skills!
+
+---
+© [Hanabira.org](https://hanabira.org)

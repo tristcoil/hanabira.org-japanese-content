@@ -102,3 +102,6 @@ The formation of **~아/어야지** depends on the verb stem and follows these s
    - **Answer:** It's best used for self-reference; using it towards others can seem commanding. Add **요** for politeness or avoid directing it at superiors.
 ---
 By mastering **~아/어야지**, you can express your intentions and obligations more naturally in Korean!
+
+---
+© [Hanabira.org](https://hanabira.org)

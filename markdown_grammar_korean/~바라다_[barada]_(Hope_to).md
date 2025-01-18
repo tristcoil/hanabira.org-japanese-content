@@ -86,3 +86,6 @@ The construction combines a verb or adjective with **~기(를) 바라다** or **
    - **Answer**: **~바라다** is more formal.
 ---
 Feel free to revisit the examples and notes to reinforce your understanding of **~바라다**. Practice by creating your own sentences using this grammar point!
+
+---
+© [Hanabira.org](https://hanabira.org)

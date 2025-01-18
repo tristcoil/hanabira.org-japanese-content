@@ -80,3 +80,6 @@ In Korean, expressing comparative degrees, such as "the more you study, the bett
    - **Answer**: False
 ---
 Feel free to practice by creating your own sentences using **~을/ㄹ수록**!
+
+---
+© [Hanabira.org](https://hanabira.org)

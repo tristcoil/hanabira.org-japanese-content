@@ -139,3 +139,6 @@ In Korean culture, there is a strong emphasis on expressing emotions appropriate
   - "쓰다" conjugates to "써" with **~어 버리다** due to the vowel **ㅡ** combining with **어**.
 ---
 By mastering **~어/아 버리다**, you'll enhance your ability to express nuanced emotions about actions in Korean, making your speech more natural and expressive.
+
+---
+© [Hanabira.org](https://hanabira.org)

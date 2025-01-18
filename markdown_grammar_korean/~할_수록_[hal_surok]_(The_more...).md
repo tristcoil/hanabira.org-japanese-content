@@ -96,3 +96,6 @@ The formation of **~할수록** depends on the verb or adjective stem to which i
    **Answer:** The incorrect attachment is **예쁘**+**을수록**. Since **예쁘다** ends with a vowel, it should be **예쁠수록**.
 ---
 By understanding and practicing the use of **~할수록**, you can express increasingly complex relationships between actions and states in Korean, making your speech and writing more nuanced and natural.
+
+---
+© [Hanabira.org](https://hanabira.org)

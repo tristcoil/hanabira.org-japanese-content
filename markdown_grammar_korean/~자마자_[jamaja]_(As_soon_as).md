@@ -96,3 +96,6 @@ The formation of **~자마자** is straightforward:
 3. **비가 오기 시작하자마자 그들은 우산을 폈어요.**
 ---
 By practicing and understanding the use of **~자마자**, you'll be able to convey immediate sequences naturally in Korean conversations.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -109,3 +109,6 @@ In Korean culture, indirect communication is often valued, especially when discu
 ---
 Thank you for learning about the grammar point **~소문에는** with us! Keep practicing by incorporating it into sentences about things you've heard.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

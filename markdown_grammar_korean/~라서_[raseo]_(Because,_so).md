@@ -104,3 +104,6 @@ Understanding and using **~라서/이라서** appropriately helps in expressing 
    **Answer:** a) 그 사람은 의사**라서** 많이 알아요.
 ---
 By understanding and practicing **~라서/이라서**, you can effectively express reasons in Korean when the cause is a noun. Keep practicing with different nouns to become more comfortable with this grammar point!
+
+---
+© [Hanabira.org](https://hanabira.org)

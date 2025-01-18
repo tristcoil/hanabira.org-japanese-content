@@ -132,3 +132,6 @@ Korean language heavily relies on speech levels and honorifics. The conditional 
    - *Using **오하면** is incorrect because **오다** ends with a vowel; therefore, it should be **오면**.*
 ---
 By understanding and practicing the **~(으)면** conditional form, you'll be able to express "if" statements confidently in Korean. Remember to pay attention to verb stems and politeness levels to ensure your sentences sound natural and appropriate.
+
+---
+© [Hanabira.org](https://hanabira.org)

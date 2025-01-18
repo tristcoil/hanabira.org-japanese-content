@@ -119,3 +119,6 @@ If you have any questions or need further clarification on how to use **~(으)�
 # Note
 It appears there might have been some confusion with the grammar point **~하마다** [hamada]. In standard Korean, **~하마다** is not a recognized grammatical structure for expressing **"every time"**. The correct expression is **~할 때마다** [(으)ㄹ 때마다], which conveys the meaning intended. Always ensure to attach **~(으)ㄹ 때마다** appropriately to verb stems to express repeated actions.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

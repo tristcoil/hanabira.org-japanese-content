@@ -116,3 +116,6 @@ In Korean, the adverb **아직** (*ajik*) is widely used to express the meanings
    **Answer:** **아직**
 ---
 By understanding and practicing **아직**, you enhance your ability to express time-related nuances in Korean, making your speech and comprehension more natural and accurate.
+
+---
+© [Hanabira.org](https://hanabira.org)

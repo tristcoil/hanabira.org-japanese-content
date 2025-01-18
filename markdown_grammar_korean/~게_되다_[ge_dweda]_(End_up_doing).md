@@ -107,3 +107,6 @@ These expressions are commonly used to describe unplanned or unexpected actions.
 ---
 Feel free to revisit this lesson and practice using **~게 되다** in your daily conversations to express actions that happened unintentionally or inevitably. Happy studying!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -122,3 +122,6 @@ These expressions emphasize action over words or thoughts, reflecting the value 
 ## Conclusion
 Understanding and using **~하기보다** allows you to express preferences and make choices naturally in Korean. By incorporating this grammar point into your speech, you can communicate more effectively and politely in various situations.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -103,3 +103,6 @@ In Korean culture, there's an understanding of the fluidity of emotions and situ
    - **Answer:** **먹다가도 네가 전화하면 받을게.**
 ---
 By understanding and practicing **~다가도**, you can express sudden changes and contrasts in Korean more naturally. Keep practicing by creating your own sentences!
+
+---
+© [Hanabira.org](https://hanabira.org)

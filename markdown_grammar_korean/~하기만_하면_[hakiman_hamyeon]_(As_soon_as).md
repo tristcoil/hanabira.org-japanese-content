@@ -104,3 +104,6 @@ The grammar itself is neutral but can be adapted to different levels of politene
    - **Answer:** **False.** **~하기만 하면** emphasizes the condition, whereas **~자마자** emphasizes immediacy.
 ---
 Happy studying! Remember, practicing with various verbs and contexts will help solidify your understanding of **~하기만 하면**.
+
+---
+© [Hanabira.org](https://hanabira.org)

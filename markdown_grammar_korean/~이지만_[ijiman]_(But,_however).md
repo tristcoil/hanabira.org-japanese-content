@@ -104,3 +104,6 @@ The structure of **~이지만** depends on whether the noun ends with a consonan
 3. 그는 배우**지만** 가수가 되고 싶어 해요.
 ---
 By understanding and practicing **~이지만**, you will be able to express contrast and add complexity to your Korean sentences, making your speech and writing more natural and fluent.
+
+---
+© [Hanabira.org](https://hanabira.org)

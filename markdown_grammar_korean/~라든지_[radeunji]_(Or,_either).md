@@ -139,3 +139,6 @@ It conveys a non-exhaustive list, often equivalent to "things like" or "such as"
    **Answer**: 여행을 간다든지 유학을 한다든지 하고 싶어요.
 ---
 By understanding and practicing **~라든지**, you can effectively express a range of options and make your Korean speech more natural and versatile. Keep practicing by incorporating this grammar point into your everyday conversations.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -108,3 +108,6 @@ The use of **~아/어 버리다** remains consistent across different speech lev
    - **Answer**: 책을 읽**어**버렸어요.
 ---
 By understanding **~아/어 버리다**, you can express complete actions with emotional depth, making your Korean more fluent and expressive.
+
+---
+© [Hanabira.org](https://hanabira.org)

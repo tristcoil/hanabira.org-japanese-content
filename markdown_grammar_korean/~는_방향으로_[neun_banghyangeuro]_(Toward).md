@@ -86,3 +86,6 @@ To form this pattern, attach **~는 방향으로** to the stem of an action verb
    - **Answer**: False. **~는 방향으로** emphasizes direction/tendency, while **~기 위해서** emphasizes purpose.
 ---
 Feel free to revisit the examples and explanations to strengthen your understanding of **~는 방향으로**!
+
+---
+© [Hanabira.org](https://hanabira.org)

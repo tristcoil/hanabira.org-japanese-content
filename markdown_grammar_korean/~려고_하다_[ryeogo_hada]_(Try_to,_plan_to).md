@@ -130,3 +130,6 @@ The Korean grammar pattern **~려고 하다** (*[ryeogo hada]*) is commonly used
    **Answer**: a) 쓰려고
 ---
 By understanding and practicing **~려고 하다**, you can effectively express your plans and intentions in Korean, making your speech more natural and expressive.
+
+---
+© [Hanabira.org](https://hanabira.org)

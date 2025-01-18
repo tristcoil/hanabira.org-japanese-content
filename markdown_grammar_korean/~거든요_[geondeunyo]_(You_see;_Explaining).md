@@ -96,3 +96,6 @@ For nouns ending with a vowel:
 3. **~거든요** introduces new information to the listener, while **~잖아요** refers to information the listener already knows.
 ---
 Happy studying! Remember, using **~거든요** appropriately will make your Korean sound more natural and polite.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -99,3 +99,6 @@ The structure of **~(으)리라** is attached to the verb stem.
    - **Answer**: **b) 살리라**
 ---
 **Congratulations!** You've learned how to use the poetic and formal Korean verb ending **~(으)리라** to express strong assumptions or determinations. Keep practicing by reading Korean literature and trying to identify this grammar point in context.
+
+---
+© [Hanabira.org](https://hanabira.org)

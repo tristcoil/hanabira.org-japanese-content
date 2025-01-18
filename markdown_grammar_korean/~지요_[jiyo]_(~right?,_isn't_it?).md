@@ -130,3 +130,6 @@ In spoken Korean, **~지요** is often contracted:
 ---
 By incorporating **~지요 (~죠)** into your speech, you'll enhance your ability to engage more naturally in Korean conversations, showing politeness and connecting with others.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

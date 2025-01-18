@@ -122,3 +122,6 @@ Both patterns express reasons or causes, but they differ in formality and usage.
    **Answer:** **학생인 까닭에** 할인 받았어요.
 ---
 By mastering **~인 까닭에** and its variations, you'll enhance your ability to express reasons and causes formally in Korean. Keep practicing by incorporating this grammar point into your writing and recognizing it in reading materials.
+
+---
+© [Hanabira.org](https://hanabira.org)

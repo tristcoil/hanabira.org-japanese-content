@@ -114,3 +114,6 @@ Both **~밖에** and **만** can translate to "only" in English, but they are us
 2. **False.** The verb must be in a negative form when using **~밖에**.
 ---
 *By understanding and practicing **~밖에**, you can more accurately express limitations and insufficiencies in Korean, adding depth to your language skills.*
+
+---
+© [Hanabira.org](https://hanabira.org)

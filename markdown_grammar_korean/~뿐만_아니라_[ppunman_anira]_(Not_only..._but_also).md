@@ -130,3 +130,6 @@ The structure varies slightly depending on whether you're attaching it to a **no
    **Answer:** 그녀는 선생님**뿐만 아니라** 작가입니다.
 ---
 By mastering **~뿐만 아니라**, you can make your Korean sentences more expressive and detailed, effectively communicating multiple related ideas with ease.
+
+---
+© [Hanabira.org](https://hanabira.org)

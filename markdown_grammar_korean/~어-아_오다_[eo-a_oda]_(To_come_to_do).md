@@ -97,3 +97,6 @@ The Korean grammar pattern **~어/아 오다** is used to express an action that
 ---
 Keep practicing using **~어/아 오다** to express actions that have continued up to now. This will enhance your ability to convey time progression and experiences in Korean.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

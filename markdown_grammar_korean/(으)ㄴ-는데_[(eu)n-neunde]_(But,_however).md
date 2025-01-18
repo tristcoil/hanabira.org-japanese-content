@@ -138,3 +138,6 @@ Using **(으)ㄴ/는데** can make statements sound more polite and less direct,
 3. Using **-는데** instead of **-은데/-ㄴ데** with descriptive verbs.
 ---
 By mastering **(으)ㄴ/는데**, you'll enhance your Korean fluency and be able to express complex ideas more naturally. Keep practicing by incorporating this grammar point into your daily conversations!
+
+---
+© [Hanabira.org](https://hanabira.org)

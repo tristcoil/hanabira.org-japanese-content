@@ -122,3 +122,6 @@ While **그런데**, **하지만**, and **그렇지만** can all mean "but" or "
 
 ---
 By understanding and practicing **그런데**, you'll be able to create more natural and fluid Korean sentences, enhancing your conversational skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

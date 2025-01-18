@@ -101,3 +101,6 @@ In Korean culture, formality and politeness are crucial. While **~기 전에** i
    **Answer:** *일하기 전에 쉬세요.*
 ---
 By understanding and practicing **~기 전에**, you'll be able to describe sequences of events clearly and naturally in Korean. Remember to pay attention to the verb forms and the context in which you're speaking to choose the appropriate level of politeness.
+
+---
+© [Hanabira.org](https://hanabira.org)

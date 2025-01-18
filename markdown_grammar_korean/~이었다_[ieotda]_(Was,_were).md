@@ -120,3 +120,6 @@ Understanding and using the appropriate speech level is crucial in Korean cultur
 ---
 By consistently practicing and being mindful of these rules, you'll become adept at using **~이었다** to express past states of being in Korean.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

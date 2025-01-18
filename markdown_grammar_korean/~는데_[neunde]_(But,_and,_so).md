@@ -109,3 +109,6 @@ In Korean culture, direct statements can be considered rude. Using **~는데** s
 3. **비가 오는데 우산이 없어요.** (It's raining, but I don't have an umbrella.)
 ---
 Feel free to create your own sentences using **~는데** to become more familiar with its usage!
+
+---
+© [Hanabira.org](https://hanabira.org)

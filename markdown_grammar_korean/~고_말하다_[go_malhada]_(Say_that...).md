@@ -86,3 +86,6 @@ Indirect speech is prevalent in Korean communication, reflecting the culture's e
    - **Answer:** **True**, but **~다고 하다** is more commonly used in everyday speech.
 ---
 Feel free to revisit this lesson and practice using **~고 말하다** in your own sentences to enhance your understanding and fluency.
+
+---
+© [Hanabira.org](https://hanabira.org)

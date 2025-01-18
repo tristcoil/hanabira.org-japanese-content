@@ -104,3 +104,6 @@ These expressions are commonly used in daily conversations.
    - **Answer:** **~거나** simply lists alternatives, while **~든지** emphasizes that any option is acceptable or that it doesn't matter which is chosen.
 ---
 Feel free to revisit this lesson and practice using **~든지** in your own sentences to become more comfortable with this grammar point!
+
+---
+© [Hanabira.org](https://hanabira.org)

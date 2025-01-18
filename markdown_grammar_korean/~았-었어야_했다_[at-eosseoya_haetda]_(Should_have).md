@@ -95,3 +95,6 @@ To form this pattern, combine the verb stem with the appropriate ending:
    - **Answer**: **먹어야 했다** means "I had to eat" (obligation), not "I should have eaten" (regret). The correct form is **먹었어야 했다**.
 ---
 Keep practicing this grammar point by creating your own sentences! Understanding the nuances will greatly enhance your Korean communication skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

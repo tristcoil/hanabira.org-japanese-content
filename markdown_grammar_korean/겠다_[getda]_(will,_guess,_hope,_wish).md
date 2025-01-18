@@ -93,3 +93,6 @@ In Korean, **-겠-** is often used in formal settings to show respect. It's comm
 2. **-겠-** emphasizes intention or conjecture and adds politeness, while **-(으)ㄹ 거예요** is a plain future tense.
 3. **춥겠어요.**
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

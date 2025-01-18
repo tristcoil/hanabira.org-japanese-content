@@ -131,3 +131,6 @@ To adjust for politeness and formality, conjugate **것이다** appropriately:
 
 ---
 By understanding and practicing **~(으)ㄹ 것이다**, you enhance your ability to communicate about future events and express assumptions, which is crucial for fluency in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

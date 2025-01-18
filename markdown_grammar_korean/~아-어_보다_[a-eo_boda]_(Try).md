@@ -103,3 +103,6 @@ To use **~아/어 보다**, attach it to the stem of an action verb.
 3. Error: *읽아 보다* ❌ → Correct: **읽어 보다** ✅
 ---
 By understanding and practicing **~아/어 보다**, you'll enhance your ability to suggest and discuss experiences in Korean, making your conversations more dynamic and natural.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -116,3 +116,6 @@ It can be translated as:
    **Answer:** **그녀는 운동하기는 해요, 그런데 규칙적으로 하지는 않아요.**
 ---
 Congratulations! You've learned how to use **~하기는 하다** to add nuance to your Korean expressions. Keep practicing by incorporating this grammar point into your daily conversations.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -104,3 +104,6 @@ The pattern **~기로 하다** is used to express a decision or resolution to pe
    - **Answer:** 저희는 한국어를 공부하기로 했습니다.
 ---
 By mastering **~기로 하다**, you'll be able to express your decisions clearly and confidently in Korean. Keep practicing with different verbs to become more familiar with this grammar pattern!
+
+---
+© [Hanabira.org](https://hanabira.org)

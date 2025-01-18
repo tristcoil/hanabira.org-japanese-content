@@ -123,3 +123,6 @@ Both patterns are used to express purpose, but they have different usages:
 ---
 By mastering **~(으)려고**, you'll be able to express your intentions and plans clearly in Korean, making your communication more effective and natural.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

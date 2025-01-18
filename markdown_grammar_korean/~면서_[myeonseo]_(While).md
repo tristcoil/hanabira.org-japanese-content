@@ -93,3 +93,6 @@ In Korean culture, multitasking is often implied in daily activities. Using **~�
    - **Answer:** b) 저는 음악을 들으면서 책을 읽어요.
 ---
 By mastering **~면서**, you can enrich your Korean sentences to express simultaneous actions naturally and fluently.
+
+---
+© [Hanabira.org](https://hanabira.org)

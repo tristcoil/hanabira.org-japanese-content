@@ -117,3 +117,6 @@ The Korean grammar point **~아/어/여도 되다** is used to ask for or give p
 - Try using different verbs and levels of politeness.
 ---
 By mastering **~아/어/여도 되다**, you'll be able to navigate social interactions in Korean more effectively, showing respect and understanding of cultural norms.
+
+---
+© [Hanabira.org](https://hanabira.org)

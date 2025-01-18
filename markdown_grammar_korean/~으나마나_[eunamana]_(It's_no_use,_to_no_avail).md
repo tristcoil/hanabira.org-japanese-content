@@ -119,3 +119,6 @@ For **Action Verbs**:
    > **Answer**: **b) 으나마나**  
    > *Because **두드리다** ends with a consonant sound "ㄹ" in **두드리**.*
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

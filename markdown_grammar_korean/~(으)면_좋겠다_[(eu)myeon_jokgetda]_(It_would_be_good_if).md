@@ -94,3 +94,6 @@ The structure combines the conditional marker **~(으)면** ("if") with **좋겠
 3. **내일 날씨가 좋으면 좋겠어요.**
 ---
 Keep practicing by expressing your own wishes using **~(으)면 좋겠다**!
+
+---
+© [Hanabira.org](https://hanabira.org)

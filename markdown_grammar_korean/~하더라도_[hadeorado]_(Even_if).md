@@ -109,3 +109,6 @@ Attach **`더라도`** directly to the verb stem of an action or descriptive ver
 ---
 Keep practicing to become more comfortable with **~하더라도**. Try creating sentences that reflect situations in your life to make the learning process more engaging!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

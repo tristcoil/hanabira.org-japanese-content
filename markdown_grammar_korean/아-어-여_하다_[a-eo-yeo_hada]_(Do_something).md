@@ -111,3 +111,6 @@ The suffix **아/어/여 하다** is added to adjectives (descriptive verbs) to:
    - **Answer**: Incorrect. It should be **좋아한다** since **좋아하다** is the correct verb form meaning "to like."
 ---
 By understanding and practicing **아/어/여 하다**, you'll be able to express emotions more naturally and accurately in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

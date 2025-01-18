@@ -83,3 +83,6 @@ Verb/Adjective stem + 아/어야만 + [result clause]
 2. **~아/어야만** emphasizes "only if", while **~으면** simply means "if".
 3. **용기를 가져야만 성공할 수 있어요.**
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

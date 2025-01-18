@@ -126,3 +126,6 @@ C[Noun ending with consonant] -- attach --> D[이에요]
 ---
 By understanding and practicing **예요** and **이에요**, you'll be able to form basic sentences confidently and politely in Korean. Keep practicing, and soon it will become second nature!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

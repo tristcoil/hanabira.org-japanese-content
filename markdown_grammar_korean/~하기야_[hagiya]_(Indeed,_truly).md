@@ -111,3 +111,6 @@ The formation of **~하기야** is straightforward:
    - *비가 오기야 하지만 갈 거예요.*
 ---
 *Remember to practice using **~하기야** in your own sentences to become more comfortable with its nuance and usage!*
+
+---
+© [Hanabira.org](https://hanabira.org)

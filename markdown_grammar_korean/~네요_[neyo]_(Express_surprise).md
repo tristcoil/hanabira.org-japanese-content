@@ -103,3 +103,6 @@ Noun + (이)네요
    - **Answer**: Surprise, admiration, or sudden realization.
 ---
 By incorporating **~네요** into your Korean conversations, you can express your spontaneous reactions and make your speech more engaging and authentic.
+
+---
+© [Hanabira.org](https://hanabira.org)

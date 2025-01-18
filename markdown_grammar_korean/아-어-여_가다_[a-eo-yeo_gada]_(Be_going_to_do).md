@@ -112,3 +112,6 @@ The structure of **아/어/여 가다** is formed by attaching **-아/어/여** 
 ---
 By mastering **아/어/여 가다**, you'll enhance your ability to express ongoing actions and speak more naturally in Korean. Keep practicing by creating your own sentences using this grammar point!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

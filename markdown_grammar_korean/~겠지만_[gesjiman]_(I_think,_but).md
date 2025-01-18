@@ -109,3 +109,6 @@ The structure combines:
 2. **비가 오겠지만 우산을 안 가져왔어요.**
 3. **~겠지만** includes speculation or assumption, whereas **~지만** does not.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

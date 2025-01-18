@@ -126,3 +126,6 @@ Adjusting the ending of the sentence after **~는다는 것** helps match the ap
 
 ---
 By mastering **~는다는 것**, you enhance your ability to discuss facts and convey information effectively in Korean. Practice using this grammar point in various contexts to become more fluent and natural in your expressions.
+
+---
+© [Hanabira.org](https://hanabira.org)

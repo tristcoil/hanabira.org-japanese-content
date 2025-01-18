@@ -112,3 +112,6 @@ Expressing preferences and making comparisons between actions is a common aspect
 ---
 By understanding and practicing **~하기보다**, you can express your preferences more naturally in Korean. Keep practicing by comparing different actions in your daily life!
 *행운을 빕니다!* (Good luck!)
+
+---
+© [Hanabira.org](https://hanabira.org)

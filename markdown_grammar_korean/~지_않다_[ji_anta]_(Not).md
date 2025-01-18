@@ -111,3 +111,6 @@ Understanding levels of politeness is crucial in Korean. The choice between **�
 
 ---
 By understanding and practicing the use of **~지 않다**, you'll be able to express negation accurately and communicate more effectively in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

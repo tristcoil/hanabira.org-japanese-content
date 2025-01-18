@@ -110,3 +110,6 @@ The formation of **~하게 하다** involves attaching **-게 하다** to the ve
      - **Answer:** 선생님은 학생들을 놀게 했어요.
 ---
 By understanding and practicing **~하게 하다**, you'll enhance your ability to express causative actions in Korean, making your communication more natural and effective.
+
+---
+© [Hanabira.org](https://hanabira.org)

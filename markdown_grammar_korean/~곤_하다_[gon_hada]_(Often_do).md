@@ -96,3 +96,6 @@ To use this grammar pattern, attach **~곤 하다** to the verb stem.
 ---
 By mastering **~곤 하다**, you can effectively communicate habits and routines, adding depth to your Korean conversations.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

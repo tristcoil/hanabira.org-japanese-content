@@ -120,3 +120,6 @@ Create sentences using **~밖에** with the following nouns:
    _I know nothing but Korean, so I need an interpreter._
 # Conclusion
 Understanding how to use **~밖에** will enhance your ability to express limitations and exclusivity in Korean, adding depth to your conversations. Remember to pair it with negative verb forms and be mindful of the nuance it conveys compared to similar particles like **~만**.
+
+---
+© [Hanabira.org](https://hanabira.org)

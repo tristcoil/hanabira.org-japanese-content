@@ -109,3 +109,6 @@ In Korean society, expressing obligation can be influenced by social hierarchies
 3. **"가야 해요"** means *"I have to go,"* while **"가면 안 돼요"** means *"I must not go"* or *"I shouldn't go."*
 ---
 By understanding and practicing **~해야 하다**, you'll be able to express your obligations and necessities confidently in Korean. Keep practicing with various verbs and contexts to master this essential grammar point!
+
+---
+© [Hanabira.org](https://hanabira.org)

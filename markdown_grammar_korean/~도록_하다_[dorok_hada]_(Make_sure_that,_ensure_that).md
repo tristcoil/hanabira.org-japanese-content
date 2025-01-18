@@ -123,3 +123,6 @@ In Korean culture, indirect communication is valued, especially when giving advi
    </details>
 ---
 By understanding and practicing **~도록 하다**, you can enhance your Korean language skills, especially in giving polite instructions and expressing intentions.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -139,3 +139,6 @@ The structure combines the past tense suffix **~았/었다** with **다가**, at
 ---
 By understanding **~았/었다가**, you can express nuanced changes and unexpected outcomes in your Korean sentences, adding depth to your communication.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

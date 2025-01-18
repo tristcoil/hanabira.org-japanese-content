@@ -114,3 +114,6 @@ While **~할 때마다** itself is straightforward, **마다** is used in variou
 ---
 By mastering **~할 때마다**, you enhance your ability to describe habitual actions and repeated experiences, making your Korean communication more nuanced and expressive.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -101,3 +101,6 @@ To form this grammatical structure:
        - "As soon as I watched the movie, I talked to my friend."
 ---
 By understanding and practicing the use of **~하자마자**, you'll be able to express immediate actions naturally in Korean. Keep practicing with different verbs to become more comfortable with this grammar point!
+
+---
+© [Hanabira.org](https://hanabira.org)

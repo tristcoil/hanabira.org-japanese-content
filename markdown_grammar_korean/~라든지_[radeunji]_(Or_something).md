@@ -132,3 +132,6 @@ In Korean culture, modesty and indirectness are valued in communication. Using `
      - *Use present tense verb stems when attaching `~(ㄴ/는)다든지`.*
 ---
 By understanding and practicing the use of `~라든지`, you can express a range of possibilities and make your Korean conversations more natural and fluent. Remember to pay attention to the word endings to attach the correct form!
+
+---
+© [Hanabira.org](https://hanabira.org)

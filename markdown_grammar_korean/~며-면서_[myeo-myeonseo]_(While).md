@@ -100,3 +100,6 @@ In Korean culture, multitasking is often a part of daily life, especially in bus
 ---
 By understanding and practicing **~며/면서**, you'll be able to express simultaneous actions naturally and enhance your Korean language skills!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

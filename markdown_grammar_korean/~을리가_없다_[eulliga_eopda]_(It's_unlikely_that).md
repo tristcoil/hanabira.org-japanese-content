@@ -102,3 +102,6 @@ The structure of **~을 리가 없다** varies depending on whether the verb ste
    - Doubt (specifically disbelief).
 ---
 By mastering **~을 리가 없다**, you can effectively express disbelief and enhance your Korean communication skills!
+
+---
+© [Hanabira.org](https://hanabira.org)

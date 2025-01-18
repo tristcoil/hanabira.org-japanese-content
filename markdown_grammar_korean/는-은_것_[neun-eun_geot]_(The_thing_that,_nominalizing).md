@@ -96,3 +96,6 @@ The level of politeness can be adjusted by changing verb endings:
 
 ---
 By mastering **는/은 것**, you'll be able to express complex ideas and describe actions more naturally in Korean. Keep practicing by forming your own sentences, and soon it will become second nature!
+
+---
+© [Hanabira.org](https://hanabira.org)

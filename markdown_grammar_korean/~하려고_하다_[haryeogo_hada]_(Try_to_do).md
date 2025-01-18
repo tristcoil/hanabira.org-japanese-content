@@ -111,3 +111,6 @@ The pattern **~하려고 하다** is a commonly used Korean grammar structure th
 ---
 By mastering **~하려고 하다**, you can effectively express your intentions and plans in Korean, making your speech sound more natural and culturally appropriate!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

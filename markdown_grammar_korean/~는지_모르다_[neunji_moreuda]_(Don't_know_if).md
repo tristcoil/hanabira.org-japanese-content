@@ -119,3 +119,6 @@ Using **~는지 모르다** often introduces an indirect question, which is a po
 
 ---
 Feel free to revisit this lesson to reinforce your understanding of **~는지 모르다**. Practice by creating your own sentences using this grammar pattern!
+
+---
+© [Hanabira.org](https://hanabira.org)

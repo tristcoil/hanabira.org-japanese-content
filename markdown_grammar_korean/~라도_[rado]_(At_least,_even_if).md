@@ -133,3 +133,6 @@ The Korean particle **~라도** is a versatile expression used to convey meaning
    - If you're busy, let's meet tomorrow at least.
 ---
 By incorporating **~라도** into your Korean vocabulary, you can express suggestions, alternatives, and concessions more naturally. Practice using **~라도** in your daily conversations to become more fluent and nuanced in expressing yourself in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

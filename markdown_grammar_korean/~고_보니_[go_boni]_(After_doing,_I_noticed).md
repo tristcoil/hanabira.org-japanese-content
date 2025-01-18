@@ -94,3 +94,6 @@ While both expressions deal with realizing something, they differ in usage:
    **먹다 보니**: While eating, I realized...
 ---
 Feel free to revisit this lesson for a better understanding of **~고 보니**, and try creating your own sentences to practice!
+
+---
+© [Hanabira.org](https://hanabira.org)

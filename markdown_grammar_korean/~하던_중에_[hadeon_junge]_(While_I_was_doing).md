@@ -88,3 +88,6 @@ In Korean workplaces and schools, being interrupted during an activity is a comm
 2. 쇼핑**하던 중에** 지갑을 잃어버렸어요.
 3. Correction:
    - 저는 요리**하던 중에** 친구가 왔어요.
+
+---
+© [Hanabira.org](https://hanabira.org)

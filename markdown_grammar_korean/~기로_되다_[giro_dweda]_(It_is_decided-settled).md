@@ -86,3 +86,6 @@ Using **~기로 되다** reflects a passive stance, indicating that the speaker 
 3. 시작**되기로 되었습니다**.
 ---
 By mastering **~기로 되다**, you'll be able to accurately describe decisions or arrangements that have been made, enhancing both your understanding and communication in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

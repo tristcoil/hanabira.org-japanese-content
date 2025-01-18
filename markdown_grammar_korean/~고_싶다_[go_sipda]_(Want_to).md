@@ -146,3 +146,6 @@ The Korean expression **`~고 싶다`** is used to convey the meaning of "want t
    - **Answer**: I miss my friends.
 ---
 By mastering **`~고 싶다`**, you'll be able to express your desires and understand others' wishes effectively in Korean. Keep practicing by forming your own sentences and using this grammar point in conversations!
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -106,3 +106,6 @@ Using **~쯤** reflects a common communication style in Korean culture where bei
 ---
 By incorporating **~쯤** into your sentences, you'll be able to express approximations naturally, enhancing your fluency in Korean conversations.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

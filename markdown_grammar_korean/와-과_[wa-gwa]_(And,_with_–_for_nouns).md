@@ -85,3 +85,6 @@ While **와/과** connect nouns similarly to **하고** and **(이)랑**, there 
 1. a) **와** (친구**와** 가족)
 2. **선생님과 공부했어요.**
 3. **More formal**
+
+---
+© [Hanabira.org](https://hanabira.org)

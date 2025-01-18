@@ -115,3 +115,6 @@ In this lesson, we'll explore the Korean grammar point **~(아/어/여)서**, a 
 ---
 By mastering **~(아/어/여)서**, you'll be able to express reasons and causes effectively, making your Korean communication more natural and fluid.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

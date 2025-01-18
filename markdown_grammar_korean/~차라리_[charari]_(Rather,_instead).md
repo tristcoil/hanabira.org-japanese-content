@@ -136,3 +136,6 @@ By mastering the use of **차라리**, you can express nuanced preferences and m
      - *Rather than waiting, I'd come tomorrow instead.*
 ---
 Feel free to share your sentences with a teacher or language partner to get feedback!
+
+---
+© [Hanabira.org](https://hanabira.org)

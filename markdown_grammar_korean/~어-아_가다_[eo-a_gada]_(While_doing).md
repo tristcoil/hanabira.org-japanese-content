@@ -109,3 +109,6 @@ The verb **가다** can be conjugated to match different speech levels:
      - (*We are continuing to complete the project.*)
 ---
 By understanding and practicing the **~어/아 가다** construction, you can more accurately express ongoing actions and changes that extend into the future in Korean. Keep engaging with various examples to solidify your grasp of this grammar point.
+
+---
+© [Hanabira.org](https://hanabira.org)

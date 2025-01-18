@@ -116,3 +116,6 @@ In Korean society, explaining lateness or failure to do something by citing bein
 
 ---
 By understanding and practicing **~하느라**, you'll be able to explain actions and their results more naturally in Korean. Remember to pay attention to the verb types and ensure the subject remains consistent in both clauses.
+
+---
+© [Hanabira.org](https://hanabira.org)

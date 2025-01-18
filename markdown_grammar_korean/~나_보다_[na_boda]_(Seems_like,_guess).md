@@ -86,3 +86,6 @@ In Korean culture, being indirect or showing humility in one's statements is com
    - **Answer:** It seems people haven't come yet since it's so quiet.
 ---
 By understanding and practicing **~나 보다**, you can express your thoughts and guesses more naturally in Korean, adding nuance to your conversations.
+
+---
+© [Hanabira.org](https://hanabira.org)

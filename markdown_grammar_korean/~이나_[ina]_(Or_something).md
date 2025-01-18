@@ -93,3 +93,6 @@ In Korean culture, suggesting an activity with **~이나** reflects politeness a
 ---
 ## End of Lesson
 Feel free to review these points and practice using **~이나** in your own sentences to become more comfortable with its usage!
+
+---
+© [Hanabira.org](https://hanabira.org)

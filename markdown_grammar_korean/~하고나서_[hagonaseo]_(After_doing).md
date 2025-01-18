@@ -119,3 +119,6 @@ While **~하고 나서** is not idiomatic on its own, it's essential in many exp
 ---
 By understanding and practicing **~하고 나서**, you can accurately describe sequences of events and enhance the clarity of your communication in Korean.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -114,3 +114,6 @@ These expressions are commonly used to show acknowledgment of effort or belated 
    - **Answer**: 그는 나에게 **전화했지만**, 나는 전화를 놓쳤어요.
 ---
 By mastering **~했지만**, you enhance your ability to express complex thoughts and contrasts, bringing more nuance to your Korean conversations. Keep practicing by forming your own sentences and soon you'll use this grammar point naturally!
+
+---
+© [Hanabira.org](https://hanabira.org)

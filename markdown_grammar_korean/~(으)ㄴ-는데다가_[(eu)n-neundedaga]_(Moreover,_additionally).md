@@ -90,3 +90,6 @@ Compared with other Korean conjunctions:
    - **Answer**: Incorrect verb endings based on verb type and not ensuring the clauses are logically connected.
 ---
 By mastering ~(으)ㄴ/는데다가, you can make your Korean sentences more expressive and detailed, effectively communicating additional information with ease.
+
+---
+© [Hanabira.org](https://hanabira.org)

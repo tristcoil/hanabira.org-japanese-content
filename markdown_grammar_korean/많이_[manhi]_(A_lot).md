@@ -94,3 +94,6 @@ In Korean culture, modesty is valued. When using **많이**, especially in expre
    - **Answer:** **많이 쉬세요.**
 ---
 By mastering **많이**, you'll be able to express quantities and degrees more naturally in Korean, enhancing both your speaking and writing skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

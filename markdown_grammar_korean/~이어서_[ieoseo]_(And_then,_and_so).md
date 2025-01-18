@@ -92,3 +92,6 @@ In Korean culture, stating reasons explicitly is common, and using patterns like
    *(Since "춥다" is an adjective, we use ~(아/어)서 form: 추**워서**)*
 ---
 # Visit our [Korean Grammar Guide](#) for more lessons!
+
+---
+© [Hanabira.org](https://hanabira.org)

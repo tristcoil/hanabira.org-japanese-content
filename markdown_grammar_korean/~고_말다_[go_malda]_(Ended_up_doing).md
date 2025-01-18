@@ -109,3 +109,6 @@ In Korean culture, expressing unintended outcomes or situations that occurred de
 ---
 By incorporating **~고 말다** into your Korean expressions, you'll enhance your ability to convey nuances of unintended or inevitable actions, making your language use more natural and expressive.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

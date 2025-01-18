@@ -131,3 +131,6 @@ The formation depends on the vowel harmony of the adjective or verb stem:
    - **Answer**: The correct form is 행복해졌어요. (Since 행복하다 ends with 하다, it becomes 행복해지다.)
 ---
 By understanding and practicing the **~어/아지다** pattern, you will be able to describe changes in states and conditions effectively in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

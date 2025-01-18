@@ -105,3 +105,6 @@ The structure attaches directly to the verb stem, and its form changes slightly 
    - **Answer:** No, it's too informal for formal business communication.
 ---
 By understanding and practicing **~(으)려나**, you can enrich your Korean conversational skills and express your thoughts more naturally.
+
+---
+© [Hanabira.org](https://hanabira.org)

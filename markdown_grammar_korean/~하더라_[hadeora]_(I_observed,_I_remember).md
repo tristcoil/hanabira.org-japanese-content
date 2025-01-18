@@ -83,3 +83,6 @@ Verb Stem + 더라
    - *No, it's too informal.*
 ---
 By understanding and practicing **~하더라**, you can more naturally express your personal experiences and observations in Korean casual conversation.
+
+---
+© [Hanabira.org](https://hanabira.org)

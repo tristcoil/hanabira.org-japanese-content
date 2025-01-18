@@ -102,3 +102,6 @@ While both structures express a progressive increase, they differ slightly:
    - **Answer**: **시간이 지나갈수록 날씨가 추워져요.**
 ---
 By understanding and practicing **~해 갈수록**, you can express progressive changes and deepening states in Korean naturally and accurately.
+
+---
+© [Hanabira.org](https://hanabira.org)

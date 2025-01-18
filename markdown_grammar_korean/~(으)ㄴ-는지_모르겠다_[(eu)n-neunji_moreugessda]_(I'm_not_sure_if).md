@@ -111,3 +111,6 @@ Compared with similar expressions:
    **Answer**: 내일 갈 수 있는지 모르겠어요.
 ---
 By mastering **~(으)ㄴ/는지 모르겠다**, you can express uncertainty naturally and politely in Korean conversations. Practice using this pattern in different contexts to become more confident in your Korean language skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

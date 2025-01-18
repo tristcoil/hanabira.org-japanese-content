@@ -117,3 +117,6 @@ Noun + 에서는
    - **Answer Example:** 시간을 낭비해서는 안 됩니다. (But in wasting time, you shouldn't.)
 ---
 Feel free to practice by creating your own sentences using **~서는** to reinforce your understanding!
+
+---
+© [Hanabira.org](https://hanabira.org)

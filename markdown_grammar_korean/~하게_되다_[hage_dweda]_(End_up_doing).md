@@ -116,3 +116,6 @@ The formation of **~하게 되다** is straightforward:
 ---
 By mastering **~하게 되다**, you'll enhance your ability to describe unplanned actions and changes, making your Korean sound more natural and expressive.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

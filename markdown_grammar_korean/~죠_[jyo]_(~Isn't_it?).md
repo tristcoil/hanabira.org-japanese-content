@@ -115,3 +115,6 @@ graph TD;
 2. Add **았/었/였** to the verb stem before attaching **~죠** (e.g., 먹었죠).
 3. **내일 만나요, 그렇죠?** (Let's meet tomorrow, okay?)
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

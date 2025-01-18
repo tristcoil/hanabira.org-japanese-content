@@ -85,3 +85,6 @@ Understanding and using structures like **~하면 할수록** can help learners 
 1. **공부하면 공부할수록 재미있어요.**
 2. **False**. You should use the same verb for both parts.
 3. **달리면 달릴수록 건강해져요.**
+
+---
+© [Hanabira.org](https://hanabira.org)

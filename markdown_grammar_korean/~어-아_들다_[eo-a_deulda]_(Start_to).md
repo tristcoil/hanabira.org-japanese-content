@@ -141,3 +141,6 @@ To form this pattern:
 3. Corrected Sentence: **학생들이 조용해 들어요.**
 ---
 By understanding and practicing **~어/아 들다**, you'll be able to express beginnings and transitions more naturally in Korean. Keep practicing with different verbs to become more comfortable with this useful grammar pattern!
+
+---
+© [Hanabira.org](https://hanabira.org)

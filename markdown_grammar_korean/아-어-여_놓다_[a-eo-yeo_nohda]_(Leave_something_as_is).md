@@ -102,3 +102,6 @@ In Korean culture, being prepared and considering future needs is valued. Using 
    **Answer:** **아/어/여 놓다** is generally used with actions that result in a state that can be left as is. Since **걷다** is an intransitive verb indicating motion, it doesn't result in a state that can be retained, so **걷어 놓다** is not appropriate.
 ---
 By mastering **아/어/여 놓다**, you enhance your ability to describe actions that have been completed with an intentional purpose, reflecting a deeper understanding of nuance in the Korean language.
+
+---
+© [Hanabira.org](https://hanabira.org)

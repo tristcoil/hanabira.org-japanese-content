@@ -88,3 +88,6 @@ In Korean culture, direct refusals or negations can be considered impolite. Usin
    - **Answer:** **~지 않다** is a direct negation ("do not"), while **~진 않다** is a softer, less direct negation ("not really").
 ---
 By understanding and practicing **~진 않다**, you can express negations more naturally and politely in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

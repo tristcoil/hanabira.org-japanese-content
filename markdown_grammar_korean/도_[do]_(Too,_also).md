@@ -103,3 +103,6 @@ The particle **도** [do] is a commonly used particle in Korean that translates 
    - **Answer**: 그녀도 한국어를 말해요.
 ---
 By understanding and practicing the use of **도**, you can add depth to your Korean conversations, indicating inclusivity and addition effortlessly.
+
+---
+© [Hanabira.org](https://hanabira.org)

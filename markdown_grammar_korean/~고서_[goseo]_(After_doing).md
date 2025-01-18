@@ -122,3 +122,6 @@ Though not idiomatic expressions per se, **~고서야** is a variation that adds
 3. **일을 끝내고서 친구를 만났어요.**
 ---
 Congratulations! You've learned how to use **~고서** to express sequences of actions in Korean. Practice by creating your own sentences, and soon you'll use this grammar point naturally in conversation.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -140,3 +140,6 @@ Understanding "~하려고" can help grasp the nuances of expressing intentions p
 ---
 By mastering "~하려고," you'll be able to express intentions and purposes clearly, enhancing your ability to communicate more naturally in Korean. Keep practicing by forming your own sentences, and soon this grammar point will become second nature!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

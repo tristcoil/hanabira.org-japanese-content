@@ -86,3 +86,6 @@ In Korean culture, respect for rules and social norms is highly valued. Using **
 2. **Yes**, it is correctly formed.
 3. 이 방에 들어와서는 안 됩니다.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

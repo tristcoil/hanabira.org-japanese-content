@@ -93,3 +93,6 @@ In Korean culture, expressing situations where one is compelled to act due to ci
 3. a) 을 (만들 **을** 수밖에 없다)
 ---
 By understanding and practicing **~할 수밖에 없다**, you can express inevitability and lack of choices in Korean more naturally.
+
+---
+© [Hanabira.org](https://hanabira.org)

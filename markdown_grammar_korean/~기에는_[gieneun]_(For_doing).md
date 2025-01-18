@@ -84,3 +84,6 @@ Verb stem + 기에는
    - **Answer**: False
 ---
 By mastering **~기에는**, you can express nuanced evaluations and judgments in Korean, enhancing both your spoken and written communication.
+
+---
+© [Hanabira.org](https://hanabira.org)

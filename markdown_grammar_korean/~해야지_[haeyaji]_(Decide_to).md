@@ -102,3 +102,6 @@ The structure for forming **~해야지** is as follows:
    - **Answer**: 매일 운동해야지.
 ---
 By understanding and practicing **~해야지**, you can express your intentions and decisions naturally, just like a native Korean speaker!
+
+---
+© [Hanabira.org](https://hanabira.org)

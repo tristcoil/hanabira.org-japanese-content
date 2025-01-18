@@ -94,3 +94,6 @@ The basic structure for using **다니다** is:
 3. **가다** is for one-time actions; **다니다** indicates regular or habitual actions.
 ---
 By understanding and practicing **다니다**, you can effectively communicate your regular activities and places you frequently visit in Korean. Keep practicing with different places and contexts to become more comfortable with this essential verb.
+
+---
+© [Hanabira.org](https://hanabira.org)

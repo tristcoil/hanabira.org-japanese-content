@@ -98,3 +98,6 @@ In Korean culture, reminiscing about the past is a common theme in literature an
    **Answer**: ~았/었던
 ---
 By understanding and practicing the use of **~던**, you'll be able to express past habits and memories more naturally in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

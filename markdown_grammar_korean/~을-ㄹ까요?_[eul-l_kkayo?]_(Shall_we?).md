@@ -145,3 +145,6 @@ The structure depends on whether the verb stem ends with a consonant or a vowel.
 3. **a) 갈까요?**
 ---
 By mastering **~을/ㄹ까요?**, you can confidently make suggestions and engage in polite conversations, reflecting both linguistic competence and cultural understanding in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

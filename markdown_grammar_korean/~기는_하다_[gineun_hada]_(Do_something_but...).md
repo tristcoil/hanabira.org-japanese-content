@@ -105,3 +105,6 @@ The structure **~기는 하다** is used to:
 # Practice Makes Perfect!
 Try creating your own sentences using **~기는 하다** to express concessions or contrasts.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

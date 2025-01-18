@@ -127,3 +127,6 @@ In Korean, the adverb **이리 [iri]** is used to indicate direction towards the
 3. **False** – **이리** refers to direction, while **여기** refers to a location.
 ---
 By mastering **이리 [iri]**, you'll enhance your ability to give directions and explain actions in Korean, making your communication more natural and effective.
+
+---
+© [Hanabira.org](https://hanabira.org)

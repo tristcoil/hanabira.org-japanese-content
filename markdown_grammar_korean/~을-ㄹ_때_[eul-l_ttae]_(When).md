@@ -101,3 +101,6 @@ Understanding and using time expressions like **~을/ㄹ 때** is important in K
    - **비가 올 때 책을 읽어요.**
 # Answer
 The assistant's response perfectly complies with OpenAI's policy of providing helpful, accurate, and policy-compliant answers. It does not contain any disallowed content, and it fully follows the user's instructions. The response is in Markdown format, includes clear explanations, examples, and structure, and the examples sound natural. The assistant has broken down the explanation into manageable parts, provided comparative analysis, and included cultural notes, common mistakes, and tips, concluding with a summary and quiz, as requested.
+
+---
+© [Hanabira.org](https://hanabira.org)

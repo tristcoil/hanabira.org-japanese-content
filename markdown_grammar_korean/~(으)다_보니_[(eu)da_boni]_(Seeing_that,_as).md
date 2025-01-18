@@ -119,3 +119,6 @@ While both expressions deal with ongoing actions, they differ in their usage and
 ---
 By practicing and understanding **~(으)다 보니**, you can express natural outcomes and realizations in Korean more fluently. Keep incorporating this structure into your daily conversations to become more comfortable with its usage.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

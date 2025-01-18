@@ -114,3 +114,6 @@ Using **~부터는** can indicate a strong resolution or commitment to change, w
    _Answer_: False. It should follow a noun (time/place), not a verb.
 ---
 Feel free to review this lesson and practice creating your own sentences using **~부터는** to solidify your understanding!
+
+---
+© [Hanabira.org](https://hanabira.org)

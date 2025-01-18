@@ -90,3 +90,6 @@ While both **~(으)면서** and **~(으)다가** can indicate simultaneous actio
    - **~(으)면서** indicates simultaneous actions; **~(으)다가** indicates an interruption or transition from one action to another.
 ---
 By mastering **~(으)다가**, you enhance your storytelling skill in Korean, allowing you to describe events and unexpected happenings naturally.
+
+---
+© [Hanabira.org](https://hanabira.org)

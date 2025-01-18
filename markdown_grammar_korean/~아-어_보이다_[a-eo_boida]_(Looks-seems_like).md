@@ -114,3 +114,6 @@ Examples:
 3. **Yes**, it means "The food looks delicious."
 ---
 By understanding and practicing **~아/어 보이다**, you can express perceptions and make observations more naturally in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

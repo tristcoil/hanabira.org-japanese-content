@@ -134,3 +134,6 @@ The basic structure for using **때** is as follows:
 ---
 By understanding and practicing the use of **때**, you'll be able to express time-related ideas more naturally and accurately in Korean. Remember to pay attention to the verb stems and the context in which **때** is used.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

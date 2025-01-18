@@ -108,3 +108,6 @@ In Korean culture, emphasizing the inconsistency between words and actions can b
    - **Correct Sentence**: 그녀는 학생이라면서 아르바이트를 해요.
 ---
 By mastering **~라면서**, you can add depth to your Korean by expressing subtle nuances about contradictions between what people say and do. Practice using it in various contexts to become more fluent and natural in your expressions.
+
+---
+© [Hanabira.org](https://hanabira.org)

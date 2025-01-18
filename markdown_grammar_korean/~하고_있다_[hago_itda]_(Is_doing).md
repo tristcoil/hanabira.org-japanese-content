@@ -136,3 +136,6 @@ Understanding the nuances of politeness levels in Korean is crucial. The form of
    - **Answer**: **마시고 있다** (is drinking)
 ---
 By understanding and practicing **~하고 있다**, you'll be able to describe current actions effectively and naturally in Korean conversations.
+
+---
+© [Hanabira.org](https://hanabira.org)

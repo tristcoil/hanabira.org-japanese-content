@@ -91,3 +91,6 @@ The structure combines:
 3. **오늘이 휴일이라면 그것은 멋져요.**
 ---
 By mastering **~(이)라면 그것은**, you can express conditional statements involving nouns, adding depth to your Korean conversations. Practice by creating your own sentences, and soon this grammar point will become a natural part of your language use!
+
+---
+© [Hanabira.org](https://hanabira.org)

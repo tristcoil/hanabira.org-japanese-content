@@ -84,3 +84,6 @@ or
    - **Answer**: 곧바로
 ---
 Feel free to revisit this lesson to strengthen your understanding of **즉시**. Practice using it in your own sentences to become more comfortable with its usage.
+
+---
+© [Hanabira.org](https://hanabira.org)

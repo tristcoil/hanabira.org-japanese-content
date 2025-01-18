@@ -93,3 +93,6 @@ Using **~(으)면서는** in conversation adds a reflective or critical tone, of
 3. "Why is my weight increasing even though I'm exercising hard?"
 ---
 By understanding and practicing **~(으)면서는**, you'll be able to express complex ideas about simultaneous actions and unexpected results, adding depth to your Korean communication skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

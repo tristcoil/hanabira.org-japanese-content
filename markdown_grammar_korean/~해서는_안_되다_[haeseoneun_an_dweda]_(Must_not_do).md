@@ -117,3 +117,6 @@ Both **~해서는 안 되다** and **~으면 안 되다** express prohibition, b
    **Answer**: "You must not take pictures here."
 ---
 Feel free to revisit this lesson to reinforce your understanding of **~해서는 안 되다**. Practice by making your own sentences, and soon you'll be using this grammar point naturally!
+
+---
+© [Hanabira.org](https://hanabira.org)

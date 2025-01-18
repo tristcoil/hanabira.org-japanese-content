@@ -94,3 +94,6 @@ While **이러하다** means "like this" or "such," it can be compared with simi
    - *Answer*: 이러하다 is more formal and used in writing, while 이렇다 is less formal and used in spoken Korean.
 ---
 Feel free to revisit this lesson to reinforce your understanding of **~이러하다**. Practice by forming your own sentences, and soon you'll master its usage in both formal and informal contexts!
+
+---
+© [Hanabira.org](https://hanabira.org)

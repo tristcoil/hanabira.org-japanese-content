@@ -104,3 +104,6 @@ This reflects the common experience of spiciness associated with kimchi in Korea
    **Answer:** 음악을 들었더니 기분이 좋아졌어요.
 ---
 By mastering **~했더니**, you can effectively convey your personal experiences and the results that follow, adding depth to your Korean communication skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

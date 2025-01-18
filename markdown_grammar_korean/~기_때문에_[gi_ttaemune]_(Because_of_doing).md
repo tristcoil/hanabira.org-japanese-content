@@ -105,3 +105,6 @@ These expressions reflect the importance of etiquette and awareness of societal 
    - **~(으)니까** is more appropriate for suggestions.
 ---
 Practice creating your own sentences using **~기 때문에** to express reasons in formal contexts!
+
+---
+© [Hanabira.org](https://hanabira.org)

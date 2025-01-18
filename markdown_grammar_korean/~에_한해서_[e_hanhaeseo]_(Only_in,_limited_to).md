@@ -110,3 +110,6 @@ In Korean, the grammar point **~에 한해서** is used to express limitations o
 - **Practice with real-life scenarios**: Try using **~에 한해서** in sentences related to promotions, events, or rules.
 ---
 By mastering **~에 한해서**, you can effectively communicate limitations and exclusive conditions in Korean, enhancing both your formal writing and speaking skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

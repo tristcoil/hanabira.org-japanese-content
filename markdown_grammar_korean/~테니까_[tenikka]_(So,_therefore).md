@@ -100,3 +100,6 @@ Both **~테니까** and **~으니까** express reasons or causes, but there are 
    - **Answer:** No, **~테니까** is generally not used with past tense verbs; it is used for present and future intentions.
 ---
 Feel free to practice by creating your own sentences using **~테니까** to express reasons for future actions!
+
+---
+© [Hanabira.org](https://hanabira.org)

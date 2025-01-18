@@ -125,3 +125,6 @@ In Korean, the grammar pattern **~든지** is used to express the meaning of "wh
 ---
 By understanding and practicing **~든지**, you'll be able to express flexibility and openness in your Korean conversations. Keep incorporating this pattern into your daily language use to become more fluent and natural in Korean!
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

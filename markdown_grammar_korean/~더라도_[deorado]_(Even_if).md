@@ -103,3 +103,6 @@ While both **~더라도** and **~아/어도** mean "even if," they are used diff
 ---
 By mastering **~더라도**, you enhance your ability to express firm decisions and hypothetical concessions in Korean, making your speech more nuanced and expressive.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

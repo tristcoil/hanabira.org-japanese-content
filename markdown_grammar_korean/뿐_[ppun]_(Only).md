@@ -132,3 +132,6 @@ While both **뿐** and **만** mean "only," they are used differently.
    *Use **뿐이다** after a noun to mean "only [noun]."*
 ---
 By understanding and practicing the use of **뿐**, you will be able to express exclusivity and limitations more precisely in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

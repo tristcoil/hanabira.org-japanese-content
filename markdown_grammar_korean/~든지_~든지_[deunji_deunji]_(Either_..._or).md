@@ -122,3 +122,6 @@ Option A Verb/Noun Stem + 든지 + Option B Verb/Noun Stem + 든지
    **Answer**: Forgetting to use **이든지** after nouns ending with a consonant.
 ---
 By mastering **~든지 ~든지**, you enhance your ability to discuss options and preferences smoothly in Korean conversations. Keep practicing with different verbs, nouns, and adjectives to become more confident!
+
+---
+© [Hanabira.org](https://hanabira.org)

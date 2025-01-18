@@ -113,3 +113,6 @@ In Korean culture, building upon existing knowledge, traditions, and experiences
 ---
 By mastering **~을 바탕으로**, you can express complex ideas about foundations and bases in Korean, adding depth to your communication.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

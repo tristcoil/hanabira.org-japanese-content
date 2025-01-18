@@ -153,3 +153,6 @@ The structure varies depending on the verb type (action or descriptive), tense, 
    - **Answer:** **c) 그는 내일 공부할 것 같아요.**
 ---
 By understanding and practicing **~하는 것 같다**, you'll be able to express your thoughts and assumptions naturally in Korean conversations.
+
+---
+© [Hanabira.org](https://hanabira.org)

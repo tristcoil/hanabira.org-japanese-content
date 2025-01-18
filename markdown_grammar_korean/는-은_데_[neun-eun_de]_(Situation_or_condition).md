@@ -109,3 +109,6 @@ The formation of **-는/은 데** depends on the verb or adjective stem it attac
 2. "It's cold outside, so let's not go out."
 3. Attaching **-는데** to descriptive verbs instead of **-은데/-ㄴ데**.
 ---
+
+---
+© [Hanabira.org](https://hanabira.org)

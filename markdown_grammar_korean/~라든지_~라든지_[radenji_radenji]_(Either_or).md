@@ -120,3 +120,6 @@ While both structures are used to list options, there are nuances:
    - **Answer**: 쇼핑을 한다든지 영화를 본다든지 하자.
 ---
 By understanding and practicing **~라든지 ~라든지**, you can express options and possibilities more naturally in Korean conversations. Try creating your own sentences to become more familiar with this grammar point!
+
+---
+© [Hanabira.org](https://hanabira.org)
