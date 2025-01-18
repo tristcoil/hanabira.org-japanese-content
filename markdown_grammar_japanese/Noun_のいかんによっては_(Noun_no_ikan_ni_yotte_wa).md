@@ -1,6 +1,6 @@
 Processing keyword: Noun のいかんによっては (Noun no ikan ni yotte wa)
 # Japanese Grammar Point: Noun のいかんによっては (Noun no ikan ni yotte wa)
-# Noun のいかんによっては (Noun no ikan ni yotte wa)
+
 ## 1. Introduction
 **のいかんによっては (no ikan ni yotte wa)** is a formal Japanese grammar expression used to convey that the outcome or result depends on the content or nature of the noun mentioned. It's often translated as **"depending on"** or **"according to"** in English. This structure emphasizes that the subsequent action or situation is contingent upon the noun's circumstances.
 

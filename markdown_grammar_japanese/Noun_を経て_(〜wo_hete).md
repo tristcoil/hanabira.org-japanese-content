@@ -1,6 +1,6 @@
 Processing keyword: Noun を経て (〜wo hete)
 # Japanese Grammar Point: Noun を経て (〜wo hete)
-# Grammar Point: Noun を経て (〜をへて)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **Noun を経て (〜をへて)**. This expression is used to indicate that something happens **through**, **via**, or **after going through** a certain period, place, or experience. Understanding how to use **を経て** will help you articulate sequences of events and describe experiences that lead to a particular outcome in Japanese.
 
@@ -31,12 +31,14 @@ When you attach **を経て** to a noun, you express that the action or state de
 ---
 ## 3. Comparative Analysis
 ### Similar Grammar Points
+
 | Grammar Point             | Meaning                                       | Usage Difference                                                                      |
 |---------------------------|-----------------------------------------------|---------------------------------------------------------------------------------------|
 | Noun を通じて (〜をつうじて)   | Through (as a medium or means)               | Emphasizes the medium or agent used to achieve something.                              |
 | Noun を通して (〜をとおして)   | Through (over a period, via)                 | Similar to を通じて but can emphasize duration or an intermediary.                      |
 | Noun によって             | By means of, due to                           | Indicates a method, cause, or agent; often used in passive constructions.              |
 | Noun の後で (〜のあとで)      | After (something)                            | Simply indicates that one action occurs after another without emphasizing the process. |
+
 **Key Difference**: **を経て** specifically highlights the process or experience one goes through to reach a result, often with a sense of progression or development.
 ---
 ## 4. Examples in Context

@@ -1,8 +1,9 @@
 Processing keyword: Verb ようになる (〜you ni naru)
 # Japanese Grammar Point: Verb ようになる (〜you ni naru)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we'll learn about the Japanese grammar point **〜ようになる** (**you ni naru**). This structure is commonly used to express a change or transition in ability, habit, or state over time. It's a useful pattern to describe how someone has come to do something they couldn't do before, or how circumstances have changed.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ### Meaning
 The grammar point **〜ようになる** means:
 - **"to come to (do something)"**
@@ -42,7 +43,7 @@ Unable to (do)       →   Able to (do)
 Did (do)             →   Does not (do)
 ```
 **〜ようになる** indicates the transition from the "Before" state to the "After" state.
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Comparing with 〜になる
 - **〜になる** is used with **nouns** and **na-adjectives** to indicate becoming something.
   **Example:**
@@ -66,7 +67,7 @@ Did (do)             →   Does not (do)
 - **Difference:**
   - **〜ようになる** indicates a change that has **already occurred**.
   - **〜ようにする** emphasizes the **intention or effort** to change.
-# 4. Examples in Context
+## 4. Examples in Context
 ### Sentence Examples
 Below are multiple example sentences demonstrating **〜ようになる** in various contexts.
 #### Example 1: Acquiring a New Ability
@@ -93,7 +94,7 @@ Below are multiple example sentences demonstrating **〜ようになる** in var
 - **彼は夜遅くまで起きていないようになった。**
   - *Kare wa yoru osoku made okite inai you ni natta.*
   - "He doesn't stay up late at night anymore."
-# 5. Cultural Notes
+## 5. Cultural Notes
 ### Cultural Relevance
 In Japanese culture, discussing personal growth and changes in habits is common and reflects self-improvement, which is a valued trait. Using **〜ようになる** allows speakers to express changes modestly, aligning with the cultural emphasis on humility.
 ### Levels of Politeness
@@ -113,7 +114,7 @@ In Japanese culture, discussing personal growth and changes in habits is common 
     - "To become visible" or "to start to see"
   - **聞こえるようになる**
     - "To become audible" or "to start to hear"
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Error Analysis
 **Mistake 1:** Using **〜になる** directly with verbs.
 - **Incorrect:** **日本語を話すになる。**
@@ -139,7 +140,7 @@ In Japanese culture, discussing personal growth and changes in habits is common 
   - Write sentences about changes in your own life to internalize the grammar.
 - **Visualizing Timeframes:**
   - Imagine a timeline to conceptualize the transition from the old state to the new state.
-# 7. Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
 - **〜ようになる** expresses a change or transition in ability, habit, or state.
 - Attach **ようになる** to the **dictionary form** of a verb to indicate **starting** something.
@@ -160,6 +161,8 @@ In Japanese culture, discussing personal growth and changes in habits is common 
    **Answer:**
    - **食べるようになりました** means "I have started eating (it has become that I eat)."
    - **食べるようにしました** means "I tried to eat" or "I made an effort to eat."
+
+
 **Congratulations!** You've learned how to use **〜ようになる** to describe changes in abilities, habits, or states in Japanese. Keep practicing to become more comfortable with this grammar point!
 
 

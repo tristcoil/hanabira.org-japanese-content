@@ -1,6 +1,6 @@
 Processing keyword: どうやって～ (douyatte～)
 # Japanese Grammar Point: どうやって～ (douyatte～)
-# どうやって～ (douyatte~)
+
 ## 1. Introduction
 In learning Japanese, understanding how to inquire about methods or ways to do something is essential for everyday communication. The grammar point **どうやって** (douyatte) plays a crucial role in forming such questions. This lesson will explore the usage of **どうやって**, its formation, and provide examples to help you grasp its application in various contexts.
 
@@ -77,6 +77,7 @@ How did you meet her?
 Minna wa **douyatte** Nihongo o benkyou shite imasu ka?
 **English Translation:**  
 How is everyone studying Japanese?
+
 ---
 ## 5. Cultural Notes
 ### Politeness Levels
@@ -86,6 +87,7 @@ How is everyone studying Japanese?
 ### Social Norms
 - When asking someone **どうやって**, it is polite to consider the context and your relationship with the person.
 - In Japanese culture, being indirect is sometimes preferred, so being too direct with **どうやって** may come off as abrupt in some situations.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes
@@ -113,6 +115,7 @@ How is everyone studying Japanese?
 1. How do you ask "How do you get to the airport?" using どうやって?
 2. What is the difference between どう and どうやって?
 3. Is どうやって polite enough to use in formal contexts?
+
 **Answers:**
 1. 空港へ **どうやって** 行きますか？
 2. **どう** asks about general condition or state; **どうやって** asks about the method or means.

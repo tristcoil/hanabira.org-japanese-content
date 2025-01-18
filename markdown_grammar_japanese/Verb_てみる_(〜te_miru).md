@@ -1,6 +1,6 @@
 Processing keyword: Verb てみる (〜te miru)
 # Japanese Grammar Point: Verb てみる (〜te miru)
-# Verb てみる (〜てみる)
+
 ## 1. Introduction
 The grammar point **〜てみる** is a commonly used expression in Japanese that conveys the idea of "trying to do something" or "doing something to see what it's like." It allows speakers to express a desire to attempt an action and observe the outcome.
 ## 2. Core Grammar Explanation

@@ -1,6 +1,6 @@
 Processing keyword: Verb ていただく (〜te itadaku)
 # Japanese Grammar Point: Verb ていただく (〜te itadaku)
-# Verb ていただく (〜ていただく)
+
 ## 1. Introduction
 The grammar point **〜ていただく** (*te itadaku*) is a humble expression used in Japanese to politely indicate that someone does something for you. It shows respect and humility towards the person performing the action, fitting within the broader system of honorific language in Japanese culture.
 

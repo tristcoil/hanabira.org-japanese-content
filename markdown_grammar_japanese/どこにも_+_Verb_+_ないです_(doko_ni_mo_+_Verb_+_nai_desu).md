@@ -1,6 +1,6 @@
 Processing keyword: どこにも + Verb + ないです (doko ni mo + Verb + nai desu)
 # Japanese Grammar Point: どこにも + Verb + ないです (doko ni mo + Verb + nai desu)
-# どこにも + Verb + ないです (doko ni mo + Verb + nai desu)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar pattern **どこにも + Verb + ないです**. This structure is essential for expressing "nowhere" or "not anywhere" in Japanese, and it's commonly used in everyday conversations. Understanding this pattern will help you negate the existence or action related to places effectively.
 

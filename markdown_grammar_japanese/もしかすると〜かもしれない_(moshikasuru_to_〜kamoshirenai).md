@@ -1,6 +1,6 @@
 Processing keyword: もしかすると〜かもしれない (moshikasuru to 〜kamoshirenai)
 # Japanese Grammar Point: もしかすると〜かもしれない (moshikasuru to 〜kamoshirenai)
-# もしかすると〜かもしれない (moshikasuruto ~ kamoshirenai)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **もしかすると〜かもしれない** (*moshikasuruto ~ kamoshirenai*). This structure is used to express possibility or uncertainty, similar to saying "perhaps" or "might" in English. Understanding this pattern will enhance your ability to convey conjecture or speculation in Japanese conversations.
 
@@ -15,11 +15,13 @@ The structure combines the adverb **もしかすると** (*perhaps*, *possibly*)
 ```plaintext
 もしかすると + [Clause in Plain Form] + かもしれない
 ```
+
 | Part            | Explanation                                     |
 |-----------------|-------------------------------------------------|
 | **もしかすると** | "Perhaps" or "Possibly" (adverb)                |
 | **Plain Form**  | Verb, い-Adj., な-Adj., or Noun in plain form    |
 | **かもしれない** | "Might" or "May" (auxiliary verb expressing uncertainty) |
+
 ---
 ### How to Form
 1. **For Verbs:**

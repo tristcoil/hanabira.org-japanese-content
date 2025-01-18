@@ -1,6 +1,6 @@
 Processing keyword: Noun + 中 (Noun + ちゅう)
 # Japanese Grammar Point: Noun + 中 (Noun + ちゅう)
-# Noun + 中（ちゅう）
+
 ## 1. Introduction
 In Japanese, the grammar pattern **Noun + 中（ちゅう）** is commonly used to indicate that an action or state is in progress. It is similar to saying "in the middle of" or "currently" in English. Understanding this grammar point will enhance your ability to describe ongoing actions and situations in Japanese.
 
@@ -85,6 +85,7 @@ Using **Noun + 中（ちゅう）** is neutral and can be used in both formal an
 1. How do you say "The restroom is occupied/in use" using **中（ちゅう）**?
 2. What is the difference between **勉強中（べんきょうちゅう）** and **勉強中（べんきょうじゅう）**?
 3. Fill in the blank: ただいま、________中です。("We are currently preparing.")
+
 **Answers:**
 1. **トイレは使用中です。**
 2. **勉強中（べんきょうちゅう）** means "in the middle of studying," while **勉強中（べんきょうじゅう）** is incorrect because **中（じゅう）** does not attach to **勉強** in this context.

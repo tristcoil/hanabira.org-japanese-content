@@ -1,6 +1,6 @@
 Processing keyword: Noun を前提にして (Noun wo zentei ni shite)
 # Japanese Grammar Point: Noun を前提にして (Noun wo zentei ni shite)
-# Noun を前提にして (Noun wo zentei ni shite)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **"Noun を前提にして" (Noun wo zentei ni shite)**, a useful expression in Japanese that conveys the idea of doing something **"on the premise of"** or **"assuming"** a certain condition. This structure is commonly used in both spoken and written Japanese to express assumptions, conditions, or prerequisites upon which an action is based.
 

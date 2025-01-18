@@ -1,11 +1,12 @@
 Processing keyword: なにも～ないです (nani mo~nai desu)
 # Japanese Grammar Point: なにも～ないです (nani mo~nai desu)
-# 1. Introduction
+
+## 1. Introduction
 **なにも～ないです (nani mo ~ nai desu)** is a Japanese grammar construct used to express "nothing" or "not anything" in negative sentences. It's a combination of:
 - **なにも (nani mo)**: "anything" or "nothing" (when used with negative verbs)
 - **～ないです (~nai desu)**: polite negative form of a verb
 This expression is essential for learners to negate the existence of something or to indicate that no action has been taken.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ### Meaning
 - **なにも～ないです** translates to "there is nothing" or "do not (verb) anything."
 - It emphasizes the total absence of objects, actions, or states.
@@ -27,7 +28,7 @@ The basic structure is:
 - **なにも** is always paired with a negative verb.
 - **です** adds politeness to the statement.
 - The verb should be in its negative plain or polite form, depending on the context.
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Similar Grammar Points
 1. **なにも～ない (nani mo ~ nai)**
    - Less formal, omits **です**.
@@ -47,7 +48,7 @@ The basic structure is:
 | **なにも～ない**     | Casual           | なにも言わない。           | I say nothing.             |
 | **なにも～ないです** | Polite           | なにも言わないです。       | I say nothing.             |
 | **なにも～ません**   | Polite/Formal    | なにも言いません。         | I say nothing.             |
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Situations
 1. **お手伝いしましょうか。**
    - *Shall I assist you?*
@@ -72,7 +73,7 @@ The basic structure is:
 ### Spoken Context
 - **今日はなにも食べていないです。**
   - *I haven't eaten anything today.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ### Politeness and Formality
 - Japanese language places great emphasis on politeness levels.
 - Using **です/ます** forms shows respect and politeness, suitable for formal situations.
@@ -84,7 +85,7 @@ The basic structure is:
 - **なにもかも**: Means "everything," the opposite of **なにも～ないです**.
   - Example: **なにもかも失った。**
     - *I lost everything.*
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Common Mistakes
 1. **Using Affirmative Verbs with なにも**
    - Incorrect: **なにもあります。**
@@ -102,7 +103,7 @@ The basic structure is:
 ### Mnemonic Device
 - **"Nani mo? No mo!"**
   - If you see **なにも**, think "No more" to remember it means "nothing."
-# 7. Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
 - **なにも～ないです** is used to express "nothing" or "not anything."
 - It requires pairing **なにも** with a negative verb.

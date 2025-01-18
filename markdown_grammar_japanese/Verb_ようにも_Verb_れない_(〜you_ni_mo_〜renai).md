@@ -1,10 +1,11 @@
 Processing keyword: Verb ようにも Verb れない (〜you ni mo 〜renai)
 # Japanese Grammar Point: Verb ようにも Verb れない (〜you ni mo 〜renai)
-# JLPT Grammar Lesson: Verb ようにも Verb れない (〜ようにも〜れない)
 
----
+
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar pattern **Verb ようにも Verb れない (〜ようにも〜れない)**, which expresses the inability to do something even if one wants to. This structure is commonly used to convey frustration or helplessness in situations where external factors prevent an action.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -72,6 +73,7 @@ This grammar pattern is **neutral** and can be used in both formal and informal 
 - Maintaining plain forms for casual conversation.
 ### Idiomatic Expressions
 While **Verb ようにも Verb れない** is itself a grammatical structure, it often appears in idiomatic expressions conveying frustration.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes
@@ -99,8 +101,6 @@ While **Verb ようにも Verb れない** is itself a grammatical structure, it
    - **Answer**: *False.*
 3. **Identify the mistake**: 話そうにも話さない。
    - **Correction**: *話そうにも話せない。*
----
-Feel free to ask any questions or request further clarification on any points covered in this lesson!
 
 
 ---

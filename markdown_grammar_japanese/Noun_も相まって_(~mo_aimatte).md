@@ -1,6 +1,6 @@
 Processing keyword: Noun も相まって (~mo aimatte)
 # Japanese Grammar Point: Noun も相まって (~mo aimatte)
-# Grammar Point: Noun も相まって (~もあいまって)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **Noun も相まって (~もあいまって)**, a useful expression that means **"combined with"** or **"together with"**. This structure is often used to indicate that multiple factors are contributing to a particular result or situation.
 ## 2. Core Grammar Explanation

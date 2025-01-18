@@ -1,6 +1,6 @@
 Processing keyword: まだ～ません (mada ~masen)
 # Japanese Grammar Point: まだ～ません (mada ~masen)
-# まだ～ません (mada ~masen)
+
 ## 1. Introduction
 In Japanese, expressing that an action or event has not occurred **yet** but is expected to happen is essential for daily communication. The grammar pattern **まだ～ません** (*mada ~masen*) allows speakers to convey this meaning politely and effectively.
 

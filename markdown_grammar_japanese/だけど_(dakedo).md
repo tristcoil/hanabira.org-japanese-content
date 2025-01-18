@@ -1,6 +1,6 @@
 Processing keyword: だけど (dakedo)
 # Japanese Grammar Point: だけど (dakedo)
-# だけど (dakedo)
+
 ## 1. Introduction
 In Japanese, connecting words and particles are essential for forming coherent and fluent sentences. **だけど (dakedo)** is a common conjunction used in everyday conversation to introduce a contrast or an unexpected turn in the discussion. Understanding its usage will enhance your ability to express complex thoughts naturally in Japanese.
 

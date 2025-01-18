@@ -1,6 +1,6 @@
 Processing keyword: Verb そうにない (Verb sou ni nai)
 # Japanese Grammar Point: Verb そうにない (Verb sou ni nai)
-# Verb そうにない (Verb そうにない)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verb そうにない (Verb そうにない)**, which is used to express that something **does not seem likely to happen** or there is **no sign of something happening**. This expression is useful when conveying skepticism or doubt about the occurrence of an event based on observation or intuition.
 

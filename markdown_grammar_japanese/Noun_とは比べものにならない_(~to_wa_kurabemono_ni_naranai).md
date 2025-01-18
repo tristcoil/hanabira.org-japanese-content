@@ -1,6 +1,6 @@
 Processing keyword: Noun とは比べものにならない (~to wa kurabemono ni naranai)
 # Japanese Grammar Point: Noun とは比べものにならない (~to wa kurabemono ni naranai)
-# Noun とは比べものにならない (~とはくらべものにならない)
+
 ## 1. Introduction
 The grammar point **Noun とは比べものにならない** is used to express that something is "incomparable" or "no match" to something else. It emphasizes a significant difference in quality, quantity, or degree between two things, suggesting that one is far superior or vastly different from the other.
 

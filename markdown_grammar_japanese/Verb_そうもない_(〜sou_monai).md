@@ -1,6 +1,6 @@
 Processing keyword: Verb そうもない (〜sou monai)
 # Japanese Grammar Point: Verb そうもない (〜sou monai)
-# Verb そうもない (〜そうもない)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verb そうもない (〜そうもない)**. This structure is used to express the speaker's strong belief that something is unlikely to happen. By understanding this grammar point, you'll be able to convey uncertainty or doubt about future events in a natural and fluent manner.
 
@@ -23,11 +23,13 @@ It expresses the speaker's judgment that there is a low possibility of an action
 2. **Add** **そうもない** to the verb stem.
 ---
 ### Example of Formation
+
 | Verb (Dictionary Form) | Verb (Masu-Form) | Verb Stem | + そうもない                | Meaning                                  |
 |------------------------|-------------------|-----------|----------------------------|------------------------------------------|
 | 行く (いく)            | 行きます          | 行き      | 行きそうもない             | It doesn't seem like (someone) will go. |
 | 来る (くる)            | 来ます            | 来        | 来そうもない               | It doesn't seem like (someone) will come. |
 | 雨が降る (あめがふる)  | 雨が降ります      | 雨が降り  | 雨が降りそうもない         | It doesn't seem like it will rain.      |
+
 ---
 ## 3. Comparative Analysis
 ### Similar Grammar Points

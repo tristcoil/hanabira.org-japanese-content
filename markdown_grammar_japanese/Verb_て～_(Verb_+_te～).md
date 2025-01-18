@@ -1,6 +1,6 @@
 Processing keyword: Verb て～ (Verb + te～)
 # Japanese Grammar Point: Verb て～ (Verb + te～)
-# Verb て～ (Verb + て～)
+
 ## 1. Introduction
 The **て-form** of verbs, known as the **"te-form"**, is one of the most essential and versatile conjugations in Japanese grammar. Mastery of the te-form opens the door to constructing more complex sentences, expressing continuous actions, making requests, and connecting ideas smoothly. Understanding and using the te-form is crucial for anyone aiming to achieve fluency in Japanese.
 
@@ -94,6 +94,7 @@ graph TD
 **友達と映画を見て、晩ごはんを食べた。**
 *ともだちと えいがを みて、ばんごはんを たべた。*
 "I watched a movie with friends and ate dinner."
+
 ---
 ## 5. Cultural Notes
 ### Politeness and Formality

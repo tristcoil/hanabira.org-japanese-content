@@ -1,6 +1,6 @@
 Processing keyword: Noun ずくめ (~zukume)
 # Japanese Grammar Point: Noun ずくめ (~zukume)
-# ずくめ (~zukume)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **ずくめ (～ずくめ)**. This expression is used to indicate that something is entirely characterized by a particular quality or condition. It conveys the meaning of "entirely," "all," or "nothing but" a certain state or thing.
 
@@ -13,10 +13,12 @@ In this lesson, we'll explore the Japanese grammar point **ずくめ (～ずく�
 [ Noun ] + ずくめ
 ```
 ### Formation Diagram
+
 | **Component**  |             **Function**             |
 |----------------|--------------------------------------|
 |      Noun      | The quality or state being emphasized |
 |     ずくめ     | Suffix meaning "entirely" or "nothing but" |
+
 ### Detailed Explanation
 - **Usage**: **ずくめ** is used after a noun to express that something is entirely that noun, often implying that every aspect is characterized by it.
   
@@ -30,12 +32,15 @@ In this lesson, we'll explore the Japanese grammar point **ずくめ (～ずく�
 ## 3. Comparative Analysis
 ### Comparison with だらけ (~darake)
 While both **ずくめ** and **だらけ** attach to nouns to indicate abundance or entirety, there are nuanced differences:
+
 |             | **ずくめ**                   | **だらけ**                                 |
 |-------------|------------------------------|--------------------------------------------|
 | **Meaning** | Entirely; nothing but        | Full of; riddled with                      |
 | **Usage**   | Emphasizes totality          | Indicates being covered or filled (negative connotation) |
 | **Example** | **黒ずくめ** (all in black)  | **間違いだらけ** (full of mistakes)        |
+
 **Note**: **だらけ** often carries a negative connotation, whereas **ずくめ** is more neutral or can be positive.
+
 ---
 ## 4. Examples in Context
 ### Sentence Examples

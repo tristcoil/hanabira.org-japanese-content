@@ -1,6 +1,6 @@
 Processing keyword: Noun のごとき Noun (A no gotoki B)
 # Japanese Grammar Point: Noun のごとき Noun (A no gotoki B)
-# Noun のごとき Noun (A のごとき B)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **"Noun のごとき Noun" (A のごとき B)**, which is used to draw comparisons between two nouns, expressing that one noun is **"like"** or **"as if"** it were another. This structure adds a poetic or literary nuance to your language, often found in written Japanese or formal speeches.
 
@@ -113,8 +113,6 @@ Noun B
 1. **b) To compare two nouns, indicating one is like the other.**
 2. **b) Formal writing or literature.**
 3. **a) 彼のごとき人は珍しい。**
----
-
 
 ---
 

@@ -1,6 +1,6 @@
 Processing keyword: い-Adjective く ないます (i-Adjective ku naimasu)
 # Japanese Grammar Point: い-Adjective く ないます (i-Adjective ku naimasu)
-# い-Adjective + くなります (i-Adjective + ku narimasu)
+
 ## 1. Introduction
 In this lesson, we'll explore how to express change or transformation in Japanese using **い-adjectives** with the pattern **くなります**. This construction allows you to say that something "becomes" a certain way, such as "It becomes warm" or "She becomes happy".
 

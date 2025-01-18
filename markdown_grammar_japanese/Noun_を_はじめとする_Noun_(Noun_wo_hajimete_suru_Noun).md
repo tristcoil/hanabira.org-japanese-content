@@ -1,6 +1,6 @@
 Processing keyword: Noun を はじめとする Noun (Noun wo hajimete suru Noun)
 # Japanese Grammar Point: Noun を はじめとする Noun (Noun wo hajimete suru Noun)
-# Grammar Lesson: Noun をはじめとする Noun (Noun を hajimete suru Noun)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「Noun をはじめとする Noun」**, a useful expression to indicate that something is a prime example among a group. It's often translated as **"including..."**, **"starting with..."**, or **"such as..."** in English. This structure is commonly used in formal contexts to introduce representative examples within a larger group.
 

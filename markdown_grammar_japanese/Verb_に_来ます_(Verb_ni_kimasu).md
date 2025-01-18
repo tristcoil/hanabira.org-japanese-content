@@ -1,6 +1,6 @@
 Processing keyword: Verb に 来ます (Verb ni kimasu)
 # Japanese Grammar Point: Verb に 来ます (Verb ni kimasu)
-# Verb に 来ます (Verb ni kimasu)
+
 ## 1. Introduction
 In Japanese, expressing the purpose of movement—such as coming or going somewhere to perform an action—is an essential grammatical structure. One common way to convey "coming to do something" is by using **Verb に 来ます (Verb ni kimasu)**. This lesson will delve into how to use this grammar point effectively in various contexts.
 

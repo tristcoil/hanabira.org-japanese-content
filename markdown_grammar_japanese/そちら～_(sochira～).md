@@ -1,10 +1,11 @@
 Processing keyword: そちら～ (sochira～)
 # Japanese Grammar Point: そちら～ (sochira～)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we will explore the Japanese demonstrative pronoun **そちら (sochira)**. Understanding how to use そちら is essential for effective communication in Japanese, especially in polite conversations. It helps specify locations, directions, people, or things relative to the listener.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning and Usage
 **そちら (sochira)** is a polite demonstrative pronoun that means:
 - **"that way"**
@@ -27,14 +28,14 @@ Japanese demonstratives are classified based on proximity:
 [ Far from both ] <——あちら——
 ```
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 Understanding the differences between **こちら**, **そちら**, **あちら**, and **どちら** is crucial.
 - **こちら (kochira)**: Refers to something near the speaker or associated with the speaker.
 - **そちら (sochira)**: Refers to something near the listener or associated with the listener.
 - **あちら (achira)**: Refers to something away from both the speaker and listener.
 - **どちら (dochira)**: Used when asking about direction, location, or identity (which).
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Sentence Examples
 1. **そちらは何時ですか。**  
    *Sochira wa nanji desu ka.*  
@@ -64,7 +65,7 @@ Understanding the differences between **こちら**, **そちら**, **あちら*
   *Socchi wa dō omou?*  
   "What do you think?"
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - Using **そちら** signifies respect and politeness towards the listener.
 - It's commonly used in business, formal conversations, or when addressing someone of higher status.
@@ -83,7 +84,7 @@ Understanding the differences between **こちら**, **そちら**, **あちら*
   *Ie ie, sochira koso.*  
   "No, thank you."
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 ### Mistake 1: Mixing Up Demonstratives
 - **Incorrect:**  
@@ -103,7 +104,7 @@ Understanding the differences between **こちら**, **そちら**, **あちら*
 - **Tip:**  
   - Think of **"そ"** in **そちら** as pointing **"to you"**.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **そちら (sochira)** is a polite demonstrative pronoun meaning "that way," "there," "that person," or "you."
 - Used to refer to things near or related to the **listener**.

@@ -1,10 +1,9 @@
 Processing keyword: Noun がてら (Noun gatera)
 # Japanese Grammar Point: Noun がてら (Noun gatera)
-# Noun がてら (Noun gatera)
 
----
 ### 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「Noun がてら」 (Noun gatera)**. This expression is used to indicate doing something **"while"** or **"at the same time as"** another action. It's a handy way to express multitasking or taking the opportunity to do something else while engaged in an activity.
+
 ---
 ### 2. Core Grammar Explanation
 #### Meaning

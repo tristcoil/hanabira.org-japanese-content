@@ -1,6 +1,6 @@
 Processing keyword: Noun + 前提で（~zentei de)
 # Japanese Grammar Point: Noun + 前提で（~zentei de)
-# Noun + 前提で（~zentei de)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Noun + 前提で（~zentei de）**, which is used to express doing something **on the premise of** or **assuming** a certain condition or situation. This structure is useful when you want to indicate that an action is taken based on a specific assumption or prerequisite.
 
@@ -25,6 +25,7 @@ The basic structure is:
 | **Noun**    | Assumption/Condition             |
 | **前提で**  | On the premise of/Assuming       |
 | **...**     | Action or statement based on that premise |
+
 ### Usage Notes
 - The noun before **前提で** is the condition assumed to be true.
 - Often used in formal contexts, but applicable in various situations.

@@ -1,6 +1,6 @@
 Processing keyword: Noun たりとも～ない (~tari tomo ~nai)
 # Japanese Grammar Point: Noun たりとも～ない (~tari tomo ~nai)
-# Grammar Point: Noun + たりとも～ない (~たりとも～ない)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar pattern **Noun + たりとも～ない**. This expression is used to emphasize that **not even the smallest amount** or **the least unit** of something is acceptable or available. It's a strong way to express **"not even"**, stressing the importance or strictness of a situation.
 
@@ -40,30 +40,35 @@ However, **たりとも～ない** is often used with minimal units and carries 
 時間がありませんので、**一分たりとも**無駄にできません。
 **English Translation**
 Since we don't have time, we can't waste **even one minute**.
+
 ---
 ### Example 2 (Informal)
 **日本語**
 彼はその秘密を**誰にたりとも**教えなかった。
 **English Translation**
 He didn't tell that secret **to anyone**.
+
 ---
 ### Example 3 (Written)
 **日本語**
 その計画には**一円たりとも**余分な費用はない。
 **English Translation**
 There's not **even one yen** of extra expense in that plan.
+
 ---
 ### Example 4 (Spoken)
 **日本語**
 試合中は**一瞬たりとも**気を抜けない。
 **English Translation**
 During the match, we can't lose focus **even for a moment**.
+
 ---
 ### Example 5 (Polite)
 **日本語**
 ご質問があれば**何なりたりとも**お申し付けください。
 **English Translation**
 If you have any questions, please do not hesitate **to ask anything at all**.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -73,6 +78,7 @@ In Japanese culture, attention to detail and thoroughness are highly valued. Usi
 - **Casual/Informal**: Used among friends or in casual settings, though less common.
 ### Idiomatic Expressions
 - **一刻たりとも油断できない**: Cannot let one's guard down **even for a moment**.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -101,7 +107,6 @@ In Japanese culture, attention to detail and thoroughness are highly valued. Usi
    **Answer**: He has never forgotten about her **even for a moment**.
 ---
 By mastering **Noun + たりとも～ない**, you'll be able to express emphatic negation, adding depth and precision to your Japanese communication.
----
 
 
 ---

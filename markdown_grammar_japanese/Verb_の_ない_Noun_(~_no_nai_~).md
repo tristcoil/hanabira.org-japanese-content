@@ -1,6 +1,6 @@
 Processing keyword: Verb の ない Noun (~ no nai ~)
 # Japanese Grammar Point: Verb の ない Noun (~ no nai ~)
-# JLPT Grammar Lesson: ～のない～
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **～のない～** (Verb の ない), which is used to describe a noun that lacks something or does not have a certain attribute or action. This structure is useful for expressing absence or non-existence in a clear and concise way.
 
@@ -19,14 +19,17 @@ Verb (Dictionary Form) + の + ない + Noun
 - **ない:** The negative form of ある (to have/exist), meaning "do not have" or "there is no".
 - **Noun:** The noun being described as lacking something.
 ### Formation Diagram
+
 | Part                   | Function                                 | Example        |
 |------------------------|------------------------------------------|----------------|
 | **Verb (Dictionary Form)** | Action or state being negated            | 食べる (taberu) |
 | **の**                 | Nominalizer (turns verb into noun)       | の               |
 | **ない**               | Negative form of ある (do not have)      | ない             |
 | **Noun**               | Noun being modified                      | 時間 (jikan)     |
+
 **Combined:** 食べる **の** ない **時間**
 **Translation:** "Time without eating" or "Time when (I) don't eat"
+
 ---
 ## 3. Comparative Analysis
 ### Similar Grammar Points
@@ -107,8 +110,6 @@ These expressions highlight the absence of essential elements in relationships o
    **Answer:** 雲 (Kumo). The full sentence is **雲のない空** (Kumo no nai sora).
 ---
 By understanding and practicing the **～のない～** structure, you'll be able to express the absence of actions or qualities in Japanese more naturally and precisely.
----
-
 
 ---
 

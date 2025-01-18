@@ -1,6 +1,6 @@
 Processing keyword: Noun を機にして (~wo ki ni shite)
 # Japanese Grammar Point: Noun を機にして (~wo ki ni shite)
-# 「Noun を機にして」(~wo ki ni shite) Grammar Lesson
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「Noun を機にして」 (~wo ki ni shite)**. This expression is used to indicate taking an opportunity presented by a particular event or situation to initiate an action or bring about a change. It often translates to **"taking this opportunity to..."** or **"on the occasion of..."** in English.
 
@@ -99,8 +99,6 @@ In this lesson, we'll explore the Japanese grammar point **「Noun を機にし�
    - **Answer**: を機にして
 ---
 By mastering **「Noun を機にして」**, you can express changes and actions taken due to significant events in a formal and sophisticated manner in Japanese. Practice creating your own sentences to become comfortable with this grammar point!
----
-
 
 ---
 

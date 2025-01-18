@@ -1,6 +1,6 @@
 Processing keyword: Noun + ならでは (~nara de wa)
 # Japanese Grammar Point: Noun + ならでは (~nara de wa)
-# Grammar Point: Noun + ならでは (~nara de wa)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「Noun + ならでは」**. This expression is used to highlight something unique or characteristic of a particular noun. It's a way to express that only the specified noun possesses a certain quality or can perform a particular action.
 

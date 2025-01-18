@@ -1,6 +1,6 @@
 Processing keyword: Verb る こと ができる (ru koto ga dekiru)
 # Japanese Grammar Point: Verb る こと ができる (ru koto ga dekiru)
-# Verbることができる (ru koto ga dekiru)
+
 ## 1. Introduction
 The grammar structure **Verbることができる** is used in Japanese to express **ability or possibility** to do something. It translates to "**can**" or "**be able to**" in English.
 
@@ -143,7 +143,6 @@ Japanese has another way to express ability called the **Potential Form**.
 1. **a)** 日本語を読むことができます。  
 2. **b)** 食べることができる  
 3. **No**, you should not combine the potential form **話せる** with **ことができる**.
----
 
 
 ---

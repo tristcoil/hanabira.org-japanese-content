@@ -1,6 +1,6 @@
 Processing keyword: Verb ようか Verbる まいか (Verb you ka Verb ru mai ka)
 # Japanese Grammar Point: Verb ようか Verbる まいか (Verb you ka Verb ru mai ka)
-# Verbようか Verbるまいか (Verb you ka Verbru mai ka)
+
 ## 1. Introduction
 The grammar point **Verbようか Verbるまいか** is used in Japanese to express indecision or hesitation about whether to do something or not. It reflects a state of internal debate, where the speaker is contemplating two options: performing an action or refraining from it.
 **Equivalent English expressions:**
@@ -54,26 +54,31 @@ The grammar pattern is formed as follows:
 **旅行に行こうか行くまいか迷っている。**
 *Ryokō ni ikou ka iku mai ka mayotte iru.*
 "I'm hesitating whether to go on a trip or not."
+
 ---
 ### 2. Formal Writing
 **この提案を受け入れようか受け入れるまいか検討中です。**
 *Kono teian wo ukeireyou ka ukeireru mai ka kentō chū desu.*
 "We are considering whether to accept this proposal or not."
+
 ---
 ### 3. Internal Monologue
 **ダイエットを始めようか始めるまいか悩んでいる。**
 *Daietto wo hajimeyou ka hajimeru mai ka nayande iru.*
 "I'm troubled over whether to start a diet or not."
+
 ---
 ### 4. Spoken Dialogue
 **新しい車を買おうか買うまいか父に相談した。**
 *Atarashii kuruma wo kaou ka kau mai ka chichi ni sōdan shita.*
 "I consulted my father about whether to buy a new car or not."
+
 ---
 ### 5. Business Context
 **プロジェクトを延期しようか延期するまいか議論しています。**
 *Purojekuto wo enki shiyou ka enki suru mai ka giron shite imasu.*
 "We are debating whether to postpone the project or not."
+
 ---
 ## 5. Cultural Notes
 ### Decision-Making in Japanese Culture
@@ -82,6 +87,7 @@ The grammar pattern is formed as follows:
 ### Politeness Levels
 - **Formal vs. Informal**: The structure can be adjusted for politeness by modifying the verbs and adding honorifics or polite forms.
 - **Use in Literature**: This pattern is also common in written works, reflecting characters' inner thoughts.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes
@@ -98,12 +104,14 @@ The grammar pattern is formed as follows:
 - **Remember the Pairing**: The volitional form always pairs with **か** to express "shall I," and the dictionary form pairs with **まいか** to express "shall I not."
 - **Practice Conjugation**: Review how to form the volitional form for different verb groups to avoid errors.
 - **Mnemonic Device**: Think of **"Let's do or let's not do"** to recall the structure.
+
 ---
 ## 7. Summary and Review
 ### Key Takeaways
 - The pattern **Verbようか Verbるまいか** expresses personal indecision between doing and not doing an action.
 - It highlights a thoughtful consideration and internal debate.
 - Proper verb conjugation is essential to accurately use this grammar point.
+
 ---
 ### Quick Recap Quiz
 #### Question 1
@@ -111,19 +119,23 @@ The grammar pattern is formed as follows:
 映画を（____）か（____）まいか迷っています。
 **Answer:**
 映画を **見よう** か **見る** まいか迷っています。
+
 ---
 #### Question 2
 **True or False**: The structure **Verbようか Verbるまいか** can be used to express decisions about someone else's actions.
 **Answer:**
 **False.** This structure typically expresses the speaker's own indecision.
+
 ---
 #### Question 3
 **Choose the correct sentence using the grammar point:**
 a) 明日、雨が降るか降らないか分からない。
 b) 明日、雨が降ろうか降るまいか心配だ。
 c) 明日、雨が降るべきか降るまいか考えている。
+
 **Answer:**
 **b)** 明日、雨が **降ろうか降るまいか** 心配だ。
+
 ---
 By understanding and practicing this grammar pattern, you'll be able to express your internal debates and hesitations more naturally in Japanese.
 

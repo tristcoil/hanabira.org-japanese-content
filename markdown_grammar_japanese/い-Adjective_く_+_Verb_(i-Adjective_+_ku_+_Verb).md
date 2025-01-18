@@ -1,6 +1,6 @@
 Processing keyword: い-Adjective く + Verb (i-Adjective + ku + Verb)
 # Japanese Grammar Point: い-Adjective く + Verb (i-Adjective + ku + Verb)
-# い-Adjective く + Verb (i-Adjective + ku + Verb)
+
 ## 1. Introduction
 In Japanese, **い-adjectives** can be transformed to modify verbs, describing **how** an action is performed. This is done by changing the adjective ending from "**い**" to "**く**" and placing it before a verb. Understanding this grammar point is essential for expressing actions with more nuance and detail.
 

@@ -1,6 +1,6 @@
 Processing keyword: Verb よう (~ you)
 # Japanese Grammar Point: Verb よう (~ you)
-# ～よう (Verb Volitional Form)
+
 ## 1. Introduction
 In Japanese, expressing intention, willingness, or making suggestions is a key part of daily communication. The grammar point ～よう is used to convey such meanings. It allows speakers to express their own intentions or to invite others to join in an action.
 
@@ -107,6 +107,7 @@ For verbs ending with **-iru** or **-eru**, replace **る** with **よう**.
 1. How do you form the volitional form of Group II verbs?
 2. Convert the verb **書く** to its volitional form.
 3. When should you use **～ましょう** instead of **～よう**?
+
 **Answers:**
 1. Replace **る** with **よう**.
 2. 書く → 書こう

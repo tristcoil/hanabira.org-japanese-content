@@ -1,6 +1,6 @@
 Processing keyword: Noun に します (Noun ni shimasu)
 # Japanese Grammar Point: Noun に します (Noun ni shimasu)
-# Noun にします (Noun ni shimasu)
+
 ## 1. Introduction
 The grammar point **"Noun にします" (Noun ni shimasu)** is commonly used in Japanese to express a decision or choice among options. It translates to "I will have...", "I'll go with...", or "I choose..." in English. This construction is especially frequent in daily conversations, such as ordering food, shopping, or deciding on plans.
 

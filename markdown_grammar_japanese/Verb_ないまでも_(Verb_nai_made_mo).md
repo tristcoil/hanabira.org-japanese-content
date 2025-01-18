@@ -1,6 +1,6 @@
 Processing keyword: Verb ないまでも (Verb nai made mo)
 # Japanese Grammar Point: Verb ないまでも (Verb nai made mo)
-# Verb ないまでも (Verb nai made mo)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verb ないまでも** (*Verb nai made mo*). This structure is used to express that even if something doesn't reach a certain extreme, there's still some degree or alternative that applies. It's similar to saying "even if not..., at least..." in English.
 

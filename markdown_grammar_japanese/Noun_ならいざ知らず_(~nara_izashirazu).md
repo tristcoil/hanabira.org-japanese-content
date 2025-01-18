@@ -1,6 +1,6 @@
 Processing keyword: Noun ならいざ知らず (~nara izashirazu)
 # Japanese Grammar Point: Noun ならいざ知らず (~nara izashirazu)
-# Noun ならいざ知らず (~nara izashirazu)
+
 ## 1. Introduction
 The grammar point **ならいざ知らず (nara izashirazu)** is an expression used in Japanese to highlight a contrast between two situations. It suggests that something might be acceptable or understandable in one case (the noun before なら), but not in another (the scenario being discussed). This structure is often used to emphasize a point or express surprise, disbelief, or criticism.
 
@@ -84,8 +84,6 @@ The basic structure is:
 1. **[Noun] + ならいざ知らず + [Main Clause]**
 2. *"Perhaps it's necessary in the countryside, but in the city, you can live without a car."*
 3. **Formal contexts**
----
-
 
 ---
 

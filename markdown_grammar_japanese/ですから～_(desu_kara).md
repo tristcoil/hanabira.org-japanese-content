@@ -1,6 +1,6 @@
 Processing keyword: ですから～ (desu kara)
 # Japanese Grammar Point: ですから～ (desu kara)
-# 「ですから」(desu kara) - Expressing "Therefore" in Japanese
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「ですから」 (desu kara)**, which is used to indicate a reason or cause, similar to "therefore" or "so" in English. Understanding how to use 「ですから」 will help you connect sentences and express logical relationships in your conversations and writing.
 

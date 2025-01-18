@@ -1,6 +1,6 @@
 Processing keyword: Verb てあげる (Verb te ageru)
 # Japanese Grammar Point: Verb てあげる (Verb te ageru)
-# JLPT Grammar Point: Verb てあげる (Verb te ageru)
+
 ## 1. Introduction
 The grammar pattern **Verb てあげる** is used to express doing something for someone else as a kind action or favor. It highlights the speaker or subject performing an action that benefits another person. Understanding this grammar point is essential for expressing acts of kindness and politeness in Japanese.
 
@@ -27,11 +27,13 @@ The formation of this grammar point is straightforward:
 ---
 ## 3. Comparative Analysis
 ### Verb てあげる vs. Verb てくれる vs. Verb てもらう
+
 | Grammar Point     | Usage                                             | Example                                                                           |
 | ----------------- | ------------------------------------------------- | --------------------------------------------------------------------------------- |
 | **Verb てあげる** | You/someone does something for someone else       | 私は友達に本を貸して**あげました**。<br>(I lent a book to a friend.)                 |
 | **Verb てくれる** | Someone does something for you                    | 友達が本を貸して**くれました**。<br>(A friend lent me a book.)                      |
 | **Verb てもらう** | You receive the action from someone               | 友達に本を貸して**もらいました**。<br>(I had a friend lend me a book.)              |
+
 - **てあげる**: Action flows **away** from the speaker.
 - **てくれる**: Action flows **towards** the speaker.
 - **てもらう**: The speaker **receives** the action.
@@ -42,18 +44,21 @@ The formation of this grammar point is straightforward:
 友達に宿題を手伝ってあげた。
 **English**
 I helped my friend with their homework.
+
 ---
 ### Example 2: Formal
 **日本語**
 先生は学生に新しい言葉を教えてあげました。
 **English**
 The teacher taught new words to the students.
+
 ---
 ### Example 3: Polite Offer
 **日本語**
 荷物を持ってあげましょうか。
 **English**
 Shall I carry your luggage for you?
+
 ---
 ### Example 4: Expressing Gratitude
 **日本語**
@@ -61,12 +66,14 @@ Shall I carry your luggage for you?
 **English**
 She baked a cake for me.
 *(Note: While "あげる" typically indicates the speaker giving an action, in some contexts, it can be used when someone does something for the speaker, often in close relationships.)*
+
 ---
 ### Example 5: Casual Conversation
 **日本語**
 お母さんに部屋を掃除してあげたよ。
 **English**
 I cleaned the room for Mom.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -79,6 +86,7 @@ In Japanese culture, offering assistance and performing actions for others is a 
 - **手伝ってあげるよ！** (I'll help you!)
 - **教えてあげましょう。** (Shall I teach you?)
 These phrases are commonly used to offer assistance in a friendly manner.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -113,11 +121,9 @@ These phrases are commonly used to offer assistance in a friendly manner.
 3. **Answer**: **False**.  
 *Verb てあげる is used when you do something for someone else. When someone does something for you, use Verb てくれる.*
 ---
-## Practice Further!
+
 To solidify your understanding, try creating your own sentences using **Verb てあげる**. Think about actions you can do for friends or family and express them using this grammar point.
----
-# Short URL
-https://is.gd/XqfCwi
+
 
 
 ---

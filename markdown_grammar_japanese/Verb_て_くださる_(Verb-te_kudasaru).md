@@ -1,6 +1,6 @@
 Processing keyword: Verb て くださる (Verb-te kudasaru)
 # Japanese Grammar Point: Verb て くださる (Verb-te kudasaru)
-# Verb て くださる (Verb-te kudasaru)
+
 ## 1. Introduction
 In Japanese, expressing actions done as a favor involves specific grammar structures that convey respect and politeness. **"Verb て くださる"** is an honorific expression used when someone of higher status performs an action for the speaker or the speaker's in-group. Understanding this grammar point is essential for polite and respectful communication in Japanese.
 

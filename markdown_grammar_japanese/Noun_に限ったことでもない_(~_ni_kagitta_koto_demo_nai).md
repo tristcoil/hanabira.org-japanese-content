@@ -1,6 +1,6 @@
 Processing keyword: Noun に限ったことでもない (~ ni kagitta koto demo nai)
 # Japanese Grammar Point: Noun に限ったことでもない (~ ni kagitta koto demo nai)
-# Grammar Point: Noun に限ったことでもない (~にかぎったことでもない)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **「Noun に限ったことでもない」** (*Noun ni kagitta koto demo nai*), which is used to express that something is **not limited only to** a particular noun. This expression emphasizes that an issue or situation is **not exclusive** to one thing and can apply more broadly.
 
@@ -17,12 +17,14 @@ The structure of this grammar point is straightforward:
 Noun + に限ったことでもない
 ```
 ### Formation Diagram
+
 | **Component**           | **Explanation**                           |
 |-------------------------|-------------------------------------------|
 | **Noun**                | The specific thing/person/place in focus  |
 | **に**                  | Particle indicating direction or scope    |
 | **限った**              | Past tense of 限る (*kagiru*), "to limit" |
 | **ことでもない**        | "Not even a matter of" (negation)         |
+
 ### Detailed Explanation
 - **限る (かぎる)** means "to limit." The past tense **限った** modifies **こと**, forming **限ったこと** ("limited matter").
 - **でもない** is the negation form meaning "not even."
@@ -73,6 +75,7 @@ In Japanese culture, acknowledging broader societal issues without singling out 
 - Commonly used in news, reports, and formal discussions.
 ### Idiomatic Expressions
 While **に限ったことでもない** itself is an idiomatic phrase, it can be paired with other expressions to emphasize inclusivity.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -107,8 +110,6 @@ While **に限ったことでもない** itself is an idiomatic phrase, it can b
    - **Answer**: False
 ---
 By understanding and practicing **「Noun に限ったことでもない」**, you can more effectively express that an issue or situation is not confined to a single entity, but is more widespread. Try incorporating this grammar point into your own sentences to enhance your Japanese communication skills!
----
-
 
 ---
 

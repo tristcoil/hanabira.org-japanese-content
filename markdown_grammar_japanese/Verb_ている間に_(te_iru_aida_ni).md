@@ -1,6 +1,6 @@
 Processing keyword: Verb ている間に (te iru aida ni)
 # Japanese Grammar Point: Verb ている間に (te iru aida ni)
-# JLPT Grammar Lesson: Verb ている間に (～ているあいだに)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **Verb ている間に (～ているあいだに)**, which is used to express the idea of "while doing something, something else happens." This structure is commonly used in Japanese to indicate that an action occurs during the duration of another ongoing action.
 
@@ -35,27 +35,32 @@ The basic structure is:
 - **Verb ている + 間に**: Emphasizes the **continuation** of an action during which another action occurs.
   - Example: *食事している間に電話が鳴った。* ("The phone rang while I was eating.")
 **Note**: The use of ている highlights the ongoing nature of the action.
+
 ---
 ## 4. Examples in Context
 ### Example 1: Casual Conversation
 **Japanese**: 私が昼寝している間に、友達が来た。
 **Romaji**: Watashi ga hirune shite iru aida ni, tomodachi ga kita.
 **English**: While I was taking a nap, my friend came over.
+
 ---
 ### Example 2: Formal Writing
 **Japanese**: 社長が海外出張している間に、新しいプロジェクトが始まりました。
 **Romaji**: Shachō ga kaigai shucchō shite iru aida ni, atarashii purojekuto ga hajimarimashita.
 **English**: While the president was on an overseas business trip, a new project started.
+
 ---
 ### Example 3: Everyday Situation
 **Japanese**: 料理を作っている間に、テレビでニュースを見ます。
 **Romaji**: Ryōri o tsukutte iru aida ni, terebi de nyūsu o mimasu.
 **English**: I watch the news on TV while I'm cooking.
+
 ---
 ### Example 4: Polite Conversation
 **Japanese**: お待ちいただいている間に、お飲み物をどうぞ。
 **Romaji**: Omachi itadaite iru aida ni, onomimono o dōzo.
 **English**: Please enjoy a beverage while you are waiting.
+
 ---
 ## 5. Cultural Notes
 ### Levels of Politeness
@@ -67,6 +72,7 @@ The basic structure is:
 ### Idiomatic Expressions
 - **留守の間に (rusu no aida ni)**: "While someone is away"
   - Example: *彼が留守の間に、手紙が届いた。* ("A letter arrived while he was away.")
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistake 1: Misusing 間 and 間に
@@ -80,6 +86,7 @@ The basic structure is:
   - Incorrect: *食べる間に電話が鳴った。*
   - Correct: *食べている間に電話が鳴った。*
 **Tip**: Ensure the ongoing action is in the **ている** form to indicate continuity.
+
 ---
 ## 7. Summary and Review
 ### Key Takeaways

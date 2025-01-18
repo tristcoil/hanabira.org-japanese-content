@@ -1,6 +1,6 @@
 Processing keyword: Verb させられる (~saserareru)
 # Japanese Grammar Point: Verb させられる (~saserareru)
-# Verb させられる (~saserareru)
+
 ## 1. Introduction
 In Japanese, the causative-passive form represented by **～させられる** (`~saserareru`) is used to express situations where someone is **made to do** something by someone else. This form combines the meanings of the causative (making or letting someone do something) and the passive (being acted upon) voices.
 

@@ -1,6 +1,6 @@
 Processing keyword: なんで～ (nande～)
 # Japanese Grammar Point: なんで～ (nande～)
-# なんで～ (nande～)
+
 ## 1. Introduction
 Understanding how to ask **"why"** in Japanese is essential for engaging in meaningful conversations. The word **なんで (nande)** is a common interrogative used to inquire about reasons or causes behind actions and events.
 

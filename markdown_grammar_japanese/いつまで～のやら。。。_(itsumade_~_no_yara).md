@@ -1,6 +1,6 @@
 Processing keyword: いつまで～のやら。。。 (itsumade ~ no yara)
 # Japanese Grammar Point: いつまで～のやら。。。 (itsumade ~ no yara)
-# JLPT Grammar Point: いつまで〜のやら (itsumade 〜 no yara)
+
 ## 1. Introduction
 In this lesson, we will delve into the Japanese grammar point **「いつまで〜のやら」 (itsumade 〜 no yara)**. This expression is used to convey uncertainty or wonder about the duration of a situation or event. It's akin to saying "I wonder until when..." or "Who knows how long...". Understanding this grammar point will enhance your ability to express speculation and introspection in Japanese.
 
@@ -39,32 +39,38 @@ The structure of this grammar point is:
    - **Nuance**: Directly states lack of knowledge; less contemplative.
    - **Example**: *この仕事がいつまで続くか分からない。*
    - **Translation**: "I don't know until when this work will continue."
+
 ---
 ## 4. Examples in Context
 ### Example 1: Formal Context
 **Japanese**: この不況はいつまで続くのやら。
 **Romaji**: Kono fukyō wa itsumade tsuzuku no yara.
 **English**: I wonder until when this recession will continue.
+
 ---
 ### Example 2: Informal Context
 **Japanese**: 彼はいつまで寝ているのやら。
 **Romaji**: Kare wa itsumade nete iru no yara.
 **English**: Who knows how long he'll keep sleeping.
+
 ---
 ### Example 3: Written Context
 **Japanese**: 戦争はいつまで続くのやら、誰も答えを知らない。
 **Romaji**: Sensō wa itsumade tsuzuku no yara, dare mo kotae o shiranai.
 **English**: I wonder until when the war will continue; nobody knows the answer.
+
 ---
 ### Example 4: Spoken Context
 **Japanese**: この騒音はいつまで続くのやら。
 **Romaji**: Kono sōon wa itsumade tsuzuku no yara.
 **English**: I wonder how long this noise will go on.
+
 ---
 ### Example 5: Expressing Concern
 **Japanese**: 物価の上昇はいつまで続くのやら。
 **Romaji**: Bukka no jōshō wa itsumade tsuzuku no yara.
 **English**: I wonder until when the rising prices will continue.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -76,6 +82,7 @@ The structure of this grammar point is:
   - **Example**: *彼はいつまで寝ているかな。* ("I wonder how long he'll keep sleeping.")
 ### Idiomatic Expressions
 While **いつまで〜のやら** is not an idiom, it's part of expressions that reflect introspective or contemplative thoughts, which are prevalent in Japanese language and literature.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -88,6 +95,7 @@ While **いつまで〜のやら** is not an idiom, it's part of expressions tha
 - **Remember the の**: Think of **のやら** as a set phrase; the **の** nominalizes the preceding clause, making it a noun phrase to which **やら** applies.
 - **Practice with Context**: Create sentences about situations you're uncertain about to internalize the usage.
 - **Associate with Emotions**: Since **のやら** often conveys concern, pairing it with emotional situations can help remember its nuance.
+
 ---
 ## 7. Summary and Review
 ### Key Takeaways
@@ -103,6 +111,7 @@ While **いつまで〜のやら** is not an idiom, it's part of expressions tha
    **Answer**: の （Correct: 彼女の怒りはいつまで続く**の**やら。）
 3. **Is 「いつまで〜のやら」 typically used in formal or informal contexts?**
    **Answer**: Formal contexts.
+
 ---
 By understanding and practicing this grammar point, you'll enhance your ability to express nuanced thoughts and uncertainties in Japanese, making your language use more natural and expressive.
 

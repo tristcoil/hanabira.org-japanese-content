@@ -1,8 +1,9 @@
 Processing keyword: Noun もらう (Noun wo morau)
 # Japanese Grammar Point: Noun もらう (Noun wo morau)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **"Noun を もらう (Noun wo morau)"**, which means **"to receive something"**. This grammar structure is essential when expressing the act of receiving items or favors from others in Japanese. Understanding how to use **もらう (morau)** correctly will enhance your ability to communicate gratitude and discuss exchanges in everyday conversations.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 **もらう (morau)** is a verb that means **"to receive"**. It is used when the **speaker or subject receives something from someone else**.
 ## Structure
@@ -29,7 +30,7 @@ graph LR
 A[友達 (Friend)] -- に (from) --> B[私 (I)]
 B -- を (receive) --> C[本 (Book)]
 ```
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 Understanding how **もらう** differs from similar verbs is crucial.
 ### もらう vs. くれる vs. あげる
 | Verb     | Meaning         | Perspective           | Structure                             |
@@ -49,7 +50,7 @@ Understanding how **もらう** differs from similar verbs is crucial.
   Watashi wa tomodachi ni hon wo agemashita.
   I gave a book to my friend.
   ```
-# 4. Examples in Context
+## 4. Examples in Context
 Let's look at various sentences using **もらう** in different contexts.
 ### Formal Speech
 1. **私は上司に推薦状をもらいました。**
@@ -79,7 +80,7 @@ Let's look at various sentences using **もらう** in different contexts.
 2. **Cさん**：先生にアドバイスをもらいました。
    - *C-san: Sensei ni adobaisu wo moraimashita.*
    - *C: I received advice from my teacher.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Expressing Gratitude**: In Japanese culture, receiving something often implies a need to express gratitude. Phrases like **ありがとうございます (Arigatō gozaimasu)** are commonly used.
 - **Gift-Giving Etiquette**: Gift exchanges are important in Japan, such as during **お中元 (Ochūgen)** and **お歳暮 (Oseibo)** seasons.
@@ -90,7 +91,7 @@ Let's look at various sentences using **もらう** in different contexts.
 - **お世話になっている人からお礼をもらう**
   - *Osewa ni natteiru hito kara orei wo morau*
   - *To receive thanks from someone you are indebted to.*
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Mistake**: Using **が (ga)** instead of **に (ni)** for the giver.
   - **Incorrect**: 私は友達**が**プレゼントをもらいました。
@@ -100,7 +101,7 @@ Let's look at various sentences using **もらう** in different contexts.
 ## Learning Strategies
 - **Mnemonic Device**: Think of **もらう** as "More to me", focusing on receiving.
 - **Practice Sentences**: Create your own sentences replacing the noun and the giver to get comfortable with the structure.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **もらう (morau)** means "to receive" and focuses on the receiver.
 - The typical structure is **[Receiver] は [Giver] に [Noun] を もらう**.
@@ -119,7 +120,6 @@ Let's look at various sentences using **もらう** in different contexts.
 
 ---
 By understanding and practicing **Noun を もらう**, you'll be better equipped to express receiving items or favors in Japanese, enhancing your communication skills in various social contexts.
-
 
 ---
 

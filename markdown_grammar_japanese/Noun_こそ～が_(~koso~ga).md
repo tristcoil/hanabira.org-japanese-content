@@ -1,6 +1,6 @@
 Processing keyword: Noun こそ～が (~koso~ga)
 # Japanese Grammar Point: Noun こそ～が (~koso~ga)
-# Noun こそ～が (～**koso**~**ga**)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Noun こそ～が**. This structure is used to emphasize a noun and then provide a contrasting statement. It's a way to highlight something as important, while acknowledging a limitation or exception related to it.
 

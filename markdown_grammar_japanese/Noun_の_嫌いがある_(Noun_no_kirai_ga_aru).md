@@ -1,6 +1,6 @@
 Processing keyword: Noun の 嫌いがある (Noun no kirai ga aru)
 # Japanese Grammar Point: Noun の 嫌いがある (Noun no kirai ga aru)
-# Grammar Lesson: Noun の 嫌いがある (Noun no kirai ga aru)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **Noun の 嫌いがある (Noun no kirai ga aru)**. This expression is used to indicate that someone has a tendency or is prone to a certain behavior or characteristic, often with a negative connotation. Understanding this grammar point will help you express nuanced observations about habits and tendencies in Japanese.
 

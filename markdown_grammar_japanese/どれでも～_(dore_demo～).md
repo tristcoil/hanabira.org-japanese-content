@@ -1,6 +1,6 @@
 Processing keyword: どれでも～ (dore demo～)
 # Japanese Grammar Point: どれでも～ (dore demo～)
-# どれでも～ (Dore demo~)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **どれでも** (*dore demo*), which means **"any (of them)"**. This expression is used when you want to indicate that any option among a specific set is acceptable. It's a useful phrase for everyday conversations, especially when offering choices or making selections.
 

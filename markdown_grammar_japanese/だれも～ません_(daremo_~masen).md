@@ -1,6 +1,6 @@
 Processing keyword: だれも～ません (daremo ~masen)
 # Japanese Grammar Point: だれも～ません (daremo ~masen)
-# だれも～ません (daremo ~masen)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **"だれも～ません" (daremo ~masen)**, which is used to express the idea of "no one" or "nobody" doing something. This structure is essential for negating actions related to people and is commonly used in daily conversations.
 

@@ -1,6 +1,6 @@
 Processing keyword: Verb ようと思う (Verb-you to omou)
 # Japanese Grammar Point: Verb ようと思う (Verb-you to omou)
-# Grammar Lesson: Verb ようと思う (Verb + ようとおもう)
+
 ## 1. Introduction
 The Japanese grammar pattern **Verb ようと思う** is used to express the speaker's **intention** or **decision** to perform an action. It conveys that the speaker is thinking of doing something or planning to do it in the near future. This structure is essential for sharing your plans, resolutions, or immediate decisions in a natural and culturally appropriate way.
 

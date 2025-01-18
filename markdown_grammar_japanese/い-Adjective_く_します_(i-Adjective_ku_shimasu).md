@@ -1,6 +1,6 @@
 Processing keyword: い-Adjective く します (i-Adjective ku shimasu)
 # Japanese Grammar Point: い-Adjective く します (i-Adjective ku shimasu)
-# い-Adjective く します (i-Adjective + くします)
+
 ## 1. Introduction
 In Japanese, the grammar pattern **〜くします** is used to indicate making something change into a certain state described by an **い-adjective**. It translates to "make something [adjective]" or "make something become [adjective]" in English. This is a useful structure to express changes or adjustments to conditions, objects, or situations.
 
@@ -87,8 +87,6 @@ To form this pattern, you:
    - **Answer:** 小さく (*chisaku*)
 3. True or False: The adjective **きれい** uses **〜くします** when using this grammar pattern.
    - **Answer:** False (It uses **〜にします** because **きれい** is a **な-adjective**.)
----
-
 
 ---
 

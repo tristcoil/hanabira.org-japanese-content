@@ -1,6 +1,6 @@
 Processing keyword: Noun がほしいです (〜ga hoshii desu)
 # Japanese Grammar Point: Noun がほしいです (〜ga hoshii desu)
-# Noun がほしいです (〜がほしいです)
+
 ## 1. Introduction
 Expressing desire is a fundamental aspect of communication. In Japanese, the grammar pattern **Noun がほしいです** (〜がほしいです) is used to indicate that the speaker wants something. This lesson will guide you through understanding and using this grammar point effectively.
 
@@ -104,8 +104,6 @@ The basic structure is:
    - **Answer**: Yes. *(Eiga ga mitai desu.)* means "I want to watch a movie."
 ---
 Practice using **Noun がほしいです** in your daily life to express your desires naturally in Japanese!
----
-
 
 ---
 

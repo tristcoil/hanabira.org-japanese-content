@@ -1,6 +1,6 @@
 Processing keyword: Noun と～ (Noun to～)
 # Japanese Grammar Point: Noun と～ (Noun to～)
-# Japanese Grammar Lesson: Noun と～
+
 ## 1. Introduction
 Welcome to today's lesson on the particle **と (to)** in Japanese grammar! This particle plays a crucial role in connecting nouns, expressing companionship, and indicating quotations. Mastering the use of **と** will enhance your ability to create complex sentences and communicate more naturally in Japanese.
 

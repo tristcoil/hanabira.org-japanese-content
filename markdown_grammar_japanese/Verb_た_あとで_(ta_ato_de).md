@@ -1,6 +1,6 @@
 Processing keyword: Verb た あとで (ta ato de)
 # Japanese Grammar Point: Verb た あとで (ta ato de)
-# Japanese Grammar Lesson: Verbたあとで (ta ato de)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **Verbたあとで (ta ato de)**, which is used to express "after doing [something]" in Japanese. This structure is essential for indicating the sequence of actions and is commonly used in daily conversations.
 
@@ -18,12 +18,14 @@ In this lesson, we'll explore the grammar point **Verbたあとで (ta ato de)**
 [Verb in ta-form] + あとで (ato de)
 ```
 **Example Formation:**
+
 | Verb (Dictionary Form) | Ta-form (Past Tense) | + あとで (ato de)        | Meaning                      |
 |------------------------|----------------------|--------------------------|------------------------------|
 | 食べる (taberu)         | 食べた (tabeta)       | 食べたあとで (tabeta ato de)       | After eating                 |
 | 行く (iku)             | 行った (itta)         | 行ったあとで (itta ato de)         | After going                  |
 | 見る (miru)             | 見た (mita)           | 見たあとで (mita ato de)           | After watching/seeing        |
 | 勉強する (benkyou suru) | 勉強した (benkyou shita)| 勉強したあとで (benkyou shita ato de)| After studying               |
+
 ### Visual Aids
 **Ta-form Conjugation Rules:**
 #### 1. For **る-verbs (Ichidan verbs):**
@@ -35,6 +37,7 @@ In this lesson, we'll explore the grammar point **Verbたあとで (ta ato de)**
   | 見る (miru)    | 見た (mita)     |
 #### 2. For **う-verbs (Godan verbs):**
 - **Change the final syllable** according to the following patterns:
+ 
   | Ending Syllable | Change To |
   |-----------------|-----------|
   | う、つ、る       | った       |
@@ -42,13 +45,16 @@ In this lesson, we'll explore the grammar point **Verbたあとで (ta ato de)**
   | く               | いた       |
   | ぐ               | いだ       |
   | す               | した       |
+  
   **Examples:**
+  
   | Verb            | Ta-form       |
   |-----------------|---------------|
   | 書く (kaku)     | 書いた (kaita)   |
   | 話す (hanasu)   | 話した (hanashita)|
   | 飲む (nomu)     | 飲んだ (nonda)   |
   | 泳ぐ (oyogu)    | 泳いだ (oyoida)  |
+
 #### 3. For **Irregular verbs:**
 - **する (suru)** → **した (shita)**
 - **来る (kuru)** → **来た (kita)**

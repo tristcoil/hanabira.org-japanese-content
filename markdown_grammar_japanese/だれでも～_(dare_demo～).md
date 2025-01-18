@@ -1,6 +1,6 @@
 Processing keyword: だれでも～ (dare demo～)
 # Japanese Grammar Point: だれでも～ (dare demo～)
-# だれでも～ (dare demo～) Grammar Point
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **だれでも (dare demo)**, which translates to **"anyone"** or **"whoever"** in English. This expression is frequently used to indicate that something applies to anyone without exception.
 
@@ -54,6 +54,7 @@ Let's compare **だれでも** with similar expressions:
 **Japanese:** 当施設のサービスは**だれでも**ご利用いただけます。
 **Romaji:** Tou shisetsu no saabisu wa **dare demo** go riyou itadakemasu.
 **English:** Anyone can use the services of our facility.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance

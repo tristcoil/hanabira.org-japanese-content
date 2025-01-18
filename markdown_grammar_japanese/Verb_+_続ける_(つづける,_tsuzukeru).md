@@ -1,6 +1,6 @@
 Processing keyword: Verb + 続ける (つづける, tsuzukeru)
 # Japanese Grammar Point: Verb + 続ける (つづける, tsuzukeru)
-# Verb + 続ける (つづける) Grammar Explanation
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar pattern **Verb + 続ける (つづける, tsuzukeru)**. This structure is commonly used to express the continuation of an action, similar to "to continue doing" or "to keep doing" something in English. Mastering this grammar point will enhance your ability to describe ongoing actions and habits in Japanese.
 

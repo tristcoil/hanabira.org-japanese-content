@@ -1,6 +1,6 @@
 Processing keyword: もう～ (mou～)
 # Japanese Grammar Point: もう～ (mou～)
-# もう～ (mou~)
+
 ## 1. Introduction
 The Japanese adverb **もう** (*mou*) is a versatile word frequently used in everyday conversations. It carries several meanings, such as "already," "not anymore," "soon," or even adds emphasis like "come on" or "geez" in English. Mastering **もう** is essential for expressing time-related nuances and emotions naturally in Japanese.
 ## 2. Core Grammar Explanation
@@ -48,12 +48,14 @@ The Japanese adverb **もう** (*mou*) is a versatile word frequently used in ev
   *(Geez, this is troublesome.)*
 ## 3. Comparative Analysis
 ### Comparing **もう** and **まだ** (*mada*)
+
 | Adverb | Meaning              | Usage                                    | Example                                       | Translation                        |
 |--------|----------------------|------------------------------------------|-----------------------------------------------|------------------------------------|
 | もう   | Already/Not anymore  | Indicates completion or cessation        | **もう起きました。**<br>*Mou okimashita.*       | I have already woken up.           |
 |        |                      |                                          | **もう起きません。**<br>*Mou okimasen.*         | I won't wake up anymore.           |
 | まだ   | Still/Not yet        | Indicates continuation or incompletion   | **まだ起きています。**<br>*Mada okite imasu.*   | I am still awake.                  |
 |        |                      |                                          | **まだ起きていません。**<br>*Mada okite imasen.*| I haven't woken up yet.            |
+
 ## 4. Examples in Context
 ### Formal Situations
 1. **Expressing Completion**

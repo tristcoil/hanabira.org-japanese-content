@@ -1,8 +1,9 @@
 Processing keyword: Noun にあるまじき Noun (Noun ni aru majiki Noun)
 # Japanese Grammar Point: Noun にあるまじき Noun (Noun ni aru majiki Noun)
-# 1. Introduction
+
+## 1. Introduction
 The grammar point **「Noun にあるまじき Noun」** is a formal Japanese expression used to criticize actions or behaviors that are inappropriate or unbefitting of someone in a particular position or role. It conveys strong disapproval, emphasizing that such actions should not be committed by someone holding that status.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 - **Expresses**: That an action or behavior (Noun₂) is unworthy of someone in a certain position or role (Noun₁).
 - **Conveys**: Strong disapproval or criticism, often on moral or ethical grounds.
@@ -24,7 +25,7 @@ Noun₁ にあるまじき Noun₂
 - **あるまじき** is derived from the classical negative auxiliary **まじ**, attached to the verb **ある** ("to be" or "to have"), forming **あるまじき**, meaning "should not exist" or "unacceptable".
 - The phrase **にあるまじき** functions as a modifier for **Noun₂**, describing an action that should not be associated with someone in **Noun₁**'s position.
 - It is a literary and formal expression, often used in written language, speeches, or formal discourse.
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Similar Grammar Points
 1. **Noun にふさわしくない Noun**
    - **Meaning**: "Noun that is unsuitable for Noun."
@@ -35,7 +36,7 @@ Noun₁ にあるまじき Noun₂
 ### Differences
 - **にあるまじき** expresses a stronger condemnation compared to **にふさわしくない**.
 - **にあるまじき** carries moral or ethical implications, suggesting the action is not just unsuitable but unacceptable for someone in that role.
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example 1: Formal Written Context
 **Japanese:**  
 政治家にあるまじき発言だ。
@@ -52,6 +53,7 @@ It's a statement unworthy of a politician.
 Kyōshi ni aru majiki kōdō o totta.
 **English:**  
 They took actions unbecoming of a teacher.
+
 ---
 ### Example 3: Moral Judgment
 **Japanese:**  
@@ -60,6 +62,7 @@ They took actions unbecoming of a teacher.
 Oya ni aru majiki musekininsa da.
 **English:**  
 It's irresponsibility unworthy of a parent.
+
 ---
 ### Example 4: Professional Conduct
 **Japanese:**  
@@ -68,6 +71,7 @@ It's irresponsibility unworthy of a parent.
 Isha ni aru majiki misu o okashita.
 **English:**  
 They made a mistake unbecoming of a doctor.
+
 ---
 ### Example 5: Leadership
 **Japanese:**  
@@ -76,7 +80,7 @@ They made a mistake unbecoming of a doctor.
 Rīdā ni aru majiki taido de aru.
 **English:**  
 It's an attitude unworthy of a leader.
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Emphasis on Roles and Responsibilities**: In Japanese culture, there is a strong emphasis on fulfilling the duties and expectations associated with one’s social role or position.
 - **Moral and Ethical Standards**: Using **にあるまじき** implies a violation of moral or ethical standards expected from someone in that role.
@@ -86,7 +90,7 @@ It's an attitude unworthy of a leader.
 - **Used in Criticism**: Often appears in contexts where someone is being formally criticized or reprimanded.
 ## Idiomatic Expressions
 - While **にあるまじき** itself is a fixed expression, it's sometimes used in idiomatic phrases criticizing inappropriate behavior in societal roles.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Using in Casual Conversation**
    - *Mistake*: Employing **にあるまじき** in informal settings.
@@ -101,7 +105,7 @@ It's an attitude unworthy of a leader.
 - **Mnemonic Device**: Remember **あるまじき** as "**ある**" (to be) + "**まじき**" (should not) = "should not be".
 - **Associate with Roles**: Link the expression to societal roles with clear expectations (e.g., teacher, parent) to understand its appropriate usage.
 - **Practice Formal Contexts**: Create sentences in formal contexts to become comfortable with the expression's tone and usage.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **「Noun にあるまじき Noun」** is a formal expression indicating that an action is unworthy or unbecoming of someone in a specific role.
 - It carries strong moral or ethical condemnation and is used in formal or written Japanese.

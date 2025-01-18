@@ -1,6 +1,6 @@
 Processing keyword: Noun ではあるまいし (~dewa aru maishi)
 # Japanese Grammar Point: Noun ではあるまいし (~dewa aru maishi)
-# Nounではあるまいし (〜ではあるまいし)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **〜ではあるまいし** (*~dewa aru maishi*). This expression is used to convey the meaning of "It's not like..." or "Since it's not...". It allows the speaker to dismiss a reason, excuse, or expectation by emphasizing that someone or something is not a certain way, and therefore, a particular action or assumption is unnecessary or inappropriate.
 

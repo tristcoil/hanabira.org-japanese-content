@@ -1,6 +1,6 @@
 Processing keyword: Noun + ぬいて（~nuite)
 # Japanese Grammar Point: Noun + ぬいて（~nuite)
-# Noun + 抜いて (~nuite)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **Noun + 抜いて (ぬいて)**. This construction is used to express the idea of "excluding" or "except for" a particular noun. It's a useful way to specify exceptions in statements and is commonly used in both spoken and written Japanese.
 

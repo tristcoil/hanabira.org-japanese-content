@@ -1,8 +1,9 @@
 Processing keyword: Verb る ことになる (〜ru koto ni naru)
 # Japanese Grammar Point: Verb る ことになる (〜ru koto ni naru)
-# 1. Introduction
+
+## 1. Introduction
 The Japanese grammar pattern **Verbることになる (〜ることになる)** is a commonly used expression that indicates that something has been decided or will happen due to circumstances beyond the speaker's control. It's a vital structure for expressing decisions, arrangements, or outcomes that are the result of external factors rather than personal choice.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ### Meaning
 - **Verbることになる** is used to express that:
   - Something has been decided (often by others or circumstances).
@@ -24,7 +25,7 @@ The Japanese grammar pattern **Verbることになる (〜ることになる)** 
 - **Natural Outcomes**: To express that something will happen as a natural result.
   - 頑張れば、成功することになるでしょう。
     - *If you work hard, it will result in success.*
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Verbることになる vs. Verbることにする
 | **Grammar Point**           | **Usage**                                    | **Who decides?**      |
 |-----------------------------|----------------------------------------------|-----------------------|
@@ -36,7 +37,7 @@ The Japanese grammar pattern **Verbることになる (〜ることになる)** 
   
   - **ことにする**: 来年、日本へ行くことにしました。
     - *I have decided to go to Japan next year.*
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Context
 1. **会議は来週に延期することになりました。**
    - *The meeting has been postponed until next week.*
@@ -57,7 +58,7 @@ The Japanese grammar pattern **Verbることになる (〜ることになる)** 
    - *I've been assigned to a new project starting tomorrow.*
 8. **残業することになりそうだ。**
    - *It looks like I'll have to work overtime.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ### Cultural Relevance
 - **Indirect Expression**: Japanese culture often favors indirect expressions to convey decisions or actions, especially those that might impose on others. Using **ことになる** allows the speaker to express that a decision has been made without directly stating who made it, which can be seen as polite or humble.
 ### Levels of Politeness
@@ -68,7 +69,7 @@ The Japanese grammar pattern **Verbることになる (〜ることになる)** 
   - **Example**: 「じゃあ、僕たちが手伝う必要があるってことですね。」「そういうことになりますね。」
     - "*So, we need to help then?*"
     - "*That's what it comes down to.*"
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Error Analysis
 - **Mistake**: Confusing **ことになる** with **ことにする**.
   - **Incorrect**: 自分で決めたのに「ことになる」を使う。
@@ -79,7 +80,7 @@ The Japanese grammar pattern **Verbることになる (〜ることになる)** 
   - **になる** (to become) → Decision comes **to** you (external).
   - **にする** (to do/make) → You **do/make** the decision (internal).
 - **Tip**: Remember that **ことになる** often implies a passive role in the decision, whereas **ことにする** is active.
-# 7. Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
 - **Verbることになる** is used to express that something has been decided by external factors.
 - It indicates external decisions or natural outcomes.
@@ -90,13 +91,17 @@ The Japanese grammar pattern **Verbることになる (〜ることになる)** 
    a) ことになる  
    b) ことにする
    ***Answer***: a) ことになる
+
 2. **True or False**:
    **Verbることになる** is used when the speaker has personally decided to do something.
    ***Answer***: False
+
 3. **Choose the correct usage**:
    If you want to express that you have decided to study Japanese, which form would you use?
+   
    a) 日本語を勉強することになる  
    b) 日本語を勉強することにする
+   
    ***Answer***: b) 日本語を勉強することにする
 
 

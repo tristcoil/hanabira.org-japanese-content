@@ -1,6 +1,6 @@
 Processing keyword: Verb て いる (Verb-te iru)
 # Japanese Grammar Point: Verb て いる (Verb-te iru)
-# JLPT Grammar Point: Verb ている (Verb-te iru)
+
 ## 1. Introduction
 The grammar construction **Verb ている (Verb-te iru)** is a fundamental aspect of the Japanese language, essential for expressing ongoing actions, habitual behaviors, and resultant states. Understanding and mastering this grammar point is crucial for anyone aiming to achieve fluency in Japanese, as it frequently appears in everyday conversations, literature, and media.
 
@@ -22,27 +22,33 @@ To form the **Verb ている** construction:
 1. **Convert the verb to its て-form (te-form).**
 2. **Add いる to the て-form.**
 #### Formation Diagram
+
 | Verb Type      | Dictionary Form | て-form        | + いる       | Meaning                      |
 |----------------|-----------------|----------------|-------------|------------------------------|
 | **Godan Verbs**| 読む (よむ)     | 読んで (よんで)| 読んでいる   | is reading                   |
 | **Ichidan Verbs**| 見る (みる)   | 見て (みて)    | 見ている     | is watching/looking          |
 | **Irregular Verbs**| する        | して           | している     | is doing                     |
 |                | 来る (くる)     | 来て (きて)    | 来ている     | is coming                    |
+
 ---
 ## 3. Comparative Analysis
 ### Verb ている vs. Verb Dictionary Form
 - **Verb ている** emphasizes an action in progress or a habitual action.
 - **Verb Dictionary Form** states a general action or future intention.
+
 | Context            | Verb ている Example                 | Dictionary Form Example          |
 |--------------------|-------------------------------------|----------------------------------|
 | **Ongoing Action** | 映画を見ている。<br>*I am watching a movie.* | 映画を見る。<br>*I (will) watch a movie.* |
 | **Habitual Action**| 毎朝走っている。<br>*I run every morning.* | 毎朝走る。<br>*I run every morning.*       |
+
 ### Verb ている vs. Verb た Form (Past Tense)
 - **Verb ている** can indicate a current state resulting from a past action.
 - **Verb た Form** indicates a completed action in the past.
+
 | Context            | Verb ている Example                 | Verb た Form Example           |
 |--------------------|-------------------------------------|-------------------------------|
 | **Resultant State**| 窓が開いている。<br>*The window is open.* | 窓が開けた。<br>*I opened the window.*  |
+
 ---
 ## 4. Examples in Context
 ### Ongoing Actions

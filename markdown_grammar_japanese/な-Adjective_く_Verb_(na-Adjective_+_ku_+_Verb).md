@@ -1,6 +1,6 @@
 Processing keyword: な-Adjective く Verb (na-Adjective + ku + Verb)
 # Japanese Grammar Point: な-Adjective く Verb (na-Adjective + ku + Verb)
-# な-Adjective + に + Verb: Using な-Adjectives to Modify Verbs
+
 ## 1. Introduction
 In Japanese, adjectives not only describe nouns but can also modify verbs, effectively functioning as adverbs. This lesson focuses on how to use **な-Adjectives** to modify verbs by forming adverbial phrases using the pattern **な-Adjective + に + Verb**.
 

@@ -1,6 +1,6 @@
 Processing keyword: Noun のいかんでは (Noun no ikan de wa)
 # Japanese Grammar Point: Noun のいかんでは (Noun no ikan de wa)
-# Noun のいかんでは (Noun の いかんでは)
+
 ## 1. Introduction
 In this lesson, we'll delve into the Japanese grammar point **Noun のいかんでは (Noun no ikan de wa)**. This expression is commonly used in formal contexts to indicate that something **depends on** a particular noun. By mastering this grammar point, you'll enhance your ability to understand and construct more sophisticated sentences in Japanese, especially in written and formal spoken language.
 
@@ -24,8 +24,7 @@ Noun + のいかんでは + [Result]
 | いかんでは      | "depending on"                        |
 | [Result]        | The outcome/action influenced by Noun |
 ### Visual Aid
-```mermaid
-graph LR
+```
     Noun -- の --> いかんでは --> Result
 ```
 ---
@@ -46,27 +45,32 @@ graph LR
 ### Nuances
 - **のいかんでは** is more formal and is often found in official statements, reports, and formal writings.
 - It carries a nuance of **potential variability** based on specific conditions.
+
 ---
 ## 4. Examples in Context
 ### Example 1: Formal Announcement
 **Japanese**: 天候のいかんでは、イベントが中止になる可能性があります。
 **Romaji**: *Tenko no ikan de wa, ibento ga chūshi ni naru kanōsei ga arimasu.*
 **English Translation**: Depending on the weather, there's a possibility the event will be canceled.
+
 ---
 ### Example 2: Business Context
 **Japanese**: お客様のご要望のいかんでは、対応を検討いたします。
 **Romaji**: *Okyakusama no go-yōbō no ikan de wa, taiō o kentō itashimasu.*
 **English Translation**: Depending on the customer's requests, we will consider our response.
+
 ---
 ### Example 3: Academic Setting
 **Japanese**: 試験結果のいかんでは、追加の補習が必要となる場合があります。
 **Romaji**: *Shiken kekka no ikan de wa, tsuika no hoshū ga hitsuyō to naru baai ga arimasu.*
 **English Translation**: Depending on the exam results, additional supplementary lessons may be necessary.
+
 ---
 ### Example 4: Policy Statement
 **Japanese**: 今後の状況のいかんでは、計画を変更する可能性があります。
 **Romaji**: *Kongō no jōkyō no ikan de wa, keikaku o henkō suru kanōsei ga arimasu.*
 **English Translation**: Depending on future circumstances, there is a possibility of changing the plan.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -74,6 +78,7 @@ graph LR
 - **Politeness Levels**: Using this phrase appropriately shows a good command of formal Japanese, which is important in professional and academic settings.
 ### Idiomatic Expressions
 While **のいかんでは** itself is not idiomatic, understanding its usage is crucial for interpreting formal Japanese texts and communications.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -90,6 +95,7 @@ While **のいかんでは** itself is not idiomatic, understanding its usage is
 ### Learning Strategies
 - **Tip**: Associate **いかん** with "outcome," reminding you that something depends on the preceding noun.
 - **Practice**: Create sentences using nouns related to your interests to become familiar with the structure.
+
 ---
 ## 7. Summary and Review
 ### Key Takeaways
@@ -112,8 +118,6 @@ While **のいかんでは** itself is not idiomatic, understanding its usage is
    **Answer**: c) 天気のいかんでは、試合は中止になるかもしれません。
 ---
 By understanding and practicing this grammar point, you'll enhance your ability to communicate effectively in formal Japanese settings.
----
-
 
 ---
 

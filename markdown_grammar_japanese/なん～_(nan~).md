@@ -1,10 +1,11 @@
 Processing keyword: なん～ (nan~)
 # Japanese Grammar Point: なん～ (nan~)
-# なん～ (nan~) Grammar Point Explanation
 
----
+
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **なん～ (nan~)**. This prefix, derived from 「なに (nani)」 meaning "what", combines with various particles and words to express emotions like surprise, admiration, modesty, or to downplay something. Mastering **なん～** expressions will enhance your ability to convey nuanced feelings naturally in Japanese.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

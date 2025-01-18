@@ -1,6 +1,6 @@
 Processing keyword: それから、～ (sorekara、～)
 # Japanese Grammar Point: それから、～ (sorekara、～)
-# それから、～ (Sorekara, ~)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **それから、～ (sorekara, ~)**. This expression is commonly used in Japanese to indicate the sequence of events or to add information in conversations. Mastering **それから** will help you connect ideas smoothly and make your speech more natural.
 
@@ -69,6 +69,7 @@ In Japanese conversation, using connectors like **それから** helps maintain 
 - Adjust the surrounding language to match the level of politeness needed.
 ### Idiomatic Expressions
 While **それから** itself is straightforward, it's essential to use it appropriately to sound natural. Overuse or misuse might make the conversation sound stiff or unnatural.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

@@ -1,6 +1,6 @@
 Processing keyword: もし～としても (moshi ～ to shitemo)
 # Japanese Grammar Point: もし～としても (moshi ～ to shitemo)
-# もし～としても (moshi ～ to shitemo)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **もし～としても (moshi ～ to shitemo)**, which is used to express hypothetical situations. This structure is similar to saying **"Even if..."** or **"Even assuming that..."** in English. It allows speakers to discuss scenarios where, even if a certain condition is met, the result remains unaffected.
 
@@ -117,9 +117,11 @@ The structure combines the hypothetical **もし (moshi)** with **としても (
 - The structure combines **もし** (if) with **としても** (even if).
 ### Quick Recap Quiz
 1. **Fill in the blank**: もし彼が来ない______、パーティーは予定通り行います。
+   
    **Answer**: としても
    *Even if he doesn't come, the party will proceed as planned.*
 2. **True or False**: **もし雨が降るとしても** and **たとえ雨が降っても** have the same meaning but may differ in nuance.
+   
    **Answer**: True
    *Both mean "Even if it rains," but **もし～としても** implies an unlikely scenario, while **たとえ～ても** emphasizes determination regardless of the rain.*
 3. **Choose the correct option** to complete the sentence:
@@ -127,12 +129,12 @@ The structure combines the hypothetical **もし (moshi)** with **としても (
    a) する
    b) すれ
    c) す
+   
    **Answer**: a) する
    *Even if he's busy, he should contact (us).*
+
 ---
 By mastering **もし～としても**, you'll enhance your ability to discuss hypothetical scenarios in Japanese, making your language use more nuanced and expressive. Practice regularly, and soon it will become a natural part of your Japanese communication toolkit.
----
-
 
 ---
 

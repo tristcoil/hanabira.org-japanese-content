@@ -1,6 +1,6 @@
 Processing keyword: Noun1 が Noun1 なら、 Noun2 も Noun2 だ (A ga A nara, B mo B da)
 # Japanese Grammar Point: Noun1 が Noun1 なら、 Noun2 も Noun2 だ (A ga A nara, B mo B da)
-# Noun1 が Noun1 なら、Noun2 も Noun2 だ
+
 ## 1. Introduction
 In Japanese, certain grammatical structures emphasize parallels or similarities between two elements. The pattern **"Noun1 が Noun1 なら、Noun2 も Noun2 だ"** is one such structure that highlights a comparative relationship, often conveying a sense of resignation, irony, or criticism.
 
@@ -90,11 +90,6 @@ The formation of this grammar point is straightforward:
 3. Translate the following sentence:
    **政治家が政治家なら、国民も国民だ。**
    - **Answer**: *If the politicians are politicians, then the citizens are also citizens.*
----
-## Practice Exercise
-Create your own sentence using the pattern **"Noun1 が Noun1 なら、Noun2 も Noun2 だ"** to describe a situation you are familiar with.
----
-
 
 ---
 

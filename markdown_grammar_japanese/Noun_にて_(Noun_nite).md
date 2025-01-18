@@ -1,6 +1,6 @@
 Processing keyword: Noun にて (Noun nite)
 # Japanese Grammar Point: Noun にて (Noun nite)
-# Noun にて (Noun nite)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **にて (nite)** when attached to a noun. **にて** is a formal particle used to indicate location, means, method, or time in Japanese. It is often found in written language, formal speech, announcements, and literature.
 

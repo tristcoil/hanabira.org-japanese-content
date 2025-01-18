@@ -1,6 +1,6 @@
 Processing keyword: どんな Noun (donna)
 # Japanese Grammar Point: どんな Noun (donna)
-# Grammar Point: どんな Noun (どんな)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese question word **どんな** (donna), which is used to ask about the kind or type of something. Mastering **どんな** will help you inquire about various characteristics and preferences in everyday conversations.
 
@@ -115,6 +115,7 @@ Fill in the blank with the correct question word:
 <details><summary>Answer</summary>
 **b) どんな**
 </details>
+
 #### Question 2
 Is the following sentence correct? If not, correct it:
 **どんなが一番人気ですか。**
@@ -125,6 +126,7 @@ Is the following sentence correct? If not, correct it:
 "What kind of product is the most popular?"
 **Explanation:** **どんな** must be followed by a noun.
 </details>
+
 #### Question 3
 Translate to Japanese:
 "What kind of books does she read?"
@@ -132,6 +134,7 @@ Translate to Japanese:
 **彼女はどんな本を読みますか。**  
 *Kanojo wa donna hon o yomimasu ka.*
 </details>
+
 ---
 By understanding and practicing the use of **どんな**, you'll be able to ask more detailed questions and engage in richer conversations in Japanese. Keep practicing by creating your own sentences!
 

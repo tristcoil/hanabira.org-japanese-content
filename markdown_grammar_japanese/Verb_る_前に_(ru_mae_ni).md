@@ -1,6 +1,6 @@
 Processing keyword: Verb る 前に (ru mae ni)
 # Japanese Grammar Point: Verb る 前に (ru mae ni)
-# Verb る前に (ru mae ni)
+
 ## 1. Introduction
 In Japanese, expressing the sequence of actions is essential for clear communication. One common way to indicate that one action occurs **before** another is by using **Verbる前に (ru mae ni)**. This grammar point allows speakers to convey that one action happens prior to another action taking place.
 

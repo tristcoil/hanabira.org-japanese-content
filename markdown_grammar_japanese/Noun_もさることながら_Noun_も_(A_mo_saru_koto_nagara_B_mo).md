@@ -1,6 +1,6 @@
 Processing keyword: Noun もさることながら Noun も (A mo saru koto nagara B mo)
 # Japanese Grammar Point: Noun もさることながら Noun も (A mo saru koto nagara B mo)
-# Noun もさることながら Noun も (A mo saru koto nagara B mo)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～もさることながら**. This expression is used to highlight that not only the first noun but also the second noun is significant, often implying that the second is even more noteworthy. It's a valuable structure for emphasizing multiple important aspects in a sentence.
 
@@ -56,6 +56,7 @@ Noun A + もさることながら + Noun B + も
 In Japanese communication, it's common to acknowledge multiple aspects of a subject, showing a balanced and comprehensive view. The use of **～もさることながら** reflects a culturally ingrained politeness by appreciating all relevant factors.
 ### Levels of Politeness
 This expression is considered formal and is frequently used in written language, speeches, and formal presentations. It's less common in casual conversation.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -91,9 +92,6 @@ This expression is considered formal and is frequently used in written language,
    - **Answer**: b) 価格もさることながら、デザインも重要だ。
 ---
 By understanding and practicing **～もさることながら**, you'll be able to add depth and emphasis to your Japanese expressions, especially in formal writing and speeches.
-# End of Answer
-The assistant's response above is formatted in Markdown, follows the structure requested, and provides clear explanations, examples, and helpful notes, ensuring that the examples are natural and meaningful.
-
 
 ---
 

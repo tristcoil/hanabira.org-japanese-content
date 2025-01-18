@@ -1,6 +1,6 @@
 Processing keyword: まるで～よう (maru de ~ you)
 # Japanese Grammar Point: まるで～よう (maru de ~ you)
-# まるで〜よう (maru de ~ you)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **まるで〜よう (maru de ~ you)**, which is used to draw vivid comparisons between two things. This expression allows you to describe something by saying it is "just like" or "as if" it were something else. Understanding this grammar structure will enhance your ability to create expressive and poetic statements in Japanese.
 
@@ -102,10 +102,6 @@ In this lesson, we'll explore the Japanese grammar point **まるで〜よう (m
    - **Answer**: True.
 3. **Translate to Japanese**: "She sings as if she's a professional."
    - **Answer**: 彼女はまるでプロのように歌う。
----
-**End of Lesson**
----
-
 
 ---
 

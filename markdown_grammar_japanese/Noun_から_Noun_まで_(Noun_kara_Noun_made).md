@@ -1,10 +1,10 @@
 Processing keyword: Noun から Noun まで (Noun kara Noun made)
 # Japanese Grammar Point: Noun から Noun まで (Noun kara Noun made)
-# Noun から Noun まで (Noun kara Noun made)
 
----
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Noun から Noun まで (Noun kara Noun made)**. This structure is used to express a range or span between two points, such as time, location, or sequence. It's essential for describing when things start and end, where they begin and finish, or the extent of something.
+
 ---
 ## 2. Core Grammar Explanation
 ### Detailed Explanation
@@ -14,20 +14,21 @@ When combined, **Noun から Noun まで** expresses a range **"from [Noun A] to
 ### Meaning, Structure, Formation Diagram
 **Meaning**: "From [Noun A] to [Noun B]"
 **Structure**:
+
 | **Component**         |            **Role**            |
 |-----------------------|--------------------------------|
 | Noun (Starting Point) | Indicates where or when something begins |
 | から (kara)           | Particle meaning "from"        |
 | Noun (Ending Point)   | Indicates where or when something ends   |
 | まで (made)           | Particle meaning "to" or "until"         |
+
 **Formation Diagram**:
 ```
 [Starting Noun] + から + [Ending Noun] + まで
 ```
 ### Visual Aid
-```mermaid
-graph LR
-A(Starting Noun<br>から) --> B(Ending Noun<br>まで)
+```
+A(Starting Noun から) --> B(Ending Noun まで)
 ```
 ---
 ## 3. Comparative Analysis

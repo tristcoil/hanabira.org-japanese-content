@@ -1,6 +1,6 @@
 Processing keyword: ほとんど〜 (hotondo〜)
 # Japanese Grammar Point: ほとんど〜 (hotondo〜)
-# ほとんど〜 (hotondo〜)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **ほとんど〜** (*hotondo*), which is a versatile adverb used to express quantities and frequencies such as "almost," "nearly," "mostly," or "hardly" in English. Understanding how to use **ほとんど** can greatly enhance your ability to describe situations accurately in Japanese.
 
@@ -37,8 +37,7 @@ Used to express that very little of something is the case.
   
     *He hardly speaks.*
 ### Formation Diagram
-```mermaid
-graph LR
+```
 A[ほとんど] --> B[Affirmative Sentence]
 A --> C[Negative Sentence]
 B --> D["almost all", "most of"]
@@ -47,12 +46,15 @@ C --> E["hardly", "barely"]
 ---
 ## 3. Comparative Analysis
 ### ほとんど vs. ほぼ
+
 |            | ほとんど (*hotondo*)                  | ほぼ (*hobo*)                        |
 |------------|---------------------------------------|--------------------------------------|
 | Usage      | Common in both affirmative and negative sentences | Mainly used in affirmative sentences |
 | Formality  | Neutral                               | Slightly more formal                 |
 | Examples   | 仕事がほとんど終わった。<br>*Shigoto ga hotondo owatta.*<br>*The work is almost done.* | 仕事がほぼ終わった。<br>*Shigoto ga hobo owatta.*<br>*The work is nearly done.* |
+
 **Note**: While both mean "almost" or "nearly," **ほぼ** is less commonly used in negative sentences and can sound more formal.
+
 ---
 ## 4. Examples in Context
 ### Affirmative Sentences

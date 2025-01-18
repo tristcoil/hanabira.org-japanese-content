@@ -1,6 +1,6 @@
 Processing keyword: Noun たる Noun (~taru~)
 # Japanese Grammar Point: Noun たる Noun (~taru~)
-# Noun たる Noun (~taru~) Grammar Explanation
+
 ## 1. Introduction
 In this lesson, we'll delve into the Japanese grammar point **Noun たる Noun (~taru~)**. This classical expression is used to emphasize the qualities, responsibilities, or expectations associated with a particular role or status. Frequently found in formal writing and speeches, it adds a sense of gravity and importance to the statement.
 

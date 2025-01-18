@@ -1,6 +1,6 @@
 Processing keyword: すぐに～ (sugu ni～)
 # Japanese Grammar Point: すぐに～ (sugu ni～)
-# すぐに～ (sugu ni～)
+
 ## 1. Introduction
 The Japanese adverb **すぐに (sugu ni)** is commonly used to express the idea of "immediately," "right away," or "soon." It's an essential term for indicating promptness or immediacy in actions and events. Understanding how to use **すぐに** correctly will enhance your ability to describe time-related nuances in Japanese conversation.
 
@@ -56,6 +56,7 @@ A[すぐに] --> B[Verb]
 ## 5. Cultural Notes
 ### Cultural Relevance
 In Japanese culture, punctuality and promptness are highly valued. Using **すぐに** reflects a respect for others' time and conveys a sense of urgency or attentiveness. It can be particularly important in business settings or when showing courtesy.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

@@ -1,6 +1,6 @@
 Processing keyword: Verb させられる (Verb-saserareru)
 # Japanese Grammar Point: Verb させられる (Verb-saserareru)
-# Verb させられる (Verb-saserareru)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **"Verb させられる (Verb-saserareru)"**, which is the **causative-passive form** of verbs. This form expresses situations where the subject is **made to do something** by someone else, often against their will or under compulsion.
 
@@ -20,22 +20,29 @@ To form the causative-passive, we take the verb stem and conjugate it accordingl
    - **くる** becomes **こさせられる**.
 ### Formation Diagram
 #### Group 1 Verbs (Godan Verbs)
+
 | Verb Dictionary Form | Change to "A" sound | Add せられる / される |
 |----------------------|---------------------|----------------------|
 | 書く (kaku)          | 書か (kaka)         | 書かせられる         |
 | 話す (hanasu)        | 話さ (hanasa)       | 話させられる         |
 | 飲む (nomu)          | 飲ま (noma)         | 飲まされる           |
+
 *Note:* In colloquial speech, **-せられる** often becomes **-される**.
+
 #### Group 2 Verbs (Ichidan Verbs)
+
 | Verb Dictionary Form | Remove る | Add させられる |
 |----------------------|-----------|----------------|
 | 食べる (taberu)       | 食べ      | 食べさせられる  |
 | 見る (miru)          | 見        | 見させられる    |
+
 #### Irregular Verbs
+
 | Verb Dictionary Form | Causative-Passive Form |
 |----------------------|------------------------|
 | する (suru)          | させられる             |
 | くる (kuru)          | こさせられる           |
+
 ---
 ## 3. Comparative Analysis
 ### Causative Form vs. Causative-Passive Form
@@ -111,6 +118,7 @@ To form the causative-passive, we take the verb stem and conjugate it accordingl
    - **Answer:** *I was made to go on a business trip by my boss.*
 3. True or False: The causative-passive form can sometimes be shortened in spoken Japanese.
    - **Answer:** True. In colloquial speech, **-せられる** often becomes **-される**.
+
 ---
 Feel free to review this lesson and practice by creating your own sentences using **Verbさせられる**!
 

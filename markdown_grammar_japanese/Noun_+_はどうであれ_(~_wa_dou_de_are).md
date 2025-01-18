@@ -1,6 +1,6 @@
 Processing keyword: Noun + はどうであれ (~ wa dou de are)
 # Japanese Grammar Point: Noun + はどうであれ (~ wa dou de are)
-# Noun + はどうであれ (~ wa dou de are)
+
 ## 1. Introduction
 The grammar pattern **Noun + はどうであれ** is used to express "regardless of" or "no matter what" in Japanese. It emphasizes that the outcome or situation remains unaffected by the noun mentioned.
 
@@ -34,6 +34,7 @@ This expression conveys the idea that "no matter what the noun is," the result o
   - *Translation*: "Anyone can apply, regardless of experience."
 ### Nuances
 While all these expressions convey a similar meaning of "regardless," **はどうであれ** often carries a stronger emphasis on the irrelevance of the noun to the situation. It can also have a slightly more formal or literary tone compared to the others.
+
 ---
 ## 4. Examples in Context
 ### Formal Context

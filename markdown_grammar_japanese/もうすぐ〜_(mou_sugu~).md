@@ -1,6 +1,6 @@
 Processing keyword: もうすぐ〜 (mou sugu~)
 # Japanese Grammar Point: もうすぐ〜 (mou sugu~)
-# JLPT Grammar Lesson: もうすぐ〜 (mō sugu〜)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **もうすぐ〜 (mō sugu)**, which is commonly used in Japanese to express that something will happen **soon** or **in the near future**. Understanding this expression will enhance your ability to discuss upcoming events and anticipate actions in daily conversations.
 

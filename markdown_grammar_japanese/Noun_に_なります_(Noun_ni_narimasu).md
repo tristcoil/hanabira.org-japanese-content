@@ -1,6 +1,6 @@
 Processing keyword: Noun に なります (Noun ni narimasu)
 # Japanese Grammar Point: Noun に なります (Noun ni narimasu)
-# JLPT Grammar Point: Noun に なります (Noun ni narimasu)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **Noun に なります (Noun ni narimasu)**, which is used to express "to become [noun]" in Japanese. This expression is fundamental for describing changes in state or transitions over time.
 

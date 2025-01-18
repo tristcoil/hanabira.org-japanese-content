@@ -1,6 +1,6 @@
 Processing keyword: Noun にして初めて (Noun nishite hajimete)
 # Japanese Grammar Point: Noun にして初めて (Noun nishite hajimete)
-# Noun にして初めて (Noun nishite hajimete)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「Noun にして初めて」** (*Noun ni shite hajimete*). This expression is used to indicate that something happens **only when** a certain condition is met or **not until** a particular situation arises. It's a way to emphasize that the subsequent event or realization wouldn't occur without the preceding noun.
 

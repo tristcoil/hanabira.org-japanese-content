@@ -1,13 +1,15 @@
 Processing keyword: よく～ (yoku ~)
 # Japanese Grammar Point: よく～ (yoku ~)
-# 1\. Introduction
+
+
+## 1\. Introduction
 **Grammar Point:** よく～ (yoku ~)  
 **Meaning:** Often; Well; Frequently; Properly  
 **JLPT Level:** N5/N4
 The adverb **よく (yoku)** is a common and versatile word in Japanese that enhances verbs to express frequency, proficiency, or degree. Understanding how to use **よく** correctly will greatly improve your ability to describe actions and events in detail.
 
 ---
-# 2\. Core Grammar Explanation
+## 2\. Core Grammar Explanation
 ## Detailed Explanation
 **よく (yoku)** is used to modify verbs and some adjectives to express:
 1. **Frequency**: Describes how often an action occurs.
@@ -48,7 +50,7 @@ When expressing proficiency, **よく** means "well" or "skillfully".
 |----------|---|----------|
 | Adverb   |   | Verb     |
 ---
-# 3\. Comparative Analysis
+## 3\. Comparative Analysis
 **よく** vs. **たくさん**
 - **よく** focuses on the frequency or quality of an action.
 - **たくさん** means "a lot" or "many", emphasizing quantity.
@@ -67,7 +69,7 @@ When expressing proficiency, **よく** means "well" or "skillfully".
 - **英語がとても上手です。**  
   *I'm very good at English.*
 ---
-# 4\. Examples in Context
+## 4\. Examples in Context
 ## Formal Situations
 1. **彼は会議でよく発言します。**  
    *He often speaks up at meetings.*
@@ -89,7 +91,7 @@ When expressing proficiency, **よく** means "well" or "skillfully".
 2. **問題をよく考えてください。**  
    *Please think the problem over carefully.*
 ---
-# 5\. Cultural Notes
+## 5\. Cultural Notes
 ## Cultural Relevance
 In Japanese culture, emphasizing the frequency or quality of actions reflects a person's habits and skills, which are important in social interactions and self-presentation.
 - Using **よく** to describe one's own frequent activities shows enthusiasm or dedication.
@@ -106,7 +108,7 @@ In Japanese culture, emphasizing the frequency or quality of actions reflects a 
      **失敗はよくあることです。**  
      *Failures happen often.*
 ---
-# 6\. Common Mistakes and Tips
+## 6\. Common Mistakes and Tips
 ## Common Mistakes
 1. **Confusing よく with よろく**
    - **Incorrect:** **よろく**映画を見ます。  
@@ -120,7 +122,7 @@ In Japanese culture, emphasizing the frequency or quality of actions reflects a 
 - **Mnemonic for Frequency:** Think of **よく** as "Your Usual Known" activities – things you do often.
 - **Practice by Repetition:** Create sentences describing your daily routines using **よく**.
 ---
-# 7\. Summary and Review
+## 7\. Summary and Review
 ## Key Takeaways
 - **よく (yoku)** is an adverb meaning "often", "well", or "properly".
 - It modifies verbs to express frequency, proficiency, or degree.
@@ -140,7 +142,6 @@ In Japanese culture, emphasizing the frequency or quality of actions reflects a 
 3. **Is the following sentence correct? If not, correct it:**
    **彼は日本語がよくです。**
    **Answer:** Incorrect. Correct sentence: **彼は日本語が上手です。** or **彼は日本語をよく話します。**
----
 
 
 ---

@@ -1,6 +1,6 @@
 Processing keyword: Verb ては Verb (~ te wa ~)
 # Japanese Grammar Point: Verb ては Verb (~ te wa ~)
-# Verb ては Verb (~ては~)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar pattern **Verb ては Verb**, which is used to express repeated or habitual actions, often highlighting a cycle of contrasting or alternating activities. This structure is commonly found in narratives and descriptions to convey continuous or repetitive actions.
 
@@ -45,6 +45,7 @@ Verb (て-form) + は + Verb
 **日本語**: 子供たちは喧嘩しては仲直りを繰り返している。
 **Romaji**: Kodomo-tachi wa kenka shite wa nakanaori o kurikaeshite iru.
 **English**: The children keep fighting and making up repeatedly.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -54,6 +55,7 @@ The structure **Verb ては Verb** is neutral and can be used in both formal and
 ### Idiomatic Expressions
 - **行っては戻り、行っては戻り**: Going and returning repeatedly.
 - **飲んでは吐き、飲んでは吐き**: Drinking and vomiting repeatedly (often used to describe overindulgence).
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -83,8 +85,6 @@ The structure **Verb ては Verb** is neutral and can be used in both formal and
 2. **False**
    *It describes repetitive or cyclical actions, not simultaneous actions.*
 3. **English**: He reads books and then gets sleepy.
----
-
 
 ---
 

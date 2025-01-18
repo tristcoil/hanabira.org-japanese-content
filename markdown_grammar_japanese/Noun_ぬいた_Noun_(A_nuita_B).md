@@ -1,6 +1,6 @@
 Processing keyword: Noun ぬいた Noun (A nuita B)
 # Japanese Grammar Point: Noun ぬいた Noun (A nuita B)
-# Grammar Point: Verb Stem + ぬいた Noun (A ぬいた B)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar pattern **Verb Stem + ぬいた Noun** (A ぬいた B). This structure is used to describe a noun (B) that is the result of thoroughly or completely performing an action (A). It emphasizes perseverance and doing something to the very end without giving up.
 
@@ -17,12 +17,14 @@ Verb Stem + ぬいた + Noun
 - **ぬいた**: The past tense of **ぬく**, an auxiliary verb meaning "to do something thoroughly" or "to the end."
 - **Noun**: The noun that is the result or product of the action.
 **Example Formation:**
+
 | Component    | Example            |
 |--------------|--------------------|
 | Verb Stem    | 考え (from 考える)   |
 | + ぬいた      | 考えぬいた           |
 | + Noun       | 考えぬいた末 (すえ)  |
 | **Combined** | 考えぬいた末         |
+
 **Translation:** After thoroughly thinking (about it)
 ### Usage Notes
 - The verb **ぬく** attaches to the **verb stem**.

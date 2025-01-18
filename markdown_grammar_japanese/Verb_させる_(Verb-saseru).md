@@ -1,6 +1,6 @@
 Processing keyword: Verb させる (Verb-saseru)
 # Japanese Grammar Point: Verb させる (Verb-saseru)
-# Verb させる (Verb-saseru): The Causative Form in Japanese
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese causative form **Verb させる (Verb-saseru)**, which is used to express **making** or **letting** someone do something. Understanding this grammar point is essential for constructing sentences where you want to indicate that someone causes another person to perform an action.
 

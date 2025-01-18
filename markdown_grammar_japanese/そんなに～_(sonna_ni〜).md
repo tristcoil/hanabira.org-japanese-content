@@ -1,6 +1,6 @@
 Processing keyword: そんなに～ (sonna ni〜)
 # Japanese Grammar Point: そんなに～ (sonna ni〜)
-# そんなに〜 (sonna ni〜)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese expression **「そんなに」 (sonna ni)**, which is commonly used to indicate a degree or extent of something. Understanding this grammar point will enhance your ability to express comparisons and nuances in Japanese conversation.
 

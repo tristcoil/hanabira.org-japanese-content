@@ -1,10 +1,11 @@
 Processing keyword: Verb てもらえませんか (～te moraemasen ka)
 # Japanese Grammar Point: Verb てもらえませんか (～te moraemasen ka)
-# Verb てもらえませんか (～て もらえませんか)
+
 
 ---
 ## 1. Introduction
 In Japanese, making polite requests is an essential communication skill, reflecting the culture's emphasis on respect and harmony. The grammar pattern **～てもらえませんか (～te moraemasen ka)** is a polite way to ask someone to do something for you, often used in formal or semi-formal situations. This lesson will guide you through understanding and using this grammar point effectively.
+
 ---
 ## 2. Core Grammar Explanation
 ### Detailed Explanation

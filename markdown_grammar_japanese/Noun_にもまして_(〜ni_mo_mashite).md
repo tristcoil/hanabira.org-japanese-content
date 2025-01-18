@@ -1,6 +1,6 @@
 Processing keyword: Noun にもまして (〜ni mo mashite)
 # Japanese Grammar Point: Noun にもまして (〜ni mo mashite)
-# Noun にもまして (〜ni mo mashite)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **にもまして (ni mo mashite)**. This expression is used to emphasize that something surpasses all others in a certain aspect, often translated as **"more than...", "above...",** or **"even more so than..."** in English. Understanding this grammar point will help you make stronger comparative statements and express exceptional circumstances in Japanese.
 ## 2. Core Grammar Explanation

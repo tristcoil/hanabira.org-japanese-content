@@ -1,6 +1,6 @@
 Processing keyword: すこしも〜ない (sukoshimo~nai)
 # Japanese Grammar Point: すこしも〜ない (sukoshimo~nai)
-# すこしも〜ない (sukoshi mo ~ nai)
+
 ## 1. Introduction
 The grammar pattern **すこしも〜ない (sukoshi mo ~ nai)** is used in Japanese to express **complete negation**. It emphasizes that something is **"not even a little," "not at all,"** or **"not in the least."** This pattern intensifies the negative meaning of a statement, making it clear that there is absolutely no degree or amount of something.
 

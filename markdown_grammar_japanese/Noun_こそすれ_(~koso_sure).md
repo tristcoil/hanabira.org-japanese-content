@@ -1,6 +1,6 @@
 Processing keyword: Noun こそすれ (~koso sure)
 # Japanese Grammar Point: Noun こそすれ (~koso sure)
-# Noun + こそすれ (~koso sure)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Noun + こそすれ** (~koso sure). This structure is used to emphasize that while one thing may occur, another thing certainly does not. It's a nuanced expression that adds depth to your Japanese, especially in formal contexts.
 
@@ -92,7 +92,6 @@ The formation of this grammar point is straightforward:
 2. It is typically used in **formal** contexts.
 3. 彼は **失敗** こそすれ、嘘をつくことはない。  
    _He may fail, but he would never tell a lie._
----
 
 
 ---

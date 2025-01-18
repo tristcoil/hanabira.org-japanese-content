@@ -1,6 +1,6 @@
 Processing keyword: Noun じゃあるまいし (~ja aru mai shi)
 # Japanese Grammar Point: Noun じゃあるまいし (~ja aru mai shi)
-# じゃあるまいし (~ja aru mai shi)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **じゃあるまいし** (~ja aru mai shi). This expression is used to convey the meaning of "It's not like..." or "Since (we're) not...". It helps speakers refute an expectation or justify an action by pointing out that the situation is not as extreme or significant as suggested.
 

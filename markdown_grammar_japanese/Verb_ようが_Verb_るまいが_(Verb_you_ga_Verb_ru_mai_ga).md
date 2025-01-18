@@ -1,6 +1,6 @@
 Processing keyword: Verb ようが Verb るまいが (Verb you ga Verb ru mai ga)
 # Japanese Grammar Point: Verb ようが Verb るまいが (Verb you ga Verb ru mai ga)
-# Grammar Point: Verbようが Verbるまいが (Whether or Not)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar structure **Verbようが Verbるまいが**, which is used to express "whether (do) or not." This pattern emphasizes that no matter whether an action is performed or not, the outcome remains unaffected. It's a useful expression for conveying determination, indifference, or inevitability.
 

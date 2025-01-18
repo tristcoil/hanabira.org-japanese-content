@@ -1,6 +1,6 @@
 Processing keyword: Noun を めぐる Noun (Noun wo meguru Noun)
 # Japanese Grammar Point: Noun を めぐる Noun (Noun wo meguru Noun)
-# Grammar Lesson: Noun を めぐる Noun (Noun wo meguru Noun)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar pattern **「Noun を めぐる Noun」** (Noun wo meguru Noun). This structure is used to describe a noun (usually an event, discussion, dispute, etc.) that is centered around or concerning another noun. Mastering this pattern will enhance your ability to discuss topics involving debates, conflicts, or issues in Japanese.
 

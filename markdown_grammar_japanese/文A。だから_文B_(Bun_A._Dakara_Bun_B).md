@@ -1,6 +1,6 @@
 Processing keyword: 文A。だから 文B (Bun A. Dakara Bun B)
 # Japanese Grammar Point: 文A。だから 文B (Bun A. Dakara Bun B)
-# 文A。だから 文B (Bun A. Dakara Bun B)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **だから (dakara)**. This conjunction is essential for expressing cause and effect in conversations. By mastering **だから**, you'll be able to connect sentences to explain reasons and results naturally.
 ## 2. Core Grammar Explanation
@@ -103,6 +103,7 @@ Below are examples demonstrating how to use **だから** in various contexts.
    b) No
 3. **Correct the mistake in the sentence:**
    **寒いだから、コートを着ます。**
+
 ### Answers:
 1. **だから**
    **明日は休みだ。だから、今日、頑張ろう。**

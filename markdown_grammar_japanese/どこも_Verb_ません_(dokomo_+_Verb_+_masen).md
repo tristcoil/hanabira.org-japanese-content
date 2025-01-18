@@ -1,6 +1,6 @@
 Processing keyword: どこも Verb ません (dokomo + Verb + masen)
 # Japanese Grammar Point: どこも Verb ません (dokomo + Verb + masen)
-# どこも + Verbません (dokomo + Verb + masen)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **どこも Verbません** (*dokomo + Verb + masen*). This structure is used to express the idea of "nowhere" or "not... anywhere" in negative sentences. Understanding this pattern will help you articulate negative statements about places more naturally in Japanese.
 

@@ -1,6 +1,6 @@
 Processing keyword: いくつ～ (ikutsu~
 # Japanese Grammar Point: いくつ～ (ikutsu~
-# いくつ～ (ikutsu~)
+
 ## 1. Introduction
 The grammar point **いくつ (ikutsu)** is an interrogative expression in Japanese used to ask **"how many"** or **"how old"**. It's a fundamental question word that's essential for everyday conversations, especially when inquiring about quantities or someone's age.
 
@@ -103,9 +103,7 @@ For Age:
 3. **True or False**: It's acceptable to use **いくつ** to count people in formal situations.
    - **Answer**: False
 ---
-# End of Lesson
 We hope this explanation clarified the usage of **いくつ**. Practice using it in your daily conversations to become more comfortable with its applications.
-
 
 ---
 

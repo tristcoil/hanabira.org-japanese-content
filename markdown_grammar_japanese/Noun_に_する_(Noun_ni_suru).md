@@ -1,6 +1,6 @@
 Processing keyword: Noun に する (Noun ni suru)
 # Japanese Grammar Point: Noun に する (Noun ni suru)
-# Noun にする (Noun ni suru)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「Noun にする」 (Noun ni suru)**. This expression is commonly used to indicate making a choice or decision about something. Understanding this pattern will enhance your ability to express decisions and preferences in everyday conversations.
 
@@ -30,17 +30,21 @@ Noun + にする
 - **Difference**:
   - **にする**: More casual, often used in everyday decisions like ordering food.
   - **に決める**: Emphasizes the act of deciding, often for significant decisions.
+
 | Grammar Point       | Usage                              | Example                                      |
 |---------------------|------------------------------------|----------------------------------------------|
 | **Noun にする**     | Casual choice or decision          | コーヒーにします。<br>(I'll have coffee.)       |
 | **Noun に決める**   | Firm decision, often significant   | 日本に留学することに決めました。<br>(I decided to study abroad in Japan.) |
+
 #### 2. 「Noun になる」 (Noun ni naru)
 - **Usage**: Indicates a change into something; "to become [noun]."
 - **Difference**: **にする** is an active decision by the subject, whereas **になる** often indicates a passive change or result.
+
 | Grammar Point     | Usage                        | Example                                    |
 |-------------------|------------------------------|--------------------------------------------|
 | **Noun にする**   | Subject decides on something | 部屋をきれいにする。<br>(I'll make the room clean.) |
 | **Noun になる**   | Something becomes something  | 部屋がきれいになる。<br>(The room becomes clean.)   |
+
 ---
 ## 4. Examples in Context
 ### Sentence Examples

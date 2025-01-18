@@ -1,6 +1,6 @@
 Processing keyword: Verb ない ことがある (Verb-nai koto ga aru)
 # Japanese Grammar Point: Verb ない ことがある (Verb-nai koto ga aru)
-# Verb ないことがある (Verb-nai koto ga aru)
+
 ## 1. Introduction
 In Japanese, expressing the frequency or irregularity of actions is essential for accurate communication. The grammar point **Verb ないことがある** helps you convey that something *sometimes doesn't happen*, even if it usually does.
 

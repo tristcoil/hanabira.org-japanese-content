@@ -1,6 +1,6 @@
 Processing keyword: Noun しか～ない (Noun shika~nai)
 # Japanese Grammar Point: Noun しか～ない (Noun shika~nai)
-# Noun しか～ない (Noun *shika*~*nai*)
+
 ## 1. Introduction
 The grammar point **しか～ない** is used in Japanese to express "only" or "nothing but" something. It emphasizes that there's no more than what is stated, often highlighting a limitation or insufficiency. Understanding this structure is essential for conveying exclusivity or constraints in Japanese.
 

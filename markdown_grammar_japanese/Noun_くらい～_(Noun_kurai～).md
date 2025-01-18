@@ -1,6 +1,6 @@
 Processing keyword: Noun くらい～ (Noun kurai～)
 # Japanese Grammar Point: Noun くらい～ (Noun kurai～)
-# Noun くらい～ (Noun kurai～)
+
 ## 1. Introduction
 In this lesson, we will learn about the Japanese grammar point **Noun くらい～ (Noun kurai～)**. This grammar structure is used to express approximation, extent, or minimal expectation. It can be translated as "about," "approximately," "as...as...," or "at least" in English. Understanding this grammar will help you describe quantities, make comparisons, and express degrees more naturally in Japanese.
 

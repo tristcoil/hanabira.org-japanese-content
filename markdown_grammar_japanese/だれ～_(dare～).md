@@ -1,9 +1,10 @@
 Processing keyword: だれ～ (dare～)
 # Japanese Grammar Point: だれ～ (dare～)
-# 1. Introduction
+
+## 1. Introduction
 **Grammar Point:** だれ～ (dare～)
 **Meaning:** The interrogative pronoun **"だれ"** means **"who"** in English. It is used to ask about a person or people in a sentence.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 ### Usage of だれ
 - **Asking about a person:** Use *だれ* to inquire about the identity of someone.
@@ -14,24 +15,26 @@ The basic sentence structure using *だれ* is:
 だれ ＋ が/の/に/を ＋ Verb/Adjective/ですか？
 ```
 ### Particle Usage with だれ
+
 | Particle | Function                | Example                                  | Translation                      |
 |----------|-------------------------|------------------------------------------|----------------------------------|
 | が       | Subject marker          | だれが来ますか？                         | Who is coming?                   |
 | の       | Possessive marker       | これはだれの本ですか？                   | Whose book is this?              |
 | に       | Indirect object marker  | あなたはだれに会いましたか？             | Who did you meet?                |
 | を       | Direct object marker    | だれを知っていますか？                   | Who do you know?                 |
+
 ## Formation Diagram
 ```plaintext
 [Question Word (だれ)] ＋ [Particle] ＋ [Verb Phrase] ＋ か？
 ```
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### だれ vs. どなた
 - **だれ** is informal or neutral.
 - **どなた** is the polite form of "who".
 **Example:**
 - だれが先生ですか？ (Who is the teacher?) - Neutral
 - どなたが先生ですか？ (Who is the teacher?) - Polite
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Situations
 1. **だれが部長ですか？**
    - **Romaji:** Dare ga buchō desu ka?
@@ -54,7 +57,7 @@ The basic sentence structure using *だれ* is:
 1. **パーティーにはだれが来るの？**
    - **Romaji:** Pātī ni wa dare ga kuru no?
    - **Translation:** Who is coming to the party?
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - Using **どなた** instead of **だれ** shows respect and politeness, especially when speaking to or about someone of higher status.
 - In formal business settings, it's appropriate to use **どなた** to maintain politeness.
@@ -63,7 +66,7 @@ The basic sentence structure using *だれ* is:
   - **Meaning:** Without distinction; to anyone and everyone.
   - **Example:** 彼はだれかれなしに話しかける。
     - **Translation:** He talks to anyone and everyone.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Using だれ without appropriate particles:**
   - Incorrect: **だれ行きますか？**
@@ -76,7 +79,7 @@ The basic sentence structure using *だれ* is:
   - **の** for possession: Think of "No" as " 's " in English (possessive).
   - **に** for indirect objects/directions: "Ni" sounds like "knee" – someone is bending towards something.
   - **を** for direct objects: "Wo(o)" sounds like "Oh" – direct and straightforward.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **だれ** means "who" and is used to ask about people.
 - Use appropriate particles with **だれ** to indicate grammatical relationships.
@@ -90,6 +93,7 @@ The basic sentence structure using *だれ* is:
 3. **Choose the more polite option:**
    - a) だれが来ましたか？
    - b) どなたが来ましたか？
+
 ### Answers:
 1. **だれと**話しましたか？
 2. **あれはだれの鞄ですか？**

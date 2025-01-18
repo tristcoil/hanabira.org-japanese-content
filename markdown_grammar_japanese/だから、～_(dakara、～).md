@@ -1,6 +1,6 @@
 Processing keyword: だから、～ (dakara、～)
 # Japanese Grammar Point: だから、～ (dakara、～)
-# だから、～ (dakara, ～)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **だから、～ (dakara, ～)**, which is commonly used to express reasons and results. Understanding how to use **だから** will enhance your ability to connect thoughts and explain causes in Japanese.
 

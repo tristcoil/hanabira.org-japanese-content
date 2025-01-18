@@ -1,6 +1,6 @@
 Processing keyword: どこ～ (doko～)
 # Japanese Grammar Point: どこ～ (doko～)
-# どこ～ (doko～)
+
 ## 1. Introduction
 The term **どこ (doko)** is an interrogative word in Japanese that means "**where**." It is commonly used to ask about locations or places. When combined with particles and other words, **どこ～** can express various nuances related to places, directions, and locations. Understanding how to use **どこ～** effectively will enhance your ability to ask questions and describe locations in Japanese.
 

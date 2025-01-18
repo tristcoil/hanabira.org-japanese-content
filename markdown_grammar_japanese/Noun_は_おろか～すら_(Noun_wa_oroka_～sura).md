@@ -1,6 +1,6 @@
 Processing keyword: Noun は おろか～すら (Noun wa oroka ～sura)
 # Japanese Grammar Point: Noun は おろか～すら (Noun wa oroka ～sura)
-# Noun は おろか ～すら (Noun wa oroka ～sura)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「Noun は おろか ～すら」(Noun wa oroka ～sura)**. This structure is used to emphasize that something is obvious or expected, and yet even the lesser or more basic thing doesn't apply. It's a powerful way to express surprise or frustration about a situation.
 

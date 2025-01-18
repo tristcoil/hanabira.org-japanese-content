@@ -1,6 +1,6 @@
 Processing keyword: Verb ておく (〜te oku)
 # Japanese Grammar Point: Verb ておく (〜te oku)
-#  Verb ておく (〜ておく)
+
 ## 1. Introduction
 The grammar point **〜ておく (〜te oku)** is a commonly used expression in Japanese that indicates doing something in advance or preparing for the future. It combines the _te-form_ of a verb with the auxiliary verb **おく (oku)**.
 

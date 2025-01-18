@@ -1,6 +1,6 @@
 Processing keyword: Verb ていただきたい (te itadakitai)
 # Japanese Grammar Point: Verb ていただきたい (te itadakitai)
-# JLPT Grammar Point: ～ていただきたい (Te Itadakitai)
+
 ## 1. Introduction
 The expression **～ていただきたい** (*te itadakitai*) is a **polite request** form in Japanese. It is used to express a desire for someone to do something for you, showing respect and humility towards the person you are addressing. This grammar point is essential for formal conversations, especially in business or polite contexts.
 
@@ -30,10 +30,12 @@ The expression **～ていただきたい** (*te itadakitai*) is a **polite requ
 ## 3. Comparative Analysis
 ### Comparison with Similar Expressions
 #### **～てほしい** (*te hoshii*) vs. **～ていただきたい** (*te itadakitai*)
+
 | Expression            | Politeness Level | Usage Context                                 | Example                                          |
 |-----------------------|------------------|-----------------------------------------------|--------------------------------------------------|
 | **～てほしい**        | Casual/Polite    | Friends, family, peers                        | 手伝ってほしい。(*I want you to help me.*)            |
 | **～ていただきたい** | Very Polite      | Superiors, clients, formal situations         | ご確認していただきたいです。(*I would like you to check it.*)|
+
 - **～てほしい** is appropriate for casual requests among equals or to subordinates.
 - **～ていただきたい** is used to show greater respect and is suitable for formal settings.
 ---
@@ -105,6 +107,7 @@ The expression **～ていただきたい** (*te itadakitai*) is a **polite requ
    - **Answer:** B) 説明してほしい。
 ---
 By understanding and correctly using **～ていただきたい**, you can communicate your requests politely and show respect in formal Japanese settings. Practice incorporating this grammar point into your formal conversations and written communications.
+
 ---
 *Note: Always consider the relationship and context when choosing the appropriate level of politeness in Japanese.*
 

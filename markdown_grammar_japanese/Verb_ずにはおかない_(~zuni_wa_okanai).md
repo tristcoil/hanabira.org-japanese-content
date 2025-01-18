@@ -1,6 +1,6 @@
 Processing keyword: Verb ずにはおかない (~zuni wa okanai)
 # Japanese Grammar Point: Verb ずにはおかない (~zuni wa okanai)
-# Verb ずにはおかない (~zuni wa okanai)
+
 ## 1. Introduction
 In this lesson, we'll explore the advanced Japanese grammar point **ずにはおかない** (*~zuni wa okanai*). This expression conveys a strong sense of inevitability or certainty that an action **will definitely occur** or that someone **cannot help but** do something. Mastering this grammar point will enhance your ability to express determination and predict unavoidable outcomes in Japanese.
 
@@ -25,21 +25,25 @@ It emphasizes the speaker's conviction that something **must** happen and **cann
 3. **Add 'ずにはおかない' to the negative stem.**
    - 認め + ずにはおかない → **認めずにはおかない**
 ### Visual Aid: Formation Table
+
 | Verb (Dictionary Form) | Negative Form (ない-form) | Negative Stem (remove 'ない') | ずにはおかない Form      |
 |------------------------|--------------------------|-------------------------------|-------------------------|
 | 行く (*iku*)           | 行かない (*ikanai*)       | 行か (*ika*)                  | 行かずにはおかない       |
 | 食べる (*taberu*)      | 食べない (*tabenai*)      | 食べ (*tabe*)                 | 食べずにはおかない       |
 | 来る (*kuru*)          | 来ない (*konai*)          | 来 (*ko*)                     | 来ずにはおかない         |
 | する (*suru*)          | しない (*shinai*)         | し (*shi*)                    | せずにはおかない (**irregular**) |
+
 **Note:** The verb **する** (*suru*) is irregular and becomes **せずにはおかない** (*sezu ni wa okanai*).
 ---
 ## 3. Comparative Analysis
 ### Comparing Similar Grammar Points
+
 | Grammar Point             | Meaning                                          | Usage                                    |
 |---------------------------|--------------------------------------------------|------------------------------------------|
 | ずにはおかない             | Cannot help but do; Will definitely do           | Formal, strong determination or inevitability affecting others |
 | ないではおかない           | Cannot help but do; Will definitely do           | Less formal, similar meaning to ずにはおかない |
 | ずにはいられない           | Cannot help but do (due to internal emotion)     | Expresses uncontrollable emotional response |
+
 - **ずにはおかない vs. ずにはいられない**
   - **ずにはおかない**: The action is inevitable and often affects others; implies strong will or external circumstances.
   - **ずにはいられない**: The subject cannot suppress their own feelings; emphasizes internal compulsion.

@@ -1,6 +1,6 @@
 Processing keyword: な-Adjective で～ (na-Adjective de~)
 # Japanese Grammar Point: な-Adjective で～ (na-Adjective de~)
-# な-Adjective で〜 (Na-Adjective de~)
+
 ## 1. Introduction
 In Japanese, connecting adjectives to describe multiple attributes of a noun or to connect clauses is essential for fluent speech and writing. The **な-adjective で〜** form is a crucial grammar point that allows you to link **な-adjectives** in sentences smoothly. This lesson will delve into how to use this form effectively.
 
@@ -94,8 +94,6 @@ Using **で** to connect adjectives is acceptable in both formal and informal se
    - **Answer**: b) で
 3. True or False: You should use **くて** to connect **な-adjectives**.  
    - **Answer**: False
----
-
 
 ---
 

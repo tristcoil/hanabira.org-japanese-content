@@ -1,6 +1,6 @@
 Processing keyword: Noun 限りで (~ kagiri de)
 # Japanese Grammar Point: Noun 限りで (~ kagiri de)
-# Noun 限りで (~ kagiri de)
+
 ## 1. Introduction
 The grammar point **Noun 限りで** (〜かぎりで) is used to express that something will **end** or be **limited** as of a specified time or occasion. It is often translated as "as of...", "by...", or "until..." in English. This expression is particularly useful when making announcements about the conclusion of events, services, or activities.
 

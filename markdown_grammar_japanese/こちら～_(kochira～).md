@@ -1,6 +1,6 @@
 Processing keyword: こちら～ (kochira～)
 # Japanese Grammar Point: こちら～ (kochira～)
-# こちら～ (kochira～) Grammar Point
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **こちら～ (kochira～)**. This term is a polite demonstrative pronoun used in Japanese to refer to "this way," "this person," "here," or "this thing" near the speaker. Mastering **こちら** will enhance your ability to communicate respectfully in various social contexts.
 

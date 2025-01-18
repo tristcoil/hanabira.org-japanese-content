@@ -1,6 +1,6 @@
 Processing keyword: Noun を皮切りに - を皮切りにして (Noun wo kakikiri ni - wo kawakiri ni shite)
 # Japanese Grammar Point: Noun を皮切りに - を皮切りにして (Noun wo kakikiri ni - wo kawakiri ni shite)
-# Noun を皮切りに / を皮切りにして (Noun をかわきりに / をかわきりにして)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **を皮切りに** and **を皮切りにして**, which are used to express the beginning of a series of events or actions. Understanding this grammar will enhance your ability to describe sequences and developments in Japanese.
 

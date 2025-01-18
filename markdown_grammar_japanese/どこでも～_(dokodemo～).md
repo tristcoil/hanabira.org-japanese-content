@@ -1,6 +1,6 @@
 Processing keyword: どこでも～ (dokodemo～)
 # Japanese Grammar Point: どこでも～ (dokodemo～)
-# Lesson on どこでも～ (dokodemo～)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **どこでも (dokodemo)**, which translates to **"anywhere"** or **"everywhere"** in English. Mastering this expression will help you convey that something applies to any place without restriction, an essential aspect of everyday communication in Japanese.
 
@@ -114,8 +114,6 @@ In Japanese culture, being flexible and accommodating is valued. Using **どこ�
      *(Translation: "With this ticket, you can enter anywhere.")*
 ---
 By incorporating **どこでも** into your vocabulary, you enhance your ability to express flexibility and universality in locations, making your Japanese more natural and versatile.
----
-
 
 ---
 

@@ -1,6 +1,6 @@
 Processing keyword: Verb ようにする (Verb ~you ni suru)
 # Japanese Grammar Point: Verb ようにする (Verb ~you ni suru)
-# Verb ようにする (Verb ~ようにする)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「Verb ようにする」**. This structure is essential for expressing efforts to perform an action or to make something a habit. By mastering this grammar point, you'll be able to talk about your intentions and the actions you are trying to make routine.
 
@@ -129,8 +129,6 @@ In Japanese culture, showing diligence and continuous effort is highly valued. U
    **Answer**: **False** (That's **ようになる**)
 ---
 By incorporating **「Verb ようにする」** into your speech, you can effectively communicate your efforts and habits in Japanese. Keep practicing by expressing what you are trying to do or avoid in your daily life!
----
-
 
 ---
 

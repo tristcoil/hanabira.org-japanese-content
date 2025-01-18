@@ -1,6 +1,6 @@
 Processing keyword: Verb て ほしい (Verb-te hoshii)
 # Japanese Grammar Point: Verb て ほしい (Verb-te hoshii)
-# 〜てほしい (Verb-てほしい)
+
 ## 1. Introduction
 The grammar pattern **〜てほしい** (Verb-てほしい) is used to express the speaker's desire for someone else to perform a certain action. It's a common and useful structure in Japanese that allows you to politely request or express wishes regarding others' actions.
 

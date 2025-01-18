@@ -1,6 +1,6 @@
 Processing keyword: Noun によらず (～ni yorazu)
 # Japanese Grammar Point: Noun によらず (～ni yorazu)
-# Noun によらず (～によらず)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Noun によらず (～によらず)**. This expression is used to convey the meaning of "regardless of" or "irrespective of" something. It's a valuable structure that allows you to indicate that an action or situation is not influenced by a particular factor.
 

@@ -1,6 +1,6 @@
 Processing keyword: Verb なさい (〜nasai)
 # Japanese Grammar Point: Verb なさい (〜nasai)
-# Verb なさい (〜nasai) Grammar Point
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verb なさい (〜nasai)**. This structure is commonly used to give commands or make firm requests. Understanding how to use **〜なさい** will enhance your ability to comprehend and participate in hierarchical or instructive conversations in Japanese.
 
@@ -139,8 +139,6 @@ In Japanese culture, respect for hierarchy and social order is paramount. The **
      **よく勉強しなさい。**
 ---
 *Practice forming sentences with **〜なさい** to become more familiar with its usage. Remember to consider the social context when choosing this form!*
----
-
 
 ---
 

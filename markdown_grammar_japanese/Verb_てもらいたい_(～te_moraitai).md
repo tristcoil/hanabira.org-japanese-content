@@ -1,6 +1,6 @@
 Processing keyword: Verb てもらいたい (～te moraitai)
 # Japanese Grammar Point: Verb てもらいたい (～te moraitai)
-# Verb てもらいたい (〜てもらいたい)
+
 ## 1. Introduction
 The expression **〜てもらいたい** is a Japanese grammar construct used to express the speaker's desire to have someone do something for them. It conveys a sense of requesting a favor or expressing a wish for someone else's action that benefits the speaker. It's often translated as "I want (someone) to do (something)" in English.
 

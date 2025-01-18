@@ -1,6 +1,6 @@
 Processing keyword: Noun でなくてなんだろう (〜de nakute nandarou)
 # Japanese Grammar Point: Noun でなくてなんだろう (〜de nakute nandarou)
-# Noun でなくてなんだろう (〜でなくてなんだろう)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **Noun でなくてなんだろう** (〜でなくてなんだろう). This expression is used to strongly assert that something is exactly as described by the noun, often conveying a sense of admiration, astonishment, or conviction. It's akin to saying "If this isn't [noun], then what is?" in English.
 ## 2. Core Grammar Explanation

@@ -1,6 +1,6 @@
 Processing keyword: Noun + ともあろう + Noun (~tomoarou~)
 # Japanese Grammar Point: Noun + ともあろう + Noun (~tomoarou~)
-# Noun + ともあろう + Noun （～ともあろう～）
+
 ## 1. Introduction
 In Japanese, certain expressions emphasize expectations based on someone's status, role, or position. The grammar point **Noun + ともあろう + Noun** is one such expression used to highlight surprise, criticism, or disappointment when someone acts in a way that is unbecoming of their esteemed position.
 
@@ -38,6 +38,7 @@ Below is a visual representation of the structure:
 ### Differences
 - **ともあろう** often conveys surprise or disappointment when expectations are not met.
 - **たる者** is more about stating expectations or standards without necessarily expressing surprise or criticism.
+
 ---
 ## 4. Examples in Context
 ### Example 1: Formal Context
@@ -47,6 +48,7 @@ Below is a visual representation of the structure:
 Daigaku kyōju tomoarou kata ga, kihonteki na misu o suru nante shinjiraremasen.
 **Translation:**  
 "I can't believe that someone who is a university professor would make such a basic mistake."
+
 ---
 ### Example 2: Informal Context
 **Japanese:**  
@@ -55,6 +57,7 @@ Daigaku kyōju tomoarou kata ga, kihonteki na misu o suru nante shinjiraremasen.
 Kimi tomoarou hito ga, konna kantan na mondai o tokenai no?
 **Translation:**  
 "Someone like you can't solve such an easy problem?"
+
 ---
 ### Example 3: Written Context (Article)
 **Japanese:**  
@@ -63,6 +66,7 @@ Kimi tomoarou hito ga, konna kantan na mondai o tokenai no?
 Kuni no rīdā tomoarou jinbutsu ga, sono yō na hatsugen o suru no wa mondai da.
 **Translation:**  
 "It's problematic that a person who is a national leader would make such remarks."
+
 ---
 ### Example 4: Spoken Context
 **Japanese:**  
@@ -71,6 +75,7 @@ Kuni no rīdā tomoarou jinbutsu ga, sono yō na hatsugen o suru no wa mondai da
 Isha tomoarou mono ga, kenkō ni mutonchaku de ii no ka.
 **Translation:**  
 "Is it acceptable for someone who is a doctor to be indifferent about health?"
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -80,6 +85,7 @@ In Japanese society, roles and social positions come with expected behaviors and
 - It can be softened or made more formal by using honorifics (e.g., **方** for "person").
 ### Idiomatic Expressions
 While **ともあろう** itself is a fixed expression, it's often used in contexts where societal roles are significant, reflecting the hierarchical nature of Japanese culture.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -92,6 +98,7 @@ While **ともあろう** itself is a fixed expression, it's often used in conte
 ### Learning Strategies
 - **Mnemonic Device:** Remember that **ともあろう** is used to express surprise about someone who **"ought to be"** (あろう) a model example **"even"** (とも) in their role.
 - **Tip:** Think of roles with high expectations (teacher, doctor, leader) when crafting sentences.
+
 ---
 ## 7. Summary and Review
 ### Key Takeaways
@@ -108,6 +115,7 @@ While **ともあろう** itself is a fixed expression, it's often used in conte
 3. Example sentence:  
    **Japanese:** 社長ともあろう人が、そのような軽率な行動を取るとは。  
    **Translation:** "I can't believe that someone who is the company president would act so rashly."
+
 ---
 By understanding and practicing this grammar point, you'll be able to express nuanced sentiments regarding expectations and social roles in Japanese.
 

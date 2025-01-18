@@ -1,6 +1,6 @@
 Processing keyword: Noun の極み (〜no kiwami)
 # Japanese Grammar Point: Noun の極み (〜no kiwami)
-# Grammar Point: Noun の極み (〜のきわみ) - "The Ultimate of Noun"
+
 ## 1. Introduction
 In Japanese, the expression **Noun の極み (〜のきわみ)** is used to denote the extreme or ultimate extent of something. It's a way to emphasize that something represents the highest degree or pinnacle of a particular quality or state.
 

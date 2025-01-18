@@ -1,6 +1,6 @@
 Processing keyword: Verb たいです (taidesu)
 # Japanese Grammar Point: Verb たいです (taidesu)
-# 動詞＋たいです (Verb + tai desu)
+
 ## 1. Introduction
 In Japanese, expressing your desires and wants is a fundamental part of everyday communication. The grammar pattern **「動詞＋たいです」 (Verb + tai desu)** allows you to convey what you want to do in a straightforward way. This lesson will delve into how to form and use this grammar point effectively.
 

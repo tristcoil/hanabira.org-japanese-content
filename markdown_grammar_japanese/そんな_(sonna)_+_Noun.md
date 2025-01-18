@@ -1,6 +1,6 @@
 Processing keyword: そんな (sonna) + Noun
 # Japanese Grammar Point: そんな (sonna) + Noun
-# そんな (sonna) + Noun
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「そんな (sonna) + Noun」**. This expression is commonly used to refer to things like "such a" or "that kind of" something. Understanding how to use **そんな** properly will help you describe objects, situations, or even people in relation to something previously mentioned or known in context.
 

@@ -1,6 +1,6 @@
 Processing keyword: Noun か Noun か～ (Noun ka Noun ka～)
 # Japanese Grammar Point: Noun か Noun か～ (Noun ka Noun ka～)
-# Noun か Noun か～
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Noun か Noun か～**, which is used to express choices or alternatives between nouns. This structure is essential for conveying options, making decisions, and discussing possibilities in everyday Japanese conversation.
 
@@ -19,9 +19,11 @@ Noun 1 か Noun 2 か ～
 - **か**: Particle "or" (used again if more options follow)
 - **～**: The rest of the sentence
 **Example Diagram:**
+
 | Noun 1 | か | Noun 2 | か | ～            |
 |--------|----|--------|----|--------------|
 | 犬     | か | 猫     | か | 飼いたいです。|
+
 - **犬か猫か飼いたいです。**
   - "I want to have a dog or a cat."
 ### Detailed Explanation

@@ -1,8 +1,9 @@
 Processing keyword: Noun に 来ます (ni kimasu)
 # Japanese Grammar Point: Noun に 来ます (ni kimasu)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we'll explore the grammar point **「Noun に 来ます」** (*Noun ni kimasu*), which is used to indicate coming to a place or for a specific purpose. This structure is fundamental in everyday Japanese conversation, especially when discussing movement or travel.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 **「Noun に 来ます」** is a basic sentence pattern used to express the action of coming **to** a place or **for** a purpose. The particle **に** (*ni*) serves as a marker indicating the destination or the purpose of the action.
 ### Meaning
@@ -17,14 +18,14 @@ The structure can be broken down into:
         │          │     │
        Noun       に    来ます (kimasu)
 ```
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Similar Grammar Points
 - **Noun に 行きます** (*Noun ni ikimasu*): "Go to [Noun]"
 - **Noun へ 来ます** (*Noun e kimasu*): Also means "Come to [Noun]," but **へ** emphasizes direction rather than destination.
 **Difference Between に and へ:**
 - **に** (*ni*): Emphasizes the destination or purpose.
 - **へ** (*e*): Emphasizes the direction toward the destination.
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example Sentences
 1. **学校に来ます。**
    - *Gakkō ni kimasu.*
@@ -50,7 +51,7 @@ The structure can be broken down into:
   - **遊びに来てね。**
     - *Asobi ni kite ne.*
     - "Come hang out!"
-# 5. Cultural Notes
+## 5. Cultural Notes
 ### Cultural Relevance
 In Japanese culture, notifying someone about your movement, especially when visiting, is considered polite. Using **「に 来ます」** appropriately reflects respect for others' time and space.
 ### Levels of Politeness
@@ -62,7 +63,7 @@ In Japanese culture, notifying someone about your movement, especially when visi
 - **顔を出しに来ます。**
   - *Kao o dashi ni kimasu.*
   - "I will drop by." (Literally, "I will come to show my face.")
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Error Analysis
 1. **Using the Wrong Particle:**
    - Incorrect: **学校へ来ます。** (*Gakkō e kimasu.*)
@@ -77,7 +78,7 @@ In Japanese culture, notifying someone about your movement, especially when visi
   - Think of **に** as pointing **"into"** a location: "I come **into** (に) the place."
 - **Remembering 来ます (kimasu):**
   - Associate **来** with "come" since both start with a "k" sound.
-# 7. Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
 - **「Noun に 来ます」** is used to express coming to a place or for a purpose.
 - The particle **に** marks the destination or purpose.

@@ -1,10 +1,9 @@
 Processing keyword: Noun に かえります (Noun ni kaerimasu)
 # Japanese Grammar Point: Noun に かえります (Noun ni kaerimasu)
-# Noun に かえります (Noun ni kaerimasu)
 
----
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **"Noun に かえります (Noun ni kaerimasu)"**. This structure is commonly used to express returning to a specific place or location. Understanding this grammar point is essential for discussing movements and travel in Japanese.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -27,10 +26,12 @@ The structure combines:
 ### Similar Grammar Points
 - **Noun へ かえります (Noun e kaerimasu)**: Uses the particle **へ (e)** instead of **に (ni)**. Both particles can indicate direction, but **に** is more specific about the destination.
 **Comparison Table**
+
 | Structure                 | Particle | Usage                            |
 |---------------------------|----------|----------------------------------|
 | Noun **に** かえります    | に (ni)  | Specific destination (to Noun)   |
 | Noun **へ** かえります    | へ (e)   | General direction towards Noun   |
+
 ---
 ## 4. Examples in Context
 ### Formal Speech

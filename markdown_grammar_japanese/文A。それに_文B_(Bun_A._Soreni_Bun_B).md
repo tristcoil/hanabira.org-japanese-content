@@ -1,6 +1,6 @@
 Processing keyword: 文A。それに 文B (Bun A. Soreni Bun B)
 # Japanese Grammar Point: 文A。それに 文B (Bun A. Soreni Bun B)
-# 文A。それに 文B (Bun A. それに Bun B)
+
 ## 1. Introduction
 In Japanese, effectively connecting sentences to add information is essential for fluent communication. The grammar point **"それに (sore ni)"** is a useful conjunction that means **"moreover," "in addition," or "furthermore"**. It allows speakers to smoothly add information to a previous statement.
 
@@ -28,6 +28,7 @@ The basic structure is:
 ---
 ## 3. Comparative Analysis
 ### それに vs. そして vs. さらに
+
 | Conjunction | Meaning                      | Usage                             |
 | ----------- | ---------------------------- | --------------------------------- |
 | それに      | "Moreover", "in addition"    | Adds significant new information  |
@@ -35,6 +36,7 @@ The basic structure is:
 | さらに      | "Furthermore", "what's more" | Adds emphasis to additional info  |
 - **それに vs. そして**: While both connect sentences, **それに** emphasizes adding information, whereas **そして** often indicates a sequence of events.
 - **それに vs. さらに**: Both mean "furthermore", but **さらに** adds more emphasis and is often used in formal contexts.
+
 ---
 ## 4. Examples in Context
 ### Example 1: Adding Information About Weather
@@ -44,6 +46,7 @@ The basic structure is:
 きょう は さむい です。それに、あめ も ふって います。
 **Translation:**  
 It's cold today. Moreover, it's raining.
+
 ---
 ### Example 2: Enhancing a Positive Statement
 **Japanese:**  
@@ -52,6 +55,7 @@ It's cold today. Moreover, it's raining.
 かのじょ は やさしい です。それに、あたま も いい です。
 **Translation:**  
 She is kind. In addition, she's smart.
+
 ---
 ### Example 3: Emphasizing Multiple Benefits
 **Japanese:**  
@@ -60,6 +64,7 @@ She is kind. In addition, she's smart.
 この スマートフォン は やすい です。それに、デザイン も すてき です。
 **Translation:**  
 This smartphone is inexpensive. Furthermore, the design is great.
+
 ---
 ### Example 4: Formal Context
 **Japanese:**  
@@ -68,6 +73,7 @@ This smartphone is inexpensive. Furthermore, the design is great.
 あたらしい プロジェクト は せいこう しました。それに、チーム の きょうりょく も すばらしかった です。
 **Translation:**  
 The new project was a success. Moreover, the team's cooperation was excellent.
+
 ---
 ### Example 5: Negative Context
 **Japanese:**  
@@ -76,6 +82,7 @@ The new project was a success. Moreover, the team's cooperation was excellent.
 その けいかく は じかん が かかります。それに、ひよう も たかい です。
 **Translation:**  
 That plan takes time. Additionally, the cost is high.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -85,6 +92,7 @@ That plan takes time. Additionally, the cost is high.
 While **それに** itself is straightforward, it's often used in conjunction with expressions like:
 - **しかも:** "Moreover", "on top of that" (adds emphasis)
 - **その上:** "Besides", "what's more"
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes
@@ -102,6 +110,7 @@ While **それに** itself is straightforward, it's often used in conjunction wi
 - **Ensure Relevance:** Make sure Sentence B adds relevant information to Sentence A.
 - **Natural Flow:** Read sentences aloud to check if **それに** creates a natural addition to your statement.
 - **Avoid Overuse:** Using **それに** too frequently can make speech sound repetitive. Mix with other conjunctions when appropriate.
+
 ---
 ## 7. Summary and Review
 ### Key Takeaways
@@ -116,10 +125,12 @@ While **それに** itself is straightforward, it's often used in conjunction wi
    - b) それに、天気が悪いです。
 3. Translate the following sentence using **それに**:
    - "The movie was interesting. Furthermore, the soundtrack was amazing."
+
 ### Answers
 1. To add additional, relevant information to a previous statement.
 2. **a) 彼は学生です。それに、アルバイトもしています。**
 3. **映画は面白かったです。それに、サウンドトラックも素晴らしかったです。**
+
 ---
 By understanding and practicing the use of **それに**, you'll enhance the cohesiveness and fluency of your Japanese communication, making your speech and writing more compelling and natural.
 

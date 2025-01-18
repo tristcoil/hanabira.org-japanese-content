@@ -1,6 +1,6 @@
 Processing keyword: Noun の 前に (Noun no mae ni)
 # Japanese Grammar Point: Noun の 前に (Noun no mae ni)
-# Noun の 前に (Noun no mae ni)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **「Noun の 前に (Noun no mae ni)」**, which is used to express "before (a noun)" in Japanese. This structure helps you indicate an action or event that occurs before a specific time or event represented by a noun.
 
@@ -30,6 +30,7 @@ The basic structure is:
   - Example: 昼食の後で (chūshoku no ato de) - "after lunch"
 ### Nuances
 While **「Noun の 前に」** is used with nouns, **「Verb 前に」** is used with verbs in their dictionary form. Choosing the correct form depends on whether you're referring to an action (verb) or a time/event (noun).
+
 ---
 ## 4. Examples in Context
 ### Example Sentences

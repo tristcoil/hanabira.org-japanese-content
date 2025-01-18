@@ -1,6 +1,6 @@
 Processing keyword: Verb て ください (Verb-te kudasai)
 # Japanese Grammar Point: Verb て ください (Verb-te kudasai)
-# Verb てください (Verb-te kudasai)
+
 ## 1. Introduction
 The grammar point **Verb てください** is a fundamental structure in Japanese used to make polite requests or give gentle instructions. It's essential for daily conversations and is commonly taught at the beginner level (JLPT N5).
 
@@ -15,14 +15,17 @@ To form this structure, take the **て-form** of a verb and add **ください**
 \text{Verb in て-form} + ください
 \]
 ### Formation Diagram
+
 | Verb Type      | Dictionary Form | て-form Transformation | Example |
 |----------------|-----------------|------------------------|---------|
 | **る-verbs**   | 食べる (たべる)   | Replace る with て       | 食べて   |
 | **う-verbs**   | 行く (いく)      | Replace く with いて     | 行って   |
 | **Irregular**  | する             | Becomes して            | して    |
 |                | 来る (くる)      | Becomes 来て (きて)     | 来て    |
+
 *For a complete list of て-form conjugations, refer to a て-form conjugation chart.*
 ### Visual Aid: て-form Conjugation Table
+
 | Verb Ending | Change to て-form | Example Verb | て-form     |
 |-------------|-------------------|--------------|-------------|
 | **-う/-つ/-る**  | Replace ending with **って** | 会う (あう)   | 会って     |
@@ -30,6 +33,7 @@ To form this structure, take the **て-form** of a verb and add **ください**
 | **-く**        | Replace with **いて**        | 書く (かく)   | 書いて     |
 | **-ぐ**        | Replace with **いで**        | 泳ぐ (およぐ) | 泳いで     |
 | **-す**        | Replace with **して**        | 話す (はなす) | 話して     |
+
 ---
 ## 3. Comparative Analysis
 ### Comparing with ませんか
@@ -110,8 +114,6 @@ To form this structure, take the **て-form** of a verb and add **ください**
 1. **この本を読んでください。** (*Kono hon o yonde kudasai.*)
 2. **書いて** (*kaite*)
 3. **ていただけませんか** (*te itadakemasen ka*)
----
-
 
 ---
 

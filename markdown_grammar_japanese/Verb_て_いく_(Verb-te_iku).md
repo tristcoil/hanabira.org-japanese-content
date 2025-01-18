@@ -1,8 +1,9 @@
 Processing keyword: Verb て いく (Verb-te iku)
 # Japanese Grammar Point: Verb て いく (Verb-te iku)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we'll explore the grammar point **～ていく (Verb て いく)**, a versatile construction in Japanese that expresses movement away from the speaker both in a physical and temporal sense. Understanding this structure will enhance your ability to describe ongoing actions, changes over time, and movements in space.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning and Usage
 The expression **～ていく** combines the **-te form** of a verb with **いく (iku)**, which means "to go." This construction conveys:
 1. **Continuation into the future:** An action or state continues from now into the future.
@@ -28,7 +29,7 @@ Verb (て-form) + いく
 | 減る (heru)            | 減って (hette)| 減っていく (hette iku)| Decrease over time            |
 | 増える (fueru)         | 増えて (fuete)| 増えていく (fuete iku)| Increase over time            |
 | 覚える (oboeru)        | 覚えて (oboete)| 覚えていく (oboete iku)| Continue to remember/learn    |
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 **～ていく** vs. **～てくる**
 While **～ていく** implies movement or change away from the speaker or present moment, **～てくる** (Verb て くる) indicates movement or change towards the speaker or up to the present moment.
 | Aspect           | ～ていく                       | ～てくる                      |
@@ -36,7 +37,7 @@ While **～ていく** implies movement or change away from the speaker or prese
 | Direction        | Away from speaker/present     | Towards speaker/present      |
 | Temporal         | From now into the future      | From the past until now      |
 | Example          | 暖かくなっていく (It will continue to get warmer) | 暖かくなってきた (It has become warmer) |
-# 4. Examples in Context
+## 4. Examples in Context
 ## Example Sentences
 1. **季節が変わっていく。**  
    *Kisetsu ga kawatte iku.*  
@@ -70,7 +71,7 @@ While **～ていく** implies movement or change away from the speaker or prese
   - **気をつけて行ってね。**  
     *Ki o tsukete itte ne.*  
     _Take care as you go._
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Japanese culture, the use of **～ていく** can reflect a collective awareness of progression and change, which is often important in social and environmental contexts. It can denote respect for the natural flow of time and events.
 ## Levels of Politeness
@@ -83,7 +84,7 @@ The basic structure **Verb て いく** is neutral. Politeness can be adjusted b
   _To gradually forget._
 - **消えていく** (*kiete iku*)  
   _To disappear/fade away._
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Confusing with ～てくる:** Mixing up **～ていく** with **～てくる** can lead to misunderstandings in direction and time reference.
   
@@ -92,7 +93,7 @@ The basic structure **Verb て いく** is neutral. Politeness can be adjusted b
 ## Learning Strategies
 - **Mnemonic Device:** Remember that **いく (to go)** involves movement **away** from the speaker, so **～ていく** expresses actions moving away or forward in time.
 - **Practice with Timelines:** Visualize timelines to distinguish between actions continuing into the future (**～ていく**) and actions that have been occurring up to now (**～てくる**).
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **～ていく (Verb て いく)** is used to express actions or changes that will continue from the present into the future or move away from the speaker.
 - It combines the **-te form** of a verb with **いく**.

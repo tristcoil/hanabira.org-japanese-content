@@ -1,10 +1,11 @@
 Processing keyword: Verb た ところ (Verb ta tokoro)
 # Japanese Grammar Point: Verb た ところ (Verb ta tokoro)
-# **Verb たところ (Verb ta tokoro)**
+
 
 ---
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verb たところ (Verb ta tokoro)**. This structure is used to express that upon completing an action, a certain result or discovery was made, often unexpectedly. Understanding this grammar point will enhance your ability to narrate sequences of events and describe discoveries in Japanese.
+
 ---
 ## 2. Core Grammar Explanation
 ### Detailed Explanation
@@ -113,6 +114,7 @@ To form this grammar pattern:
    a) レポートを書くところ、電話が鳴った。  
    b) レポートを書いたところ、間違いに気付いた。
    **Answer:** b) レポートを書いたところ、間違いに気付いた。
+
 ---
 By mastering **Verb たところ**, you can effectively convey the sequence of events and the discoveries that follow actions in Japanese. Keep practicing by creating your own sentences, and soon this grammar point will become a natural part of your language skills!
 

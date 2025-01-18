@@ -1,6 +1,6 @@
 Processing keyword: Noun ともなると (〜to mo naruto)
 # Japanese Grammar Point: Noun ともなると (〜to mo naruto)
-# JLPT Grammar Point: Noun ともなると (〜ともなると)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **Noun ともなると (〜ともなると)**. This expression is used to highlight the significant changes, responsibilities, or expectations that arise when reaching a certain stage, status, or condition. Understanding this grammar point will help you articulate situations where reaching a particular point brings about natural consequences or shifts in behavior.
 ## 2. Core Grammar Explanation
@@ -43,21 +43,25 @@ Let's look at some example sentences in various contexts to see how **ともな�
 **Japanese**: 40歳ともなると、健康に気をつけ始める人が増える。
 **Romaji**: Yonjuusai to mo naru to, kenkō ni ki o tsuke hajimeru hito ga fueru.
 **English**: When people reach 40 years old, more start paying attention to their health.
+
 ---
 ### Example 3: Seasonal Changes
 **Japanese**: 夏休みともなると、この海岸は観光客でにぎわう。
 **Romaji**: Natsu yasumi to mo naru to, kono kaigan wa kankōkyaku de nigiwau.
 **English**: When summer vacation comes around, this beach becomes lively with tourists.
+
 ---
 ### Example 4: Social Roles
 **Japanese**: 親ともなると、自分より子供の幸せを優先するものだ。
 **Romaji**: Oya to mo naru to, jibun yori kodomo no shiawase o yūsen suru mono da.
 **English**: Once you become a parent, you tend to prioritize your child's happiness over your own.
+
 ---
 ### Example 5: Formal Context
 **Japanese**: 大臣ともなると、公の場での発言には細心の注意が必要だ。
 **Romaji**: Daijin to mo naru to, ōyake no ba de no hatsugen ni wa saishin no chūi ga hitsuyō da.
 **English**: When you become a minister, you need to be extremely careful with your public statements.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance

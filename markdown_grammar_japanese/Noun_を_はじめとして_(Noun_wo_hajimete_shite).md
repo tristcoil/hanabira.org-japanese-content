@@ -1,6 +1,6 @@
 Processing keyword: Noun を はじめとして (Noun wo hajimete shite)
 # Japanese Grammar Point: Noun を はじめとして (Noun wo hajimete shite)
-# JLPT Grammar Point: Noun をはじめとして (Noun wo hajimete shite)
+
 ## 1. Introduction
 **をはじめとして (wo hajimete shite)** is a Japanese grammar structure used to highlight a representative example from a group. It emphasizes that something applies not only to the mentioned noun but also to others in the same category.
 

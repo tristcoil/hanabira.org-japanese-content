@@ -1,6 +1,6 @@
 Processing keyword: Verb てからというもの (Verb te kara to iu mono)
 # Japanese Grammar Point: Verb てからというもの (Verb te kara to iu mono)
-# Verb てからというもの (Verb te kara to iu mono)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **〜てからというもの** (*~te kara to iu mono*). This expression is used to indicate a significant change that has occurred since a specific event or action. It often reflects the speaker's deep feelings about how things have been different ever since that moment.
 

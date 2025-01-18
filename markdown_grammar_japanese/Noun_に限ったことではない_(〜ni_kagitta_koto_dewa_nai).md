@@ -1,6 +1,6 @@
 Processing keyword: Noun に限ったことではない (〜ni kagitta koto dewa nai)
 # Japanese Grammar Point: Noun に限ったことではない (〜ni kagitta koto dewa nai)
-# Noun に限ったことではない (〜にかぎったことではない)
+
 ## 1. Introduction
 The grammar point **に限ったことではない** (にかぎったことではない) is an essential expression in Japanese that conveys the idea of "not limited to" or "not exclusive to." It is used to indicate that a particular situation, condition, or characteristic is not unique to the specified noun but applies more broadly.
 
@@ -59,6 +59,7 @@ By combining these parts, **に限ったことではない** literally translate
 **Sentence**: ストレスによる健康被害は、大人に限ったことではない。
 **Reading**: ストレス に よる けんこうひがい は、おとな に かぎった こと では ない。
 **Translation**: "Health problems due to stress are not limited to adults."
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -68,6 +69,7 @@ The expression **に限ったことではない** is neutral and can be used in 
 ### Idiomatic Expressions
 - **悲しいのは彼だけに限ったことではない。**
   - *"He's not the only one who's sad."*
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes

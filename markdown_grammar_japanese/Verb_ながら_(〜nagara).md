@@ -1,6 +1,6 @@
 Processing keyword: Verb ながら (〜nagara)
 # Japanese Grammar Point: Verb ながら (〜nagara)
-# Verb ながら (〜ながら)
+
 ## 1. Introduction
 The grammar point **〜ながら** is a conjunction in Japanese used to express the idea of doing two actions simultaneously. It translates to "**while doing**" in English. This structure is commonly used to indicate that the subject is performing one action while also engaging in another.
 

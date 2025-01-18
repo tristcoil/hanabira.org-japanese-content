@@ -1,6 +1,6 @@
 Processing keyword: Verb がてら (~ gatera)
 # Japanese Grammar Point: Verb がてら (~ gatera)
-# Verb がてら (~がてら) Grammar Explanation
+
 ## 1. Introduction
 The grammar point **がてら** (~がてら) is an advanced Japanese expression commonly encountered in JLPT N1 studies. It is used to indicate doing something while simultaneously taking the opportunity to do something else. This structure emphasizes that the secondary action is done incidentally while performing the main action.
 

@@ -1,6 +1,6 @@
 Processing keyword: Noun に Noun を重ねて (A ni B wo kasanete)
 # Japanese Grammar Point: Noun に Noun を重ねて (A ni B wo kasanete)
-# Grammar Lesson: Noun に Noun を重ねて (A に B をかさねて)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar structure **Noun に Noun を重ねて** (A に B をかさねて). This expression is used to emphasize the repetition or accumulation of an action or state, often highlighting a prolonged period or the piling up of similar elements.
 
@@ -35,6 +35,7 @@ Noun A + に + Noun B + を + 重ねて
 Mukashi ni mukashi o kasanete, aru tokoro ni ojiisan to obaasan ga imashita.
 **Translation:**  
 "Long, long ago, there lived an old man and an old woman."
+
 ---
 ### Example 2: Piling Up Effort
 **Japanese:**  
@@ -43,6 +44,7 @@ Mukashi ni mukashi o kasanete, aru tokoro ni ojiisan to obaasan ga imashita.
 Doryoku ni doryoku o kasanete, tsui ni mokuhyō o tassei shita.
 **Translation:**  
 "By piling effort upon effort, I finally achieved my goal."
+
 ---
 ### Example 3: Accumulating Experience
 **Japanese:**  
@@ -51,6 +53,7 @@ Doryoku ni doryoku o kasanete, tsui ni mokuhyō o tassei shita.
 Kenkyū ni kenkyū o kasanete, atarashii hakken o shita.
 **Translation:**  
 "Through repeated research, I made a new discovery."
+
 ---
 ### Example 4: Repetition in Art
 **Japanese:**  
@@ -59,6 +62,7 @@ Kenkyū ni kenkyū o kasanete, atarashii hakken o shita.
 Shikō sakugo ni shikō sakugo o kasanete, subarashii sakuhin ga umareta.
 **Translation:**  
 "By repeating trial and error over and over, a wonderful piece of work was created."
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -96,8 +100,6 @@ This structure is neutral and can be used in both formal and informal contexts. 
 2. **Noun に Noun を重ねて** emphasizes accumulation/layering, whereas **何度も** simply indicates repetition without that nuance.
 3. Example: **経験に経験を重ねて、彼は優秀な医者になった。**  
    "By accumulating experience upon experience, he became an excellent doctor."
----
-
 
 ---
 

@@ -1,6 +1,6 @@
 Processing keyword: Noun をものともせずに (Noun wo mono tomo sezu ni)
 # Japanese Grammar Point: Noun をものともせずに (Noun wo mono tomo sezu ni)
-# Noun をものともせずに (Noun をものともせずに)
+
 ## 1. Introduction
 In this lesson, we'll delve into the Japanese grammar point **「Noun をものともせずに」**. This expression is used to highlight someone's courage or determination when they overcome significant obstacles or hardships. Understanding this grammar point will allow you to describe situations where someone (or yourself) persists undeterred by difficulties.
 

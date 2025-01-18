@@ -1,6 +1,6 @@
 Processing keyword: Verb て くる (Verb te kuru)
 # Japanese Grammar Point: Verb て くる (Verb te kuru)
-# Verb てくる (Verb te kuru)
+
 ## 1. Introduction
 The grammar pattern **Verb てくる** is a versatile construction in Japanese that combines a verb in the **-te form** with **くる (kuru)**, meaning "to come." This pattern is used to express actions that have started in the past and continue to the present, movements towards the speaker, or gradual changes. Understanding this grammar point will enhance your ability to describe ongoing actions and changes in Japanese.
 
@@ -19,6 +19,7 @@ The **Verb てくる** construction is used to express:
 - **Verb in て-form**: Conjugate the verb to its -te form.
 - **くる**: The verb "to come" in plain form.
 **Examples of Verb Conjugation:**
+
 | Verb (Dictionary Form) | て-form      | + くる          |
 |------------------------|--------------|-----------------|
 | 食べる (taberu)         | 食べて       | 食べてくる      |
@@ -26,16 +27,19 @@ The **Verb てくる** construction is used to express:
 | 帰る (kaeru)           | 帰って       | 帰ってくる      |
 | 増える (fueru)         | 増えて       | 増えてくる      |
 | 勉強する (benkyou suru)| 勉強して     | 勉強してくる    |
+
 ---
 ## 3. Comparative Analysis
 The pattern **Verb てくる** is often compared with **Verb ていく (Verb te iku)**.
 - **Verb てくる**: Indicates actions or changes moving **towards** the present or the speaker.
 - **Verb ていく**: Indicates actions or changes moving **away** from the present or the speaker into the future.
 **Comparison Table:**
+
 | Usage               | Verb てくる                     | Verb ていく                   |
 |---------------------|---------------------------------|-------------------------------|
 | Past to Present     | 雨が降ってきた \(It started raining\) | だんだん暖かくなっていく \(It will gradually become warmer\) |
 | Movement Direction  | 駅から走ってきた \(I ran from the station (to here)\) | 家まで歩いていく \(I will walk to home (from here)\) |
+
 ---
 ## 4. Examples in Context
 ### Example Sentences
@@ -104,8 +108,6 @@ In Japanese society, expressing the flow of time and changes in states is import
 3. **He came running.**
 ---
 By mastering **Verb てくる**, you'll enhance your ability to describe ongoing actions, changes, and movements in Japanese, making your communication more natural and nuanced.
----
-
 
 ---
 

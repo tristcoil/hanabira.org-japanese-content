@@ -1,10 +1,11 @@
 Processing keyword: Verb やすい (〜yasui)
 # Japanese Grammar Point: Verb やすい (〜yasui)
-# 1. Introduction
+
+## 1. Introduction
 **Grammar Point:** **Verb やすい (〜やすい)**
 **Meaning:** Indicates that an action is easy to do.
 The suffix **〜やすい** attaches to the stem of a verb to express that something is easy to perform or tends to happen readily. It's a handy way to describe actions that are effortless or convenient.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 ### Meaning
 - **〜やすい (~yasui):** *Easy to do*, *tend to*, *likely to happen*.
@@ -31,7 +32,7 @@ Step-by-step to form **〜やすい**:
    - For **る-verbs**: Remove **る**.
    - For **う-verbs**: Change the ending **u** sound to **i** sound.
 3. **Add やすい to the verb stem.**
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Comparing **〜やすい** with **〜にくい**
 - **〜にくい (~nikui):** Means *hard to do*, the opposite of **〜やすい**.
 | Expression        | Meaning            |
@@ -42,7 +43,7 @@ Step-by-step to form **〜やすい**:
 - **安い (yasui):** An adjective meaning *cheap*.
 - Context is crucial since **やすい** can mean *easy to do* or *cheap* based on usage.
   - **食べやすい** (*easy to eat*) vs. **安い食べ物** (*cheap food*).
-# 4. Examples in Context
+## 4. Examples in Context
 ## Formal Situations
 1. **この本は漢字が少なくて読みやすいです。**
    - *Kono hon wa kanji ga sukunakute yomiyasui desu.*
@@ -65,7 +66,7 @@ Step-by-step to form **〜やすい**:
 6. **夏は食べ物が腐りやすいから、気をつけて。**
    - *Natsu wa tabemono ga kusariyasui kara, ki o tsukete.*
    - "Food spoils easily in summer, so be careful."
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Politeness Levels:** The use of **〜やすい** doesn't inherently carry a politeness level. Adjust the politeness by conjugating the verb accordingly (using **です**/**ます** forms for formal speech).
 ## Idiomatic Expressions
@@ -75,7 +76,7 @@ Step-by-step to form **〜やすい**:
 - **忘れやすい**
   - *Wasureyasui*
   - "Forgetful" or "easy to forget."
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 ### Common Mistake 1: Incorrect Verb Form
 - **Incorrect:** **行くやすい**
@@ -88,7 +89,7 @@ Step-by-step to form **〜やすい**:
 ## Learning Strategies
 - **Mnemonic Device:** Think of **やすい** as "yes, easy!" Both start with *yas*.
 - **Practice Verb Stems:** Regularly practice converting verbs to their stem forms to build confidence.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **〜やすい** is used to express that something is easy to do.
 - Attach **やすい** to the verb stem.

@@ -1,6 +1,6 @@
 Processing keyword: Noun に～ (Noun ni～)
 # Japanese Grammar Point: Noun に～ (Noun ni～)
-# Noun に～ (Noun ni～)
+
 ## 1. Introduction
 In this lesson, we'll explore the versatile particle **に (ni)** when used after nouns in the **"Noun に～"** structure. This grammar point is fundamental in Japanese and is used to indicate direction, location, time, purpose, and more. Mastering **に (ni)** will greatly enhance your understanding and fluency in Japanese.
 

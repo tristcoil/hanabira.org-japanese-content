@@ -1,6 +1,6 @@
 Processing keyword: Noun といわず Noun といわず (A to iwazu B to iwazu)
 # Japanese Grammar Point: Noun といわず Noun といわず (A to iwazu B to iwazu)
-# Noun といわず Noun といわず (AといわずBといわず)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Noun といわず Noun といわず (AといわずBといわず)**. This expression is used to indicate that something applies equally to both A and B without distinction. It's a way to emphasize that something is true for all mentioned items or situations.
 
@@ -50,6 +50,7 @@ Noun A + といわず + Noun B + といわず + [Rest of the sentence]
 - **Usage**: Used to show that something is not influenced by a particular factor.
 - **Example**: 天候に関わらずイベントは開催します。("The event will be held regardless of the weather.")
 **Difference:** Similar to **～を問わず**, but **に関わらず** is used for factors that might typically affect the outcome. **Noun といわず Noun といわず** specifically lists two nouns to emphasize inclusivity.
+
 ---
 ## 4. Examples in Context
 Let's look at how **Noun といわず Noun といわず** is used in various sentences.
@@ -57,26 +58,31 @@ Let's look at how **Noun といわず Noun といわず** is used in various sen
 **Japanese:** 彼は平日といわず週末といわず働いている。
 **Romaji:** Kare wa heijitsu to iwazu shūmatsu to iwazu hataraite iru.
 **Translation:** He is working all the time, weekdays and weekends alike.
+
 ---
 ### Example 2
 **Japanese:** 赤ちゃんは昼といわず夜といわず泣いている。
 **Romaji:** Akachan wa hiru to iwazu yoru to iwazu naite iru.
 **Translation:** The baby cries constantly, day and night.
+
 ---
 ### Example 3
 **Japanese:** 学生たちは教室といわず図書館といわず勉強している。
 **Romaji:** Gakusei-tachi wa kyōshitsu to iwazu toshokan to iwazu benkyō shite iru.
 **Translation:** The students are studying everywhere, in classrooms and libraries alike.
+
 ---
 ### Example 4
 **Japanese:** 彼女は国内といわず海外といわず旅行が好きだ。
 **Romaji:** Kanojo wa kokunai to iwazu kaigai to iwazu ryokō ga suki da.
 **Translation:** She loves traveling everywhere, both domestically and abroad.
+
 ---
 ### Example 5
 **Japanese:** 子供たちは顔といわず服といわず絵の具まみれだ。
 **Romaji:** Kodomo-tachi wa kao to iwazu fuku to iwazu enogu mamire da.
 **Translation:** The children are covered in paint everywhere, on their faces and clothes.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance

@@ -1,6 +1,6 @@
 Processing keyword: Noun ばかり (〜bakari)
 # Japanese Grammar Point: Noun ばかり (〜bakari)
-# Noun ばかり (〜ばかり)
+
 ## 1. Introduction
 In Japanese, the particle **ばかり** (*bakari*) is used after nouns to express the idea of "only," "just," or "nothing but." It emphasizes that something is in abundance or that there's an exclusivity to the noun it modifies. Understanding how to use **ばかり** enriches your ability to describe quantities and exclusivity in everyday conversations.
 
@@ -18,8 +18,7 @@ The basic structure is:
 Noun + ばかり
 ```
 ### Formation Diagram
-```mermaid
-graph LR
+```
 A[Noun] --> B[ばかり] --> C[Rest of the Sentence]
 ```
 ### Example Breakdown

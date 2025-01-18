@@ -1,8 +1,9 @@
 Processing keyword: Noun だけ〜 (〜dake)
 # Japanese Grammar Point: Noun だけ〜 (〜dake)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **だけ (dake)**, which is commonly used to express the meaning of "only" or "just" in English. Understanding how to use **だけ** will help you specify quantities, limitations, and emphasize exclusivity in your conversations.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning of だけ
 **だけ** is a particle that means:
 - **"Only"**
@@ -23,7 +24,7 @@ Noun + だけ
   - Example: 日本語だけ (Japanese only)
 - **Verb (Dictionary Form) + だけ**: Indicates "as much as" or "as many as."
   - We'll focus on **Noun + だけ** in this lesson.
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 **だけ** vs. Other Similar Expressions:
 | Expression        | Meaning               | Usage Example          |
 |-------------------|-----------------------|------------------------|
@@ -33,7 +34,7 @@ Noun + だけ
 - **だけ** is neutral, simply stating "only."
 - **しか～ない** has a nuance of insufficiency or dissatisfaction.
 - **ばかり** often implies an excessive amount or frequency.
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example 1: Basic Usage
 **Sentence:**
 - 学生だけが図書館を利用できます。
@@ -70,7 +71,7 @@ Noun + だけ
 - かいいんだけが このサービスを りようできます。
 **Translation:**
 - Only members can use this service.
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Levels of Politeness
 - **だけ** is neutral and can be used in both casual and formal settings.
 - The level of politeness is adjusted by the verbs and other sentence endings, not by **だけ** itself.
@@ -83,7 +84,7 @@ Noun + だけ
 - **Meaning:** Today only
 - **Example:** 今日だけの特別価格です。
   - It's a special price for today only.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Confusing だけ with しか～ない**
    - **Incorrect:** 水だけない。
@@ -94,7 +95,7 @@ Noun + だけ
 - **だけ** is used **after nouns** to mean "only" in a neutral sense.
 - Remember that **しか** is always used with a negative verb form.
   - **しか～ない** implies limitation with a nuance of insufficiency.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **だけ** means "only" or "just" and is used to limit the scope to the preceding noun.
 - **Structure:** **Noun + だけ**
@@ -107,10 +108,10 @@ Noun + だけ
    - **Answer:** しか～ない
 3. Translate to Japanese: "I eat only vegetables."
    - **Answer:** 野菜だけ食べます。
-# Additional Resources
+## Additional Resources
 - For more practice, try creating sentences using **だけ** with different nouns.
 - Look up dialogues or texts where **だけ** is used to see it in natural contexts.
-# Shortcuts and Mnemonics
+## Shortcuts and Mnemonics
 - **だけ = Just Think of "Just K(け)"**
   - The **け** in **だけ** sounds like "K" in "Just K," reminding you it means "just" or "only."
 

@@ -1,6 +1,6 @@
 Processing keyword: Noun を限りに (Noun wo kagiri ni)
 # Japanese Grammar Point: Noun を限りに (Noun wo kagiri ni)
-# Noun を限りに (Noun wo kagiri ni)
+
 ## 1. Introduction
 The grammar point **Noun を限りに (Noun wo kagiri ni)** is used to indicate the final point or the last occurrence of something. It is often translated as "as of...", "starting from...", or "ending with..." in English. This expression is commonly used to announce the end of an event, service, or behavior.
 
@@ -107,8 +107,6 @@ The expression **を限りに** is neutral in politeness but can be adjusted wit
 1. c) As of today (ending today)
 2. b) **昨日を限りに**
 3. *He will quit the team after this time.*
----
-
 
 ---
 

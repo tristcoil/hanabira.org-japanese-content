@@ -1,6 +1,6 @@
 Processing keyword: Noun こそあれ (~kosoare)
 # Japanese Grammar Point: Noun こそあれ (~kosoare)
-# JLPT Grammar Point: Noun + こそあれ (~kosoare)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Noun + こそあれ** (~kosoare). This expression is used to acknowledge the existence of a certain negative aspect but emphasize that despite this, something else holds true or is more significant. It's a nuanced expression that adds depth to your Japanese, especially in formal contexts.
 

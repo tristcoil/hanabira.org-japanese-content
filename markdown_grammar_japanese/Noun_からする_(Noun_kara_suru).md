@@ -1,6 +1,6 @@
 Processing keyword: Noun からする (Noun kara suru)
 # Japanese Grammar Point: Noun からする (Noun kara suru)
-# Noun からする (Noun kara suru)
+
 ## 1. Introduction
 The grammar pattern **Noun からする** is used in Japanese to emphasize a large quantity, amount, or cost associated with something. It conveys the meaning of "as much as" or "starting from," highlighting that the quantity is significant or impressive.
 
@@ -90,7 +90,6 @@ In Japanese culture, expressing humility is valued, but when discussing impressi
 2. **False**: **からする** should only be used with large, significant amounts.
 3. **a)** 彼女は5キロからする猫を飼っている。  
    *(She has a cat weighing as much as 5 kilograms.)*
----
 
 
 ---

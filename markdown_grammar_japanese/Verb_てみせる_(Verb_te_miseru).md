@@ -1,6 +1,6 @@
 Processing keyword: Verb てみせる (Verb te miseru)
 # Japanese Grammar Point: Verb てみせる (Verb te miseru)
-# Verb てみせる (Verb te miseru)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verb てみせる (Verb te miseru)**. This construction is used to express determination to show someone that you can do something or to demonstrate a result through an action. It's a powerful way to convey commitment or to reassure someone.
 
@@ -49,6 +49,7 @@ Verb (て-form) + みせる
 **Japanese:** 私たちは最新の技術で問題を解決してみせます。
 **Romaji:** Watashitachi wa saishin no gijutsu de mondai o kaiketsu shite misemasu.
 **English:** We will solve the problem with the latest technology.
+
 ---
 ## 5. Cultural Notes
 ### Levels of Politeness

@@ -1,6 +1,6 @@
 Processing keyword: Verb ように (〜you ni)
 # Japanese Grammar Point: Verb ように (〜you ni)
-# Verb ように (〜ように)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **Verb ように (〜ように)**, which is commonly used in Japanese to express purpose, wishes, and indirect commands. Understanding this grammar will enhance your ability to articulate intentions and desires in Japanese.
 ## 2. Core Grammar Explanation
@@ -93,6 +93,7 @@ In Japanese culture, indirect communication is valued to maintain harmony and sh
 1. How do you express a wish using **ように**?
 2. What is the difference between **ために** and **ように**?
 3. Translate the following sentence: "Please speak louder so that everyone can hear."
+
 **Answers:**
 1. By using **Verb 辞書形 + ように**, often with verbs like **願う** or **祈る**.
 2. **ために** is used for intentional actions by the subject, whereas **ように** can be used when the outcome is not entirely under the subject's control or when subjects differ.

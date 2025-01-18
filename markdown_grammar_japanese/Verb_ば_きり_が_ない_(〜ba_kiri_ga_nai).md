@@ -1,6 +1,6 @@
 Processing keyword: Verb ば きり が ない (〜ba kiri ga nai)
 # Japanese Grammar Point: Verb ば きり が ない (〜ba kiri ga nai)
-# 〜ばきりがない (Verb ば きり が ない)
+
 ## 1. Introduction
 The Japanese grammar point **〜ばきりがない** is used to express the idea that "if you start doing something, there will be no end to it." It's a way to indicate that an action could continue endlessly, or that there are countless examples or instances of something. This expression emphasizes the limitless or overwhelming nature of a situation.
 

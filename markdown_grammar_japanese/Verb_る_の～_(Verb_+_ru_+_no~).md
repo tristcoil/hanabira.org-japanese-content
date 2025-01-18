@@ -1,10 +1,10 @@
 Processing keyword: Verb る の～ (Verb + ru + no~)
 # Japanese Grammar Point: Verb る の～ (Verb + ru + no~)
-# Japanese Grammar Lesson: Verbるの～ (Verb Dictionary Form + の)
 
----
+
 ## 1. Introduction
 In this lesson, we'll explore how to nominalize verbs in Japanese using **の**. Nominalization is the process of turning verbs into nouns, which allows them to function as subjects or objects in sentences. Understanding this grammar point will enhance your ability to express thoughts and actions more naturally in Japanese.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

@@ -1,6 +1,6 @@
 Processing keyword: Noun に限る (~ni kagiru)
 # Japanese Grammar Point: Noun に限る (~ni kagiru)
-# Noun に限る (～にかぎる)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Noun に限る (にかぎる)**. This expression is used to assert that **there is nothing better than** the noun mentioned. It's a way to express a strong recommendation or preference, suggesting that something is the best choice in a particular situation.
 

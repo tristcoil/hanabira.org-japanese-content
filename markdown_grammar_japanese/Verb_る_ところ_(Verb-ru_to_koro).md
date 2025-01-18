@@ -1,6 +1,6 @@
 Processing keyword: Verb る ところ (Verb-ru to koro)
 # Japanese Grammar Point: Verb る ところ (Verb-ru to koro)
-# Verb-るところ (Verb-ru tokoro)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verb-るところ (Verb-ru tokoro)**. This structure is used to express that an action is just about to happen. Mastering this grammar point will help you describe actions that are on the verge of occurring, enhancing your conversational skills.
 
@@ -42,32 +42,38 @@ Past ----------------- Present ----------------- Future
 - **Verb-るところ:** Action is *about to start*.
 - **Verb-ているところ:** Action is *currently happening*.
 - **Verb-たところ:** Action has *just been completed*.
+
 ---
 ## 4. Examples in Context
 ### Example 1: Formal Speech
 **Sentence:** 会議を始めるところです。
 **Romaji:** Kaigi o hajimeru tokoro desu.
 **Translation:** We are just about to start the meeting.
+
 ---
 ### Example 2: Informal Speech
 **Sentence:** 今出かけるところだ。
 **Romaji:** Ima dekakeru tokoro da.
 **Translation:** I'm about to head out now.
+
 ---
 ### Example 3: Polite Request
 **Sentence:** これから食事に行くところですが、一緒にいかがですか？
 **Romaji:** Kore kara shokuji ni iku tokoro desu ga, issho ni ikaga desu ka?
 **Translation:** We're about to go out for a meal; would you like to join us?
+
 ---
 ### Example 4: Written Context
 **Sentence:** 新しいプロジェクトを始めるところで、チームの協力が必要です。
 **Romaji:** Atarashii purojekuto o hajimeru tokoro de, chīmu no kyōryoku ga hitsuyō desu.
 **Translation:** We're about to start a new project, and we need the team's cooperation.
+
 ---
 ### Example 5: Conversational
 **Sentence:** 映画が始まるところだったのに、電話がかかってきた。
 **Romaji:** Eiga ga hajimaru tokoro datta noni, denwa ga kakatte kita.
 **Translation:** I was just about to start the movie when I got a phone call.
+
 ---
 ## 5. Cultural Notes
 ### Levels of Politeness and Formality
@@ -78,6 +84,7 @@ Past ----------------- Present ----------------- Future
 ### Emphasis on Timing
 - Japanese culture places importance on the timing and state of actions.
 - Using **ところ** expressions accurately conveys respect for that timing in communication.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes
@@ -92,6 +99,7 @@ Past ----------------- Present ----------------- Future
   - **るところ:** Action is on the threshold.
   - **ているところ:** Action is ongoing.
   - **たところ:** Action has just finished.
+
 ---
 ## 7. Summary and Review
 ### Key Takeaways
@@ -105,6 +113,7 @@ Past ----------------- Present ----------------- Future
    **Answer:** Verb-たところ.
 3. **True or False:** Verb-るところ is used to describe an action currently in progress.
    **Answer:** False.
+
 ---
 By understanding and practicing **Verb-るところ**, you'll be able to express imminent actions confidently and naturally in Japanese conversations.
 

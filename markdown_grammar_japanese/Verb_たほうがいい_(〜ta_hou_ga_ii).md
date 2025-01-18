@@ -1,6 +1,6 @@
 Processing keyword: Verb たほうがいい (〜ta hou ga ii)
 # Japanese Grammar Point: Verb たほうがいい (〜ta hou ga ii)
-# Verb たほうがいい (〜たほうがいい)
+
 ## 1. Introduction
 The grammar point **Verb たほうがいい (〜たほうがいい)** is a common expression in Japanese used to offer advice or suggestions. It translates to "**It's better to...**" or "**You should...**" in English. This construction helps you recommend actions to others in a polite and considerate manner.
 

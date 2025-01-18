@@ -1,6 +1,6 @@
 Processing keyword: 文A。そのうえ 文B。
 # Japanese Grammar Point: 文A。そのうえ 文B。
-# 文A。そのうえ 文B。
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese conjunction **「そのうえ」**, which is used to add information to a previous statement. Understanding how to use **「そのうえ」** will help you make your speech and writing more cohesive and expressive.
 

@@ -1,6 +1,6 @@
 Processing keyword: Noun はおろか～も (Noun wa oroka ～ mo)
 # Japanese Grammar Point: Noun はおろか～も (Noun wa oroka ～ mo)
-# Noun はおろか ～も (Noun wa oroka ～ mo)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **Noun はおろか ～も (Noun wa oroka ～ mo)**. This expression is used to emphasize that something is obvious or given, and even more so, something else is also true. It's similar to saying "let alone" or "not to mention" in English.
 
@@ -85,6 +85,7 @@ In Japanese communication, it's common to express oneself indirectly or emphasiz
 - **Informal Speech**: Can be used among friends to emphasize a point, but overuse may sound dramatic.
 ### Idiomatic Expressions
 While **はおろか** itself is a set phrase, it's often found in idiomatic expressions to accentuate insufficiency or highlight extremes.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -121,8 +122,6 @@ Fill in the blanks with the correct particles:
 ---
 ## Conclusion
 By understanding and practicing **Noun はおろか ～も**, you'll be able to emphasize points more effectively and express contrasts in Japanese with greater nuance. Try incorporating this grammar point into your daily conversations or writing exercises to become more familiar with its usage.
----
-
 
 ---
 

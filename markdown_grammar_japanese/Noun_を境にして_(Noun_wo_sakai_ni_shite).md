@@ -1,6 +1,6 @@
 Processing keyword: Noun を境にして (Noun wo sakai ni shite)
 # Japanese Grammar Point: Noun を境にして (Noun wo sakai ni shite)
-# Noun を境にして (Noun をさかいにして)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **Noun を境にして (Noun をさかいにして)**, which is used to indicate a turning point or a significant change starting from a particular event or time. This expression is handy when describing how things transform or evolve after a specific point.
 
@@ -101,8 +101,6 @@ These expressions are similar in meaning and can sometimes be used interchangeab
    **Answer**: *卒業**を**境に、彼らは別々の道を歩み始めた。*
 ---
 By mastering **Noun を境にして**, you can effectively express turning points and significant changes in Japanese. Practice incorporating this grammar point into your sentences to enhance your fluency and expressiveness.
----
-
 
 ---
 

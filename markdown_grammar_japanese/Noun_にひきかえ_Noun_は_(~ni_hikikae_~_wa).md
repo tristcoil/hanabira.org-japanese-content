@@ -1,6 +1,6 @@
 Processing keyword: Noun にひきかえ Noun は (~ni hikikae ~ wa)
 # Japanese Grammar Point: Noun にひきかえ Noun は (~ni hikikae ~ wa)
-# Noun にひきかえ Noun は (~にひきかえ~は)
+
 ## 1. Introduction
 The grammar point **にひきかえ (ni hikikae)** is used to draw a contrast between two nouns, highlighting differences between them. It translates to "in contrast to," "whereas," or "unlike" in English. This construction is useful when you want to compare two things that are significantly different in some aspect.
 
@@ -101,12 +101,11 @@ The grammar point **にひきかえ (ni hikikae)** is used to draw a contrast be
 1. What does **にひきかえ** mean in English?
 2. Can **にひきかえ** be used with verbs directly?
 3. Create a sentence using **にひきかえ** to contrast two things.
+
 **Answers:**
 1. "In contrast to," "whereas," or "unlike."
 2. No, it should be used with nouns. Convert verbs/adjectives to noun forms if necessary.
 3. *(Student's own answer.)*
----
-
 
 ---
 

@@ -1,6 +1,6 @@
 Processing keyword: Noun にして (Noun ni shite)
 # Japanese Grammar Point: Noun にして (Noun ni shite)
-# Noun にして (Noun ni shite)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **Noun にして (Noun ni shite)**. This expression is used to emphasize a particular state or quality of a noun, often highlighting exceptions, extremes, or simultaneous conditions. Understanding **にして** will help you express nuanced ideas and add depth to your Japanese language skills.
 

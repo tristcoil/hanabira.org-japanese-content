@@ -1,10 +1,11 @@
 Processing keyword: Verb られる (〜rareru)
 # Japanese Grammar Point: Verb られる (〜rareru)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we'll explore the grammar point **Verb られる (〜rareru)**, which is essential for constructing passive sentences in Japanese. Understanding how to use 〜られる will allow you to express actions that are done **to** the subject rather than **by** the subject, adding depth and nuance to your language skills.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The suffix **〜られる** is attached to verbs to form the **passive voice** in Japanese. It shifts the focus of the sentence from the doer of the action to the receiver of the action.
 - **Active Voice**: The subject performs an action.
@@ -50,7 +51,7 @@ The way you conjugate a verb into its passive form depends on its verb group. Ja
 | する       | される       |
 | 来る (くる)| 来られる     |
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## Passive vs. Potential Form
 It's important to note that **〜られる** can also indicate the **potential form** (ability or possibility) in Ichidan verbs, which can cause confusion.
 - **Passive (Ichidan verbs)**: 食べる → 食べられる (to be eaten)
@@ -64,7 +65,7 @@ Context is crucial for understanding whether **〜られる** denotes passive vo
 - **Potential Context**: この料理は食べられる。  
   *(This dish can be eaten.)*
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Formal Speech
 1. **車が盗まれました。**  
    *The car was stolen.*
@@ -86,7 +87,7 @@ Context is crucial for understanding whether **〜られる** denotes passive vo
 2. **彼に秘密をばらされちゃった。**  
    *He revealed my secret.*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Usage in Japanese Culture
 In Japanese, passive constructions are often used to express inconvenience or undesirable events that happened to the speaker, sometimes called the **suffering passive**.
 **Example**:
@@ -99,7 +100,7 @@ Passive forms can also soften statements, making them more polite or less direct
 - **その意見は検討されます。**  
   *That opinion will be considered.*
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Misforming Godan Passive Verbs**
    - **Incorrect**: 読む → 読みられる
@@ -113,7 +114,7 @@ Passive forms can also soften statements, making them more polite or less direct
   
 - **Context Clues**: Determine meaning (passive vs. potential) based on sentence context and particles used.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **〜られる** is used to form the passive voice in Japanese.
 - Verb conjugation into passive form depends on verb type (Ichidan, Godan, Irregular).

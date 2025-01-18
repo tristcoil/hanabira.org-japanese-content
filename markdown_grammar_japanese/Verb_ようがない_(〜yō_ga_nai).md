@@ -1,6 +1,6 @@
 Processing keyword: Verb ようがない (〜yō ga nai)
 # Japanese Grammar Point: Verb ようがない (〜yō ga nai)
-# 〜ようがない (Verb ようがない)
+
 ## 1. Introduction
 Welcome to today's lesson on the Japanese grammar point **〜ようがない**. This structure is essential for expressing impossibility or the absence of a means to do something. By mastering this grammar point, you'll be able to convey situations where there's simply no way to perform an action.
 
@@ -118,8 +118,7 @@ In Japanese communication, expressing impossibility in a polite and indirect man
    - **Answer**: **直しようがない。**  
      *Naoshiyou ga nai.*
 ---
-Feel free to reach out if you have any questions or need further clarification on **〜ようがない**. Keep practicing by creating your own sentences, and soon this grammar point will become second nature!
-
+Keep practicing by creating your own sentences, and soon this grammar point will become second nature!
 
 ---
 

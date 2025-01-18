@@ -1,6 +1,6 @@
 Processing keyword: Noun にあっては (Noun ni atte ha)
 # Japanese Grammar Point: Noun にあっては (Noun ni atte ha)
-# Grammar Lesson: Noun にあっては (Noun ni atte wa)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **にあっては (ni atte wa)**. This expression is used to highlight a specific situation or condition in which something occurs. Understanding this grammar point will enhance your ability to describe circumstances and articulate nuanced conditions in Japanese.
 

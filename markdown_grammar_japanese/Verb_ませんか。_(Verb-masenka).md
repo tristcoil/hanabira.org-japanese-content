@@ -1,6 +1,6 @@
 Processing keyword: Verb ませんか。 (Verb-masenka)
 # Japanese Grammar Point: Verb ませんか。 (Verb-masenka)
-# Verb ませんか。 (Verb-masenka)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verb ませんか** (Verb-masenka), which is used to make polite invitations or suggestions. Mastering this structure will help you engage in conversations where you invite others to join you in activities in a courteous manner.
 

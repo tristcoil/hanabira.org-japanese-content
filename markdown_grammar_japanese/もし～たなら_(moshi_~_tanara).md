@@ -1,6 +1,6 @@
 Processing keyword: もし～たなら (moshi ~ tanara)
 # Japanese Grammar Point: もし～たなら (moshi ~ tanara)
-# もし～たなら (moshi ~ta nara)
+
 ## 1. Introduction
 The grammar point **もし～たなら (moshi ~ta nara)** is used to express a hypothetical situation in the past that did not happen. It translates to "If I had done...", allowing the speaker to discuss unreal past conditions and their possible outcomes.
 
@@ -28,11 +28,13 @@ The grammar point **もし～たなら (moshi ~ta nara)** is used to express a h
 ---
 ## 3. Comparative Analysis
 ### Comparison with もし～ば/たら
+
 | Grammar Point      | Usage                                          | Example                                 |
 | ------------------ | ---------------------------------------------- | --------------------------------------- |
 | もし～たなら        | Hypothetical past (did not happen)             | もし知っていたなら、教えたのに。         |
 | もし～たら          | General conditional (real or hypothetical)     | もし雨が降ったら、出かけません。         |
 | もし～ば            | General conditional (formal, factual)          | もし時間があれば、行きます。             |
+
 - **もし～たなら** specifically refers to unreal past conditions.
 - **もし～たら** can be used for both real and hypothetical situations.
 - **もし～ば** often expresses a general or factual condition.
@@ -81,11 +83,11 @@ The grammar point **もし～たなら (moshi ~ta nara)** is used to express a h
 1. How do you express "If I had seen the movie, I would have told you about it." in Japanese?
 2. What is the difference between **もし～たなら** and **もし～たら**?
 3. Create a sentence using **もし～たなら** about a past event you wish had happened.
+
 **Answers:**
 1. **もしその映画を見ていたなら、あなたに話していたでしょう。**
 2. **もし～たなら** is for unreal past conditions (did not happen), whereas **もし～たら** can be used for real or hypothetical situations.
 3. *(Example answer)* もし試験に合格していたなら、日本に留学していた。
----
 
 
 ---

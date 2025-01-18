@@ -1,6 +1,6 @@
 Processing keyword: Verb やしない (~yashinai)
 # Japanese Grammar Point: Verb やしない (~yashinai)
-# Grammar Lesson: Verb やしない (~yashinai)
+
 ## 1. Introduction
 In this lesson, we'll explore the expressive Japanese grammar pattern **やしない (~yashinai)**. This pattern is used to emphasize a strong negative feeling towards an action, often conveying frustration, disdain, or dismissiveness. It's commonly found in informal speech and can add emotional depth to your Japanese conversations.
 

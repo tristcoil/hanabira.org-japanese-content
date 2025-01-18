@@ -1,6 +1,6 @@
 Processing keyword: Verb ことなく (~kotonaku)
 # Japanese Grammar Point: Verb ことなく (~kotonaku)
-# Grammar Point: Verb ことなく (~ことなく)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verb ことなく (~ことなく)**. This structure is used to express the idea of doing something **without doing** something else. It's a formal expression often found in written language and emphasizes the uninterrupted or continuous nature of an action.
 ## 2. Core Grammar Explanation

@@ -1,6 +1,6 @@
 Processing keyword: Verb に 行きます (Verb ni ikimasu)
 # Japanese Grammar Point: Verb に 行きます (Verb ni ikimasu)
-# Verb に 行きます (Verb ni ikimasu)
+
 ## 1. Introduction
 The Japanese grammatical structure **Verb に 行きます** (_Verb ni ikimasu_) is used to express the purpose of going somewhere to perform an action. It's similar to saying "go to [do something]" in English. This pattern is essential for conveying intentions and plans in everyday conversation.
 ## 2. Core Grammar Explanation

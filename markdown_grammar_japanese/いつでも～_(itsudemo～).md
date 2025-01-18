@@ -1,6 +1,6 @@
 Processing keyword: いつでも～ (itsudemo～)
 # Japanese Grammar Point: いつでも～ (itsudemo～)
-# いつでも～ (Itsudemo~)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「いつでも」 (itsudemo)**, which translates to **"anytime"**, **"whenever"**, or **"no matter when"** in English. This expression is commonly used to indicate that an action or state is applicable at all times or that something can happen at any time without restriction.
 
@@ -38,32 +38,38 @@ The basic structure involves using **「いつでも」** directly before a verb
 - **Frequency vs. Openness**: 
   - **いつも** implies regularity or frequency of an action.
   - **いつでも** implies openness or availability at any time.
+
 ---
 ## 4. Examples in Context
 ### Example 1: Offering Help (Informal)
 **Japanese**: 何かあったら、いつでも連絡してね。
 **Romaji**: Nanika attara, itsudemo renraku shite ne.
 **English**: If anything comes up, feel free to contact me anytime.
+
 ---
 ### Example 2: Business Context (Formal)
 **Japanese**: ご質問がございましたら、いつでもお問い合わせください。
 **Romaji**: Go-shitsumon ga gozaimashitara, itsudemo o-toiawase kudasai.
 **English**: If you have any questions, please feel free to contact us anytime.
+
 ---
 ### Example 3: Expressing Availability
 **Japanese**: 私はいつでも大丈夫です。
 **Romaji**: Watashi wa itsudemo daijōbu desu.
 **English**: I'm available anytime.
+
 ---
 ### Example 4: Inviting Someone Over
 **Japanese**: 暇なときは、いつでも遊びに来てください。
 **Romaji**: Hima na toki wa, itsudemo asobi ni kite kudasai.
 **English**: Whenever you're free, please feel free to come over.
+
 ---
 ### Example 5: Emphasizing Unrestricted Access
 **Japanese**: この図書館は、会員ならいつでも利用可能です。
 **Romaji**: Kono toshokan wa, kaiin nara itsudemo riyō kanō desu.
 **English**: Members can use this library anytime.
+
 ---
 ## 5. Cultural Notes
 ### Levels of Politeness
@@ -76,6 +82,7 @@ The basic structure involves using **「いつでも」** directly before a verb
 - **いつでもどこでも**: *Anytime, anywhere*
   - **Example**: *スマホがあれば、**いつでもどこでも**音楽が聴ける。*
   - **Translation**: *If you have a smartphone, you can listen to music anytime, anywhere.*
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistake 1: Confusing **「いつでも」** with **「いつも」**

@@ -1,6 +1,6 @@
 Processing keyword: そして、～ (soshite、～)
 # Japanese Grammar Point: そして、～ (soshite、～)
-# そして、～ (soshite、～)
+
 ## 1. Introduction
 **そして (soshite)** is a common conjunctive adverb in Japanese that translates to "and", "and then", "also", or "moreover". It's used to connect sentences or clauses, indicating a sequence of events or adding information. Mastering "そして" is essential for creating coherent and natural-sounding sentences in both spoken and written Japanese.
 

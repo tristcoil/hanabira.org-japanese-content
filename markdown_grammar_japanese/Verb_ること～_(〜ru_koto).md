@@ -1,6 +1,6 @@
 Processing keyword: Verb ること～ (〜ru koto)
 # Japanese Grammar Point: Verb ること～ (〜ru koto)
-# Verb Dictionary Form + こと (〜ること)
+
 ## 1. Introduction
 In Japanese, verbs can be turned into nouns through a process called **nominalization**. One common method is by using **こと (koto)** after the verb in its dictionary form. This grammar point allows you to talk about activities, experiences, abilities, and more in a noun-like way.
 ## 2. Core Grammar Explanation

@@ -1,6 +1,6 @@
 Processing keyword: Noun に言わせれば (Noun ni iwasereba)
 # Japanese Grammar Point: Noun に言わせれば (Noun ni iwasereba)
-# Noun に言わせれば (Noun ni iwasereba)
+
 ## 1. Introduction
 The grammar point **に言わせれば (ni iwasereba)** is used to express an opinion from someone's perspective. It translates to "if you let (someone) say" or "if you ask (someone)", similar to "in (someone's) opinion" in English. This structure is valuable for attributing opinions or statements to a specific person or entity.
 
@@ -54,6 +54,7 @@ Noun + に言わせれば
 - Adjust the surrounding language to match the level of politeness required.
 ### Cultural Relevance
 In Japanese culture, expressing one's own opinion directly can sometimes be considered too forward. Using structures like **に言わせれば** allows the speaker to attribute the opinion to someone else, making it a softer way to present potentially conflicting viewpoints.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes

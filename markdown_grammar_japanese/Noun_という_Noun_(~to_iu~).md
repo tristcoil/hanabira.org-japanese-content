@@ -1,6 +1,6 @@
 Processing keyword: Noun という Noun (~to iu~)
 # Japanese Grammar Point: Noun という Noun (~to iu~)
-# Grammar Lesson: Noun という Noun (～という～)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Noun という Noun** (~to iu~), a common expression used to define or describe a noun by another noun. It's an essential structure that helps you provide explanations, give names, or specify things in Japanese.
 

@@ -1,6 +1,6 @@
 Processing keyword: Noun といい Noun といい (〜toii〜toii)
 # Japanese Grammar Point: Noun といい Noun といい (〜toii〜toii)
-# Noun といい Noun といい (〜といい〜といい)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar pattern **Noun といい Noun といい** (〜といい〜といい). This structure is used to emphasize that multiple examples share a similar quality or attribute. It is a useful way to highlight characteristics by listing examples, often leading to an evaluative comment.
 ## 2. Core Grammar Explanation

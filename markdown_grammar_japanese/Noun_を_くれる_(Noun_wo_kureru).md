@@ -1,6 +1,6 @@
 Processing keyword: Noun を くれる (Noun wo kureru)
 # Japanese Grammar Point: Noun を くれる (Noun wo kureru)
-# Noun を くれる (Noun wo kureru)
+
 ## 1. Introduction
 In Japanese, expressing actions of giving and receiving involves specific verbs that indicate the direction of the action relative to the speaker. The grammar pattern **"Noun を くれる"** is used when someone gives something to the speaker or someone close to the speaker. Understanding this pattern is essential for clear and polite communication in Japanese.
 ## 2. Core Grammar Explanation

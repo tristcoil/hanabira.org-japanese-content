@@ -1,6 +1,6 @@
 Processing keyword: Noun にすら (〜ni sura)
 # Japanese Grammar Point: Noun にすら (〜ni sura)
-# Noun にすら (〜ni sura)
+
 ## 1. Introduction
 In this lesson, we'll delve into the Japanese grammar point **Noun にすら (〜ni sura)**. This structure is used to express strong emphasis, similar to saying "even in" or "even at" in English. By mastering **にすら**, you'll be able to convey a deeper level of emphasis and nuance in your Japanese communication.
 
@@ -16,11 +16,13 @@ In this lesson, we'll delve into the Japanese grammar point **Noun にすら (�
 - **に**: Particle indicating direction, location, time, or indirect object.
 - **すら**: Particle meaning "even".
 **Diagram:**
+
 | Component | Function                  |
 |-----------|---------------------------|
 | Noun      | Subject/Subject of emphasis |
 | に        | Direction/Location marker |
 | すら      | Emphatic particle ("even") |
+
 ---
 ### Example Breakdown
 **Example Sentence:**

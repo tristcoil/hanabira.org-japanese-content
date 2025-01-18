@@ -1,6 +1,6 @@
 Processing keyword: だれか〜 (dareka〜)
 # Japanese Grammar Point: だれか〜 (dareka〜)
-# だれか〜 (dareka~) Grammar Point
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **だれか〜 (dareka~)**, which translates to **"someone"** or **"anyone"** in English. Understanding how to use **だれか** is essential for everyday conversations when referring to an unspecified person.
 

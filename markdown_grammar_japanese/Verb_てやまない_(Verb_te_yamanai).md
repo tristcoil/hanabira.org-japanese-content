@@ -1,6 +1,6 @@
 Processing keyword: Verb てやまない (Verb te yamanai)
 # Japanese Grammar Point: Verb てやまない (Verb te yamanai)
-# Verb てやまない (Verb te yamanai)
+
 ## 1. Introduction
 The expression **〜てやまない (〜te yamanai)** is a formal Japanese grammar pattern used to convey deep, heartfelt emotions that are continuous and unwavering. It expresses strong feelings such as earnest wishes, profound respect, or enduring love that one holds and cannot stop feeling.
 

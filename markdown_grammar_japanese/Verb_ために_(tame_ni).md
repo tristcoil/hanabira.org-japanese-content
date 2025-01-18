@@ -1,6 +1,6 @@
 Processing keyword: Verb ために (tame ni)
 # Japanese Grammar Point: Verb ために (tame ni)
-# Verb ために (tame ni)
+
 ## 1. Introduction
 The expression **ために (tame ni)** is a common Japanese grammar point used to express purpose or reason. It translates to "in order to" or "for the sake of" in English. Understanding how to use **ために** correctly will enhance your ability to articulate purposes and intentions in Japanese.
 
@@ -99,8 +99,6 @@ Verb (Dictionary Form) + ために + Action Verb/Expression
 3. **Translate the following sentence:**
    健康になるために、毎日運動しています。
    *Answer: "I exercise every day in order to become healthy."*
----
-
 
 ---
 

@@ -1,6 +1,6 @@
 Processing keyword: な-adjective に する-なる
 # Japanese Grammar Point: な-adjective に する-なる
-# Understanding the Use of **な-adjective + にする / になる**
+
 ## 1. Introduction
 In Japanese, expressing changes in state—whether caused intentionally or occurring naturally—is essential for effective communication. The grammar constructions **な-adjective + にする** and **な-adjective + になる** are used to convey these changes. This lesson will explore these structures, their meanings, and usages, providing clear explanations and examples to enhance your understanding.
 
@@ -35,21 +35,25 @@ In Japanese, expressing changes in state—whether caused intentionally or occur
   (The room becomes quiet.)
   ```
 ### Visual Diagram
+
 | Function        | Structure                         | Meaning                         |
 |-----------------|-----------------------------------|---------------------------------|
 | **Intentional Change** | `[Object] を [な-adjective] にする` | Make something **[adjective]**  |
 | **Natural Change**     | `[Subject] が [な-adjective] になる`  | Something becomes **[adjective]** |
+
 ---
 ## 3. Comparative Analysis
 While both structures involve change, the key difference lies in intentionality:
 - **にする** implies **actively making** the change.
 - **になる** implies the change **happens on its own**.
+
 | Aspect                | **にする**                      | **になる**                      |
 |-----------------------|---------------------------------|----------------------------------|
 | **Intentionality**    | Deliberate action               | Natural progression              |
 | **Particle Used**     | を                             | が                               |
 | **Example Sentence**  | 部屋をきれいに**する**。       | 部屋がきれいに**なる**。        |
 | **Translation**       | I make the room clean.          | The room becomes clean.          |
+
 ---
 ## 4. Examples in Context
 ### Example Sentences with **にする**
