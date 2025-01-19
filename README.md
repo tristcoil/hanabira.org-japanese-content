@@ -8,7 +8,8 @@ Changelog:
 updated
 - grammar_ja_N5_full_alphabetical_0001.json with proofreadings - whole file
 - grammar_ja_N4_full_alphabetical_0001.json with proofreadings - whole file
-- grammar_ja_N4_full_alphabetical_0001.json with proofreadings - whole file
+- grammar_ja_N3_full_alphabetical_0001.json with proofreadings - whole file
+- grammar_ja_N2_full_alphabetical_0001.json with proofreadings - whole file
 
 - Japanese grammar markdown proofreading - full content
 

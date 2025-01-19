@@ -1,52 +1,52 @@
 [
   {
     "title": "A うが B うが (A uga B uga)",
-    "short_explanation": "Expresses the idea of 'no matter how...or', 'even if...or'.",
-    "long_explanation": "The ～うが ～うが grammar point is used to express repeated actions or states with no change in result. It suggests that regardless of the conditions stated in A and B, the result remains the same. It can be translated as 'no matter how...or', 'even if...or' in English.",
-    "formation": "Verb-volitional form + うが + Verb-volition form + うが",
+    "short_explanation": "Expresses the idea of 'no matter how... or', 'even if... or'.",
+    "long_explanation": "The ～うが ～うが grammar pattern is used to express that regardless of the conditions in A and B, the result remains the same. Often you’ll see volitional forms or i-adjective '-かろうが' forms. It can be translated as 'no matter how... or...', 'even if... or...'.",
+    "formation": "Verb-volitional form + うが + Verb-volitional form + うが, or Adjective (-かろう) + が + Adjective (-かろう) + が",
     "examples": [
       {
-        "jp": "朝早く起きるうが、夜遅く起きるうが、いつもバスが遅れる。",
-        "romaji": "Asa hayaku okiru u ga, yoru osoku okiru u ga, itsumo basu ga okureru.",
-        "en": "No matter whether I wake up early in the morning or late at night, the bus is always late."
+        "jp": "朝早かろうが夜遅かろうが、いつもバスが遅れる。",
+        "romaji": "Asa hayakarou ga yoru osokarou ga, itsumo basu ga okureru.",
+        "en": "No matter whether it's early morning or late at night, the bus is always late."
       },
       {
-        "jp": "彼に話すうが、話さないうが、結果は変わらない。",
-        "romaji": "Kare ni hanasu u ga, hanasanai u ga, kekka wa kawaranai.",
-        "en": "Even if I speak to him or don't, the result won't change."
+        "jp": "彼に話そうが話すまいが、結果は変わらない。",
+        "romaji": "Kare ni hanasou ga hanasu maiga, kekka wa kawaranai.",
+        "en": "Even if I talk to him or don't, the outcome won't change."
       },
       {
-        "jp": "この仕事をするうが、しないうが、給料は同じだ。",
-        "romaji": "Kono shigoto o suru u ga, shinai u ga, kyuuryou wa onaji da.",
+        "jp": "この仕事をしようがしまいが、給料は同じだ。",
+        "romaji": "Kono shigoto o shiyou ga shimai ga, kyuuryou wa onaji da.",
         "en": "Whether I do this job or not, the salary is the same."
       },
       {
-        "jp": "あの人に話すうが、話さないうが、理解してくれるとは思えない。",
-        "romaji": "Ano hito ni hanasu u ga, hanasanai u ga, rikai shite kureru to wa omoenai.",
+        "jp": "あの人に話そうが話すまいが、理解してくれるとは思えない。",
+        "romaji": "Ano hito ni hanasou ga hanasu maiga, rikai shite kureru to wa omoenai.",
         "en": "I don't think that person would understand whether I talk to them or not."
       }
     ]
   },
   {
     "title": "A うと B うと (A uto B uto)",
-    "short_explanation": "To show both conditions A and B are equivalent or indifferent; 'whether A or B'.",
-    "long_explanation": "The うと うと grammar point is used to express that both conditions A and B are equivalent or the same to the speaker. It can be translated as 'whether A or B' in English, indicating the speaker's indifference to the two conditions. The formation is with い-adjectives, な-adjectives, or nouns.",
-    "formation": "い-adjective + うと, な-adjective + であろうと, Noun + であろうと",
+    "short_explanation": "Shows that the speaker is indifferent to both conditions; 'whether A or B'.",
+    "long_explanation": "The うと うと pattern indicates that A and B are both possibilities, yet the speaker's stance or the outcome doesn’t change. It's often translated as 'whether A or B'. For i-adjectives, the '-かろうと' form is used. For nouns or な-adjectives, you’ll see 'Noun/な-adjective + であろうと'.",
+    "formation": "い-adjective (-かろう) + と, な-adjective / Noun + であろうと",
     "examples": [
       {
         "jp": "雨が降ろうと晴れようと、私は毎日ジョギングをします。",
-        "romaji": "Ame ga furo u to hare yo u to, watashi wa mainichi jogingu wo shimasu.",
+        "romaji": "Ame ga furou to hareyou to, watashi wa mainichi jogingu o shimasu.",
         "en": "Whether it's raining or sunny, I jog every day."
       },
       {
-        "jp": "試験が難しくても易しくても、一生懸命勉強します。",
-        "romaji": "Shiken ga muzukashiku temo, yasashiku temo, isshoukenmei benkyou shimasu.",
+        "jp": "試験が難しかろうと易しかろうと、一生懸命勉強します。",
+        "romaji": "Shiken ga muzukashikarou to yasashikarou to, isshoukenmei benkyou shimasu.",
         "en": "Whether the exam is difficult or easy, I will study hard."
       },
       {
-        "jp": "彼が学生であろうと社会人であろうと、私は彼に尊敬しています。",
-        "romaji": "Kare ga gakusei de arou to shakaijin de arou to, watashi wa kare ni sonkei shiteimasu.",
-        "en": "Whether he is a student or a working adult, I respect him."
+        "jp": "彼が学生であろうと社会人であろうと、私は彼を尊敬しています。",
+        "romaji": "Kare ga gakusei de arou to shakaijin de arou to, watashi wa kare o sonkei shiteimasu.",
+        "en": "Whether he's a student or a working adult, I respect him."
       },
       {
         "jp": "その映画が新しいであろうと古いであろうと、面白ければ観ます。",
@@ -57,42 +57,42 @@
   },
   {
     "title": "A かたわら B (A katawara B)",
-    "short_explanation": "Expresses 'while also'; 'at the same time as'.",
-    "long_explanation": "The ～かたわら grammar point is used to express that someone is doing B while also doing A. This is usually used when the focus is on the person's ability to do two things simultaneously, usually something that takes considerable effort or skill. It can be translated as 'while also' or 'at the same time as' in English.",
+    "short_explanation": "Expresses 'while also', 'at the same time as'.",
+    "long_explanation": "The ～かたわら grammar point is used when someone is doing B while also doing A. It often implies that both tasks require considerable commitment or skill. It can be translated as 'while also' or 'at the same time as'.",
     "formation": "Verb-dictionary form + かたわら, Noun + のかたわら",
     "examples": [
       {
         "jp": "彼は仕事をするかたわら、大学に通っている。",
         "romaji": "Kare wa shigoto o suru katawara, daigaku ni kayotte iru.",
-        "en": "While also working, he is attending university."
+        "en": "While working, he also attends university."
       },
       {
         "jp": "私は学生のかたわら、レストランでアルバイトをしている。",
         "romaji": "Watashi wa gakusei no katawara, resutoran de arubaito o shite iru.",
-        "en": "While also being a student, I am working part-time at a restaurant."
+        "en": "While being a student, I work part-time at a restaurant."
       },
       {
         "jp": "彼女は医者のかたわら、趣味で絵を描いている。",
         "romaji": "Kanojo wa isha no katawara, shumi de e o kaite iru.",
-        "en": "While also being a doctor, she paints pictures as a hobby."
+        "en": "While being a doctor, she paints as a hobby."
       },
       {
         "jp": "彼は仕事をするかたわら、ボランティア活動にも積極的に参加している。",
         "romaji": "Kare wa shigoto o suru katawara, borantia katsudou ni mo sekkyokuteki ni sanka shite iru.",
-        "en": "While also doing his job, he is also actively participating in volunteer activities."
+        "en": "While doing his job, he also actively participates in volunteer work."
       }
     ]
   },
   {
     "title": "A かれ B かれ (A kare B kare)",
-    "short_explanation": "Express either A or B or both; 'whether A or B'",
-    "long_explanation": "The ～AかれBかれ grammar point is used to express the idea of 'whether A or B', including both situations. This is equivalent to 'whether A or B or both' in English.",
-    "formation": "Noun + かれ + Noun + かれ",
+    "short_explanation": "Expresses 'whether A or B'; both situations are included.",
+    "long_explanation": "The grammar point ～AかれBかれ is a somewhat literary/old-fashioned pattern often seen with i-adjectives (e.g., 早かれ遅かれ). It can mean 'whether A or B'. Here it's shown with nouns or verbs, which is also possible in older or set expressions.",
+    "formation": "Commonly i-adjective stems + かれ + i-adjective stems + かれ (e.g. 早かれ遅かれ). Also sometimes Noun + かれ + Noun + かれ in older usage.",
     "examples": [
       {
         "jp": "冬かれ夏かれ、毎日ジョギングする。",
-        "romaji": "Fuyu kare natsu kare, mainichi jyogingu suru.",
-        "en": "Whether it is winter or summer, I jog every day."
+        "romaji": "Fuyu kare natsu kare, mainichi jogingu suru.",
+        "en": "Whether it's winter or summer, I jog every day."
       },
       {
         "jp": "彼が来るかれ来ないかれ、パーティーは始める。",
@@ -102,53 +102,53 @@
       {
         "jp": "勝つかれ負けるかれ、試合に出ることが大事だ。",
         "romaji": "Katsu kare makeru kare, shiai ni deru koto ga daiji da.",
-        "en": "Whether we win or lose, it's important to compete in the game."
+        "en": "Whether we win or lose, it's important to take part in the match."
       },
       {
-        "jp": "雨かれ雪かれ、犬の散歩を忘れないでください。",
-        "romaji": "Ame kare yuki kare, inu no sanpo wo wasurenai de kudasai.",
-        "en": "Whether it's raining or snowing, please don't forget to walk the dog."
+        "jp": "雨かれ雪かれ、犬の散歩は欠かさない。",
+        "romaji": "Ame kare yuki kare, inu no sanpo wa kakasanai.",
+        "en": "Whether it's raining or snowing, I never skip walking the dog."
       }
     ]
   },
   {
     "title": "A だの B だの (A dano B dano)",
-    "short_explanation": "Used to list examples; 'things like', 'and so on'.",
-    "long_explanation": "The ～だの～だの grammar point is used to list examples in a conversation, and is often used to critique or complain about something. It is a casual form and can be translated as 'things like', 'and so on' or 'et cetera' in English. The formation is simple - place 'だの' after the item you're using as an example.",
-    "formation": "Noun + だの Noun + だの",
+    "short_explanation": "Used to list examples (often with a critical or complaining tone); 'things like A, B, etc.'.",
+    "long_explanation": "The ～だの～だの grammar point is used to list examples, typically in a casual or complaining tone. It can be translated as 'things like... and so on'.",
+    "formation": "Noun/Verb casual + だの + Noun/Verb casual + だの",
     "examples": [
       {
         "jp": "彼はいつも遅刻だの、仕事を忘れるだので困る。",
-        "romaji": "Kare wa itsumo chikoku dano, shigoto wo wasureru dano de komaru.",
-        "en": "I'm troubled by him always being late, forgetting work, and so on."
+        "romaji": "Kare wa itsumo chikoku dano, shigoto o wasureru dano de komaru.",
+        "en": "I'm troubled because he's always late, forgets work, and so on."
       },
       {
         "jp": "彼女は新しい服だの、化粧品だのによくお金を使います。",
-        "romaji": "Kanojo wa atarashii fuku dano, keshouhin dano ni yoku okane wo tsukaimasu.",
-        "en": "She often spends money on things like new clothes, cosmetics, and so on."
+        "romaji": "Kanojo wa atarashii fuku dano, keshouhin dano ni yoku okane o tsukaimasu.",
+        "en": "She often spends money on new clothes, cosmetics, and so on."
       },
       {
-        "jp": "彼が言うには、音楽だの、映画だの、本だのが好きだそうだ。",
-        "romaji": "Kare ga iu ni wa, ongaku dano, eiga dano, hon dano ga suki dasou da.",
+        "jp": "彼が言うには、音楽だの映画だの本だのが好きらしい。",
+        "romaji": "Kare ga iu ni wa, ongaku dano, eiga dano, hon dano ga suki rashii.",
         "en": "He says he likes music, movies, books, and so on."
       },
       {
         "jp": "子供にはお菓子だの、おもちゃだの、好きなものを限りなく与えてあげたい。",
         "romaji": "Kodomo ni wa okashi dano, omocha dano, suki na mono o kagirinaku ataete agetai.",
-        "en": "I want to endlessly give children things they like such as candies, toys, and so on."
+        "en": "I want to give children all the things they like, such as sweets and toys, without limit."
       }
     ]
   },
   {
     "title": "A であれ B であれ (A deare B deare)",
-    "short_explanation": "Used to indicate that something applies to multiple situations; 'whether A or B'.",
-    "long_explanation": "The A であれ B であれ grammar point is used to indicate that a certain statement applies to multiple situations or conditions. It is usually translated as 'whether A or B' in English. The noun phrases A and B are usually counterparts or contrasting items.",
+    "short_explanation": "Indicates the same statement applies to both A and B; 'whether A or B'.",
+    "long_explanation": "The grammar point A であれ B であれ is used to say a statement applies equally whether it's A or B. Often the nouns/conditions are contrasting pairs, and it's translated as 'whether A or B'.",
     "formation": "Noun A + であれ + Noun B + であれ",
     "examples": [
       {
         "jp": "雨であれ雪であれ、試合は中止にならない。",
         "romaji": "Ame deare yuki deare, shiai wa chuushi ni naranai.",
-        "en": "Whether it's rain or snow, the match will not be cancelled."
+        "en": "Whether it's rain or snow, the match will not be canceled."
       },
       {
         "jp": "男であれ女であれ、平等に扱われるべきだ。",
@@ -158,104 +158,104 @@
       {
         "jp": "豊かであれ貧乏であれ、真の幸福は金では買えない。",
         "romaji": "Yutaka deare binbou deare, shin no shiawase wa kane de wa kaenai.",
-        "en": "Whether rich or poor, true happiness cannot be bought with money."
+        "en": "Whether rich or poor, true happiness can't be bought with money."
       },
       {
-        "jp": "経験者であれ初心者であれ、このゲームを楽しむことができる。",
-        "romaji": "Keikensha deare shoshinsha deare, kono geemu wo tanoshimu koto ga dekiru.",
-        "en": "Whether a veteran or a beginner, anyone can enjoy this game."
+        "jp": "経験者であれ初心者であれ、このゲームは楽しめる。",
+        "romaji": "Keikensha deare shoshinsha deare, kono geemu wa tanoshimeru.",
+        "en": "Whether you're a veteran or a beginner, you can enjoy this game."
       }
     ]
   },
   {
     "title": "A というか B というか (A to iu ka B to iu ka)",
-    "short_explanation": "This phrase translates to 'rather than say A, it's more like B' or 'whether to call it A or B'.",
-    "long_explanation": "The 'A というか B というか' grammar point is used to present two conceivable expressions or feelings about a situation. It is often used when one expression doesn't fully capture the speaker's intent. It could be translated as 'rather than say A, it's more like B' or 'whether to call it A or B'.",
-    "formation": "Phrase A + というか, + Phrase B + というか",
+    "short_explanation": "Means 'rather than say A, it's more like B', or 'whether to call it A or B'.",
+    "long_explanation": "The grammar 'A というか B というか' is used when the speaker isn't sure which expression (A or B) describes the situation better. It can be translated as 'rather than A, it's more B' or 'should I call it A or B?'.",
+    "formation": "Phrase A + というか + Phrase B + というか",
     "examples": [
       {
-        "jp": "彼は無礼というか、直接的というか、とにかく彼の言葉はすごくはっきりとしてます。",
-        "romaji": "Kare wa burei to iu ka, chokusetsuteki to iu ka, tonikaku kare no kotoba wa sugoku hakkiri to shiteimasu.",
-        "en": "He is, rather than rude, more like direct; anyway, his words are very clear."
+        "jp": "彼は無礼というか、直接的というか、とにかくはっきりしている。",
+        "romaji": "Kare wa burei to iu ka, chokusetsuteki to iu ka, tonikaku hakkiri shite iru.",
+        "en": "He's rather rude, or maybe just direct; in any case, he is very blunt."
       },
       {
-        "jp": "この映画は面白いというか、変というか、とにかく見てみなければならない。",
-        "romaji": "Kono eiga wa omoshiroi to iu ka, hen to iu ka, tonikaku mite minakereba naranai.",
-        "en": "This movie is interesting, or should I say strange, but anyway, you have to see it."
+        "jp": "この映画は面白いというか、変というか、とにかく不思議な雰囲気がある。",
+        "romaji": "Kono eiga wa omoshiroi to iu ka, hen to iu ka, tonikaku fushigi na fun'iki ga aru.",
+        "en": "This movie is interesting or maybe strange; anyway, it has a mysterious vibe."
       },
       {
-        "jp": "彼の絵は素晴らしいというか、驚くべきというか、本当に一見の価値あり。",
-        "romaji": "Kare no e wa subarashii to iu ka, odoroku beki to iu ka, hontou ni ikken no kachi ari.",
-        "en": "His paintings are wonderful, or should I say amazing, definitely worth a look."
+        "jp": "彼の絵は素晴らしいというか、驚くべきというか、本当に見る価値がある。",
+        "romaji": "Kare no e wa subarashii to iu ka, odoroku beki to iu ka, hontou ni miru kachi ga aru.",
+        "en": "His paintings are wonderful, or perhaps astonishing; they're definitely worth seeing."
       },
       {
-        "jp": "彼女のコスチュームはかわいいというか、個性的というか、とにかく注目の的だった。",
-        "romaji": "Kanojo no kosuchuumu wa kawaii to iu ka, koseiteki to iu ka, tonikaku chumoku no mokuteki datta.",
-        "en": "Her costume was cute, or should I say unique, but anyway, it was the center of attention."
+        "jp": "彼女の服はかわいいというか、派手というか、とにかく人目を引く。",
+        "romaji": "Kanojo no fuku wa kawaii to iu ka, hade to iu ka, tonikaku hitome o hiku.",
+        "en": "Her outfit is cute or maybe flashy; in any case, it grabs people's attention."
       }
     ]
   },
   {
     "title": "A とも B とも (A tomo B tomo)",
-    "short_explanation": "Express two possibilities; 'either A or B', 'whether A or B'.",
-    "long_explanation": "The 'Aとも B とも' grammar point is usually used to express two possible scenarios or items. It can be loosely translated as 'either A or B' or 'whether A or B' in English. Generally, it is used when the speaker wants to let listeners know both A and B are possibilities.",
-    "formation": "Noun + とも + Noun + とも",
+    "short_explanation": "Expresses two possibilities; 'either A or B', 'whether A or B'.",
+    "long_explanation": "The 'A とも B とも' grammar pattern indicates two possible scenarios. It can be translated as 'whether A or B' or 'either A or B'.",
+    "formation": "Noun + とも + Noun + とも (or sometimes Verb forms for each A, B)",
     "examples": [
       {
         "jp": "決断とも誤りとも、結果は時間が教えてくれるでしょう。",
         "romaji": "Ketsudan tomo ayamari tomo, kekka wa jikan ga oshiete kureru deshou.",
-        "en": "Whether it's a decision or a mistake, time will tell the result."
+        "en": "Whether it's a wise decision or a mistake, time will show the result."
       },
       {
-        "jp": "彼は父とも兄とも話せません。",
-        "romaji": "Kare wa chichi tomo ani tomo hanasemasen.",
-        "en": "He can't talk to either his father or his brother."
+        "jp": "彼は父とも兄とも、もう何年も話していない。",
+        "romaji": "Kare wa chichi tomo ani tomo, mou nannen mo hanashite inai.",
+        "en": "He hasn't spoken to either his father or his brother in years."
       },
       {
-        "jp": "彼女とも友達とも映画を見に行きます。",
-        "romaji": "Kanojo tomo tomodachi tomo eiga wo mini ikimasu.",
-        "en": "I will go to see a movie with either my girlfriend or my friend."
+        "jp": "彼女とも友達とも映画を見に行くつもりです。",
+        "romaji": "Kanojo tomo tomodachi tomo eiga o mi ni iku tsumori desu.",
+        "en": "I plan to go watch a movie either with my girlfriend or a friend."
       },
       {
-        "jp": "このゲームには時間も努力もかかります。",
-        "romaji": "Kono geemu ni wa jikan tomo doryoku tomo kakarimasu.",
-        "en": "This game requires both time and effort."
+        "jp": "このゲームには時間とも努力とも言えないほどの根気が必要です。",
+        "romaji": "Kono geemu ni wa jikan tomo doryoku tomo ienai hodo no konki ga hitsuyou desu.",
+        "en": "This game requires a kind of persistence beyond just time or effort."
       }
     ]
   },
   {
     "title": "A にしろ B にしろ (A nishiro B nishiro)",
-    "short_explanation": "Whether it is A or B; Regardless of A or B",
-    "long_explanation": "The grammar point A にしろ B にしろ is used to express an idea of disregarding specific situation presented in both A and B. It is often translated as 'whether it is A or B...' or 'regardless of A or B...'.",
-    "formation": "Noun A + にしろ + Noun B + にしろ, Verb-casual A + にしろ + Verb-casual B + にしろ",
+    "short_explanation": "Means 'whether it is A or B'; 'regardless of A or B'.",
+    "long_explanation": "A にしろ B にしろ is used to indicate that even though A and B are different possibilities, the statement or conclusion applies regardless. Often translated as 'whether it’s A or B' or 'regardless of A or B'.",
+    "formation": "Noun A + にしろ + Noun B + にしろ, or Verb-casual A + にしろ + Verb-casual B + にしろ",
     "examples": [
       {
-        "jp": "暑いにしろ、寒いにしろ、毎日運動するべきです。",
-        "romaji": "Atsui ni shiro, samui ni shiro, mainichi undou suru beki desu.",
+        "jp": "暑いにしろ寒いにしろ、毎日運動するべきです。",
+        "romaji": "Atsui ni shiro samui ni shiro, mainichi undou suru beki desu.",
         "en": "Whether it's hot or cold, you should exercise every day."
       },
       {
-        "jp": "合格にしろ、不合格にしろ、最善を尽くした。",
-        "romaji": "Goukaku ni shiro, fukoukaku ni shiro, saizen wo tsukushita.",
+        "jp": "合格するにしろ不合格になるにしろ、最善を尽くしました。",
+        "romaji": "Goukaku suru ni shiro fukougaku ni naru ni shiro, saizen o tsukushimashita.",
         "en": "Whether I pass or fail, I did my best."
       },
       {
-        "jp": "忙しいにしろ、暇にしろ、時間を大切にすべきです。",
-        "romaji": "Isogashii ni shiro, hima ni shiro, jikan wo taisetsu ni subeki desu.",
+        "jp": "忙しいにしろ暇にしろ、時間を大切にすべきです。",
+        "romaji": "Isogashii ni shiro hima ni shiro, jikan o taisetsu ni subeki desu.",
         "en": "Whether you're busy or free, you should value your time."
       },
       {
-        "jp": "大きいにしろ、小さいにしろ、それらの箱はすべて移動します。",
-        "romaji": "Ookii ni shiro, chiisai ni shiro, sorera no hako wa subete idou shimasu.",
-        "en": "Whether it's big or small, all those boxes will be moved."
+        "jp": "大きいにしろ小さいにしろ、その箱は全部ここに運んでください。",
+        "romaji": "Ookii ni shiro chiisai ni shiro, sono hako wa zenbu koko ni hakonde kudasai.",
+        "en": "Whether they're large or small, please move all those boxes here."
       }
     ]
   },
   {
     "title": "A にせよ B にせよ (A ni seyo B ni seyo)",
-    "short_explanation": "Either A or B, Regardless of A or B.",
-    "long_explanation": "The 〜にせよ 〜にせよ grammar point is used to express two possibilities A and B, and indicate that regardless of whether it is A or B, the statement remains valid. The English equivalent is 'either A or B'.",
-    "formation": "Noun + にせよ Noun + にせよ",
+    "short_explanation": "Either A or B; Regardless of whether it's A or B.",
+    "long_explanation": "The 〜にせよ 〜にせよ grammar point is used to express two possibilities A and B, indicating that regardless of whether it is A or B, the statement remains valid. It can be translated as 'whether it's A or B.'",
+    "formation": "Noun + にせよ + Noun + にせよ (also works with verbs in dictionary form + にせよ)",
     "examples": [
       {
         "jp": "雨にせよ雪にせよ、試合は中止しない。",
@@ -280,94 +280,94 @@
     ]
   },
   {
-    "title": "A につけ B につけ （A ni tsuke B ni tsuke）",
-    "short_explanation": "Used to express 'whether... or...', 'both... and...', 'in either case'.",
-    "long_explanation": "The ～AにつけBにつけ grammar point is used to express that a certain state or action applies both in case A and case B. It can be translated as 'whether... or...', 'both... and...', 'in either case' in English. It is often used with a pair of contrasting statements.",
-    "formation": "Phrase A + につけ、Phrase B + につけ",
+    "title": "A につけ B につけ (A ni tsuke B ni tsuke)",
+    "short_explanation": "Expresses 'whether... or...', 'both... and...', 'in either case'.",
+    "long_explanation": "The ～AにつけBにつけ pattern is used to show that some state or action applies in both situation A and situation B. It often pairs contrasting or related conditions and can be translated as 'whether A or B', 'in either case', etc.",
+    "formation": "Phrase A (dictionary/adjective form) + につけ、Phrase B (dictionary/adjective form) + につけ",
     "examples": [
       {
-        "jp": "彼には笑うにつけ泣くにつけ、とても魅力的な人だ。",
-        "romaji": "Kare ni wa warau ni tsuke naku ni tsuke, totemo miryokuteki na hito da.",
-        "en": "He is very attractive whether he is laughing or crying."
+        "jp": "彼には笑うにつけ泣くにつけ、とても魅力的だ。",
+        "romaji": "Kare ni wa warau ni tsuke naku ni tsuke, totemo miryokuteki da.",
+        "en": "He is very charming whether he’s laughing or crying."
       },
       {
-        "jp": "子供のころにつけ大人になってからも、彼は音楽が好きだ。",
-        "romaji": "Kodomo no koro ni tsuke otona ni natte kara mo, kare wa ongaku ga suki da.",
-        "en": "He likes music, both when he was a child and after he became an adult."
+        "jp": "嬉しいにつけ悲しいにつけ、彼はいつも音楽を聴いている。",
+        "romaji": "Ureshii ni tsuke kanashii ni tsuke, kare wa itsumo ongaku o kiite iru.",
+        "en": "Whether he's happy or sad, he's always listening to music."
       },
       {
         "jp": "日中につけ夜間につけ、この景色は美しい。",
         "romaji": "Nitchuu ni tsuke yakan ni tsuke, kono keishiki wa utsukushii.",
-        "en": "This view is beautiful whether it's during the day or at night."
+        "en": "This view is beautiful whether it's daytime or nighttime."
       },
       {
         "jp": "喜びにつけ悲しみにつけ、彼女はいつも私を支えてくれる。",
         "romaji": "Yorokobi ni tsuke kanashimi ni tsuke, kanojo wa itsumo watashi o sasaete kureru.",
-        "en": "Whether in joy or sorrow, she always supports me."
+        "en": "Whether I’m joyful or sorrowful, she always supports me."
       }
     ]
   },
   {
-    "title": "A のやら B のやら (A noyara B noyara)",
-    "short_explanation": "Used when the speaker is confused or unsure about multiple things.",
-    "long_explanation": "The A のやら B のやら grammar point is used when the speaker is confused or unsure about multiple things at the same time and cannot decide. The expression translates to 'whether A or B (or something else)'.",
-    "formation": "Noun 1 + のやら + Noun 2 + のやら",
+    "title": "A のやら B のやら (A no yara B no yara)",
+    "short_explanation": "Used when the speaker is unsure or confused between multiple possibilities.",
+    "long_explanation": "The A のやら B のやら grammar expresses the speaker's confusion or inability to decide between possibility A and B. It can be translated roughly as 'whether it's A or B (I don't know).'",
+    "formation": "Noun1 + のやら + Noun2 + のやら (also works with adjectives and verbs + のやら)",
     "examples": [
       {
         "jp": "彼が怒っているのやら、悲しいのやら、私には分からない。",
         "romaji": "Kare ga okotte iru no yara, kanashii no yara, watashi ni wa wakaranai.",
-        "en": "I don't know whether he is angry or sad."
+        "en": "I don't know whether he's angry or sad."
       },
       {
         "jp": "試験の結果が良いのやら悪いのやら、気になって仕方がない。",
         "romaji": "Shiken no kekka ga yoi no yara warui no yara, ki ni natte shikata ga nai.",
-        "en": "I can't help but worry about whether my exam results are good or bad."
+        "en": "I can’t help worrying whether my exam results are good or bad."
       },
       {
         "jp": "彼女が私を好きなのやら嫌いなのやら、わからない。",
         "romaji": "Kanojo ga watashi o suki na no yara kirai na no yara, wakaranai.",
-        "en": "I don't know whether she likes me or hates me."
+        "en": "I don’t know whether she likes me or hates me."
       },
       {
         "jp": "彼が本当に行くのやら行かないのやら、はっきりしない。",
         "romaji": "Kare ga hontou ni iku no yara ikanai no yara, hakkiri shinai.",
-        "en": "It's not clear whether he will really go or not."
+        "en": "It’s unclear whether he will really go or not."
       }
     ]
   },
   {
     "title": "Noun1 が Noun1 なら、 Noun2 も Noun2 だ (A ga A nara, B mo B da)",
-    "short_explanation": "Indicates 'if Noun1 is the case then it is only natural that Noun2 is the case as well.'",
-    "long_explanation": "This is a structure used to express 'If it comes to speaking of Noun1, then Noun2 as well is of course a Noun2.' It comes out as a comparison when you bring up Noun1's characteristics to compare to Noun2's natural or typical state.",
-    "formation": "Noun1 + が + Repeat Noun1 + なら、 + Noun2 + も + Repeat Noun2 + だ",
+    "short_explanation": "Indicates a parallel or matching situation; 'if Noun1 is (truly) Noun1, then Noun2 is also Noun2'.",
+    "long_explanation": "This structure conveys a comparison: 'If Noun1 is indeed that kind of thing (Noun1), then naturally Noun2 is also that kind of thing (Noun2)'. It’s often used to show parallels or equivalences in a rhetorical way.",
+    "formation": "Noun1 + が + (repeat Noun1) + なら、Noun2 + も + (repeat Noun2) + だ",
     "examples": [
       {
         "jp": "鬼が鬼なら、人間も人間だ。",
         "romaji": "Oni ga oni nara, ningen mo ningen da.",
-        "en": "If demons are demons, humans are also humans."
+        "en": "If demons are indeed demons, humans are likewise humans."
       },
       {
         "jp": "彼が社長なら、私も社長だ。",
         "romaji": "Kare ga shachou nara, watashi mo shachou da.",
-        "en": "If he's the president, then I'm the president too."
+        "en": "If he is the president, then I'm the president too."
       },
       {
         "jp": "貴様が戦士なら、俺も戦士だ。",
         "romaji": "Kisama ga senshi nara, ore mo senshi da.",
-        "en": "If you're a warrior, then I'm a warrior too."
+        "en": "If you're a warrior, then I'm a warrior as well."
       },
       {
         "jp": "ハムスターがペットなら、猫もペットだ。",
         "romaji": "Hamusutā ga petto nara, neko mo petto da.",
-        "en": "If a hamster is a pet, then a cat is also a pet."
+        "en": "If a hamster counts as a pet, then a cat is also a pet."
       }
     ]
   },
   {
     "title": "Noun1 も Noun1 なら、Noun2 も Noun2 だ (A mo A nara, B mo B da)",
-    "short_explanation": "The structure expresses 'if it is said that ~, then it can be said that ~' or '~ not only, but also ~'.",
-    "long_explanation": "This grammar point is used to highlight two comparable facts and thus to underline the parallelism or likeness between them. The meaning can be roughly translated into English as 'If it is said that ~, then it can also be said that ~' or '~, not only, but also ~'.",
-    "formation": "Noun1 + も + Noun1 + なら、Noun2 + も + Noun2 + だ",
+    "short_explanation": "Highlights two parallel facts or characteristics; 'if it’s said that ~, then it can also be said that ~'.",
+    "long_explanation": "This grammar point sets two items or facts side by side, emphasizing that both follow a similar logic or share a parallel characteristic. Often it can be rendered as 'If you say Noun1 is Noun1, then Noun2 is also Noun2.'",
+    "formation": "Noun1 + も + (repeat Noun1) + なら、Noun2 + も + (repeat Noun2) + だ",
     "examples": [
       {
         "jp": "君も君なら、私も私だ。",
@@ -377,35 +377,35 @@
       {
         "jp": "夏も夏なら、冬も冬だ。",
         "romaji": "Natsu mo natsu nara, fuyu mo fuyu da.",
-        "en": "If it is said that summer is summer, then it can also be said that winter is winter."
+        "en": "If it’s said that summer is summer, then winter is also winter."
       },
       {
         "jp": "東京も東京なら、大阪も大阪だ。",
         "romaji": "Toukyou mo toukyou nara, Oosaka mo Oosaka da.",
-        "en": "Not only Tokyo, but Osaka also has its own characteristics."
+        "en": "If Tokyo is Tokyo, then Osaka is also Osaka (they each have their distinctive qualities)."
       },
       {
         "jp": "犬も犬なら、猫も猫だ。",
         "romaji": "Inu mo inu nara, neko mo neko da.",
-        "en": "If one says that dogs are dogs, then one can also say that cats are cats."
+        "en": "If dogs are dogs, then cats are also cats."
       }
     ]
   },
   {
-    "title": "Noun + あっての + Noun (A atteno B)",
-    "short_explanation": "Expresses the idea 'nothing without'; something being indispensable for the existence of something else.",
-    "long_explanation": "The grammar point 'Noun + あっての + Noun' is used to express the idea that something is indispensable for the existence of something else. This is generally translated into English as 'nothing without'. This structure emphasizes the essential role or influence of the first noun on the second noun.",
+    "title": "Noun + あっての + Noun (A atte no B)",
+    "short_explanation": "Expresses 'B cannot exist without A'; 'B only exists because of A'.",
+    "long_explanation": "The 'Noun + あっての + Noun' pattern emphasizes that the second noun (B) exists only thanks to, or on the foundation of, the first noun (A). It's often translated as 'B is nothing without A' or 'B exists only because of A'.",
     "formation": "Noun1 + あっての + Noun2",
     "examples": [
       {
         "jp": "家族あっての私です。",
         "romaji": "Kazoku atte no watashi desu.",
-        "en": "I am nothing without my family."
+        "en": "I am who I am thanks to my family."
       },
       {
         "jp": "お客様あってのビジネスです。",
         "romaji": "Okyakusama atte no bijinesu desu.",
-        "en": "Business is nothing without customers."
+        "en": "A business is nothing without its customers."
       },
       {
         "jp": "練習あっての成功です。",
@@ -415,98 +415,99 @@
       {
         "jp": "健康あっての仕事です。",
         "romaji": "Kenkou atte no shigoto desu.",
-        "en": "Work is nothing without health."
+        "en": "Work is nothing without your health."
       }
     ]
   },
   {
     "title": "Noun かたがた (Noun kata gata)",
-    "short_explanation": "Used when doing one thing while also doing another; 'while', 'and at the same time'.",
-    "long_explanation": "The Noun かたがた grammar point is used when doing one thing while also doing another. The first action is the main purpose and the second action is often a casual task or a task carried out alongside the main task. This grammar point emphasizes doing two things concurrently. The translation could be 'while', or 'and at the same time' in English.",
+    "short_explanation": "Do one thing while also doing another; 'while', 'and at the same time'.",
+    "long_explanation": "「Noun かたがた」 is a somewhat formal expression for doing one thing while also doing another. The first action is often the main purpose, and the second is done simultaneously or incidentally.",
     "formation": "Noun + かたがた",
     "examples": [
       {
         "jp": "東京へ出張のかたがた、友人に会いに行った。",
-        "romaji": "Toukyou e shuccho no kata gata, yujin ni ai ni itta.",
-        "en": "While I was on a business trip to Tokyo, I went to see a friend."
+        "romaji": "Toukyou e shucchou no kata gata, yuujin ni ai ni itta.",
+        "en": "While on a business trip to Tokyo, I also went to see a friend."
       },
       {
         "jp": "観光のかたがた、お土産を買いました。",
-        "romaji": "Kankou no kata gata, omiyage wo kaimashita.",
-        "en": "While I was sightseeing, I bought souvenirs."
+        "romaji": "Kankou no kata gata, omiyage o kaimashita.",
+        "en": "While sightseeing, I bought some souvenirs."
       },
       {
         "jp": "散歩のかたがた、ゴミを拾った。",
-        "romaji": "Sanpo no kata gata, gomi wo hirotta.",
-        "en": "While I was walking, I picked up trash."
+        "romaji": "Sanpo no kata gata, gomi o hirotta.",
+        "en": "While taking a walk, I also picked up trash."
       },
       {
         "jp": "学習のかたがた、音楽を聞いた。",
-        "romaji": "Gakushuu no kata gata, ongaku wo kiita.",
-        "en": "While studying, I listened to music."
+        "romaji": "Gakushuu no kata gata, ongaku o kiita.",
+        "en": "While studying, I also listened to music."
       }
     ]
   },
   {
     "title": "Noun がてら (Noun gatera)",
-    "short_explanation": "At the same time; on the occasion of; while; along with.",
-    "long_explanation": "The がてら grammar point is used to express doing something in conjunction with something else, or taking advantage of the occasion to do something. It can be translated as 'while', 'at the same time', 'along with' or 'on the occasion of' in English.",
+    "short_explanation": "Means 'while...at the same time', 'on the occasion of', or 'along with'.",
+    "long_explanation": "The suffix ～がてら is used to show doing one activity alongside another, taking advantage of the opportunity. It can often be translated as 'while', 'at the same time', 'along with', or 'on the occasion of'.",
     "formation": "Noun + がてら",
     "examples": [
       {
-        "jp": "散歩がてらに、近くの公園で花を摘みました。",
-        "romaji": "Sanpo gatera ni, chikaku no kouen de hana wo tsumimashita.",
-        "en": "While taking a walk, I picked flowers in the nearby park."
+        "jp": "散歩がてらに、近くの公園で花を摘みました。",
+        "romaji": "Sanpo gatera ni, chikaku no kouen de hana o tsumimashita.",
+        "en": "While taking a walk, I picked some flowers in the nearby park."
       },
       {
         "jp": "買い物がてら、友達に会いに行きました。",
         "romaji": "Kaimono gatera, tomodachi ni ai ni ikimashita.",
-        "en": "While shopping, I went to meet a friend."
+        "en": "While I was out shopping, I went to see a friend."
       },
       {
-        "jp": "彼女は旅行がてらに新しい言語を勉強しました。",
-        "romaji": "Kanojo wa ryokou gatera ni atarashii gengo wo benkyou shimashita.",
-        "en": "While on a trip, she studied a new language."
+        "jp": "彼女は旅行がてら、新しい言語を勉強しました。",
+        "romaji": "Kanojo wa ryokou gatera, atarashii gengo o benkyou shimashita.",
+        "en": "She studied a new language while traveling."
       },
       {
         "jp": "ドライブがてら、新しいアルバムを聞きました。",
-        "romaji": "Doraibu gatera, atarashii arubamu wo kikimashita.",
-        "en": "While driving, I listened to a new album."
+        "romaji": "Doraibu gatera, atarashii arubamu o kikimashita.",
+        "en": "I listened to a new album while going for a drive."
       }
     ]
   },
+
   {
     "title": "Noun からある (〜kara aru)",
-    "short_explanation": "Expresses 'beginning from', 'from' or 'after'. Often used to indicate a high number or large scale.",
-    "long_explanation": "The からある pattern is used to indicate a high number or a starting point, and can be expressed as 'beginning from', 'from', or 'after' in English. It is often used to represent minimum values ​​and to emphasize the enormity of the number or degree.",
+    "short_explanation": "Used with large numbers or measurements to emphasize 'at least that many' or 'no less than.'",
+    "long_explanation": "「Noun + Counter + からある」indicates a large or minimum number, emphasizing that the quantity is at least that high (often more). It conveys the idea that the figure is notably large or impressive.",
     "formation": "Number + Counter + からある",
     "examples": [
       {
         "jp": "彼のコレクションは500個からある。",
         "romaji": "Kare no korekushon wa gohyaku ko kara aru.",
-        "en": "His collection starts from 500 items."
+        "en": "He has at least 500 items in his collection."
       },
       {
         "jp": "このビルは40階からある。",
-        "romaji": "Kono biru wa yonjū kai kara aru.",
-        "en": "This building has floors starting from the 40th."
+        "romaji": "Kono biru wa yonjuu kai kara aru.",
+        "en": "This building has at least 40 floors."
       },
       {
         "jp": "彼の財産は10億円からある。",
         "romaji": "Kare no zaisan wa juu oku en kara aru.",
-        "en": "His property is worth starting from 1 billion yen."
+        "en": "He has assets worth at least one billion yen."
       },
       {
         "jp": "このマラソンは10kmからある。",
-        "romaji": "Kono marason wa jikkī emu kara aru.",
-        "en": "This marathon starts at 10km."
+        "romaji": "Kono marason wa juu kiro kara aru.",
+        "en": "This marathon is at least 10 kilometers long."
       }
     ]
   },
   {
     "title": "Noun からする (Noun kara suru)",
     "short_explanation": "Used to indicate that something is judged, estimated, or considered from a certain point or aspect.",
-    "long_explanation": "The grammar point Noun からする is used to express estimation or judgement based on a given aspect or point. It can translate to 'to judge from', 'from the viewpoint of', 'to estimate from' in English. It helps to express an opinion or observation based on a particular aspect or feature of something or someone.",
+    "long_explanation": "「Noun + からする」expresses a judgment or estimation based on a particular perspective or aspect. It translates to 'judging from', 'based on', or 'from the viewpoint of' in English, allowing the speaker to form an opinion or conclusion from that point.",
     "formation": "Noun + からする",
     "examples": [
       {
@@ -527,14 +528,14 @@
       {
         "jp": "その会社の成長率からすると、将来的には大きな利益を得られるでしょう。",
         "romaji": "Sono kaisha no seicho-ritsu kara suru to, shouraiteki ni wa ooki na rieki o erareru deshou.",
-        "en": "From the growth rate of the company, it seems likely to gain substantial profits in the future."
+        "en": "From the company's growth rate, it seems likely to gain substantial profits in the future."
       }
     ]
   },
   {
     "title": "Noun からの (~kara no)",
     "short_explanation": "Defines the starting point or the origin; 'from'.",
-    "long_explanation": "The 'Noun からの' grammar point is used to define the starting point or the origin of something. It can be translated as 'from' in English. The formation is straightforward, simply attach 'からの' to a noun.",
+    "long_explanation": "「Noun + からの」indicates the place, source, or origin of something. It simply means 'from (Noun)'.",
     "formation": "Noun + からの",
     "examples": [
       {
@@ -550,19 +551,19 @@
       {
         "jp": "昨日、母からの電話がありました。",
         "romaji": "Kinou, haha kara no denwa ga arimashita.",
-        "en": "Yesterday, I got a call from my mom."
+        "en": "Yesterday, I got a call from my mother."
       },
       {
         "jp": "彼女は大学からの友人です。",
-        "romaji": "Kanojo wa daigaku kara no yujin desu.",
+        "romaji": "Kanojo wa daigaku kara no yuujin desu.",
         "en": "She is a friend from college."
       }
     ]
   },
   {
     "title": "Noun から言わせれば (~kara iwasereba)",
-    "short_explanation": "Express the perspective of noun; 'from ~ point of view'",
-    "long_explanation": "The から言わせれば grammar point is used to express the perspective or opinion of the noun or person mentioned. It is often used to speak hypothetically from someone or something's viewpoint. It can be translated as 'from ~ point of view' or 'if ~ were to have a say' in English. It requires the use of a noun before から言わせれば.",
+    "short_explanation": "Express the perspective of the noun; 'from ~'s point of view.'",
+    "long_explanation": "「Noun + から言わせれば」is used to express an opinion or perspective from that noun's point of view. It can translate as 'from ~'s perspective' or 'if ~ had a say...'.",
     "formation": "Noun + から言わせれば",
     "examples": [
       {
@@ -571,8 +572,8 @@
         "en": "From the teacher's point of view, you should study every day."
       },
       {
-        "jp": "子供たちから言わせれば、もっと遊びたい時間がほしい。",
-        "romaji": "Kodomo-tachi kara iwasereba, motto asobitai jikan ga hoshii.",
+        "jp": "子供たちから言わせれば、もっと遊ぶ時間がほしい。",
+        "romaji": "Kodomo-tachi kara iwasereba, motto asobu jikan ga hoshii.",
         "en": "From the children's perspective, they want more time to play."
       },
       {
@@ -581,27 +582,27 @@
         "en": "From my point of view, that plan is feasible."
       },
       {
-        "jp": "犬から言わせれば、もっと散歩に行きたいだろう。",
-        "romaji": "Inu kara iwasereba, motto sanpo ni ikitai darou.",
-        "en": "If the dog were to have a say, it would probably want to go for more walks."
+        "jp": "犬から言わせれば、もっと散歩したいはずだ。",
+        "romaji": "Inu kara iwasereba, motto sanpo shitai hazu da.",
+        "en": "If the dog could talk, it would probably want more walks."
       }
     ]
   },
   {
     "title": "Noun + ぐるみ (〜gurumi)",
-    "short_explanation": "This term is used to describe 'entirely', 'altogether', 'as a whole' or 'collectively'.",
-    "long_explanation": "The ぐるみ grammar point is a postfix that indicates entirety or collectively. It is used after a noun to show that the action or state involves everyone or everything in a certain group. It can be translated as 'altogether', 'as a whole', 'groups of', 'all of' or 'entire'. This grammar form is usually used in written language and formal speech.",
+    "short_explanation": "Describes 'entirely', 'all together', or 'as a whole group'.",
+    "long_explanation": "「Noun + ぐるみ」emphasizes that an action or state involves the entire group or everything related to that noun. It can mean 'altogether', 'as a whole', or 'with everyone/everything included.'",
     "formation": "Noun + ぐるみ",
     "examples": [
       {
         "jp": "家族ぐるみで旅行に行きました。",
         "romaji": "Kazoku gurumi de ryokou ni ikimashita.",
-        "en": "We went on a trip as a whole family."
+        "en": "We went on a trip with the whole family."
       },
       {
         "jp": "クラスぐるみで遠足に行きました。",
         "romaji": "Kurasu gurumi de ensoku ni ikimashita.",
-        "en": "The whole class went on an excursion."
+        "en": "The entire class went on an excursion."
       },
       {
         "jp": "この国は国民ぐるみでその法案を支持しています。",
@@ -611,113 +612,113 @@
       {
         "jp": "彼は友人ぐるみでそのクラブに参加した。",
         "romaji": "Kare wa yuujin gurumi de sono kurabu ni sanka shita.",
-        "en": "He joined the club with all his friends."
+        "en": "He joined the club along with all of his friends."
       }
     ]
   },
   {
-    "title": "Noun こそあれ (~kosoare)",
-    "short_explanation": "Expresses the meaning 'even if'; 'no matter'.",
-    "long_explanation": "The grammar point 'Noun こそあれ' is used to emphasize a noun, implying that 'even if it is...'; 'no matter what...'. It is often followed by a form of negation or some expression reflecting the speaker’s negative attitude towards the noun. It is not used in positive sentences",
-    "formation": "Noun + こそあれ",
+    "title": "Noun こそあれ (~koso are)",
+    "short_explanation": "Expresses 'though there is ... (some negative or burdensome aspect), still ...'.",
+    "long_explanation": "「Noun こそあれ」is a somewhat formal expression meaning 'Though there is X, (still) Y'. It acknowledges one (often negative) aspect while asserting that it does not prevent or change another fact or outcome.",
+    "formation": "Noun + こそあれ + (result/continuation)",
     "examples": [
       {
-        "jp": "結果こそあれ、努力したことには変わりない。",
-        "romaji": "Kekka koso are, doryoku shita koto ni wa kawari nai.",
-        "en": "Even if the result is what it is, the fact that we made an effort won't change."
+        "jp": "問題こそあれ、プロジェクトは順調に進んでいます。",
+        "romaji": "Mondai koso are, purojekuto wa junchou ni susunde imasu.",
+        "en": "Though there are problems, the project is progressing smoothly."
       },
       {
-        "jp": "天気こそあれ、遠出するつもりだ。",
-        "romaji": "Tenki koso are, toode suru tsumorida.",
-        "en": "No matter what the weather is, I intend to go on a trip."
+        "jp": "多少のリスクこそあれ、挑戦する価値はある。",
+        "romaji": "Tashou no risuku koso are, chousen suru kachi wa aru.",
+        "en": "Though there is some risk, it's worth taking on the challenge."
       },
       {
-        "jp": "社長の意見こそあれ、社員の反対は多い。",
-        "romaji": "Shachou no iken koso are, shain no hantai wa oi.",
-        "en": "Regardless of the president's opinion, there is much opposition from employees."
+        "jp": "欠点こそあれ、彼の提案は興味深い。",
+        "romaji": "Ketten koso are, kare no teian wa kyoumibukai.",
+        "en": "Though it has flaws, his proposal is intriguing."
       },
       {
-        "jp": "頭痛こそあれ、仕事をしなければならない。",
-        "romaji": "Zutsuu koso are, shigoto o shinakereba naranai.",
-        "en": "No matter if I have a headache, I have to work."
+        "jp": "不安こそあれ、今が行動するときだ。",
+        "romaji": "Fuan koso are, ima ga koudou suru toki da.",
+        "en": "Though there is anxiety, now is the time to act."
       }
     ]
   },
   {
     "title": "Noun こそ～が (~koso~ga)",
-    "short_explanation": "Used to emphasize that it is precisely because of something, that another statement is true.",
-    "long_explanation": "The こそ～が structure is used to emphasize the fact that it is because of the noun before こそ, that the statement following ～が is valid. It might often be translated into English as 'it is precisely because', 'it is just because', 'it is exactly because'.",
-    "formation": "Noun + こそ + Sentence + が",
+    "short_explanation": "Emphasizes that 'it is precisely Noun that ...', then adds a contrasting or additional point.",
+    "long_explanation": "「Noun こそ～が」highlights the importance or uniqueness of the noun. It often translates as 'Yes, Noun is indeed ... , but ...'. The 'が' introduces a second, sometimes contrasting statement.",
+    "formation": "Noun + こそ + (statement) + が + (contrasting/additional statement)",
     "examples": [
       {
-        "jp": "初めてこそたいせつだが、諦めないことが一番大切だ。",
-        "romaji": "Hajimete koso taisetsu da ga, akiramenai koto ga ichiban taisetsu da.",
-        "en": "The first step is important, of course, but what's most crucial is that you don't give up."
+        "jp": "お金こそ必要だが、それだけが人生のすべてではない。",
+        "romaji": "Okane koso hitsuyou da ga, sore dake ga jinsei no subete de wa nai.",
+        "en": "Money is indeed necessary, but it isn't everything in life."
       },
       {
-        "jp": "彼こそ親友だが、隠し事はしない方がいいと思う。",
-        "romaji": "Kare koso shinyuu da ga, kakushigoto wa shinai hou ga ii to omou.",
-        "en": "It is exactly because he is my best friend, I think it's better not to keep secrets."
+        "jp": "努力こそ大事だが、結果も見逃せない。",
+        "romaji": "Doryoku koso daiji da ga, kekka mo minogasenai.",
+        "en": "Effort is certainly crucial, but results also matter."
       },
       {
-        "jp": "あなたこそ家族がそばにいるが、孤独を感じることはあるだろう。 ",
-        "romaji": "Anata koso kazoku ga soba ni iru ga, kodoku wo kanjiru koto wa aru darou.",
-        "en": "It is precisely because you have your family near you, you might still feel lonely."
+        "jp": "健康こそ宝だが、ときには仕事を優先せざるを得ない。",
+        "romaji": "Kenkou koso takara da ga, toki ni wa shigoto o yuusen sezaru wo enai.",
+        "en": "Health is indeed a treasure, but sometimes you have to prioritize work."
       },
       {
-        "jp": "子どもたちこそ未来だが、今を大切にしなければならない。",
-        "romaji": "Kodomo-tachi koso mirai da ga, ima wo taisetsu ni shinakereba naranai.",
-        "en": "Children indeed are the future, but we must cherish the present."
+        "jp": "愛こそ力だが、表現するのは難しい。",
+        "romaji": "Ai koso chikara da ga, hyougen suru no wa muzukashii.",
+        "en": "Love is certainly a powerful force, but it's difficult to express."
       }
     ]
   },
   {
     "title": "Noun こそすれ (~koso sure)",
-    "short_explanation": "An emphatic expression for 'if anything', 'especially', and 'it is', which shows that other alternatives are hardly conceivable.",
-    "long_explanation": "The grammar point Noun こそすれ is a conjunction which is used in written Japanese. It's an idiomatic representative of 'even if not anything else'. In a simpler definition, it means 'especially', or 'if anything'.The speaker is persistent on their statement and does not contemplate other alternatives.",
-    "formation": "Noun + こそすれ",
+    "short_explanation": "An emphatic pattern meaning 'it may be X, but definitely not Y.' Often pairs with a negative statement.",
+    "long_explanation": "「Noun/Verb-ます形 + こそすれ」emphasizes that while one aspect (X) might exist or be true, another aspect (Y) absolutely does not. It's frequently used with negative expressions (e.g., 〜ない、〜できない) to strongly deny the second possibility.",
+    "formation": "Noun + こそすれ + (negative or contrasting statement)",
     "examples": [
       {
-        "jp": "仕事こそすれ何もしていない。",
-        "romaji": "Shigoto kososure nani mo shite inai.",
-        "en": "I am not doing anything if not working."
+        "jp": "感謝こそすれ、非難などできません。",
+        "romaji": "Kansha koso sure, hinan nado dekimasen.",
+        "en": "I might feel grateful, but I could never criticize."
       },
       {
-        "jp": "雨こそすれ雪は降らない。",
-        "romaji": "Ame kososure yuki wa furanai.",
-        "en": "It would rather rain than snow."
+        "jp": "忙しさこそすれ、退屈することはありません。",
+        "romaji": "Isogashisa koso sure, taikutsu suru koto wa arimasen.",
+        "en": "I may be busy, but I'm never bored."
       },
       {
-        "jp": "彼こそすれ誰も私の意見に反対しないだろう。",
-        "romaji": "Kare kososure dare mo watashi no iken ni hantai shinai darou.",
-        "en": "He, if anyone, wouldn't oppose my opinion."
+        "jp": "後悔こそすれ、忘れることはできない。",
+        "romaji": "Koukai koso sure, wasureru koto wa dekinai.",
+        "en": "I might regret it, but I can't forget it."
       },
       {
-        "jp": "日本の食べ物こそすれ美味しいとは言えない。",
-        "romaji": "Nippon no tabemono kososure oishii towa ienai.",
-        "en": "I wouldnt say Japanese food is delicious above all else."
+        "jp": "疑問こそすれ、賛成はできない。",
+        "romaji": "Gimon koso sure, sansei wa dekinai.",
+        "en": "I may have doubts, but I cannot agree."
       }
     ]
   },
   {
     "title": "Noun ごとき / Noun ごとく (〜gotoki/〜gotoku)",
-    "short_explanation": "'Like a...', 'like...', or 'as if'. Expresses similarity or metaphor.",
-    "long_explanation": "The ～ごとき/～ごとく grammar point is used to show similarity or analogy, likening one thing to another. It can be translated as 'like a...', 'like...', or 'as if' in English. This grammar form is often used in written language and is a bit formal. Please note that the ごとき form is typically used with nouns, while ごとく can be used with nouns, verbs, and adjectives, but with slight difference in meaning.",
+    "short_explanation": "Means 'like a...', 'as if...', expressing a simile or metaphor.",
+    "long_explanation": "「〜ごとき／〜ごとく」conveys similarity, as if comparing one thing to another. ごとき often modifies nouns, while ごとく can modify verbs or adjectives as well. It's more formal and literary in tone than simple expressions like みたい or よう.",
     "formation": "Noun + ごとき, Noun + ごとく, Verb-casual + ごとく, い-Adjective + ごとく",
     "examples": [
       {
         "jp": "彼は天使のごとく純粋だ。",
         "romaji": "Kare wa tenshi no gotoku junsui da.",
-        "en": "He is pure like an angel."
+        "en": "He is as pure as an angel."
       },
       {
         "jp": "悪魔のごとき行為をするな。",
         "romaji": "Akuma no gotoki koui o suru na.",
-        "en": "Don't act like a devil."
+        "en": "Don't engage in acts like those of a devil."
       },
       {
-        "jp": "彼女は雪のごとく白い肌をしています。",
-        "romaji": "Kanojo wa yuki no gotoku shiroi hada wo shiteimasu.",
+        "jp": "彼女は雪のごとく白い肌をしている。",
+        "romaji": "Kanojo wa yuki no gotoku shiroi hada o shiteiru.",
         "en": "She has skin as white as snow."
       },
       {
@@ -727,66 +728,67 @@
       }
     ]
   },
+
   {
     "title": "Noun じゃあるまいし (~ja aru mai shi)",
-    "short_explanation": "Expressing that something 'is not'; 'is not the case'.",
-    "long_explanation": "The じゃあるまいし grammar point is a somewhat masculine and colloquial expression used to imply that a situation is not the case. It can be translated as 'it's not like...', 'there's no need to...', or 'it's not as if...' in English. It's generally used after a noun or a na-adjective.",
+    "short_explanation": "Expressing that something 'is not'; 'it's not like...'. Colloquial/masculine form of ではあるまいし.",
+    "long_explanation": "The phrase 「Noun (or Na-Adjective) + じゃあるまいし」 is a somewhat casual, sometimes masculine-sounding expression meaning 'it's not like...', 'it's not as if...', or 'there's no need to...' in certain contexts. It dismisses the idea that the noun or adjective is the reason or cause for something.",
     "formation": "Noun or Na-Adjective + じゃあるまいし",
     "examples": [
       {
         "jp": "彼は子供じゃあるまいし、その問題をしっかりと解決するべきだ。",
         "romaji": "Kare wa kodomo ja aru mai shi, sono mondai o shikkari to kaiketsu suru beki da.",
-        "en": "He's not a child, he should solve that problem properly."
+        "en": "He’s not a child, so he should solve that problem properly."
       },
       {
-        "jp": "考える必要もない、時間じゃあるまいし。",
-        "romaji": "Kangaeru hitsuyo mo nai, jikan ja aru mai shi.",
-        "en": "There's no need to think, it's not like we're short of time."
+        "jp": "急ぐ必要はない、時間じゃあるまいし。",
+        "romaji": "Isogu hitsuyou wa nai, jikan ja aru mai shi.",
+        "en": "We don’t need to hurry; it’s not like we’re short of time."
       },
       {
         "jp": "監督じゃあるまいし、試合の結果について心配するな。",
         "romaji": "Kantoku ja aru mai shi, shiai no kekka ni tsuite shinpai suru na.",
-        "en": "It's not like you're the coach, don't worry about the game results."
+        "en": "You’re not the coach, so don’t worry about the game results."
       },
       {
-        "jp": "飴じゃあるまいし、そのまま飲み込んでしまっても構わない。",
-        "romaji": "Ame ja aru mai shi, sono mama nomikonde shimatte mo kamawanai.",
-        "en": "It's not a candy, it's okay to just swallow it."
+        "jp": "飴じゃあるまいし、そのまま飲み込んでも大丈夫だよ。",
+        "romaji": "Ame ja aru mai shi, sono mama nomikonde mo daijoubu da yo.",
+        "en": "It’s not candy, so it’s okay to just swallow it."
       }
     ]
   },
   {
     "title": "Noun ずくめ (~zukume)",
-    "short_explanation": "Denotes 'entirely' or 'nothing but'.",
-    "long_explanation": "The Noun ずくめ grammar point is used to express that something is entirely or nothing but the noun preceding it. It is used to describe a situation where there's a predominance of the noun mentioned.",
+    "short_explanation": "Denotes 'entirely' or 'nothing but' the preceding noun.",
+    "long_explanation": "「Noun + ずくめ」expresses that something consists entirely of that noun or is 'nothing but' that noun. It describes a situation with a predominance of one thing.",
     "formation": "Noun + ずくめ",
     "examples": [
       {
         "jp": "彼は最近、失敗ずくめだ。",
         "romaji": "Kare wa saikin, shippai zukume da.",
-        "en": "He has been nothing but failures recently."
+        "en": "He has had nothing but failures recently."
       },
       {
         "jp": "この冬は雪ずくめで大変だ。",
         "romaji": "Kono fuyu wa yuki zukume de taihen da.",
-        "en": "This winter has been nothing but snow and it's tough."
+        "en": "This winter has been nothing but snow, which is tough."
       },
       {
         "jp": "彼の話は嘘ずくめだった。",
         "romaji": "Kare no hanashi wa uso zukume datta.",
-        "en": "His story was nothing but lies."
+        "en": "His story was full of nothing but lies."
       },
       {
         "jp": "今日の仕事は忙しさずくめだった。",
         "romaji": "Kyou no shigoto wa isogashisa zukume datta.",
-        "en": "Today's work was nothing but busyness."
+        "en": "Today's work was nothing but constant busyness."
       }
     ]
   },
   {
     "title": "Noun だけではすまない (Noun dake dewa sumanai)",
-    "short_explanation": "Expresses 'not finish/end with just', 'cannot be settled only by'.",
-    "long_explanation": "The 'Noun + だけではすまない' grammar point is used when you want to express that something cannot be settled or finished with just the action in question. This implies that more needs to be done or added, or a higher level of effort is needed in addition to what's stated.",
+    "short_explanation": "Expresses 'it can't be settled with just...', 'cannot be resolved merely by...'.",
+    "long_explanation": "「Noun + だけではすまない」indicates that simply doing or providing the noun is not sufficient to resolve or finish a matter. Something more is required.",
     "formation": "Noun + だけではすまない",
     "examples": [
       {
@@ -795,42 +797,42 @@
         "en": "This problem cannot be settled with just an apology."
       },
       {
-        "jp": "彼女が怒っているから、お菓子をもらっただけではすまないよ。",
-        "romaji": "Kanojo ga okotte iru kara, okashi wo moratta dake dewa sumanai yo.",
-        "en": "Because she is angry, it won't be settled with just giving her sweets."
+        "jp": "彼女が怒っているから、お菓子をあげただけではすまないよ。",
+        "romaji": "Kanojo ga okotte iru kara, okashi o ageta dake dewa sumanai yo.",
+        "en": "She’s angry, so just giving her sweets won't fix it."
       },
       {
         "jp": "このプロジェクトの成功は努力だけではすまない。",
         "romaji": "Kono purojekuto no seikou wa doryoku dake dewa sumanai.",
-        "en": "The success of this project cannot be achieved with just effort."
+        "en": "Success on this project cannot be achieved with mere effort."
       },
       {
         "jp": "資金調達だけではすまない、実際のビジネスプランも必要だ。",
-        "romaji": "Shikin chōtatsu dake dewa sumanai, jissai no bizinesu puran mo hitsuyou da.",
-        "en": "We can't just finish with fundraising, we also need a real business plan."
+        "romaji": "Shikin choutatsu dake dewa sumanai, jissai no bijinesu puran mo hitsuyou da.",
+        "en": "We can’t just finish with fundraising; we also need a real business plan."
       }
     ]
   },
   {
     "title": "Noun たりとも～ない (~tari tomo ~nai)",
-    "short_explanation": "This expression shows the meaning of 'not even', 'not a single'.",
-    "long_explanation": "The grammar point 'たりとも～ない' (tari tomo ～nai) is used to express a strong negative assertion. It means 'not even one', 'not a single' or 'none at all'. It attaches to a noun to express something isn’t in a certain state, doesn’t exist or doesn’t occur, even by a little bit.",
+    "short_explanation": "Used to show a strong negative: 'not even ~', 'not a single ~'.",
+    "long_explanation": "「Noun + たりとも + Negative Verb」expresses a strong negation such as 'not even one', 'not even once', or 'none at all'.",
     "formation": "Noun + たりとも + Negative Verb",
     "examples": [
       {
         "jp": "一分たりとも無駄にするな。",
-        "romaji": "Ippun tari tomo muda ni suruna.",
-        "en": "Don't waste even a single minute."
+        "romaji": "Ippun tari tomo muda ni suru na.",
+        "en": "Don’t waste even a single minute."
       },
       {
         "jp": "彼は一言たりとも話さない。",
         "romaji": "Kare wa hitokoto tari tomo hanasanai.",
-        "en": "He doesn't say even a single word."
+        "en": "He doesn't speak even a single word."
       },
       {
         "jp": "彼女は一度たりともその映画を見たことがない。",
         "romaji": "Kanojo wa ichido tari tomo sono eiga o mita koto ga nai.",
-        "en": "She has not seen that movie even once."
+        "en": "She has never seen that movie, not even once."
       },
       {
         "jp": "私は一枚たりともその写真を持っていない。",
@@ -841,120 +843,120 @@
   },
   {
     "title": "Noun たる Noun (~taru~)",
-    "short_explanation": "Expresses the idea of 'being in the condition or state of'",
-    "long_explanation": "The Noun たる Noun grammar point is used to indicate that something or someone is in the condition or state of something, it's like a characteristic or proper condition of something or someone. It can be translated as 'being in the condition or state of' in English. The formation is quite simple and used with two nouns.",
+    "short_explanation": "Indicates 'being in the position/state of', used for roles or statuses.",
+    "long_explanation": "「Noun1 たる Noun2」expresses that the second noun is in the 'role/state/condition' of the first. It often has a formal or literary tone, emphasizing that someone/something rightly holds or embodies that status.",
     "formation": "Noun1 + たる + Noun2",
     "examples": [
       {
-        "jp": "リーダータル者は、常に前を見て、他の人々を導くべきだ。",
-        "romaji": "Riidaa taru mono wa, tsune ni mae o mite, hoka no hitobito o michibiku beki da.",
-        "en": "A person who is a leader should always look ahead and guide others."
+        "jp": "リーダーたる者は、常に先を見て行動すべきだ。",
+        "romaji": "Riidaa taru mono wa, tsune ni saki o mite koudou subeki da.",
+        "en": "A person who is a leader should always look ahead and act accordingly."
       },
       {
-        "jp": "教師たる者、学生に影響を与えるべきである。",
-        "romaji": "Kyoushi taru mono, gakusei ni eikyou o ataeru beki de aru.",
-        "en": "Someone who is a teacher should influence their students."
+        "jp": "教師たる者、学生に模範を示すべきである。",
+        "romaji": "Kyoushi taru mono, gakusei ni mohan o shimesu beki de aru.",
+        "en": "Someone who is a teacher should set a good example for the students."
       },
       {
-        "jp": "母たる者、家族を愛することは当然だ。",
-        "romaji": "Haha taru mono, kazoku o aisuru koto wa touzen da.",
-        "en": "If you are a mother, it's natural to love your family."
+        "jp": "母たる者、家族を愛するのは当然だ。",
+        "romaji": "Haha taru mono, kazoku o aisuru no wa touzen da.",
+        "en": "If you are a mother, it’s natural to love your family."
       },
       {
-        "jp": "医者たる者、患者の健康を一番に考えるべきだ。",
-        "romaji": "Isha taru mono, kanja no kenkou o ichiban ni kangaeru beki da.",
-        "en": "Someone who is a doctor should prioritize the health of their patients."
+        "jp": "医者たる者、患者の安全を最優先に考えるべきだ。",
+        "romaji": "Isha taru mono, kanja no anzen o saiyuusen ni kangaeru beki da.",
+        "en": "A person who is a doctor should make patient safety their top priority."
       }
     ]
   },
   {
     "title": "Noun ですら (~desura)",
-    "short_explanation": "Express 'even', 'even if', or 'as much as'.",
-    "long_explanation": "The noun + ですら pattern is used to emphasize 'even', 'even if', or 'as much as'. This grammar point is quite formal and is generally used in written language or formal speech.",
+    "short_explanation": "Means 'even', 'as much as', used for emphasis in formal contexts.",
+    "long_explanation": "「Noun + ですら」emphasizes 'even' in a formal or literary tone. It can carry nuance similar to さえ or すら but is used more in writing or formal speech.",
     "formation": "Noun + ですら",
     "examples": [
       {
-        "jp": "明日試験があるのに、彼はテキストブックを読むですらしない。",
-        "romaji": "Ashita shiken ga aru noni, kare wa tekisutobukku o yomu desura shinai.",
-        "en": "Even though we have a test tomorrow, he doesn't even read the textbook."
+        "jp": "明日試験があるのに、彼はテキストですら読まない。",
+        "romaji": "Ashita shiken ga aru noni, kare wa tekisuto desura yomanai.",
+        "en": "He doesn’t even read the textbook, despite having a test tomorrow."
       },
       {
         "jp": "この問題は専門家ですら解けない。",
         "romaji": "Kono mondai wa senmonka desura tokenai.",
-        "en": "Even an expert can't solve this problem."
+        "en": "Even an expert can’t solve this problem."
       },
       {
         "jp": "彼女は最後のスピーチですら泣いてしまった。",
-        "romaji": "Kanojo wa saigo no supīchi desura naite shimatta.",
-        "en": "She ended up crying, even during the last speech."
+        "romaji": "Kanojo wa saigo no supiichi desura naite shimatta.",
+        "en": "She ended up crying, even during the final speech."
       },
       {
-        "jp": "彼は毎日勉強しますが、基本の漢字ですら覚えられない。",
-        "romaji": "Kare wa mainichi benkyou shimasu ga, kihon no kanji desura oboerarenai.",
-        "en": "He studies every day, but can't even remember basic Kanji."
+        "jp": "彼は毎日勉強しているが、基本の漢字ですら覚えられない。",
+        "romaji": "Kare wa mainichi benkyou shite iru ga, kihon no kanji desura oboerarenai.",
+        "en": "He studies every day, but can’t even remember basic kanji."
       }
     ]
   },
   {
     "title": "Noun でなくてなんだろう (〜de nakute nandarou)",
-    "short_explanation": "Expresses the speaker's strong belief that something is certainly the case.",
-    "long_explanation": "The structure Noun + でなくてなんだろう is used to strongly assert or question that something is certainly the case. It can be roughly translated to English as 'if not... then what would it be?'. It emphasizes the speaker's belief, in the form of a rhetorical question, that no other possibility exists.",
+    "short_explanation": "A strong rhetorical question: 'If not X, then what is it?'",
+    "long_explanation": "「Noun + でなくてなんだろう」expresses the speaker’s strong conviction that something must be that noun—no other possibility. Literally, 'If it isn't Noun, then what is it?'",
     "formation": "Noun + でなくてなんだろう",
     "examples": [
       {
         "jp": "これが真実でなくてなんだろう。",
         "romaji": "Kore ga shinjitsu de nakute nandarou.",
-        "en": "If this isn't the truth, then what is?"
+        "en": "If this isn’t the truth, then what is?"
       },
       {
         "jp": "彼がリーダーでなくてなんだろう。",
         "romaji": "Kare ga riidaa de nakute nandarou.",
-        "en": "If he isn't the leader, then who is?"
+        "en": "If he isn’t the leader, then who is?"
       },
       {
         "jp": "これが愛でなくてなんだろう。",
         "romaji": "Kore ga ai de nakute nandarou.",
-        "en": "If this isn't love, then what is?"
+        "en": "If this isn’t love, then what is?"
       },
       {
         "jp": "これが最高のレストランでなくてなんだろう。",
         "romaji": "Kore ga saikou no resutoran de nakute nandarou.",
-        "en": "If this isn't the best restaurant, then what is?"
+        "en": "If this isn’t the best restaurant, then what is?"
       }
     ]
   },
   {
     "title": "Noun ではあるまいし (~dewa aru maishi)",
-    "short_explanation": "Use this phrase to mean 'it's not as if', 'it's not that'.",
-    "long_explanation": "Noun ではあるまいし is a Japanese grammar point used to indicate the speaker's presumption that something is not the case or to dismiss the idea of the preceding statement as unlikely or not the primary reason. It can be translated as 'it's not as if', or 'it's not that' in English.",
+    "short_explanation": "Means 'it’s not as if...', 'it’s not that...', more formal than じゃあるまいし.",
+    "long_explanation": "「Noun + ではあるまいし」indicates that the noun is not the situation or reason being implied. It dismisses a possibility or justification, e.g. 'It’s not as if X, so don’t worry/do that/etc.' This is the more formal counterpart to じゃあるまいし.",
     "formation": "Noun + ではあるまいし",
     "examples": [
       {
-        "jp": "彼女は、プロの歌手ではあるまいし、完璧を求めるな。",
-        "romaji": "Kanojo wa, puro no kashu de wa arumai shi, kanpeki o motomeru na.",
-        "en": "She is not a professional singer, so don't demand perfection."
+        "jp": "彼女はプロの歌手ではあるまいし、完璧を求めるのは酷だ。",
+        "romaji": "Kanojo wa puro no kashu de wa aru mai shi, kanpeki o motomeru no wa koku da.",
+        "en": "She’s not a professional singer, so it’s rather harsh to demand perfection."
       },
       {
-        "jp": "彼は、子供ではあるまいし、そんなにたくさんのチョコレートを食べるべきではない。",
-        "romaji": "Kare wa, kodomo de wa arumai shi, sonnani takusan no chokorēto o taberu beki de wa nai.",
-        "en": "He is not a child, so he shouldn't eat so much chocolate."
+        "jp": "彼は子供ではあるまいし、そんなにチョコレートばかり食べるのはどうかと思う。",
+        "romaji": "Kare wa kodomo de wa aru mai shi, sonnani chokoreeto bakari taberu no wa douka to omou.",
+        "en": "He’s not a child, so I’m not sure about him eating that much chocolate."
       },
       {
-        "jp": "彼は医者ではあるまいし、あなたの健康問題について尋ねることはない。",
-        "romaji": "Kare wa isha de wa arumai shi, anata no kenkō mondai ni tsuite tazuneru koto wa nai.",
-        "en": "He is not a doctor, so he shouldn't ask about your health problems."
+        "jp": "彼は医者ではあるまいし、あなたの健康状態を詮索する必要はない。",
+        "romaji": "Kare wa isha de wa aru mai shi, anata no kenkou joutai o sensaku suru hitsuyou wa nai.",
+        "en": "He’s not a doctor, so he has no need to pry into your health."
       },
       {
-        "jp": "このリングは高価なものではあるまいし、落としても心配する必要はない。",
-        "romaji": "Kono ringu wa kōka na mono de wa arumai shi, otoshite mo shinpai suru hitsuyō wa nai.",
-        "en": "This ring is not expensive, so there is no need to worry if you drop it."
+        "jp": "この指輪は高価なものではあるまいし、落としても大したことはない。",
+        "romaji": "Kono yubiwa wa kouka na mono de wa aru mai shi, otoshite mo taishita koto wa nai.",
+        "en": "It’s not an expensive ring, so dropping it isn’t a big deal."
       }
     ]
   },
   {
     "title": "Noun と Noun を兼ねて (Noun to Noun o kanete)",
-    "short_explanation": "Used to express the idea of doing two things at once or serving two purposes.",
-    "long_explanation": "The grammar point NounとNounを兼ねて indicates that one action or thing serves the purpose of two. It translates to 'as well as', 'and also', 'at the same time' in English. It is often used when someone or something fulfills two roles or purposes simultaneously.",
+    "short_explanation": "Used to indicate doing two things at once or fulfilling two roles/purposes.",
+    "long_explanation": "「Noun と Noun を兼ねて」means that one action or thing serves the purpose of both nouns. It can be translated as 'serving as both… and…', or 'for both… and…'.",
     "formation": "Noun + と + Noun + を兼ねて",
     "examples": [
       {
@@ -973,14 +975,15 @@
         "en": "This room serves as both a bedroom and a study."
       },
       {
-        "jp": "彼は父と母を兼ねて子どもの世話をしている。 ",
+        "jp": "彼は父と母を兼ねて子どもの世話をしている。",
         "romaji": "Kare wa chichi to haha o kanete kodomo no sewa o shite iru.",
-        "en": "He takes care of his child, serving as both father and mother."
+        "en": "He looks after his child, taking on both mother and father roles."
       }
     ]
   },
+
   {
-    "title": "Noun といい Noun といい (〜toii〜toii)",
+    "title": "Noun といい Noun といい (〜to ii〜to ii)",
     "short_explanation": "Used to express 'both A and B'; 'whether it's A or B'; 'not to mention A and also B'.",
     "long_explanation": "This grammar structure is used to provide two examples or two situations to demonstrate a certain characteristic or situation. It's a way of mentioning two items of the same theme to generalize or emphasize something applicable to them both. In English, it can be understood as 'both A and B', 'whether it's A or B', or 'not to mention A and also B'.",
     "formation": "Noun1 + といい + Noun2 + といい + Comment",
@@ -997,7 +1000,7 @@
       },
       {
         "jp": "この町の映画館といい、公園といい、老若男女が楽しめる。",
-        "romaji": "Kono machi no eigakan to ii, kouen to ii, roujaku nannin ga tanoshimeru.",
+        "romaji": "Kono machi no eigakan to ii, kouen to ii, rounyakunan'nyo ga tanoshimeru.",
         "en": "Not to mention the movie theaters and parks in this town, they are enjoyable for all ages."
       },
       {
@@ -1009,8 +1012,8 @@
   },
   {
     "title": "Noun という Noun (~to iu~)",
-    "short_explanation": "Used to specify or define one noun with another; 'the noun called', 'the noun that is' or 'a certain'.",
-    "long_explanation": "The Noun という Noun construction is used to specify or define one noun with another. It usually translates as 'the noun called', 'the noun that is' or simply 'a certain'. It is a common grammatical pattern in Japanese, where a noun is clarified or specified by another noun.",
+    "short_explanation": "Used to specify or define one noun with another; 'the noun called', 'the noun that is', or 'a certain'.",
+    "long_explanation": "The Noun という Noun construction is used to specify or define one noun with another. It usually translates as 'the noun called', 'the noun that is' or simply 'a certain'. It is a very common pattern for clarifying what something is named or known as.",
     "formation": "Noun1 という Noun2",
     "examples": [
       {
@@ -1038,7 +1041,7 @@
   {
     "title": "Noun というところだ (Noun to iu tokoro da)",
     "short_explanation": "Means 'it's approximately...' or 'it's about...'. Used to show approximation or a general assessment.",
-    "long_explanation": "The というところだ grammar point is used to show an approximation or to make a general assessment of something. It is often translated as 'it's approximately...', 'around...', or 'it's about...'. It can be used with time, number, and more abstract concepts like feelings.",
+    "long_explanation": "The というところだ grammar point is used to show an approximation or general assessment of something. It is often translated as 'it's approximately...', 'around...', or 'it's about...'.",
     "formation": "Noun + というところだ",
     "examples": [
       {
@@ -1048,25 +1051,25 @@
       },
       {
         "jp": "彼の力は80％というところだ。",
-        "romaji": "Kare no chikara wa hachi-juu pasento to iu tokoro da.",
+        "romaji": "Kare no chikara wa hachijuu paasento to iu tokoro da.",
         "en": "His strength is about 80%."
       },
       {
         "jp": "このプランに賛成の人は7割というところだ。",
-        "romaji": "Kono puran ni sansei no hito wa nana-wari to iu tokoro da.",
+        "romaji": "Kono puran ni sansei no hito wa nanawari to iu tokoro da.",
         "en": "About 70% of people agree with this plan."
       },
       {
-        "jp": "課長の意見には、私としては90％同意するところでしょう。",
-        "romaji": "Kachou no iken ni wa, watashi toshite wa kyu-juu percent doui suru tokoro deshou.",
-        "en": "As for the section manager's opinion, I would say I agree about 90%."
+        "jp": "課長の意見には、私としては90％というところでしょう。",
+        "romaji": "Kachou no iken ni wa, watashi toshite wa kyuujuu paasento to iu tokoro deshou.",
+        "en": "As for the section manager's opinion, I'd say I'm about 90% in agreement."
       }
     ]
   },
   {
     "title": "Noun + というもの (~ to iu mono)",
-    "short_explanation": "Used to express 'every', 'all'. Concept of generic reference.",
-    "long_explanation": "This grammar point 'Noun + というもの' is usually used to express a general or universal truth, or to refer to all of the things or people of a certain category. Literally, it could be translated as 'every (noun)' or 'all of the (noun)'.",
+    "short_explanation": "Used to express a generic concept: 'all ~', 'any ~ of that kind'.",
+    "long_explanation": "The grammar pattern 'Noun + というもの' refers to the entirety or general nature of that noun—often implying 'all of this category' or 'this thing called...'. It can also highlight a universal truth about the noun mentioned.",
     "formation": "Noun + というもの",
     "examples": [
       {
@@ -1076,12 +1079,12 @@
       },
       {
         "jp": "大学生というものは研究に時間をたくさんかけます。",
-        "romaji": "Daigakusei to iu mono wa kenkyu ni jikan o takusan kakemasu.",
+        "romaji": "Daigakusei to iu mono wa kenkyuu ni jikan o takusan kakemasu.",
         "en": "University students spend a lot of time on research."
       },
       {
         "jp": "日本文化というものは伝統的なものと新しいものが混ざっています。",
-        "romaji": "Nihon bunka to iu mono wa dentouteki na mono to atarashii mono ga mazatteimasu.",
+        "romaji": "Nihon bunka to iu mono wa dentouteki na mono to atarashii mono ga mazatte imasu.",
         "en": "Japanese culture is a mixture of traditional and new."
       },
       {
@@ -1093,8 +1096,8 @@
   },
   {
     "title": "Noun といったところだ (Noun to itta tokoro da)",
-    "short_explanation": "Expresses 'at most', 'as much as', 'limited to'.",
-    "long_explanation": "This grammar point is used to express limitation to an extent, place or in a certain situation. It roughly translates to 'at most', 'as much as', or 'limited to' in context.",
+    "short_explanation": "Expresses 'at most', 'as much as', or 'limited to'.",
+    "long_explanation": "Noun といったところだ describes an upper limit or a maximum extent, often translating to 'at most' or 'around...'. It suggests the speaker doesn’t expect anything beyond that limit.",
     "formation": "Noun + といったところだ",
     "examples": [
       {
@@ -1104,36 +1107,36 @@
       },
       {
         "jp": "私の日本語の語彙は1000語といったところだ。",
-        "romaji": "Watashi no nihongo no goi wa 1000 go to itta tokoro da.",
+        "romaji": "Watashi no nihongo no goi wa sen go to itta tokoro da.",
         "en": "My Japanese vocabulary is limited to about 1000 words."
       },
       {
         "jp": "彼が毎日ランニングできるのは5キロといったところだ。",
-        "romaji": "Kare ga mainichi ranningu dekiru no wa 5 kiro to itta tokoro da.",
+        "romaji": "Kare ga mainichi ranningu dekiru no wa go kiro to itta tokoro da.",
         "en": "He can run as much as 5 kilometers a day at most."
       },
       {
         "jp": "その会社の従業員は20人といったところだ。",
-        "romaji": "Sono kaisha no juugyouin wa 20 nin to itta tokoro da.",
-        "en": "The employees of that company are limited to about 20 people."
+        "romaji": "Sono kaisha no juugyouin wa nijuu nin to itta tokoro da.",
+        "en": "The employees at that company are limited to about 20 people."
       }
     ]
   },
   {
     "title": "Noun といわず Noun といわず (A to iwazu B to iwazu)",
-    "short_explanation": "Expresses an idea of 'both A and B' or 'be it A or B'; 'not only A but also B'.",
-    "long_explanation": "The grammar point Noun といわず Noun といわず is used when mentioning two things or situations and expressing the meaning of 'both A and B'. This structure can be used to express the idea of not only mentioning A but also implying B. It often used to show that something applies to multiple situations or subjects, without distinction.",
+    "short_explanation": "Expresses 'both A and B' or 'be it A or B'; applies to both without distinction.",
+    "long_explanation": "The grammar pattern AといわずBといわず means 'be it A or B' or 'both A and B.' It emphasizes that something applies widely, without distinguishing between A and B.",
     "formation": "Noun1 + といわず + Noun2 + といわず + (rest of the sentence)",
     "examples": [
       {
         "jp": "冬といわず夏といわず、彼はいつもアイスクリームを食べます。",
-        "romaji": "Fuyu to iwazu natsu to iwazu, kare wa itsumo aisukurīmu o tabemasu.",
+        "romaji": "Fuyu to iwazu natsu to iwazu, kare wa itsumo aisukuriimu o tabemasu.",
         "en": "Be it winter or summer, he always eats ice cream."
       },
       {
         "jp": "老いといわず若きといわず、全ての人がそのイベントを楽しめます。",
         "romaji": "Oi to iwazu wakaki to iwazu, subete no hito ga sono ibento o tanoshimemasu.",
-        "en": "Everyone, be they old or young, can enjoy that event."
+        "en": "Whether old or young, everyone can enjoy that event."
       },
       {
         "jp": "男といわず女といわず、誰もがこの映画を楽しむでしょう。",
@@ -1149,119 +1152,120 @@
   },
   {
     "title": "Noun + ときたら (〜tokitara)",
-    "short_explanation": "Expresses strong feelings about a matter; 'speaking of', 'when it comes to'.",
-    "long_explanation": "The grammar point Noun + ときたら is used to introduce a subject in a conversation and emphasizes strong feelings or impressions about the topic, whether they are negative or positive. It typically conveys a sense of exclamation. It translates to phrases like 'when it comes to', 'speaking of' in English.",
+    "short_explanation": "Expresses strong feelings about a topic; 'speaking of', 'when it comes to'.",
+    "long_explanation": "Noun + ときたら emphasizes strong feelings—often frustration, admiration, or surprise—about that noun. It can translate as 'when it comes to...', 'speaking of...', or 'honestly, about...'.",
     "formation": "Noun + ときたら",
     "examples": [
       {
-        "jp": "寿司ときたら、彼は何も食べれない。",
-        "romaji": "Sushi tokitara, kare wa nani mo taberenai.",
+        "jp": "寿司ときたら、彼は何も食べられない。",
+        "romaji": "Sushi tokitara, kare wa nanimo taberarenai.",
         "en": "When it comes to sushi, he can't eat anything."
       },
       {
         "jp": "数学の問題ときたら、彼女はいつも困っている。",
         "romaji": "Suugaku no mondai tokitara, kanojo wa itsumo komatte iru.",
-        "en": "When it comes to math problems, she is always troubled."
+        "en": "When it comes to math problems, she's always struggling."
       },
       {
         "jp": "あの店のハンバーガーときたら、本当に美味しい。",
-        "romaji": "Ano mise no hanbaagaa tokitara, hontouni oishii.",
-        "en": "Speaking of that shop's hamburgers, they are really delicious."
+        "romaji": "Ano mise no hanbaagaa tokitara, hontou ni oishii.",
+        "en": "Speaking of that shop's hamburgers, they're really delicious."
       },
       {
         "jp": "彼のいつもの態度ときたら、本当に困ったものだ。",
-        "romaji": "Kare no itsumo no taido tokitara, hontouni komatta mono da.",
-        "en": "Speaking of his usual attitude, it really is troublesome."
+        "romaji": "Kare no itsumo no taido tokitara, hontou ni komatta mono da.",
+        "en": "Speaking of his usual attitude, it's truly problematic."
       }
     ]
   },
   {
     "title": "Noun とは比べものにならない (~to wa kurabemono ni naranai)",
-    "short_explanation": "To indicate something is not comparable with; 'not comparable to', 'beyond comparison'.",
-    "long_explanation": "The とは比べものにならない grammar point is used when we want to express that something is incomparably superior or different to the extent that comparing it with something else is meaningless. It is usually used in circumstances where the comparison is overwhelmingly in favor of one side.",
+    "short_explanation": "Indicates something is not comparable; 'beyond comparison'.",
+    "long_explanation": "Use とは比べものにならない to emphasize that two things differ so greatly they cannot be compared—one is vastly superior or different in scale, quality, etc.",
     "formation": "Noun + とは比べものにならない",
     "examples": [
       {
-        "jp": "新しい車の速さは古い車とは比べ物にならない。",
+        "jp": "新しい車の速さは古い車とは比べものにならない。",
         "romaji": "Atarashii kuruma no hayasa wa furui kuruma to wa kurabemono ni naranai.",
-        "en": "The speed of the new car is not comparable to the old car."
+        "en": "The speed of the new car is not comparable to the old one."
       },
       {
-        "jp": "彼の英語のうまさは私とは比べ物にならない。",
+        "jp": "彼の英語のうまさは私とは比べものにならない。",
         "romaji": "Kare no eigo no umasa wa watashi to wa kurabemono ni naranai.",
-        "en": "His English skill is not comparable to mine."
+        "en": "His English skills are beyond comparison with mine."
       },
       {
-        "jp": "日本の技術は他の国とは比べ物にならない。",
+        "jp": "日本の技術は他の国とは比べものにならない。",
         "romaji": "Nihon no gijutsu wa hoka no kuni to wa kurabemono ni naranai.",
-        "en": "Japan's technology is not comparable to other countries'."
+        "en": "Japan's technology is not comparable to that of other countries."
       },
       {
         "jp": "今回の地震の被害は前回とは比べものにならない。",
         "romaji": "Konkai no jishin no higai wa zenkai to wa kurabemono ni naranai.",
-        "en": "The damage from this earthquake is not comparable to the previous one."
+        "en": "The damage from this earthquake is incomparable to the previous one."
       }
     ]
   },
   {
     "title": "Noun + ともあろう + Noun (~tomoarou~)",
-    "short_explanation": "Used to point out unbecoming behavior of a person or thing with certain status",
-    "long_explanation": "This grammar point is used when you want to express that someone of a certain status or condition has engaged in behavior that is considered unbecoming or unexpected of them. The noun before 'ともあろう' designates a certain status or condition.",
-    "formation": "Noun + ともあろう",
+    "short_explanation": "Used to criticize or question unbecoming behavior by someone of a certain status.",
+    "long_explanation": "Noun + ともあろう + Noun is used to express that someone with a certain role or status has done something unbefitting their position. It often carries disapproval or surprise: 'For someone who is supposed to be X, how could they...?'",
+    "formation": "Noun + ともあろう + Noun",
     "examples": [
       {
         "jp": "先生ともあろう者が、そんな間違いをするなんて。",
         "romaji": "Sensei tomoarou mono ga, sonna machigai o suru nante.",
-        "en": "For someone claiming to be a teacher, it's shocking that they would make such a mistake."
+        "en": "For a teacher, it's shocking to make such a mistake."
       },
       {
         "jp": "大人ともあろう者が子供みたいにふるまってはいけない。",
         "romaji": "Otona tomoarou mono ga kodomo mitai ni furumatte wa ikenai.",
-        "en": "It's not okay for someone claiming to be an adult to act like a child."
+        "en": "It's not right for an adult to behave like a child."
       },
       {
         "jp": "社長ともあろう人がそんな失礼なことを言うなんて。",
         "romaji": "Shachou tomoarou hito ga sonna shitsurei na koto o iu nante.",
-        "en": "It's shocking that someone who is supposed to be a company president would say something so rude."
+        "en": "It's shocking that someone who is the company president would say such a rude thing."
       },
       {
         "jp": "プロの選手ともあろう者が、試合に遅刻するなんて。",
         "romaji": "Puro no senshu tomoarou mono ga, shiai ni chikoku suru nante.",
-        "en": "It's surprising that a professional athlete would be late for a game."
+        "en": "For a professional athlete, being late to a match is unthinkable."
       }
     ]
   },
   {
-    "title": "Noun ともなると (〜to mo naruto)",
-    "short_explanation": "'When it comes to..', 'In case of..', signifies change.",
-    "long_explanation": "The 〜ともなると grammar point is used to emphasize the change in circumstance or situation. When it comes to a particular time, place, or situation which is usually expressed by a noun, something different or extraordinary tends to happen.",
+    "title": "Noun ともなると (〜to mo naru to)",
+    "short_explanation": "'When it comes to...', emphasizes a change of situation or status.",
+    "long_explanation": "Noun + ともなると indicates a change of state or circumstances once that noun becomes relevant or once one attains that position. It conveys that 'once it’s X, things change' or 'when it comes to X...'.",
     "formation": "Noun + ともなると",
     "examples": [
       {
         "jp": "クリスマスともなると、街中がきらきらと輝いて見えます。",
-        "romaji": "Kurisumasu to mo naruto, machijuu ga kirakira to kagayaite miemasu.",
-        "en": "When it comes to Christmas, the whole city seems to sparkle."
+        "romaji": "Kurisumasu to mo naru to, machijuu ga kirakira to kagayaite miemasu.",
+        "en": "When it comes to Christmas time, the whole city sparkles."
       },
       {
         "jp": "子供が自分の過ちを認めるともなると、話は別ですね。",
-        "romaji": "Kodomo ga jibun no ayamachi o mitomeru tomo naruto, hanashi wa betsu desu ne.",
-        "en": "When it comes to a child admitting their own mistake, it's a different story."
+        "romaji": "Kodomo ga jibun no ayamachi o mitomeru to mo naru to, hanashi wa betsu desu ne.",
+        "en": "When a child admits their mistake, that’s a different story."
       },
       {
         "jp": "夏休みともなると、海辺は観光客で溢れかえります。",
-        "romaji": "Natsu yasumi to mo naruto, umibe wa kankoukyaku de afurekaerimasu.",
-        "en": "When it comes to summer vacation, the seaside is overflowing with tourists."
+        "romaji": "Natsu yasumi to mo naru to, umibe wa kankoukyaku de afurekaerimasu.",
+        "en": "When summer vacation comes, the seaside is filled with tourists."
       },
       {
         "jp": "試験週間ともなると、図書館はいつもより混雑します。",
-        "romaji": "Shiken shuukan to mo naruto, toshokan wa itsumo yori konzatsu shimasu.",
-        "en": "When it comes to exam week, the library is more crowded than usual."
+        "romaji": "Shiken shuukan to mo naru to, toshokan wa itsumo yori konzatsu shimasu.",
+        "en": "When exam week arrives, the library gets more crowded than usual."
       }
     ]
   },
+
   {
     "title": "Noun ともなれば (〜to mo nareba)",
-    "short_explanation": "Expresses the meaning of 'if it comes to', 'when', or 'once'.",
+    "short_explanation": "Expresses 'if it comes to', 'when', or 'once'.",
     "long_explanation": "The grammar point ～ともなれば is used to stress the likelihood of a change or consequence that comes about due to the situation expressed before ともなれば. It can be translated as 'when it comes to', 'once', or 'if it comes to' in English. It's usually used with nouns.",
     "formation": "Noun + ともなれば",
     "examples": [
@@ -1272,18 +1276,18 @@
       },
       {
         "jp": "彼がリーダーともなれば、チームの性能はさらに向上するでしょう。",
-        "romaji": "Kare ga ri-daa to mo nareba, chīmu no seino wa sara ni koujousuru deshou.",
+        "romaji": "Kare ga riidaa to mo nareba, chiimu no seinou wa sara ni koujou suru deshou.",
         "en": "If he becomes the leader, the team's performance will improve even more."
       },
       {
         "jp": "夏休みともなれば、観光地はいつも人であふれている。",
-        "romaji": "Natsuyasumi to mo nareba, kansouchi wa itsumo hito de afurete iru.",
-        "en": "When it comes to summer vacation, tourist spots are always crowded with people."
+        "romaji": "Natsuyasumi to mo nareba, kankouchi wa itsumo hito de afurete iru.",
+        "en": "When it comes to summer vacation, tourist spots are always packed with people."
       },
       {
-        "jp": "結婚ともなれば、ただ二人が愛し合ってるだけではすまされない事情も多い",
-        "romaji": "Kekkon to mo nareba, tada futari ga aishiatteiru dake dewa sumasarenai jijou mo oi.",
-        "en": "When it comes to marriage, there are many circumstances where just two people being in love is not enough."
+        "jp": "結婚ともなれば、ただ二人が愛し合っているだけではすまされない事情も多い。",
+        "romaji": "Kekkon to mo nareba, tada futari ga aishiatte iru dake de wa sumasarenai jijou mo oi.",
+        "en": "When it comes to marriage, there are often issues that can’t be solved by love alone."
       }
     ]
   },
@@ -1296,7 +1300,7 @@
       {
         "jp": "天気の良さと相まって、ピクニックは大成功でした。",
         "romaji": "Tenki no yosa to aimatte, pikunikku wa daiseikou deshita.",
-        "en": "Thanks to the good weather, the picnic was a great success."
+        "en": "In combination with the good weather, the picnic was a great success."
       },
       {
         "jp": "努力と運と相まって、彼は試験に合格しました。",
@@ -1305,31 +1309,31 @@
       },
       {
         "jp": "ひまわり油とガーリックと相まって、この料理は美味しいです。",
-        "romaji": "Himawari abura to garikku to aimatte, kono ryouri wa oishii desu.",
-        "en": "With sunflower oil and garlic, this dish is delicious."
+        "romaji": "Himawari abura to gaarikku to aimatte, kono ryouri wa oishii desu.",
+        "en": "Combined with sunflower oil and garlic, this dish is delicious."
       },
       {
         "jp": "新しい技術と経験と相まって、私たちはこの問題を克服できました。",
         "romaji": "Atarashii gijutsu to keiken to aimatte, watashitachi wa kono mondai o kokufuku dekimashita.",
-        "en": "With new technology and experience, we were able to overcome this problem."
+        "en": "Together with new technology and experience, we were able to overcome this problem."
       }
     ]
   },
   {
     "title": "Noun なくして～はない (Noun nakushite ~ wa nai)",
-    "short_explanation": "Expresses the idea 'without ~, there can't be ~'; 'can't do ~ without first doing ~'.",
-    "long_explanation": "The なくして grammar point is used to indicate that something is indispensable or necessary for something else to occur. 'Without' the first noun, the second part 'cannot exist/occur'. It demonstrates the principle of causality.",
+    "short_explanation": "Expresses 'without ~, there can't be ~'; 'can't do ~ without first doing ~'.",
+    "long_explanation": "The なくして grammar point is used to indicate that something is indispensable or necessary for something else to occur. 'Without' the first noun, the second part 'cannot exist/occur'. It demonstrates the principle of causality or necessity.",
     "formation": "Noun + なくして + Sentence ～はない",
     "examples": [
       {
         "jp": "努力なくして成功はない。",
         "romaji": "Doryoku nakushite seikou wa nai.",
-        "en": "There is no success without making an effort."
+        "en": "There is no success without effort."
       },
       {
         "jp": "時間なくして完璧な作品は作れない。",
         "romaji": "Jikan nakushite kanpeki na sakuhin wa tsukurenai.",
-        "en": "I can't produce a perfect work without time."
+        "en": "You cannot create a perfect work without time."
       },
       {
         "jp": "経験なくして成長はない。",
@@ -1346,7 +1350,7 @@
   {
     "title": "Noun なしでは～ない (Noun nashi de wa ~nai)",
     "short_explanation": "Expresses the necessity of something; 'cannot do without', 'not possible without'.",
-    "long_explanation": "The Noun なしでは～ない grammar point is used to express the idea that something is indispensable, or absolutely necessary. It is often translated as 'cannot do without' or 'not possible without' in English. The formation is simple - just attach なしでは～ない to the noun.",
+    "long_explanation": "Noun なしでは～ない is used to emphasize that something is indispensable. It can be translated as 'cannot do without' or 'not possible without.'",
     "formation": "Noun + なしでは～ない",
     "examples": [
       {
@@ -1361,8 +1365,8 @@
       },
       {
         "jp": "コンピュータなしでは、現代のビジネスは成り立たない。",
-        "romaji": "Konpyuuta nashi de wa, gendai no bijinesu wa naritanai.",
-        "en": "Modern business is not possible without computers."
+        "romaji": "Konpyuuta nashi de wa, gendai no bijinesu wa naritatanai.",
+        "en": "Modern business cannot function without computers."
       },
       {
         "jp": "友情なしでは、人生は退屈だろう。",
@@ -1373,80 +1377,80 @@
   },
   {
     "title": "Noun なしには～ない (Noun nashi ni wa ~nai)",
-    "short_explanation": "It means 'without', 'cannot do without', 'not possible without'.",
-    "long_explanation": "The なしには～ない grammar point is used to express the necessity of something. It means that without the thing mentioned before なしには, it's not possible to do the action stated after ない. It can be translated as 'without', 'cannot do without', or 'not possible without' in English.",
+    "short_explanation": "Means 'without', 'cannot do without', 'not possible without'.",
+    "long_explanation": "The なしには～ない grammar point is used to express that without the mentioned noun, something is not possible. It can be translated as 'cannot (do) without ~', or 'not possible without ~'.",
     "formation": "Noun + なしには + Verb-negative",
     "examples": [
       {
         "jp": "お金なしには生活ができない。",
-        "romaji": "Okane nashi niwa seikatsu ga dekinai.",
-        "en": "Without money, life is not possible."
+        "romaji": "Okane nashi ni wa seikatsu ga dekinai.",
+        "en": "I cannot get by without money."
       },
       {
         "jp": "愛情なしには子育てができない。",
-        "romaji": "Aijou nashi niwa sodate ga dekinai.",
+        "romaji": "Aijou nashi ni wa kosodate ga dekinai.",
         "en": "You cannot raise a child without love."
       },
       {
         "jp": "彼なしにはこのプロジェクトを進められない。",
-        "romaji": "Kare nashi niwa kono purojekuto wo susumerarenai.",
-        "en": "Without him, I cannot advance this project."
+        "romaji": "Kare nashi ni wa kono purojekuto o susumerarenai.",
+        "en": "Without him, I cannot move this project forward."
       },
       {
         "jp": "水なしには生きていけない。",
-        "romaji": "Mizu nashi niwa ikite ikenai.",
+        "romaji": "Mizu nashi ni wa ikite ikenai.",
         "en": "I cannot live without water."
       }
     ]
   },
   {
     "title": "Noun ならいざ知らず (~nara izashirazu)",
-    "short_explanation": "Expresses 'not to mention', 'let alone'.",
-    "long_explanation": "The ~ならいざ知らずgrammar point is used when the speaker wants to express that even just a certain condition or situation is hard, let alone a more difficult condition or situation. It can be translated as 'not to mention' or 'let alone' in English.",
-    "formation": "Noun1 + ならいざ知らず + Noun2",
+    "short_explanation": "Expresses 'maybe X is possible, but Y is definitely not'. Often 'let alone...'.",
+    "long_explanation": "「Xならいざ知らず、Yは…」 emphasizes that while X might be possible or acceptable, Y is out of the question or even more difficult. It can be translated as 'I could understand X, but Y is impossible' or 'Maybe X, but definitely not Y.'",
+    "formation": "Noun1 + ならいざ知らず + Noun2 (comment)",
     "examples": [
       {
         "jp": "数学ならいざ知らず、物理なんて全然わからない。",
         "romaji": "Suugaku nara iza shirazu, butsuri nante zenzen wakaranai.",
-        "en": "I don't understand physics at all, not to mention maths."
+        "en": "Math might be manageable, but as for physics, I'm completely clueless."
       },
       {
         "jp": "5キロならいざ知らず、10キロなんて走れません。",
-        "romaji": "5 kiro nara iza shirazu, 10 kiro nante hashiremasen.",
-        "en": "I can't run 10 kilometers, let alone 5 kilometers."
+        "romaji": "Go kiro nara iza shirazu, juu kiro nante hashiremasen.",
+        "en": "Maybe I could run 5 kilometers, but 10 kilometers is out of the question."
       },
       {
         "jp": "日本語ならいざ知らず、中国語なんて話せない。",
-        "romaji": "Nihongo nara iza shirazu, chūgokugo nante hanasenai.",
-        "en": "I can't speak Chinese, let alone Japanese."
+        "romaji": "Nihongo nara iza shirazu, chuugokugo nante hanasenai.",
+        "en": "I might be able to speak Japanese, but Chinese is impossible for me."
       },
       {
-        "jp": "冷たい水ならいざ知らず、熱い水で泳ぐなんて思いもよらない。",
-        "romaji": "Tsumetai mizu nara iza shirazu, atsui mizu de oyogu nante omoi mo yoranai.",
-        "en": "I never thought of swimming in hot water, let alone cold water."
+        "jp": "冷たい水ならいざ知らず、熱い水で泳ぐなんて考えたこともない。",
+        "romaji": "Tsumetai mizu nara iza shirazu, atsui mizu de oyogu nante kangaeta koto mo nai.",
+        "en": "Maybe cold water, but swimming in hot water never even crossed my mind."
       }
     ]
   },
   {
     "title": "Noun + ならでは (~nara de wa)",
-    "short_explanation": "Expresses 'only', 'characteristic of'.",
-    "long_explanation": "The ならでは grammar point is used after a noun to express something that is unique or characteristic only to that noun. It is equivalent to the English expressions 'only in...' or 'characteristic of...'.",
+    "short_explanation": "Expresses something unique or characteristic only of that noun; 'only found in', 'only possible with'.",
+    "long_explanation": "The pattern Noun + ならでは highlights something that is unique or distinctive to that noun, suggesting that only this place, person, or thing could possess or create it.",
     "formation": "Noun + ならでは",
     "examples": [
       {
         "jp": "これは日本ならではの風景ですね。",
         "romaji": "Kore wa Nihon nara dewa no fuukei desu ne.",
-        "en": "This is a landscape characteristic of Japan, isn't it?"
+        "en": "This is a landscape you can only find in Japan."
       },
       {
         "jp": "新鮮な魚はこの町ならではの特産品です。",
         "romaji": "Shinsen na sakana wa kono machi nara dewa no tokusanhin desu.",
-        "en": "Fresh fish is a specialty only found in this town."
+        "en": "Fresh fish is a specialty unique to this town."
       },
       {
         "jp": "彼の技術は彼ならではのものだ。",
         "romaji": "Kare no gijutsu wa kare nara dewa no mono da.",
-        "en": "His skills are unique only to him."
+        "en": "His skills are unique to him."
       },
       {
         "jp": "この手作りの一品は、彼女ならではのものです。",
@@ -1457,24 +1461,24 @@
   },
   {
     "title": "Noun なり Noun なり (A nari B nari)",
-    "short_explanation": "Indicates several alternatives; 'either...or', 'such as...'",
-    "long_explanation": "The なりなり grammar point is used to list alternatives or options. It often translates to 'either...or' or 'such as' in English. The listed items are usually of the same type (for example, nouns with nouns). It can also be used when giving examples.",
+    "short_explanation": "Lists alternatives of the same kind; 'either A or B', 'A or B, for example'.",
+    "long_explanation": "The pattern AなりBなり is used to suggest alternatives or options, usually of the same category. It can be translated as 'whether A or B' or 'A or B, for example'.",
     "formation": "Noun + なり + Noun + なり",
     "examples": [
       {
         "jp": "映画なり、音楽なり、何か趣味はありますか。",
         "romaji": "Eiga nari, ongaku nari, nanika shumi wa arimasu ka?",
-        "en": "Do you have any hobbies, like movies or music?"
+        "en": "Do you have any hobbies, such as movies or music?"
       },
       {
         "jp": "紅茶なり、コーヒーなり、何か飲み物をください。",
-        "romaji": "Koucha nari, koohii nari, nanika nomimono wo kudasai.",
+        "romaji": "Koucha nari, koohii nari, nanika nomimono o kudasai.",
         "en": "Please give me something to drink, like tea or coffee."
       },
       {
         "jp": "パンなり、おにぎりなり、何か食べてください。",
         "romaji": "Pan nari, onigiri nari, nanika tabete kudasai.",
-        "en": "Please eat something, either bread or onigiri."
+        "en": "Please eat something—bread, onigiri, or whatever you’d like."
       },
       {
         "jp": "タクシーなり、バスなりに乗って来てください。",
@@ -1485,32 +1489,33 @@
   },
   {
     "title": "Noun なりとも (~nari tomo)",
-    "short_explanation": "Indicates even a small amount or degree; 'even a little', 'at least'.",
-    "long_explanation": "The なりとも grammar point is used to indicate even a small amount or degree in a situation, implying that every little bit counts or has some value. It can be roughly translated as 'even a little', 'at least', or 'even if just' in English. It is usually used with nouns.",
+    "short_explanation": "Indicates even a small amount or degree; 'at least', 'even a little'.",
+    "long_explanation": "Noun + なりとも is used to show that even a small amount or degree is valuable or needed. It translates as 'at least' or 'even a little' in English.",
     "formation": "Noun + なりとも",
     "examples": [
       {
         "jp": "時間が限られているので、一時間なりとも練習すべきだ。",
-        "romaji": "Jikan ga kagirarete iru node, ichi jikan nari tomo renshuu subeki da.",
+        "romaji": "Jikan ga kagirarete iru node, ichi-jikan nari tomo renshuu subeki da.",
         "en": "Since time is limited, you should practice for at least an hour."
       },
       {
         "jp": "彼には一言なりとも謝罪の言葉を聞きたい。",
         "romaji": "Kare ni wa hitokoto nari tomo shazai no kotoba o kikitai.",
-        "en": "I want to hear at least a word of apology from him."
+        "en": "I’d like to hear at least a word of apology from him."
       },
       {
         "jp": "このプロジェクトには、一人なりともメンバーが必要だ。",
         "romaji": "Kono purojekuto ni wa, hitori nari tomo membaa ga hitsuyou da.",
-        "en": "This project needs at least one member."
+        "en": "We need at least one member for this project."
       },
       {
         "jp": "あなたには、一言なりとも感謝の言葉を述べたい。",
         "romaji": "Anata ni wa, hitokoto nari tomo kansha no kotoba o nobetai.",
-        "en": "I want to say at least a word of thanks to you."
+        "en": "I want to offer at least a word of gratitude to you."
       }
     ]
   },
+
   {
     "title": "Noun に Noun を重ねて (A ni B wo kasanete)",
     "short_explanation": "This expression is used to describe repeated actions or states, 'one after another' or 'pile up'.",
@@ -1547,22 +1552,22 @@
     "examples": [
       {
         "jp": "戦争時にあっては、すべての人々が困難に直面していました。",
-        "romaji": "Sensouji ni atte ha, subete no hito ga konnan ni chokumen shiteimashita.",
+        "romaji": "Sensouji ni atte wa, subete no hito ga konnan ni chokumen shiteimashita.",
         "en": "In wartime, all people were facing difficulties."
       },
       {
         "jp": "経済危機にあっては、多くの企業が倒産の危機に瀕している。",
-        "romaji": "Keizai kiki ni atte ha, ooku no kigyou ga tousan no kiki ni hinshite iru.",
+        "romaji": "Keizai kiki ni atte wa, ooku no kigyou ga tousan no kiki ni hinshite iru.",
         "en": "In the economic crisis, many companies are on the verge of bankruptcy."
       },
       {
-        "jp": "彼女は高校二年生にあっては、一番年上の友達でした。",
-        "romaji": "Kanojo wa koukou ninen-sei ni atte ha, ichiban toshi ue no tomodachi deshita.",
-        "en": "She was the oldest friend in her second year of high school."
+        "jp": "不況下にあっては、どの企業も経費削減を迫られている。",
+        "romaji": "Fukyouka ni atte wa, dono kigyou mo keihi sakugen o semararete iru.",
+        "en": "In times of recession, every company is forced to cut costs."
       },
       {
         "jp": "改革期にあっては、新しいアイデアを大切にする必要がある。",
-        "romaji": "Kaikaku ki ni atte ha, atarashii aidea o taisetsu ni suru hitsuyou ga aru.",
+        "romaji": "Kaikaku ki ni atte wa, atarashii aidea o taisetsu ni suru hitsuyou ga aru.",
         "en": "In a period of reform, it's necessary to value new ideas."
       }
     ]
@@ -1609,7 +1614,7 @@
       {
         "jp": "彼は経験豊富な運転手にして、事故を起こした。",
         "romaji": "Kare wa keiken houfu na untenshu ni shite, jiko wo okoshita.",
-        "en": "Even as a experienced driver, he had an accident."
+        "en": "Even as an experienced driver, he had an accident."
       },
       {
         "jp": "彼は成績優秀な生徒にして、その問題が解けなかった。",
@@ -1626,35 +1631,35 @@
   {
     "title": "Noun にして初めて (Noun nishite hajimete)",
     "short_explanation": "Expresses 'only when/after... for the first time'.",
-    "long_explanation": "The phrase Noun にして初めて is used to express a sense of realization or experience that only came about or was felt after a certain time or event. In English, it could be translated to 'only when/after... for the first time'.",
+    "long_explanation": "The phrase Noun にして初めて is used to express a sense of realization or experience that only came about or was felt after reaching that particular stage or status. In English, it could be translated as 'only when/after... for the first time'.",
     "formation": "Noun + にして初めて",
     "examples": [
       {
         "jp": "大人にして初めて、親の苦労が分かった。",
         "romaji": "Otona ni shite hajimete, oya no kurou ga wakatta.",
-        "en": "Only when I became an adult, I understood my parents' struggles for the first time."
+        "en": "Only when I became an adult did I understand my parents' struggles for the first time."
       },
       {
-        "jp": "日本に行って初めて、日本の文化の素晴らしさを実感した。",
-        "romaji": "Nihon ni itte hajimete, Nihon no bunka no subarashi-sa wo jikkan shita.",
-        "en": "Only when I went to Japan, I truly appreciated the beauty of Japanese culture for the first time."
+        "jp": "彼は40歳にして初めて、海外旅行を経験した。",
+        "romaji": "Kare wa yonjuu-sai ni shite hajimete, kaigai ryokou o keiken shita.",
+        "en": "Only when he turned 40 did he travel abroad for the first time."
       },
       {
-        "jp": "大学を卒業して初めて、学生時代の大切さに気づいた。",
-        "romaji": "Daigaku wo sogyou shite hajimete, gakusei jidai no taisetsu sa ni kizuita.",
-        "en": "Only when I graduated from university, I realized the importance of my student life for the first time."
+        "jp": "彼女は親にして初めて、子育ての大変さを理解した。",
+        "romaji": "Kanojo wa oya ni shite hajimete, kosodate no taihensa o rikai shita.",
+        "en": "It was only after she became a parent that she realized how challenging raising a child can be."
       },
       {
-        "jp": "自分の子供ができて初めて、親になる難しさを感じた。",
-        "romaji": "Jibun no kodomo ga dekite hajimete, oya ni naru muzukashisa wo kanjita.",
-        "en": "Only after having my own child, I felt the difficulty of becoming a parent for the first time."
+        "jp": "社長にして初めて、会社全体の重責を痛感した。",
+        "romaji": "Shachou ni shite hajimete, kaisha zentai no juuseki o tsuukan shita.",
+        "en": "Only when he became president did he feel the full weight of responsibility for the entire company."
       }
     ]
   },
   {
     "title": "Noun にすら (〜ni sura)",
     "short_explanation": "Expresses the concept of 'even'; 'even in', 'even as', 'even to'.",
-    "long_explanation": "The 〜にすら grammar point is used to show surprise that an action or situation applies even to the noun in question. It can be translated into English as 'even in', 'even as', or 'even to'. It's usually used with negative sentences, emphasizing that 'even' in this particular case something can't or doesn't happen.",
+    "long_explanation": "The 〜にすら grammar point is used to show surprise that an action or situation applies even to the noun in question. It can be translated into English as 'even in', 'even as', or 'even to'. It's often used with negative or unexpected statements, emphasizing that 'even' in this particular case something can't or doesn't happen.",
     "formation": "Noun + にすら",
     "examples": [
       {
@@ -1681,8 +1686,8 @@
   },
   {
     "title": "Noun にとどまらず～も (~ ni todomarazu ~ mo)",
-    "short_explanation": "This expresses the idea of 'not only...but also', 'not stopping at...'",
-    "long_explanation": "This grammar point is used to express that something is not limited to just one thing (the thing before にとどまらず), but also includes other things (the thing after も). It can be translated as 'not only... but also...' or 'not stopping at...'",
+    "short_explanation": "This expresses the idea of 'not only...but also', 'not stopping at...'.",
+    "long_explanation": "This grammar point is used to express that something is not limited to just one thing (the thing before にとどまらず), but also includes other things (the thing after も). It can be translated as 'not only... but also...' or 'not stopping at...'.",
     "formation": "Noun + にとどまらず + Noun + も",
     "examples": [
       {
@@ -1692,12 +1697,12 @@
       },
       {
         "jp": "彼は、音楽にとどまらず、映画製作にも興味がある。",
-        "romaji": "Kare wa, ongaku ni todomarazu, eiga seisaku ni mo kyōmi ga aru.",
+        "romaji": "Kare wa, ongaku ni todomarazu, eiga seisaku ni mo kyoumi ga aru.",
         "en": "He is not only interested in music, but also in filmmaking."
       },
       {
-        "jp": "彼の影響は、家族にとどまらず、地域全体に及んでいます。",
-        "romaji": "Kare no eikyou wa, kazoku ni todomarazu, chiiki zentai ni oyobu.",
+        "jp": "彼の影響は、家族にとどまらず、地域全体にも及んでいます。",
+        "romaji": "Kare no eikyou wa, kazoku ni todomarazu, chiiki zentai ni mo oyonde imasu.",
         "en": "His influence extends not only to his family but also to the entire region."
       },
       {
@@ -1730,11 +1735,12 @@
       },
       {
         "jp": "昔にひきかえ、現代はテクノロジーが進歩した。",
-        "romaji": "Mukashi ni hikikae, gendai wa tekunorojii ga shintosita.",
+        "romaji": "Mukashi ni hikikae, gendai wa tekunorojii ga shinpo shita.",
         "en": "As opposed to the old days, modern times have advanced technology."
       }
     ]
   },
+
   {
     "title": "Noun にもまして (〜ni mo mashite)",
     "short_explanation": "This expresses 'Even more than; exceeding'.",
@@ -1748,7 +1754,7 @@
       },
       {
         "jp": "彼女は年齢にもまして、経験豊富です。",
-        "romaji": "Kanojo wa nenrei ni mo mashite, keikenhoufu desu.",
+        "romaji": "Kanojo wa nenrei ni mo mashite, keiken houfu desu.",
         "en": "She has even more experience than her age would suggest."
       },
       {
@@ -1799,22 +1805,22 @@
     "examples": [
       {
         "jp": "この映画は日本に先駆けて、アメリカで公開されました。",
-        "romaji": "Kono eiga wa Nippon ni saki gakete, Amerika de koukai saremashita.",
+        "romaji": "Kono eiga wa Nippon ni sakigakete, Amerika de koukai saremashita.",
         "en": "This film was released in America ahead of Japan."
       },
       {
         "jp": "彼は周りの人々に先駆けて、その発表を聞いた。",
-        "romaji": "Kare wa mawari no hitobito ni saki gakete, sono happyou o kiita.",
+        "romaji": "Kare wa mawari no hitobito ni sakigakete, sono happyou o kiita.",
         "en": "He heard the announcement before the people around him."
       },
       {
         "jp": "ジョンソンさんは他の参加者に先駆けて、会場に到着しました。",
-        "romaji": "Jonson-san wa hoka no sankasha ni saki gakete, kaijou ni touchaku shimashita.",
+        "romaji": "Jonson-san wa hoka no sankasha ni sakigakete, kaijou ni touchaku shimashita.",
         "en": "Mr. Johnson arrived at the venue ahead of the other participants."
       },
       {
         "jp": "彼女は同級生に先駆けて卒業することができました。",
-        "romaji": "Kanojo wa doukyuusei ni saki gakete sotsugyou suru koto ga dekimashita.",
+        "romaji": "Kanojo wa doukyuusei ni sakigakete sotsugyou suru koto ga dekimashita.",
         "en": "She was able to graduate before her classmates."
       }
     ]
@@ -1827,22 +1833,22 @@
     "examples": [
       {
         "jp": "社会のニーズに即した教育改革が必要だ。",
-        "romaji": "shakai no nīzu ni sokushita kyouiku kaikaku ga hitsuyou da.",
+        "romaji": "Shakai no niizu ni sokushita kyouiku kaikaku ga hitsuyou da.",
         "en": "We need an educational reform that is in accordance with the needs of society."
       },
       {
         "jp": "国際法に即した対応をとるべきだ。",
-        "romaji": "kokusaihou ni sokushita taiou wo toru beki da.",
+        "romaji": "Kokusaihou ni sokushita taiou wo toru beki da.",
         "en": "We should respond in accordance with international law."
       },
       {
         "jp": "チームのポリシーに即した行動を取りましょう。",
-        "romaji": "chīmu no porishī ni sokushita koudou wo torimashou.",
+        "romaji": "Chiimu no porishii ni sokushita koudou wo torimashou.",
         "en": "Let's take action in accordance with the team's policy."
       },
       {
         "jp": "現実に即した計画を立てなければならない。",
-        "romaji": "genjitsu ni sokushita keikaku wo tatenakereba naranai.",
+        "romaji": "Genjitsu ni sokushita keikaku wo tatenakereba naranai.",
         "en": "We must make a plan based on reality."
       }
     ]
@@ -1855,7 +1861,7 @@
     "examples": [
       {
         "jp": "会社のポリシーに即して行動しましょう。",
-        "romaji": "Kaisha no porishi ni soku shite koudo shimashou.",
+        "romaji": "Kaisha no porishii ni soku shite koudou shimashou.",
         "en": "Let's act in accordance with the company's policy."
       },
       {
@@ -1870,7 +1876,7 @@
       },
       {
         "jp": "ルールに即して行動すれば、問題は起きません。",
-        "romaji": "Ruuru ni soku shite koudo sureba, mondai wa okimasen.",
+        "romaji": "Ruuru ni soku shite koudou sureba, mondai wa okimasen.",
         "en": "If we act in accordance with the rules, there will be no problem."
       }
     ]
@@ -1906,7 +1912,7 @@
   {
     "title": "Noun に限ったことではない (〜ni kagitta koto dewa nai)",
     "short_explanation": "Indicates that something is not only limited to; 'not only', 'not just'.",
-    "long_explanation": "This grammar point is used to express that the statement is not only limited to the noun mentioned before it. In English, is can be translated as 'not only', 'not just', or sometimes 'not necessarily'. It underscores that what is being said is also true for other things or situations, not just for the specific noun stated.",
+    "long_explanation": "This grammar point is used to express that the statement is not only limited to the noun mentioned before it. In English, it can be translated as 'not only', 'not just', or sometimes 'not necessarily'. It underscores that what is being said is also true for other things or situations, not just for the specific noun stated.",
     "formation": "Noun + に限ったことではない",
     "examples": [
       {
@@ -1932,7 +1938,7 @@
     ]
   },
   {
-    "title": "Noun に限ったことでもない (~ ni kagitta koto demo nai)",
+    "title": "Noun に限ったことでもない (~ni kagitta koto demo nai)",
     "short_explanation": "'Not limited to'; 'not just', 'not exclusively'.",
     "long_explanation": "The grammar point 'Noun に限ったことでもない' typically expresses that something is not only limited to a specific instance or category. It insinuates that there are also other instances or categories involved. In English, it can be translated as 'not limited to', 'not just', or 'not exclusively'.",
     "formation": "Noun + に限ったことでもない",
@@ -1954,7 +1960,7 @@
       },
       {
         "jp": "この作家の本が売れているのは日本に限ったことでもない。",
-        "romaji": "Kono sakka no hon ga urete iru no wa nippon ni kagitta koto demo nai.",
+        "romaji": "Kono sakka no hon ga urete iru no wa Nippon ni kagitta koto demo nai.",
         "en": "The selling of this author's books is not limited to just Japan."
       }
     ]
@@ -1972,8 +1978,8 @@
       },
       {
         "jp": "寒い冬には温かいお茶に限る。",
-        "romaji": "Samui fuyu ni wa atataka ocha ni kagiru.",
-        "en": "In cold winter, there's nothing better than a warm tea."
+        "romaji": "Samui fuyu ni wa atatakai ocha ni kagiru.",
+        "en": "In cold winter, there's nothing better than warm tea."
       },
       {
         "jp": "疲れたときは、よい睡眠に限る。",
@@ -1987,6 +1993,7 @@
       }
     ]
   },
+
   {
     "title": "Noun ぬいた Noun (A nuita B)",
     "short_explanation": "Expresses the idea of 'taking something out from something else'.",
@@ -2004,7 +2011,7 @@
         "en": "He removed the sugar from the coffee."
       },
       {
-        "jp": "私は料理から塩をぬいました。",
+        "jp": "私は料理から塩をぬいた。",
         "romaji": "Watashi wa ryouri kara shio o nuita.",
         "en": "I removed the salt from the cooking."
       },
@@ -2213,8 +2220,8 @@
   },
   {
     "title": "Noun のごとき Noun (A no gotoki B)",
-    "short_explanation": "Expresses 'like' or 'as if'; something/someone resembles much to something else",
-    "long_explanation": "The のごとき pattern is used to convey the concept of 'just like' or 'as if'. The comparison here is strong, indicating that the thing/person is very similar to or completely same as the thing/person compared to. It is a bit archaic and thus is more often found in writings than in conversation.",
+    "short_explanation": "Expresses 'like' or 'as if'; something/someone resembles something else strongly.",
+    "long_explanation": "The のごとき pattern is used to convey the concept of 'just like' or 'as if'. The comparison here is strong, indicating that the thing/person is very similar to or almost the same as the thing/person compared to. It is a bit archaic and thus is more often found in writings than in everyday conversation.",
     "formation": "Noun1 + のごとき + Noun2",
     "examples": [
       {
@@ -2228,8 +2235,8 @@
         "en": "Her beauty is like a flower."
       },
       {
-        "jp": "彼は魔鬼のごとき行動をした。",
-        "romaji": "Kare wa maki no gotoki koudou o shita.",
+        "jp": "彼は悪魔のごとき行動をした。",
+        "romaji": "Kare wa akuma no gotoki koudou o shita.",
         "en": "He acted like a devil."
       },
       {
@@ -2239,6 +2246,7 @@
       }
     ]
   },
+
   {
     "title": "Noun のことだから (〜no koto dakara)",
     "short_explanation": "Because it is about ~, considering it's ~",
@@ -2270,7 +2278,7 @@
   {
     "title": "Noun の 嫌いがある (Noun no kirai ga aru)",
     "short_explanation": "Have a dislike for a particular Noun",
-    "long_explanation": "The grammar point 'Nounの嫌いがある' is used to express a dislike for a particular thing, action or situation, indicated by the noun. This structure is typically used when a specific dislike or aversion is noticeable or relevant in the context.",
+    "long_explanation": "The grammar point 'Nounの嫌いがある' is used to express a dislike for a particular thing, action or situation, indicated by the noun. This structure is somewhat formal or old-fashioned. In casual speech, people more commonly say 'Noun が嫌い'.",
     "formation": "Noun + の嫌いがある",
     "examples": [
       {
@@ -2297,24 +2305,24 @@
   },
   {
     "title": "Noun の手前 (~no temae)",
-    "short_explanation": "Expresses the idea of 'Before doing action; on the verge of'.",
-    "long_explanation": "This grammar point is used to express the idea of being on the verge of doing something or just before the action takes place. It can be translated to English as 'Before doing ////'. Nouns that are frequently used with this structure often denote some kind of action or event.",
+    "short_explanation": "Expresses the idea of 'Before doing something; on the verge of'.",
+    "long_explanation": "This grammar point is used to express the idea of being on the verge of doing something, or just before some major action/event. Nouns that are frequently used with this structure often denote an action or event (試験の手前, 選挙の手前, etc.).",
     "formation": "Noun + の手前",
     "examples": [
       {
-        "jp": "試験の手前、遊びに行くのは止めた方がいい",
+        "jp": "試験の手前、遊びに行くのはやめた方がいい。",
         "romaji": "Shiken no temae, asobi ni iku no wa yameta hou ga ii.",
-        "en": "Just before the exam, it's better to stop going to play."
+        "en": "Just before the exam, it's better to stop going out to play."
       },
       {
-        "jp": "彼女と別れるの手前、思い直しました。",
-        "romaji": "Kanojo to wakareru no temae, omoinaoshimashita.",
-        "en": "Just before breaking up with her, I had a change of heart."
+        "jp": "彼女と別れる手前、思い直しました。",
+        "romaji": "Kanojo to wakareru temae, omoinaoshimashita.",
+        "en": "Just before breaking up with her, I changed my mind."
       },
       {
         "jp": "締め切りの手前で、やっとレポートが完成しました。",
-        "romaji": "Shimekiri no temae de, yatto repōto ga kansei shimashita.",
-        "en": "Just before the deadline, I finally finished the report."
+        "romaji": "Shimekiri no temae de, yatto repooto ga kansei shimashita.",
+        "en": "I finally finished the report just before the deadline."
       },
       {
         "jp": "選挙の手前、政治の話が多くなります。",
@@ -2326,13 +2334,13 @@
   {
     "title": "Noun の極み (〜no kiwami)",
     "short_explanation": "Used to express the extreme or utmost point of something.",
-    "long_explanation": "The の極み grammar point is used to express the highest level or the extreme of something. It often describes an extreme state or condition. The noun before の極み is usually a noun indicating a situation, state, or condition.",
+    "long_explanation": "The の極み grammar point is used to express the highest level or the extreme of something. It often describes an extreme state or condition. The noun before の極み usually indicates some situation, state, or quality (e.g., 美の極み, 感動の極み).",
     "formation": "Noun + の極み",
     "examples": [
       {
         "jp": "彼の料理の極みは、誰もマネできない。",
         "romaji": "Kare no ryouri no kiwami wa, daremo mane dekinai.",
-        "en": "The pinnacle of his cooking, nobody can imitate."
+        "en": "The pinnacle of his cooking is something nobody can imitate."
       },
       {
         "jp": "彼女の努力の極みが、この成功を作り出した。",
@@ -2353,8 +2361,8 @@
   },
   {
     "title": "Noun の 至り (~no itari)",
-    "short_explanation": "Expresses the highest degree of something, 'the height of', 'the extreme of'.",
-    "long_explanation": "The 'Nounの至り' grammar point is used to express an extreme or the highest level of something, which can be translated as 'the height of' or 'the extreme of'. This phrase usually adds emphasis to a situation or state. Nouns commonly used with this structure include honor, happiness, regret, and shame.",
+    "short_explanation": "Expresses 'the height of', 'the extreme of' something.",
+    "long_explanation": "The 'Nounの至り' grammar point is used to emphasize an extreme or the highest level of something, often an emotional state or an honor. Common nouns include 光栄, 若気, 感激, 恥, etc.",
     "formation": "Noun + の至り",
     "examples": [
       {
@@ -2365,7 +2373,7 @@
       {
         "jp": "父がプロジェクトのリーダーになったのは、光栄の至りです。",
         "romaji": "Chichi ga purojekuto no riidaa ni natta no wa, kouei no itari desu.",
-        "en": "It is the height of honor that my father became the leader of the project."
+        "en": "It is the height of honor that my father became the project leader."
       },
       {
         "jp": "彼女の素晴らしい演技には感動の至りだった。",
@@ -2381,37 +2389,37 @@
   },
   {
     "title": "Noun はいざ知らず (~ wa iza shirazu)",
-    "short_explanation": "Used to express that it's understood why 'A' would be the case but not 'B'. It's like saying 'Well, I can understand it for A, but for B...?'",
-    "long_explanation": "The はいざ知らず grammar point is used when making a comparison between two things: the first being a logical or natural consequence or situation, whilst the second is more surprising or unexpected. It is often translated to English as 'Well, it's understandable for..., but for...' or 'I can see why...but ...?'",
-    "formation": "Noun + はいざ知らず, Noun + だけど/しかし/とは言え",
+    "short_explanation": "‘I can understand it for ~, but for …? (surprising)’",
+    "long_explanation": "The はいざ知らず grammar point is used when contrasting two scenarios: the first being understandable, and the second being unexpected or surprising by comparison. It often translates as “Well, for A, I can understand, but for B…?!”",
+    "formation": "Noun + はいざ知らず, Noun + とは/なんて/しかし etc.",
     "examples": [
       {
         "jp": "彼が遅れるのはいざ知らず、彼女まで遅刻するとは意外だ。",
-        "romaji": "Kare ga okureru no wa iza shirazu, kanojo made chikoku suru towa igai da.",
+        "romaji": "Kare ga okureru no wa iza shirazu, kanojo made chikoku suru to wa igai da.",
         "en": "Well, I can understand him being late, but even her...? That's surprising."
       },
       {
         "jp": "夏はいざ知らず、冬にアイスクリームを食べるのは寒すぎませんか？",
-        "romaji": "Natsu wa iza shirazu, fuyu ni aisukurimu wo taberu no wa samusugimasen ka?",
-        "en": "Well, I can understand eating ice cream in the summer, but in the winter...isn't it too cold?"
+        "romaji": "Natsu wa iza shirazu, fuyu ni aisukuriimu o taberu no wa samusugimasen ka?",
+        "en": "I can see eating ice cream in summer, but in winter…isn't it too cold?"
       },
       {
         "jp": "子供がテレビゲームに夢中になるのはいざ知らず、大人までそんなに夢中になるとは思わなかった。",
-        "romaji": "Kodomo ga terebi geemu ni muchuu ni naru no wa iza shirazu, otona made sonnani muchuu ni naru towa omowanakatta.",
+        "romaji": "Kodomo ga terebi geemu ni muchuu ni naru no wa iza shirazu, otona made sonnani muchuu ni naru to wa omowanakatta.",
         "en": "I can see why kids get hooked on video games, but I didn't think even adults would get that absorbed."
       },
       {
         "jp": "苦しい時はいざ知らず、平時でもそんなに努力するなんてすばらしい。",
         "romaji": "Kurushii toki wa iza shirazu, heiji demo sonnani doryoku suru nante subarashii.",
-        "en": "Well, I can understand making such an effort in times of hardship, but to do so even in normal times is impressive."
+        "en": "Well, I can understand working hard in tough times, but to do so even in normal times is impressive."
       }
     ]
   },
   {
-    "title": "Noun は おろか～すら (Noun wa oroka ～sura)",
-    "short_explanation": "Expresses the meaning of 'not to mention ~, even ~'.",
-    "long_explanation": "The grammar point Noun はおろか～すら is used to emphasize that a particular statement applies not only to the first noun mentioned, but even more so to the noun after すら in the sentence. It can be translated as 'not to mention/let alone ~, even ~' in English.",
-    "formation": "Noun1 はおろか, Noun2 すら/さえ",
+    "title": "Noun はおろか～すら (Noun wa oroka ～sura)",
+    "short_explanation": "Expresses 'not to mention ~, even ~'.",
+    "long_explanation": "The grammar point Noun はおろか～すら is used to emphasize that a particular statement applies not only to the first noun mentioned, but even more so to what comes after すら or さえ. It can be translated as ‘let alone ~, even ~’.",
+    "formation": "Noun1 はおろか, Noun2 すら/さえ ～",
     "examples": [
       {
         "jp": "彼は走るはおろか、速く歩くことすらできない。",
@@ -2421,7 +2429,7 @@
       {
         "jp": "日本語はおろか、英語さえ話しません。",
         "romaji": "Nihongo wa oroka, eigo sae hanashimasen.",
-        "en": "I don't even speak English, let alone Japanese."
+        "en": "He doesn't even speak English, let alone Japanese."
       },
       {
         "jp": "彼は食事はおろか、一日中何も飲まなかった。",
@@ -2431,14 +2439,14 @@
       {
         "jp": "このレストランは味はおろか、サービスさえ悪い。",
         "romaji": "Kono resutoran wa aji wa oroka, saabisu sae warui.",
-        "en": "This restaurant has bad service, let alone taste."
+        "en": "Never mind the taste; even the service is bad."
       }
     ]
   },
   {
     "title": "Noun はおろか～まで (~wa oroka ~made)",
-    "short_explanation": "Even; not to mention; let alone",
-    "long_explanation": "The phrase 'Noun はおろか' emphasizes something beyond expectation. It's used to indicate that something is so obvious that mentioning it would be unnecessary, and taking it a step further. The grammar pattern can be translated as 'even', 'not to mention', or 'let alone'. The '～まで' portion extends the idea even further.",
+    "short_explanation": "Means 'not just A, but even B'; 'let alone A, even B'.",
+    "long_explanation": "The phrase 'Noun はおろか' emphasizes something beyond the obvious. It can be translated as 'not only ..., but even ...'. The '～まで' part extends that idea further to show an unexpected or more advanced case.",
     "formation": "Noun1 + はおろか + Noun2 + まで",
     "examples": [
       {
@@ -2449,12 +2457,12 @@
       {
         "jp": "彼女は数学はおろか、物理まで得意なんです。",
         "romaji": "Kanojo wa suugaku wa oroka, butsuri made tokui nan desu.",
-        "en": "She is not just good at math, but even physics."
+        "en": "She is not just good at math, but even at physics."
       },
       {
         "jp": "この料理は見た目はおろか、味まで最高だ。",
         "romaji": "Kono ryouri wa mitame wa oroka, aji made saikou da.",
-        "en": "This dish is not just visually appealing, but also tastes fantastic."
+        "en": "This dish is not only visually appealing, but it even tastes fantastic."
       },
       {
         "jp": "彼は歌はおろか、ダンスまで上手だ。",
@@ -2463,31 +2471,32 @@
       }
     ]
   },
+
   {
     "title": "Noun はおろか～も (Noun wa oroka ～ mo)",
     "short_explanation": "'Not only...but also', 'not to mention', 'to say nothing of'",
-    "long_explanation": "The 'Noun はおろか～も' grammar point is used to list several items with the purpose of emphasizing the last point. It can be used with nouns, verbs, and adjectives in their non-past plain form. It's a way of saying 'not only... but also' or 'not to mention' in English.",
+    "long_explanation": "The 'Noun はおろか～も' grammar point is used to list items with an emphasis on how far the situation extends. It often appears in negative contexts to show that something supposedly more advanced (first part) is out of the question, and even something simpler (second part) is also not possible. It can be translated as 'Needless to say X, (he/she) can't even do Y.'",
     "formation": "Noun + はおろか + Noun + も",
     "examples": [
       {
         "jp": "絵を描くことはおろか、字さえ書けない。",
         "romaji": "E wo kaku koto wa oroka, ji sae kakenai.",
-        "en": "He can't even write, let alone draw."
+        "en": "Needless to say drawing pictures, he can’t even write letters."
       },
       {
         "jp": "彼は英語はおろか、日本語もわからない。",
         "romaji": "Kare wa eigo wa oroka, nihongo mo wakaranai.",
-        "en": "He doesn't understand Japanese, let alone English."
+        "en": "Needless to say English, he doesn’t even understand Japanese."
       },
       {
         "jp": "彼女は数学はおろか、算数も得意ではない。",
         "romaji": "Kanojo wa suugaku wa oroka, sansuu mo tokui dewa nai.",
-        "en": "She is not good at arithmetic, let alone mathematics."
+        "en": "Needless to say mathematics, she isn’t even good at arithmetic."
       },
       {
         "jp": "彼は走ることはおろか、歩くことも難しい。",
         "romaji": "Kare wa hashiru koto wa oroka, aruku koto mo muzukashii.",
-        "en": "He has trouble walking, let alone running."
+        "en": "Needless to say running, he finds even walking difficult."
       }
     ]
   },
@@ -2521,8 +2530,8 @@
   },
   {
     "title": "Noun + はどうであれ (~ wa dou de are)",
-    "short_explanation": "This phrase means 'regardless of' or 'no matter how…'. It is used to express the idea that 'whatever the state or condition of the noun, we should not care'.",
-    "long_explanation": "It is used to convey indifference or a lack of concern about the state or condition of a certain thing or matter. You can think of it as 'no matter what' or 'regardless of' in English. The phrase shows the speaker’s strong intention to do something or an assertion of circumstance that doesn’t change regardless of the noun’s state or condition.",
+    "short_explanation": "This phrase means 'regardless of' or 'no matter how…'.",
+    "long_explanation": "It is used to convey indifference about the state or condition of a certain thing or matter. You can think of it as 'no matter what' or 'regardless of' in English. The phrase shows the speaker’s strong intention to do something or an assertion that doesn’t change regardless of the noun’s state or condition.",
     "formation": "Noun + はどうであれ",
     "examples": [
       {
@@ -2549,7 +2558,7 @@
   },
   {
     "title": "Noun まみれ (~mamire)",
-    "short_explanation": "Used to express a state in which something is entirely covered, smeared, or filled with something else.",
+    "short_explanation": "Expresses a state in which something is entirely covered or filled with something else.",
     "long_explanation": "The まみれ grammar point is used to express a state where someone or something is completely covered, smeared, or filled with another thing. The noun before まみれ indicates what the person or thing is covered in. This grammar point often has a negative connotation.",
     "formation": "Noun + まみれ",
     "examples": [
@@ -2577,8 +2586,8 @@
   },
   {
     "title": "Noun もさることながら Noun も (A mo saru koto nagara B mo)",
-    "short_explanation": "Meaning 'not only... but also'. Expresses that both Nouns are true or notable, but the second is particularly emphasized.",
-    "long_explanation": "The grammar point 'Noun もさることながら Noun も' is used to express that both Nouns are true, important or relevant. It can be translated as 'not only... but also' in English. However, among the two nouns, the one coming after 'もさることながら' is emphasized more in comparison to the one before it.",
+    "short_explanation": "Means 'not only... but also'; the second noun is especially emphasized.",
+    "long_explanation": "The grammar point 'Noun もさることながら Noun も' is used to express that both Nouns are true, important, or relevant. It can be translated as 'not only... but also' in English. However, among the two nouns, the one coming after もさることながら is more emphasized in comparison to the one before it.",
     "formation": "Noun1 + もさることながら + Noun2 + も",
     "examples": [
       {
@@ -2604,8 +2613,8 @@
     ]
   },
   {
-    "title": "Noun も兼ねて (~mo kane te)",
-    "short_explanation": "Used to express 'as well as', 'also', 'at the same time'.",
+    "title": "Noun も兼ねて (~mo kanete)",
+    "short_explanation": "Used to express 'as well as', 'also', or 'at the same time'.",
     "long_explanation": "The も兼ねて grammar point indicates that two actions or purposes are being served simultaneously. The noun before も兼ねて tells what the additional action or purpose is.",
     "formation": "Noun + も兼ねて",
     "examples": [
@@ -2633,8 +2642,8 @@
   },
   {
     "title": "Noun も相まって (~mo aimatte)",
-    "short_explanation": "Used to express that combined with something else, it caused a certain outcome",
-    "long_explanation": "The grammar point noun も相まって is used to express the meaning that, combined with something else, it caused a certain result. Literally, it translates to 'also contributes to'. It is generally used with nouns and points out that there are multiple contributing factors.",
+    "short_explanation": "Used to express that combined with something else, it caused a certain outcome.",
+    "long_explanation": "The grammar point Noun も相まって is used to express the meaning that, combined with something else, it caused a certain result. Literally, it translates to 'also contributes to'. It is generally used with nouns and points out that there are multiple contributing factors.",
     "formation": "Noun + も相まって",
     "examples": [
       {
@@ -2661,8 +2670,8 @@
   },
   {
     "title": "Noun を おいて他に Verb ない (〜wo oite hoka ni〜nai)",
-    "short_explanation": "This grammar point means 'apart from ~ there's nothing else', implying the Noun is the best or most suitable choice.",
-    "long_explanation": "The structure Nounをおいて他に〜ない is used to express the idea that there is no substitute for the Noun, no other choice, or that the Noun is the best or the only one to choose among various options. This form is often used in praising or making good comments about someone or something.",
+    "short_explanation": "Means 'apart from ~ there's nothing else,' implying the Noun is the best or most suitable choice.",
+    "long_explanation": "The structure Nounをおいて他に〜ない is used to express that there is no substitute for the Noun, no other choice, or that the Noun is the best or the only one to choose among various options. This form is often used in praising or making strong positive comments about someone or something.",
     "formation": "Noun + をおいて他に + Verb negative form",
     "examples": [
       {
@@ -2706,19 +2715,20 @@
       {
         "jp": "彼は強い決意をもって問題に取り組んだ。",
         "romaji": "Kare wa tsuyoi ketsui wo motte mondai ni torikunda.",
-        "en": "He tackled the problem with a strong determination."
+        "en": "He tackled the problem with strong determination."
       },
       {
         "jp": "3月をもって、この店は閉店します。",
         "romaji": "Sangatsu wo motte, kono mise wa heiten shimasu.",
-        "en": "This store will close at March."
+        "en": "This store will close at the end of March."
       }
     ]
   },
+
   {
     "title": "Noun をものともせずに (Noun wo mono tomo sezu ni)",
-    "short_explanation": "Expresses the idea that 'despite something, action was carried out', simply translating to 'without being phased by something'.",
-    "long_explanation": "The 'Nounをものともせずに' grammar point means that something which could potentially be a hindrance or challenge was not taken into account or cared for, in carrying out an action. The literal translation could be ‘not making something an object’, hence meaning actions were performed without any phasing or distractions by it.",
+    "short_explanation": "Expresses the idea that 'despite something, action was carried out', translating to 'without being fazed by something'.",
+    "long_explanation": "The 'Nounをものともせずに' grammar point indicates that something which could potentially be a hindrance or challenge was not taken into account when carrying out an action. The literal idea is ‘not making something an obstacle’, meaning actions were performed without being fazed or distracted by it.",
     "formation": "Noun + をものともせずに",
     "examples": [
       {
@@ -2734,19 +2744,19 @@
       {
         "jp": "彼は風雪をものともせずに山を登った。",
         "romaji": "Kare wa fuusetsu wo mono tomo sezu ni, yama wo nobotta.",
-        "en": "He climbed the mountain unphased by the wind and snow."
+        "en": "He climbed the mountain unfazed by the wind and snow."
       },
       {
         "jp": "彼は失敗をものともせずに、前に進み続けた。",
         "romaji": "Kare wa shippai wo mono tomo sezu ni, mae ni susumi tsuzuketa.",
-        "en": "He continued to move forward, unabated by failure."
+        "en": "He continued to move forward, undeterred by failure."
       }
     ]
   },
   {
     "title": "Noun をよそに (~wo yoso ni)",
     "short_explanation": "Despite; Notwithstanding; Regardless of",
-    "long_explanation": "The Japanese phrase 'Nounをよそに' is a grammar point used to express a situation where despite some circumstance (represented by the noun), a certain action takes place. It can be used to express a feeling of disregard or non-affection. It's equivalent to 'despite', 'notwithstanding', or 'regardless of' in English.",
+    "long_explanation": "The Japanese phrase 'Nounをよそに' is used to express a situation where, despite some circumstance (represented by the noun), a certain action takes place. It can convey a feeling of disregard or nonchalance. In English, it can be translated as 'despite', 'notwithstanding', or 'regardless of'.",
     "formation": "Noun + をよそに",
     "examples": [
       {
@@ -2767,14 +2777,14 @@
       {
         "jp": "その国の経済状況をよそに、多くの企業が進出し続けている。",
         "romaji": "Sono kuni no keizai joukyou wo yoso ni, ooku no kigyou ga shinshutsu shi tsuzukete iru.",
-        "en": "Despite the country's economic condition, many companies continue to advance."
+        "en": "Despite the country's economic situation, many companies continue to expand."
       }
     ]
   },
   {
     "title": "Noun を余儀なくされる (Noun wo yogi naku sareru)",
     "short_explanation": "Expresses the idea of being forced into a certain situation, 'to be compelled', 'to be obliged'.",
-    "long_explanation": "The grammar pattern 'Noun を余儀なくされる' is used to describe circumstances where a person or party is compelled or obliged to do something, they would have otherwise preferred not to do due to necessity or unavoidable circumstances. This can be translated as 'to be forced to', 'to be compelled to', or 'to have no choice but to' in English. This form is often used in formal or written Japanese.",
+    "long_explanation": "The grammar pattern 'Noun を余儀なくされる' is used to describe circumstances where a person or party is compelled or obliged to do something due to necessity or unavoidable circumstances. It translates as 'to be forced to', 'to be compelled to', or 'to have no choice but to'. This form is often used in formal or written Japanese.",
     "formation": "Noun + を + 余儀なくされる",
     "examples": [
       {
@@ -2788,9 +2798,9 @@
         "en": "We were forced to cancel the excursion due to the severe weather."
       },
       {
-        "jp": "怪我のため、彼は退院を余儀なくされた。",
-        "romaji": "Kega no tame, kare wa taiin wo yogi naku sareta.",
-        "en": "He was forced to be discharged from the hospital because of his injury."
+        "jp": "怪我のため、彼は入院を余儀なくされた。",
+        "romaji": "Kega no tame, kare wa nyuuin wo yogi naku sareta.",
+        "en": "Due to his injury, he was forced to be hospitalized."
       },
       {
         "jp": "リストラの恐怖により、多くの従業員が転職を余儀なくされた。",
@@ -2801,8 +2811,8 @@
   },
   {
     "title": "Noun を前提として (Noun wo zentei toshite)",
-    "short_explanation": "Use to express 'on the assumption of', 'based on'.",
-    "long_explanation": "The grammar point 'Noun を前提として' is used to express the concept of something being based on or assuming something else, that is to say, it is used when something is preconceived or preassumed.",
+    "short_explanation": "Used to express 'on the assumption of', 'based on'.",
+    "long_explanation": "The grammar point 'Noun を前提として' is used to convey that something is done based on or assuming something else. It indicates a preconceived condition or assumption on which the following action or plan relies.",
     "formation": "Noun + を前提として",
     "examples": [
       {
@@ -2818,7 +2828,7 @@
       {
         "jp": "両親の理解を前提として、旅行計画を進めます。",
         "romaji": "Ryoushin no rikai wo zentei toshite, ryokou keikaku wo susumemasu.",
-        "en": "I proceed with the travel plan based on the understanding of my parents."
+        "en": "I will proceed with the travel plan based on my parents’ understanding."
       },
       {
         "jp": "このプロジェクトは、資金が揃うことを前提としています。",
@@ -2830,7 +2840,7 @@
   {
     "title": "Noun を前提にして (Noun wo zentei ni shite)",
     "short_explanation": "Assuming; presupposing; on the assumption of.",
-    "long_explanation": "The grammar point 'Nounを前提にして' is used to express that something is done assuming or presupposing something. In English, it can be translated as 'assuming', 'presupposing', or 'on the assumption of'. The pattern takes a noun directly.",
+    "long_explanation": "The grammar point 'Noun を前提にして' is used to show that something is done assuming or presupposing the noun that comes before it. In English, it can be translated as 'on the assumption of', 'assuming', or 'presupposing'.",
     "formation": "Noun + を前提にして",
     "examples": [
       {
@@ -2841,7 +2851,7 @@
       {
         "jp": "彼女の合格を前提にして、祝いのパーティーの準備を始めました。",
         "romaji": "Kanojo no goukaku wo zentei ni shite, iwai no paatii no junbi wo hajimemashita.",
-        "en": "We started preparing for the celebration party assuming her passing the exam."
+        "en": "We started preparing for the celebration party assuming she would pass the exam."
       },
       {
         "jp": "経済成長を前提にして、予算案が作られた。",
@@ -2857,8 +2867,8 @@
   },
   {
     "title": "Noun を境にして (Noun wo sakai ni shite)",
-    "short_explanation": "Means 'as a turning point of'; 'since (time)'; 'from (time) on'",
-    "long_explanation": "The grammar point 'を境にして' is used to express a significant change or turning point which is marked by a specific event or time. This event or time serves as a boundary or a dividing point, after which the situation or the state changes completely.",
+    "short_explanation": "Means 'as a turning point', 'since (time)', or 'from (time) on'.",
+    "long_explanation": "The grammar point 'Noun を境にして' is used to indicate a significant change or turning point marked by a specific event or time. It means that after this boundary, some situation changes or a new state begins.",
     "formation": "Noun + を境に(して)",
     "examples": [
       {
@@ -2869,12 +2879,12 @@
       {
         "jp": "試験を境にして、休暇を取る予定です。",
         "romaji": "Shiken wo sakai ni shite, kyuka wo toru yotei desu.",
-        "en": "I plan to take a vacation from the time of the exam."
+        "en": "I plan to take a vacation after the exam."
       },
       {
         "jp": "春を境にして、新しい生活を始めるつもりだ。",
         "romaji": "Haru wo sakai ni shite, atarashii seikatsu o hajimeru tsumori da.",
-        "en": "I intend to start a new life from spring."
+        "en": "I intend to start a new life from spring onwards."
       },
       {
         "jp": "彼女は入学を境にして、ファッションに興味を持ち始めた。",
@@ -2885,13 +2895,13 @@
   },
   {
     "title": "Noun を機にして (~wo ki ni shite)",
-    "short_explanation": "To take the opportunity to, taking the occasion to, on the occasion of.",
-    "long_explanation": "The grammar point Noun を機にして (wo ki ni shite) is used to express the idea of taking a certain event or situation as an opportunity to do something else. It is often used in contexts where a change of situation or environment leads to a different action or state. In other words, it means 'taking the occasion of', 'on the occasion of' or 'to take the opportunity to'",
+    "short_explanation": "To take the opportunity to; taking the occasion to; on the occasion of.",
+    "long_explanation": "The grammar pattern 'Noun を機にして' expresses the idea of using a certain event or situation as an opportunity to do something else. It is often used when some change or new step is taken as a result of a specific event.",
     "formation": "Noun + を機にして",
     "examples": [
       {
         "jp": "引っ越しを機にして、家具を新しくしました。",
-        "romaji": "Hikkoshi wo ki ni shite, kagu wo atarashiku shimashita",
+        "romaji": "Hikkoshi wo ki ni shite, kagu wo atarashiku shimashita.",
         "en": "I took the opportunity of moving to get new furniture."
       },
       {
@@ -2911,30 +2921,31 @@
       }
     ]
   },
+
   {
-    "title": "Noun を皮切りに / を皮切りにして (Noun wo kakikiri ni / wo kawakiri ni shite)",
+    "title": "Noun を皮切りに / を皮切りにして (Noun wo kawakiri ni / wo kawakiri ni shite)",
     "short_explanation": "Used to indicate the starting point of some series of events or actions; 'starting with', 'beginning with'.",
     "long_explanation": "The grammar point 'Noun を皮切りに / を皮切りにして' is used to convey the idea of something beginning or starting with a certain event or action. This pattern is often used when the speaker wants to highlight the starting point of a series or string of events.",
     "formation": "Noun + を皮切りに / を皮切りにして",
     "examples": [
       {
         "jp": "彼はその論文を皮切りにして複数の研究を開始した。",
-        "romaji": "Kare wa sono ronbun wo kakikiri ni shite fukusu no kenkyu wo kaishi shita.",
+        "romaji": "Kare wa sono ronbun o kawakiri ni shite fukusū no kenkyū o kaishi shita.",
         "en": "Starting with that thesis, he started multiple research projects."
       },
       {
         "jp": "彼女はこのコンペティションを皮切りにして彼女のダンスキャリアが飛躍的に成長した。",
-        "romaji": "Kanojo wa kono konpetishon wo kawakiri ni shite kanojo no dansu kyaria ga hiyakuteki ni seichou shita.",
+        "romaji": "Kanojo wa kono konpetishon o kawakiri ni shite kanojo no dansu kyaria ga hiyakuteki ni seichō shita.",
         "en": "Starting with this competition, her dance career drastically grew."
       },
       {
         "jp": "この映画を皮切りに、彼は人気俳優としての立場を確立した。",
-        "romaji": "Kono eiga wo kawakiri ni, kare wa ninku haiyu to shite no tachiba wo kakuritsu shita.",
+        "romaji": "Kono eiga o kawakiri ni, kare wa ninki haiyū to shite no tachiba o kakuritsu shita.",
         "en": "Starting with this movie, he established his position as a popular actor."
       },
       {
         "jp": "このプロジェクトを皮切りにして、会社は新たな方向性を示し始めた。",
-        "romaji": "Kono purojekuto wo kawakiri ni shite, kaisha wa arata na houkousei wo shimeshi hajimeta.",
+        "romaji": "Kono purojekuto o kawakiri ni shite, kaisha wa arata na hōkōsei o shimeshi hajimeta.",
         "en": "Starting with this project, the company began to show a new direction."
       }
     ]
@@ -2942,27 +2953,27 @@
   {
     "title": "Noun を皮切りにして (Noun wo kawakiri ni shite)",
     "short_explanation": "Used to express 'Starting with', 'Beginning with'",
-    "long_explanation": "'Noun を皮切りにして' is a Japanese grammatical form used when one wants to express that something begins with a certain event or action, and then continues on in a sequence. It is the same as saying 'starting with...' or 'beginning with...' in English.",
+    "long_explanation": "'Noun を皮切りにして' is a Japanese grammatical form used when one wants to express that something begins with a certain event or action, then continues on in a sequence. It is the same as saying 'starting with...' or 'beginning with...' in English.",
     "formation": "Noun + を皮切りに (して)",
     "examples": [
       {
         "jp": "彼はその日を皮切りにして毎日ジムに通い始めました。",
-        "romaji": "Kare wa sono hi wo kawakiri ni shite mainichi gym ni kayoi hajimemashita.",
+        "romaji": "Kare wa sono hi o kawakiri ni shite mainichi jimu ni kayoi hajimemashita.",
         "en": "Starting from that day, he began to go to the gym every day."
       },
       {
         "jp": "新年会を皮切りにして、今年はたくさんのイベントが開催されます。",
-        "romaji": "Shinnenkai wo kawakiri ni shite, kotoshi wa takusan no ibento ga kaisai saremasu.",
+        "romaji": "Shinnenkai o kawakiri ni shite, kotoshi wa takusan no ibento ga kaisai saremasu.",
         "en": "Starting with the New Year's party, a lot of events will be held this year."
       },
       {
         "jp": "この映画を皮切りにして彼の人気は急上昇しました。",
-        "romaji": "Kono eiga wo kawakiri ni shite kare no ninki wa kyuujoushou shimashita.",
+        "romaji": "Kono eiga o kawakiri ni shite kare no ninki wa kyūjōshō shimashita.",
         "en": "Beginning with this movie, his popularity skyrocketed."
       },
       {
         "jp": "東京を皮切りにして、彼の展示会は全国で開かれる予定です。",
-        "romaji": "Toukyou wo kawakiri ni shite, kare no tenjikai wa zenkoku de hirakareru yotei desu.",
+        "romaji": "Tōkyō o kawakiri ni shite, kare no tenjikai wa zenkoku de hirakareru yotei desu.",
         "en": "Starting in Tokyo, his exhibitions are set to be held nationwide."
       }
     ]
@@ -2970,22 +2981,22 @@
   {
     "title": "Noun を禁じ得ない (〜wo kinjienai)",
     "short_explanation": "'Cannot help but do', or 'inevitable'",
-    "long_explanation": "The 〜を禁じ得ない (wo kinjienai) grammar point is used to express a situation or emotion that is so strong, it can't be helped or is inevitable. It is used with nouns to express an uncontrollable feeling or action.",
+    "long_explanation": "The 〜を禁じ得ない (wo kinjienai) grammar point is used to express a situation or emotion that is so strong it can't be helped or is inevitable. It is used with nouns to express an uncontrollable feeling or action.",
     "formation": "Noun + を禁じ得ない",
     "examples": [
       {
         "jp": "この結果には驚きを禁じ得ない。",
-        "romaji": "Kono kekka ni wa odoroki wo kinjienai.",
+        "romaji": "Kono kekka ni wa odoroki o kinjienai.",
         "en": "I can't help but be surprised at this result."
       },
       {
-        "jp": "そのニュースを聞いて、彼の成功を祝福せざるを禁じ得ない。",
-        "romaji": "Sono nyuusu wo kiite, kare no seikou o shukufuku sezaru o kinjienai.",
-        "en": "Hearing that news, I can't help but congratulate his success."
+        "jp": "そのニュースを聞いて、彼の成功を祝福する気持ちを禁じ得ない。",
+        "romaji": "Sono nyūsu o kiite, kare no seikō o shukufuku suru kimochi o kinjienai.",
+        "en": "Hearing that news, I can't help but feel the urge to celebrate his success."
       },
       {
         "jp": "彼女の美しさには感動を禁じ得ない。",
-        "romaji": "Kanojo no utsukushisa ni wa kandou wo kinjienai.",
+        "romaji": "Kanojo no utsukushisa ni wa kandō o kinjienai.",
         "en": "I can't help but be moved by her beauty."
       },
       {
@@ -2998,27 +3009,27 @@
   {
     "title": "Noun を経て (〜wo hete)",
     "short_explanation": "Expresses the idea of 'through' or 'via'; going through some process or phase.",
-    "long_explanation": "The を経て grammar point is used to express the concept of going through some process, phase, place, or period of time as a means of achieving something or reaching some end point. It can be literally translated as 'through' or 'via' in English. It can be used both literally and metaphorically.",
+    "long_explanation": "The を経て grammar point is used to express the concept of going through some process, phase, place, or period of time as a means of achieving something or reaching some end point. It can be literally translated as 'through' or 'via' in English, and can be used both literally and metaphorically.",
     "formation": "Noun + を経て",
     "examples": [
       {
         "jp": "彼は苦労を経て成功を手に入れた。",
-        "romaji": "Kare wa kurou wo hete seikou wo te ni ireta.",
+        "romaji": "Kare wa kurō o hete seikō o te ni ireta.",
         "en": "He achieved success through hardships."
       },
       {
         "jp": "彼女はニューヨークを経て日本に帰国した。",
-        "romaji": "Kanojo wa nyu-yoku wo hete nihon ni kikoku shita.",
+        "romaji": "Kanojo wa Nyūyōku o hete Nihon ni kikoku shita.",
         "en": "She returned to Japan via New York."
       },
       {
         "jp": "私達は長い議論を経て決定を下した。",
-        "romaji": "Watashitachi wa nagai giron wo hete kettei wo kudashita.",
+        "romaji": "Watashitachi wa nagai giron o hete kettei o kudashita.",
         "en": "We made a decision through a long discussion."
       },
       {
         "jp": "多くの修練を経て、彼は達人のレベルになった。",
-        "romaji": "Ooku no shuren wo hete, kare wa tatsujin no reberu ni natta.",
+        "romaji": "Ōku no shuren o hete, kare wa tatsujin no reberu ni natta.",
         "en": "Through a lot of training, he reached a master's level."
       }
     ]
@@ -3026,152 +3037,160 @@
   {
     "title": "Noun を踏まえて (〜wo fumaete)",
     "short_explanation": "Based on; taking into account; in light of",
-    "long_explanation": "The verb 踏まえる (fumaeru) means 'to be based on' or 'to take into consideration'. When ～を踏まえて is connected with a noun it implies that actions or decisions are made based on the consideration or assumption of the noun. It can also express the idea of looking at a situation from the standpoint of the noun before proceeding to the following action.",
+    "long_explanation": "The verb 踏まえる (fumaeru) means 'to be based on' or 'to take into consideration'. When ～を踏まえて is connected with a noun, it implies that actions or decisions are made based on or taking into account the noun. It also expresses looking at a situation from the standpoint of the noun before proceeding to the following action.",
     "formation": "Noun + を踏まえて",
     "examples": [
       {
         "jp": "過去の結果を踏まえて、新たな計画を立てました。",
-        "romaji": "Kako no kekka wo fumaete, aratana keikaku wo tatemashita.",
-        "en": "Based on the previous results, we have made a new plan."
+        "romaji": "Kako no kekka o fumaete, aratana keikaku o tatemashita.",
+        "en": "Based on previous results, we have made a new plan."
       },
       {
         "jp": "現地の文化を踏まえて、プレゼンテーションを準備します。",
-        "romaji": "Genchi no bunka wo fumaete, purezentēshon wo junbi shimasu.",
+        "romaji": "Genchi no bunka o fumaete, purezentēshon o junbi shimasu.",
         "en": "I will prepare a presentation taking into account the local culture."
       },
       {
         "jp": "教師の意見を踏まえて、規則を変更しました。",
-        "romaji": "Kyōshi no iken wo fumaete, kisoku wo henkō shimashita.",
+        "romaji": "Kyōshi no iken o fumaete, kisoku o henkō shimashita.",
         "en": "We changed the rules in light of the teachers' opinions."
       },
       {
         "jp": "最新の研究結果を踏まえて、新しい薬が開発されました。",
-        "romaji": "Saishin no kenkyū kekka wo fumaete, atarashii kusuri ga kaihatsu saremashita.",
+        "romaji": "Saishin no kenkyū kekka o fumaete, atarashii kusuri ga kaihatsu saremashita.",
         "en": "Considering the latest research findings, a new medicine has been developed."
       }
     ]
   },
-  {
-    "title": "Noun を限りに (Noun wo kagiri ni)",
-    "short_explanation": "Expresses the idea of 'as of', 'with' or 'from', indicating the end of something or a point of change.",
-    "long_explanation": "The grammar point Noun を限りに is used to indicate the end point of something, or a point of change. It is used in the context when something ends or changes from a particular point onwards. The noun preceding this expression usually refers to a point in time, and can refer to the end of an event, activity, or relationship.",
-    "formation": "Noun + を限りに",
-    "examples": [
-      {
-        "jp": "今年度を限りに、この大学での教授活動を終えるつもりです。",
-        "romaji": "Kotoshido wo kagiri ni, kono daigaku de no kyouju katsudou wo oeru tsumori desu.",
-        "en": "I intend to end my teaching activities at this university as of this academic year."
-      },
-      {
-        "jp": "今日を限りに、タバコを吸うのをやめます。",
-        "romaji": "Kyou wo kagiri ni, tabako wo suu no wo yamemasu.",
-        "en": "As of today, I will stop smoking."
-      },
-      {
-        "jp": "3月31日を限りに、会社を退職します。",
-        "romaji": "3-gatsu 31-nichi wo kagiri ni, kaisha wo taishoku shimasu.",
-        "en": "I will leave the company as of March 31."
-      },
-      {
-        "jp": "来週を限りに、この番組は終了します。",
-        "romaji": "Raishuu wo kagiri ni, kono bangumi wa shuuryou shimasu.",
-        "en": "This program will end as of next week."
-      }
-    ]
-  },
-  {
-    "title": "Noun 並み (~nami)",
-    "short_explanation": "Indicates 'like' or 'as' something or someone; 'equivalent to', 'around'.",
-    "long_explanation": "The Noun 並み grammar point is used to show a comparison between items or people. It's often translated as 'like' or 'equivalent to' in English, but can also indicate the idea of around or approximate quantity or extent.",
-    "formation": "Noun + 並み",
-    "examples": [
-      {
-        "jp": "彼はプロのボクサー並みの力を持っています。",
-        "romaji": "Kare wa puro no bokusa- nami no chikara o motte imasu.",
-        "en": "He has power equivalent to a professional boxer."
-      },
-      {
-        "jp": "彼女の料理の腕前はレストラン並みです。",
-        "romaji": "Kanojo no ryouri no udemae wa resutoran nami desu.",
-        "en": "Her cooking skills are like those of a restaurant."
-      },
-      {
-        "jp": "このエリアの夏は砂漠並みの暑さです。",
-        "romaji": "Kono eria no natsu wa sabaku nami no atsusa desu.",
-        "en": "The summer heat in this area is like a desert."
-      },
-      {
-        "jp": "今日の仕事は社長並みの忙しさだった。",
-        "romaji": "Kyou no shigoto wa shachou nami no isogashisa datta.",
-        "en": "Today's work was as busy as a president's."
-      }
-    ]
-  },
-  {
-    "title": "Noun + 前提で（~zentei de)",
-    "short_explanation": "Expresses the condition or requirement for something to be established; 'on the assumption that', 'under the condition of'.",
-    "long_explanation": "The Noun + 前提で grammar point is used to define the premise, assumption or requirement necessary for some event or action. It can be translated as 'on the assumption that', 'under the condition of', or 'with the understanding that' in English. This grammar suggests that the following clause is established based on the premise stated before 前提で.",
-    "formation": "Noun + 前提で",
-    "examples": [
-      {
-        "jp": "説明できる英語力がある前提で、この仕事を引き受けてください。",
-        "romaji": "Setsumei dekiru eigo-ryoku ga aru zentei de, kono shigoto o hikiuketekudasai.",
-        "en": "Please accept this job on the assumption that you have English skills to explain."
-      },
-      {
-        "jp": "彼が一緒に行く前提で、旅行の計画を立てました。",
-        "romaji": "Kare ga issho ni iku zentei de, ryokou no keikaku o tatemashita.",
-        "en": "I planned the trip on the assumption that he would go together."
-      },
-      {
-        "jp": "成功する前提で、このプロジェクトを進めています。",
-        "romaji": "Seikou suru zentei de, kono purojekuto o susumeteimasu.",
-        "en": "We are proceeding with this project on the assumption of success."
-      },
-      {
-        "jp": "雨が降らない前提で、ピクニックの準備をしました。",
-        "romaji": "Ame ga furanai zentei de, pikunikku no junbi o shimashita.",
-        "en": "I prepared for the picnic under the condition that it won't rain."
-      }
-    ]
-  },
-  {
-    "title": "Noun 限りで (~ kagiri de)",
-    "short_explanation": "As long as; for the duration; while",
-    "long_explanation": "The ~ 限りで grammar point is used to express the duration of something in the context of 'as long as' or 'while'. It indicates that a certain condition or situation stays the same for the duration or extent of something. The formation is simple and generally follows after a noun.",
-    "formation": "Noun + 限りで",
-    "examples": [
-      {
-        "jp": "私が生きている限りで、あなたを支えます。",
-        "romaji": "Watashi ga ikite iru kagiri de, anata wo sasaemasu.",
-        "en": "As long as I'm alive, I will support you."
-      },
-      {
-        "jp": "子供が学校に通っている限りで、我々は彼らを守ります。",
-        "romaji": "Kodomo ga gakkou ni kayotte iru kagiri de, wareware wa karera wo mamorimasu.",
-        "en": "We will protect them for as long as the kids are going to school."
-      },
-      {
-        "jp": "能力がある限りで、最善を尽くします。",
-        "romaji": "Nouryoku ga aru kagiri de, saizen wo tsukushimasu.",
-        "en": "I will do my best as long as I have the ability."
-      },
-      {
-        "jp": "あなたがここにいる限りで、私は安心です。",
-        "romaji": "Anata ga koko ni iru kagiri de, watashi wa anshin desu.",
-        "en": "As long as you're here, I feel safe."
-      }
-    ]
-  },
+
+    {
+      "title": "Noun を限りに (Noun wo kagiri ni)",
+      "short_explanation": "Expresses the idea of 'as of', 'with', or 'from', indicating the end of something or a point of change.",
+      "long_explanation": "The grammar point Noun を限りに is used to indicate the end point of something or a point of change from that time onward. The noun preceding this expression usually refers to a point in time, signifying that something ends or changes starting at that point.",
+      "formation": "Noun + を限りに",
+      "examples": [
+        {
+          "jp": "今年度を限りに、この大学での教授活動を終えるつもりです。",
+          "romaji": "Konnendo o kagiri ni, kono daigaku de no kyouju katsudou o oeru tsumori desu.",
+          "en": "I intend to end my teaching activities at this university as of this academic year."
+        },
+        {
+          "jp": "今日を限りに、タバコを吸うのをやめます。",
+          "romaji": "Kyou o kagiri ni, tabako o suu no o yamemasu.",
+          "en": "As of today, I will stop smoking."
+        },
+        {
+          "jp": "3月31日を限りに、会社を退職します。",
+          "romaji": "3-gatsu 31-nichi o kagiri ni, kaisha o taishoku shimasu.",
+          "en": "I will leave the company as of March 31."
+        },
+        {
+          "jp": "来週を限りに、この番組は終了します。",
+          "romaji": "Raishuu o kagiri ni, kono bangumi wa shuuryou shimasu.",
+          "en": "This program will end as of next week."
+        }
+      ]
+    },
+    {
+      "title": "Noun 並み (~nami)",
+      "short_explanation": "Indicates 'like' or 'as' something or someone; 'equivalent to', 'around'.",
+      "long_explanation": "The Noun 並み grammar point is used to show a comparison, often translated as 'like' or 'equivalent to'. It can also indicate approximate quantity or extent, similar to 'around'.",
+      "formation": "Noun + 並み",
+      "examples": [
+        {
+          "jp": "彼はプロのボクサー並みの力を持っています。",
+          "romaji": "Kare wa puro no bokusaa nami no chikara o motte imasu.",
+          "en": "He has power equivalent to a professional boxer."
+        },
+        {
+          "jp": "彼女の料理の腕前はレストラン並みです。",
+          "romaji": "Kanojo no ryouri no udemae wa resutoran nami desu.",
+          "en": "Her cooking skills are like those of a restaurant."
+        },
+        {
+          "jp": "このエリアの夏は砂漠並みの暑さです。",
+          "romaji": "Kono eria no natsu wa sabaku nami no atsusa desu.",
+          "en": "The summer heat in this area is like a desert."
+        },
+        {
+          "jp": "今日の仕事は社長並みの忙しさだった。",
+          "romaji": "Kyou no shigoto wa shachou nami no isogashisa datta.",
+          "en": "Today's work was as busy as a president's."
+        }
+      ]
+    },
+    {
+      "title": "Noun + 前提で (Noun + zentei de)",
+      "short_explanation": "Expresses a condition or requirement for something to be established: 'on the assumption that', 'under the condition of'.",
+      "long_explanation": "The Noun + 前提で grammar point is used to define the premise, assumption, or requirement necessary for some event or action. It translates to 'on the assumption that', 'under the condition of', or 'with the understanding that'. The following clause is based on that premise.",
+      "formation": "Noun + 前提で",
+      "examples": [
+        {
+          "jp": "説明できる英語力がある前提で、この仕事を引き受けてください。",
+          "romaji": "Setsumei dekiru eigo-ryoku ga aru zentei de, kono shigoto o hikiukete kudasai.",
+          "en": "Please take on this job on the assumption that you have enough English skills to explain."
+        },
+        {
+          "jp": "彼が一緒に行く前提で、旅行の計画を立てました。",
+          "romaji": "Kare ga issho ni iku zentei de, ryokou no keikaku o tatemashita.",
+          "en": "I planned the trip on the assumption that he would go together."
+        },
+        {
+          "jp": "成功する前提で、このプロジェクトを進めています。",
+          "romaji": "Seikou suru zentei de, kono purojekuto o susumete imasu.",
+          "en": "We are moving forward with this project on the assumption that we will succeed."
+        },
+        {
+          "jp": "雨が降らない前提で、ピクニックの準備をしました。",
+          "romaji": "Ame ga furanai zentei de, pikunikku no junbi o shimashita.",
+          "en": "I prepared for the picnic under the condition that it wouldn't rain."
+        }
+      ]
+    },
+    {
+      "title": "Verbる / Noun(である) + 限り(は) (kagiri (wa))",
+      "short_explanation": "Expresses 'as long as', 'while this condition is true'.",
+      "long_explanation": "This grammar is used to express that something holds true as long as a particular condition remains in effect. When using a noun, it can appear as Noun(である) + 限り(は). With a verb, use the dictionary form + 限り(は).",
+      "formation": "Verb-dictionary form + 限り(は)\nNoun(である) + 限り(は)",
+      "examples": [
+        {
+          "jp": "私が生きている限りは、あなたを支えます。",
+          "romaji": "Watashi ga ikite iru kagiri wa, anata o sasaemasu.",
+          "en": "As long as I'm alive, I will support you."
+        },
+        {
+          "jp": "子供が学校に通っている限り、私たちは彼らを守ります。",
+          "romaji": "Kodomo ga gakkou ni kayotte iru kagiri, watashitachi wa karera o mamorimasu.",
+          "en": "As long as the kids are going to school, we will protect them."
+        },
+        {
+          "jp": "能力がある限り、最善を尽くします。",
+          "romaji": "Nouryoku ga aru kagiri, saizen o tsukushimasu.",
+          "en": "I will do my best as long as I have the ability."
+        },
+        {
+          "jp": "あなたがここにいる限り、私は安心です。",
+          "romaji": "Anata ga koko ni iru kagiri, watashi wa anshin desu.",
+          "en": "As long as you're here, I feel safe."
+        }
+      ]
+    },
+
+  
+
+
+
+
+
   {
     "title": "Verb がてら (~ gatera)",
     "short_explanation": "Expresses doing something while doing another; 'while', 'on the occasion of'.",
-    "long_explanation": "The ～がてら grammar point is used to express doing something while also doing another thing. This is often translated as 'while' or 'on the occasion of' in English. Mainly used with action verbs that suggest movement or change of location. ",
-    "formation": "Verb-casual + がてら",
+    "long_explanation": "The ～がてら grammar point is used to express doing something else in the middle of or on the occasion of another activity. Often used with verbs of movement or activities that easily combine with a second action.",
+    "formation": "Verb (dictionary or -ます stem) + がてら",
     "examples": [
       {
         "jp": "散歩がてらに郵便局へ行った。",
-        "romaji": "Sanpo gatera ni yuubinkyoku e itta.",
+        "romaji": "Sanpo gatera ni yūbinkyoku e itta.",
         "en": "I went to the post office while taking a walk."
       },
       {
@@ -3186,58 +3205,81 @@
       },
       {
         "jp": "公園でピクニックがてら読書をした。",
-        "romaji": "Kouen de pikunikku gatera dokusho o shita.",
+        "romaji": "Kōen de pikunikku gatera dokusho o shita.",
         "en": "I read a book while having a picnic in the park."
       }
     ]
   },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   {
     "title": "Verb こそすれ (~koso sure)",
-    "short_explanation": "Expresses 'the extent or degree of doing something is so much that...' or 'does enough to...'",
-    "long_explanation": "The Verbこそすれ grammar point is used to express the idea that the action or state represented by the verb is performed to such an extent or degree that it is notable or significant. This phrase often indicates that something is done enough to arouse specific feelings or reactions from others.",
-    "formation": "Verb-ます stem + こそすれ",
+    "short_explanation": "Often used in the pattern 'Xこそすれ、Y〜ない', meaning 'One might do X, but definitely not Y'.",
+    "long_explanation": "Verb-ますstem + こそすれ is typically used to emphasize that while someone might certainly do or be X, there's no way they would do or be Y. The sentence that follows is usually a strong negative, denying the possibility of Y.",
+    "formation": "Verb-ますstem + こそすれ、(絶対に)～ない",
     "examples": [
       {
-        "jp": "彼は友達を助けることこそすれ、自分を卑下することはありません。",
-        "romaji": "Kare wa tomodachi o tasukeru koto koso sure, jibun o hika suru koto wa arimasen.",
-        "en": "He does enough to help his friends but he never belittles himself."
+        "jp": "彼は友達を助けこそすれ、自分を卑下することはありません。",
+        "romaji": "Kare wa tomodachi o tasuke koso sure, jibun o higesuru koto wa arimasen.",
+        "en": "He might help his friends, but he never belittles himself."
       },
       {
-        "jp": "彼女は料理することこそすれ、掃除は殆どしない。",
-        "romaji": "Kanojo wa ryouri suru koto koso sure, souji wa hotondo shinai.",
-        "en": "She does enough cooking, but she hardly ever cleans."
+        "jp": "彼女は料理こそすれ、掃除はほとんどしない。",
+        "romaji": "Kanojo wa ryōri koso sure, sōji wa hotondo shinai.",
+        "en": "She might cook, but she rarely cleans."
       },
       {
-        "jp": "私の兄は勉強することこそすれ、遊ぶ時間がほとんどない。",
-        "romaji": "Watashi no ani wa benkyou suru koto koso sure, asobu jikan ga hotondo nai.",
-        "en": "My brother studies so much that he hardly has any time to play."
+        "jp": "私の兄は勉強こそすれ、遊ぶ時間がほとんどない。",
+        "romaji": "Watashi no ani wa benkyō koso sure, asobu jikan ga hotondo nai.",
+        "en": "He might study a lot, but he barely has time to have fun."
       },
       {
-        "jp": "母は働くことこそすれ、自分のために時間を使うことはほとんどない。",
-        "romaji": "Haha wa hataraku koto koso sure, jibun no tame ni jikan o tsukau koto wa hotondo nai.",
-        "en": "My mother works so much that she hardly finds time for herself."
+        "jp": "母は働きこそすれ、自分のために時間を使うことはほとんどない。",
+        "romaji": "Haha wa hataraki koso sure, jibun no tame ni jikan o tsukau koto wa hotondo nai.",
+        "en": "My mother might work a lot, but she hardly spends any time on herself."
       }
     ]
   },
+
   {
     "title": "Verb させられる (~saserareru)",
     "short_explanation": "Expresses 'being forced to do something' or 'being made to do something'.",
-    "long_explanation": "The させられる grammar point is used to express the passive causative form in Japanese. This form is used when you are forced or made to do something by someone or something else. It's a combination of causative and passive form, and it is often used to express indirect experiences, and can have a negative nuance of having been made to do something against one's will.",
-    "formation": "Verb-casual(non-past)+させられる",
+    "long_explanation": "The させられる grammar point is used to express the passive causative form in Japanese. This form is used when you are forced or made to do something by someone or something else. It's a combination of causative and passive form, and it often implies having been made to do something against one's will.",
+    "formation": "Verb-casual (non-past) + させられる",
     "examples": [
       {
         "jp": "彼に無理やり飲ませられた。",
-        "romaji": "Kare ni muriyari nomasaserareta.",
+        "romaji": "Kare ni muriyari nomaserareta.",
         "en": "He forced me to drink against my will."
       },
       {
         "jp": "私は父に勉強させられました。",
-        "romaji": "Watashi wa chichi ni benkyou saseraremashita.",
+        "romaji": "Watashi wa chichi ni benkyō saseraremashita.",
         "en": "My father made me study."
       },
       {
         "jp": "子供たちは毎日ピアノを弾かせられる。",
-        "romaji": "Kodomo-tachi wa mainichi piano o hikasaserareru.",
+        "romaji": "Kodomo-tachi wa mainichi piano o hikaserareru.",
         "en": "The kids are made to play the piano every day."
       },
       {
@@ -3250,51 +3292,51 @@
   {
     "title": "Verb ざるを得ない (~ zaru wo enai)",
     "short_explanation": "'Cannot but', 'have no choice but to', 'forced to'",
-    "long_explanation": "The Verb ざるを得ない construction is used when the subject is compelled or forced to do something out of necessity and there is no other choice. It gives the idea of 'cannot but' or 'have no choice but in English.",
-    "formation": "Verb-dictionary form + ざるを得ない",
+    "long_explanation": "The Verb ざるを得ない construction is used when the subject is compelled or forced to do something out of necessity, leaving no other choice. It conveys the idea of 'cannot but...' or 'have no choice but...' in English.",
+    "formation": "Verb-dictionary form + ざるを得ない (する → せざるを得ない)",
     "examples": [
       {
         "jp": "この仕事が嫌ならもう辞めざるを得ない。",
-        "romaji": "Kono shigoto ga iya nara mou yamezaru o enai.",
+        "romaji": "Kono shigoto ga iya nara mō yamezaru o enai.",
         "en": "If you hate this job, you have no choice but to quit."
       },
       {
         "jp": "試験が近いので、夜遅くまで勉強せざるを得ない。",
-        "romaji": "Shiken ga chikai no de, yoru osoku made benkyou sezaru wo enai.",
+        "romaji": "Shiken ga chikai no de, yoru osoku made benkyō sezaru o enai.",
         "en": "The exam is near, so I have no choice but to study late into the night."
       },
       {
         "jp": "涙が止まらない。泣かざるを得ない。",
         "romaji": "Namida ga tomaranai. Nakazaru o enai.",
-        "en": "The tears won't stop. I can't help but cry."
+        "en": "My tears won't stop. I can't help but cry."
       },
       {
         "jp": "先生の命令だから、従わざるを得ない。",
-        "romaji": "Sensei no meirei dakara, shitagawazaru wo enai.",
+        "romaji": "Sensei no meirei dakara, shitagawazaru o enai.",
         "en": "It's the teacher's order, so I have no choice but to comply."
       }
     ]
   },
   {
     "title": "Verb ずじまい (~zu jimai)",
-    "short_explanation": "Expressing regret for not having done something; not being able to; not having the chance to.",
-    "long_explanation": "The Japanese grammar point ～ずじまい (~zu jimai) is used to express regret for not doing something, not being able to do it, or not getting the chance to. The action that one regrets not doing is something that can still be done, meaning that there is future opportunity to do so.",
-    "formation": "Verb-ない form (remove ない） + ずじまい",
+    "short_explanation": "Expressing regret for not having done something; not being able to; missing the chance to do it.",
+    "long_explanation": "The grammar point ～ずじまい (~zu jimai) is used to express regret for not doing something, not being able to do it, or not getting the chance to do it. It highlights an action that ultimately never happened, despite intentions or opportunities.",
+    "formation": "Verb-ない form (remove ない) + ずじまい",
     "examples": [
       {
-        "jp": "日本へ来て、一度も富士山を見ることなく帰国せずじまいだ。",
-        "romaji": "Nihon e kite, ichido mo Fuji-san o miru koto naku kikoku sezu jimai da.",
+        "jp": "日本へ来たのに、一度も富士山を見ずじまいで帰国してしまった。",
+        "romaji": "Nihon e kita noni, ichidomo Fuji-san o mizu jimai de kikoku shite shimatta.",
         "en": "I came to Japan but ended up going home without ever getting to see Mt. Fuji."
       },
       {
         "jp": "出張のため、彼女に会わずじまいだった。",
-        "romaji": "Shucchou no tame, kanojo ni awa zu jimai datta.",
+        "romaji": "Shucchō no tame, kanojo ni awazu jimai datta.",
         "en": "Because I was on a business trip, I ended up not meeting her."
       },
       {
         "jp": "昨日は疲れすぎて、宿題をせずじまいだ。",
-        "romaji": "Kinou wa tsukaresugite, shukudai o sezu jimai da.",
-        "en": "I ended up not doing my homework yesterday because I was too tired."
+        "romaji": "Kinō wa tsukare-sugite, shukudai o sezu jimai da.",
+        "en": "I was too tired yesterday and ended up not doing my homework."
       },
       {
         "jp": "着物を買ったが、結局、一度も着ずじまいだ。",
@@ -3305,13 +3347,13 @@
   },
   {
     "title": "Verb ずとも (〜zu tomo)",
-    "short_explanation": "This structure is used to mean 'Even without doing (an action), (an action) is still achievable'.",
-    "long_explanation": "The ～ずとも grammar point is used to express that even if something isn't done or doesn't happen, a desired result can still be achieved. It conveys the meaning 'even without' in English. Specifically, it is formed by attaching ずとも to the negative stem of the verb.",
+    "short_explanation": "Means 'Even without doing (X), (Y) can still happen'.",
+    "long_explanation": "The ～ずとも grammar point is used to express that, even if something isn't done, the desired result can still be achieved or the situation remains unaffected. It can be translated as 'even without' or 'even if not'.",
     "formation": "Verb-negative stem + ずとも",
     "examples": [
       {
         "jp": "朝ごはんを食べずとも、働くことができます。",
-        "romaji": "Asagohan wo tabezu tomo, hataraku koto ga dekimasu.",
+        "romaji": "Asagohan o tabezu tomo, hataraku koto ga dekimasu.",
         "en": "Even without eating breakfast, I can work."
       },
       {
@@ -3326,31 +3368,31 @@
       },
       {
         "jp": "インターネットがなくとも、情報を得る方法はいくつかあります。",
-        "romaji": "Inta-netto ga nakutomo, jouhou wo eru houhou wa ikutsu ka arimasu.",
+        "romaji": "Intānetto ga nakutomo, jōhō o eru hōhō wa ikutsu ka arimasu.",
         "en": "Even without the internet, there are several ways to obtain information."
       }
     ]
   },
   {
     "title": "Verb ずにはおかない (~zuni wa okanai)",
-    "short_explanation": "Expresses the idea of 'cannot help but...', 'cannot leave it as it is' or 'must do something'.",
-    "long_explanation": "The ずにはおかない grammar point conveys the sentiment of an inevitable action or an emotional compulsion to do something. When you must do something and you can't let it be without doing it, ずにはおかない is used. The verb is usually used in its base form before ずにはおかない.",
-    "formation": "Verb-dictionary form + ずにはおかない",
+    "short_explanation": "Expresses 'cannot help but...', 'will definitely...', or 'must do something'.",
+    "long_explanation": "The ずにはおかない grammar point conveys the sentiment of an inevitable action or a strong emotional compulsion. It can mean 'I can’t let it pass without doing X' or 'I definitely will do X'.",
+    "formation": "Verb-ない form (remove ない) + ずにはおかない",
     "examples": [
       {
         "jp": "彼が困っていると聞いたら、助けずにはおかない。",
-        "romaji": "Kare ga komatte iru to kitta, tasukezuni wa okanai.",
-        "en": "If I hear that he is in trouble, I cannot help but assist him."
+        "romaji": "Kare ga komatte iru to kiitara, tasukezuni wa okanai.",
+        "en": "If I hear he is in trouble, I cannot help but assist him."
       },
       {
         "jp": "食事の準備がこのままだと、手伝わずにはおかないだろう。",
-        "romaji": "Shokuji no junbi ga kono mama da to, tetsudawazuni wa okanai darou.",
-        "en": "If the preparation for the meal remains like this, I cannot help but assist."
+        "romaji": "Shokuji no junbi ga kono mama da to, tetsudawazuni wa okanai darō.",
+        "en": "If the meal prep stays like this, I won't be able to stop myself from helping."
       },
       {
-        "jp": "この問題が解決せず、改善策を考えずにはおかない。",
-        "romaji": "Kono mondai ga kaiketsu sezu, kaizen-saku o kangaenizuniwa okanai.",
-        "en": "If this issue is not resolved, I cannot help but think of a solution."
+        "jp": "この問題が解決しないなら、改善策を考えずにはおかない。",
+        "romaji": "Kono mondai ga kaiketsu shinai nara, kaizen-saku o kangaezuni wa okanai.",
+        "en": "If this issue isn't resolved, I can't help but think of a solution."
       },
       {
         "jp": "彼女が泣いているのを見たら、慰めずにはおかない。",
@@ -3361,108 +3403,108 @@
   },
   {
     "title": "Verb ずにはすまない (Verb zuni wa sumanai)",
-    "short_explanation": "'Cannot do without', 'have to', 'unavoidable'.",
-    "long_explanation": "The verb ずにはすまない grammar point translates as 'cannot do without doing'. It is used to express that something is compulsory or unavoidable because of reasons like obligation, necessity, manners, or rules.",
-    "formation": "Verb-ないform(remove ない) + ずにはすまない",
+    "short_explanation": "'Cannot do without...', 'unavoidable', 'have to'.",
+    "long_explanation": "The grammar point ずにはすまない is used when something must be done due to social/moral obligation, necessity, or rules. It implies that there is no way around taking that action.",
+    "formation": "Verb-ない form (remove ない) + ずにはすまない",
     "examples": [
       {
         "jp": "この問題を解決しないと、社会全体が影響を受けるので、解決せずにはすまない。",
-        "romaji": "Kono mondai o kaiketsu shinauto, shakai zentai ga eikyou o ukeru node, kaiketsu sezu niwa sumanai.",
-        "en": "Since this issue will affect the entire society if not resolved, we cannot do without resolving it."
+        "romaji": "Kono mondai o kaiketsu shinai to, shakai zentai ga eikyō o ukeru node, kaiketsu sezu ni wa sumanai.",
+        "en": "Since this issue will affect the entire society if not resolved, we cannot do without solving it."
       },
       {
         "jp": "これは子供たちの未来を思うと、教育改革を行わずにはすまないことだ。",
-        "romaji": "Kore wa kodomo-tachi no mirai o omou to, kyouiku kaikaku o okonawazu ni wa sumanai koto da.",
-        "en": "Thinking about the future of the children, we cannot do without carrying out educational reforms."
+        "romaji": "Kore wa kodomo-tachi no mirai o omou to, kyōiku kaikaku o okonawazu ni wa sumanai koto da.",
+        "en": "For the sake of the children’s future, we cannot avoid carrying out educational reforms."
       },
       {
         "jp": "この件については、彼に謝らずにはすまない。",
-        "romaji": "Kono ken ni tsuiteha, kare ni ayamarazu ni wa sumanai.",
-        "en": "Regarding this matter, I can't do without apologizing to him."
+        "romaji": "Kono ken ni tsuite wa, kare ni ayamarazu ni wa sumanai.",
+        "en": "Regarding this matter, I can’t do without apologizing to him."
       },
       {
         "jp": "結婚式に出席するなら、プレゼントを渡さずにはすまない。",
-        "romaji": "Kekkonshiki ni shusseki surunara, purezento o watasazu ni wa sumanai.",
-        "en": "If you attend a wedding ceremony, you have to give a gift."
+        "romaji": "Kekkonshiki ni shusseki suru nara, purezento o watasazu ni wa sumanai.",
+        "en": "If you attend a wedding, you have to bring a gift."
       }
     ]
   },
   {
     "title": "Verb そうにない (Verb sou ni nai)",
-    "short_explanation": "Expresses unlikelihood or that something is not likely to happen.",
-    "long_explanation": "The そうにない grammar point is used to express that something is unlikely to happen or that one does not seem like they will do something. It is formed by attaching そうにない to the stem of a verb.",
-    "formation": "Verb-stem + そうにない",
+    "short_explanation": "Expresses unlikelihood or that something does not seem likely to happen.",
+    "long_explanation": "The そうにない grammar point is typically formed from the verb’s ます-stem plus そうにない, and is used to express that something seems unlikely to happen or that someone seems unlikely to do something.",
+    "formation": "Verb-ますstem + そうにない",
     "examples": [
       {
-        "jp": "彼はそんなに早く走るそうにない。",
-        "romaji": "Kare wa sonna ni hayaku hashiru sou ni nai.",
+        "jp": "彼はそんなに早く走れそうにない。",
+        "romaji": "Kare wa sonna ni hayaku hashire sō ni nai.",
         "en": "He doesn't seem likely to run that fast."
       },
       {
-        "jp": "この書類を明日までに終わらせるそうにない。",
-        "romaji": "Kono shorui wo ashita made ni owaraseru sou ni nai.",
-        "en": "I don't think I'll be able to finish these documents by tomorrow."
+        "jp": "この書類を明日までに終わりそうにない。",
+        "romaji": "Kono shorui o ashita made ni owarisō ni nai.",
+        "en": "It doesn’t seem like I’ll be able to finish these documents by tomorrow."
       },
       {
         "jp": "今日雨が降りそうにない。",
-        "romaji": "Kyou ame ga furisou ni nai.",
-        "en": "It doesn't seem like it will rain today."
+        "romaji": "Kyō ame ga furisō ni nai.",
+        "en": "It doesn't look like it will rain today."
       },
       {
-        "jp": "彼女は間違えるそうにない。",
-        "romaji": "Kanojo wa machigaeru sou ni nai.",
-        "en": "She doesn't seem likely to make a mistake."
+        "jp": "彼女は間違えそうにない。",
+        "romaji": "Kanojo wa machigae sō ni nai.",
+        "en": "She doesn’t seem likely to make a mistake."
       }
     ]
   },
   {
-    "title": "Verb そうもない (〜sou monai)",
-    "short_explanation": "Expresses the negative potential; 'it doesn't seem like', 'it's not likely'.",
-    "long_explanation": "The ～そうもない grammar point is used to express a low possibility or the negative potential of something happening. It can be translated as 'it doesn't seem like' or 'it's not likely' in English. This formation is generally used with Verbs.",
-    "formation": "Verb-volitional form + そうもない",
+    "title": "Verb そうもない (〜sou mo nai)",
+    "short_explanation": "Expresses negative potential; 'it doesn't seem like...', 'it's not likely...'.",
+    "long_explanation": "～そうもない is used to express a low possibility or unlikelihood of something happening. It is typically attached to the ます-stem of a verb, similar to そうにない but with an even stronger sense of improbability in many contexts.",
+    "formation": "Verb-ますstem + そうもない",
     "examples": [
       {
-        "jp": "今日中に仕事を終えるそうもない。",
-        "romaji": "Kyoujuu ni shigoto o oeru sou monai.",
-        "en": "It doesn't seem like I'll finish the work today."
+        "jp": "今日中に仕事を終えそうもない。",
+        "romaji": "Kyōjū ni shigoto o oesō mo nai.",
+        "en": "It doesn't seem like I'll finish my work today."
       },
       {
-        "jp": "雨が止むそうもない。",
-        "romaji": "Ame ga yamu sou monai.",
+        "jp": "雨が止みそうもない。",
+        "romaji": "Ame ga yamisō mo nai.",
         "en": "It doesn't seem like the rain will stop."
       },
       {
-        "jp": "彼が約束を守るそうもない。",
-        "romaji": "Kare ga yakusoku o mamoru sou monai.",
+        "jp": "彼が約束を守りそうもない。",
+        "romaji": "Kare ga yakusoku o mamorisō mo nai.",
         "en": "It doesn't seem like he will keep his promise."
       },
       {
-        "jp": "この難しい問題を解決するそうもない。",
-        "romaji": "Kono muzukashii mondai wo kaiketsu suru sou monai.",
+        "jp": "この難しい問題は解決しそうもない。",
+        "romaji": "Kono muzukashii mondai wa kaiketsu shisō mo nai.",
         "en": "It doesn't seem like this difficult problem will be solved."
       }
     ]
   },
   {
     "title": "Verb そばから (〜soba kara)",
-    "short_explanation": "Expresses the notion that as soon as one action finishes, another begins.",
-    "long_explanation": "The ～そばから grammar point is used to express the idea of something happening immediately after something else. It gives the connotation that as soon as one action or situation finishes, another action or situation starts.",
+    "short_explanation": "Expresses that as soon as one action finishes, another begins immediately.",
+    "long_explanation": "The 〜そばから grammar point is used to indicate that right after a certain action is completed, another action takes place—often suggesting a repetitive or frustrating cycle.",
     "formation": "Verb-ますstem + そばから",
     "examples": [
       {
         "jp": "掃除をするそばから子供たちが散らかす。",
-        "romaji": "Souji wo suru soba kara kodomo-tachi ga chirakasu.",
+        "romaji": "Sōji o suru soba kara kodomo-tachi ga chirakasu.",
         "en": "As soon as I clean, the kids mess it up."
       },
       {
         "jp": "仕事を終えるそばから新たな仕事が舞い込んできた。",
-        "romaji": "Shigoto wo oeru soba kara arata na shigoto ga maikondekita.",
-        "en": "As soon as I finished my job, a new one came in."
+        "romaji": "Shigoto o oeru soba kara aratana shigoto ga maikonde kita.",
+        "en": "As soon as I finished my work, a new task came in."
       },
       {
         "jp": "それを解決するそばからまた別の問題が出てきた。",
-        "romaji": "Sore wo kaiketsu suru soba kara mata betsu no mondai ga detekita.",
-        "en": "As soon as we solve this, another problem comes up."
+        "romaji": "Sore o kaiketsu suru soba kara mata betsu no mondai ga detekita.",
+        "en": "As soon as we solve that, another problem arises."
       },
       {
         "jp": "眠りにつくそばから電話が鳴った。",
@@ -3473,8 +3515,8 @@
   },
   {
     "title": "Verb たが最後 (〜ta ga saigo)",
-    "short_explanation": "Expression used to denote the idea that 'once something has occurred, it is final'; 'once', 'as soon as', 'the moment'.",
-    "long_explanation": "The ～たが最後 grammar point is used to emphasize the finality of an action once it has been completed. In English, it can be translated as 'once', 'as soon as', or 'the moment'. It is often used to describe the start of an irreversible action or situation.",
+    "short_explanation": "Emphasizes 'once something happens, there is no going back'; 'once', 'as soon as', etc.",
+    "long_explanation": "The 〜たが最後 grammar point indicates that once an action is taken or event occurs, some (often irreversible) consequence follows. In English, it can be translated as 'once', 'as soon as', or 'the moment that...'.",
     "formation": "Verb-casual, past (た form) + が最後",
     "examples": [
       {
@@ -3484,12 +3526,12 @@
       },
       {
         "jp": "このゲームを始めたが最後、一晩中やり続けた。",
-        "romaji": "Kono geemu wo hajimeta ga saigo, hitobanjuu yaritsuzuketa.",
-        "en": "As soon as I started this game, I continued to play it all night."
+        "romaji": "Kono gēmu o hajimeta ga saigo, hitobanjū yari tsuzuketa.",
+        "en": "As soon as I started this game, I played it all night."
       },
       {
         "jp": "彼女が部屋を出たが最後、二度と戻ってこなかった。",
-        "romaji": "kanojo ga heya o deta ga saigo, nido to modotte konakatta.",
+        "romaji": "Kanojo ga heya o deta ga saigo, nido to modotte konakatta.",
         "en": "The moment she left the room, she never came back."
       },
       {
@@ -3499,6 +3541,25 @@
       }
     ]
   },
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+TODO: start below
+
+
+
+
+
+
+
+
   {
     "title": "Verb たことにしてください (~ ta koto ni shite kudasai)",
     "short_explanation": "Asking someone to pretend or accept that something has already happened or taken a certain state.",
