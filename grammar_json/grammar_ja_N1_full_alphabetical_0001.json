@@ -3541,30 +3541,11 @@
       }
     ]
   },
-
-
-
-
-
-
-
-
-
------------------------------------------------------------------
-TODO: start below
-
-
-
-
-
-
-
-
   {
     "title": "Verb たことにしてください (~ ta koto ni shite kudasai)",
     "short_explanation": "Asking someone to pretend or accept that something has already happened or taken a certain state.",
-    "long_explanation": "The grammar point 'Verb たことにしてください' is used to request someone to act as if or pretend that a certain action has already occurred or a state is existing. It is used in various contexts to express concepts of accepting a hypothetical situation, for convenience or avoiding conflicts.",
-    "formation": "Verb(past, casual) + ことにしてください",
+    "long_explanation": "The grammar point 'Verb たことにしてください' is used to request someone to act as if or pretend that a certain action has already occurred or a certain state exists. It is used in various contexts to express the idea of accepting a hypothetical situation for convenience or to avoid conflicts.",
+    "formation": "Verb (past, casual) + ことにしてください",
     "examples": [
       {
         "jp": "昨日のことは忘れたことにしてください。",
@@ -3574,63 +3555,63 @@ TODO: start below
       {
         "jp": "私がここに来たことを誰にも言わないで、秘密にしたことにしてください。",
         "romaji": "Watashi ga koko ni kita koto o dare ni mo iwanaide, himitsu ni shita koto ni shite kudasai.",
-        "en": "Please don't tell anyone that I came here, please act as if it's a secret."
+        "en": "Please don't tell anyone that I came here; act as if it’s a secret."
       },
       {
         "jp": "彼が間違えたと思ったことにしてください。",
         "romaji": "Kare ga machigaeta to omotta koto ni shite kudasai.",
-        "en": "Please act as if you think he made a mistake."
+        "en": "Please pretend that you think he made a mistake."
       },
       {
         "jp": "彼女が帰ったことにしてください。",
         "romaji": "Kanojo ga kaetta koto ni shite kudasai.",
-        "en": "Let's pretend that she has returned."
+        "en": "Let’s pretend that she has gone home."
       }
     ]
   },
   {
     "title": "Verb たら Verb たで (~ tara ~ tade)",
-    "short_explanation": "Expresses the sequence of actions; 'after doing..., did...'.",
-    "long_explanation": "The Verb たら Verb たで grammar point is used to describe a sequence of actions or events. It means 'After (verb), (verb).' It can be any verbs in their past tense, not necessarily the same verb.",
-    "formation": "Verb(たform) + ら + Verb(たform) + で",
+    "short_explanation": "Conveys that if something happens (or doesn’t happen), there is a particular consequence or situation either way.",
+    "long_explanation": "The pattern VerbたらVerbたで is used for scenarios where doing something creates a certain issue or reaction, and not doing it also creates a different concern. It often shows that no matter which side of the condition you end up on, there’s some related result or trouble.",
+    "formation": "Verb-た form + ら + (same Verb-た form) + で",
     "examples": [
       {
-        "jp": "彼と話したら、思ってたのと全然違う人だったで。",
-        "romaji": "Kare to hanashitara, omotteta no to zenzen chigau hito datta de.",
-        "en": "After talking to him, he was different from the person I had thought."
+        "jp": "行ったら行ったで大変だし、行かなかったら行かなかったで後悔しそうだ。",
+        "romaji": "Ittara itta de taihen da shi, ikanakattara ikanakatta de kōkai shisō da.",
+        "en": "If I go, it’s a hassle; if I don’t go, I’ll regret it."
       },
       {
-        "jp": "用事を済ませたら、早速事務所に戻ったで。",
-        "romaji": "Youji o sumasetara, sassoku jimusho ni modotta de.",
-        "en": "After I finished my errands, I immediately went back to the office."
+        "jp": "買ったら買ったでお金がなくなるし、買わなかったら買わなかったで後で欲しくなる。",
+        "romaji": "Kattara katta de okane ga naku naru shi, kawanakattara kawanakatta de ato de hoshiku naru.",
+        "en": "If I buy it, I’ll run out of money; if I don’t buy it, I’ll want it later."
       },
       {
-        "jp": "映画を見たら、泣いたで。",
-        "romaji": "Eiga o mitara, naita de.",
-        "en": "After I watched the movie, I cried."
+        "jp": "作ったら作ったで食べきれないし、作らなかったら作らなかったでお腹が空く。",
+        "romaji": "Tsukuttara tsukutta de tabekirenai shi, tsukuranakattara tsukuranakatta de onaka ga suku.",
+        "en": "If I cook, I can’t finish it all; if I don’t, I’ll be hungry."
       },
       {
-        "jp": "散歩したら、カフェでコーヒーを飲んだで。",
-        "romaji": "Sanpo shitara, cafe de koohii o nonda de.",
-        "en": "After taking a walk, I had a coffee at the cafe."
+        "jp": "旅行に出かけたら出かけたで疲れるし、家にいたらいたで退屈する。",
+        "romaji": "Ryokō ni dekaketara dekaketa de tsukareru shi, ie ni itara itada de taikutsu suru.",
+        "en": "If I go on a trip, I'll get tired, but if I stay home, I'll be bored."
       }
     ]
   },
   {
     "title": "Verb たら きりがない (Verb tara kiri ga nai)",
-    "short_explanation": "Represents an endless cycle of doing something; 'if one starts doing something, it will not stop'",
-    "long_explanation": "The たらきりがない grammar point is used to express an endless or cyclical action, often implying that once the action starts, it won't stop or end. The action is usually undesirable or negative, and the speaker implies that it should be avoided to prevent the cycle from continuing. This structure is mostly used after a verb in the た-form followed by きりがない.",
-    "formation": "Verb-た form + きりがない",
+    "short_explanation": "Indicates an endless or unending cycle once an action is started; 'if one starts doing something, it will not stop.'",
+    "long_explanation": "The たらきりがない grammar pattern is used when something negative or undesirable continues indefinitely once it begins. The implication is that you should avoid initiating the action because it’ll just go on and on.",
+    "formation": "Verb-た form + ら + きりがない",
     "examples": [
       {
-        "jp": "このエンジンを修理すれば、また壊れて、また修理すれば、きりがない。",
-        "romaji": "Kono enjin o shuuri sureba, mata kowarete, mata shuuri sureba, kiri ga nai.",
-        "en": "If I fix this engine and then it breaks again and I fix it again, it will never end."
+        "jp": "このエンジンを修理したら、またすぐ壊れて、直したらきりがない。",
+        "romaji": "Kono enjin o shuuri shitara, mata sugu kowarete, naoshitara kiri ga nai.",
+        "en": "If I fix this engine, it breaks again, and if I fix it again, it never ends."
       },
       {
         "jp": "飲み始めたらきりがない。",
         "romaji": "Nomihajimetara kiri ga nai.",
-        "en": "Once I start drinking, it never stops."
+        "en": "Once I start drinking, I never stop."
       },
       {
         "jp": "彼女にお金を貸したら、きりがない。",
@@ -3646,51 +3627,51 @@ TODO: start below
   },
   {
     "title": "Verb たら最後 (〜tara saigo)",
-    "short_explanation": "Expresses that once a certain action happens, a situation changes irreversibly; 'once', 'after'.",
-    "long_explanation": "The たら最後 grammar point is used to convey that once a certain action takes place, the situation changes in an irreversible way, usually for the worse. In English, this could be translated as 'once' or 'after'. To form たら最後, conjugate the verb to た-form (past tense) and attach '最後'.",
-    "formation": "Verb-た form + 最後",
+    "short_explanation": "Expresses that once a certain action happens, the situation changes irreversibly—usually in a negative way.",
+    "long_explanation": "The たら最後 grammar point indicates that once an action (in た-form) occurs, there is no going back and an unpleasant or unavoidable state follows. Often translated as 'once...then it's all over' or 'the moment...there’s no turning back.'",
+    "formation": "Verb-た form + ら最後",
     "examples": [
       {
         "jp": "このゲームを始めたら最後、時間の経つのを忘れてしまいます。",
-        "romaji": "Kono geemu wo hajimetara saigo, jikan no tatsu no wo wasurete shimaimasu.",
-        "en": "Once you start this game, you lose track of time."
+        "romaji": "Kono gēmu o hajimetara saigo, jikan no tatsu no o wasurete shimaimasu.",
+        "en": "Once you start this game, you completely lose track of time."
       },
       {
         "jp": "彼はビールを一杯飲み始めたら最後、止まらなくなります。",
-        "romaji": "Kare wa biiru wo ippai nomihajimetara saigo, tomaranaku narimasu.",
+        "romaji": "Kare wa bīru o ippai nomihajimetara saigo, tomaranaku narimasu.",
         "en": "Once he starts drinking a beer, he can't stop."
       },
       {
-        "jp": "この本を読み始めたら最後、1日で読破してしまいました。",
-        "romaji": "Kono hon wo yomihajimetara saigo, ichinichi de dokusya shite shimaimashita.",
-        "en": "Once I started reading this book, I ended up finishing it in a day."
+        "jp": "この本を読み始めたら最後、一気に読破してしまいました。",
+        "romaji": "Kono hon o yomihajimetara saigo, ikki ni dokuha shite shimaimashita.",
+        "en": "Once I started reading this book, I ended up finishing it in one go."
       },
       {
-        "jp": "彼に怒らせたら最後、なかなか許してくれません。",
-        "romaji": "Kare ni okorasetara saigo, nakanaka yurushite kuremasen.",
-        "en": "Once you make him angry, he doesn't easily forgive."
+        "jp": "彼を怒らせたら最後、なかなか許してもらえないよ。",
+        "romaji": "Kare o okorasetara saigo, nakanaka yurushite moraenai yo.",
+        "en": "Once you make him angry, he won't forgive you so easily."
       }
     ]
   },
   {
     "title": "Verb つ Verb つ (Verb tsu Verb tsu)",
-    "short_explanation": "Expresses a series of actions happening repeatedly one after another.",
-    "long_explanation": "The ～つ～つ grammar point is used to express a series of actions happening continually one after another. This form nearly always comes in pairs, and the two actions should be related in some way or the events share a common subject. It can also imply that the situation is temporary or changing.",
-    "formation": "Verb-stem(masu-form) + つ  + same Verb-stem(masu-form) + つ",
+    "short_explanation": "Expresses two alternating actions happening repeatedly.",
+    "long_explanation": "The 〜つ〜つ pattern is used with two verb ます-stems to express two ongoing, repeated or alternating actions. For example, 'push and pull,' 'go and come back,' 'eat and play,' etc. The same subject is typically implied for both verbs.",
+    "formation": "Verb-ますstem + つ + Verb-ますstem + つ",
     "examples": [
       {
-        "jp": "朝から晩まで働きつ勉強つで疲れてしまった。",
-        "romaji": "Asa kara ban made hataraki tsu benkyou tsu de tsukarete shimatta.",
-        "en": "I'm exhausted from working and studying from morning till night."
+        "jp": "朝から晩まで働きつ勉強しつで、疲れてしまった。",
+        "romaji": "Asa kara ban made hataraki tsu benkyō shi tsu de, tsukarete shimatta.",
+        "en": "I’ve been working and studying from morning till night, and now I’m exhausted."
       },
       {
-        "jp": "彼は話し続けつ笑いつしていた。",
-        "romaji": "Kare wa hanashi tsuzuke tsu warai tsu shite ita.",
-        "en": "He kept talking and laughing."
+        "jp": "彼は話しつ笑いつして楽しんでいた。",
+        "romaji": "Kare wa hanashi tsu warai tsu shite tanoshinde ita.",
+        "en": "He was talking and laughing, having a good time."
       },
       {
         "jp": "子供たちは食べつ遊びつしていた。",
-        "romaji": "Kodomo tachi wa tabe tsu asobi tsu shite ita.",
+        "romaji": "Kodomo-tachi wa tabe tsu asobi tsu shite ita.",
         "en": "The children were eating and playing."
       },
       {
@@ -3702,108 +3683,109 @@ TODO: start below
   },
   {
     "title": "Verb てからというもの (Verb te kara to iu mono)",
-    "short_explanation": "Expresses a change that has been consistent since a certain time or event.",
-    "long_explanation": "The てからというもの grammar point is used to express that since a particular event occurred, a change has persisted. It implies a significant change in the situation or action since that point in time. The verb used in this case is always in て-form.",
-    "formation": "Verb-てform + からというもの",
+    "short_explanation": "Expresses that ever since a certain event happened, a condition has continued until now.",
+    "long_explanation": "The てからというもの grammar point indicates that from the time a certain action happened, a significant change or condition has persisted continuously. It emphasizes that the new situation contrasts with what came before.",
+    "formation": "Verb-て form + からというもの",
     "examples": [
       {
         "jp": "彼女と別れてからというもの、一人で過ごす時間が増えました。",
-        "romaji": "Kanojo to wakarete kara toiu mono, hitori de sugosu jikan ga fuetamashita.",
-        "en": "Since breaking up with her, the time I spend alone has increased."
+        "romaji": "Kanojo to wakarete kara to iu mono, hitori de sugosu jikan ga fuemashita.",
+        "en": "Ever since I broke up with her, I've spent more time alone."
       },
       {
         "jp": "子供が生まれてからというもの、自由な時間がなくなった。",
-        "romaji": "Kodomo ga umarete kara toiu mono, jiyuu na jikan ga nakunatta.",
-        "en": "Since the birth of the child, I have had no free time."
+        "romaji": "Kodomo ga umarete kara to iu mono, jiyū na jikan ga nakunatta.",
+        "en": "Since the baby was born, I have had no free time."
       },
       {
         "jp": "新しい仕事を始めてからというもの、毎日忙しくなりました。",
-        "romaji": "Atarashii shigoto o hajimete kara to iu mono, mainichi isogashikunarimashita.",
-        "en": "Ever since I started my new job, I have been busy every day."
+        "romaji": "Atarashii shigoto o hajimete kara to iu mono, mainichi isogashiku narimashita.",
+        "en": "Ever since I started my new job, I've been busy every day."
       },
       {
         "jp": "大学に入ってからというもの、スポーツをする時間がなくなった。",
-        "romaji": "Daigaku ni haitte kara toiu mono, supōtsu o suru jikan ga naku natta.",
-        "en": "I haven't had time to play sports since I entered university."
+        "romaji": "Daigaku ni haitte kara to iu mono, supōtsu o suru jikan ga nakunatta.",
+        "en": "I haven’t had time to play sports since I entered university."
       }
     ]
   },
   {
     "title": "Verb てこそ (Verb te koso)",
-    "short_explanation": "Express the idea that 'only by doing something, something else can be achieved or realized.'",
-    "long_explanation": "The ～てこそ grammar point is used to emphasize the indispensable nature of the action expressed in the verb. It can be translated as 'only by', 'only when' or 'only if' in English. The construction shows that the realization of a fact or a situation is due only to the presence of a certain condition.",
+    "short_explanation": "Emphasizes 'only by doing something, a certain result or realization can occur.'",
+    "long_explanation": "The ～てこそ grammar point is used to highlight that only by performing the verb in て-form can a certain important outcome be achieved or recognized. It often translates as 'only by (doing)' or 'only when (doing).'",
     "formation": "Verb-て form + こそ",
     "examples": [
       {
         "jp": "実際に使ってこそ、その価値を理解できる。",
-        "romaji": "Jissai ni tsukatte koso, sono kachi wo rikai dekiru.",
-        "en": "You can understand its value only by actually using it."
+        "romaji": "Jissai ni tsukatte koso, sono kachi o rikai dekiru.",
+        "en": "You can only understand its value by actually using it."
       },
       {
         "jp": "自分で経験してこそ、大切なことが学べる。",
         "romaji": "Jibun de keiken shite koso, taisetsu na koto ga manaberu.",
-        "en": "You can learn important things only by experiencing them yourself."
+        "en": "Only by experiencing it yourself can you learn what’s truly important."
       },
       {
-        "jp": "失敗してこそ、成功の味を知れる。",
-        "romaji": "Shippai shite koso, seikou no aji wo shireru.",
-        "en": "Only by failing, you can know the taste of success."
+        "jp": "失敗してこそ、成功の味がわかる。",
+        "romaji": "Shippai shite koso, seikō no aji ga wakaru.",
+        "en": "Only by failing do you really understand the taste of success."
       },
       {
         "jp": "努力してこそ、何かを成し遂げることができる。",
-        "romaji": "Doryoku shite koso, nanika wo nashitogeru koto ga dekiru.",
-        "en": "Only by making an effort, you can achieve something."
+        "romaji": "Doryoku shite koso, nanika o nashitogeru koto ga dekiru.",
+        "en": "Only through making an effort can you accomplish anything."
       }
     ]
   },
   {
     "title": "Verb ては (～te wa)",
-    "short_explanation": "Expresses a repeated negative event; 'whenever', 'the more...the more'.",
-    "long_explanation": "The ～ては grammar point is used to express a negative event or result that keeps happening whenever a certain action is performed or condition is met. It can translate into English as 'whenever' or 'the more...the more'. The formation only changes if it is used with an additional catchphrase.",
-    "formation": "Verb-てform + は",
+    "short_explanation": "Expresses a repeated pattern or cycle, often implying a frustrating outcome; 'whenever X happens, Y happens again.'",
+    "long_explanation": "The grammar ～ては is used to show that whenever one action or situation occurs, another action or situation repeatedly follows. It can also be used in an alternating pattern: 'do this, then that, then this, then that.'",
+    "formation": "Verb-て form + は",
     "examples": [
       {
-        "jp": "彼女に会うたびに、私は緊張してしまいます。",
-        "romaji": "Kanojo ni au tabi ni, watashi wa kinchou shite shimaimasu.",
+        "jp": "彼女に会っては、いつも緊張してしまいます。",
+        "romaji": "Kanojo ni atte wa, itsumo kinchō shite shimaimasu.",
         "en": "Whenever I meet her, I get nervous."
       },
       {
-        "jp": "この部屋を掃除しては乱雑になる。",
-        "romaji": "Kono heya wo souji shite wa konzatsu ni naru.",
-        "en": "Whenever I clean this room, it gets messy again."
+        "jp": "この部屋を掃除しては乱雑になり、片づけては散らかる。",
+        "romaji": "Kono heya o sōji shite wa konzatsu ni nari, katadzukete wa chirakaru.",
+        "en": "Whenever I clean this room, it gets messy again, and whenever I tidy it, it gets cluttered again."
       },
       {
-        "jp": "運動しては食べ、食べては運動する。",
-        "romaji": "Undou shite wa tabe, tabe te wa undou suru.",
-        "en": "I exercise then eat, and eat then exercise."
+        "jp": "運動しては食べ、食べては運動する生活が続いている。",
+        "romaji": "Undō shite wa tabe, tabete wa undō suru seikatsu ga tsudzuite iru.",
+        "en": "I keep exercising and then eating, and then eating and exercising."
       },
       {
-        "jp": "勉強しては寝て、寝ては勉強している。",
-        "romaji": "Benkyou shite wa nete, nete wa benkyou shite iru.",
-        "en": "I study then sleep, and sleep then study."
+        "jp": "勉強しては寝て、寝ては勉強する日々です。",
+        "romaji": "Benkyō shite wa nete, nete wa benkyō suru hibi desu.",
+        "en": "My days are spent studying and then sleeping, and then sleeping and studying."
       }
     ]
   },
+
   {
     "title": "Verb ては Verb (~ te wa ~)",
-    "short_explanation": "Used to express a repeated pattern of action, commonly translating into English as 'every time' or 'whenever'.",
-    "long_explanation": "This grammar point is used when you want to express a repeated or cyclical pattern of actions or events. It can be translated into English as 'every time', 'whenever', or 'if at all'. The formation is based on a verb.",
+    "short_explanation": "Expresses a repeated pattern of action; translates as 'every time', 'whenever', etc.",
+    "long_explanation": "This grammar point is used when you want to express a repeated or cyclical pattern of actions or events. It can be translated as 'every time', 'whenever', or 'if at all'. The typical formation is a verb in the て-form, followed by は, and then another verb (often in the same tense or a continuing action).",
     "formation": "Verb-て form + は + Verb",
     "examples": [
       {
         "jp": "私が通勤しては、電子書籍を読んでいます。",
-        "romaji": "Watashi ga tsuukin shite wa, denshi shoseki o yonde imasu.",
+        "romaji": "Watashi ga tsūkin shite wa, denshi shoseki o yonde imasu.",
         "en": "Whenever I commute, I read e-books."
       },
       {
         "jp": "友達が部屋に来ては、ゲームをしています。",
-        "romaji": "Tomodachi ga heya ni kite wa, geemu o shite imasu.",
-        "en": "Every time my friend comes to the room, we play games."
+        "romaji": "Tomodachi ga heya ni kite wa, gēmu o shite imasu.",
+        "en": "Every time my friend comes to my room, we play games."
       },
       {
-        "jp": "彼が酒を飲んでは、運転しないでください。",
-        "romaji": "Kare ga sake o nonde wa, unten shinaide kudasai.",
-        "en": "Whenever he drinks alcohol, please don't drive."
+        "jp": "彼が酒を飲んでは、運転を止めさせています。",
+        "romaji": "Kare ga sake o nonde wa, unten o tome sasete imasu.",
+        "en": "Whenever he drinks alcohol, I make him stop driving."
       },
       {
         "jp": "私が新しい曲を作っては、すぐに録音します。",
@@ -3814,37 +3796,37 @@ TODO: start below
   },
   {
     "title": "Verb てまでも (~ temademo)",
-    "short_explanation": "Expresses the idea of 'even if it means....'; 'no matter what it takes'",
-    "long_explanation": "This grammar point is used when a speaker wants to express that they would go to great lengths or even endure hardships to achieve something. It conveys the idea of 'even if it means....' or 'no matter what it takes'. It is often used with verbs in the て-form.",
+    "short_explanation": "Expresses 'even if it means doing...', 'no matter what it takes'.",
+    "long_explanation": "This grammar point is used when the speaker wants to emphasize the lengths they would go to in order to achieve something. It attaches to the verb's て-form to mean 'even if it means doing X', 'even at the cost of X', or 'no matter what it takes'.",
     "formation": "Verb-て form + までも",
     "examples": [
       {
         "jp": "試験に合格するために、寝る時間を削ってまでも勉強します。",
-        "romaji": "Shiken ni goukaku suru tame ni, neru jikan o kezutte mademo benkyou shimasu.",
-        "en": "In order to pass the exam, I will study even if it means cutting down on sleep."
+        "romaji": "Shiken ni gōkaku suru tame ni, neru jikan o kezutte mademo benkyō shimasu.",
+        "en": "I will study to pass the exam, even if it means cutting down on sleep."
       },
       {
-        "jp": "彼女と結婚できるなら、働いてまでもお金を貯めます。",
-        "romaji": "Kanojo to kekkon dekiru nara, hataraitemademo okane wo tamemasu.",
-        "en": "If I can marry her, I'll save money even if it means working."
+        "jp": "彼女と結婚できるなら、どんな苦労をしてまでもお金を貯めたい。",
+        "romaji": "Kanojo to kekkon dekiru nara, donna kurō o shite mademo okane o tametai.",
+        "en": "If I can marry her, I'll save money no matter what hardships it takes."
       },
       {
-        "jp": "この会社で働きたくて、遠くてまでも通います。",
-        "romaji": "Kono kaisha de hatarakitakute, tookute mademo kayoimasu.",
-        "en": "I want to work at this company, so I will commute even if it's far."
+        "jp": "この会社で働きたいので、長時間かけてまでも通います。",
+        "romaji": "Kono kaisha de hatarakitai node, chōjikan kakete mademo kayoimasu.",
+        "en": "Because I want to work at this company, I'll commute even if it means spending hours traveling."
       },
       {
-        "jp": "彼の快復のためなら、何をしてまでも支えます。",
-        "romaji": "Kare no kaifuku no tame nara, nani o shite mademo sasaemasu.",
-        "en": "For his recovery, I will support him no matter what it takes."
+        "jp": "彼の快復のためなら、何をしてまでも支えたい。",
+        "romaji": "Kare no kaifuku no tame nara, nani o shite mademo sasaetai.",
+        "en": "For his recovery, I'll support him no matter what it takes."
       }
     ]
   },
   {
     "title": "Verb てみせる (Verb te miseru)",
-    "short_explanation": "Expresses 'show by doing', 'demonstrate', 'prove by action'.",
-    "long_explanation": "The ～てみせる grammar point is used to express the action of demonstrating or proving something by doing it. It can be translated as 'show by doing', 'demonstrate', or 'prove by action' in English. The formation is consistent when it is used with a verb.",
-    "formation": "Verb-te form + みせる",
+    "short_explanation": "'Show by doing', 'demonstrate', 'prove by action'.",
+    "long_explanation": "The ～てみせる grammar point is used to express the action of demonstrating or proving something by actually doing it. It can be translated as 'show by doing', 'demonstrate', or 'prove by action' in English.",
+    "formation": "Verb-て form + みせる",
     "examples": [
       {
         "jp": "彼はそのパズルを解いてみせた。",
@@ -3853,181 +3835,182 @@ TODO: start below
       },
       {
         "jp": "私はこの仕事ができることをやってみせます。",
-        "romaji": "Watashi wa kono shigoto ga dekiru koto wo yatte misemasu.",
+        "romaji": "Watashi wa kono shigoto ga dekiru koto o yatte misemasu.",
         "en": "I will do this job to prove that I can."
       },
       {
-        "jp": "彼女は試験に合格することを勉強してみせました。",
-        "romaji": "Kanojo wa shiken ni goukaku suru koto wo benkyou shite misemashita.",
-        "en": "She studied to demonstrate that she will pass the exam."
+        "jp": "彼女は試験に合格するために一生懸命勉強してみせました。",
+        "romaji": "Kanojo wa shiken ni gōkaku suru tame ni isshōkenmei benkyō shite misemashita.",
+        "en": "She studied hard to prove she could pass the exam."
       },
       {
         "jp": "彼は自分が何も恐れていないと跳んでみせた。",
-        "romaji": "Kare wa jibun ga nani mo osorete inai to tonde miseta.",
-        "en": "He jumped to show that he is not afraid of anything."
+        "romaji": "Kare wa jibun ga nanimo osorete inai to tonde miseta.",
+        "en": "He jumped to show he wasn’t afraid of anything."
       }
     ]
   },
   {
     "title": "Verb てやまない (Verb te yamanai)",
-    "short_explanation": "To express the idea of 'doing something incessantly', 'can't help but do'.",
-    "long_explanation": "The ～てやまない grammar point is used to express that one is doing something so much that it becomes incessant or uncontrollable. It gives a strong emotional or passionate emphasis to the action being described.",
-    "formation": "Verb-te form + やまない",
+    "short_explanation": "Used with certain emotional/mental verbs to show a strong, unceasing emotion: 'can't stop', 'never cease to'.",
+    "long_explanation": "The grammar ～てやまない is typically used with verbs like 願う, 祈る, 愛する, 尊敬する, 期待する, etc., expressing a deep, continuous emotional state (love, respect, hope, prayer). It emphasizes that the feeling 'never ceases.'",
+    "formation": "Verb-て form + やまない (common with certain verbs)",
     "examples": [
       {
         "jp": "私は母を思ってやまない。",
         "romaji": "Watashi wa haha o omotte yamanai.",
-        "en": "I can't help but think about my mother."
+        "en": "I can't stop thinking of my mother."
       },
       {
-        "jp": "彼は彼女を愛してやまなかった。",
-        "romaji": "Kare wa kanojo o aishite yamanakatta.",
-        "en": "He was hopelessly in love with her."
+        "jp": "彼は彼女を愛してやまない。",
+        "romaji": "Kare wa kanojo o aishite yamanai.",
+        "en": "He loves her beyond measure."
       },
       {
         "jp": "彼は日本の文化を尊敬してやまない。",
         "romaji": "Kare wa Nihon no bunka o sonkei shite yamanai.",
-        "en": "He holds nothing but respect for Japanese culture."
+        "en": "He has unceasing respect for Japanese culture."
       },
       {
-        "jp": "私は音楽を聴いてやまない。",
-        "romaji": "Watashi wa ongaku o kiite yamanai.",
-        "en": "I can't stop listening to music."
+        "jp": "彼女の成功を願ってやまない。",
+        "romaji": "Kanojo no seikō o negatte yamanai.",
+        "en": "I can’t stop hoping for her success."
       }
     ]
   },
   {
     "title": "Verb ないではおかない (~ nai de wa okanai)",
-    "short_explanation": "Used to indicate that something definitely happens as a result or a consequence of a certain action.",
-    "long_explanation": "The Verb ないではおかない grammar point is used to express that something always follows or is a direct result of an action. This also implies that the speaker might not want the result to happen, but it's inevitable or likely to occur. It can be translated to English as 'would not fail to' or 'would not be complete without'. It's formed by attaching ないではおかない to the negative form of the verb.",
+    "short_explanation": "Means 'cannot help but do', 'will definitely do', or 'is bound to happen'.",
+    "long_explanation": "The pattern Verb ないではおかない indicates that something definitely occurs as a logical or emotional consequence. It can be translated as 'cannot not do', 'can’t help but do', or 'will inevitably do'. The verb is put in the negative form followed by ないではおかない.",
     "formation": "Verb-ない form + ではおかない",
     "examples": [
       {
         "jp": "彼女は毎回遅刻をしては、先生に怒られないではおかない。",
-        "romaji": "Kanojo wa maikai chikoku o shite wa, sensei ni okorarenai dewa okanai.",
-        "en": "Every time she's late, she wouldn't fail to get scolded by the teacher."
+        "romaji": "Kanojo wa maikai chikoku o shite wa, sensei ni okorarenaide wa okanai.",
+        "en": "Every time she's late, she inevitably gets scolded by the teacher."
       },
       {
         "jp": "美味しいものがあれば、彼は食べないではおかない。",
-        "romaji": "Oishii mono ga areba, kare wa tabenai dewa okanai.",
-        "en": "If there's delicious food, he would not fail to eat it."
+        "romaji": "Oishii mono ga areba, kare wa tabenai de wa okanai.",
+        "en": "If there's delicious food, he can't help but eat it."
       },
       {
-        "jp": "この小説は感動的なので、読めば涙を流さないではおかないだろう。",
-        "romaji": "Kono shousetsu wa kandouteki na node, yomeba namida o nagasanai dewa okanai darou.",
-        "en": "This novel is so moving that one would not fail to shed tears when reading it."
+        "jp": "この小説は感動的で、読めば涙を流さないではおかない。",
+        "romaji": "Kono shōsetsu wa kandōteki de, yomeba namida o nagasanai de wa okanai.",
+        "en": "This novel is so moving that you can't help but shed tears when you read it."
       },
       {
-        "jp": "彼は毎日練習しているので、試合で勝つことは負けないではおかないだろう。",
-        "romaji": "Kare wa mainichi renshuu shiteiru node, shiai de katsu koto wa makenai dewa okanai darou.",
-        "en": "Since he practices every day, he wouldn't fail to win the match."
+        "jp": "毎日練習しているから、試合では勝たないではおかないだろう。",
+        "romaji": "Mainichi renshū shite iru kara, shiai de wa katanai de wa okanai darō.",
+        "en": "He practices every day, so he's bound to win the match."
       }
     ]
   },
   {
     "title": "Verb ないではすまない (Verb nai dewa sumanai)",
-    "short_explanation": "Express a condition that 'cannot end without doing', 'must do no matter what', or 'cannot help but do'.",
-    "long_explanation": "The Verb ないではすまない grammar point is used when the speaker believes that a certain action is necessary or unavoidable. It can be translated as 'must do no matter what', 'cannot end without doing', or 'cannot help but do'. The formation is quite straightforward, we only need to add ないではすまない after the verb in its negative form.",
-    "formation": "Verb-negative form + ではすまない",
+    "short_explanation": "'Cannot end without doing', 'must do'—an unavoidable moral or social necessity.",
+    "long_explanation": "The grammar Verb ないではすまない expresses that something must be done (often for moral, social, or personal reasons) and cannot be left undone. It implies an obligation or inevitability, akin to 'I can't get away without doing it.'",
+    "formation": "Verb-ない form + ではすまない",
     "examples": [
       {
         "jp": "失敗をしたら、謝らないではすまない。",
-        "romaji": "Shippai o shitara, ayamaranai dewa sumanai.",
-        "en": "If you make a mistake, you cannot end without apologizing."
+        "romaji": "Shippai o shitara, ayamaranai de wa sumanai.",
+        "en": "If you make a mistake, you have to apologize—there’s no way around it."
       },
       {
-        "jp": "この問題は重大で、報告しないではすまない。",
-        "romaji": "Kono mondai wa juudai de, houkoku shinai dewa sumanai.",
-        "en": "This issue is serious, I must report it no matter what."
+        "jp": "この問題は重大なので、報告しないではすまない。",
+        "romaji": "Kono mondai wa jūdai na node, hōkoku shinai de wa sumanai.",
+        "en": "This issue is so serious that I must report it."
       },
       {
         "jp": "この映画はとても感動的で、泣かないではすまない。",
-        "romaji": "Kono eiga wa totemo kandouteki de, nakanai dewa sumanai.",
-        "en": "This movie is so moving that you can't help but cry."
+        "romaji": "Kono eiga wa totemo kandōteki de, nakanai de wa sumanai.",
+        "en": "This movie is so moving that you can’t help but cry."
       },
       {
         "jp": "子供が間違えたら、教えないではすまない。",
-        "romaji": "Kodomo ga machigaetara, oshienai dewa sumanai.",
-        "en": "If the child makes a mistake, you must correct it no matter what."
+        "romaji": "Kodomo ga machigaetara, oshienai de wa sumanai.",
+        "en": "If a child makes a mistake, you must correct them—there’s no avoiding it."
       }
     ]
   },
   {
     "title": "Verb ないまでも (Verb nai made mo)",
-    "short_explanation": "Even if not completely; at least",
-    "long_explanation": "The ないまでも grammar point is used to express 'even if not completely / at least' in English. It implies that although the action of the verb does not completely take place, at least a part of it or some condition related to it holds.",
+    "short_explanation": "'Even if not to the extent of...', 'although not completely...'.",
+    "long_explanation": "The pattern ないまでも is used when acknowledging that something doesn’t reach a certain extreme, but at least some part or degree of it applies. Often translated as 'even if not entirely...' or 'though not as far as...'.",
     "formation": "Verb-ない form + までも",
     "examples": [
       {
-        "jp": "全てを理解しないまでも、少なくとも基本的なことは分かればいい。",
-        "romaji": "Subete wo rikai shinai made mo, sukunakutomo kihon tekina koto wa wakareba ii.",
-        "en": "Even if you don't understand everything, at least as long as you understand the basics."
+        "jp": "全てを理解しないまでも、基本的なことは分かってほしい。",
+        "romaji": "Subete o rikai shinai made mo, kihonteki na koto wa wakatte hoshii.",
+        "en": "Even if you don't understand everything, I'd like you at least to grasp the basics."
       },
       {
-        "jp": "会わないまでも、メールで連絡を取りましょう。",
-        "romaji": "Awa nai mademo, mēru de renraku o torimashou.",
-        "en": "Even if we can't meet, let's at least communicate by email."
+        "jp": "会えないまでも、電話で声を聞きたい。",
+        "romaji": "Aenai made mo, denwa de koe o kikitai.",
+        "en": "Even if we can’t meet, I still want to hear your voice over the phone."
       },
       {
-        "jp": "毎日は続けられないまでも、週に一度くらいはジョギングをしたい。",
-        "romaji": "Mainichi wa tsuzukerarenai made mo, shū ni ichido kuraiha jōgingu o shitai.",
-        "en": "Even if I can't keep it up every day, I want to jog at least once a week."
+        "jp": "毎日は無理にしても、週に一度くらいはジョギングを続けたい。",
+        "romaji": "Mainichi wa muri ni shite mo, shū ni ichido kurai wa jogingu o tsuzuketai.",
+        "en": "Even if I can't do it every day, I want to at least keep jogging once a week."
       },
       {
-        "jp": "全員に気に入られることはできないまでも、いつも自分自身でいたい。",
-        "romaji": "Zenin ni ki ni irareru koto wa dekinai made mo, itsumo jibun jishinde itai.",
-        "en": "Even though I can't make everyone like me, I always want to be myself."
+        "jp": "全員に気に入られないまでも、誠実に向き合いたい。",
+        "romaji": "Zen'in ni ki ni irarenai made mo, seijitsu ni mukiai tai.",
+        "en": "Even if not everyone will like me, I still want to face them sincerely."
       }
     ]
   },
+
   {
     "title": "Verb ないものだろうか (Verb nai mono darou ka)",
-    "short_explanation": "Expressing the desire or inquisition; 'Can't I/you/we', 'Shouldn't I/you/we'.",
-    "long_explanation": "This grammar point is used when the speaker expresses the hope, wish, or wonder if an action could be possible. Generally, it creates the nuance of 'Can't I?' or 'Is it not possible?' in English.",
-    "formation": "Verb-casual + ないものだろうか",
+    "short_explanation": "Expressing hope or wonder if something can be done: 'Isn't there a way...?', 'Can't we...?'",
+    "long_explanation": "This grammar point is used when the speaker expresses the hope, wish, or wonder if an action could be possible. It creates the nuance of 'Isn't there some way...?' or 'Can't I/you/we...?' in English, often with the negative potential form.",
+    "formation": "Verb-negative (often negative potential) + ものだろうか",
     "examples": [
       {
-        "jp": "もっと時間があれば、ここに来るないものだろうか。",
-        "romaji": "Motto jikan ga areba, koko ni kuru nai mono darou ka.",
+        "jp": "もっと時間があれば、ここに来られないものだろうか。",
+        "romaji": "Motto jikan ga areba, koko ni korarenai mono darou ka.",
         "en": "If I had more time, wouldn't it be possible to come here?"
       },
       {
-        "jp": "彼女にもっと良く説明すれば、理解しないものだろうか。",
-        "romaji": "Kanojo ni motto yoku setsumei sureba, rikai shinai mono darou ka.",
-        "en": "If I explain better to her, wouldn't she understand?"
+        "jp": "彼女にもっとよく説明すれば、理解できないものだろうか。",
+        "romaji": "Kanojo ni motto yoku setsumei sureba, rikai dekinai mono darou ka.",
+        "en": "If I explain it better to her, wouldn't she understand?"
       },
       {
-        "jp": "この問題を解決する方法があるないものだろうか。",
-        "romaji": "Kono mondai wo kaiketsu suru houhou ga aru nai mono darou ka.",
-        "en": "Is there not a way to solve this problem?"
+        "jp": "この問題を解決する方法はないものだろうか。",
+        "romaji": "Kono mondai o kaiketsu suru houhou wa nai mono darou ka.",
+        "en": "Isn't there a way to solve this problem?"
       },
       {
-        "jp": "自分の間違いを認めないものだろうか。",
-        "romaji": "Jibun no machigai o mitomenai mono darou ka.",
+        "jp": "自分の間違いを認められないものだろうか。",
+        "romaji": "Jibun no machigai o mitomerarenai mono darou ka.",
         "en": "Can't I admit my own mistakes?"
       }
     ]
   },
   {
     "title": "Verb ないものでもない (Verb nai mono demo nai)",
-    "short_explanation": "Expresses the idea that 'it's not that I don't...'; 'it's not that there aren't...'",
-    "long_explanation": "The grammar point Verbないものでもない is used to express the idea that something is not non-existent, or it's not entirely impossible or incorrect. Literally, it can be translated to English as 'it's not that I don't...' or 'it's not that there aren't...'. It is often used to deny the negative form of a verb, expressing that the situation in question may not be absolutely impossible or incorrect.",
+    "short_explanation": "Expresses the idea that it's not entirely impossible or non-existent: 'It's not that I don't...', 'It's not that there aren't...'",
+    "long_explanation": "The grammar point Verbないものでもない is used to express that a situation is not completely impossible or nonexistent. Literally, it can be translated as 'it's not that there aren't...' or 'it's not that I never...'. It implies that some possibility or partial truth exists.",
     "formation": "Verb-negative form (ない form) + ものでもない",
     "examples": [
       {
-        "jp": "旅行に行きたいと思うこともないものでもない。",
-        "romaji": "Ryokou ni ikitai to omou koto mo nai mono demo nai.",
-        "en": "It's not that I don't ever want to travel."
+        "jp": "旅行に行きたいと思わないものでもない。",
+        "romaji": "Ryokou ni ikitai to omowanai mono demo nai.",
+        "en": "It's not that I never want to travel."
       },
       {
         "jp": "彼の言ったこと全部が間違いないものでもない。",
-        "romaji": "Kare no itta koto zenbu ga machigainai mono demo nai.",
-        "en": "It's not that everything he said wasn't wrong."
+        "romaji": "Kare no itta koto zenbu ga machigai nai mono demo nai.",
+        "en": "It's not that everything he said is completely free from mistakes."
       },
       {
         "jp": "その問題が解けないものでもない。",
         "romaji": "Sono mondai ga tokenai mono demo nai.",
-        "en": "It's not that I can't solve that problem."
+        "en": "It's not that the problem can't be solved."
       },
       {
         "jp": "彼に会いたくないものでもない。",
@@ -4038,8 +4021,8 @@ TODO: start below
   },
   {
     "title": "Verb の ない Noun (~ no nai ~)",
-    "short_explanation": "Used to modify a noun with a negative verb form; 'Noun where verb does not happen'.",
-    "long_explanation": "The grammar point VerbのないNoun is used to modify a noun with a negative verb form. The verb in its negative form is used directly before the noun to describe a specific characteristic about the noun, typically indicating the absence of the action in the verb. Translated in English, it means 'Noun where verb does not happen'.",
+    "short_explanation": "Used to modify a noun with a negative verb form; 'a Noun without (Verb)'.",
+    "long_explanation": "VerbのないNoun modifies a noun by describing the absence of the verb's action. It indicates 'a Noun where the action does not happen' or 'a Noun without that action.'",
     "formation": "Verb in negative form + の + Noun",
     "examples": [
       {
@@ -4065,104 +4048,104 @@ TODO: start below
     ]
   },
   {
-    "title": "Verb ば きり が ない (〜ba kiri ga nai)",
-    "short_explanation": "Used to indicate an absence of any limit or end, expressing 'if one starts to …, there will be no end to it'.",
-    "long_explanation": "The grammar pattern ～ばきりがない is used when expressing that if a certain action is started, it won’t end or there is no limit. It conveys a sense of ‘if one starts to …, there will be no end to it’. Generally, it’s used when talking about negative things or infinite possibilities.",
-    "formation": "Verb-conditional form + ば + きりがない",
+    "title": "Verb ば きりがない (〜ba kiri ga nai)",
+    "short_explanation": "Indicates there's no end once you start listing, doing, or saying something: 'If one starts to..., there will be no end.'",
+    "long_explanation": "The pattern ～ばきりがない is used when expressing that if you start an action—like listing examples or complaining—there is no end. It literally means 'if (you) do X, there's no limit/end.'",
+    "formation": "Verb-conditional form (ば) + きりがない",
     "examples": [
       {
-        "jp": "彼のことを考えれば考えるほど、頭が痛くなるばかりだ。",
-        "romaji": "Kare no koto o kangaereba kangaeru hodo, atama ga itaku naru bakari da.",
-        "en": "The more I think about him, the more my head hurts."
+        "jp": "悪口を言い始めればきりがない。",
+        "romaji": "Waruguchi o iihajimereba kiri ga nai.",
+        "en": "Once I start speaking ill of someone, there's no end."
       },
       {
-        "jp": "こんなにたくさんの問題を解けば解くほど、次から次へと新たな問題が出てきてきりがない。",
-        "romaji": "Konna ni takusan no mondai o tokeba toku hodo, tsugi kara tsugi e to aratana mondai ga dete kite kiri ga nai.",
-        "en": "The more problems I solve, the more new problems appear. It's never-ending."
+        "jp": "彼の欠点を数えればきりがない。",
+        "romaji": "Kare no ketten o kazoereba kiri ga nai.",
+        "en": "If I start counting his flaws, there will be no end."
       },
       {
-        "jp": "彼に意見を言えば言うほど、彼は頑固になるばかりで話が決して進まない。",
-        "romaji": "Kare ni iken o ieba iu hodo, kare wa ganko ni naru bakari de hanashi ga kesshite susumanai.",
-        "en": "The more I express my opinions to him, the more stubborn he gets, and our conversation never progresses."
+        "jp": "この国の美しい場所は、挙げればきりがない。",
+        "romaji": "Kono kuni no utsukushii basho wa, agereba kiri ga nai.",
+        "en": "If I start listing this country's beautiful places, there's no end."
       },
       {
-        "jp": "こんなに高い金額を出せば出すほど、次から次へと欲しくなる物が出てきてきりがない。",
-        "romaji": "Konna ni takai kingaku o daseba dasu hodo, tsugi kara tsugi e to hoshiku naru mono ga dete kite kiri ga nai.",
-        "en": "The more money I spend, the more things I want to buy. It's never-ending."
+        "jp": "ほかにも例を挙げればきりがない。",
+        "romaji": "Hoka ni mo rei o agereba kiri ga nai.",
+        "en": "If I start giving more examples, there will be no end."
       }
     ]
   },
   {
     "title": "Verb もしないで (~ mo shinai de)",
-    "short_explanation": "Meaning: 'without even doing'.",
-    "long_explanation": "The もしないで grammar point is used to express an action that hasn't been done before (or even not attempting to do it), yet already doing or completing another action. It conveys the sense of 'without even doing'. The verb used before もしないで should be in its dictionary form.",
-    "formation": "Verb-dictionary form + もしないで",
+    "short_explanation": "Means 'without even doing'.",
+    "long_explanation": "This pattern is used to express that one has not done (or not even tried to do) some action before proceeding to do something else. It emphasizes doing something 'without even' doing the prior action.",
+    "formation": "Verb (masu stem) + もしないで",
     "examples": [
       {
         "jp": "調べもしないで、答えを書きました。",
-        "romaji": "Shirabe mo shinai de, kotae wo kakimashita.",
+        "romaji": "Shirabe mo shinai de, kotae o kakimashita.",
         "en": "I wrote the answer without even investigating."
       },
       {
         "jp": "彼は試験を勉強もしないで、テストに合格した。",
-        "romaji": "Kare wa shiken wo benkyou mo shinai de, tesuto ni goukaku shita.",
-        "en": "He passed the test without even studying for the exam."
+        "romaji": "Kare wa shiken o benkyou mo shinai de, tesuto ni goukaku shita.",
+        "en": "He passed the test without even studying."
       },
       {
-        "jp": "彼女はその本を読むもしないで、レポートを書いた。",
-        "romaji": "Kanojo wa sono hon wo yomu mo shinai de, repooto wo kaita.",
-        "en": "She wrote a report without even reading the book."
+        "jp": "彼女はその本を読みもしないで、レポートを書いた。",
+        "romaji": "Kanojo wa sono hon o yomi mo shinai de, repooto o kaita.",
+        "en": "She wrote her report without even reading the book."
       },
       {
         "jp": "準備もしないで、プレゼンテーションを始めました。",
-        "romaji": "Junbi mo shinai de, purezenteeshon wo hajimemashita.",
-        "en": "Started the presentation without even preparing."
+        "romaji": "Junbi mo shinai de, purezenteeshon o hajimemashita.",
+        "en": "He started the presentation without even preparing."
       }
     ]
   },
   {
-    "title": "Verb やしない (~yashinai)",
-    "short_explanation": "Expresses the idea of 'not doing such things', 'no way', or strong denial.",
-    "long_explanation": "The verb やしない grammar point is used to express a strong denial or to say one would never do something. The formation of this grammar point is simple: Just add やしない to the dictionary form of any verb. The nuance added by this phrase usually means the speaker considers the action very unlikely or would not normally do the action.",
-    "formation": "Verb-dictionary form + やしない",
+    "title": "Verb やしない (~ yashinai)",
+    "short_explanation": "Expresses a strong denial or refusal: 'I would never...', 'No way I would...'.",
+    "long_explanation": "This grammar adds a nuance of strong denial or dismissal of the idea that the speaker (or someone) would do the action. Formed by adding やしない to the verb's stem, it often appears in casual or spoken language.",
+    "formation": "Verb (masu stem) + やしない",
     "examples": [
       {
         "jp": "こんな時に泣きやしない。",
-        "romaji": "Konna toki ni nakiyashinai.",
+        "romaji": "Konna toki ni naki-yashinai.",
         "en": "I would never cry at a time like this."
       },
       {
         "jp": "私が彼を助けやしない。",
-        "romaji": "Watashi ga kare o tasukeyashinai.",
+        "romaji": "Watashi ga kare o tasuke-yashinai.",
         "en": "There's no way I'd help him."
       },
       {
         "jp": "彼がそんなことを言いやしない。",
-        "romaji": "Kare ga sonna koto o iiyashinai.",
+        "romaji": "Kare ga sonna koto o ii-yashinai.",
         "en": "He would never say such a thing."
       },
       {
         "jp": "私がそんな高価なものを買いやしない。",
-        "romaji": "Watashi ga sonna kouka na mono o kaiyashinai.",
-        "en": "There's no way I would buy such an expensive item."
+        "romaji": "Watashi ga sonna kouka na mono o kai-yashinai.",
+        "en": "There's no way I'd buy something so expensive."
       }
     ]
   },
   {
-    "title": "Verb よう (~ you)",
-    "short_explanation": "The means to do something or the way something is done.",
-    "long_explanation": "The よう grammar point is used to express the way things are done or the method used to do something. It is often used in situation where someone is describing how to do something or asking about how to do something. Also, it can be used with the verb する to mean 'to try to'. The formation changes according to whether it is used with a verb.",
-    "formation": "Verb-て form + よう",
+    "title": "Verb よう (~ you / ~ you ni)",
+    "short_explanation": "Expresses 'the way/manner of doing something' or 'in order to / so that / try to'.",
+    "long_explanation": "This usage of よう most commonly appears as 「Verb辞書形 + ように」. It can mean 'in order to do something', 'so that something happens', or 'in the way someone does something'. It is also used in expressions like ～ようにする (to make an effort to) or ～ように言う (to tell someone to do something).",
+    "formation": "Verb (dictionary or negative form) + ように (する / etc.)",
     "examples": [
       {
         "jp": "この問題を解くように努力します。",
-        "romaji": "Kono mondai wo toku you ni doryoku shimasu.",
+        "romaji": "Kono mondai o toku you ni doryoku shimasu.",
         "en": "I will try to solve this problem."
       },
       {
         "jp": "彼が言ったようにやりましょう。",
         "romaji": "Kare ga itta you ni yarimashou.",
-        "en": "Let's do it as he said."
+        "en": "Let's do it the way he said."
       },
       {
         "jp": "毎日走るようにしています。",
@@ -4177,37 +4160,37 @@ TODO: start below
     ]
   },
   {
-    "title": "Verb ようか Verbる まいか (Verb you ka Verb ru mai ka)",
-    "short_explanation": "Expresses hesitation or indecision between two actions; 'whether to' or 'should I or not'.",
-    "long_explanation": "The 'Verb ようか Verbる まいか' grammar point is used to express inner conflict or indecision about whether or not to perform two particular actions. It is translated in English as 'whether to do something or not'. This grammar point is very formal and mainly used in written language.",
-    "formation": "Verb-volitional + か + Verb-nonpast negative + か",
+    "title": "Verb ようか Verbるまいか (Verb you ka Verb ru mai ka)",
+    "short_explanation": "Expresses indecision: 'Should I do it or not?'.",
+    "long_explanation": "This grammar shows hesitation about whether to do something or not. The volitional form plus まい (negative volitional) suggests an internal debate about two opposite choices of the *same* verb.",
+    "formation": "Verb-volitional form + か + Verb-volitional negative form (まい) + か",
     "examples": [
       {
-        "jp": "彼に話すべきようか話さぬべきか、本当に迷っている。",
-        "romaji": "Kare ni hanasu beki you ka hanasanu beki ka, hontou ni mayotte iru.",
-        "en": "I'm really unsure whether I should talk to him or not."
+        "jp": "彼に話そうか話すまいか、本当に迷っている。",
+        "romaji": "Kare ni hanasou ka hanasu mai ka, hontou ni mayotte iru.",
+        "en": "I'm really unsure whether to talk to him or not."
       },
       {
-        "jp": "試験を受けるようか退学するまいか迷っています。",
-        "romaji": "Shiken wo ukeru you ka, taigaku suru mai ka mayotte imasu.",
-        "en": "I'm wondering whether to take the exam or drop out of school."
+        "jp": "試験を受けようか受けまいか迷っています。",
+        "romaji": "Shiken o ukeyou ka ukemai ka mayotte imasu.",
+        "en": "I'm wondering whether to take the exam or not."
       },
       {
-        "jp": "あの人に謝るようか、謝らないまいか考えています。",
-        "romaji": "Ano hito ni ayamaru you ka, ayamaranai mai ka kangaete imasu.",
+        "jp": "あの人に謝ろうか謝るまいか考えています。",
+        "romaji": "Ano hito ni ayamarou ka ayamaru mai ka kangaete imasu.",
         "en": "I'm considering whether to apologize to that person or not."
       },
       {
-        "jp": "進学するようか就職するまいか悩んでいる。",
-        "romaji": "Shingaku suru you ka shuushoku suru mai ka nayande iru.",
-        "en": "I am worried about whether to go on to school or get a job."
+        "jp": "進学しようかしまいか悩んでいる。",
+        "romaji": "Shingaku shiyou ka shimai ka nayande iru.",
+        "en": "I'm worried about whether to continue my studies or not."
       }
     ]
   },
   {
     "title": "Verb ようが Verb るまいが (Verb you ga Verb ru mai ga)",
-    "short_explanation": "Expresses the sense of 'whether...or', 'no matter whether... or not'.",
-    "long_explanation": "The grammar point Verbようが Verbるまいが is used to indicate an indifference to two possible outcomes. It can be translated as 'whether...or', 'no matter whether... or not' in English. This is used with verbs to express that the outcome does not change even if the condition or the situation changes.",
+    "short_explanation": "Expresses 'whether or not', 'no matter if something happens or not'.",
+    "long_explanation": "Verbようが Verbるまいが indicates that whatever happens—whether the action is done or not—the outcome remains unchanged or the speaker's stance remains the same.",
     "formation": "Verb-volitional form + が + Verb-negative volitional form + が",
     "examples": [
       {
@@ -4218,12 +4201,12 @@ TODO: start below
       {
         "jp": "勉強しようがしまいが、テストの結果は変わらない。",
         "romaji": "Benkyou shiyou ga shimai ga, tesuto no kekka wa kawaranai.",
-        "en": "Whether you study or not, the test result won't change."
+        "en": "Whether you study or not, the test results won't change."
       },
       {
         "jp": "雨が降ろうが降るまいが、ピクニックに行きます。",
         "romaji": "Ame ga furou ga furumai ga, pikunikku ni ikimasu.",
-        "en": "Whether it rains or not, we're going to the picnic."
+        "en": "Whether it rains or not, we're going on a picnic."
       },
       {
         "jp": "暑かろうが寒かろうが、毎日ジョギングします。",
@@ -4233,216 +4216,217 @@ TODO: start below
     ]
   },
   {
-    "title": "Verb ようがない (〜yō ga nai)",
-    "short_explanation": "No way to do something. Not possible.",
-    "long_explanation": "The 〜ようがない grammar point is used to express situations where there is no way or it's not possible to do something. It indicates that even if someone wants to perform an action, circumstances prevent them from doing so.",
-    "formation": "Verb-volitional + ようがない",
+    "title": "Verb ようがない (〜you ga nai)",
+    "short_explanation": "Expresses 'no way to do something,' 'impossible to do'.",
+    "long_explanation": "〜ようがない is used to say that there's no way or method to do something, even if you wanted to.",
+    "formation": "Verb (masu stem) + ようがない",
     "examples": [
       {
-        "jp": "電車が混んでいて、動くようがない。",
-        "romaji": "Densha ga konde ite, ugoku yō ga nai.",
+        "jp": "電車が混んでいて、動きようがない。",
+        "romaji": "Densha ga konde ite, ugoki you ga nai.",
         "en": "The train is so crowded that I can't move."
       },
       {
-        "jp": "彼はとても早く走るので、追いつくようがない。",
-        "romaji": "Kare wa totemo hayaku hashiru node, oitsuku yō ga nai.",
+        "jp": "彼はとても早く走るので、追いつきようがない。",
+        "romaji": "Kare wa totemo hayaku hashiru no de, oitsuki you ga nai.",
         "en": "He runs so fast, there's no way I can catch up."
       },
       {
-        "jp": "私には理解するようがない。",
-        "romaji": "Watashi ni wa rikai suru yō ga nai.",
-        "en": "There is no way for me to understand it."
+        "jp": "私には理解しようがない。",
+        "romaji": "Watashi ni wa rikai shiyou ga nai.",
+        "en": "There's no way for me to understand it."
       },
       {
-        "jp": "どうやっても、これを直すようがない。",
-        "romaji": "Dōyatte mo, kore o naosu yō ga nai.",
-        "en": "No matter how I try, there is no way to fix this."
+        "jp": "どうやっても、これを直しようがない。",
+        "romaji": "Dou yatte mo, kore o naoshi you ga nai.",
+        "en": "No matter what I try, there's no way to fix this."
       }
     ]
   },
+
   {
     "title": "Verb ようと Verbる まいと (Verb you to Verb ru mai to)",
-    "short_explanation": "This structure indicates that regardless if one does verb 1 or not (verb 2), the outcome remains the same.",
-    "long_explanation": "The expression 'Verb ようと Verbる まいと' means 'Regardless of whether to verb (verb 1) or not to verb (verb 2)', it does not change the current situation. This grammar pattern is used to indicate the speaker's firm stance and unchanging attitude about something.",
-    "formation": "Verb-volitional form + ようと + Verb-negative form + まいと",
+    "short_explanation": "This structure indicates that regardless of whether one does (verb) or not, the outcome/attitude remains unchanged.",
+    "long_explanation": "The expression 'Verb-volitional form + と + Verb-negative volitional (～まい) + と' means 'regardless of whether one does X or not, it doesn't change the situation'. It shows the speaker's firm stance or the unchanging nature of some outcome.",
+    "formation": "Verb-volitional + と + Verb-negative volitional (～まい) + と",
     "examples": [
       {
         "jp": "あなたが来ようと来るまいと、パーティーは予定通りに始まります。",
-        "romaji": "Anata ga koyou to kuru mai to, paatii wa yoteidouri ni hajimarimasu.",
+        "romaji": "Anata ga koyou to kuru mai to, paatii wa yotei doori ni hajimarimasu.",
         "en": "Whether you come or not, the party will start as scheduled."
       },
       {
         "jp": "彼があそこに行こうと行くまいと、私たちは止めることができません。",
         "romaji": "Kare ga asoko ni ikou to iku mai to, watashitachi wa tomeru koto ga dekimasen.",
-        "en": "Whether he tries to go there or not, we cannot stop him."
+        "en": "Whether he tries to go there or not, we can't stop him."
       },
       {
         "jp": "彼女が謝ろうと謝るまいと、事実は変わらない。",
         "romaji": "Kanojo ga ayamarou to ayamaru mai to, jijitsu wa kawaranai.",
-        "en": "Whether she apologizes or not, the fact doesn't change."
+        "en": "Whether she apologizes or not, the fact won't change."
       },
       {
         "jp": "試験を受けようと受けるまいと、親として私はあなたを支えます。",
-        "romaji": "Shiken wo ukeyou to ukeru mai to, oya to shite watashi wa anata wo sasaemasu.",
-        "en": "Whether you take the exam or not, as a parent, I will support you."
+        "romaji": "Shiken o ukeyou to ukeru mai to, oya to shite watashi wa anata o sasaemasu.",
+        "en": "Whether you take the exam or not, I will support you as your parent."
       }
     ]
   },
   {
     "title": "Verb ようにも (〜you ni mo)",
-    "short_explanation": "Used to express something that cannot be done even though one wants to.",
-    "long_explanation": "The ～ようにも grammar point is used to indicate that a person is trying to do something or wants to do something, but can't do it for some reason. It is usually used in combination with potential forms to express an inability to do something, even if one wishes or tries to do so.",
-    "formation": "Verb-volitional form + ようにも",
+    "short_explanation": "Used to express 'even though one wants to do something, one can't for some reason'.",
+    "long_explanation": "The ～ようにも grammar point indicates that a person wants or tries to do something (volitional form), but for some reason cannot. Often, there's a second clause explaining what prevents the action.",
+    "formation": "Verb-volitional form + にも + (reason/potential negative, etc.)",
     "examples": [
       {
         "jp": "もう少し速く走ろうにも、足が痛くて無理だ。",
         "romaji": "Mou sukoshi hayaku hashirou ni mo, ashi ga itakute muri da.",
-        "en": "I would like to run a little faster, but I can't because my leg hurts."
+        "en": "I'd like to run a bit faster, but I can’t because my leg hurts."
       },
       {
         "jp": "彼に話そうにも、彼は私を無視している。",
         "romaji": "Kare ni hanasou ni mo, kare wa watashi o mushi shite iru.",
-        "en": "I would like to talk to him, but he is ignoring me."
+        "en": "I want to talk to him, but he's ignoring me."
       },
       {
         "jp": "もっと勉強しようにも、時間がない。",
         "romaji": "Motto benkyou shiyou ni mo, jikan ga nai.",
-        "en": "I would like to study more, but I don't have time."
+        "en": "I want to study more, but I have no time."
       },
       {
         "jp": "彼女に謝ろうにも、彼女はもう怒っている。",
         "romaji": "Kanojo ni ayamarou ni mo, kanojo wa mou okotte iru.",
-        "en": "I would like to apologize to her, but she is already angry."
+        "en": "I would like to apologize to her, but she's already angry."
       }
     ]
   },
   {
     "title": "Verb ようにも Verb れない (〜you ni mo 〜renai)",
-    "short_explanation": "Expresses the inability to do something even if one wants to",
-    "long_explanation": "The grammar structure Verb ようにも Verb れない is used to indicate that you want to do something, but you can't do it due to some kind of restriction or limitation, generally beyond your control. In this structure, the verb is used in the potential form.",
-    "formation": "Verb-potential + ようにも + Verb-potential negative form",
+    "short_explanation": "Expresses the inability to do something even if one wants/tries.",
+    "long_explanation": "This grammar shows that you want (or try) to do something (volitional form), but cannot due to some obstacle. Often it appears as 'Verb-volitional + にも + Verb (potential negative)' or simply 'Verb-volitional + にも + (reason you can't)'.",
+    "formation": "Verb-volitional form + にも + (potential negative form / reason)",
     "examples": [
       {
         "jp": "彼を信じようにも信じられない証拠がある。",
         "romaji": "Kare o shinjiyou ni mo shinjirarenai shouko ga aru.",
-        "en": "There is evidence that makes it impossible to believe him, even if I want to believe him."
+        "en": "Even if I want to believe him, there's evidence that prevents me from doing so."
       },
       {
         "jp": "早く出発しようにも車が故障してしまった。",
         "romaji": "Hayaku shuppatsu shiyou ni mo kuruma ga koshou shite shimatta.",
-        "en": "Even if I wanted to leave early, my car broke down."
+        "en": "Even if I want to leave early, my car has broken down."
       },
       {
         "jp": "彼に電話しようにも電話番号を知らない。",
         "romaji": "Kare ni denwa shiyou ni mo denwa bangou o shiranai.",
-        "en": "I want to call him, but I can't because I don't know his phone number."
+        "en": "I want to call him, but I don’t know his phone number."
       },
       {
         "jp": "もっと勉強しようにも時間がない。",
         "romaji": "Motto benkyou shiyou ni mo jikan ga nai.",
-        "en": "I want to study more, but I can't because I don't have time."
+        "en": "I want to study more, but there is no time."
       }
     ]
   },
   {
     "title": "Verb ようもない (~you mo nai)",
-    "short_explanation": "Expresses that something is impossible to do.",
-    "long_explanation": "The grammar point verb ようもない is used to imply the impossibility of doing something. It is put after the potential form of the verb, eliminating the い at the end of the verb and replacing it with う. Then you attach もない to express that it is impossible to perform the action.",
-    "formation": "Verb-potential form-(removeい)+う + もない",
+    "short_explanation": "Expresses 'it's impossible to do something'.",
+    "long_explanation": "～ようもない typically attaches to the verb's ます-stem, adding ようもない to indicate that there is 'no way' or 'no method' to perform the action. It’s the same nuance as 'Verbようがない' in many references.",
+    "formation": "Verb-ます stem + ようもない",
     "examples": [
       {
-        "jp": "この問題を解くようもない。",
-        "romaji": "Kono mondai o toku you mo nai.",
+        "jp": "この問題は解きようもない。",
+        "romaji": "Kono mondai wa toki you mo nai.",
         "en": "It's impossible to solve this problem."
       },
       {
-        "jp": "これ以上我慢するようもない。",
-        "romaji": "Kore ijou gaman suru you mo nai.",
-        "en": "It's impossible to bear any more."
+        "jp": "これ以上我慢しようもない。",
+        "romaji": "Kore ijou gaman shiyou mo nai.",
+        "en": "It's impossible to endure any further."
       },
       {
-        "jp": "彼には通じるようもない。",
-        "romaji": "Kare niwa tsuujiru you mo nai.",
-        "en": "It's impossible to get through to him."
+        "jp": "彼には通じようもない。",
+        "romaji": "Kare ni wa tsuujiyou mo nai.",
+        "en": "There's no way to get through to him."
       },
       {
-        "jp": "その薬を飲むようもない。",
-        "romaji": "Sono kusuri o nomu you mo nai.",
-        "en": "It's impossible to swallow that medicine."
+        "jp": "その薬は飲みようもない。",
+        "romaji": "Sono kusuri wa nomiyou mo nai.",
+        "en": "It's impossible to take (swallow) that medicine."
       }
     ]
   },
   {
     "title": "Verbる がままに (〜ga mama ni)",
-    "short_explanation": "Expresses the idea of 'Just as...is/does'; 'while', 'as...follows'.",
-    "long_explanation": "The がままに grammar point is used to describe an action or situation occurring exactly as it is, without any change or control over it, often happening naturally, unintentionally or involuntarily. It can be translated as 'just as...is/does', 'while', 'as...follows' in English. The formation is straightforward and it is used with the dictionary form of verbs.",
+    "short_explanation": "Expresses 'letting something happen as it is'; 'just as something does'.",
+    "long_explanation": "がままに describes an action happening exactly 'as is,' without intervention or change, often suggesting doing something passively or naturally.",
     "formation": "Verb-dictionary form + がままに",
     "examples": [
       {
-        "jp": "窓を開けたままに、風が部屋に入ってきました。",
-        "romaji": "Mado o aketa mama ni, kaze ga heya ni haitte kimashita.",
-        "en": "With the window left open, the wind came into the room."
+        "jp": "窓を開けるがままにしておいたら、風が部屋に入ってきました。",
+        "romaji": "Mado o akeru ga mama ni shite oitara, kaze ga heya ni haitte kimashita.",
+        "en": "I left the window open as it was, and the wind came into the room."
       },
       {
         "jp": "彼女は涙を流すがままに、ただ黙って座っていた。",
         "romaji": "Kanojo wa namida o nagasu ga mama ni, tada damatte suwatte ita.",
-        "en": "She just sat quietly while tears flowed."
+        "en": "She just sat quietly, letting her tears flow."
       },
       {
-        "jp": "子供たちは笑うがままに、公園で遊んでいた。",
-        "romaji": "Kodomo-tachi wa warau ga mama ni, kouen de asonde ita.",
-        "en": "The children were playing in the park, laughing all the while."
+        "jp": "子供たちは笑うがままに、公園で走り回っていた。",
+        "romaji": "Kodomo-tachi wa warau ga mama ni, kouen de hashirimawatte ita.",
+        "en": "The children ran around the park, laughing freely as they pleased."
       },
       {
-        "jp": "日が沈むがままに、私たちは海辺に座って話をしました。",
-        "romaji": "Hi ga shizumu ga mama ni, watashitachi wa umibe ni suwatte hanashi o shimashita.",
-        "en": "As the sun set, we sat by the sea and talked."
+        "jp": "日が沈むがままに、私たちは海辺で話し続けました。",
+        "romaji": "Hi ga shizumu ga mama ni, watashitachi wa umibe de hanashi tsudzukemashita.",
+        "en": "We kept talking by the sea, letting the sun set as it would."
       }
     ]
   },
   {
     "title": "Verbる が早いか (verb-ru ga hayai ka)",
-    "short_explanation": "Express 'as soon as' or 'the moment when'.",
-    "long_explanation": "The grammar point 'Verbる が早いか' is used to express that something happens immediately after something else, comparable to the English expressions 'as soon as' or 'the moment when'. It is generally used with a verb in the ます stem (also known as the continuative form) before が早いか.",
-    "formation": "Verb [ます stem] + が早いか",
+    "short_explanation": "Expresses 'as soon as...' or 'the moment when...'.",
+    "long_explanation": "Verbる が早いか indicates that something happens immediately after something else. It's similar to 'as soon as...' or 'no sooner than...'.",
+    "formation": "Verb-dictionary form + が早いか",
     "examples": [
       {
         "jp": "部屋に入るが早いか、彼はテレビをつけた。",
         "romaji": "Heya ni hairu ga hayai ka, kare wa terebi o tsuketa.",
-        "en": "The moment he entered the room, he turned on the TV."
+        "en": "No sooner had he entered the room than he turned on the TV."
       },
       {
         "jp": "電車に乗るが早いか、私はすぐに眠ってしまった。",
         "romaji": "Densha ni noru ga hayai ka, watashi wa sugu ni nemutte shimatta.",
-        "en": "As soon as I boarded the train, I fell asleep."
+        "en": "As soon as I got on the train, I immediately fell asleep."
       },
       {
         "jp": "彼女が見るが早いか、すぐに泣き始めた。",
         "romaji": "Kanojo ga miru ga hayai ka, sugu ni naki hajimeta.",
-        "en": "The moment she looked, she started to cry."
+        "en": "The moment she looked, she began to cry."
       },
       {
-        "jp": "給料をもらうが早いか、全てを使い果たしてしまった。",
-        "romaji": "Kyuuryou o morau ga hayai ka, subete o tsukaihatashite shimatta.",
-        "en": "As soon as I received my salary, I spent it all."
+        "jp": "給料をもらうが早いか、全て使い果たしてしまった。",
+        "romaji": "Kyuuryou o morau ga hayai ka, subete tsukaihatashite shimatta.",
+        "en": "No sooner had I received my salary than I spent it all."
       }
     ]
   },
   {
     "title": "Verbる くらいなら (〜ru kurai nara)",
-    "short_explanation": "Expresses preference to avoid something; 'rather than', 'if it comes to', 'if it's as...as.'",
-    "long_explanation": "The ～るくらいなら grammar point is used to indicate that the speaker would rather choose another option or avoid a situation rather than doing the action stated. This can be translated as 'rather than', 'if it comes to', or 'if it's as...as' in English.",
+    "short_explanation": "Expresses preference to avoid something: 'rather than...', 'if it comes to doing X, I'd rather...'.",
+    "long_explanation": "This grammar is used when the speaker would rather not do something or chooses another option rather than face the stated action. It’s often translated as 'rather than... I'd prefer...' or 'if it comes down to doing X, I'd rather...'.",
     "formation": "Verb-dictionary form + くらいなら",
     "examples": [
       {
         "jp": "一人で行くくらいなら、家にいるほうがましです。",
         "romaji": "Hitori de iku kurai nara, ie ni iru hou ga mashi desu.",
-        "en": "I would rather stay at home than go alone."
+        "en": "I'd rather stay at home than go alone."
       },
       {
-        "jp": "負けるくらいなら、試合をしない方がいい。",
+        "jp": "負けるくらいなら、試合をしないほうがいい。",
         "romaji": "Makeru kurai nara, shiai o shinai hou ga ii.",
-        "en": "It's better not to compete than to lose."
+        "en": "Rather than lose, it's better not to compete."
       },
       {
         "jp": "遅刻するくらいなら、一日休んだほうがいい。",
@@ -4450,27 +4434,27 @@ TODO: start below
         "en": "It's better to take a day off than to be late."
       },
       {
-        "jp": "痛い目に遭うくらいなら、そのリスクを避けます。",
-        "romaji": "Itai me ni au kurai nara, sono risuku o sakemasu.",
-        "en": "I'd rather avoid that risk than suffer."
+        "jp": "痛い目に遭うくらいなら、そのリスクは避けます。",
+        "romaji": "Itai me ni au kurai nara, sono risuku wa sakemasu.",
+        "en": "I'd rather avoid that risk than suffer the consequences."
       }
     ]
   },
   {
     "title": "Verbる こと なし に (Verb-ru koto nashi ni)",
-    "short_explanation": "Used to express the meaning 'without doing'.",
-    "long_explanation": "The することなしに / できることなしに grammar point is used to express the concept of 'without doing something'. The structure can be used with any verb to express the lack of necessity or requirement to do something before doing another action.",
+    "short_explanation": "Used to express 'without doing something'.",
+    "long_explanation": "Verbることなしに indicates doing something else 'without' performing the stated action. It can imply skipping or omitting the verb action entirely.",
     "formation": "Verb-dictionary form + ことなしに",
     "examples": [
       {
-        "jp": "試験を勉強することなしに合格しました。",
-        "romaji": "Shiken wo benkyou suru koto nashi ni goukaku shimashita.",
+        "jp": "試験を勉強することなしに、合格しました。",
+        "romaji": "Shiken o benkyou suru koto nashi ni, goukaku shimashita.",
         "en": "I passed the exam without studying."
       },
       {
         "jp": "試着することなしに、服を買いました。",
-        "romaji": "Shichaku suru koto nashi ni, fuku wo kaimashita.",
-        "en": "I bought clothes without trying them on."
+        "romaji": "Shichaku suru koto nashi ni, fuku o kaimashita.",
+        "en": "I bought the clothes without trying them on."
       },
       {
         "jp": "彼は働くことなしに生活しています。",
@@ -4479,44 +4463,45 @@ TODO: start below
       },
       {
         "jp": "手続きをすることなしに、退職しました。",
-        "romaji": "Tetsuzuki wo suru koto nashi ni, taishoku shimashita.",
-        "en": "I retired without going through procedures."
+        "romaji": "Tetsuzuki o suru koto nashi ni, taishoku shimashita.",
+        "en": "I retired without going through any procedures."
       }
     ]
   },
   {
     "title": "Verbる ことのないように (Verb-ru koto no nai you ni)",
-    "short_explanation": "Expresses the desire to avoid or prevent a certain action; 'so as not to', 'to avoid'.",
-    "long_explanation": "The 〜Verbる ことのないように grammar point is used to express an intention or effort to prevent a certain action from happening. It is translated as 'so as not to', 'in order not to', 'to avoid'. This statement expresses the idea of avoiding the situation described in the verb.",
-    "formation": "Verb-る + ことのないように",
+    "short_explanation": "Expresses the desire or effort to prevent something: 'so as not to...', 'to avoid...'.",
+    "long_explanation": "Verbる ことのないように is used to show that one is trying or intending to prevent some action from happening. It's like 'so that this doesn't happen' or 'in order not to...'.",
+    "formation": "Verb-dictionary form + ことのないように",
     "examples": [
       {
-        "jp": "車をなくすことのないように、駐車場に車をロックしましょう。",
-        "romaji": "Kuruma wo nakusu koto no nai you ni, chuushajou ni kuruma wo rokku shimashou.",
-        "en": "In order not to lose the car, let's lock it at the parking lot."
+        "jp": "車をなくすことのないように、駐車場で必ずロックしましょう。",
+        "romaji": "Kuruma o nakusu koto no nai you ni, chuushajou de kanarazu rokku shimashou.",
+        "en": "Lock your car in the parking lot so you don't lose it."
       },
       {
         "jp": "風邪を引くことのないように、手をよく洗いましょう。",
-        "romaji": "Kaze wo hiku koto no nai you ni, te wo yoku araimashou.",
-        "en": "To avoid catching a cold, you should wash your hands well."
+        "romaji": "Kaze o hiku koto no nai you ni, te o yoku araimashou.",
+        "en": "Wash your hands well so you don't catch a cold."
       },
       {
         "jp": "試験に落ちることのないように、毎日勉強しましょう。",
         "romaji": "Shiken ni ochiru koto no nai you ni, mainichi benkyou shimashou.",
-        "en": "In order not to fail the exam, let's study every day."
+        "en": "Study every day so you don't fail the exam."
       },
       {
         "jp": "間違いをすることのないように、仕事を慎重に行いましょう。",
-        "romaji": "Machigai wo suru koto no nai you ni, shigoto wo shinchou ni okonaimashou.",
-        "en": "So as not to make mistakes, let's perform our work cautiously."
+        "romaji": "Machigai o suru koto no nai you ni, shigoto o shinchou ni okonaimashou.",
+        "en": "Let's work carefully to avoid making mistakes."
       }
     ]
   },
+
   {
     "title": "Verbる ときりがない (verb-ru to kiri ga nai)",
-    "short_explanation": "Used to indicate that something can go on endlessly or without limits",
-    "long_explanation": "The ～るときりがない grammar point is used to express that something can continue indefinitely, or that there is no limits or end to it. The phrase 'きりがない' itself means 'no end' or 'endless', and when attached to the casual form of a verb, it means that the action of the verb could go on indefinitely.",
-    "formation": "Verb-casual + ときりがない",
+    "short_explanation": "Used to indicate that something can go on endlessly or without limits.",
+    "long_explanation": "The ～るときりがない grammar point is used to express that once you start doing the verb, there’s no end or limit. The phrase 'きりがない' means 'no end' or 'endless.'",
+    "formation": "Verb-casual + と + きりがない",
     "examples": [
       {
         "jp": "彼の悪口を言うときりがない。",
@@ -4531,19 +4516,19 @@ TODO: start below
       {
         "jp": "彼女の美点を挙げるときりがない。",
         "romaji": "Kanojo no biten o ageru to kiri ga nai.",
-        "en": "If one were to start listing her virtues, there would be no end."
+        "en": "If you start listing her virtues, there would be no end."
       },
       {
         "jp": "この世でおいしいものを食べるときりがない。",
         "romaji": "Kono yo de oishii mono o taberu to kiri ga nai.",
-        "en": "If you start eating delicious things in this world, there's no end."
+        "en": "If you start eating all the delicious things in this world, there's no end."
       }
     ]
   },
   {
     "title": "Verbる ともなく Verb (Verb-ru tomonaku Verb)",
-    "short_explanation": "Used to express 'without a particular intention', 'unconsciously', 'before one knows'.",
-    "long_explanation": "The 'Verbる ともなく Verb' grammar point is used to convey doing something without a specific intention or unconsciously. In other words, you find yourself doing something without meaning to or before you know it.",
+    "short_explanation": "Used to express 'without a particular intention', 'unconsciously', or 'before one knows it'.",
+    "long_explanation": "The phrase VerbるともなくVerb indicates doing something unintentionally or unconsciously— you just find yourself doing it without a clear aim or intention.",
     "formation": "Verb-dictionary form + ともなく + Verb",
     "examples": [
       {
@@ -4554,25 +4539,25 @@ TODO: start below
       {
         "jp": "知るともなく、彼が去ったことを感じた。",
         "romaji": "Shiru tomonaku, kare ga satta koto o kanjita.",
-        "en": "Without really knowing, I could feel that he had left."
+        "en": "Without really knowing, I felt that he had left."
       },
       {
         "jp": "本を読むともなく、ページをめくっていた。",
         "romaji": "Hon o yomu tomonaku, peiji o mekutte ita.",
-        "en": "Without intending to read, I was turning the pages of the book."
+        "en": "Without intending to read, I was just flipping through the pages of the book."
       },
       {
         "jp": "寝るともなく、ベッドに横になっていた。",
         "romaji": "Neru tomonaku, beddo ni yoko ni natte ita.",
-        "en": "I was lying in bed, without really intending to sleep."
+        "en": "I was lying in bed without really intending to sleep."
       }
     ]
   },
   {
     "title": "Verbる ともなしに Verb (Verb-ru tomonashi ni Verb)",
-    "short_explanation": "This phrase is used to express doing something unintentionally or without conscious thought.",
-    "long_explanation": "Verbる ともなしに Verb is a Japanese grammar point used to express doing something without particularly intending to do it; often something happens due to unconscious habit or without a particular reason. It usually involves an action done indirectly or without conscious thought. There are usually two verbs in the sentence: the first verb (in dictionary form) is the unintentional action, and the second one is the result or what you ended up doing.",
-    "formation": "Verb-dictionary + ともなしに + Verb",
+    "short_explanation": "Expresses doing something unintentionally or without conscious thought.",
+    "long_explanation": "VerbるともなしにVerb is used to show that you do some action without particularly intending to. Often you ‘end up doing’ something by habit or casually.",
+    "formation": "Verb-dictionary form + ともなしに + Verb",
     "examples": [
       {
         "jp": "本を読むともなしに眠ってしまった。",
@@ -4582,63 +4567,63 @@ TODO: start below
       {
         "jp": "軽い気持ちで手紙を書くともなしに、彼に本心を告白した。",
         "romaji": "Karui kimochi de tegami o kaku tomonashi ni, kare ni honshin o kokuhaku shita.",
-        "en": "While I was writing a letter casually, I ended up confessing my true feelings to him."
+        "en": "While writing a letter casually, I ended up confessing my true feelings to him."
       },
       {
         "jp": "散歩をするともなしに、新しいカフェを見つけた。",
-        "romaji": "Sanpo o suru tomonashi ni, atarashii cafe o mitsuketa.",
-        "en": "While I was walking without a particular destination in mind, I found a new cafe."
+        "romaji": "Sanpo o suru tomonashi ni, atarashii kafe o mitsuketa.",
+        "en": "While I was walking with no particular destination, I found a new cafe."
       },
       {
         "jp": "洋服を整理するともなしに、昔の写真を見つけた。",
         "romaji": "Youfuku o seiri suru tomonashi ni, mukashi no shashin o mitsuketa.",
-        "en": "While I was organizing my clothes without thinking about it, I happened upon some old photos."
+        "en": "As I was absentmindedly organizing clothes, I came across some old photos."
       }
     ]
   },
   {
     "title": "Verbる なり (Verb-ru nari)",
-    "short_explanation": "Expresses the idea of 'as soon as; the moment'.",
-    "long_explanation": "The grammar point Verbるなり is used to express the idea that something happens immediately after an action. It can be translated as 'as soon as' or 'the moment' in English. This is used with verbs in their dictionary form.",
+    "short_explanation": "Expresses 'as soon as' or 'the moment'.",
+    "long_explanation": "Verbるなり indicates that the following action happens immediately after the verb action. It can be translated as 'no sooner than...', 'as soon as...', or 'the moment...'.",
     "formation": "Verb-dictionary form + なり",
     "examples": [
       {
         "jp": "家に帰るなり、すぐに寝た。",
         "romaji": "Ie ni kaeru nari, sugu ni neta.",
-        "en": "As soon as I got home, I went to bed."
+        "en": "As soon as I got home, I went to sleep."
       },
       {
         "jp": "彼が駅に着くなり、電話をかけてきた。",
-        "romaji": "Kare ga eki ni tsuku nari, denwa wo kakete kita.",
+        "romaji": "Kare ga eki ni tsuku nari, denwa o kakete kita.",
         "en": "He called me the moment he arrived at the station."
       },
       {
         "jp": "ドアを開けるなり、犬が吠え始めた。",
-        "romaji": "Doa wo akeru nari, inu ga hoe hajimeta.",
-        "en": "The dog started barking as soon as I opened the door."
+        "romaji": "Doa o akeru nari, inu ga hoe hajimeta.",
+        "en": "As soon as I opened the door, the dog started barking."
       },
       {
         "jp": "テストが終わるなり、彼は教室を出て行った。",
-        "romaji": "Tesuto ga owaru nari, kare wa kyoushitsu wo dete itta.",
-        "en": "He left the classroom the moment the test was over."
+        "romaji": "Tesuto ga owaru nari, kare wa kyoushitsu o dete itta.",
+        "en": "He left the classroom the moment the test ended."
       }
     ]
   },
   {
     "title": "Verbる にとどまらず～も (Verb-ru ni todomarazu ~ mo)",
-    "short_explanation": "Expresses the concept of not only doing verb but also something more; 'not limited to', 'not only... but also'.",
-    "long_explanation": "The grammar point Verbる にとどまらず～も is used to express that an action or situation is not limited to just the verb but also includes something more. It can be translated as 'not only... but also', 'not just', 'not merely', 'beyond' in English. The verb is in its dictionary form.",
-    "formation": "Verb-dictionary form + にとどまらず + extra action or outcome",
+    "short_explanation": "Expresses 'not only… but also', 'not limited to…'.",
+    "long_explanation": "にとどまらず is used to indicate that something goes beyond just the stated verb or noun. It can be translated as 'not just… but also…' or 'not limited to…'.",
+    "formation": "Noun / Verb-dictionary form + にとどまらず + も/ほかのこと",
     "examples": [
       {
         "jp": "彼は仕事にとどまらず、ボランティア活動もしている。",
         "romaji": "Kare wa shigoto ni todomarazu, borantia katsudou mo shite iru.",
-        "en": "He is not only working but also doing volunteer activities."
+        "en": "He does not just work; he also does volunteer activities."
       },
       {
         "jp": "この機能は写真撮影にとどまらず、動画撮影も可能です。",
         "romaji": "Kono kinou wa shashin satsuei ni todomarazu, douga satsuei mo kanou desu.",
-        "en": "This function is not limited to taking photos, it can also take videos."
+        "en": "This function is not limited to taking photos; it can also record videos."
       },
       {
         "jp": "このレストランは日本料理にとどまらず、中華料理も提供しています。",
@@ -4648,75 +4633,75 @@ TODO: start below
       {
         "jp": "その企業は製造業にとどまらず、流通業務も手がけている。",
         "romaji": "Sono kigyou wa seizougyou ni todomarazu, ryuutsuugyou mo tegakete iru.",
-        "en": "The company is not just in manufacturing, but also handles distribution."
+        "en": "That company’s operations go beyond manufacturing; they also handle distribution."
       }
     ]
   },
   {
     "title": "Verbる にはあたらない (Verb-ru ni wa ataranai)",
-    "short_explanation": "Used for saying 'it is not necessary to', 'there is no need to'.",
-    "long_explanation": "The ruにはあたらない grammar point is used to express that there is no need or it is not necessary to do something. This phrase is often used in formal contexts or in writing.",
-    "formation": "Verbます-stem + にはあたらない",
+    "short_explanation": "Used to say 'there is no need to...', 'it’s not necessary to...'.",
+    "long_explanation": "Verbる にはあたらない expresses that something is not worth the reaction or there is no need to do the verb. It's somewhat formal and often used in writing.",
+    "formation": "Verb-dictionary form + にはあたらない",
     "examples": [
       {
         "jp": "パニックに陥るにはあたらない。",
-        "romaji": "Panikku ni ochiiru niwa ataranai.",
-        "en": "There is no need to panic."
+        "romaji": "Panikku ni ochiiru ni wa ataranai.",
+        "en": "There’s no need to panic."
       },
       {
         "jp": "彼に謝るにはあたらない。",
-        "romaji": "Kare ni ayamaru niwa ataranai.",
-        "en": "There's no need to apologize to him."
+        "romaji": "Kare ni ayamaru ni wa ataranai.",
+        "en": "There’s no need to apologize to him."
       },
       {
         "jp": "そのようなことを心配するにはあたらない。",
         "romaji": "Sono you na koto o shinpai suru ni wa ataranai.",
-        "en": "There is no need to worry about such things."
+        "en": "It’s not worth worrying about such things."
       },
       {
         "jp": "それについて深く考えるにはあたらない。",
         "romaji": "Sore ni tsuite fukaku kangaeru ni wa ataranai.",
-        "en": "There's no need to think deeply about it."
+        "en": "There’s no need to think too deeply about it."
       }
     ]
   },
   {
     "title": "Verbる にも (Verb-ru ni mo)",
-    "short_explanation": "The action described by the verb is deemed impossible.",
-    "long_explanation": "The Japanese grammar point Verbる にも is usually used when expressing that an action is impossible, either literally or because of some circumstance. It is often used with expressions of desire or regret, and is translated as 'even if one were to...' or 'even if I wanted to...' in English.",
-    "formation": "Verb-る + にも",
+    "short_explanation": "Indicates that doing the verb is impossible or difficult, even if one wants to.",
+    "long_explanation": "Verbる にも is often used with an additional clause explaining why the action can’t be done. It can be translated as 'even if (I) want to do X, I can’t (because...)'.",
+    "formation": "Verb-dictionary form + にも + (reason it can't be done)",
     "examples": [
       {
-        "jp": "明日雨が降ったとしても、傘を持つことにもできない。",
-        "romaji": "Ashita ame ga futta to shite mo, kasa wo motsu koto ni mo dekinai.",
-        "en": "Even if it rains tomorrow, I won't be able to bring an umbrella."
+        "jp": "明日雨が降ったとしても、傘を持つにも荷物が多すぎる。",
+        "romaji": "Ashita ame ga futta to shite mo, kasa o motsu ni mo nimotsu ga oosugiru.",
+        "en": "Even if it rains tomorrow, I have too much luggage to bring an umbrella."
       },
       {
         "jp": "試験に落ちたが、もう一度受けるにもお金が足りない。",
         "romaji": "Shiken ni ochita ga, mou ichido ukeru ni mo okane ga tarinai.",
-        "en": "I failed the exam, but I can't afford to take it again even if I wanted to."
+        "en": "I failed the exam, but I don’t have the money to take it again even if I wanted to."
       },
       {
-        "jp": "彼に会いたいと思っても、彼に会うにも無理だ。",
-        "romaji": "Kare ni aitai to omotte mo, kare ni au ni mo muri da.",
-        "en": "Even if I want to meet him, it is impossible to meet him."
+        "jp": "彼に会いたいと思っても、彼に会うにも難しい状況だ。",
+        "romaji": "Kare ni aitai to omotte mo, kare ni au ni mo muzukashii joukyou da.",
+        "en": "Even if I want to see him, it's a difficult situation to meet him."
       },
       {
         "jp": "この空港から彼女の家に行くにもタクシーが必要だ。",
-        "romaji": "Kono kuukou kara kanojo no ie ni iku ni mo takushi ga hitsuyou da.",
-        "en": "I would need a taxi to go from this airport to her house, even if I wanted to."
+        "romaji": "Kono kuukou kara kanojo no ie ni iku ni mo takushii ga hitsuyou da.",
+        "en": "I'd need a taxi to get from this airport to her house, even if I wanted to go."
       }
     ]
   },
   {
-    "title": "Verbる にも Verb れない (Verbる にも Verb れない)",
-    "short_explanation": "Expresses the idea of 'even if I try or want to do something, I am still unable to do it'.",
-    "long_explanation": "The にも Verb れない grammar point is used to express the situation when one tries or wants to do something, but can't do it. It is translated in English as 'Even if I try to..., I can't...' or 'Even if I want to..., I can't...'. It is usually used with potential form verbs.",
-    "formation": "Verb-potential form + にも + Verb-negative form",
+    "title": "Verbる にも Verb れない (Verb-ru ni mo Verb-re nai)",
+    "short_explanation": "Expresses: 'Even if I try/want to do something, I cannot.'",
+    "long_explanation": "This pattern emphasizes that a person wants or attempts to do something (often in volitional form), but is incapable of doing so. It is often used with potential verbs in negative form: 'Even if I try to ~, I can't ~.'",
+    "formation": "Verb-volitional + にも + Verb-potential negative",
     "examples": [
       {
         "jp": "彼を理解しようにも理解できない。",
-        "romaji": "Kare wo rikai shiyou ni mo rikai dekinai.",
+        "romaji": "Kare o rikai shiyou ni mo rikai dekinai.",
         "en": "Even if I try to understand him, I can't."
       },
       {
@@ -4732,10 +4717,28 @@ TODO: start below
       {
         "jp": "忘れようにも忘れられない。",
         "romaji": "Wasureyou ni mo wasurerarenai.",
-        "en": "Even if I want to forget, I can't."
+        "en": "Even if I try to forget, I just can’t."
       }
     ]
   },
+
+
+
+
+
+
+
+-----------------------------------------------------------------------
+TODO: start below
+
+
+
+
+
+
+
+
+
   {
     "title": "Verbる べからざる Noun (Verb-ru bekara zaru Noun)",
     "short_explanation": "Used to express what should not be done; 'must not', 'should not'.",
