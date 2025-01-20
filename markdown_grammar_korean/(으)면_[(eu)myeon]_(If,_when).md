@@ -1,6 +1,6 @@
 Processing keyword: (으)면 [(eu)myeon] (If, when)
 # Korean Grammar Point: (으)면 [(eu)myeon] (If, when)
-# (으)면 [(eu)myeon]: "If, When" in Korean Grammar
+
 ## 1. Introduction
 In Korean, the conditional and temporal clause marker **(으)면** is widely used to express "if" or "when". It's an essential grammar point that allows speakers to discuss possibilities, conditions, and future events contingent on certain circumstances.
 ## 2. Core Grammar Explanation
@@ -38,10 +38,12 @@ The formation of **(으)면** depends on whether the stem ends with a vowel or a
 - **(으)면 vs. (으)ㄹ 때:**
   - **(으)면**: Emphasizes the condition or possibility ("if").
   - **(으)ㄹ 때**: Focuses on the time when an action occurs ("when").
+  
   | Sentence                            | Meaning                    |
   |-------------------------------------|----------------------------|
   | 비가 **오면** 집에 있어요.          | If it rains, I stay home.  |
   | 비가 **올 때** 집에 있어요.        | When it rains, I'm at home.|
+  
 - **(으)면 좋겠다:**
   - Used to express a wish or hope.
   - Example: 빨리 봄이 **오면 좋겠어요**. (I wish spring would come quickly.)

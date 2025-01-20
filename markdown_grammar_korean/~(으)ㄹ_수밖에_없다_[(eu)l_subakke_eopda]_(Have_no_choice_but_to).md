@@ -1,10 +1,11 @@
 Processing keyword: ~(으)ㄹ 수밖에 없다 [(eu)l subakke eopda] (Have no choice but to)
 # Korean Grammar Point: ~(으)ㄹ 수밖에 없다 [(eu)l subakke eopda] (Have no choice but to)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, expressing inevitability or the lack of alternative is common in daily conversations. The grammar point **~(으)ㄹ 수밖에 없다** *(~(eu)l subakke eopda)* is used to convey the meaning of "have no choice but to" or "cannot help but." This expression emphasizes that the situation leaves only one possible action or decision.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ### Meaning
 - **~(으)ㄹ 수밖에 없다** is used to indicate that there is no other choice or option except to perform the action described by the verb. It expresses inevitability, necessity, or an unavoidable situation.
 ### Structure
@@ -26,7 +27,7 @@ In Korean, expressing inevitability or the lack of alternative is common in dail
    - **먹** + **을 수밖에 없다** → **먹을 수밖에 없다**
    - **가** + **ㄹ 수밖에 없다** → **갈 수밖에 없다**
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Similar Grammar Points
 - **~야 하다 / 되다**: Means "must" or "have to."
   - **숙제를 해야 해요.**
@@ -39,7 +40,7 @@ In Korean, expressing inevitability or the lack of alternative is common in dail
 - **~야 하다 / 되다** indicates a necessity or obligation but doesn't necessarily imply the lack of alternatives.
 - **~지 않을 수 없다** is a double negative for emphasis but can sound more formal or literary.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example Sentences
 1. **Informal Spoken**
    - **배가 고파서 먹을 수밖에 없어요.**
@@ -62,7 +63,7 @@ In Korean, expressing inevitability or the lack of alternative is common in dail
      - *Dowadeuril su eopseo joesonghajiman geureoke hal subakke eopseumnida.*
      - "I'm sorry I can't help you, but I have no choice but to do so."
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ### Cultural Relevance
 - In Korean culture, expressing that one has no choice is a way to show humility or to politely refuse or explain circumstances beyond one's control.
 - The use of **~(으)ㄹ 수밖에 없다** can soften the impact of a negative statement by implying that the speaker is constrained by circumstances.
@@ -75,7 +76,7 @@ In Korean, expressing inevitability or the lack of alternative is common in dail
 - **이렇게 할 수밖에 없는 제 상황을 이해해 주세요.**
   - *Please understand that I have no choice but to do it this way.*
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Error Analysis
 - **Mistake**: Incorrectly conjugating the verb stem.
   - **가다** → **가을 수밖에 없다** (Incorrect)
@@ -90,17 +91,17 @@ In Korean, expressing inevitability or the lack of alternative is common in dail
 - **Note Exceptions**:
   - Be aware of irregular verbs like **돕다** (to help) → **도울 수밖에 없다**.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
 - **~(으)ㄹ 수밖에 없다** is used to express that there is no other option but to do something.
 - The structure changes slightly depending on whether the verb stem ends with a consonant or vowel.
 - It conveys a sense of inevitability or necessity due to circumstances.
 ### Quick Recap Quiz
-1. **Conjugate the verb **읽다** (to read) using **~(으)ㄹ 수밖에 없다**.
+1. **Conjugate** the verb **읽다** (to read) using **~(으)ㄹ 수밖에 없다**.
    **Answer**: 읽을 수밖에 없다
 2. **Translate**: "We have no choice but to wait."
    **Answer**: 우리는 기다릴 수밖에 없어요.
-3. **What is the main nuance difference between **~(으)ㄹ 수밖에 없다** and **~야 하다**?
+3. What is the main nuance difference between **~(으)ㄹ 수밖에 없다** and **~야 하다**?
    **Answer**: **~(으)ㄹ 수밖에 없다** emphasizes that there are no other options available (inevitability), while **~야 하다** indicates necessity or obligation without implying the lack of alternatives.
 ---
 By understanding and practicing **~(으)ㄹ 수밖에 없다**, you'll be able to express inevitability and unavoidable circumstances naturally in Korean!

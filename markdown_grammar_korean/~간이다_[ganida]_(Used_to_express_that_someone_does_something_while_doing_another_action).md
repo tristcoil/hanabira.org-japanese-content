@@ -1,6 +1,6 @@
 Processing keyword: ~간이다 [ganida] (Used to express that someone does something while doing another action)
 # Korean Grammar Point: ~간이다 [ganida] (Used to express that someone does something while doing another action)
-# Grammar Point: ~간이다 [ganida]
+
 ## 1. Introduction
 In this lesson, we will explore the Korean grammar point **~간이다 [ganida]**, which is used to express that someone does something **while** performing another action. This structure allows you to describe simultaneous actions in a sentence, enhancing fluency and coherence in your Korean communication.
 ## 2. Core Grammar Explanation

@@ -1,6 +1,6 @@
 Processing keyword: ~(으)나 [(eu)na] (But, however)
 # Korean Grammar Point: ~(으)나 [(eu)na] (But, however)
-# ~(으)나 [(eu)na]: "But, However"
+
 ## 1. Introduction
 In Korean, expressing contrast or opposition between two statements is essential for nuanced communication. The grammar point **~(으)나** serves this function by connecting two clauses to mean "but" or "however." Understanding how to use ~(으)나 will enhance your ability to articulate contrasting ideas in formal contexts.
 
@@ -122,7 +122,7 @@ While **~(으)나** means "but" or "however," it's essential to distinguish it f
        - *Bogieneun swibna siljero neun eoryeopda.*
 ---
 By mastering **~(으)나**, you'll enhance your ability to express complex contrasting ideas in Korean, especially in formal writing and speeches. Keep practicing by incorporating this grammar point into your sentences!
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

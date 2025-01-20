@@ -1,6 +1,6 @@
 Processing keyword: ~기 힘들다 [gi himdeulda] (It's hard to)
 # Korean Grammar Point: ~기 힘들다 [gi himdeulda] (It's hard to)
-# Korean Grammar Lesson: ~기 힘들다 (It's hard to)
+
 ## 1. Introduction
 In Korean, expressing difficulty in performing an action is a common part of daily conversation. The grammar pattern **~기 힘들다** translates to **"It's hard to..."** and is used to indicate that something is difficult to do. This lesson will delve into the usage, structure, and nuances of **~기 힘들다**, providing ample examples and comparisons to aid your understanding.
 

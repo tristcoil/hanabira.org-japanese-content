@@ -1,6 +1,6 @@
 Processing keyword: ~(으)려고 하다 [(eu)ryeogo hada] (To try to)
 # Korean Grammar Point: ~(으)려고 하다 [(eu)ryeogo hada] (To try to)
-# Grammar Point: ~(으)려고 하다 [(eu)ryeogo hada] - "To intend to", "To plan to", "To try to"
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar pattern **~(으)려고 하다**, which is commonly used to express intention, plans, or attempts to do something. Understanding this pattern will enhance your ability to talk about future actions and intentions in Korean, a crucial aspect of daily communication.
 

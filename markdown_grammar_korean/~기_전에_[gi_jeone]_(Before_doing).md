@@ -1,6 +1,6 @@
 Processing keyword: ~기 전에 [gi jeone] (Before doing)
 # Korean Grammar Point: ~기 전에 [gi jeone] (Before doing)
-# ~기 전에 [gi jeone] (Before doing)
+
 ## 1. Introduction
 In Korean, expressing the sequence of actions is essential for clear communication. The grammar point **~기 전에** ([gi jeone]) is used to indicate that one action occurs **before** another action. This structure helps you describe events in chronological order, a fundamental aspect of storytelling and daily conversation.
 

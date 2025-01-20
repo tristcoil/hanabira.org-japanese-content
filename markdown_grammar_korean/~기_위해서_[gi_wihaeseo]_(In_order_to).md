@@ -1,10 +1,9 @@
 Processing keyword: ~기 위해서 [gi wihaeseo] (In order to)
 # Korean Grammar Point: ~기 위해서 [gi wihaeseo] (In order to)
-# Lesson on "~기 위해서 [gi wihaeseo]" (In order to)
 
----
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~기 위해서 [gi wihaeseo]**, which translates to **"in order to"** in English. This structure is commonly used to express the purpose of an action and is essential for building complex sentences in Korean.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -20,11 +19,13 @@ The structure combines a verb stem with **~기 위해서** to form a purpose cla
 2. **기**: A nominalizer that turns verbs into nouns.
 3. **위해(서)**: Means "for the purpose of" or "in order to".
 ### Examples of Verb Stem + 기 위해서
+
 | Verb (Dictionary Form) | Verb Stem | + 기 위해서 | Meaning                     |
 |------------------------|-----------|-------------|-----------------------------|
 | 공부하다 (to study)     | 공부하     | 공부하기 위해서 | In order to study            |
 | 먹다 (to eat)           | 먹         | 먹기 위해서     | In order to eat              |
 | 배우다 (to learn)       | 배우       | 배우기 위해서   | In order to learn            |
+
 ---
 ## 3. Comparative Analysis
 ### Comparing **~기 위해서** with **~(으)려고**
@@ -89,7 +90,6 @@ The use of **~기 위해서** is neutral in politeness but often appears in form
 1. **시험에 합격하기 위해서 매일 공부해요.**
 2. **~기 위해서** is more formal and can be used with nouns and verbs, while **~(으)려고** is more casual and used only with action verbs.
 3. **Corrected Sentence**: **한국어 배우기 위해서 한국에 갔어요.**
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

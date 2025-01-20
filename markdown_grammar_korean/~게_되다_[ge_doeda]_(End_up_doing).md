@@ -1,10 +1,9 @@
 Processing keyword: ~게 되다 [ge doeda] (End up doing)
 # Korean Grammar Point: ~게 되다 [ge doeda] (End up doing)
-# Korean Grammar Lesson: ~게 되다 [ge doeda] (To End Up Doing)
 
----
 ## 1. Introduction
 In Korean, the expression **~게 되다** is commonly used to indicate a change of state or situation that occurs unintentionally or inevitably. It often translates to "come to (do)", "end up (doing)", or "get to (do)" something in English. This grammar point is essential for expressing events that happen without deliberate intention, reflecting the passive or unintended nature of actions.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning and Usage
@@ -20,7 +19,7 @@ The structure combines a verb stem with **~게 되다**.
 ### Formation Diagram
 ```markdown
 ┌───────────────┐   ┌───────────┐
-│   Verb Stem   │ + │   게 되다 │
+│   Verb Stem   │ + │   게 되다  │
 └───────────────┘   └───────────┘
 ```
 ### Conjugation

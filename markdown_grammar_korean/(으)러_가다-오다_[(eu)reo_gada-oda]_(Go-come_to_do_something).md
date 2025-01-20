@@ -1,6 +1,6 @@
 Processing keyword: (으)러 가다/오다 [(eu)reo gada/oda] (Go/come to do something)
 # Korean Grammar Point: (으)러 가다/오다 [(eu)reo gada/oda] (Go/come to do something)
-# (으)러 가다/오다 [(eu)reo gada/oda] - "Go/Come to Do Something"
+
 ## 1. Introduction
 In Korean, expressing the purpose of going or coming somewhere is essential in daily conversations. The grammar point **(으)러 가다/오다** is used to indicate that someone is going or coming **in order to do something**. This structure combines an action verb with movement verbs **가다** (to go) or **오다** (to come), forming a purposeful movement.
 
@@ -30,8 +30,7 @@ In Korean, expressing the purpose of going or coming somewhere is essential in d
    - **가다** is used when moving away from the current location.
    - **오다** is used when moving toward the current location.
 ### Visual Aid: Formation Flowchart
-```mermaid
-graph LR
+```
 A[Verb Stem] --> B{Ends with Vowel?}
 B -- Yes --> C[Verb Stem + 러]
 B -- No --> D[Verb Stem + 으러]

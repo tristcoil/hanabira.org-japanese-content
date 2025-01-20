@@ -1,6 +1,6 @@
 Processing keyword: ~(으)ㄹ 데가 없다 [(eu)l dega eopda] (There's no way to...)
 # Korean Grammar Point: ~(으)ㄹ 데가 없다 [(eu)l dega eopda] (There's no way to...)
-# ~(으)ㄹ 데가 없다 [(eu)l dega eopda] - "There's No Place to..." / "There's No Way to..."
+
 ## 1. Introduction
 In Korean, the expression **~(으)ㄹ 데가 없다** is used to convey that there is no place or way to do something. This grammar point is essential for expressing a lack of means or opportunity to carry out an action. Mastering this structure will enhance your ability to describe situations where options are limited or unavailable.
 

@@ -1,10 +1,9 @@
 Processing keyword: ~기는 [gineun] (But)
 # Korean Grammar Point: ~기는 [gineun] (But)
-# Understanding the Korean Grammar Point: ~기는 (But)
 
----
 ## 1. Introduction
 In Korean, expressing contrast or concession is essential for nuanced communication. The grammar point **~기는** (*gineun*) is used to acknowledge a certain fact before presenting a contrasting statement, similar to "but" or "though" in English.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -30,12 +29,15 @@ The general structure for using **~기는** is:
 ---
 ## 3. Comparative Analysis
 ### Comparing **~기는** with Similar Grammar Points
+
 | Grammar Point       | Usage                                        | Example                                       |
 |---------------------|----------------------------------------------|-----------------------------------------------|
 | **~지만**           | Simply contrasts two clauses ("but")          | 늦었지만 출발합시다. (It's late, but let's go.) |
 | **~기는 하지만**    | Emphasizes concession before contrasting      | 춥기는 하지만 괜찮아요. (It's cold, but I'm okay.) |
 | **~는데도**         | Even though (unexpected result)               | 먹는데도 배가 고파요. (Even though I eat, I'm hungry.) |
+
 **~기는** specifically emphasizes the first clause before introducing the contrast, often implying acknowledgment.
+
 ---
 ## 4. Examples in Context
 ### Formal
@@ -54,6 +56,7 @@ The general structure for using **~기는** is:
 ### Spoken
 1. **알기는 아는데 설명하기 어려워요.**
    *I know, but it's hard to explain.*
+
 ---
 ## 5. Cultural Notes
 ### Politeness and Formality
@@ -61,6 +64,7 @@ The general structure for using **~기는** is:
 - It's common in both formal and informal speech, but the level of politeness can be adjusted with verb endings.
 ### Idiomatic Expressions
 - **하기는 쉽지 않다**: *It's not easy to do.*
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes

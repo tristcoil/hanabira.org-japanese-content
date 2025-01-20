@@ -1,6 +1,6 @@
 Processing keyword: ~(으)려나 [(eu)ryeona] (I wonder if...)
 # Korean Grammar Point: ~(으)려나 [(eu)ryeona] (I wonder if...)
-# Understanding the Korean Grammar Point: ~(으)려나 **[(eu)ryeona]** (I wonder if...)
+
 ## 1. Introduction
 In Korean, expressing curiosity or wondering about future events is often conveyed using specific grammatical structures. One such structure is **~(으)려나** **[(eu)ryeona]**, which translates to "I wonder if..." in English. This grammar point allows the speaker to speculate about someone's intentions or future occurrences.
 

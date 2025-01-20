@@ -1,6 +1,6 @@
 Processing keyword: ~(으)시겠어요 [(eu)sigesseoyo] (You will probably)
 # Korean Grammar Point: ~(으)시겠어요 [(eu)sigesseoyo] (You will probably)
-# Korean Grammar Lesson: ~(으)시겠어요 [(eu)sigesseoyo]
+
 ## 1. Introduction
 In Korean, making polite suggestions or offering something in a respectful manner is essential, especially when interacting with elders or in formal situations. The grammar pattern **~(으)시겠어요** is a polite and honorific way to ask someone if they would like to do something, similar to "Would you like to...?" in English.
 
@@ -14,10 +14,12 @@ The pattern **~(으)시겠어요** is used to:
 It conveys respect towards the listener by using the honorific marker **-시-**.
 ### Structure
 The formation of **~(으)시겠어요** depends on whether the verb stem ends with a vowel or a consonant.
+
 | Verb Stem Ending | Addition            | Example Verb | Conjugated Form           |
 |------------------|---------------------|--------------|---------------------------|
 | Vowel            | -시겠어요           | 가다 (to go) | 가**시겠어요**           |
 | Consonant        | -으시겠어요         | 먹다 (to eat)| 먹**으시겠어요**        |
+
 ### Formation Diagram
 1. **Identify the verb stem**:
    - Remove **-다** from the dictionary form.
@@ -29,10 +31,12 @@ The formation of **~(으)시겠어요** depends on whether the verb stem ends wi
 ### Comparison with ~(으)ㄹ래요
 - **~(으)ㄹ래요** is also used to ask someone's intention or make a suggestion, but it's less formal and doesn't carry honorifics.
 - Use **~(으)시겠어요** when you want to be more polite and show respect.
+
 | Grammar Pattern      | Politeness Level | Example                                  |
 |----------------------|------------------|------------------------------------------|
 | ~(으)ㄹ래요           | Informal Polite  | 같이 영화 볼래요? (Do you want to watch a movie together?)   |
 | ~(으)시겠어요         | Formal Polite    | 같이 영화 보시겠어요? (Would you like to watch a movie together?) |
+
 ---
 ## 4. Examples in Context
 ### Formal Situations
@@ -84,7 +88,6 @@ The formation of **~(으)시겠어요** depends on whether the verb stem ends wi
    - **하시겠어요**
 3. True or False: **~(으)시겠어요** is less formal than **~(으)ㄹ래요**.
    - **False**
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

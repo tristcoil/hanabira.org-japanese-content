@@ -1,6 +1,6 @@
 Processing keyword: ~(으)던 [(eu)deon] (Who used to)
 # Korean Grammar Point: ~(으)던 [(eu)deon] (Who used to)
-# Lesson: Understanding the Korean Grammar Point ~(으)던 [(eu)deon] (Who Used To)
+
 ## 1. Introduction
 In Korean, verb endings play a crucial role in expressing nuances of time, aspect, and mood. One such verb ending is **~(으)던**, which reflects past actions or states that were ongoing, habitual, or incomplete. This lesson will delve into the meaning, usage, and formation of **~(으)던**, compare it with similar grammar points, and provide examples to enhance understanding.
 

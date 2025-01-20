@@ -1,10 +1,11 @@
 Processing keyword: ~(으)시면 [(eu)simyeon] (If you)
 # Korean Grammar Point: ~(으)시면 [(eu)simyeon] (If you)
-# 1. Introduction
+
+## 1. Introduction
 The Korean grammar point **~(으)시면** (*[eu]simyeon*) is an honorific conditional expression meaning **"If you..."**. It combines the conditional mood with the honorific suffix to show respect to the subject, commonly used when addressing someone of higher status or to show politeness.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ### Meaning
 - **~(으)시면** is used to express **"if you..."** in a polite and respectful manner.
 - It incorporates the honorific suffix **~(으)시** into the conditional form **~(으)면**.
@@ -27,7 +28,7 @@ The Korean grammar point **~(으)시면** (*[eu]simyeon*) is an honorific condit
 - **살다** (to live) → **사시면** (If you live)
 - **놓다** (to put) → **놓으시면** (If you put)
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Comparing **~(으)시면** with **~(으)면**
 - **~(으)면**: Standard conditional "if".
   - **Usage**: General conditional statements without honorifics.
@@ -39,7 +40,7 @@ The Korean grammar point **~(으)시면** (*[eu]simyeon*) is an honorific condit
 - Using **~(으)시면** shows respect to the subject, which is essential in formal and polite conversations.
 - Using **~(으)면** when addressing someone who deserves respect can be considered impolite.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Spoken
 1. **시간 있으시면 저와 함께 식사하시겠습니까?**
    - *If you have time, would you like to have a meal with me?*
@@ -61,7 +62,7 @@ The Korean grammar point **~(으)시면** (*[eu]simyeon*) is an honorific condit
 2. **도움이 필요하시면 말씀해 주세요.**
    - *If you need help, please tell me.*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ### Cultural Relevance
 - **Honorifics** are a fundamental aspect of Korean language and culture, reflecting the importance of respect and social hierarchy.
 - Using **~(으)시면** correctly demonstrates politeness and awareness of social norms.
@@ -77,7 +78,7 @@ The Korean grammar point **~(으)시면** (*[eu]simyeon*) is an honorific condit
 2. **가능하시면 내일까지 부탁드립니다.**
    - *If possible, please (do it) by tomorrow.*
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Common Mistakes
 1. **Omitting the Honorific Suffix**
    - **Incorrect**: **읽으면** (If you read)
@@ -96,7 +97,7 @@ The Korean grammar point **~(으)시면** (*[eu]simyeon*) is an honorific condit
 - **Practice Politeness Levels**: Pair **~(으)시면** with polite endings to get accustomed to formal speech.
 - **Verb Lists**: Create lists of common verbs and practice conjugating them with **~(으)시면**.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
 - **~(으)시면** is used to say **"If you..."** respectfully.
 - It combines the conditional **~(으)면** with the honorific **~(으)시**.

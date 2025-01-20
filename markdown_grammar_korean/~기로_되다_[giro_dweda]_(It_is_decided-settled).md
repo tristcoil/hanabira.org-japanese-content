@@ -1,5 +1,7 @@
 Processing keyword: ~기로 되다 [giro dweda] (It is decided/settled)
 # Korean Grammar Point: ~기로 되다 [giro dweda] (It is decided/settled)
+
+TODO start here
 # ~기로 되다 [giro dweda] (It is Decided/Settled)
 ## 1. Introduction
 In Korean, expressing decisions or arrangements that have been made often involves specific grammatical constructions. One such construction is **~기로 되다**, which is used to indicate that something has been decided or settled, usually by external factors or mutual agreement. This lesson will delve into the usage of **~기로 되다**, helping you understand its formation, meaning, and how it differs from similar expressions.

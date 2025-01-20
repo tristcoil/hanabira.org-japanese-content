@@ -1,6 +1,6 @@
 Processing keyword: ~(으)ㄴ/는데도 불구하고 [(eu)n/neundedo bulguhago] (Despite, in spite of)
 # Korean Grammar Point: ~(으)ㄴ/는데도 불구하고 [(eu)n/neundedo bulguhago] (Despite, in spite of)
-# Grammar Point: ~(으)ㄴ/는데도 불구하고 [(eu)n/neundedo bulguhago] (Despite, In spite of)
+
 ## 1. Introduction
 The Korean grammar structure **~(으)ㄴ/는데도 불구하고** translates to **"despite"** or **"in spite of"** in English. It is used to express a contrast between two clauses, where the action or state in the second clause occurs **despite** the condition stated in the first clause. This expression emphasizes that the expected outcome did not occur, highlighting an unexpected or contrary result.
 

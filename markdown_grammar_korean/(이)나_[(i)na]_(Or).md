@@ -1,6 +1,6 @@
 Processing keyword: (이)나 [(i)na] (Or)
 # Korean Grammar Point: (이)나 [(i)na] (Or)
-# (이)나 [(i)na] — "Or"
+
 ## 1. Introduction
 The Korean particle **(이)나** [(i)na] is commonly used to connect two or more nouns, providing the meaning of "or" in English. It allows speakers to offer choices or alternatives within a sentence.
 

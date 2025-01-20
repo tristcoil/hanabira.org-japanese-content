@@ -1,6 +1,6 @@
 Processing keyword: ~(으)려면 [(eu)ryeomyeon] (In order to)
 # Korean Grammar Point: ~(으)려면 [(eu)ryeomyeon] (In order to)
-# Grammar Point: ~(으)려면 [(eu)ryeomyeon] - "In Order To"
+
 ## 1. Introduction
 The Korean grammar point **~(으)려면** is commonly used to express the condition or intention of doing something in order to achieve a particular result. It can be translated as "if (you) intend to" or "in order to" in English. Understanding this grammar structure is essential for forming conditional sentences that express purpose or intention.
 

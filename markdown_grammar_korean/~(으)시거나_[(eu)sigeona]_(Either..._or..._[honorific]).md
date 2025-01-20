@@ -1,10 +1,11 @@
 Processing keyword: ~(으)시거나 [(eu)sigeona] (Either... or... [honorific])
 # Korean Grammar Point: ~(으)시거나 [(eu)sigeona] (Either... or... [honorific])
-# 1. Introduction
+
+## 1. Introduction
 The Korean grammar point **~(으)시거나** is an _honorific_ connective ending used to express a choice between two or more actions or states. It translates to "either... or..." in English and adds a level of respect toward the subject of the sentence.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 - **~(으)시거나** is used to list options in honorific speech.
 - It connects verbs or adjectives, indicating that the subject (honored person) may do one action or another.
@@ -22,7 +23,7 @@ To form **~(으)시거나**, attach **~(으)시거나** to the verb or adjective
 | Vowel       | -시거나 | 가다 (to go)  | 가시거나         |
 | Consonant   | -으시거나 | 읽다 (to read)| 읽으시거나       |
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 - **~(으)시거나** vs **~거나**:
   - **~거나** is the casual form used for non-honorific speech.
   - **~(으)시거나** includes the honorific **시**, adding respect.
@@ -30,7 +31,7 @@ To form **~(으)시거나**, attach **~(으)시거나** to the verb or adjective
 - Casual: **먹거나** (eat or...)
 - Honorific: **드시거나** (eat or...)  *(Note: 먹다's honorific form is 드시다.)*
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Example Sentences
 ### 1. Formal Spoken
 - **선생님께서 내일 오시거나 전화해 주세요.**
@@ -46,7 +47,7 @@ To form **~(으)시거나**, attach **~(으)시거나** to the verb or adjective
 - **사장님께서 결정을 내리시거나 우리에게 알려 주실 거예요.**
   - _The boss will either make a decision or let us know._
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Levels of Politeness and Formality
 - **Honorifics** are essential in Korean to show respect.
 - Using **~(으)시거나** shows respect toward the subject performing the actions.
@@ -54,7 +55,7 @@ To form **~(으)시거나**, attach **~(으)시거나** to the verb or adjective
 - **드시거나 마시거나 하세요.**
   - _Please help yourself to food or drinks._
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Omitting the honorific marker 시**:
    - Incorrect: **할아버지께서 산책하거나 집에 계세요.**
@@ -67,7 +68,7 @@ To form **~(으)시거나**, attach **~(으)시거나** to the verb or adjective
 - Remember to use the honorific **시** when the subject is someone deserving respect (e.g., elders, superiors).
 - Pay attention to verb stems ending with consonants or vowels for correct attachment.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~(으)시거나** is used to respectfully present choices.
 - Attach **시거나** after vowel-ending stems and **으시거나** after consonant-ending stems.
@@ -78,8 +79,6 @@ To form **~(으)시거나**, attach **~(으)시거나** to the verb or adjective
 2. Fill in the blank with the correct form of **~(으)시거나**:
    - **어머님께서 영화를 보_____ 책을 읽으세요.**
    - **Answer:** **시거나** (보다 → 보시거나)
----
-# Answer ends
 
 ---
 © [Hanabira.org](https://hanabira.org)

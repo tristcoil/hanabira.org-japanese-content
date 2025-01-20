@@ -1,6 +1,6 @@
 Processing keyword: ~거니와 [geoniwa] (And, besides)
 # Korean Grammar Point: ~거니와 [geoniwa] (And, besides)
-# ~거니와 [geoniwa] (And, besides)
+
 ## 1. Introduction
 In Korean, expressing multiple related thoughts in a sentence can enhance fluency and coherence. The grammar point **~거니와** is used to connect clauses, indicating that not only is the first statement true, but the second one is also true. It is akin to saying "and," "besides," or "not only... but also..." in English.
 

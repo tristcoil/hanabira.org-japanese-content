@@ -1,8 +1,9 @@
 Processing keyword: ~(으)면서도 [(eu)myeonseodo] (While, although)
 # Korean Grammar Point: ~(으)면서도 [(eu)myeonseodo] (While, although)
-# 1. Introduction
+
+## 1. Introduction
 In learning Korean, understanding how to express contrasting actions or states that occur simultaneously is essential. The grammar point **~(으)면서도** is a valuable tool for conveying the meaning of "while" or "although" with a contrasting nuance. This lesson will delve into the usage of **~(으)면서도**, providing clear explanations, examples, and comparisons to enhance your understanding.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The grammar pattern **~(으)면서도** is used to express that while the subject is engaging in one action or state, there is an opposing or unexpected simultaneous action or state. It can be translated as:
 - "While (doing something), (nevertheless)..."
@@ -30,7 +31,7 @@ The formation of **~(으)면서도** depends on whether the verb stem ends with 
   - Verb stem: **읽**
   - Ends with consonant: **ㄱ**
   - Conjugation: **읽으면서도**
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 **~(으)면서도** vs. **~(으)면서**
 - **~(으)면서** simply means "while (doing something)" and is used to indicate two actions happening simultaneously.
 - **~(으)면서도** adds a contrasting nuance, implying that the second action is unexpected or contradictory to the first.
@@ -39,7 +40,7 @@ The formation of **~(으)면서도** depends on whether the verb stem ends with 
   *I listen to music while studying.* (Two simultaneous actions)
 - **공부하면서도 음악을 들어요.**  
   *Even though I'm studying, I (still) listen to music.* (Contrast between studying and listening to music)
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Context
 1. **그는 바쁘면서도 시간을 내주었습니다.**  
    *Although he is busy, he made time (for me).*
@@ -60,7 +61,7 @@ The formation of **~(으)면서도** depends on whether the verb stem ends with 
    *Even though I knew, I pretended not to.*
 2. **좋아하면서도 표현을 안 하네.**  
    *She likes him but doesn't show it.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, expressing oneself indirectly or showing humility is common. Using **~(으)면서도** allows speakers to acknowledge a contrast or contradiction in a polite and nuanced way, which aligns with social norms that value modesty and indirect communication.
 ## Idiomatic Expressions
@@ -68,7 +69,7 @@ In Korean culture, expressing oneself indirectly or showing humility is common. 
    *Laughing while crying (Experiencing mixed emotions)*
 2. **알면서도 속아준다**  
    *Pretending to be fooled even though one knows (Going along with something for the sake of harmony)*
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Using ~(으)면서 instead of ~(으)면서도**
   Incorrect: **그는 피곤하면서 운동하러 갔어요.**  
@@ -80,7 +81,7 @@ In Korean culture, expressing oneself indirectly or showing humility is common. 
 - **Mnemonic Device**: Remember that **도** means "also" or "even," so **~(으)면서도** carries the meaning of "even while" or "although."
 - **Practice Conjugation**: Make a list of verbs and practice attaching **~(으)면서도** based on their endings.
 - **Contextual Usage**: Pay attention to the contrast in sentences to ensure **~(으)면서도** is appropriate.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~(으)면서도** is used to express a contrast between two simultaneous actions or states.
 - The ending **~(으)면서도** is attached to the verb stem, with **으** added after consonants (except ㄹ).

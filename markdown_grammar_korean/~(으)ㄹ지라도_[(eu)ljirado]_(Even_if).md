@@ -1,10 +1,9 @@
 Processing keyword: ~(으)ㄹ지라도 [(eu)ljirado] (Even if)
 # Korean Grammar Point: ~(으)ㄹ지라도 [(eu)ljirado] (Even if)
-# **Grammar Point: ~(으)ㄹ지라도 [(eu)l-jirado] — "Even If"**
 
----
 ## 1. Introduction
 The Korean grammar point **~(으)ㄹ지라도** is used to express the meaning "even if" or "even though," indicating that the result remains unchanged regardless of the condition. It's a valuable construction for emphasizing determination or a steadfast situation despite potential obstacles or hypothetical scenarios.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

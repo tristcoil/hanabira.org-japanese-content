@@ -1,10 +1,10 @@
 Processing keyword: ~(으)ㄴ/는데다가 [(eu)n/neundedaga] (Moreover, additionally)
 # Korean Grammar Point: ~(으)ㄴ/는데다가 [(eu)n/neundedaga] (Moreover, additionally)
-# The Korean Grammar Point: ~(으)ㄴ/는데다가 [(eu)n/neunde daga]
 
----
+
 ## 1. Introduction
 In Korean, expressing additional information or emphasizing that one action or state is on top of another is essential for fluency and depth in conversation. The grammar construct ~(으)ㄴ/는데다가 [(eu)n/neunde daga] serves this purpose by meaning "Moreover" or "In addition to". This lesson will delve into its usage, structure, and nuances to help you incorporate it naturally into your Korean speech and writing.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning and Usage

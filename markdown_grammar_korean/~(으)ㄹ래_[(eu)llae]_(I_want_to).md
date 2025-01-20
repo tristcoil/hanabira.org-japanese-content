@@ -1,10 +1,9 @@
 Processing keyword: ~(으)ㄹ래 [(eu)llae] (I want to)
 # Korean Grammar Point: ~(으)ㄹ래 [(eu)llae] (I want to)
-# Grammar Point: ~(으)ㄹ래 [(eu)llae] - "I want to" / "Would you like to?"
 
----
 ## 1. Introduction
 The Korean grammar pattern **~(으)ㄹ래** is commonly used in casual conversations to express the speaker's intention or to ask about someone else's intention in an informal and friendly manner. It can mean "I want to..." when talking about oneself or "Do you want to..." when asking others.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

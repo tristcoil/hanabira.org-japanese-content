@@ -1,6 +1,6 @@
 Processing keyword: ~(으)ㄹ 뿐이다 [(eu)l ppunida] (Only, just)
 # Korean Grammar Point: ~(으)ㄹ 뿐이다 [(eu)l ppunida] (Only, just)
-# Korean Grammar Lesson: ~(으)ㄹ 뿐이다 [(eu)l ppunida]
+
 ## 1. Introduction
 The grammar point **~(으)ㄹ 뿐이다** is used in Korean to express the meaning of "only," "just," or "merely." It emphasizes that there is nothing more than what has been mentioned. This structure is commonly used to downplay an action or to express modesty.
 

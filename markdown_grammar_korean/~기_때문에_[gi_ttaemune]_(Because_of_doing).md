@@ -1,6 +1,6 @@
 Processing keyword: ~기 때문에 [gi ttaemune] (Because of doing)
 # Korean Grammar Point: ~기 때문에 [gi ttaemune] (Because of doing)
-# Korean Grammar Lesson: ~기 때문에 [gi ttaemune] (Because of doing)
+
 ## 1. Introduction
 Expressing reasons and causes is essential in any language. In Korean, the grammar pattern **~기 때문에** is used to indicate that something happens *because* of an action or state. This lesson will delve into the usage of **~기 때문에**, helping you understand how to construct sentences that explain reasons or causes effectively.
 

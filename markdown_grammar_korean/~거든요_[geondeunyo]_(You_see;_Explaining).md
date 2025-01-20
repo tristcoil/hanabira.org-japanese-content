@@ -1,6 +1,6 @@
 Processing keyword: ~거든요 [geondeunyo] (You see; Explaining)
 # Korean Grammar Point: ~거든요 [geondeunyo] (You see; Explaining)
-# ~거든요 [geodeunyo] (You see; Explaining)
+
 ## 1. Introduction
 In Korean, the grammar construct **~거든요** is used to give explanations, provide reasons, or share new information that the listener may not be aware of. It's a conversational tool that adds nuance to explanations, similar to saying "You see..." or "Because..." in English.
 

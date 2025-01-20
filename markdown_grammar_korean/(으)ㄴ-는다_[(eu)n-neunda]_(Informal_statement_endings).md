@@ -1,6 +1,6 @@
 Processing keyword: (으)ㄴ/는다 [(eu)n/neunda] (Informal statement endings)
 # Korean Grammar Point: (으)ㄴ/는다 [(eu)n/neunda] (Informal statement endings)
-# (으)ㄴ/는다 [(eu)n/neunda] - Informal Statement Endings
+
 ## 1. Introduction
 In Korean, verb endings change to convey tense, mood, and politeness levels. The ending **(으)ㄴ/는다** is an informal way to make statements in the present tense for action verbs. It is often used in written narratives, diaries, and sometimes in spoken language among close friends or in casual settings.
 

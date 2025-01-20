@@ -1,8 +1,9 @@
 Processing keyword: ~(으)ㄹ 것이다 [(eu)l geosida] (Will likely)
 # Korean Grammar Point: ~(으)ㄹ 것이다 [(eu)l geosida] (Will likely)
-# 1. Introduction
+
+## 1. Introduction
 The Korean grammar point **~(으)ㄹ 것이다** (pronounced *[eu]l geosida*) is a fundamental structure used to express future actions or strong suppositions. It is equivalent to "will" or "probably will" in English. Mastering this grammar point is essential for conveying intentions, plans, and predictions in Korean.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning and Usage
 ### **Future Tense**
 - **Definition**: Indicates an action or event that will occur in the future.
@@ -46,7 +47,7 @@ To adjust for politeness and formality, conjugate **것이다** appropriately:
 3. **Plain/Formal Written Style:**
    - Use **것이다**.
    - **Example**: 갈 것이다.
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## Comparison with Similar Grammar Points
 ### **~겠~ (겠어요)**
 - **Usage**: Expresses the speaker's intention or immediate future action.
@@ -62,7 +63,7 @@ To adjust for politeness and formality, conjugate **것이다** appropriately:
 - **~(으)ㄹ 것이다** emphasizes a future action or a supposition.
 - **~겠~** implies a strong will or immediate decision.
 - **~(으)려고 하다** stresses the intention or plan before the action.
-# 4. Examples in Context
+## 4. Examples in Context
 ## Example Sentences
 ### Formal Contexts
 1. **회의는 오후 3시에 시작할 것입니다.**  
@@ -87,7 +88,7 @@ To adjust for politeness and formality, conjugate **것이다** appropriately:
 | Prediction          | 내일 비가 올 것입니다.                         | It will rain tomorrow.                         |
 | Supposition         | 그녀는 아직 모를 거예요.                       | She probably doesn't know yet.                 |
 | Plan Announcement   | 우리는 다음 주에 이사할 것입니다.               | We will move next week.                        |
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Formal Speech**: Using **~(으)ㄹ 것입니다** indicates a polite and formal tone, suitable for business, official announcements, and respectful conversations.
 - **Informal Speech**: The contracted form **~(으)ㄹ 거예요** is more common in everyday casual conversations.
@@ -99,7 +100,7 @@ To adjust for politeness and formality, conjugate **것이다** appropriately:
   Used to encourage or reassure someone about a future outcome.
 - **알게 될 것입니다**: *You will come to know.*  
   Suggests that someone will understand or realize something in the future.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Incorrect Ending Attachment**
    - **Error**: 먹다 → 먹ㄹ 것이다 ❌

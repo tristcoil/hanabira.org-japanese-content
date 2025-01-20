@@ -1,6 +1,6 @@
 Processing keyword: ~(으)로서 [(eu)roseo] (As)
 # Korean Grammar Point: ~(으)로서 [(eu)roseo] (As)
-# Grammar Point: ~(으)로서 [-(eu)roseo] (As)
+
 ## 1. Introduction
 The Korean grammar point **~(으)로서** [-(eu)roseo] is used to express the meaning of "as" in English, indicating one's status, position, capacity, or qualification. It attaches to nouns and emphasizes the role or identity of the subject in performing an action.
 
@@ -95,7 +95,6 @@ The Korean grammar point **~(으)로서** [-(eu)roseo] is used to express the me
 1. a) **으로서** → 학생**으로서** 자부심을 가져야 합니다.
 2. False. **~(으)로써** indicates the means; **~(으)로서** indicates role or capacity.
 3. b) 개발자**로서** 코딩을 합니다.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

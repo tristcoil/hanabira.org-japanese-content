@@ -1,6 +1,6 @@
 Processing keyword: ~(으)ㄹ 테니까 [(eu)l tenikka] (Since I assume)
 # Korean Grammar Point: ~(으)ㄹ 테니까 [(eu)l tenikka] (Since I assume)
-# ~(으)ㄹ 테니까 [(eu)l tenikka] (Since I assume)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~(으)ㄹ 테니까**, which is commonly used to express the speaker's assumption or intention and provide a reason or suggestion based on that assumption. Mastering this grammar point will help you make more natural and nuanced statements in Korean, especially when giving advice or making suggestions.
 

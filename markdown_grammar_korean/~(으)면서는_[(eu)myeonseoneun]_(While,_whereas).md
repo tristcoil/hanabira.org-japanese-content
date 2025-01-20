@@ -1,10 +1,9 @@
 Processing keyword: ~(으)면서는 [(eu)myeonseoneun] (While, whereas)
 # Korean Grammar Point: ~(으)면서는 [(eu)myeonseoneun] (While, whereas)
-# Grammar Lesson: ~(으)면서는 [(eu)myeonseoneun] - "While, Whereas"
 
----
 ## 1. Introduction
 In Korean, expressing simultaneous actions or contrasting situations is essential for clear communication. The grammar point **~(으)면서는** [(eu)myeonseoneun] is used to indicate "while" or "whereas," highlighting two actions or states occurring at the same time, often with a sense of contrast or emphasis. This lesson will delve into the usage of **~(으)면서는**, providing explanations, examples, and comparisons to help you master this grammar point.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

@@ -1,6 +1,6 @@
 Processing keyword: (으)려고 하다 [(eu)ryeogo hada] (Intend to do)
 # Korean Grammar Point: (으)려고 하다 [(eu)ryeogo hada] (Intend to do)
-# (으)려고 하다 [(eu)ryeogo hada]: To Intend to Do Something
+
 ## 1. Introduction
 In Korean, expressing intentions or plans is essential for everyday communication. The grammar point **(으)려고 하다** is commonly used to indicate that the speaker intends to do something or is planning to perform a particular action. This lesson will delve into the usage of **(으)려고 하다**, its formation, nuances, and provide practical examples to enhance your understanding.
 
@@ -97,7 +97,7 @@ While **(으)려고 하다** expresses intention, **~(으)려면** means "if you
    **Answer:** *만들려고 해요.*
 ---
 By understanding and practicing **(으)려고 하다**, you'll be able to express your intentions and plans more naturally in Korean. Keep practicing with different verbs to become more comfortable with this grammar point.
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

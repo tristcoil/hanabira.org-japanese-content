@@ -1,6 +1,6 @@
 Processing keyword: ~고 싶다 [go sipda] (Want to)
 # Korean Grammar Point: ~고 싶다 [go sipda] (Want to)
-# Grammar Point: ~고 싶다 [go sipda] (Want to)
+
 ## 1. Introduction
 The Korean expression **`~고 싶다`** is used to convey the meaning of "want to" in English. This grammar point is essential for expressing desires or wishes to perform an action. It is a fundamental structure that allows speakers to communicate their intentions and inquire about others' desires in everyday conversations.
 

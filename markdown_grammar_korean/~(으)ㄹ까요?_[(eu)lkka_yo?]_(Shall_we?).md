@@ -1,12 +1,13 @@
 Processing keyword: ~(으)ㄹ까요? [(eu)lkka yo?] (Shall we?)
 # Korean Grammar Point: ~(으)ㄹ까요? [(eu)lkka yo?] (Shall we?)
-# 1. Introduction
+
+## 1. Introduction
 In the Korean language, the ending **~(으)ㄹ까요?** is a versatile grammatical structure used to:
 - Make polite suggestions or proposals.
 - Ask for someone's opinion or intention.
 - Express wonder or uncertainty about something.
 It is equivalent to phrases like "**Shall we...?**", "**Do you think...?**", or "**I wonder if...**" in English.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 ### Meaning and Usage
 1. **Making Suggestions**:
@@ -43,7 +44,7 @@ Let's see how to conjugate some common verbs:
 | 먹다 (to eat)   | 먹        | Consonant | 을까요? | 먹을까요?       | Shall we eat?     |
 | 마시다 (to drink)| 마시     | Vowel     | ㄹ까요?  | 마실까요?       | Shall we drink?   |
 | 만들다 (to make)| 만들      | Consonant | 을까요? | 만들까요?       | Shall we make?    |
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 Let's compare **~(으)ㄹ까요?** with similar grammatical structures:
 ### **~(으)래요?** (Would you like to...? / Shall we...?):
 - **Usage**: Asking about someone's preference or intention.
@@ -55,7 +56,7 @@ Let's compare **~(으)ㄹ까요?** with similar grammatical structures:
 - **Usage**: Informal way to suggest doing something together.
 - **Example**: "영화 보자!" (Let's watch a movie!)
 **Note**: **~(으)ㄹ까요?** is more polite and seeks the listener's input or agreement.
-# 4. Examples in Context
+## 4. Examples in Context
 ## Sentence Examples
 ### Formal Situations
 1. **회의를 시작할까요?**
@@ -77,7 +78,7 @@ Let's compare **~(으)ㄹ까요?** with similar grammatical structures:
    - *Do you think these clothes suit me?*
 2. **이 길로 가면 더 빠를까요?**
    - *Is it faster if we go this way?*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Politeness and Indirectness**: Using **~(으)ㄹ까요?** reflects the Korean cultural value of indirect communication and respect. It's a polite way to include the listener's opinion rather than making direct statements.
 - **Group Harmony**: Proposing actions with **~(으)ㄹ까요?** emphasizes collaboration and group decision-making, important aspects of Korean social interactions.
@@ -86,7 +87,7 @@ Let's compare **~(으)ㄹ까요?** with similar grammatical structures:
   - *Shall we walk for a bit?*
 - **차 한잔 할까요?**
   - *Shall we have a cup of tea?*
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Incorrect Attachment After Consonants**
    - **Mistake**: "먹ㄹ까요?"
@@ -103,7 +104,7 @@ Let's compare **~(으)ㄹ까요?** with similar grammatical structures:
 - **Memorize with Common Verbs**: Practice conjugating frequently used verbs to become familiar with the pattern.
 - **Create Example Sentences**: Write your own sentences using **~(으)ㄹ까요?** to reinforce the grammar.
 - **Visual Mnemonic**: Think of **'으'** as a cushion between the stem and **'ㄹ까요?'** when the verb stem ends with a consonant.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~(으)ㄹ까요?** is used to make polite suggestions, ask for opinions, or express wonder.
 - Attachment depends on the verb stem ending:

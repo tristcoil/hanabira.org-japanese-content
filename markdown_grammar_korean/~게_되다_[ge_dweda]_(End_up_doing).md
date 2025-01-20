@@ -1,6 +1,6 @@
 Processing keyword: ~게 되다 [ge dweda] (End up doing)
 # Korean Grammar Point: ~게 되다 [ge dweda] (End up doing)
-# Grammar Lesson: ~게 되다 [ge dweda] (End Up Doing)
+
 ## 1. Introduction
 Welcome to today's lesson on the Korean grammar point **~게 되다**. This expression is commonly used to indicate a change of state or circumstances that lead someone to **end up doing** something unintentionally or inevitably. Understanding **~게 되다** will help you express involuntary actions or developments in Korean.
 
@@ -106,7 +106,6 @@ These expressions are commonly used to describe unplanned or unexpected actions.
    **Answer**: No, it's more appropriate to say 내년에 대학을 졸업합니다.
 ---
 Feel free to revisit this lesson and practice using **~게 되다** in your daily conversations to express actions that happened unintentionally or inevitably. Happy studying!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

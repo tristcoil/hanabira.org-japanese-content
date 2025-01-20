@@ -1,6 +1,6 @@
 Processing keyword: ~(으)다 보니 [(eu)da boni] (Seeing that, as)
 # Korean Grammar Point: ~(으)다 보니 [(eu)da boni] (Seeing that, as)
-# Grammar Lesson: ~(으)다 보니 [(eu)da boni] - "As I keep doing"
+
 ## 1. Introduction
 In Korean, **~(으)다 보니** is a grammatical structure used to express that by continuously doing an action, a new fact, realization, or situation is discovered. It often conveys unintended or unexpected results that occur naturally over time. This expression is akin to saying "as I keep doing..." or "while doing..." in English.
 
@@ -118,7 +118,6 @@ While both expressions deal with ongoing actions, they differ in their usage and
    *"As I traveled a lot, my experiences increased."*
 ---
 By practicing and understanding **~(으)다 보니**, you can express natural outcomes and realizations in Korean more fluently. Keep incorporating this structure into your daily conversations to become more comfortable with its usage.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

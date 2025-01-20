@@ -1,6 +1,6 @@
 Processing keyword: ~(으)로써 [(eu)rosseo] (By, as)
 # Korean Grammar Point: ~(으)로써 [(eu)rosseo] (By, as)
-# ~(으)로써 [(eu)rosseo]: By Means Of, By, Through
+
 ## 1. Introduction
 The Korean grammatical particle **~(으)로써** is used to express the means, method, or instrument by which an action is accomplished. It is equivalent to "by means of," "by," or "through" in English. Understanding this particle will enhance your ability to describe how actions are carried out in Korean.
 
@@ -85,13 +85,13 @@ The particle **~(으)로써** itself does not change with levels of politeness; 
    b) **으로서**
 3. Translate to Korean using **~(으)로써**:  
    "She expressed her feelings **through** writing."
+
 **Answers:**
 1. To indicate the means or method by which an action is performed.
 2. a) **으로써**
    그는 열정**으로써** 꿈을 이루었다.  
    _(He achieved his dream **by** passion.)_
 3. 그녀는 글쓰기**로써** 감정을 표현했다.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

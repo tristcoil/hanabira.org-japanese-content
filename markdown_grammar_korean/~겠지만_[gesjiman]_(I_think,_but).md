@@ -1,6 +1,6 @@
 Processing keyword: ~겠지만 [gesjiman] (I think, but)
 # Korean Grammar Point: ~겠지만 [gesjiman] (I think, but)
-# ~겠지만 (~gesjiman): "I think..., but"
+
 ## 1. Introduction
 In Korean, expressing conjecture or supposition while contrasting ideas is a common linguistic feature. The grammar point **~겠지만** combines the speculative **~겠~** with the contrasting **~지만**, and is used to convey "I think..., but" or "It might..., but". This structure is valuable for nuanced communication, allowing the speaker to express tentative thoughts followed by a contrasting statement.
 
@@ -108,7 +108,7 @@ The structure combines:
 1. Attach **~겠지만** to the verb or adjective stem.
 2. **비가 오겠지만 우산을 안 가져왔어요.**
 3. **~겠지만** includes speculation or assumption, whereas **~지만** does not.
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

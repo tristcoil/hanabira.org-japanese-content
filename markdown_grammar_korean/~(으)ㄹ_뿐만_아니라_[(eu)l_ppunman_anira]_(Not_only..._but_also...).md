@@ -1,11 +1,9 @@
 Processing keyword: ~(으)ㄹ 뿐만 아니라 [(eu)l ppunman anira] (Not only... but also...)
 # Korean Grammar Point: ~(으)ㄹ 뿐만 아니라 [(eu)l ppunman anira] (Not only... but also...)
-# Korean Grammar Lesson: ~(으)ㄹ 뿐만 아니라 [(eu)l ppunman anira]  
-_Not only... but also..._
 
----
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~(으)ㄹ 뿐만 아니라**, which translates to **"not only... but also..."** in English. This structure is used to connect two clauses, highlighting that not only the first situation exists but the second one as well. Understanding this grammar point will help you express additional information and enhance the complexity of your sentences.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

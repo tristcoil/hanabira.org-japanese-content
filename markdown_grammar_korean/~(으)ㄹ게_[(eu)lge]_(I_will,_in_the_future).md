@@ -1,10 +1,10 @@
 Processing keyword: ~(으)ㄹ게 [(eu)lge] (I will, in the future)
 # Korean Grammar Point: ~(으)ㄹ게 [(eu)lge] (I will, in the future)
-# Korean Grammar Lesson: ~(으)ㄹ게 [(eu)lge] (I will, in the future)
 
----
+
 ## 1. Introduction
 In Korean, expressing future intentions involves more than just indicating a future action. The grammar point **~(으)ㄹ게** is used to express the speaker's intention or promise to perform an action, often considering the listener's feelings or needs. This lesson will delve into the usage of **~(으)ㄹ게**, helping you communicate your future plans with nuance and cultural sensitivity.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -115,7 +115,6 @@ While both **~(으)ㄹ게** and **~(으)ㄹ 거예요** express future actions, 
    **Answer:** b) 제가 도울게요. (*I will help.*)
 ---
 By mastering **~(으)ㄹ게**, you can express your intentions and promises thoughtfully, aligning with Korean cultural norms of politeness and consideration.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

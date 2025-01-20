@@ -1,10 +1,9 @@
 Processing keyword: ~(으)리라 [(eu)rira] (Probably)
 # Korean Grammar Point: ~(으)리라 [(eu)rira] (Probably)
-# Korean Grammar Lesson: ~(으)리라 [(eu)rira] (Probably)
 
----
 ## 1. Introduction
 The grammar point **~(으)리라** is a verb ending used in Korean to express the speaker's strong assumption, determination, or expectation about a future event or a current situation. It often translates to "will probably," "I suppose that," or "I assume that" in English. This form is considered poetic and literary, frequently appearing in written texts, poetry, proverbs, and occasionally in formal speeches.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

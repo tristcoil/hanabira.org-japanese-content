@@ -1,10 +1,11 @@
 Processing keyword: ~게 해서는 안 되다 [ge haeseoneun an dweda] (Shouldn't make/let someone do)
 # Korean Grammar Point: ~게 해서는 안 되다 [ge haeseoneun an dweda] (Shouldn't make/let someone do)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~게 해서는 안 되다** (*ge haeseoneun an dweda*), which is used to express that someone **should not make or let someone else do something**. This structure is essential for conveying prohibitions or advising against certain actions involving others.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The expression **~게 해서는 안 되다** is used to:
 - **Prohibit or discourage** causing someone to perform an action.
@@ -26,7 +27,7 @@ The expression **~게 해서는 안 되다** is used to:
 (The boss)    (the employees)   (work)          (should not make)
 ```
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## Similar Grammar Points
 | Grammar Point                   | Meaning                                       | Difference                                      |
 |---------------------------------|------------------------------------------------|-------------------------------------------------|
@@ -35,7 +36,7 @@ The expression **~게 해서는 안 되다** is used to:
 | **~도록 하다**                  | To ensure someone does something               | Weaker emphasis on making someone do something  |
 | **~게 해서는 안 되다**          | Should not make/let someone do something       | Expresses prohibition against causing an action |
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Example Sentences
 ### 1. Formal Context
 - **Korean**: 부모는 아이들에게 거짓말을 하게 해서는 안 됩니다.
@@ -54,7 +55,7 @@ The expression **~게 해서는 안 되다** is used to:
 - **Pronunciation**: *Aideureul bamneutkkaji nolge haeseoneun andwaeyo.*
 - **English**: You shouldn't let the kids play until late at night.
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Respect for Others**: In Korean culture, there's a strong emphasis on **consideration and responsibility** towards others, especially within hierarchical relationships such as parents and children, employers and employees.
 - **Politeness Levels**: Using **~게 해서는 안 됩니다** is a polite and formal way to express prohibition, suitable for formal situations and written communication.
@@ -62,7 +63,7 @@ The expression **~게 해서는 안 되다** is used to:
 - **사람들을 오해하게 해서는 안 된다.**
   - *You shouldn't cause people to misunderstand.*
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Omitting '게'**: Forgetting to include **'게'** in the structure.
    - Incorrect: *거짓말을 하해서는 안 돼.*
@@ -72,7 +73,7 @@ The expression **~게 해서는 안 되다** is used to:
 - **Remember the '게'**: It links the verb stem to the causative form.
 - **Differentiate Prohibitions**: Use **~게 해서는 안 되다** to specifically express that making or letting someone do something is not acceptable.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~게 해서는 안 되다** is used to express that one **should not make or let someone do something**.
 - It's important in contexts where you're advising against causing an action.

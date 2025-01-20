@@ -1,6 +1,6 @@
 Processing keyword: ~(으)면 할수록 [(eu)myeon halsurok] (The more... the more...)
 # Korean Grammar Point: ~(으)면 할수록 [(eu)myeon halsurok] (The more... the more...)
-# Grammar Point: ~(으)면 할수록 [(eu)myeon halsurok] (The more... the more...)
+
 ## 1. Introduction
 In Korean, expressing the idea of "the more... the more..." is achieved using the grammatical structure **~(으)면 할수록**. This pattern allows speakers to convey that as one action or state increases, another related action or state also increases. Mastering this structure will enable you to create more complex and nuanced sentences in Korean.
 

@@ -1,6 +1,6 @@
 Processing keyword: ~기 시작하다 [gi sijakhada] (Start to do)
 # Korean Grammar Point: ~기 시작하다 [gi sijakhada] (Start to do)
-# ~기 시작하다 [gi sijakhada] (Start to do)
+
 ## 1. Introduction
 The grammar pattern **~기 시작하다** is used in Korean to express the beginning of an action or process. It is equivalent to the English phrase "**to start doing**" something. This pattern is commonly used in both spoken and written Korean to indicate that someone has begun an activity.
 
@@ -85,7 +85,7 @@ In Korean culture, expressing the initiation of actions is often linked to showi
 2. No, it's incorrect because **예쁘다** is an adjective. You should use an action verb like **예뻐지다** (to become pretty): **예뻐지기 시작하다**.
 3. **내리기** - 비가 내리기 시작했어요.
 </details>
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

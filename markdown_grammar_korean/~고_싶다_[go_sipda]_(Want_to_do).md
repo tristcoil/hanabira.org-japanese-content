@@ -1,6 +1,6 @@
 Processing keyword: ~고 싶다 [go sipda] (Want to do)
 # Korean Grammar Point: ~고 싶다 [go sipda] (Want to do)
-# ~고 싶다 [go sipda] (Want to do)
+
 ## 1. Introduction
 In Korean, expressing a desire to perform an action is often conveyed using the grammar pattern **~고 싶다** [go sipda], which translates to "**want to do**" in English. This structure is fundamental in daily conversation and is essential for expressing personal wishes and intentions.
 

@@ -1,6 +1,6 @@
 Processing keyword: (으)세요 [(eu)seyo] (Imperative form)
 # Korean Grammar Point: (으)세요 [(eu)seyo] (Imperative form)
-# (으)세요 [(eu)seyo] Imperative Form in Korean
+
 ## 1. Introduction
 In Korean, giving polite commands or making respectful requests is essential due to the language's hierarchical nature. The grammar point **(으)세요** is a polite imperative form used to tell someone to do something in a courteous manner. It is widely used in everyday conversations, especially when speaking to someone of equal or higher social status.
 
@@ -94,6 +94,7 @@ The structure for forming this polite imperative is:
    b. 마시다 (to drink)  
    c. 기다리다 (to wait)  
    d. 만들다 (to make)  
+
 **Answers:**
    a. 읽으세요  
    b. 마시세요  

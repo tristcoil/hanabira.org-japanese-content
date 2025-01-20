@@ -1,10 +1,10 @@
 Processing keyword: ~고 있다 [go itda] (In the process of doing)
 # Korean Grammar Point: ~고 있다 [go itda] (In the process of doing)
-# Korean Grammar Lesson: **~고 있다** [go itda] (In the Process of Doing)
 
 ---
 ## 1. Introduction
 In Korean, expressing ongoing actions is essential for daily communication. The grammatical structure **~고 있다** is used to indicate that an action is currently in progress, similar to the present continuous tense in English ("am/is/are doing"). This lesson will delve into the usage of **~고 있다**, providing you with the tools to describe ongoing activities naturally in Korean.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -23,8 +23,7 @@ To form **~고 있다**, follow these steps:
 | 읽다 (to read)             | 읽           | 읽고 있다           | is reading           |
 | 마시다 (to drink)          | 마시         | 마시고 있다         | is drinking          |
 ### Visual Aid: Formation Flowchart
-```mermaid
-graph LR
+```
 A[Verb Dictionary Form]
 A --> B[Remove 다]
 B --> C[Verb Stem]

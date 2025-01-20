@@ -1,6 +1,6 @@
 Processing keyword: (으)로 [(eu)ro] (To, toward; as a tool/method)
 # Korean Grammar Point: (으)로 [(eu)ro] (To, toward; as a tool/method)
-# (으)로 [(eu)ro]: Direction, Means, Method in Korean Grammar
+
 ## 1. Introduction
 In Korean, particles play a crucial role in indicating the function of words within a sentence. One such versatile particle is **(으)로** [(eu)ro], which can denote direction, means, method, cause, or selection. Understanding how to use **(으)로** correctly will enhance your ability to express actions, reasons, and directions more naturally in Korean.
 
@@ -91,6 +91,7 @@ These expressions show how **(으)로** is used in idiomatic phrases to indicate
 2. Translate to Korean: "Turn right."
 3. Correct the mistake: 비___ 학교에 갔어요. (I went to school because of the rain.)
 4. Choose the correct particle: 도서관___ 갑시다. (Let's go to the library.)
+
 **Answers:**
 1. 연필**로** 글을 써요.
 2. 오른쪽**으로** 가세요.

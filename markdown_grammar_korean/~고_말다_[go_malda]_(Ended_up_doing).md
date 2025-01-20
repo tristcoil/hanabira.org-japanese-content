@@ -1,6 +1,6 @@
 Processing keyword: ~고 말다 [go malda] (Ended up doing)
 # Korean Grammar Point: ~고 말다 [go malda] (Ended up doing)
-# Understanding the Korean Grammar Point: ~고 말다
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar pattern **~고 말다**. This expression is commonly used to indicate that an action has ended up occurring, often unintentionally or despite efforts to prevent it. By mastering this grammar point, you'll be able to convey nuances of inevitability or unintended results in your Korean conversations.
 
@@ -108,7 +108,7 @@ In Korean culture, expressing unintended outcomes or situations that occurred de
    *Answer*: 그는 웃지 않으려고 했지만 웃고 말았어요.
 ---
 By incorporating **~고 말다** into your Korean expressions, you'll enhance your ability to convey nuances of unintended or inevitable actions, making your language use more natural and expressive.
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

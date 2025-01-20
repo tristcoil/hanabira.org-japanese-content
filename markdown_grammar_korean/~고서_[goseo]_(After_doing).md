@@ -1,10 +1,11 @@
 Processing keyword: ~고서 [goseo] (After doing)
 # Korean Grammar Point: ~고서 [goseo] (After doing)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we will explore the Korean grammar point **~고서** (**[goseo]**), which is used to indicate that one action occurs **after** another action is completed. This structure emphasizes the completion of the first action before moving on to the next, allowing you to express sequences of events clearly and naturally in Korean.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning and Usage
 **~고서** is attached to the verb stem to indicate that **after doing** one action, another action occurs. It emphasizes that the first action has been completed before the second action begins.
 - **Meaning**: *After doing*, *having done*, *and then*.
@@ -34,7 +35,7 @@ In this lesson, we will explore the Korean grammar point **~고서** (**[goseo]*
 | 배우다 (to learn)                   | 배우      | 배우고서 | After learning              |
 | 듣다 (to listen)                    | 듣        | 듣고서 | After listening             |
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## ~고서 vs. ~고
 While both **~고서** and **~고** are used to connect actions, they have different nuances.
 ### ~고서
@@ -51,7 +52,7 @@ While both **~고서** and **~고** are used to connect actions, they have diffe
    - *After eating, I went to school.*
    - Emphasizes that eating was completed before going to school.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 Let's explore how **~고서** is used in different contexts.
 ## Formal Context
 1. **저는 보고서를 작성하고서 제출했습니다.**
@@ -74,7 +75,7 @@ Let's explore how **~고서** is used in different contexts.
 2. **숙제하고서 게임할래?**
    - *Do you want to play games after doing homework?*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, the sequence and completion of actions can be important, especially in formal settings or when giving instructions. Using **~고서** helps convey that certain steps should be completed before others begin, which is crucial in contexts like work procedures, academic instructions, or traditional practices.
 ## Levels of Politeness and Formality
@@ -91,7 +92,7 @@ Though not idiomatic expressions per se, **~고서야** is a variation that adds
 - **열심히 공부하고서야 성공할 수 있다.**
   - *Only after studying hard can one succeed.*
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 ### 1. Confusing ~고 and ~고서
 - **Incorrect**: *책을 읽고 잠들었어요.* (Intending to emphasize completion)
@@ -105,7 +106,7 @@ Though not idiomatic expressions per se, **~고서야** is a variation that adds
 - **Mnemonic Device**: Remember **서** in **고서** as "so," indicating "and so after."
 - **Practice**: Create sentences linking daily routines to get comfortable with sequential actions.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~고서** is used to indicate that one action is completed before another begins.
 - Formed by adding **고서** to the verb stem of the first action.

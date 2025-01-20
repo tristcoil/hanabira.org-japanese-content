@@ -1,10 +1,10 @@
 Processing keyword: (으)려고 [(eu)ryeogo] (Intention to do)
 # Korean Grammar Point: (으)려고 [(eu)ryeogo] (Intention to do)
-# Grammar Point: (으)려고 [(eu)ryeogo] - Intention to Do
 
----
+
 ## 1. Introduction
 The Korean grammar pattern **(으)려고** is used to express the speaker's intention or plan to perform an action. It is similar to saying "in order to" or "with the intention of" in English. This form is attached to verbs to indicate that the subject intends to do something.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning and Usage

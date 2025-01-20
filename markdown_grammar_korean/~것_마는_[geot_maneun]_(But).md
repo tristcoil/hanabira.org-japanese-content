@@ -1,10 +1,9 @@
 Processing keyword: ~것 마는 [geot maneun] (But)
 # Korean Grammar Point: ~것 마는 [geot maneun] (But)
-# Korean Grammar Lesson: ~건마는 [geon maneun] (But)
 
----
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~건마는** [geon maneun], which is used to express contrast or opposition, similar to the English word "but" or "although". Understanding this grammar point will enhance your ability to convey nuanced contrasts and express subtle emotions in Korean.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

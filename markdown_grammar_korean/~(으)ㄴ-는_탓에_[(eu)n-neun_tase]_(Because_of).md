@@ -10,11 +10,13 @@ The Korean grammar point **~(으)ㄴ/는 탓에** is used to express a negative 
 ## Structure
 The structure varies depending on whether the verb stem ends with a vowel or consonant and whether it's in the past or present tense.
 ### Formation Diagram
+
 | Tense       | Verb Stem Ending | Grammar Form       | Example Verb | Conjugated Form     |
 |-------------|------------------|--------------------|--------------|---------------------|
 | Past        | Vowel/Consonant  | **~(으)ㄴ 탓에**    | 먹다          | 먹**은 탓에**       |
 | Present     | Vowel/Consonant  | **~는 탓에**       | 먹다          | 먹**는 탓에**       |
 | Adjective   | Vowel/Consonant  | **~(으)ㄴ 탓에**    | 많다          | 많**은 탓에**       |
+
 ### Detailed Explanation
 - **For Verbs (Past Tense)**:
   - **Verb Stem + ~(으)ㄴ 탓에**
@@ -101,7 +103,7 @@ While **~(으)니까** and **~기 때문에** also mean "because," they are gene
 2. 탓에
 3. **~덕분에**
 4. False
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

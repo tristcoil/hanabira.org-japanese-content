@@ -1,6 +1,6 @@
 Processing keyword: ~(으)ㄹ게요 [(eu)lgeyo] (I will, in the future)
 # Korean Grammar Point: ~(으)ㄹ게요 [(eu)lgeyo] (I will, in the future)
-# Grammar Lesson: ~(으)ㄹ게요 [(eu)l-ge-yo] (I will)
+
 ## 1. Introduction
 In Korean, expressing future intentions or promises can vary depending on the context and the relationship with the listener. The ending **~(으)ㄹ게요** is a commonly used grammatical structure to indicate the speaker's **commitment or promise** to perform an action, often influenced by or in response to the listener.
 

@@ -1,6 +1,6 @@
 Processing keyword: ~(으)ㄹ라고 [(eu)llago] (Intend to)
 # Korean Grammar Point: ~(으)ㄹ라고 [(eu)llago] (Intend to)
-# ~(으)ㄹ라고 [(eu)llago] (Intend to)
+
 ## 1. Introduction
 Expressing intention or purpose is a fundamental aspect of communication in any language. In Korean, the grammar pattern **~(으)ㄹ라고** [(eu)llago] is commonly used to indicate that someone intends to do something. This lesson will delve into the usage, formation, and nuances of this grammar point to help you communicate your intentions effectively in Korean.
 

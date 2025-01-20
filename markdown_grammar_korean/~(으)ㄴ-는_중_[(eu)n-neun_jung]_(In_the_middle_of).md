@@ -1,6 +1,6 @@
 Processing keyword: ~(으)ㄴ/는 중 [(eu)n/neun jung] (In the middle of)
 # Korean Grammar Point: ~(으)ㄴ/는 중 [(eu)n/neun jung] (In the middle of)
-# Korean Grammar Lesson: ~(으)ㄴ/는 중 [(eu)n/neun jung] (In the Middle of)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~(으)ㄴ/는 중**, which is used to express that someone is **in the middle of doing** something. This expression is essential for conveying ongoing actions, especially when you want to emphasize that an action is currently happening.
 
@@ -10,10 +10,12 @@ In this lesson, we'll explore the Korean grammar point **~(으)ㄴ/는 중**, wh
 The grammar point **~(으)ㄴ/는 중** translates to **"in the middle of"** or **"currently doing"** in English. It's used to indicate that an action is ongoing at the moment of speaking.
 ### Structure
 The formation of **~(으)ㄴ/는 중** depends on whether the verb stem ends with a vowel or a consonant.
+
 | Verb Stem Ending | Suffix to Use |
 |------------------|---------------|
 | Consonant        | **~는 중**      |
 | Vowel            | **~는 중**      |
+
 However, since **중** is a noun meaning "middle," the verb is often converted into the modifying form using **~는**.
 ### Formation Diagram
 ```
@@ -84,7 +86,7 @@ In Korean culture, stating that you're in the middle of something politely infor
 3. **먹는**
 ---
 By understanding and practicing **~(으)ㄴ/는 중**, you'll be able to express ongoing actions more precisely in Korean. Keep practicing with different verbs to become more comfortable with this grammar point!
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

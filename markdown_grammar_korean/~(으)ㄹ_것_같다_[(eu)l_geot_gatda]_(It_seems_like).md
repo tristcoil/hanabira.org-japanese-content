@@ -1,10 +1,9 @@
 Processing keyword: ~(으)ㄹ 것 같다 [(eu)l geot gatda] (It seems like)
 # Korean Grammar Point: ~(으)ㄹ 것 같다 [(eu)l geot gatda] (It seems like)
-# Understanding the Grammar Point: ~(으)ㄹ 것 같다 [(eu)l geot gatda] (It seems like)
 
----
 ## 1. Introduction
 The Korean grammar point **~(으)ㄹ 것 같다** is a versatile expression used to convey speculation, assumption, or likelihood about future events or situations. It translates to "it seems like," "it looks like," or "I think" in English. Mastering this grammar will enhance your ability to express conjectures and make polite assumptions in various contexts.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

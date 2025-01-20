@@ -1,6 +1,6 @@
 Processing keyword: ~곤 하다 [gon hada] (Often do)
 # Korean Grammar Point: ~곤 하다 [gon hada] (Often do)
-# ~곤 하다 [gon hada] (Often do)
+
 ## 1. Introduction
 The Korean grammar pattern **~곤 하다** is used to express habitual or repeated actions. It conveys the meaning of "often do" or "used to do" something regularly. This structure allows speakers to talk about routines, habits, or actions that occur frequently over time.
 
@@ -95,7 +95,6 @@ To use this grammar pattern, attach **~곤 하다** to the verb stem.
    - **Answer**: False. **~기 일쑤이다** often carries a negative connotation.
 ---
 By mastering **~곤 하다**, you can effectively communicate habits and routines, adding depth to your Korean conversations.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

@@ -1,6 +1,6 @@
 Processing keyword: ~게 하다 [ge hada] (Make/cause someone to do)
 # Korean Grammar Point: ~게 하다 [ge hada] (Make/cause someone to do)
-# ~게 하다 [ge hada] (Make/Cause Someone to Do)
+
 ## 1. Introduction
 In Korean, expressing causation—making or allowing someone to do something—is essential for conveying complex actions and relationships. The grammar point **~게 하다** is a key structure used to indicate that someone causes another person to perform an action.
 

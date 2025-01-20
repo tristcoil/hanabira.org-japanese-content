@@ -1,6 +1,6 @@
 Processing keyword: ~고 말다 [go malda] (End up)
 # Korean Grammar Point: ~고 말다 [go malda] (End up)
-# ~고 말다 [go malda] (End up)
+
 ## 1. Introduction
 The Korean grammar point **~고 말다** is used to express that an action has been completed eventually or inevitably, often with a sense of regret, unintended outcome, or inevitability. It can be translated as "end up doing," "finally do," or "eventually do" something.
 

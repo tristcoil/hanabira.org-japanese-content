@@ -1,10 +1,9 @@
 Processing keyword: ~(으)ㄹ 수록 [(eu)l surok] (The more)
 # Korean Grammar Point: ~(으)ㄹ 수록 [(eu)l surok] (The more)
-# Korean Grammar Lesson: ~(으)ㄹ수록 [(eu)l surok] (The More)
 
----
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~(으)ㄹ수록**, which translates to **"the more..."** in English. This structure is essential for expressing increasing degrees or intensities in various situations, allowing you to make more nuanced and expressive sentences in Korean.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

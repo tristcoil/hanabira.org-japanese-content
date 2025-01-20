@@ -1,6 +1,6 @@
 Processing keyword: ~게 하다 [ge hada] (Make/let someone do)
 # Korean Grammar Point: ~게 하다 [ge hada] (Make/let someone do)
-# ~게 하다 [ge hada] (Make/Let Someone Do)
+
 ## 1. Introduction
 In Korean, the grammar construct **~게 하다** is used to express making or letting someone do something. It is a versatile expression that helps convey causation or permission in various contexts.
 
@@ -15,9 +15,9 @@ To form sentences using **~게 하다**, attach **~게 하다** to the verb stem
 ```
 ### Formation Diagram
 ```
-----------------------------------
+-----------------------------------
 | Subject | Object | Verb + 게 하다 |
-----------------------------------
+-----------------------------------
 ```
 - **Subject**: The person who makes or lets someone do something.
 - **Object**: The person who is being made or allowed to do something.

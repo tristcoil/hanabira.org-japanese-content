@@ -1,6 +1,6 @@
 Processing keyword: (이)랑 [(i)rang] (With)
 # Korean Grammar Point: (이)랑 [(i)rang] (With)
-# (이)랑 [(i)rang] - "With" in Korean
+
 ## 1. Introduction
 In Korean, expressing the concept of "with" or "and" can be done using several particles. One common and colloquial way is using **(이)랑** [(i)rang]. This particle is frequently used in everyday conversations to connect nouns and indicate companionship or addition.
 
@@ -20,19 +20,24 @@ If Noun ends with consonant: Noun + 이랑
 If Noun ends with vowel:     Noun + 랑
 ```
 ### Visual Aid: Structure Table
+
 | Noun Ending            | Particle to Use | Example                 |
 |------------------------|-----------------|-------------------------|
 | Ends with **consonant** | **이랑**         | 책 + 이랑 → 책이랑        |
 | Ends with **vowel**     | **랑**           | 나무 + 랑 → 나무랑        |
+
 ---
 ## 3. Comparative Analysis
 ### Comparing (이)랑 with Other Particles
+
 | Particle    | Usage                           | Formality Level |
 |-------------|---------------------------------|-----------------|
 | **(이)랑**   | "And" or "with" (colloquial)     | Informal        |
 | **하고**     | "And" or "with"                  | Neutral         |
 | **과/와**    | "And" (used in writing/formal)   | Formal          |
+
 **Note**: While **(이)랑** and **하고** are often interchangeable, **과/와** is more formal and commonly used in written language or formal speeches.
+
 ---
 ## 4. Examples in Context
 ### Informal Spoken Korean

@@ -1,6 +1,6 @@
 Processing keyword: (으)ㄹ 때 [(eu)l ttae] (When)
 # Korean Grammar Point: (으)ㄹ 때 [(eu)l ttae] (When)
-# (으)ㄹ 때 [(eu)l ttae] - "When"
+
 ## 1. Introduction
 The Korean grammar point **(으)ㄹ 때** is used to express "when" in temporal contexts. It's a fundamental structure that helps indicate the time when an action occurs or a state exists. Mastering **(으)ㄹ 때** will enhance your ability to describe actions and events in relation to time.
 

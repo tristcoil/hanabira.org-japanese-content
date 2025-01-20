@@ -1,6 +1,6 @@
 Processing keyword: ~기는 하다 [gineun hada] (Do something as a habit)
 # Korean Grammar Point: ~기는 하다 [gineun hada] (Do something as a habit)
-# Korean Grammar Lesson: **~기는 하다** (Do something as a habit)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar pattern **~기는 하다**, which is used to express habitual actions or to acknowledge doing something regularly. This structure is essential for conveying routines or habits in daily conversations.
 

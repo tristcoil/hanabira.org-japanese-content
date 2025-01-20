@@ -1,6 +1,6 @@
 Processing keyword: (으)ㄴ/는 편이다 [(eu)n/neun pyeonida] (Tend to)
 # Korean Grammar Point: (으)ㄴ/는 편이다 [(eu)n/neun pyeonida] (Tend to)
-# The Korean Grammar Point: (으)ㄴ/는 편이다 [(eu)n/neun pyeonida] - "Tend to"
+
 ## 1. Introduction
 The expression **(으)ㄴ/는 편이다** is a commonly used Korean grammar structure that conveys the meaning of "*tend to*" or "*rather*." It is used to express that something leans more towards a certain state or action, often to make a generalization or to soften a statement.
 

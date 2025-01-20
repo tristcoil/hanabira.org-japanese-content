@@ -1,6 +1,6 @@
 Processing keyword: ~기도 하다 [gido hada] (Sometimes do)
 # Korean Grammar Point: ~기도 하다 [gido hada] (Sometimes do)
-# ~기도 하다 [gido hada] (Sometimes do)
+
 ## 1. Introduction
 The Korean grammar pattern **~기도 하다** is used to express that someone **sometimes does** something or **also does** something among other actions. It's a versatile structure that adds nuance to your sentences, indicating occasional actions or additional activities.
 

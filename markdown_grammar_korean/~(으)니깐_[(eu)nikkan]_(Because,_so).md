@@ -1,6 +1,6 @@
 Processing keyword: ~(으)니깐 [(eu)nikkan] (Because, so)
 # Korean Grammar Point: ~(으)니깐 [(eu)nikkan] (Because, so)
-# Korean Grammar Lesson: ~(으)니까 [(eu)nikka] - "Because, So"
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammatical ending **~(으)니까** [(eu)nikka], which is used to express reasons or causes, similar to "because" or "so" in English. Understanding this grammar point will help you articulate reasons and causes more naturally in Korean conversations.
 

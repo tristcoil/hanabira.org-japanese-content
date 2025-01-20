@@ -1,6 +1,6 @@
 Processing keyword: ~(으)려다가 [(eu)ryeodaga] (Was about to, tried to)
 # Korean Grammar Point: ~(으)려다가 [(eu)ryeodaga] (Was about to, tried to)
-# The Korean Grammar Point: ~(으)려다가 [(eu)ryeodaga] (Was About To, Tried To)
+
 ## 1. Introduction
 In Korean, expressing a change in plans or an interrupted intention is common in daily conversations. The grammar pattern **~(으)려다가** is used to convey that someone was about to do something but ended up doing something else instead. It adds nuance to your speech by indicating that an initial intention was altered due to certain circumstances.
 

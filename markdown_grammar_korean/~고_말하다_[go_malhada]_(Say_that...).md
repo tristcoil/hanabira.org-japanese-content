@@ -1,10 +1,9 @@
 Processing keyword: ~고 말하다 [go malhada] (Say that...)
 # Korean Grammar Point: ~고 말하다 [go malhada] (Say that...)
-# ~고 말하다 [go malhada] (Say that...)
 
----
 ## 1. Introduction
 In Korean, indirect speech is commonly used to report what someone has said without quoting them verbatim. One of the key grammar structures for indirect quotations is **~고 말하다**, which translates to "**say that...**" in English. This lesson will delve into the uses, formation, and nuances of this grammar point to help you incorporate it naturally into your Korean conversations.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -26,10 +25,12 @@ The structure **~고 말하다** is used to convey what someone has said indirec
 #### For Nouns
 - If the noun ends with a consonant: **Noun + 이라고 말하다**
 - If the noun ends with a vowel: **Noun + 라고 말하다**
+
 | Noun      | Conjugation Example      | Translation                           |
 |-----------|--------------------------|---------------------------------------|
 | 학생      | **학생이라고 말하다**     | Say that (someone) is a student       |
 | 친구      | **친구라고 말하다**       | Say that (someone) is a friend        |
+
 ---
 ## 3. Comparative Analysis
 ### Similar Grammar Points
@@ -63,6 +64,7 @@ In Korean, the verb **말하다** can be adjusted for politeness:
 - **말씀이시다** → Honorific form
 ### Indirect Speech in Korean Culture
 Indirect speech is prevalent in Korean communication, reflecting the culture's emphasis on politeness and indirectness to maintain harmony and show respect.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Errors

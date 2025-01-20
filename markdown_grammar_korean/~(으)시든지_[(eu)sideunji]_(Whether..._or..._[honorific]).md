@@ -1,8 +1,9 @@
 Processing keyword: ~(으)시든지 [(eu)sideunji] (Whether... or... [honorific])
 # Korean Grammar Point: ~(으)시든지 [(eu)sideunji] (Whether... or... [honorific])
-# 1. Introduction
+
+## 1. Introduction
 In Korean, expressing options or alternatives in a respectful manner is essential, especially when referring to someone of higher status or age. The grammar point **~(으)시든지** [(eu)sideunji] allows speakers to present choices involving an esteemed person politely. It translates to **"whether (someone esteemed) does... or..."** in English. This lesson will explore the usage, formation, and nuances of **~(으)시든지**, helping you communicate respectfully in various contexts.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning and Usage
 **~(으)시든지** is an honorific grammatical structure used to present options or possibilities concerning the actions of someone who deserves respect (e.g., elders, superiors). It combines the honorific marker **~(으)시** with **~든지**, which means "whether... or...".
 - **Usage:** To respectfully express alternatives or choices involving an esteemed person's actions.
@@ -28,7 +29,7 @@ In Korean, expressing options or alternatives in a respectful manner is essentia
 2. **Verb Ending with Vowel**
    - **보다** (to see) → 보**시든지**
    - **오다** (to come) → 오**시든지**
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## **~(으)시든지** vs. **~든지**
 - **~든지**: Used to express options or choices without honorifics.
   - Example: **가든지 말든지** *(Whether you go or not)*
@@ -37,7 +38,7 @@ In Korean, expressing options or alternatives in a respectful manner is essentia
 ### Nuance Differences
 - **Without Honorifics**: May sound rude or disrespectful when referring to someone who requires respect.
 - **With Honorifics**: Demonstrates politeness and acknowledges the social status of the person.
-# 4. Examples in Context
+## 4. Examples in Context
 ## Formal Situations
 1. **사장님께서 결정하시든지 저희에게 맡기시든지 알려주세요.**
    - *Whether the president decides or leaves it to us, please let us know.*
@@ -58,7 +59,7 @@ In Korean, expressing options or alternatives in a respectful manner is essentia
    - *Whether the teacher guides or I help, there's no problem.*
 2. **아버지께서 운전하시든지 제가 하든지 빨리 출발합시다.**
    - *Whether father drives or I do, let's depart quickly.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, showing respect through language is crucial. The honorific marker **~(으)시** is a fundamental aspect of the language, reflecting the speaker's respect toward the subject.
 - **Using Honorifics Appropriately:**
@@ -74,7 +75,7 @@ While there are no specific idioms using **~(으)시든지**, the structure is c
   - *Please do as you are comfortable.*
 - **시간 되시든지 연락 주세요.**
   - *Contact me whenever you have time.*
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 ### 1. Omitting the Honorific Marker
 - **Incorrect:** 어머니가 오든지 안 오든지 시작합시다.
@@ -96,7 +97,7 @@ While there are no specific idioms using **~(으)시든지**, the structure is c
   - When applicable, use the honorific verb before adding **~(으)시든지**.
 *Example:*
 - **드시다** (to eat [honorific]) → 드시**든지**
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~(으)시든지** is used to politely present options involving an esteemed person.
 - Attach **으시든지** after verb stems ending with a consonant, **시든지** after verb stems ending with a vowel.

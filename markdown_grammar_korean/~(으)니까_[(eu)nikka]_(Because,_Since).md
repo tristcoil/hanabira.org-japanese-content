@@ -1,6 +1,6 @@
 Processing keyword: ~(으)니까 [(eu)nikka] (Because, Since)
 # Korean Grammar Point: ~(으)니까 [(eu)nikka] (Because, Since)
-# Understanding the Grammar Point: ~(으)니까 [(eu)nikka] (Because, Since)
+
 ## 1. Introduction
 Expressing reasons or causes is fundamental in any language. In Korean, one common way to convey "because" or "since" is by using the grammar point **~(으)니까** [(eu)nikka]. This structure not only helps in stating reasons but is also crucial when making suggestions or giving commands. This lesson will delve into the usage, formation, and nuances of ~(으)니까 to enhance your Korean communication skills.
 
@@ -38,12 +38,14 @@ Expressing reasons or causes is fundamental in any language. In Korean, one comm
 ## 3. Comparative Analysis
 ### ~(으)니까 vs. ~아서/어서
 Both **~(으)니까** and **~아서/어서** mean "because" or "since," but they have different usages and connotations.
+
 |                          | **~(으)니까**                           | **~아서/어서**                       |
 |--------------------------|----------------------------------------|-------------------------------------|
 | **Usage**                | Subjective reasons or speaker's judgment. Suitable with commands, suggestions, and questions. | Objective reasons or known facts. Not commonly used with commands or suggestions. |
 | **Commands/Suggestions** | ✔ Allowed                              | ✖ Typically not used               |
 | **Tense in Clause**      | Tense not used in clause               | Tense not used in clause            |
 | **Example**              | 시간이 없**으니까** 빨리 갑시다. <br>*Since we don't have time, let's go quickly.* | 시간이 없**어서** 갈 수 없어요. <br>*Because I don't have time, I can't go.* |
+
 #### Key Differences:
 - **~(으)니까** is often preferred when the reason is directly linked to a command or a suggestion.
 - **~아서/어서** is more about stating direct causes and is less flexible with imperatives.

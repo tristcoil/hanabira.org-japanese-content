@@ -1,6 +1,6 @@
 Processing keyword: ~고자 [goja] (In order to)
 # Korean Grammar Point: ~고자 [goja] (In order to)
-# Grammar Point: ~고자 [goja] (In order to)
+
 ## 1. Introduction
 The Korean grammar pattern **~고자** is used to express the intention or purpose of the speaker, similar to "in order to" or "with the intention of" in English. It is commonly used in formal writing and speeches.
 

@@ -1,6 +1,6 @@
 Processing keyword: ~(으)ㄴ/는지 모르겠다 [(eu)n/neunji moreugessda] (I'm not sure if)
 # Korean Grammar Point: ~(으)ㄴ/는지 모르겠다 [(eu)n/neunji moreugessda] (I'm not sure if)
-# Korean Grammar Lesson: ~(으)ㄴ/는지 모르겠다 (I'm not sure if)
+
 ## 1. Introduction
 In Korean, expressing uncertainty or doubt about a situation is common in daily conversations. The grammar pattern **~(으)ㄴ/는지 모르겠다** is widely used to convey the idea of "I'm not sure if..." or "I don't know whether...". This lesson will help you understand how to form and use this expression naturally in various contexts.
 
@@ -12,38 +12,48 @@ The pattern **~(으)ㄴ/는지 모르겠다** is used to express uncertainty or 
 - **"I'm not sure whether..."**
 ### Structure
 The structure varies depending on the type of verb and the tense:
+
 | **Verb Type**           | **Tense**      | **Ending**           |
 |-------------------------|----------------|----------------------|
 | Action Verb             | Present        | ~는지 모르겠다       |
 | Action Verb             | Past           | ~았/었는지 모르겠다  |
 | Descriptive Verb        | Present/Past   | ~(으)ㄴ지 모르겠다    |
 | Noun + **이다**         | Present/Past   | ~인지 모르겠다       |
+
 ### Formation Diagram
 #### 1. Action Verbs (Present Tense)
 - **Verb Stem + 는지 모르겠다**
+
 | Verb       | Verb Stem | Ending    | Result                |
 |------------|-----------|-----------|-----------------------|
 | 가다 (to go) | 가         | 는지 모르겠다 | 가는지 모르겠다        |
 | 먹다 (to eat)| 먹        | 는지 모르겠다 | 먹는지 모르겠다        |
+
 #### 2. Action Verbs (Past Tense)
 - **Verb Stem + 았/었는지 모르겠다**
+
 | Verb          | Verb Stem | Ending       | Result                 |
 |---------------|-----------|--------------|------------------------|
 | 갔다 (went)    | 갔        | 는지 모르겠다  | 갔는지 모르겠다         |
 | 먹었다 (ate)   | 먹었      | 는지 모르겠다  | 먹었는지 모르겠다       |
+
 #### 3. Descriptive Verbs (Adjectives)
 - If the stem ends in a **vowel**: **~ㄴ지 모르겠다**
 - If the stem ends in a **consonant**: **~은지 모르겠다**
+
 | Verb         | Verb Stem | Ending     | Result                 |
 |--------------|-----------|------------|------------------------|
 | 크다 (big)    | 크        | ㄴ지 모르겠다 | 큰지 모르겠다          |
 | 작다 (small)  | 작        | 은지 모르겠다 | 작은지 모르겠다        |
+
 #### 4. Nouns with **이다**
 - **Noun + 인지 모르겠다**
+
 | Noun + 이다     | Ending        | Result                 |
 |-----------------|---------------|------------------------|
 | 학생이다 (be a student)| 인지 모르겠다 | 학생인지 모르겠다       |
 | 선생님이다 (be a teacher)| 인지 모르겠다 | 선생님인지 모르겠다     |
+
 ---
 ## 3. Comparative Analysis
 Compared with similar expressions:

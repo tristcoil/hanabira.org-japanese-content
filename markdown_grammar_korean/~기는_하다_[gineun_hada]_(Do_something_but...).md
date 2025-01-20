@@ -1,6 +1,6 @@
 Processing keyword: ~기는 하다 [gineun hada] (Do something but...)
 # Korean Grammar Point: ~기는 하다 [gineun hada] (Do something but...)
-# Understanding the Grammar Point: ~기는 하다 (gineun hada)
+
 ## 1. Introduction
 The Korean grammar construct **~기는 하다** is used to acknowledge or admit a fact, often followed by a contrasting statement. It is similar to saying "I do... but..." or "It is... but..." in English. This structure allows the speaker to express a concession or slight contradiction, adding nuance to their statements.
 
@@ -102,9 +102,9 @@ The structure **~기는 하다** is used to:
    - **Answer**: **커피를 좋아하기는 하지만 차를 더 좋아해요.**
      - *keopireul joahagineun hajiman chareul deo joahaeyo.*
 ---
-# Practice Makes Perfect!
+
 Try creating your own sentences using **~기는 하다** to express concessions or contrasts.
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

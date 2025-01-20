@@ -1,8 +1,9 @@
 Processing keyword: ~게 되다 [ge dweda] (End up, come to)
 # Korean Grammar Point: ~게 되다 [ge dweda] (End up, come to)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, the grammar construct **~게 되다** (*ge dweda*) is a versatile expression that conveys the meaning of "to end up doing," "to come to be," or "to end up being." It's used to indicate a change of state or situation that occurs regardless of the subject's will, often due to external circumstances. This grammar point is essential for expressing unintended or inevitable outcomes in both formal and informal contexts.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The expression **~게 되다** is used to describe:
 - A change in state or situation.
@@ -28,7 +29,7 @@ Here's a visual representation:
   - Past: **게 됐다/되었다**
   - Future: **게 될 거다**
 - **Politeness Level**: Adjusted by conjugating **되다** accordingly.
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 **~게 되다** vs. **~(으)려고 하다**
 - **~게 되다** implies an unintentional or inevitable outcome.
 - **~(으)려고 하다** indicates the subject's intention or plan to do something.
@@ -37,7 +38,7 @@ Here's a visual representation:
   - *I ended up working in Korea.* (Unintended outcome)
 - **한국에서 일하려고 해요.**
   - *I plan to work in Korea.* (Intentional action)
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example 1: Formal Written
 - **대학교를 졸업하고 회사에 들어가게 되었습니다.**
   - *After graduating from university, I came to join a company.*
@@ -53,7 +54,7 @@ Here's a visual representation:
 ### Example 5: Negative Form
 - **그 영화를 보게 되지 않을 거예요.**
   - *I won't end up watching that movie.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, modesty and indirect expression are valued. Using **~게 되다** allows speakers to express outcomes modestly, attributing results to circumstances rather than taking direct credit.
 ## Levels of Politeness
@@ -66,7 +67,7 @@ Adjusting the politeness level of **되다** tailors the expression appropriatel
   - *To end up speaking*
 - **좋아하게 되다**
   - *To come to like*
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Forgetting Tense Conjugation**
    - Incorrect: **한국어를 배우게 되요.**
@@ -78,7 +79,7 @@ Adjusting the politeness level of **되다** tailors the expression appropriatel
 ## Tips
 - **Mnemonic Device**: Think of **~게 되다** as "It became so that..." to remember it's about unintended outcomes.
 - **Practice**: Create sentences about life events that happened unexpectedly.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~게 되다** expresses unintended or inevitable changes or outcomes.
 - It's formed by adding **게 되다** to the verb stem.

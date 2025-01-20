@@ -1,6 +1,6 @@
 Processing keyword: (으)ㄹ 수 있다 [(eu)l su itda] (Can do)
 # Korean Grammar Point: (으)ㄹ 수 있다 [(eu)l su itda] (Can do)
-# (으)ㄹ 수 있다 [(eu)l su itda] — "Can do"
+
 ## 1. Introduction
 The grammar point **(으)ㄹ 수 있다** is used in Korean to express the ability or possibility to do something, equivalent to "can" or "be able to" in English. It's an essential structure for conveying what someone is capable of doing.
 
@@ -25,17 +25,21 @@ To form **(으)ㄹ 수 있다**, attach **-을 수 있다** or **-ㄹ 수 있다
 ## 3. Comparative Analysis
 ### Comparing with **(으)ㄹ 수 없다** (Cannot Do)
 - **(으)ㄹ 수 없다** is the negative form, meaning "cannot do" or "be unable to do".
+
 | Positive                         | Negative                         |
 |----------------------------------|----------------------------------|
 | 갈 수 있다 (*can go*)             | 갈 수 없다 (*cannot go*)          |
 | 먹을 수 있다 (*can eat*)          | 먹을 수 없다 (*cannot eat*)       |
 | 할 수 있다 (*can do*)             | 할 수 없다 (*cannot do*)          |
+
 ### Comparing with **(으)려고 하다** (Intending To)
 - **(으)려고 하다** expresses intention, not ability.
+
 | Grammar Point     | Meaning                 | Example                        |
 |-------------------|-------------------------|--------------------------------|
 | (으)ㄹ 수 있다     | Ability/Possibility     | 갈 수 있다 (*can go*)           |
 | (으)려고 하다      | Intention/Plan          | 가려고 하다 (*plan to go*)      |
+
 ---
 ## 4. Examples in Context
 ### Formal Situations

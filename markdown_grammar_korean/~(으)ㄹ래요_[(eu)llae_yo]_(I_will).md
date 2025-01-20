@@ -1,6 +1,6 @@
 Processing keyword: ~(으)ㄹ래요 [(eu)llae yo] (I will)
 # Korean Grammar Point: ~(으)ㄹ래요 [(eu)llae yo] (I will)
-# Grammar Point: ~(으)ㄹ래요 [(eu)llae yo] (I will)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar pattern **~(으)ㄹ래요** [(eu)llae yo], a versatile expression used to indicate intention or to inquire about someone's preference. This pattern is essential for everyday conversations, allowing you to express your will or ask others about theirs in a polite and friendly manner.
 

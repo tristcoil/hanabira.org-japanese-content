@@ -1,6 +1,6 @@
 Processing keyword: (으)ㄴ/는데 [(eu)n/neunde] (But, however)
 # Korean Grammar Point: (으)ㄴ/는데 [(eu)n/neunde] (But, however)
-# (으)ㄴ/는데 [(eu)n/neunde] - "But, However"
+
 ## 1. Introduction
 The Korean grammar point **(으)ㄴ/는데** is a versatile connective ending used to link two clauses or sentences. It often conveys contrast, background information, or sets up a context for the following statement. Understanding how to use **(으)ㄴ/는데** is essential for forming complex and natural-sounding sentences in Korean.
 
@@ -132,6 +132,7 @@ Using **(으)ㄴ/는데** can make statements sound more polite and less direct,
 1. How do you attach **(으)ㄴ/는데** to an action verb?
 2. Provide an example sentence using **(으)ㄴ/는데** to express contrast.
 3. What is a common mistake when using **(으)ㄴ/는데** with descriptive verbs?
+
 **Answers:**
 1. For action verbs, add **-는데** to the verb stem.
 2. Example answer: 날씨가 추운데 나가야 해요. (The weather is cold, but I have to go out.)

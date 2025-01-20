@@ -1,6 +1,6 @@
 Processing keyword: ~게다가 [gedaga] (Moreover, besides)
 # Korean Grammar Point: ~게다가 [gedaga] (Moreover, besides)
-# ~게다가 [gedaga] (Moreover, Besides) - Korean Grammar Lesson
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean conjunctive adverb **게다가** (*gedaga*), which means "moreover," "besides," or "in addition." This grammar point is used to add emphasis or additional information to a statement, enriching your Korean expressions and making your speech more fluent and cohesive.
 

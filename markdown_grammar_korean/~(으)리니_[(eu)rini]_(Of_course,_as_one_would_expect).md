@@ -1,6 +1,6 @@
 Processing keyword: ~(으)리니 [(eu)rini] (Of course, as one would expect)
 # Korean Grammar Point: ~(으)리니 [(eu)rini] (Of course, as one would expect)
-# ~(으)리니 [(eu)rini] Grammar Point
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~(으)리니** [(eu)rini]. This expression is used to convey conjecture or reasoning about future actions or events. It's a formal ending often found in literary texts, proverbs, and formal speeches. Understanding **~(으)리니** will enhance your comprehension of advanced Korean texts and help you express nuanced reasoning in formal contexts.
 

@@ -1,6 +1,6 @@
 Processing keyword: ~(으)나마 [(eu)namah] (At least, even if only)
 # Korean Grammar Point: ~(으)나마 [(eu)namah] (At least, even if only)
-# Korean Grammar Point: ~(으)나마 [(eu)namah] (At least, even if only)
+
 ## 1. Introduction
 In learning Korean, understanding nuances that convey modesty or minimal acceptance is essential. One such grammar point is **~(으)나마**, which expresses the idea of "at least" or "even if only." This construction acknowledges that while something may not be ideal or sufficient, it still holds some value.
 

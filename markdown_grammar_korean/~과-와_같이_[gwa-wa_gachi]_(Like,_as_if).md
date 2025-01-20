@@ -1,10 +1,11 @@
 Processing keyword: ~과/와 같이 [gwa/wa gachi] (Like, as if)
 # Korean Grammar Point: ~과/와 같이 [gwa/wa gachi] (Like, as if)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~과/와 같이** (*~gwa/wa gachi*), which translates to **"like"** or **"as if"** in English. This expression is used to compare one thing to another, highlighting similarities between them. Understanding how to use **~과/와 같이** will enhance your ability to make comparisons and describe things more vividly in Korean.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The expression **~과/와 같이** means **"like"** or **"as if"** and is used to compare a subject to something else. It attaches to nouns to indicate that the subject shares characteristics or behaves in a way similar to the noun it's compared with.
 ## Structure
@@ -26,7 +27,7 @@ The structure is straightforward:
 | 아이 (child)| Vowel       | 아이**와 같이** | 아이와 같이 웃었다.        |
 | 새 (bird)   | Vowel       | 새**와 같이**   | 새와 같이 노래했다.        |
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## Similar Grammar Points
 - **~처럼**: Also means **"like"** or **"as"** and can be used interchangeably with **~과/와 같이** in many contexts.
   - **Example**: 바람처럼 달렸다. (I ran like the wind.)
@@ -34,7 +35,7 @@ The structure is straightforward:
 - **~과/와 같이** attaches to nouns using the particles **과/와**, emphasizing the similarity.
 - **~처럼** directly attaches to nouns without particles and is slightly less formal.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Example Sentences
 ### Formal Context
 1. **선생님**과 같이 열심히 공부하겠습니다.
@@ -57,7 +58,7 @@ The structure is straightforward:
 8. 그는 **토끼**와 같이 빨리 뛸 수 있어.
    - *He can run fast like a rabbit.*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, expressing comparisons using **~과/와 같이** adds vividness to speech and writing. It reflects the Korean language's descriptive nature, allowing speakers to convey emotions and imagery effectively.
 ## Levels of Politeness
@@ -70,7 +71,7 @@ In Korean culture, expressing comparisons using **~과/와 같이** adds vividne
 - **산과 같이 굳건하다**
   - *As firm as a mountain* (meaning very steadfast or reliable)
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Incorrect Particle Usage**
    - **Wrong**: 바다**와 같이** (after consonant)
@@ -82,7 +83,7 @@ In Korean culture, expressing comparisons using **~과/와 같이** adds vividne
 - **Mnemonic Device**: Remember that **'과'** comes after **consonants** like the **'c'** in **'consonant'**, and **'와'** comes after vowels.
 - **Practice**: Create your own sentences comparing things you're familiar with to reinforce the pattern.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~과/와 같이** is used to compare nouns, meaning **"like"** or **"as if"**.
 - Use **과 같이** after nouns ending with a **consonant**, and **와 같이** after nouns ending with a **vowel**.

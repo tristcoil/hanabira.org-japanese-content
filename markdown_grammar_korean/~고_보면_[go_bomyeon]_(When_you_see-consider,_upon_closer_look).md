@@ -1,11 +1,9 @@
 Processing keyword: ~고 보면 [go bomyeon] (When you see/consider, upon closer look)
 # Korean Grammar Point: ~고 보면 [go bomyeon] (When you see/consider, upon closer look)
-# ~고 보면 [go bomyeon]
-*When you see/consider; Upon closer look*
 
----
 ## 1. Introduction
 The Korean grammar point **~고 보면** is used to express that after completing an action or considering something more deeply, a new realization or result is made evident. It often corresponds to phrases like "when you see", "if you consider", or "upon closer look" in English.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -17,11 +15,13 @@ To form **~고 보면**, attach it to the **verb stem** of the preceding verb.
 [Verb Stem] + 고 보면
 ```
 ### Formation Diagram
+
 | Verb Stem |   +   | 고 보면 |
 |-----------|-------|---------|
 | 가         | +     | 고 보면 |
 | 먹         | +     | 고 보면 |
 | 생각하     | +     | 고 보면 |
+
 ### Detailed Explanation
 - **Verb Stem**: The base form of the verb without **다**.
 - **고**: A connective particle meaning "and" or used to link actions.

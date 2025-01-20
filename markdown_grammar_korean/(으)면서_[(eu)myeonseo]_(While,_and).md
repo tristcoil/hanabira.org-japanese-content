@@ -1,6 +1,6 @@
 Processing keyword: (으)면서 [(eu)myeonseo] (While, and)
 # Korean Grammar Point: (으)면서 [(eu)myeonseo] (While, and)
-# (으)면서 [(eu)myeonseo] - While, and
+
 ## 1. Introduction
 The Korean grammatical structure **(으)면서** is used to express that two actions are happening simultaneously by the same subject. It can be translated as "while doing" or "and" in English. This grammar point allows speakers to describe multitasking or concurrent actions smoothly.
 

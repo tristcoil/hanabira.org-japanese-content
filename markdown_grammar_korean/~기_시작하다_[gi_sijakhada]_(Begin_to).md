@@ -1,6 +1,6 @@
 Processing keyword: ~기 시작하다 [gi sijakhada] (Begin to)
 # Korean Grammar Point: ~기 시작하다 [gi sijakhada] (Begin to)
-# ~기 시작하다 [gi sijakhada] (Begin to)
+
 ## 1. Introduction
 In Korean, expressing the beginning of an action or state is essential for daily communication. The grammar pattern **~기 시작하다** is used to indicate that someone or something **begins to** do something. This lesson will delve into the usage of **~기 시작하다**, providing explanations, examples, and tips to help you understand and use this grammar point naturally.
 
@@ -94,6 +94,7 @@ In Korean, expressing the beginning of an action or state is essential for daily
 1. How do you say "I started reading a book" in Korean?
 2. What is the role of **기** in **~기 시작하다**?
 3. Correct the sentence: **노래 부르는 시작했어요.**
+
 **Answers**:
 1. **책을 읽기 시작했어요.** (*Chaekeul ilggi sijakaesseoyo.*)
 2. **기** is a nominalizer that turns verbs into nouns.

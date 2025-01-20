@@ -1,6 +1,6 @@
 Processing keyword: ~기로 [giro] (Decided to)
 # Korean Grammar Point: ~기로 [giro] (Decided to)
-# ~기로 [giro] (Decided to)
+
 ## 1. Introduction
 In Korean, expressing decisions or resolutions is essential for everyday communication. The grammar point **~기로** (giro) is commonly used to indicate that someone has decided to do something. This lesson will delve into the usage of **~기로**, helping you understand how to form sentences when expressing decisions.
 

@@ -1,6 +1,6 @@
 Processing keyword: ~(으)면서 [(eu)myeonseo] (While)
 # Korean Grammar Point: ~(으)면서 [(eu)myeonseo] (While)
-# Lesson: ~(으)면서 [(eu)myeonseo] - "While"
+
 ## 1. Introduction
 The grammar point **~(으)면서** [(eu)myeonseo] is used in Korean to express that two actions are happening simultaneously. It is equivalent to the English word **"while"**. This structure allows speakers to indicate that the subject is performing two actions at the same time.
 
@@ -95,7 +95,6 @@ These expressions are commonly used to convey nuanced actions happening simultan
 ---
 # Practice Sentences
 Try creating your own sentences using **~(으)면서** to describe activities you do simultaneously!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

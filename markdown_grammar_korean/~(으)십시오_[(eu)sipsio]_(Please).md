@@ -1,6 +1,6 @@
 Processing keyword: ~(으)십시오 [(eu)sipsio] (Please)
 # Korean Grammar Point: ~(으)십시오 [(eu)sipsio] (Please)
-# ~(으)십시오 [(eu)sipsio] (Please)
+
 ## 1. Introduction
 In Korean, politeness and formality are crucial aspects of communication. The verb ending **~(으)십시오** is a polite imperative form used to make formal requests or give commands respectfully. It's commonly found in formal situations, such as in business settings, public announcements, or formal writing.
 
@@ -21,8 +21,7 @@ To form the **~(으)십시오** ending, attach it to the verb stem following the
 | 오다 (to come)            | 오         | Vowel                     | -십시오  | 오십시오       |
 ---
 ### Visual Aid: Formation Flowchart
-```mermaid
-graph TD
+```
 A[Verb Infinitive (다)] --> B[Remove 다]
 B --> C{Does stem end with consonant?}
 C -- Yes --> D[Add 으십시오]

@@ -1,12 +1,13 @@
 Processing keyword: ~(으)로 [(eu)ro] (Towards, by means of)
 # Korean Grammar Point: ~(으)로 [(eu)ro] (Towards, by means of)
-# 1. Introduction
+
+## 1. Introduction
 **Grammar Point:** **~(으)로** *(eu)ro*
 **Meaning:** *"towards", "by means of", "with", "using"*
 The particle **~(으)로** is a versatile postposition in Korean that denotes direction, means, method, cause, or selection. It is used to indicate how or where an action takes place, or by what means something is done.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning and Usage
 **~(으)로** is used in the following contexts:
 1. **Direction or Destination ("towards", "to"):**
@@ -37,7 +38,7 @@ The particle **~(으)로** is a versatile postposition in Korean that denotes di
 - **If noun ends with other consonants:**  
   책 + 으로 = 책으로
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### **~(으)로** vs. **~에**
 - **~(으)로**: Emphasizes the direction *towards* a place or the means *by which* something is done.
   - 집으로 가요.  
@@ -54,7 +55,7 @@ The particle **~(으)로** is a versatile postposition in Korean that denotes di
   - 노력으로써 성공했어요.  
     *I succeeded by means of effort.*
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Direction or Destination
 1. **학교로 걸어가요.**  
    *I walk towards school.*
@@ -91,7 +92,7 @@ The particle **~(으)로** is a versatile postposition in Korean that denotes di
 - **택시로 갈래요.**  
   *I want to go by taxi.*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - In Korean culture, specifying the means or tools used in actions is common and necessary for clarity.
 - Using **~(으)로** helps convey respect for others' understanding, fitting into the indirect communication style often used in Korea.
@@ -106,7 +107,7 @@ The particle **~(으)로** is a versatile postposition in Korean that denotes di
    *Only in words*  
    Implies that someone only talks but doesn't take action.
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Incorrect Attachment**
    - *Incorrect:* 영화를 친구**로** 봤어요.  
@@ -129,7 +130,7 @@ The particle **~(으)로** is a versatile postposition in Korean that denotes di
 - **Associate with English 'Road':**
   - Think of **로** as "road" to remember it's used for direction and means.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~(으)로** attaches to nouns to indicate direction, means, method, cause, or role.
 - Attach **로** after nouns ending with vowels or **ㄹ**; attach **으로** after other consonants.
@@ -153,7 +154,6 @@ The particle **~(으)로** is a versatile postposition in Korean that denotes di
 2. **연필로 쓰세요.**
 3. **b) ~(으)로**  
    Explanation: Use **~(으)로** to indicate means of transportation.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

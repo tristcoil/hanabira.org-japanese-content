@@ -1,10 +1,9 @@
 Processing keyword: ~(으)려는 참이다 [(eu)ryeoneun chamida] (I really want to)
 # Korean Grammar Point: ~(으)려는 참이다 [(eu)ryeoneun chamida] (I really want to)
-# Korean Grammar Lesson: **~(으)려는 참이다** [(eu)ryeoneun chamida]
 
----
 ## 1. Introduction
 Welcome to today's Korean grammar lesson! We will explore the grammar point **~(으)려는 참이다**, which is used to express that someone is just about to do something or intends to do something very soon. Mastering this structure will help you convey your immediate intentions naturally in Korean conversations.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

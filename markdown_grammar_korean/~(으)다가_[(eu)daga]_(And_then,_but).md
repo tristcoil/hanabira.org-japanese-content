@@ -1,6 +1,6 @@
 Processing keyword: ~(으)다가 [(eu)daga] (And then, but)
 # Korean Grammar Point: ~(으)다가 [(eu)daga] (And then, but)
-# Korean Grammar Lesson: ~(으)다가 [(eu)daga]
+
 ## 1. Introduction
 The grammatical construct **~(으)다가** is a useful tool in Korean for expressing a transition between actions or situations. It is commonly used to indicate that while one action was in progress, another action occurred, often unexpectedly. Understanding this grammar point can enhance your ability to describe sequences and interruptions in Korean conversation.
 

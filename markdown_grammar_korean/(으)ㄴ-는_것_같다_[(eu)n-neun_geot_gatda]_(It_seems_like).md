@@ -1,6 +1,7 @@
 Processing keyword: (으)ㄴ/는 것 같다 [(eu)n/neun geot gatda] (It seems like)
 # Korean Grammar Point: (으)ㄴ/는 것 같다 [(eu)n/neun geot gatda] (It seems like)
-# (으)ㄴ/는 것 같다 [(eu)n/neun geot gatda] - "It seems like"
+
+
 ## 1. Introduction
 In Korean, expressing doubt, guess, or speculation is common in daily conversations. The grammar pattern **(으)ㄴ/는 것 같다** is frequently used to indicate that something "seems like" or "appears to be." Understanding this pattern will enhance your ability to express uncertainty or make assumptions based on available information.
 
@@ -110,7 +111,7 @@ In Korean culture, making direct statements can sometimes be considered too stro
 1. **그는 바쁜 것 같아요.**
 2. **산 것 같다.** (살다 -> 산 것 같다)
 3. **(으)ㄴ/는 것 같다** is used with both action and descriptive verbs in various tenses, while **-나 보다** is used only with action verbs and indicates speculation based on evidence.
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

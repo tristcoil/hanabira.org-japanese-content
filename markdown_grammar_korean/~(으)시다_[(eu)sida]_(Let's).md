@@ -1,8 +1,9 @@
 Processing keyword: ~(으)시다 [(eu)sida] (Let's)
 # Korean Grammar Point: ~(으)시다 [(eu)sida] (Let's)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, expressing suggestions or proposing actions to do together is an essential part of daily communication. One common way to say "Let's" in Korean is by using the grammar point **~(으)ㅂ시다** [(eu)bshida]. This polite and formal verb ending allows speakers to suggest doing something together in a respectful manner.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 **~(으)ㅂ시다** is attached to verb stems to form sentences that mean "Let's [verb]." It is used to make polite suggestions or proposals to a group that includes the speaker. This form is considered polite and is appropriate for most situations, including formal settings.
 ### Meaning
@@ -30,7 +31,7 @@ In Korean, expressing suggestions or proposing actions to do together is an esse
 | 가다 (to go)  | 가        | -ㅂ시다          | 갑시다          | Let's go       |
 | 쉬다 (to rest)| 쉬       | -ㅂ시다          | 쉽시다          | Let's rest     |
 | 읽다 (to read)| 읽        | -읍시다         | 읽읍시다         | Let's read     |
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## Comparison with Informal Suggestion Form "~자"
 - **~자** is the informal way to say "Let's" and is used among close friends or those of the same age.
   
@@ -40,7 +41,7 @@ In Korean, expressing suggestions or proposing actions to do together is an esse
 - **~(으)세요** is used to make polite requests or commands, not suggestions that include the speaker.
   - Example: 앉으세요 (Please sit), 조용히 하세요 (Please be quiet)
 - **~(으)ㅂ시다** includes the speaker in the action.
-# 4. Examples in Context
+## 4. Examples in Context
 ## Formal Situations
 1. **회의를 시작합시다.**  
    *Let's begin the meeting.*
@@ -61,7 +62,7 @@ In Korean, expressing suggestions or proposing actions to do together is an esse
    *Let's meet tomorrow.*
 2. **이 문제를 해결합시다.**  
    *Let's solve this problem.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - Using **~(으)ㅂ시다** shows respect and is a way to politely include others in your plans or suggestions.
 - It is commonly used in formal speeches, meetings, and when addressing a group in a respectful manner.
@@ -77,7 +78,7 @@ In Korean, expressing suggestions or proposing actions to do together is an esse
    (Cultural note: In Korea, it's customary to remove shoes before entering a home.)
 2. **건배합시다!**  
    *Let's make a toast!*
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 ### Mistake 1: Using ~(으)세요 Instead of ~(으)ㅂ시다
 - **Incorrect:** 같이 점심을 먹으세요.  
@@ -96,7 +97,7 @@ In Korean, expressing suggestions or proposing actions to do together is an esse
   - If the verb stem **ends with a consonant**, think "**Consonant + 읍시다**."
 - **Practice with Common Verbs:**
   - Create flashcards with common verbs and practice forming the **~(으)ㅂ시다** form.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~(으)ㅂ시다** is used to make polite suggestions meaning "Let's [do something]."
 - Attach **-읍시다** after consonant-ending verb stems and **-ㅂ시다** after vowel-ending verb stems.

@@ -1,6 +1,6 @@
 Processing keyword: ~고자 하다 [goja hada] (In order to)
 # Korean Grammar Point: ~고자 하다 [goja hada] (In order to)
-# ~고자 하다 [goja hada] (In order to)
+
 ## 1. Introduction
 The grammar point **~고자 하다** is used to express the speaker's intention or purpose to perform an action. It is commonly translated as "intend to," "plan to," or "in order to" in English. This form is primarily used in formal or written contexts.
 
@@ -15,23 +15,29 @@ The structure combines the verb stem with **~고자 하다**:
 [Verb Stem] + 고자 하다
 ```
 ### Formation Diagram
+
 | Verb Type | Verb Stem | + 고자 하다 | Resulting Form |
 |-----------|-----------|------------|----------------|
 | Action Verb | 가다 (to go) | 가 + 고자 하다 | **가고자 하다** |
 | Action Verb | 공부하다 (to study) | 공부하 + 고자 하다 | **공부하고자 하다** |
 | Action Verb | 만나보다 (to meet and see) | 만나보 + 고자 하다 | **만나보고자 하다** |
+
 ---
 ## 3. Comparative Analysis
 - **~려고 하다** vs. **~고자 하다**
+
 | Grammar Point | Usage | Formality |
 |---------------|-------|-----------|
 | ~려고 하다 | Expresses intention or plan | Informal to neutral |
 | ~고자 하다 | Expresses intention or purpose | Formal and written |
+
 - **~기 위해(서)** vs. **~고자 하다**
+
 | Grammar Point | Usage | Formality |
 |---------------|-------|-----------|
 | ~기 위해(서) | "In order to" do something | Neutral to formal |
 | ~고자 하다 | "Intend to" or "in order to" | Formal and often written |
+
 ---
 ## 4. Examples in Context
 ### Sentence Examples
