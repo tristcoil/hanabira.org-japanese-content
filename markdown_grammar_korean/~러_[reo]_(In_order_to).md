@@ -1,6 +1,6 @@
 Processing keyword: ~러 [reo] (In order to)
 # Korean Grammar Point: ~러 [reo] (In order to)
-# Understanding the Korean Grammar Point: ~러 [reo] (In order to)
+
 ## 1. Introduction
 Expressing purpose or intention is a fundamental aspect of language learning. In Korean, one common way to convey this is by using the grammatical ending **~러 [reo]**. This structure is specifically used with motion verbs to indicate going somewhere **"in order to"** do something.
 
@@ -128,7 +128,6 @@ Depending on the context and the relationship between speakers, different levels
    - **Answer:** **그들은 공부하러 한국에 왔어요.**
 ---
 **Continue practicing by creating your own sentences using ~러 with different verbs and motion verbs. Practice will help solidify your understanding of this grammar point!**
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

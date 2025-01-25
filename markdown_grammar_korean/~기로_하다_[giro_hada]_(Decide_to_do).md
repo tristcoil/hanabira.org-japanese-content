@@ -1,6 +1,6 @@
 Processing keyword: ~기로 하다 [giro hada] (Decide to do)
 # Korean Grammar Point: ~기로 하다 [giro hada] (Decide to do)
-# ~기로 하다 [giro hada] (Decide to do)
+
 ## 1. Introduction
 In Korean, expressing decisions or planned actions is crucial for effective communication. The grammar pattern **~기로 하다** is commonly used to indicate that someone has decided to do something. This lesson will help you understand how to use **~기로 하다** to express your decisions naturally in Korean.
 

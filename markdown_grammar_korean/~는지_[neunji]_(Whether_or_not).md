@@ -1,6 +1,6 @@
 Processing keyword: ~는지 [neunji] (Whether or not)
 # Korean Grammar Point: ~는지 [neunji] (Whether or not)
-# Understanding the Korean Grammar Point: ~는지 [neunji] (Whether or Not)
+
 ## 1. Introduction
 Welcome to your lesson on the Korean grammar point **~는지 [neunji]**. This structure is essential when expressing uncertainty, curiosity, or when asking indirect questions. It translates to "whether," "if," or "I wonder" in English. By mastering **~는지**, you'll enhance your ability to inquire and speculate in Korean, making your conversations more natural and nuanced.
 
@@ -158,7 +158,6 @@ Both forms are used to express uncertainty or to ask indirect questions, but the
    **Correction:** 그 사람이 학생인지 몰라요.
 ---
 Congratulations on completing the lesson! Practice using **~는지** in your daily conversations to become more comfortable with this grammar point.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

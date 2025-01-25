@@ -1,6 +1,6 @@
 Processing keyword: ~리요 [riyo] (Likely, probably)
 # Korean Grammar Point: ~리요 [riyo] (Likely, probably)
-# Understanding the Korean Grammar Point: ~리요 [riyo] (Likely, Probably)
+
 ## 1. Introduction
 Expressing probability or intention in Korean can be achieved through various grammatical structures. One such structure is **~리요 [riyo]**, an archaic and formal verb ending that conveys speculation, probability, or determination. While not commonly used in everyday conversations, understanding **~리요** enriches your comprehension of Korean literature, historical texts, and traditional expressions.
 
@@ -24,12 +24,15 @@ It adds a poetic or dramatic nuance to the sentence.
 [Verb Stem] + 리요
 ```
 #### Example
+
 | Verb (Dictionary Form) | Verb Stem | + 리요 | Result    |
 |------------------------|-----------|--------|-----------|
 | 하다 (to do)            | 하         | + 리요 | 하리요    |
 | 가다 (to go)            | 가         | + 리요 | 가리요    |
 | 먹다 (to eat)           | 먹        | + 리요 | 먹으리요* |
+
 \* For verbs with consonant-ending stems, **으** is inserted for pronunciation ease.
+
 ### Detailed Explanation
 - **Direct Attachment**: For most verbs, **~리요** attaches directly to the verb stem.
 - **Insertion of **으****: If the verb stem ends with a consonant, insert **으** before **리요** for smooth pronunciation.
@@ -39,12 +42,14 @@ It adds a poetic or dramatic nuance to the sentence.
 ---
 ## 3. Comparative Analysis
 Comparing **~리요** with similar grammar points highlights its unique usage.
+
 | Grammar Point            | Usage                             | Example                     |
 |--------------------------|-----------------------------------|-----------------------------|
 | **~겠어요**              | Future intention/probability      | 가겠어요 (I will go)         |
 | **~(으)ㄹ 거예요**       | Informal future tense             | 볼 거예요 (I will see)       |
 | **~(으)리라**            | Literary future speculation       | 알리라 (I will know)         |
 | **~리요**                | Archaic future intention/probability | 살리요 (I will live)      |
+
 - **Modern Usage**: **~겠어요** and **~(으)ㄹ 거예요** are commonly used in modern Korean to express future actions or intentions.
 - **Literary/Formal Usage**: **~리요** and **~(으)리라** are found in literary texts and formal contexts.
 ---

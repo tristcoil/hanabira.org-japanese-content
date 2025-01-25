@@ -1,6 +1,6 @@
 Processing keyword: ~다며 [damyeo] (Saying that)
 # Korean Grammar Point: ~다며 [damyeo] (Saying that)
-# ~다며 [damyeo] (Saying that)
+
 ## 1. Introduction
 In Korean, expressing information heard from others or seeking confirmation about something is common in daily conversations. The grammar point **~다며** [damyeo] is used to convey that the speaker is repeating information they've heard, often with a nuance of surprise, curiosity, or seeking validation. This lesson will delve into the usage of **~다며**, its formation, and how to use it naturally in various contexts.
 

@@ -1,10 +1,9 @@
 Processing keyword: ~대로이면 [daeroimyeon] (If it's as ... said)
 # Korean Grammar Point: ~대로이면 [daeroimyeon] (If it's as ... said)
-# **Korean Grammar Point: ~대로이면 [daeroimyeon] (If it's as ... said)**
 
----
 ## 1. Introduction
 In Korean, expressing conditions based on someone's words or certain circumstances is essential for nuanced communication. The grammar point **~대로이면** allows speakers to convey conditional statements that hinge on things being as specified or expected. This lesson will delve into the usage of **~대로이면**, helping you understand its formation, meaning, and application in various contexts.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -87,7 +86,6 @@ The structure combines **~대로**, which means **"as"** or **"according to"**, 
 2. Attach **대로** directly to the verb stem, then add **이면**.
 3. **Korean**: 너의 말대로이면 우리가 이길 거야.  
    **Translation**: If it's as you say, we will win.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

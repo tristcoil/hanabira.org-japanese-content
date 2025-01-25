@@ -1,10 +1,10 @@
 Processing keyword: ~도록 [dorok] (So that, in order to)
 # Korean Grammar Point: ~도록 [dorok] (So that, in order to)
-# Understanding the Korean Grammar Point: **~도록** (dorok)
 
----
+
 ## 1. Introduction
 In Korean, **~도록** (pronounced *dorok*) is a versatile grammatical particle used to express purpose, result, or extent. It is often translated as "so that," "in order to," or "to the extent that" in English. Mastering **~도록** will enhance your ability to convey intentions, goals, and degrees of actions in more nuanced ways in both spoken and written Korean.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning and Usage
@@ -33,21 +33,25 @@ The general formation is:
    - **Example**: 목이 아프**도록** 소리치다.
    - **Translation**: Shout *to the extent that* one's throat hurts.
 ### Visual Aid: Usage Breakdown Table
+
 | Usage                           | Meaning                              | Example                                     | Translation                                        |
 |---------------------------------|--------------------------------------|---------------------------------------------|----------------------------------------------------|
 | Purpose or Intention            | So that, In order to                 | 이해하**도록** 노력하다               | Try *so that* (someone) understands            |
 | Result or Effect                | So that (result happens)             | 넘어지지 않**도록** 조심하세요         | Be careful *so that* you don't fall             |
 | Extent or Degree                | To the extent that                   | 밤새도록 공부하다                         | Study *to the extent that* (you) stay up all night |
+
 ---
 ## 3. Comparative Analysis
 ### Comparing **~도록** with **~기 위해(서)**
 Both **~도록** and **~기 위해(서)** can express purpose, but there are nuances.
 - **~도록** can be used for both **purpose** and **extent**, whereas **~기 위해서** is primarily for **purpose**.
 - **~도록** is more versatile and can imply causing an effect or result.
+
 | Grammar Point     | Usage                 | Example                                   | Translation                                     |
 |-------------------|-----------------------|-------------------------------------------|-------------------------------------------------|
 | **~도록**         | Purpose/Extent/Result | 기억하**도록** 메모하세요.           | Make a note *so that* you remember.        |
 | **~기 위해서**    | Purpose only          | 기억하**기 위해서** 메모하세요.       | Make a note *in order to* remember.        |
+
 ---
 ## 4. Examples in Context
 ### Formal Context

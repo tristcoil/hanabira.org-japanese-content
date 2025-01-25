@@ -1,6 +1,6 @@
 Processing keyword: ~동안 [dongan] (During/While)
 # Korean Grammar Point: ~동안 [dongan] (During/While)
-# ~동안 [dongan] (During/While) - Grammar Lesson
+
 ## 1. Introduction
 In Korean, expressing the duration of an action or state is essential for describing events and situations. The grammar point **~동안** [dongan] is used to indicate "during" or "while" something happens. This lesson will explore how to use ~동안 effectively in various contexts.
 
@@ -98,7 +98,7 @@ The use of **~동안** itself does not change with politeness levels, but the ve
 3. Translate to Korean: "Don't speak while eating."
    - **Answer**: 먹는 동안 말하지 마세요.
 ---
----
+
 By understanding and practicing **~동안**, you'll be able to describe actions and states that occur over a period of time more naturally in Korean.
 
 ---

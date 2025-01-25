@@ -1,6 +1,6 @@
 Processing keyword: ~를 바탕으로 [reul batageuro] (Based on)
 # Korean Grammar Point: ~를 바탕으로 [reul batageuro] (Based on)
-# Grammar Point: ~를 바탕으로 [reul batangeuro] (Based on)
+
 ## 1. Introduction
 The expression **~를 바탕으로** is a Korean grammar pattern used to indicate that something is _based on_ something else. It is commonly used to show that an action, decision, or statement is founded upon certain information, experiences, or materials.
 
@@ -105,8 +105,6 @@ The expression **~를 바탕으로** is a Korean grammar pattern used to indicat
    - 자료**를** 바탕으로 보고서를 작성했습니다.
 2. 
    - **그들은 설문 조사 결과를 바탕으로 계획을 수립했습니다.**
----
-[Back to Top](#grammar-point-를-바탕으로-reul-batangeuro-based-on)
 
 ---
 © [Hanabira.org](https://hanabira.org)

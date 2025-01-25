@@ -1,6 +1,6 @@
 Processing keyword: ~던지 [deonji] (Whether)
 # Korean Grammar Point: ~던지 [deonji] (Whether)
-# Korean Grammar Lesson: ~던지 [deonji] (Whether)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~던지** (*~deonji*), which is used to express uncertainty or to indicate "whether" something happened or not. Understanding this grammar will help you talk about unknowns and possibilities in Korean.
 
@@ -27,10 +27,12 @@ The suffix **~던지** is attached to verbs to express uncertainty or to convey 
 ### Comparison with **~는지**
 - **~는지** is used to express uncertainty in the **present tense**.
 - **~던지** focuses on past actions or states, emphasizing that the speaker is unsure about **whether a past event occurred**.
+
 | Grammar Point | Tense       | Example                        | Translation                      |
 |---------------|-------------|--------------------------------|----------------------------------|
 | ~는지         | Present/Future | 가는지 모르겠어요          | I don't know if (someone) is going |
 | ~던지         | Past        | 갔던지 모르겠어요             | I don't know whether (someone) went |
+
 ---
 ## 4. Examples in Context
 ### Formal Speech

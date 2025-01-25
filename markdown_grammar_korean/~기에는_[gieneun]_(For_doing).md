@@ -1,10 +1,9 @@
 Processing keyword: ~기에는 [gieneun] (For doing)
 # Korean Grammar Point: ~기에는 [gieneun] (For doing)
-# Understanding the Korean Grammar Point: **~기에는** (gieneun)
 
----
 ## 1. Introduction
 In Korean, expressing judgments, evaluations, or considerations about a particular action or state often involves specific grammatical constructions. One such construction is **~기에는** (gieneun), which can be roughly translated to "for doing" or "considering that". This grammar point is used to evaluate or make judgments about the content described in the preceding clause.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

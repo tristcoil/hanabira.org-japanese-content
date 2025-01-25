@@ -1,10 +1,9 @@
 Processing keyword: ~나마나 [namamana] (Because, since)
 # Korean Grammar Point: ~나마나 [namamana] (Because, since)
-# 🚀 Korean Grammar Lesson: ~나마나 [namamana]
 
----
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~나마나**. Understanding this expression will enhance your ability to convey notions of inevitability or futility in various contexts.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

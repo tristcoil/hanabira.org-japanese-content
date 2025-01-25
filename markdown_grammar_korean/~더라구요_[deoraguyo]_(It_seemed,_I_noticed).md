@@ -1,6 +1,6 @@
 Processing keyword: ~더라구요 [deoraguyo] (It seemed, I noticed)
 # Korean Grammar Point: ~더라구요 [deoraguyo] (It seemed, I noticed)
-# Grammar Point: ~더라구요 [deoraguyo] (It seemed, I noticed)
+
 ## 1. Introduction
 In Korean, sharing personal experiences and observations adds depth to conversations. The grammar point **~더라구요** is a colloquial expression used to convey something you have personally witnessed or experienced. It allows you to share new information with others in an engaging and natural way.
 

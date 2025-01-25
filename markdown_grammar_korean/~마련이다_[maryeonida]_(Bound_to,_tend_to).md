@@ -1,7 +1,7 @@
 Processing keyword: ~마련이다 [maryeonida] (Bound to, tend to)
 # Korean Grammar Point: ~마련이다 [maryeonida] (Bound to, tend to)
 # ~마련이다 [maryeonida] (Bound to, Tend to)
-
+TODO: start from here
 ---
 ## 1. Introduction
 In Korean, expressing the inevitability or strong tendency of an event or action is essential for conveying expectations or norms. The grammar point **~마련이다** is commonly used to express that something is **bound to happen** or is a natural outcome. In this lesson, we'll explore how to use ~마련이다 to describe inevitability in various contexts.

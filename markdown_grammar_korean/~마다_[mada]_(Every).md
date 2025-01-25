@@ -1,8 +1,9 @@
 Processing keyword: ~마다 [mada] (Every)
 # Korean Grammar Point: ~마다 [mada] (Every)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, the particle **~마다** (*[mada]*) is used to express the meaning of "every" or "each." It is attached directly to nouns to indicate regularity or repetition in time, space, or occurrences.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 - **~마다** means **"every," "each," or "per."**
 - It denotes that an action or event happens regularly at certain intervals or applies to every instance of something.
@@ -30,7 +31,7 @@ In Korean, the particle **~마다** (*[mada]*) is used to express the meaning of
 | **달** (*month*)  | **달마다**     | *Every month*      |
 | **해** (*year*)   | **해마다**     | *Every year*       |
 | **사람** (*person*)| **사람마다**   | *Each person*      |
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Comparing **~마다** with Similar Grammar Points
 #### **~마다** vs. **~(으)ㄹ 때마다**
 - **~마다**
@@ -49,7 +50,7 @@ In Korean, the particle **~마다** (*[mada]*) is used to express the meaning of
 - **Difference:**
   - **~마다** emphasizes **time intervals** or **every instance**.
   - **~씩** emphasizes **distribution** to individuals.
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example Sentences
 1. **날마다 운동해요.**
    - *I exercise every day.*
@@ -81,7 +82,7 @@ In Korean, the particle **~마다** (*[mada]*) is used to express the meaning of
   - **버스는 몇 분마다 와요?**
     - *How often does the bus come?*  
       (*Literally: "The bus comes every how many minutes?"*)
-# 5. Cultural Notes
+## 5. Cultural Notes
 ### Cultural Relevance
 - In Korean culture, punctuality and regularity are valued.
 - Expressions like **~마다** are commonly used to discuss schedules, routines, and cultural norms.
@@ -102,7 +103,7 @@ In Korean, the particle **~마다** (*[mada]*) is used to express the meaning of
   - **Example:**  
     **전화할 때마다 통화 중이었어요.**  
     *Every time I called, the line was busy.*
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Common Mistakes
 1. **Attaching ~마다 to Verbs or Adjectives**
    - **Incorrect:**  
@@ -121,7 +122,7 @@ In Korean, the particle **~마다** (*[mada]*) is used to express the meaning of
 - For expressing "every time" with verbs, use **~(으)ㄹ 때마다**.
 - **Mnemonic Device:**  
   Think of **마다** as "**every matter**" — every noun it attaches to becomes "every [noun]."
-# 7. Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
 - **~마다** is used to express **"every"** or **"each"** when attached to **nouns**.
 - It emphasizes **regularity**, **routine**, or applicability to **all instances**.

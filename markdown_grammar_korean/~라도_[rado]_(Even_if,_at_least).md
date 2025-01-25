@@ -1,6 +1,6 @@
 Processing keyword: ~라도 [rado] (Even if, at least)
 # Korean Grammar Point: ~라도 [rado] (Even if, at least)
-# **~라도 [rado]** (Even if, At least)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~라도 [rado]**, which translates to **"even if"** or **"at least"** in English. This versatile particle allows speakers to make concessions, offer alternatives, or suggest second-best options when the ideal choice is unavailable.
 

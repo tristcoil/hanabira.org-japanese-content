@@ -1,5 +1,6 @@
 Processing keyword: ~대로 [daero] (According to, as)
 # Korean Grammar Point: ~대로 [daero] (According to, as)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~대로** (*daero*), which translates to **"according to"** or **"as"** in English. This versatile particle is used to express that an action or state occurs **in the same manner or way as something else**. Understanding **~대로** will enhance your ability to convey conformity, adherence, and following instructions or expectations in Korean.
 

@@ -1,6 +1,6 @@
 Processing keyword: ~라면서 [ramyeonseo] (While saying that)
 # Korean Grammar Point: ~라면서 [ramyeonseo] (While saying that)
-# ~라면서 (*ramyeonseo*) - While Saying That
+
 ## 1. Introduction
 The Korean grammar point **~라면서** (*ramyeonseo*) is used to express an action that is done **while saying** a particular statement. It often highlights a contrast or contradiction between what someone says and what they do. Understanding this grammar point can help learners convey nuances and subtleties in conversations.
 

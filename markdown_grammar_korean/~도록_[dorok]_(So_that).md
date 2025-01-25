@@ -1,6 +1,6 @@
 Processing keyword: ~도록 [dorok] (So that)
 # Korean Grammar Point: ~도록 [dorok] (So that)
-# Korean Grammar Point: ~도록 [dorok] (So that)
+
 ## 1. Introduction
 The Korean grammar ending **~도록** is a versatile expression used to indicate purpose, extent, or method. It translates to "so that," "in order to," or "to the point where" in English. Understanding how to use ~도록 will enhance your ability to express goals, reasons, and the manner of actions in Korean.
 

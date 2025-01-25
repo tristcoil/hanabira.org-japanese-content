@@ -1,6 +1,6 @@
 Processing keyword: ~기만 하다 [giman hada] (Just)
 # Korean Grammar Point: ~기만 하다 [giman hada] (Just)
-# ~기만 하다 [giman hada] (Just)
+
 ## 1. Introduction
 The grammar pattern **~기만 하다** is used in Korean to express the meaning of "only" or "just" doing a particular action. It emphasizes that someone does nothing but the specified action, excluding all other activities.
 

@@ -1,6 +1,6 @@
 Processing keyword: ~나 보다 [na boda] (It seems, looks like)
 # Korean Grammar Point: ~나 보다 [na boda] (It seems, looks like)
-# Understanding the Korean Grammar Point: ~나 보다 [na boda] (It seems, looks like)
+
 ## 1. Introduction
 In Korean, expressing assumptions or making guesses based on observations is a common part of daily communication. One useful grammar point for this purpose is **~나 보다**. This expression allows speakers to convey speculation or inference about a situation, much like saying "It seems" or "I guess" in English.
 
@@ -91,6 +91,7 @@ Both expressions are used to make assumptions, but there are subtle differences.
   - **~나 봅니다** (formal polite)
 ### Expressing Humility and Indirectness
 In Korean culture, being indirect can be a way to show politeness and humility. Using **~나 보다** softens statements, making them sound less assertive and more considerate.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -131,7 +132,6 @@ In Korean culture, being indirect can be a way to show politeness and humility. 
    **Answer**: 그녀는 선생님인가 봐요.
 ---
 By mastering **~나 보다**, you'll add nuance to your Korean communication, making your speech sound more natural and fluent. Keep practicing by observing situations and expressing your guesses in Korean!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

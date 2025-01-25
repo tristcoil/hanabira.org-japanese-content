@@ -1,28 +1,9 @@
 Processing keyword: ~도록 하다 [dorok hada] (Make sure that, ensure that)
 # Korean Grammar Point: ~도록 하다 [dorok hada] (Make sure that, ensure that)
-# Understanding the Korean Grammar Point: ~도록 하다 [dorok hada]
 
----
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Core Grammar Explanation](#core-grammar-explanation)
-   - [Meaning](#meaning)
-   - [Structure](#structure)
-   - [Formation Diagram](#formation-diagram)
-3. [Comparative Analysis](#comparative-analysis)
-4. [Examples in Context](#examples-in-context)
-5. [Cultural Notes](#cultural-notes)
-   - [Cultural Relevance](#cultural-relevance)
-   - [Idiomatic Expressions](#idiomatic-expressions)
-6. [Common Mistakes and Tips](#common-mistakes-and-tips)
-   - [Error Analysis](#error-analysis)
-   - [Learning Strategies](#learning-strategies)
-7. [Summary and Review](#summary-and-review)
-   - [Key Takeaways](#key-takeaways)
-   - [Quick Recap Quiz](#quick-recap-quiz)
----
 ## Introduction
 In the Korean language, **~도록 하다** (*dorok hada*) is a grammatical structure used to indicate making an effort to ensure that something happens. It is often translated as **"make sure that"** or **"ensure that"**. This grammar point is essential for expressing intentions, giving advice, or instructing others in a polite and indirect manner.
+
 ---
 ## Core Grammar Explanation
 ### Meaning

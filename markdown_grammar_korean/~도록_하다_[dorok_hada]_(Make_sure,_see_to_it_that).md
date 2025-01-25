@@ -1,6 +1,6 @@
 Processing keyword: ~도록 하다 [dorok hada] (Make sure, see to it that)
 # Korean Grammar Point: ~도록 하다 [dorok hada] (Make sure, see to it that)
-# ~도록 하다 [dorok hada] (Make sure, See to it that)
+
 ## 1. Introduction
 In Korean, expressing intention, purpose, or effort often involves specific grammatical structures. One such versatile structure is **~도록 하다**. Understanding this grammar point will enhance your ability to express making sure something happens or causing someone to do something.
 
@@ -95,7 +95,6 @@ In Korean culture, indirect expressions are often used to give commands or make 
    **Answer**: False (That's **~게 하다**)
 ---
 By mastering **~도록 하다**, you enhance your ability to give polite commands and strong suggestions, reflecting the nuances of Korean language and culture.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

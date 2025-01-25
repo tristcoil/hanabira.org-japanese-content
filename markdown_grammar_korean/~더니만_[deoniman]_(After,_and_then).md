@@ -1,6 +1,6 @@
 Processing keyword: ~더니만 [deoniman] (After, and then)
 # Korean Grammar Point: ~더니만 [deoniman] (After, and then)
-# ~더니만 [deoniman] (After, and then)
+
 ## 1. Introduction
 In this lesson, we will explore the Korean grammar point **~더니만** (*deoniman*), which is used to connect two clauses by indicating that the first action or state observed by the speaker led to the second result or contrasting situation. This structure is often employed to express cause and effect based on firsthand experiences.
 

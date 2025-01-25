@@ -1,6 +1,6 @@
 Processing keyword: ~나요? [nayo?] (Isn't it?)
 # Korean Grammar Point: ~나요? [nayo?] (Isn't it?)
-# Understanding the Grammar Point: ~나요? (Isn't it?)
+
 ## 1. Introduction
 In Korean, adding **~나요?** at the end of a sentence is a way to ask a question gently, often used to seek confirmation or politely inquire about something. This grammar point is essential for expressing curiosity or uncertainty in a respectful manner.
 

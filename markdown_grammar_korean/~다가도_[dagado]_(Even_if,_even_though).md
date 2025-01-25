@@ -1,6 +1,6 @@
 Processing keyword: ~다가도 [dagado] (Even if, even though)
 # Korean Grammar Point: ~다가도 [dagado] (Even if, even though)
-# Understanding the Korean Grammar Point: **~다가도 [dagado]** (Even if, Even though)
+
 ## 1. Introduction
 In Korean, expressions of sudden changes or unexpected shifts in actions or states are common. The grammar point **~다가도 [dagado]** is used to indicate that even though a certain action or state is occurring, it can abruptly change to something else. This form is essential for expressing contrasts and unexpected events in daily conversations.
 

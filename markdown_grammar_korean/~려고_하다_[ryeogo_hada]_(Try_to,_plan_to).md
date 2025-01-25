@@ -1,8 +1,9 @@
 Processing keyword: ~려고 하다 [ryeogo hada] (Try to, plan to)
 # Korean Grammar Point: ~려고 하다 [ryeogo hada] (Try to, plan to)
-# 1. Introduction
+
+## 1. Introduction
 The Korean grammar pattern **~려고 하다** (*[ryeogo hada]*) is commonly used to express an intention, plan, or attempt to perform an action. It conveys meanings similar to "to try to," "to plan to," or "to be about to" in English.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 ### Meaning
 - **To plan to**
@@ -44,7 +45,7 @@ The Korean grammar pattern **~려고 하다** (*[ryeogo hada]*) is commonly used
 | 쉬다 (to rest)| 쉬       | 쉬려고 하다         | to plan to rest       |
 | 쓰다 (to write)| 쓰      | 쓰려고 하다         | to plan to write      |
 | 배우다 (to learn)| 배우 | 배우려고 하다       | to plan to learn      |
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### **~려고 하다** vs **~(으)려고**
 - **~려고 하다**: Used to express intention or plan, often involving the future action of the subject.
   - *예:* 집에 **가려고 해요**. (*I plan to go home.*)
@@ -55,7 +56,7 @@ The Korean grammar pattern **~려고 하다** (*[ryeogo hada]*) is commonly used
   - *예:* 비가 **오려고 해요**. (*It looks like it's about to rain.*)
 - **~(으)ㄹ 것 같다**: Used to make a guess or prediction about the future.
   - *예:* 비가 **올 것 같아요**. (*I think it will rain.*)
-# 4. Examples in Context
+## 4. Examples in Context
 ## Sentence Examples
 ### Formal Context
 1. **저는 한국어를 배우려고 합니다.**
@@ -77,7 +78,7 @@ The Korean grammar pattern **~려고 하다** (*[ryeogo hada]*) is commonly used
    - *He plans to travel around the world.*
 2. **회사는 새로운 제품을 출시하려고 합니다.**
    - *The company is planning to launch a new product.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - Expressing intentions politely is significant in Korean culture, as it shows respect and consideration.
 - Using **~려고 하다** in conversation can soften statements, making them sound less direct and more courteous.
@@ -92,7 +93,7 @@ The Korean grammar pattern **~려고 하다** (*[ryeogo hada]*) is commonly used
 - **큰일 나려고 해요.**
   - *Literal Translation*: A big problem is about to happen.
   - *Meaning*: Indicates that if the current situation continues, there will be serious consequences.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Using the Wrong Conjugation**
    - **Incorrect**: 먹다려고 해요.
@@ -110,7 +111,7 @@ The Korean grammar pattern **~려고 하다** (*[ryeogo hada]*) is commonly used
 - **Associate with Intentions**: Remember that **~려고 하다** is about *planning* or *trying* to do something.
 - **Practice with Common Verbs**: Start by conjugating frequently used verbs to get comfortable with the pattern.
 - **Listen and Repeat**: Listen to native speakers using **~려고 하다** and practice repeating their sentences.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~려고 하다** is used to express an intention or plan to perform an action.
 - Attach **(으)려고 하다** to the verb stem.
@@ -120,13 +121,18 @@ The Korean grammar pattern **~려고 하다** (*[ryeogo hada]*) is commonly used
 - It can also indicate that something is about to happen based on observable signs.
 ## Quick Recap Quiz
 1. **Fill in the blank**: 저는 책을 _________ 해요. (*I plan to read a book.*)
+   
    **Answer**: 읽으려고
+
 2. **True or False**: **~려고 하다** can be used to speculate about someone else's intentions without certainty.
+   
    **Answer**: False. It's better to use **~(으)ㄹ 것 같다** unless you are certain about the other person's intentions.
+
 3. **Choose the correct form**: (쓰다) 저는 편지를 _________ 합니다. (*I intend to write a letter.*)
    a) 쓰려고
    b) 쓸려고
    c) 쓰으려고
+   
    **Answer**: a) 쓰려고
 ---
 By understanding and practicing **~려고 하다**, you can effectively express your plans and intentions in Korean, making your speech more natural and expressive.

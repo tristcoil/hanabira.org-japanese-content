@@ -1,10 +1,9 @@
 Processing keyword: ~려는데 [ryeonde] (I'm planning to, I want to)
 # Korean Grammar Point: ~려는데 [ryeonde] (I'm planning to, I want to)
-# Korean Grammar Lesson: **~려는데** [(으)려는데]
 
----
 ## 1. Introduction
 The grammar point **~려는데** is a useful conjunction in Korean that combines the intention to do something with providing background information or leading into another action or statement. It translates to **"I'm planning to...", "I intend to...",** or **"I want to..."** in English. This form is often used to introduce one's plans or intentions before adding additional information or making a request.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -61,6 +60,7 @@ The formation of **~려는데** depends on the verb stem and follows these patte
 ### Spoken Context
 1. **집에 가려는데 뭐 필요한 거 있어?**  
    *I'm about to go home; do you need anything?*
+
 ---
 ## 5. Cultural Notes
 ### Politeness Levels
@@ -69,6 +69,7 @@ The formation of **~려는데** depends on the verb stem and follows these patte
 - In casual situations among friends, more informal endings are acceptable.
 ### Social Norms
 Using **~려는데** is a polite way to introduce your intentions while leaving room for input or assistance from others. It reflects the indirect communication style often found in Korean culture.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes

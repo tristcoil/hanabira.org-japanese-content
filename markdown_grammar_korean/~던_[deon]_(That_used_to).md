@@ -1,6 +1,6 @@
 Processing keyword: ~던 [deon] (That used to)
 # Korean Grammar Point: ~던 [deon] (That used to)
-# Understanding the Korean Grammar Point: **~던** [deon] (That Used To)
+
 ## 1. Introduction
 In Korean, expressing past actions or states that were ongoing or habitual requires specific grammatical constructions. The suffix **~던** is one such tool, allowing speakers to convey nuances about past experiences, memories, or unfinished actions. This lesson will delve into the usage of **~던**, helping you understand how to accurately express "that used to" or "used to be" in Korean.
 

@@ -1,10 +1,11 @@
 Processing keyword: ~는 바람에 [neun barame] (Because of)
 # Korean Grammar Point: ~는 바람에 [neun barame] (Because of)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, expressing reasons or causes for events is essential for clear communication. One such grammar point is **~는 바람에** [neun barame], which is used to indicate that something unexpected caused a negative result. This lesson will explore the usage of **~는 바람에**, helping you understand its structure, nuances, and how to use it naturally in different contexts.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 **~는 바람에** translates to **"because of," "as a result of,"** or **"due to"** something that happened unexpectedly, leading to an undesirable outcome. It is primarily used to express that an unforeseen event caused a negative consequence.
 ## Structure
@@ -19,7 +20,7 @@ The structure combines a verb stem with **~는 바람에**:
 |--------------|-----------------------------|
 | Action Verb  | **Verb Stem + 는 바람에**    |
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## Comparison with Similar Grammar Points
 ### **~아서/어서** (Because)
 Used to express a general cause-and-effect relationship.
@@ -32,7 +33,7 @@ Indicates a reason or cause, often neutral and factual.
 - **Negative Outcome**: Usually followed by an undesirable consequence.
 - **Usage**: **~는 바람에** is less common in spoken language and is more formal or used in written contexts.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Example Sentences
 1. ### Formal Written
    - **Korean**: 갑자기 전화가 오는 바람에 회의에 늦었어요.
@@ -51,14 +52,15 @@ Indicates a reason or cause, often neutral and factual.
    - **Pronunciation**: [Biga oneun barame yeohaeng gyehoekeul chwisohaesseoyo.]
    - **Translation**: Because it rained, we canceled our travel plans.
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Emphasis on Unexpected Events**: In Korean culture, acknowledging unforeseen circumstances and expressing regret or apology is important in maintaining social harmony.
 - **Formality Levels**: **~는 바람에** is neutral-formal and is appropriate in both formal writing and polite spoken language.
 ## Idiomatic Expressions
 While **~는 바람에** itself is not idiomatic, it often appears in contexts involving common situations like unexpected rain, traffic jams, or sudden phone calls, which are familiar scenarios in daily Korean life.
+
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Using with Adjectives**: **~는 바람에** is only used with action verbs, not adjectives.
    - **Incorrect**: 기쁜 바람에 말을 못 했어요.
@@ -70,7 +72,7 @@ While **~는 바람에** itself is not idiomatic, it often appears in contexts i
 - **Remember the Negative Connotation**: Use **~는 바람에** when the outcome is undesirable.
 - **Focus on Actions, Not States**: Pair **~는 바람에** with action verbs indicating events, not adjectives describing states.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~는 바람에** is used to express that an unexpected action caused a negative result.
 - Only used with **action verbs**.

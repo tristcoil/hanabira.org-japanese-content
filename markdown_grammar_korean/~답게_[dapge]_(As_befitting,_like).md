@@ -1,6 +1,6 @@
 Processing keyword: ~답게 [dapge] (As befitting, like)
 # Korean Grammar Point: ~답게 [dapge] (As befitting, like)
-# ~답게 [dapge] (As befitting, like)
+
 ## 1. Introduction
 The Korean grammar point **~답게** is used to express that someone or something is behaving or appearing in a manner that is characteristic or befitting of a particular quality or title. It can be translated into English as "like a..." or "as befitting...".
 

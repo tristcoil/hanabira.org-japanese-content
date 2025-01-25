@@ -1,6 +1,6 @@
 Processing keyword: ~던데 [deonde] (Used to, before)
 # Korean Grammar Point: ~던데 [deonde] (Used to, before)
-# Grammar Point: ~던데 [deonde] (Used to, before)
+
 ## 1. Introduction
 The Korean grammatical expression **~던데** is used to recall or reflect on past experiences that the speaker personally witnessed or experienced. It often conveys a sense of contrast or provides background information relevant to the current situation. Understanding **~던데** enhances your ability to express reflections on past events in Korean, adding depth to your conversations.
 
@@ -56,6 +56,7 @@ To form **~던데**, attach it to the verb stem. The structure varies slightly d
 - Used across various social contexts, reflecting shared experiences.
 ### Cultural Relevance
 In Korean culture, sharing personal experiences adds authenticity to conversations. Using **~던데** allows speakers to connect their past observations with present suggestions or comments, fostering a sense of shared understanding.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes

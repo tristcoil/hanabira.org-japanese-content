@@ -1,6 +1,6 @@
 Processing keyword: ~는 대로 [neun daero] (As it is)
 # Korean Grammar Point: ~는 대로 [neun daero] (As it is)
-# Korean Grammar Lesson: ~는 대로 [neun daero] (As it is)
+
 ## 1. Introduction
 In Korean, the expression **~는 대로** is a versatile grammar point used to indicate doing something "just as" or "exactly as" another action or state. It conveys the idea of following or replicating something precisely. This lesson will delve into the usage, formation, and nuances of **~는 대로**, helping you incorporate it naturally into your Korean conversations.
 

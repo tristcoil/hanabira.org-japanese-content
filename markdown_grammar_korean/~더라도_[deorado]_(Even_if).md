@@ -1,6 +1,6 @@
 Processing keyword: ~더라도 [deorado] (Even if)
 # Korean Grammar Point: ~더라도 [deorado] (Even if)
-# ~더라도 [deorado] (Even if)
+
 ## 1. Introduction
 In Korean, expressing conditions and concessions is essential for nuanced communication. The grammar pattern **~더라도** is used to indicate that even if a certain condition is met, it does not affect the outcome of the main clause. This pattern allows speakers to express determination or inevitability regardless of circumstances.
 
@@ -102,7 +102,6 @@ While both **~더라도** and **~아/어도** mean "even if," they are used diff
    **Answer**: **비싸더라도 살 거예요.**
 ---
 By mastering **~더라도**, you enhance your ability to express firm decisions and hypothetical concessions in Korean, making your speech more nuanced and expressive.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

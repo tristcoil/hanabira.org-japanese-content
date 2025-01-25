@@ -1,6 +1,6 @@
 Processing keyword: ~도록이면 [dorogimyeon] (If possible)
 # Korean Grammar Point: ~도록이면 [dorogimyeon] (If possible)
-# Korean Grammar Lesson: ~도록이면 [dorogimyeon] (If possible)
+
 ## 1. Introduction
 In this lesson, we will explore the Korean grammar point **"~도록이면"** (*dorogimyeon*), which translates to **"if possible"** in English. This expression is frequently used in everyday Korean to make polite requests or suggestions, emphasizing a preference for something to happen if circumstances allow.
 

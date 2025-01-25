@@ -1,6 +1,6 @@
 Processing keyword: ~다니 [dani] (Expressing disbelief)
 # Korean Grammar Point: ~다니 [dani] (Expressing disbelief)
-# ~다니 [dani] (Expressing Disbelief)
+
 ## 1. Introduction
 In Korean, the suffix **~다니** is used to express surprise, disbelief, or amazement upon learning new information or witnessing an unexpected situation. This grammatical structure allows the speaker to convey emotions akin to "I can't believe that..." or "How could it be that..." in English.
 

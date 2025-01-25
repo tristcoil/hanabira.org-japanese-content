@@ -1,6 +1,6 @@
 Processing keyword: ~다면서요 [damyeonseyo] (Said that)
 # Korean Grammar Point: ~다면서요 [damyeonseyo] (Said that)
-# Understanding Korean Grammar: ~다면서요 [damyeonseyo] (I Heard That...)
+
 ## 1. Introduction
 In the Korean language, expressing and confirming information you've heard from others is a common aspect of daily conversations. The grammar pattern **~다면서요 [damyeonseyo]** is used to confirm something you've heard, showing both your interest and seeking validation. It's an essential tool for engaging in dialogues and ensuring information accuracy.
 

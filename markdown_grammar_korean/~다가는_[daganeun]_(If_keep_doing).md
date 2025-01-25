@@ -1,6 +1,6 @@
 Processing keyword: ~다가는 [daganeun] (If keep doing)
 # Korean Grammar Point: ~다가는 [daganeun] (If keep doing)
-# Grammar Lesson: ~다가는 [daganeun] (If you keep doing...)
+
 ## 1. Introduction
 In this lesson, we'll learn about the Korean grammar point **~다가는**. This structure is used to warn that if someone continues doing a certain action, a negative or undesirable result will occur. It's similar to saying **"If you keep doing..."** in English.
 
@@ -132,7 +132,6 @@ To form **~다가는**, follow these steps:
      - *If you keep using your phone while driving like that, you'll get into an accident.*
 3. **False**
    - **~다가는** is used with verbs, not adjectives.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

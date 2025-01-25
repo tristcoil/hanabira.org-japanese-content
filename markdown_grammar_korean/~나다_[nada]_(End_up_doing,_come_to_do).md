@@ -1,10 +1,11 @@
 Processing keyword: ~나다 [nada] (End up doing, come to do)
 # Korean Grammar Point: ~나다 [nada] (End up doing, come to do)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, the suffix **~나다** is used to express unintended or unexpected actions or results. It conveys the meaning of "end up doing" or "come to do" something, often highlighting that the outcome was not planned or was beyond one's control.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 The grammar point **~나다** attaches to verbs to indicate that an action happens unintentionally or unexpectedly. It emphasizes the speaker's lack of intention or control over the action or result.
 ### Meaning
@@ -35,7 +36,7 @@ Verb Stem + -아/어 + 나다
 | 쓰다 (to write) | 쓰        | 써         | 써나다     | 써나다         |
 | 공부하다 (to study)| 공부하   | 공부해      | 공부해나다  | 공부해나다      |
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 **~게 되다 vs. ~나다**
 - **~게 되다**: Also means "to come to do" but often implies a change over time or a decision made due to circumstances.
 - **~나다**: Emphasizes unintentional or unexpected occurrence without the speaker's control.
@@ -43,7 +44,7 @@ Verb Stem + -아/어 + 나다
 - **하게 되다**: 한국어를 배우게 됐어요. (I came to learn Korean. - possibly by choice or circumstance.)
 - **해나다**: 노래를 하다가 울어났어요. (I ended up crying while singing. - unexpected action.)
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Speech
 1. **회의 중에 잠이 들어나서 죄송합니다.**
    - *I'm sorry for ending up falling asleep during the meeting.*
@@ -65,7 +66,7 @@ Verb Stem + -아/어 + 나다
 2. **그냥 하다 보니까 이렇게 되어났어.**
    - *I just did it, and it ended up like this.*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, expressing unintended actions is common in daily conversations, reflecting humility or the lack of direct control over situations. Using **~나다** appropriately can convey politeness and avoid sounding arrogant.
 ## Idiomatic Expressions
@@ -73,7 +74,7 @@ In Korean culture, expressing unintended actions is common in daily conversation
 - **울어나다**: To burst into tears unexpectedly.
 - **잠이 들어나다**: To fall asleep unintentionally.
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Mistake:** Confusing **~나다** with **~내다** (which means to do something thoroughly or completely).
   - **Incorrect:** 책을 읽어냈다. (*Supposed to mean "ended up reading a book" but actually means "read a book completely."*)
@@ -85,7 +86,7 @@ In Korean culture, expressing unintended actions is common in daily conversation
 - **Mnemonic Device:** Remember that **~나다** is like "things arising" unintentionally.
 - **Tip:** Pay attention to the verb stem endings to apply the correct **-아/어** conjugation before adding **~나다**.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~나다** is used to express unintended or unexpected actions.
 - Attach **~나다** to the verb stem with the correct **-아/어** conjugation.

@@ -1,6 +1,6 @@
 Processing keyword: ~는데다 [neundedda] (Furthermore, and)
 # Korean Grammar Point: ~는데다 [neundedda] (Furthermore, and)
-# ~는데다 [neundeuda] (Furthermore, and)
+
 ## 1. Introduction
 The Korean grammar pattern **~는데다** is used to connect two clauses, indicating that the second clause adds additional information to the first. It can be translated as "in addition to," "besides," or "moreover" in English. This grammar point is commonly used to emphasize cumulative effects or reasons.
 

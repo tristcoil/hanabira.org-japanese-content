@@ -1,6 +1,6 @@
 Processing keyword: ~기에는 [gieneun] (For, in order to)
 # Korean Grammar Point: ~기에는 [gieneun] (For, in order to)
-# Understanding the Korean Grammar Point: ~기에는 (For, In Order To)
+
 ## 1. Introduction
 In Korean, expressing purposes or evaluating situations often requires specific grammatical constructions. One such construction is **~기에는** (*gi-eneun*), which is used to assess or comment on the suitability or sufficiency of something for a particular action or situation. This lesson will delve into the usage of **~기에는**, providing clear explanations, examples, and comparisons to help you grasp this grammar point effectively.
 

@@ -1,6 +1,6 @@
 Processing keyword: ~는 도중에 [neun dojunge] (While doing)
 # Korean Grammar Point: ~는 도중에 [neun dojunge] (While doing)
-# ~는 도중에 [neun dojunge] (While doing)
+
 ## 1. Introduction
 In Korean, expressing that something occurred **while in the middle of doing** something else is crucial for detailed storytelling and conversations. The grammar point **~는 도중에** allows speakers to indicate that an event happened during the midst of another action. This lesson will explore the usage, formation, and nuances of **~는 도중에**, enhancing your ability to describe simultaneous events in Korean.
 
@@ -107,7 +107,6 @@ In Korean, expressing that something occurred **while in the middle of doing** s
    - **Answer**: False
 ---
 By understanding and practicing **~는 도중에**, you can more effectively communicate events that occur during other actions, adding depth and clarity to your Korean language skills.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

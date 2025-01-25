@@ -1,6 +1,6 @@
 Processing keyword: ~라도 [rado] (At least, even if)
 # Korean Grammar Point: ~라도 [rado] (At least, even if)
-# ~라도 [rado] (At Least, Even If)
+
 ## 1. Introduction
 The Korean particle **~라도** is a versatile expression used to convey meanings like "at least," "even if," or "even though." It allows speakers to suggest alternatives, express concessions, or indicate minimal expectations. Mastering **~라도** will enhance your ability to express nuanced thoughts and alternatives in Korean.
 
@@ -13,11 +13,13 @@ The Korean particle **~라도** is a versatile expression used to convey meaning
 **Attachment to Nouns:**
 - **Noun + 라도**
 **Formation Diagram**
+
 | Noun Type     | Structure       | Example       | Translation          |
 |---------------|-----------------|---------------|----------------------|
 | Common Noun   | Noun + 라도     | 물이라도       | At least water       |
 | Proper Noun   | Noun + 이라도   | 민수라도       | Even Minsu           |
 | Pronoun       | Pronoun + 라도  | 이것이라도     | At least this        |
+
 **Notes:**
 - When the noun ends with a consonant, use **이라도**.
 - When the noun ends with a vowel, use **라도**.
@@ -69,6 +71,7 @@ The Korean particle **~라도** is a versatile expression used to convey meaning
 - **B:** 라면이라도 끓여줄까?
   *A:* I'm hungry but there's nothing to eat.
   *B:* Should I at least make some ramen?
+
 **Dialogue 2**
 - **A:** 요즘 운동해?
 - **B:** 시간 없어서 주말에라도 해.

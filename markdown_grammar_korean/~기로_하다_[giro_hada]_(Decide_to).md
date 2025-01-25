@@ -1,6 +1,6 @@
 Processing keyword: ~기로 하다 [giro hada] (Decide to)
 # Korean Grammar Point: ~기로 하다 [giro hada] (Decide to)
-# Understanding the Grammar Point: ~기로 하다 (Decide to)
+
 ## 1. Introduction
 The Korean grammar pattern **~기로 하다** is a commonly used expression that means **"to decide to do something."** It's essential for expressing decisions, intentions, or resolutions in everyday conversation. Mastering this grammar point will help you communicate your plans and decisions effectively in Korean.
 
@@ -26,22 +26,28 @@ The verb **하다** in **~기로 하다** is conjugated according to the tense a
 #### Present Tense
 - **Informal Polite:** **-기로 해요**
 - **Formal Polite:** **-기로 합니다**
+
 | Tense           | Politeness Level | Conjugation       | Translation              |
 |-----------------|------------------|-------------------|--------------------------|
 | Present         | Informal Polite  | 가기로 해요        | I decide to go           |
 | Present         | Formal Polite    | 가기로 합니다       | I decide to go           |
+
 #### Past Tense
 - Indicates a past decision.
+
 | Tense           | Politeness Level | Conjugation       | Translation              |
 |-----------------|------------------|-------------------|--------------------------|
 | Past            | Informal Polite  | 가기로 했어요       | I decided to go          |
 | Past            | Formal Polite    | 가기로 했습니다      | I decided to go          |
+
 #### Future Tense
 - Less common; implies a plan to decide.
+
 | Tense           | Politeness Level | Conjugation           | Translation              |
 |-----------------|------------------|-----------------------|--------------------------|
 | Future          | Informal Polite  | 가기로 할 거예요       | I will decide to go      |
 | Future          | Formal Polite    | 가기로 할 것입니다      | I will decide to go      |
+
 ---
 ## 3. Comparative Analysis
 ### Comparing **~기로 하다** with Similar Grammar Points
@@ -58,11 +64,13 @@ The verb **하다** in **~기로 하다** is conjugated according to the tense a
 - **회사에서 새로운 정책을 도입하기로 결정했습니다.**  
   *The company decided to implement a new policy.*
 **Comparison Table:**
+
 | Grammar Point       | Formality       | Nuance                             |
 |---------------------|-----------------|------------------------------------|
 | ~기로 하다          | Casual to Formal| General decision or resolution     |
 | ~(으)려고 하다      | Casual to Formal| Intention or plan                  |
 | ~기로 결정하다      | Formal          | Formal decision after consideration|
+
 ---
 ## 4. Examples in Context
 ### Sentence Examples

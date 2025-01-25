@@ -1,6 +1,6 @@
 Processing keyword: ~대로 [daero] (As per, following)
 # Korean Grammar Point: ~대로 [daero] (As per, following)
-# ~대로 [daero] (As per, Following)
+
 ## 1. Introduction
 The Korean grammar point **~대로 [daero]** is a versatile particle that means **"as per," "according to,"** or **"following."** It is used to express that an action or situation aligns with or follows a certain standard, expectation, or instruction. Understanding how to use ~대로 will enhance your ability to describe actions that occur in accordance with something else.
 

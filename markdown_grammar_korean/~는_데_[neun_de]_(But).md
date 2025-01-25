@@ -1,10 +1,9 @@
 Processing keyword: ~는 데 [neun de] (But)
 # Korean Grammar Point: ~는 데 [neun de] (But)
-# Korean Grammar Lesson: ~는데 [neun de] (But, So, And)
 
----
 ## 1. Introduction
 The grammatical ending **~는데** (**는데**) is one of the most commonly used conjunctions in Korean. It is a versatile tool that connects clauses to provide contrast, background information, or to soften statements and requests. Understanding how to use **~는데** will greatly enhance your ability to form complex sentences and engage in natural conversations in Korean.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning and Usage
@@ -106,6 +105,7 @@ The ending varies depending on whether it follows a verb, adjective, or noun.
 **B:** 예쁜데 좀 비싸요.  
 _A: How is this clothing?_  
 _B: It's pretty, but a bit expensive._
+
 ---
 ## 5. Cultural Notes
 ### Levels of Politeness and Formality

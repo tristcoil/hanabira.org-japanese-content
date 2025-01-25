@@ -1,6 +1,6 @@
 Processing keyword: ~는지 알다/모르다 [neunji alda/moreuda] (Know/don't know whether)
 # Korean Grammar Point: ~는지 알다/모르다 [neunji alda/moreuda] (Know/don't know whether)
-# ~는지 알다/모르다 [~neunji alda/moreuda] (Know/Don't Know Whether)
+
 ## 1. Introduction
 In Korean, expressing whether you know or don't know a particular piece of information is essential for everyday conversation. The grammar point **~는지 알다/모르다** allows speakers to communicate this effectively. It is equivalent to saying "know/don't know whether/if..." in English.
 

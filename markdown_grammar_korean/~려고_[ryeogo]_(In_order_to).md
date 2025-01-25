@@ -1,10 +1,10 @@
 Processing keyword: ~려고 [ryeogo] (In order to)
 # Korean Grammar Point: ~려고 [ryeogo] (In order to)
-# Korean Grammar Lesson: ~려고 [ryeogo] (In order to)
 
----
+
 ## 1. Introduction
 In Korean, expressing intention or purpose is an essential part of everyday communication. The grammar point **~려고** (*ryeogo*) is commonly used to indicate that someone intends to do something or is doing something for a particular purpose. Understanding how to use **~려고** will enhance your ability to express intentions and plans naturally in Korean.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -30,10 +30,12 @@ To form sentences using **~려고**, you attach it to the verb stem of the actio
 ### Comparison with ~기 위해(서)
 - **~기 위해(서)** also means "in order to," but it's more formal and often used in written language.
 - **~려고** is more conversational and used in spoken language.
+
 | Grammar Point  | Usage           | Formality |
 |----------------|-----------------|-----------|
 | ~려고          | Everyday speech | Informal  |
 | ~기 위해(서)   | Formal writing   | Formal    |
+
 ---
 ## 4. Examples in Context
 ### Example Sentences

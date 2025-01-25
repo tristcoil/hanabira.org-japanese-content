@@ -1,6 +1,6 @@
 Processing keyword: ~다가 [daga] (While, and then)
 # Korean Grammar Point: ~다가 [daga] (While, and then)
-# ~다가 [daga] (While doing something, and then...)
+
 ## 1. Introduction
 The Korean grammar pattern **~다가** is used to express that one action was in progress when another action occurred, interrupting the first. It is equivalent to "while doing something, and then..." or "was doing... when..." in English. This structure is essential for describing situations where an initial action is halted due to a subsequent action.
 

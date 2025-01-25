@@ -1,6 +1,6 @@
 Processing keyword: ~는데 [neunde] (But, and, so)
 # Korean Grammar Point: ~는데 [neunde] (But, and, so)
-# Korean Grammar Lesson: ~는데 [neunde] (But, And, So)
+
 ## 1. Introduction
 In Korean, the conjunctive ending **~는데** is a versatile grammar point used to connect sentences, provide background information, contrast ideas, or soften requests. Understanding how to use **~는데** effectively will significantly enhance your fluency and ability to express complex thoughts in Korean.
 
@@ -20,12 +20,14 @@ The ending **~는데** can be roughly translated as:
 ### Structure
 #### Formation
 The formation of **~는데** depends on the verb or adjective stem it attaches to:
+
 | Verb/Adjective Type            | Ending         | Example                    |
 | ------------------------------ | -------------- | -------------------------- |
 | **Action Verb stem**           | **~는데**      | 가다 → 가는데               |
 | **Descriptive Verb stem ending with a consonant** | **~은데**  | 작다 → 작은데              |
 | **Descriptive Verb stem ending with a vowel** | **~ㄴ데**   | 크다 → 큰데                |
 | **Copula 이다/아니다**         | **인데 / 아닌데** | 학생이다 → 학생인데       |
+
 ### Formation Diagram
 ```
 [Action Verb Stem] + 는데

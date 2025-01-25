@@ -1,10 +1,10 @@
 Processing keyword: ~대로 하다 [daero hada] (Do as instructed/said)
 # Korean Grammar Point: ~대로 하다 [daero hada] (Do as instructed/said)
-# Grammar Point: ~대로 하다 [daero hada] (Do as instructed/said)
 
 ---
 ## 1. Introduction
 The Korean grammar pattern "~대로 하다" is used to express the idea of doing something as instructed, as said, or according to a certain way. It signifies following instructions, rules, or the manner in which something was previously done. Mastering this pattern will enhance your ability to convey adherence to guidelines and expectations in various contexts.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -115,7 +115,6 @@ The pattern combines **대로**, meaning "as" or "according to", with **하다**
    - **Answer**: **규칙대로 행동해 주세요.**
 ---
 By understanding and practicing "~대로 하다", you'll be able to clearly communicate adherence to instructions and expectations in Korean, which is essential in both personal and professional settings.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

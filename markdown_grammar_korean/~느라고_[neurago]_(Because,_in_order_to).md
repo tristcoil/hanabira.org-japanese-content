@@ -1,6 +1,6 @@
 Processing keyword: ~느라고 [neurago] (Because, in order to)
 # Korean Grammar Point: ~느라고 [neurago] (Because, in order to)
-# ~느라고 [neurago] (Because, In order to)
+
 ## 1. Introduction
 The Korean grammar point "~느라고" is commonly used to express the reason or cause for a negative outcome, often implying that because one was engaged in one action, another action could not be completed or resulted in a negative consequence. It reflects how one action impacts another, especially when the first action takes time or effort.
 
@@ -90,7 +90,6 @@ The Korean grammar point "~느라고" is commonly used to express the reason or 
 2. **False**: ~느라고 is used with action verbs, not adjectives.
 3. **Correction**: **버스를 놓쳐서 회사에 늦게 도착했어요.**
    - *Since "버스를 놓치다" is not an intentional action, use ~아서/어서.*
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

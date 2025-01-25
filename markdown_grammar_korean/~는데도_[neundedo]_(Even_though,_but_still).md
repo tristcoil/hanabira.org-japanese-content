@@ -1,6 +1,6 @@
 Processing keyword: ~는데도 [neundedo] (Even though, but still)
 # Korean Grammar Point: ~는데도 [neundedo] (Even though, but still)
-# Korean Grammar Lesson: ~는데도 [neundedo] (Even though, but still)
+
 ## 1. Introduction
 In Korean, expressing contrast or unexpected outcomes is essential for nuanced communication. The grammar point **~는데도** [neundedo] allows speakers to indicate that an action occurs **despite** certain circumstances. This lesson will help you understand how to use **~는데도** to express "even though," "despite," or "in spite of" in various contexts.
 

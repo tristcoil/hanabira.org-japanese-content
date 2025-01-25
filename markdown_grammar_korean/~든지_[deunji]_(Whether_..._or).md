@@ -1,6 +1,6 @@
 Processing keyword: ~든지 [deunji] (Whether ... or)
 # Korean Grammar Point: ~든지 [deunji] (Whether ... or)
-# ~든지 [deunji] (Whether ... or)
+
 ## 1. Introduction
 In Korean, the grammar pattern **~든지** is used to express the meaning of "whether ... or" or "no matter (what/who/when/where/how)." It indicates that any of the given options are acceptable or that the outcome remains the same regardless of the choice. This pattern is versatile and can be applied to verbs, adjectives, and nouns.
 
@@ -31,11 +31,13 @@ In Korean, the grammar pattern **~든지** is used to express the meaning of "wh
 ---
 ## 3. Comparative Analysis
 ### ~든지 vs. ~거나
+
 |                | **~든지**                               | **~거나**                        |
 |----------------|-----------------------------------------|----------------------------------|
 | Meaning        | Indicates any option is acceptable; flexibly accepting all possibilities. | Presents alternatives to choose from; "either...or." |
 | Usage          | Emphasizes indifference between options.| Emphasizes selecting one option. |
 | Example        | 먹든지 마시든지 마음대로 하세요.<br>*(Whether you eat or drink, do as you please.)* | 먹거나 마시거나 선택하세요.<br>*(Choose to eat or drink.)* |
+
 ---
 ## 4. Examples in Context
 ### Sentence Examples
@@ -60,6 +62,7 @@ In Korean, the grammar pattern **~든지** is used to express the meaning of "wh
 2. **배고프면 뭐든지 먹어요.**
    - *If you're hungry, eat anything.*
 ### Using Question Words with ~든지
+
 | Question Word | Combined with ~든지 | Meaning            | Example                             |
 |---------------|---------------------|--------------------|-------------------------------------|
 | 누구 (who)    | **누구든지**         | Anyone             | **누구든지 올 수 있어요.**<br>*Anyone can come.* |
@@ -67,6 +70,7 @@ In Korean, the grammar pattern **~든지** is used to express the meaning of "wh
 | 언제 (when)   | **언제든지**         | Anytime            | **언제든지 연락하세요.**<br>*Contact me anytime.* |
 | 어디 (where)  | **어디든지**         | Anywhere           | **어디든지 따라갈게요.**<br>*I'll follow you anywhere.* |
 | 어떻게 (how)  | **어떻게든지**       | Anyhow / Anyway    | **어떻게든지 해결하겠습니다.**<br>*I will solve it anyhow.* |
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -124,7 +128,6 @@ In Korean, the grammar pattern **~든지** is used to express the meaning of "wh
    - **무엇이든지 저에게 물어보세요.**
 ---
 By understanding and practicing **~든지**, you'll be able to express flexibility and openness in your Korean conversations. Keep incorporating this pattern into your daily language use to become more fluent and natural in Korean!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

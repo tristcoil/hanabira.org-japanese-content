@@ -1,6 +1,6 @@
 Processing keyword: ~다니 [dani] (Exclamation, surprise)
 # Korean Grammar Point: ~다니 [dani] (Exclamation, surprise)
-# ~다니 [dani] (Exclamation, Surprise)
+
 ## 1. Introduction
 In Korean, expressing surprise or exclamation about a situation is often done using the grammar point **~다니**. This ending conveys astonishment, disbelief, or being impressed by something that has occurred or been mentioned. By mastering **~다니**, you'll add emotion and expressiveness to your Korean conversations.
 
@@ -101,7 +101,6 @@ Korean language often uses specific grammar structures to convey emotions subtly
    - **Corrected:** *맛있다니 정말이에요!*
 ---
 By incorporating **~다니** into your speech, you'll communicate your reactions more naturally and connect better with Korean speakers through shared expressions of surprise or admiration.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

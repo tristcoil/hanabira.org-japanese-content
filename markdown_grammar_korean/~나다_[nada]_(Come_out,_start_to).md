@@ -1,8 +1,9 @@
 Processing keyword: ~나다 [nada] (Come out, start to)
 # Korean Grammar Point: ~나다 [nada] (Come out, start to)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, the grammar point **~나다** is used to express the beginning or spontaneous occurrence of an action, emotion, or state. It often translates to **"to come out"** or **"to start to"** in English. This form is commonly attached to nouns to indicate that something emerges or happens involuntarily.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The suffix **~나다** conveys that something **emerges**, **appears**, or **starts** without the subject's direct control. It emphasizes the natural or spontaneous onset of an action or feeling.
 ## Structure
@@ -25,7 +26,7 @@ The suffix **~나다** conveys that something **emerges**, **appears**, or **sta
 | **생각** (thought) | **이**           | **나다**     | A thought occurs/comes to mind |
 | **땀** (sweat)    | **이**           | **나다**     | Sweat comes out/start sweating |
 | **냄새** (smell)  | **가**           | **나다**     | A smell comes out              |
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### ~하다 vs. ~나다
 - **~하다**: Indicates an action performed intentionally by the subject.
   - **Example**: **생각하다** (to think)
@@ -35,7 +36,7 @@ The suffix **~나다** conveys that something **emerges**, **appears**, or **sta
 |-------------------|---------------------------------------|
 | **공부하다**       | To study (intentional action)         |
 | **땀이 나다**      | To sweat (involuntary occurrence)     |
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example 1: Formal Written
 - **Sentence**: 그 이야기를 들으니 눈물이 납니다.
 - **Translation**: Hearing that story brings tears to my eyes.
@@ -51,7 +52,7 @@ The suffix **~나다** conveys that something **emerges**, **appears**, or **sta
 ### Example 5: Informal Spoken
 - **Sentence**: 갑자기 좋은 아이디어가 났어!
 - **Translation**: Suddenly, I came up with a good idea!
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, expressing emotions or states as occurring naturally or involuntarily is common and reflects a sense of modesty. Using **~나다** aligns with this cultural nuance by portraying feelings and sensations as spontaneous rather than controlled.
 ## Levels of Politeness
@@ -63,7 +64,7 @@ The verb **나다** itself is neutral, but politeness is conveyed through verb e
 - **김이 나다**: Steam comes out (can refer to being angry)
 - **욕심이 나다**: To become greedy or to desire something
 - **흥미가 나다**: To become interested
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 ### Mistake 1: Using ~나다 with the wrong particle
 - **Incorrect**: 생각을 나다
@@ -74,7 +75,7 @@ The verb **나다** itself is neutral, but politeness is conveyed through verb e
 ## Learning Strategies
 - **Tip**: Remember that **이/가** is typically used with **~나다** because the subject is the noun experiencing the action involuntarily.
 - **Mnemonic**: Think of **~나다** as something that "emerges on its own," so the action "comes out" naturally.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~나다** is used to express involuntary or spontaneous actions, emotions, or states.
 - It is formed by attaching **나다** to a noun with the subject particle **이/가**.
@@ -88,7 +89,8 @@ The verb **나다** itself is neutral, but politeness is conveyed through verb e
 1. **땀이 나다**
 2. **이/가**
 3. **갑자기 화가 났어요.**
-# Additional Resources
+
+### Additional Resources
 - **Practice Exercise**: Create sentences using **~나다** with the following nouns: **생각** (thought), **소리** (sound), **기침** (cough).
 - **Cultural Exploration**: Look up Korean idioms that use **~나다** and try to understand their meanings in context.
 

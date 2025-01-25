@@ -1,6 +1,6 @@
 Processing keyword: ~다는 [daneun] (The fact that)
 # Korean Grammar Point: ~다는 [daneun] (The fact that)
-# Understanding the Grammar Point: ~다는 [daneun] (The Fact That)
+
 ## 1. Introduction
 In Korean, the grammar construction **~다는** (*daneun*) is used to nominalize a statement, allowing it to function as a noun clause within a sentence. It translates to "the fact that..." in English and is crucial for expressing thoughts, rumors, or information about a particular statement.
 
@@ -127,7 +127,6 @@ Attach **~다는** directly to the **stem** of action verbs and descriptive verb
    - **Answer**: 가수**라는**
 ---
 By mastering **~다는**, you enhance your ability to express complex thoughts and discuss facts or statements in Korean. Practice by creating your own sentences to become more comfortable with this grammar point.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

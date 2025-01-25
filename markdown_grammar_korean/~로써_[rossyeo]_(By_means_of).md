@@ -1,6 +1,6 @@
 Processing keyword: ~로써 [rossyeo] (By means of)
 # Korean Grammar Point: ~로써 [rossyeo] (By means of)
-# ~로써 ([rosseo]) Grammar Lesson
+
 ## 1. Introduction
 In Korean, the particle **~로써** (*[rosseo]*) is used to express the means, method, or instrument by which an action is performed. It translates to "**by means of**," "**with**," or "**using**" in English. Understanding how to use **~로써** will enhance your ability to describe actions more precisely in Korean.
 
@@ -90,6 +90,7 @@ In Korean culture, the means or method by which something is done can carry sign
 1. What does **~로써** indicate in a sentence?
 2. Choose the correct particle: 학생__ (as a student) 열심히 공부하다.
 3. Translate to Korean using **~로써**: "He solved the problem by means of logic."
+
 **Answers:**
 1. It indicates the means, method, or instrument used to perform an action.
 2. **로서** - 학생**으로서** 열심히 공부하다.

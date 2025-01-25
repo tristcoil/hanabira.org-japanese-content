@@ -1,6 +1,6 @@
 Processing keyword: ~는 방향으로 [neun banghyangeuro] (Toward)
 # Korean Grammar Point: ~는 방향으로 [neun banghyangeuro] (Toward)
-# ~는 방향으로 [neun banghyangeuro] (Toward)
+
 ## 1. Introduction
 The grammar pattern **~는 방향으로** is used to express the idea of moving or progressing **toward the direction of** an action or state. It emphasizes the intention or tendency to achieve something described by the verb. This pattern is useful for indicating goals, intentions, or directions in both literal and figurative senses.
 

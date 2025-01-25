@@ -1,6 +1,6 @@
 Processing keyword: ~남짓 [namjit] (About, or so)
 # Korean Grammar Point: ~남짓 [namjit] (About, or so)
-# Grammar Point: ~남짓 [namjit] (About, or So)
+
 ## 1. Introduction
 In this lesson, we will explore the Korean grammar point **~남짓** (*namjit*), which is used to express "about," "approximately," or "a little over" a certain quantity or amount. Understanding how to use **~남짓** will help you describe approximate quantities naturally in Korean conversations.
 
@@ -18,7 +18,7 @@ In this lesson, we will explore the Korean grammar point **~남짓** (*namjit*),
 ### Formation Diagram
 ```
 ┌──────────────┐    ┌───────┐
-│ Quantity     │ +  │ 남짓 │
+│ Quantity     │ +  │ 남짓   │
 │   Noun       │    │       │
 └──────────────┘    └───────┘
 ```
@@ -99,7 +99,6 @@ In this lesson, we will explore the Korean grammar point **~남짓** (*namjit*),
    - **Answer**: 세 시간 남짓 걸렸어요.
 ---
 Now that you've learned how to use **~남짓**, try incorporating it into your daily Korean practice. Using natural approximations will make your Korean sound more fluent and native-like!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

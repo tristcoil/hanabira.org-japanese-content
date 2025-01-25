@@ -1,8 +1,9 @@
 Processing keyword: ~라면 [ramyeon] (If it's the case that)
 # Korean Grammar Point: ~라면 [ramyeon] (If it's the case that)
-# Introduction
+
+## Introduction
 In Korean, expressing conditions or hypothetical situations is essential for everyday communication. One common way to articulate "if" statements is by using the grammar point **~라면** (*ramyeon*). This structure allows speakers to present conditions and discuss possible outcomes based on those conditions.
-# Core Grammar Explanation
+## Core Grammar Explanation
 ## Meaning
 The suffix **~라면** translates to "if" or "in case of" in English. It is used to introduce a conditional clause, indicating that the action or state in the main clause depends on the condition presented.
 ## Structure
@@ -30,7 +31,7 @@ While **~라면** is not directly attached to verbs and adjectives, the equivale
 - **Verb/Adjective Stem + (는)다면** (more hypothetical)
   - 가다 → 간**다면**
   - 먹다 → 먹는**다면**
-# Comparative Analysis
+## Comparative Analysis
 Although **~라면** primarily attaches to nouns, it is often compared with other conditional forms:
 - **~(으)면**: Used for general or likely conditions.
   - Example: 비가 오**면** 집에 있을게요. (*If it rains, I will stay home.*)
@@ -38,7 +39,7 @@ Although **~라면** primarily attaches to nouns, it is often compared with othe
   - Example: 내가 새라**면** 날아가고 싶어요. (*If I were a bird, I would like to fly away.*)
 - **~라면**: Emphasizes the condition, often adding a speculative nuance.
   - Example: 그 사람이 의사**라면** 좋겠어요. (*If that person is a doctor, that would be great.*)
-# Examples in Context
+## Examples in Context
 ## Formal Situations
 1. **학생이라면 열심히 공부해야 합니다.**
    *If you are a student, you must study hard.*
@@ -59,7 +60,7 @@ Although **~라면** primarily attaches to nouns, it is often compared with othe
    *If you are a doctor, you will know that.*
 2. **가족이라면 도와줘야 해요.**
    *If you are family, you should help.*
-# Cultural Notes
+## Cultural Notes
 ## Politeness Levels
 Korean language has different speech levels to show respect or familiarity. When using **~라면**, the level of politeness is conveyed in the main clause ending.
 - **Formal Polite Ending**: **-습니다/ㅂ니다**, **-세요**
@@ -91,7 +92,7 @@ Korean language has different speech levels to show respect or familiarity. When
 ## Learning Strategies
 - **Practice with Nouns**: Since **~라면** is commonly used with nouns, start by forming sentences using familiar nouns.
 - **Understand Context**: Pay attention to whether a condition is hypothetical or likely; choose the appropriate conditional form accordingly.
-# Summary and Review
+## Summary and Review
 ## Key Takeaways
 - **~라면** is primarily used with nouns to express "if (it) is."
 - For verbs and adjectives, **~(으)면** and **~(는)다면** are the standard conditional forms.

@@ -1,6 +1,6 @@
 Processing keyword: ~든지 ~든지 [deunji deunji] (Either ... or)
 # Korean Grammar Point: ~든지 ~든지 [deunji deunji] (Either ... or)
-# Grammar Point: ~든지 ~든지 [deunji deunji] (Either ... or)
+
 ## 1. Introduction
 In Korean, expressing choices or alternatives is an essential part of conversation. The grammar pattern **~든지 ~든지** is used to indicate "either... or..." when presenting options. Mastering this pattern will enhance your ability to discuss preferences, possibilities, and choices in Korean.
 

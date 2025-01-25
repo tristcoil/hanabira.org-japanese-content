@@ -1,10 +1,11 @@
 Processing keyword: ~노릇이다 [noreusida] (Act as, function as)
 # Korean Grammar Point: ~노릇이다 [noreusida] (Act as, function as)
-# Introduction
+
+## Introduction
 In this lesson, we will explore the Korean grammar point **~노릇이다** (*noreusida*), which is used to express that someone or something acts as, functions as, or plays the role of something else. This expression often conveys inevitability or an expected outcome in a given situation. Understanding **~노릇이다** will enhance your ability to describe situations where certain results are unavoidable or where someone has to act in a particular way.
 
 ---
-# Core Grammar Explanation
+## Core Grammar Explanation
 ## Meaning
 **~노릇이다** means:
 - **"It's a situation where..."**
@@ -40,7 +41,7 @@ To form **~노릇이다**, follow these steps:
    - Add **-을**: **먹을**
    - Add **노릇이다**: **먹을 노릇이다** ("One has to eat")
 ---
-# Comparative Analysis
+## Comparative Analysis
 ### **~노릇이다** vs. **~어야 하다**
 While both expressions can indicate necessity or obligation:
 - **~노릇이다** focuses on the situation forcing someone to act in a certain way, often implying resignation or inevitability.
@@ -51,29 +52,34 @@ While both expressions can indicate necessity or obligation:
 2. **집에 돌아가야 한다.**
    - "I have to go back home." (Direct obligation)
 ---
-# Examples in Context
+## Examples in Context
 Let's look at some examples to see how **~노릇이다** is used in various contexts.
 ### Example 1
 **Sentence:** 시간이 없으니 택시를 탈 **노릇이에요**.
 **Translation:** Since there's no time, I have to take a taxi.
+
 ---
 ### Example 2
 **Sentence:** 그가 거짓말을 하니 믿기 어려울 **노릇입니다**.
 **Translation:** Since he lies, it's hard to believe him.
+
 ---
 ### Example 3
 **Sentence:** 비가 이렇게 많이 오면 행사를 취소할 **노릇이에요**.
 **Translation:** If it rains this much, we'll have to cancel the event.
+
 ---
 ### Example 4
 **Sentence:** 돈을 다 써버려서 이제는 걸어갈 **노릇이에요**.
 **Translation:** Having spent all the money, now I have to walk.
+
 ---
 ### Example 5 (Informal)
 **Sentence:** 일이 이렇게 꼬여서 정말 웃을 **노릇이야**.
 **Translation:** Things have gotten so tangled up; it's really laughable.
+
 ---
-# Cultural Notes
+## Cultural Notes
 ## Cultural Relevance
 In Korean culture, there's a strong emphasis on harmony, fate, and acceptance of circumstances. The use of **~노릇이다** often reflects a cultural attitude of acknowledging situations that are beyond one's control and responding appropriately.
 ## Levels of Politeness and Formality
@@ -91,7 +97,7 @@ In Korean culture, there's a strong emphasis on harmony, fate, and acceptance of
   - Literal: "It's a situation to go crazy."
   - Meaning: "It's driving me crazy."
 ---
-# Common Mistakes and Tips
+## Common Mistakes and Tips
 ## Common Mistakes
 1. **Using with adjectives instead of verbs**
    - **Incorrect:** *기쁜 노릇이다.*
@@ -105,7 +111,7 @@ In Korean culture, there's a strong emphasis on harmony, fate, and acceptance of
 - **Associate with Inevitability:** Remember that **~노릇이다** often implies that the situation leads to an inevitable action.
 - **Practice Set Phrases:** Familiarize yourself with common idiomatic expressions like **죽을 노릇이다** to understand nuanced meanings.
 ---
-# Summary and Review
+## Summary and Review
 ## Key Takeaways
 - **~노릇이다** is used to express that due to certain circumstances, a particular action is inevitable or someone has to act in a certain way.
 - It emphasizes resignation or acceptance of an unavoidable situation.

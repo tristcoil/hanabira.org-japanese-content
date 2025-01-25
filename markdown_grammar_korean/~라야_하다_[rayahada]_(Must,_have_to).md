@@ -1,10 +1,10 @@
 Processing keyword: ~라야 하다 [rayahada] (Must, have to)
 # Korean Grammar Point: ~라야 하다 [rayahada] (Must, have to)
-# ~라야 하다 [rayahada] (Must, Have to)
 
----
+
 ## 1. Introduction
 Expressing necessity or obligation is essential in any language. In Korean, the grammar point **~라야 하다** is used to convey the meaning of "must" or "have to." Learning how to use **~라야 하다** will enable you to express obligations and requirements effectively in Korean.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -92,12 +92,12 @@ The formation of **~라야 하다** depends on whether the verb stem ends with a
 2. Which form is more commonly used in daily conversation to express "must"?
    - A) ~라야 하다
    - B) ~아/어야 하다
+
 **Answers:**
 1. A) 읽으라야 하다
 2. B) ~아/어야 하다
 ---
 By understanding **~라야 하다**, you can enhance your ability to express obligations in Korean, especially in more formal contexts. Practice forming sentences using this grammar point to become more familiar with its usage.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

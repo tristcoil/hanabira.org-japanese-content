@@ -1,6 +1,6 @@
 Processing keyword: ~다는 것 [daneun geot] (The fact that)
 # Korean Grammar Point: ~다는 것 [daneun geot] (The fact that)
-# Grammar Point: ~다는 것 [daneun geot] (The fact that)
+
 ## 1. Introduction
 In Korean, the structure **~다는 것** is used to express "the fact that..." by turning a clause into a noun phrase. This nominalization allows speakers to discuss actions or states as concrete facts, emphasizing the information conveyed.
 

@@ -1,10 +1,9 @@
 Processing keyword: ~나 보다 [na boda] (Seems like, guess)
 # Korean Grammar Point: ~나 보다 [na boda] (Seems like, guess)
-# Understanding the Korean Grammar Point: ~나 보다 [na boda] (Seems like, Guess)
 
----
 ## 1. Introduction
 In Korean, expressing conjecture or making a guess based on evidence is a common aspect of daily communication. One such grammar structure that conveys this is **~나 보다**. This grammar point allows speakers to indicate that they *think* or *guess* something is the case, often based on indirect evidence or observation.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

@@ -1,6 +1,6 @@
 Processing keyword: ~는 법이다 [neun beopida] (Usually, always)
 # Korean Grammar Point: ~는 법이다 [neun beopida] (Usually, always)
-# ~는 법이다 [neun beopida] (It's natural that..., It's bound to...)
+
 ## 1. Introduction
 In Korean, expressing general truths or stating that something is natural or inevitable often involves specific grammatical structures. One such structure is **~는 법이다**. Understanding this grammar point will enhance your ability to convey inevitability or natural outcomes in Korean.
 

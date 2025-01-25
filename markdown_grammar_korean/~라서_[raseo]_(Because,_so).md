@@ -1,6 +1,6 @@
 Processing keyword: ~라서 [raseo] (Because, so)
 # Korean Grammar Point: ~라서 [raseo] (Because, so)
-# ~라서 [raseo] (Because, so)
+
 ## 1. Introduction
 In Korean, conveying reasons or causes is a fundamental part of communication. The grammar point **~라서** is a commonly used expression that means "because" or "since." It is specifically attached to nouns to explain the reason behind a particular situation or action.
 

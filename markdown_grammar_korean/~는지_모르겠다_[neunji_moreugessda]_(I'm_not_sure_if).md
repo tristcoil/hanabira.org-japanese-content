@@ -1,6 +1,6 @@
 Processing keyword: ~는지 모르겠다 [neunji moreugessda] (I'm not sure if)
 # Korean Grammar Point: ~는지 모르겠다 [neunji moreugessda] (I'm not sure if)
-# ~는지 모르겠다 [neunji moreugessda] (I'm not sure if)
+
 ## 1. Introduction
 In Korean, expressing uncertainty or not knowing about a particular fact or situation is essential for everyday communication. The grammar pattern **~는지 모르겠다** is used to convey "I'm not sure if..." or "I don't know whether...". Mastering this structure will enhance your ability to articulate doubt or uncertainty gracefully in Korean.
 
@@ -96,7 +96,6 @@ The structure varies slightly depending on whether you're using a verb, adjectiv
    **Answer:** 가게가 열었는지 모르겠어요.
 ---
 By incorporating **~는지 모르겠다** into your Korean conversations, you'll communicate uncertainty naturally and understand others better when they express doubt or lack of knowledge.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

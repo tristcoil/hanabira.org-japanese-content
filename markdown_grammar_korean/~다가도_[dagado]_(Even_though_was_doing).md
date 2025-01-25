@@ -1,10 +1,11 @@
 Processing keyword: ~다가도 [dagado] (Even though was doing)
 # Korean Grammar Point: ~다가도 [dagado] (Even though was doing)
-# Introduction
+
+## Introduction
 In Korean, the grammar pattern **~다가도** (pronounced *dagado*) is used to express an unexpected change or contrast in the middle of an action or state. It conveys the meaning of "even though (someone) was doing..." and highlights that something different happened contrary to what was ongoing.
 
 ---
-# Core Grammar Explanation
+## Core Grammar Explanation
 ## Meaning
 The pattern **~다가도** indicates that even though an action or state was in progress, there was an unexpected shift to another action or state. It emphasizes the contrast between what was happening and what actually occurred.
 - **Translation:** "Even though (subject) was doing..."
@@ -28,7 +29,7 @@ To form **~다가도**, attach **다가도** directly to the **verb stem**.
 - **Emphasizing Unpredictability:** Showing that outcomes can be different even when an action is consistently performed.
 - **Various Contexts:** Used in both spoken and written Korean across formal and informal settings.
 ---
-# Comparative Analysis
+## Comparative Analysis
 Understanding how **~다가도** differs from similar grammar patterns helps clarify its unique usage.
 ### Comparison with **~다가**
 - **~다가**
@@ -47,7 +48,7 @@ Understanding how **~다가도** differs from similar grammar patterns helps cla
 - **~다가도**
   - **Focuses:** On an unexpected change during the action itself rather than the outcome despite conditions.
 ---
-# Examples in Context
+## Examples in Context
 ## Example Sentences
 1. **Casual Spoken**
    - **Korean:** 아이들이 웃다가도 갑자기 울어요.
@@ -69,7 +70,7 @@ Understanding how **~다가도** differs from similar grammar patterns helps cla
 - **Weather Patterns:** Indicating unpredictable weather.
 - **Habits:** Showing inconsistency in actions or routines.
 ---
-# Cultural Notes
+## Cultural Notes
 ## Cultural Relevance
 - **Expressing Mood Swings:** Korean language often reflects subtle emotional changes; **~다가도** is commonly used to describe fluctuating emotions.
 - **Storytelling:** This pattern adds dramatic effect to narratives by highlighting unexpected twists.
@@ -82,7 +83,7 @@ Understanding how **~다가도** differs from similar grammar patterns helps cla
 - **웃다가도 울다:** "To laugh and then cry" – used to describe someone whose emotions change rapidly.
 - **믿었다가도 의심하다:** "Even though (I) believed, (I) doubt" – expressing uncertainty.
 ---
-# Common Mistakes and Tips
+## Common Mistakes and Tips
 ## Common Mistakes
 1. **Using with Non-Action Verbs Incorrectly**
    - *Incorrect:* 좋다가도 (with 좋다 - to be good)
@@ -95,7 +96,7 @@ Understanding how **~다가도** differs from similar grammar patterns helps cla
 - **Mnemonic Device:** Think of **다가도** as "While doing A, even so, B happens."
 - **Practice with Emotions:** Create sentences using verbs related to feelings to get accustomed to expressing contrasts.
 ---
-# Summary and Review
+## Summary and Review
 ## Key Takeaways
 - **~다가도** is used to express an unexpected change during an ongoing action.
 - Formed by attaching **다가도** to the verb stem.
@@ -115,8 +116,9 @@ Understanding how **~다가도** differs from similar grammar patterns helps cla
 2. **먹다가도**
 3. **b) 공부하다가도 잠이 와요.**
 ---
-# Conclusion
+## Conclusion
 Understanding **~다가도** enriches your ability to express unexpected contrasts and sudden changes in Korean. By practicing this pattern, you'll enhance both your comprehension and expression, making your Korean more natural and nuanced.
+
 ---
 Feel free to create your own sentences using **~다가도** to solidify your understanding. Happy learning!
 

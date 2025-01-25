@@ -1,10 +1,10 @@
 Processing keyword: ~기를 [gireul] (In order to)
 # Korean Grammar Point: ~기를 [gireul] (In order to)
-# Korean Grammar Lesson: **~기를** [gireul]
 
 ---
 ## 1. Introduction
 Welcome to today's lesson! We'll be exploring the Korean grammar point **~기를** [gireul], which is used to nominalize verbs and is often found in expressions related to desire, hope, requests, or intentions. Understanding **~기를** will help you express wishes or intentions more naturally in Korean.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -82,7 +82,6 @@ Using **~기를** in expressions conveys a polite and considerate tone. It's oft
 3. Verbs like **바라다** (to wish), **원하다** (to want), **기대하다** (to expect), **기도하다** (to pray).
 ---
 By understanding and practicing **~기를**, you'll be able to express your hopes and wishes more naturally in Korean. Keep practicing, and soon it'll become second nature!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

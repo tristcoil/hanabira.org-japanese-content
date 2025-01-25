@@ -1,6 +1,6 @@
 Processing keyword: ~다면 [damyeon] (If it is the case that)
 # Korean Grammar Point: ~다면 [damyeon] (If it is the case that)
-# ~다면 [damyeon] (If it is the case that)
+
 ## 1. Introduction
 The Korean grammar point **~다면** is used to express hypothetical conditions or situations that are unlikely or purely imaginary. It translates to "if it is the case that," "if," or "supposing that" in English. This structure allows speakers to discuss possibilities, aspirations, or conjectures.
 
@@ -116,7 +116,6 @@ In Korean culture, expressing humility and indirectness is important. Using **~�
 1. c) 살**다면**
 2. b) 내가 새라면 하늘을 날 거예요.
 3. False
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

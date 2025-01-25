@@ -1,6 +1,6 @@
 Processing keyword: ~라든지 [radeunji] (Or something)
 # Korean Grammar Point: ~라든지 [radeunji] (Or something)
-# ~라든지 [radeunji] (Or Something)
+
 ## 1. Introduction
 In Korean, the grammar point `~라든지` (pronounced *radeunji*) is used to provide examples among many possibilities. It is similar to saying "or things like," "such as," or "or something like that" in English. This expression helps indicate that there are various options or examples, and the list provided is not exhaustive.
 

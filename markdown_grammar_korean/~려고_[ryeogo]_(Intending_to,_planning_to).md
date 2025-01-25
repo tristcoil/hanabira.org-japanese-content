@@ -1,6 +1,6 @@
 Processing keyword: ~려고 [ryeogo] (Intending to, planning to)
 # Korean Grammar Point: ~려고 [ryeogo] (Intending to, planning to)
-# Understanding the Korean Grammar Point: ~(으)려고 [ryeogo] (Intending to, Planning to)
+
 ## 1. Introduction
 In Korean, expressing intentions or plans is essential for effective communication. The grammar pattern **~(으)려고** is commonly used to indicate that someone intends or plans to do something. This lesson will provide a detailed explanation of **~(으)려고**, including its formation, usage, and examples in various contexts.
 
@@ -31,18 +31,22 @@ The structure of **~(으)려고** depends on whether the verb stem ends with a v
 ## 3. Comparative Analysis
 ### ~(으)려고 vs. ~(으)러
 Both patterns are used to express purpose, but they have different usages:
+
 | Aspect                   | **~(으)려고**                           | **~(으)러**                               |
 |--------------------------|---------------------------------------|------------------------------------------|
 | Meaning                  | Intend to, plan to                    | In order to (purpose of going/coming)    |
 | Usage                    | With any action verbs                 | Only with movement verbs (가다, 오다, 다니다) |
 | Example                  | 책을 읽으려고 해요. <br> (I intend to read a book.) | 책을 읽으러 도서관에 가요. <br> (I go to the library to read a book.) |
+
 ### ~(으)려고 하다 vs. ~(으)려고
 - **~(으)려고 하다** adds a nuance of planning or considering, sometimes indicating uncertainty.
 - **~(으)려고** alone is a direct expression of intention.
+
 | Pattern                  | Example                                | Meaning                                 |
 |--------------------------|----------------------------------------|-----------------------------------------|
 | ~(으)려고                 | 한국에 가려고 비자를 신청했어요. <br> (I applied for a visa intending to go to Korea.) | Firm intention                          |
 | ~(으)려고 하다            | 한국에 가려고 해요. <br> (I am planning to go to Korea.)         | Plan or consideration                   |
+
 ---
 ## 4. Examples in Context
 ### Sentence Examples
@@ -122,7 +126,6 @@ Both patterns are used to express purpose, but they have different usages:
    **Answer:** True, but **~(으)러** is more commonly used specifically with movement verbs for purpose.
 ---
 By mastering **~(으)려고**, you'll be able to express your intentions and plans clearly in Korean, making your communication more effective and natural.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

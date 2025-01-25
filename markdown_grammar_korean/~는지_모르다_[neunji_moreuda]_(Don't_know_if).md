@@ -1,6 +1,6 @@
 Processing keyword: ~는지 모르다 [neunji moreuda] (Don't know if)
 # Korean Grammar Point: ~는지 모르다 [neunji moreuda] (Don't know if)
-# ~는지 모르다 [neunji moreuda] (Don't Know If)
+
 ## 1. Introduction
 In this lesson, we'll learn how to express uncertainty or not knowing whether something is true in Korean using the grammar pattern **~는지 모르다** [neunji moreuda], which translates to **"don't know if/whether"** in English.
 Understanding this grammar point will help you express doubts, ask indirect questions, and convey uncertainty in everyday conversations.

@@ -1,6 +1,6 @@
 Processing keyword: ~는 편이다 [neun pyeonida] (Tend to)
 # Korean Grammar Point: ~는 편이다 [neun pyeonida] (Tend to)
-# ~는 편이다 [neun pyeonida] (Tend to)
+
 ## 1. Introduction
 The grammar pattern **~는 편이다** is commonly used in Korean to express that someone or something "tends to" do something or "is rather" a certain way. It indicates a general tendency or inclination rather than an absolute statement.
 

@@ -1,6 +1,6 @@
 Processing keyword: ~네요 [neyo] (Express surprise)
 # Korean Grammar Point: ~네요 [neyo] (Express surprise)
-# ~네요 [neyo] (Express Surprise)
+
 ## 1. Introduction
 In Korean, the sentence ending **~네요** is commonly used to express surprise, admiration, or sudden realization upon noticing something for the first time. This grammar point adds a sense of spontaneity and personal reaction to statements, making conversations more lively and engaging.
 

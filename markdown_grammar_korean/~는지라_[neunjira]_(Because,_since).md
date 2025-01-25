@@ -1,5 +1,6 @@
 Processing keyword: ~는지라 [neunjira] (Because, since)
 # Korean Grammar Point: ~는지라 [neunjira] (Because, since)
+
 ## 1. Introduction
 In Korean, the grammatical ending **~는지라** (*neunjira*) is used to express a cause or reason, similar to "because" or "since" in English. This form is often found in formal writing, literature, or speeches, and adds a sophisticated tone to the sentence.
 
@@ -77,6 +78,7 @@ In Korean, the grammatical ending **~는지라** (*neunjira*) is used to express
 - **Literary Usage:** Understanding this form helps in reading Korean literature and formal texts, where such expressions are more prevalent.
 ### Idiomatic Expressions
 While **~는지라** itself may not be part of idiomatic expressions, its usage in proverbs or classical literature can enrich one's understanding of the language's nuances.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

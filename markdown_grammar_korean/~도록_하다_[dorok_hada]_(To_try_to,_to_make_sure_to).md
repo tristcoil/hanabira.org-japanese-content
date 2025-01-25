@@ -1,6 +1,6 @@
 Processing keyword: ~도록 하다 [dorok hada] (To try to, to make sure to)
 # Korean Grammar Point: ~도록 하다 [dorok hada] (To try to, to make sure to)
-# ~도록 하다 [dorok hada] (To try to, to make sure to)
+
 ## 1. Introduction
 The Korean grammar pattern **~도록 하다** is a versatile expression used to indicate making an effort to do something or ensuring that something happens. It often translates to **"to try to"** or **"to make sure to"** in English. This grammar point is essential for forming polite requests, giving instructions, or expressing one's determination to accomplish a task.
 

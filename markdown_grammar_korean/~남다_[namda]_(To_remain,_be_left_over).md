@@ -1,6 +1,6 @@
 Processing keyword: ~남다 [namda] (To remain, be left over)
 # Korean Grammar Point: ~남다 [namda] (To remain, be left over)
-# Korean Grammar Lesson: ~남다 [namda] (To Remain, Be Left Over)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean verb **남다 (namda)**, which translates to **"to remain"** or **"to be left over"** in English. This verb is commonly used to express situations where something is leftover, persists, or continues to exist after a certain point in time or after an action has occurred.
 

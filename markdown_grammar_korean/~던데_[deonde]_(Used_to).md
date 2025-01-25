@@ -1,8 +1,9 @@
 Processing keyword: ~던데 [deonde] (Used to)
 # Korean Grammar Point: ~던데 [deonde] (Used to)
-# 1. Introduction
+
+## 1. Introduction
 The Korean grammar point **~던데** [deonde] is a sentence-ending expression used to share past experiences or observations with a sense of reflection, surprise, or contrast. It often conveys that what the speaker observed in the past is somehow relevant to the current conversation. Understanding **~던데** is essential for intermediate learners aiming to express nuanced reflections on past events in Korean.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 **~던데** is used to:
 - Express the speaker's recollection of a past event or state.
@@ -26,7 +27,7 @@ Attach **~던데** to the verb or adjective stem:
 - **춥다** (to be cold) → **춥던데**
 - **먹다** (to eat) → **먹던데**
 - **학생이다** (to be a student) → **학생이던데**
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### ~는데 vs. ~던데
 | Grammar Point | Usage                                           | Example                                |
 |---------------|-------------------------------------------------|----------------------------------------|
@@ -34,7 +35,7 @@ Attach **~던데** to the verb or adjective stem:
 | **~던데**    | Past observation relevant to the present         | 어제 비가 오던데 오늘은 맑네요.          |
 - **~는데** provides background for current events.
 - **~던데** reflects on past events impacting the present.
-# 4. Examples in Context
+## 4. Examples in Context
 ### Informal Spoken Language
 1. **어제 가게에 사람이 많던데.**
    - *I noticed there were a lot of people at the store yesterday.*
@@ -50,13 +51,13 @@ Attach **~던데** to the verb or adjective stem:
 - **B:** 어제 보니까 단풍이 예쁘게 물들던데 좋을 것 같아요.
   - *A:* Shall we go hiking this weekend?
   - *B:* I noticed the leaves were beautifully colored yesterday; I think it'd be nice.
-# 5. Cultural Notes
+## 5. Cultural Notes
 ### Politeness Levels
 Using **~던데** can soften statements, making them sound less direct. It reflects Korean communication styles that value humility and indirectness, especially when offering suggestions or contrasting opinions.
 ### Idiomatic Expressions
 - **알고 보니 친구이던데.**
   - *It turned out (I found out) he was a friend.*
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Common Mistakes
 1. **Confusing ~던데 with ~는데**
    - **Incorrect:** 맛있는데 많이 드세요.
@@ -69,7 +70,7 @@ Using **~던데** can soften statements, making them sound less direct. It refle
 ### Tips
 - **Mnemonic Device:** Think of **~던데** as "I recall that..." to remind you it's about past observations.
 - **Remember:** **~던데** cannot be used for events the speaker did not personally experience.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~던데** is used to share past experiences or observations relevant to the present.
 - It attaches directly to verb or adjective stems.

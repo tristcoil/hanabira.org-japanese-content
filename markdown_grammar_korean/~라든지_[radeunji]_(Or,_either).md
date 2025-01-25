@@ -1,6 +1,6 @@
 Processing keyword: ~라든지 [radeunji] (Or, either)
 # Korean Grammar Point: ~라든지 [radeunji] (Or, either)
-# Understanding the Korean Grammar Point: ~라든지 [radeunji] (Or, Either)
+
 ## 1. Introduction
 In Korean, expressing options, examples, or possibilities within a sentence is essential for clear communication. The grammar point **~라든지** (*radeunji*) is used to list multiple examples or choices, similar to "or", "either", or "such as" in English. Mastering **~라든지** will enable you to convey alternatives and broaden the context of your statements, making your Korean sound more natural and expressive.
 

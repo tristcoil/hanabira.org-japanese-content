@@ -1,10 +1,10 @@
 Processing keyword: ~나마저 [namajeo] (Even)
 # Korean Grammar Point: ~나마저 [namajeo] (Even)
-# Korean Grammar Lesson: ~나마저 [namajeo] (Even)
 
 ---
 ## 1. Introduction
 In Korean, the expression **~나마저** is used to emphasize that even the last remaining option or least expected subject is included in a situation, often highlighting a sense of frustration, disappointment, or inevitability. This grammar point combines **~나** (even) with **마저** (also, even), intensifying the inclusion of something unexpected.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -42,10 +42,12 @@ The structure of **~나마저** varies slightly depending on whether it is attac
 ## 3. Comparative Analysis
 ### Comparing **~나마저** with **~조차**
 - **~나마저** and **~조차** both mean **"even"**, but there are subtle differences.
+
 | Grammar Point | Usage                                    | Nuance                                      |
 |---------------|------------------------------------------|---------------------------------------------|
 | ~나마저       | Emphasizes inclusion of the last option  | Stronger sense of disappointment            |
 | ~조차         | Indicates inclusion of an extreme case   | Can be neutral or negative                  |
+
 **Example**:
 - **밥조차 못 먹었어요.**
   - *I couldn't even eat rice.*
@@ -118,7 +120,6 @@ The structure of **~나마저** varies slightly depending on whether it is attac
 2. **b) Even hope has disappeared.**
 ---
 By understanding and practicing **~나마저**, you can express nuanced emotions and situations where even the last expected outcome occurs.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

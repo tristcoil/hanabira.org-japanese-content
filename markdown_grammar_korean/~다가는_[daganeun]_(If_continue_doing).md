@@ -1,10 +1,9 @@
 Processing keyword: ~다가는 [daganeun] (If continue doing)
 # Korean Grammar Point: ~다가는 [daganeun] (If continue doing)
-# Grammar Lesson: ~다가는 [daganeun] (If you continue doing...)
 
----
 ## 1. Introduction
 In Korean, the expression **~다가는** is used to warn that if a certain action continues, a negative outcome will occur. It conveys a sense of caution about the potential consequences of ongoing behavior.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

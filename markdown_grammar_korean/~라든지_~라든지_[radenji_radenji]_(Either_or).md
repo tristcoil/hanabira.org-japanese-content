@@ -1,10 +1,11 @@
 Processing keyword: ~라든지 ~라든지 [radenji radenji] (Either or)
 # Korean Grammar Point: ~라든지 ~라든지 [radenji radenji] (Either or)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, expressing choices or alternatives is essential for everyday conversation. The grammar point **~라든지 ~라든지** [radenji radenji] is used to list examples among various options, similar to "either... or..." or "such as... and..." in English. This structure helps convey flexibility or multiple possibilities without specifying all options.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The construction **~라든지 ~라든지** is used to:
 - List multiple examples among possible options.
@@ -46,7 +47,7 @@ For **nouns**:
 | Noun (with 받침)   | ~이라든지 | 집**이라든지**   |
 | Noun (no 받침)| ~라든지       | 학교**라든지**   |
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## Comparing **~라든지 ~라든지** with **~거나 ~거나**
 While both structures are used to list options, there are nuances:
 - **~거나 ~거나**: Simply lists options, equivalents to "or" in English.
@@ -57,7 +58,7 @@ While both structures are used to list options, there are nuances:
 - **~거나**: Direct choices between options.
 - **~라든지**: Examples among many possibilities; less exhaustive.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Formal Speech
 1. **회의에서 새로운 아이디어를 제안한다든지 문제점을 논의한다든지 해야 합니다.**
    - *We need to either propose new ideas or discuss issues in the meeting.*
@@ -81,7 +82,7 @@ While both structures are used to list options, there are nuances:
 2. **스트레스 받을 때는 운동한다든지 음악을 듣는다든지 해봐.**
    - *When you're stressed, try exercising or listening to music.*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Politeness Levels
 - Using **~라든지 ~라든지** is appropriate in both formal and informal contexts.
 - Adjust the sentence endings to match the appropriate politeness level.
@@ -90,7 +91,7 @@ While both structures are used to list options, there are nuances:
   - **예시**: 사람들이 뭐라든지 간에 나는 내 길을 간다.
     - *No matter what people say, I go my own way.*
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Using ~거나 instead of ~라든지 when listing examples among possibilities.**
    - **Incorrect**: 책을 읽거나 영화를 본다.
@@ -105,7 +106,7 @@ While both structures are used to list options, there are nuances:
 ## Mnemonic Device
 - **"라든지 lists like legends"**: Think of **"라든지"** as listing legendary options among many.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~라든지 ~라든지** is used to list examples among many possibilities.
 - It can be used with verbs and nouns.

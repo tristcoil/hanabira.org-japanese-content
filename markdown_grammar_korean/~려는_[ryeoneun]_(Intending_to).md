@@ -1,10 +1,9 @@
 Processing keyword: ~려는 [ryeoneun] (Intending to)
 # Korean Grammar Point: ~려는 [ryeoneun] (Intending to)
-# **Understanding the Korean Grammar Point: ~려는 (~ryeoneun) (Intending to)**
 
----
 ## 1. Introduction
 The Korean grammar point **~려는 (~ryeoneun)** is used to express **intention** or an action that someone is **about to do**. It translates to "intending to" or "about to" in English. This grammar is commonly used to describe a future action that the subject plans or intends to perform.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -22,6 +21,7 @@ The structure involves attaching **~려는 (~ryeoneun)** to the verb stem.
 동사(Verb) + 려는
 ```
 ### Visual Aid: Conjugation Table
+
 | Verb (Dictionary Form) | Verb Stem | + 려는 | Result |
 |------------------------|-----------|--------|--------|
 | 가다 (to go)           | 가        | 려는   | 가려는 |
@@ -29,7 +29,9 @@ The structure involves attaching **~려는 (~ryeoneun)** to the verb stem.
 | 읽다 (to read)         | 읽        | 려는   | 읽으려는 |
 | 만나다 (to meet)       | 만나      | 려는   | 만나려는 |
 | 하다 (to do)           | 하        | 려는   | 하려는 |
+
 **Note:** For verbs with stems ending in a consonant, often **-으려는 (-euryeoneun)** is used for ease of pronunciation.
+
 ---
 ## 3. Comparative Analysis
 ### Comparing **~려는** with **~려고 하다 (~ryeogo hada)**

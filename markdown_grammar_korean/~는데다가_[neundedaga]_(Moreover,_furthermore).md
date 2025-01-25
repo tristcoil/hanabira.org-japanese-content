@@ -1,6 +1,6 @@
 Processing keyword: ~는데다가 [neundedaga] (Moreover, furthermore)
 # Korean Grammar Point: ~는데다가 [neundedaga] (Moreover, furthermore)
-# ~는데다가 (neunde daga) - "Moreover", "Furthermore"
+
 ## 1. Introduction
 The Korean grammar pattern **~는데다가** (*~neunde daga*) is used to express the addition of information, emphasizing that one action or state is compounded by another. It can be translated as **"Moreover,"** **"Furthermore,"** or **"On top of that."** This pattern allows speakers to seamlessly connect related ideas, highlighting the cumulative effect of multiple circumstances.
 
@@ -82,6 +82,7 @@ In Korean, connecting clauses to show the accumulation of circumstances reflects
 - Adjust the politeness level by changing the sentence endings, not the grammar pattern itself.
 ### Idiomatic Expressions
 While there are no specific idioms that include **~는데다가**, it's commonly used in daily conversation to emphasize additional points.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

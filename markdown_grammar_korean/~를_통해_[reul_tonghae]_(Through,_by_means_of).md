@@ -1,6 +1,6 @@
 Processing keyword: ~를 통해 [reul tonghae] (Through, by means of)
 # Korean Grammar Point: ~를 통해 [reul tonghae] (Through, by means of)
-# ~를 통해 [reul tonghae] (Through, by means of)
+
 ## 1. Introduction
 In Korean, the grammar point **~를 통해** is used to express the means or method by which something is achieved. It translates to **"through"** or **"by means of"** in English. This expression is essential for indicating the medium, process, or way something happens or is done.
 
@@ -23,13 +23,16 @@ The structure involves attaching **~를 통해** to a noun to indicate that the 
 ---
 ## 3. Comparative Analysis
 ### Similar Grammar Points
+
 | Grammar Point        | Usage                                     | Nuance                                                         |
 |----------------------|-------------------------------------------|----------------------------------------------------------------|
 | **~로(서)**          | As, in the capacity of                    | Indicates a role or position.                                  |
 | **~로 인해**         | Because of, due to                        | Expresses cause or reason for something, often negative.       |
 | **~을/를 통해(서)**    | Through, by means of                      | Similar to **~를 통해**, **통해서** adds emphasis but is interchangeable. |
 | **~에 의해**         | By, due to                                | Used to indicate the agent in passive sentences.               |
+
 **Note**: While **~를 통해** and **~에 의해** can both be translated as "by," **~를 통해** emphasizes the means or medium, whereas **~에 의해** focuses on the agent or cause in passive constructions.
+
 ---
 ## 4. Examples in Context
 ### Formal Context
@@ -89,7 +92,6 @@ In Korean culture, emphasizing the means or medium through which information or 
 1. **우리는 경험**을 통해** 많은 것을 배울 수 있다.**
 2. **False**. They have different usages and are not always interchangeable.
 3. **그녀는 연습**을 통해** 자신감을 얻었다.**
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

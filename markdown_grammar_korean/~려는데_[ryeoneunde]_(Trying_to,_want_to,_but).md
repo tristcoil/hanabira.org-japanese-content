@@ -1,10 +1,9 @@
 Processing keyword: ~려는데 [ryeoneunde] (Trying to, want to, but)
 # Korean Grammar Point: ~려는데 [ryeoneunde] (Trying to, want to, but)
-# Korean Grammar Lesson: **~려는데** ([ryeoneunde]) - *Trying to, want to, but*
 
----
 ## 1. Introduction
-Welcome to today's lesson on the Korean grammar point **~려는데**. This grammatical structure is essential for expressing intentions or plans that are met with contrasting situations or unexpected events. It allows speakers to convey their purpose followed by a "but" clause, providing context or reasons for the ensuing action or question. Mastering **~려는데** will enhance your ability to articulate plans and explain circumstances in everyday Korean conversation.
+**~려는데** grammatical structure is essential for expressing intentions or plans that are met with contrasting situations or unexpected events. It allows speakers to convey their purpose followed by a "but" clause, providing context or reasons for the ensuing action or question. Mastering **~려는데** will enhance your ability to articulate plans and explain circumstances in everyday Korean conversation.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

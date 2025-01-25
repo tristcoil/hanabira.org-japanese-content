@@ -1,6 +1,6 @@
 Processing keyword: ~는 대로 [neun daero] (As is, the way it is)
 # Korean Grammar Point: ~는 대로 [neun daero] (As is, the way it is)
-# Grammar Point: ~는 대로 [neun daero]
+
 ## 1. Introduction
 In Korean, the expression **~는 대로 [neun daero]** is used to indicate doing something "as" or "just as" something else happens or is done. It can express actions happening immediately after another or doing something in the same manner as something else.
 

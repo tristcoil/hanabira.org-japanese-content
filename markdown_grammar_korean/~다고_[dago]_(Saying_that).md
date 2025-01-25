@@ -1,6 +1,6 @@
 Processing keyword: ~다고 [dago] (Saying that)
 # Korean Grammar Point: ~다고 [dago] (Saying that)
-# ~다고 [dago] (Saying that)
+
 ## 1. Introduction
 In Korean, indirect speech is commonly used to report what someone said without quoting them directly. The grammar ending **~다고** is used to express indirect statements, equivalent to "saying that" or "it is said that" in English. Mastering **~다고** is essential for effective communication in Korean, especially when relaying information.
 

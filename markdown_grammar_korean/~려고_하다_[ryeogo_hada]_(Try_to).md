@@ -1,10 +1,9 @@
 Processing keyword: ~려고 하다 [ryeogo hada] (Try to)
 # Korean Grammar Point: ~려고 하다 [ryeogo hada] (Try to)
-# ~려고 하다 (~ryeogo hada) (Try to, Intend to)
 
----
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~려고 하다** (~ryeogo hada), which is used to express intentions, plans, or attempts to do something. Mastering this grammar will help you communicate your future actions and intentions naturally in Korean.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning and Usage
@@ -18,10 +17,12 @@ It translates to "to try to," "to plan to," "to intend to," or "to be about to" 
 #### Formation
 Attach **~려고 하다** to the verb stem. The form changes slightly depending on whether the verb stem ends with a vowel or a consonant.
 **Formation Diagram:**
+
 | Verb Stem Ending | Attach                   | Example Verb | Conjugated Form      |
 |------------------|--------------------------|--------------|----------------------|
 | Vowel            | **-려고 하다**          | 가다 (to go) | 가**려고 하다**     |
 | Consonant        | **-으려고 하다**        | 먹다 (to eat)| 먹**으려고 하다**   |
+
 **Note:** If the verb stem ends with a vowel, simply add **-려고 하다**. If it ends with a consonant, add **-으려고 하다**.
 ### Conjugation Examples
 You can conjugate **하다** in **~려고 하다** to match the tense and politeness level.

@@ -1,10 +1,11 @@
 Processing keyword: ~든지 [deunji] (Whether or)
 # Korean Grammar Point: ~든지 [deunji] (Whether or)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we will explore the Korean grammar point **~든지** (*[deunji]*) which translates to "whether... or" in English. This grammar structure is used to present options or possibilities and is commonly used in everyday Korean conversations.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 **~든지** is used to:
 - Indicate that any option among the listed ones is acceptable.
@@ -29,7 +30,7 @@ The structure of **~든지** varies depending on whether it is attached to verbs
 | Noun (consonant ending) | (이)든지 | 책           | 책이든지      |
 | Noun (vowel ending) | 든지    | 물           | 물든지        |
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## Comparison with **~거나**
 - **~거나** also means "or" and is used to list alternatives.
 - **Difference:**
@@ -38,7 +39,7 @@ The structure of **~든지** varies depending on whether it is attached to verbs
   - **~든지** can convey that any of the options is acceptable or that it doesn't matter.
     - Example: 먹든지 마시든지 하세요. (Whether you eat or drink, do as you like.)
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Example Sentences
 1. **Formal Polite (존댓말)**
    - **한국어를 배우든지 일본어를 배우든지 도움이 될 거예요.**
@@ -61,7 +62,7 @@ The structure of **~든지** varies depending on whether it is attached to verbs
      - *Piryohan geo isseumyeon eonjedeunji malsseumhaseyo.*
      - If you need anything, please say so anytime.
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, indirectness is often preferred over direct statements. Using **~든지** allows the speaker to present options without imposing a choice, respecting the listener's autonomy.
 ## Politeness and Formality
@@ -74,7 +75,7 @@ In Korean culture, indirectness is often preferred over direct statements. Using
 - **누구든지** - anyone
 These expressions are commonly used in daily conversations.
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Mixing with ~거나 Incorrectly**
    - Incorrect: **시간이 있거나 없거나 연락주세요.**
@@ -88,7 +89,7 @@ These expressions are commonly used in daily conversations.
 - **Mnemonic Device:** Think of **~든지** as "doesn't matter which one"; both options "doonjee" (rhymes with "dun gee") are acceptable.
 - **Practice:** Create sentences using **언제든지**, **어디든지**, **무엇이든지**, **누구든지** to become familiar with common expressions.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~든지** is used to present options or possibilities, meaning "whether... or" or "no matter if... or".
 - It can be attached to verbs, adjectives, and nouns (with proper endings).

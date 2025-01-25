@@ -1,6 +1,6 @@
 Processing keyword: ~네요 [neyo] (Expressing surprise)
 # Korean Grammar Point: ~네요 [neyo] (Expressing surprise)
-# ~네요 [neyo] (Expressing Surprise)
+
 ## 1. Introduction
 The Korean ending **~네요** is a versatile expression used frequently in everyday conversation. It allows the speaker to express surprise, admiration, realization, or discovery upon noticing something new or unexpected. Understanding how to use **~네요** can make your Korean sound more natural and can help you convey emotions more effectively.
 ## 2. Core Grammar Explanation
@@ -131,7 +131,6 @@ Some common expressions using **~네요**:
 
 ---
 By understanding and practicing the use of **~네요**, you can enhance your Korean language skills and express your reactions more naturally. Remember to pay attention to the context and use this expression to share your immediate impressions!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

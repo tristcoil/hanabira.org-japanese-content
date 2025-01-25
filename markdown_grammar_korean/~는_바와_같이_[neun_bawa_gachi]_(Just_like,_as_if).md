@@ -1,6 +1,6 @@
 Processing keyword: ~는 바와 같이 [neun bawa gachi] (Just like, as if)
 # Korean Grammar Point: ~는 바와 같이 [neun bawa gachi] (Just like, as if)
-# ~는 바와 같이 [neun bawa gachi] (Just like, as if)
+
 ## 1. Introduction
 In Korean, expressing comparisons or highlighting similarities between actions and situations is essential for clear communication. The grammar point **~는 바와 같이** translates to **"just like"** or **"as if"** in English. It is primarily used in formal contexts to draw parallels or reference previously mentioned information.
 
@@ -69,6 +69,7 @@ The structure involves attaching **~는 바와 같이** to the verb stem.
 #### Example 5: Casual Conversation
 *네가 본 바와 같이, 상황이 복잡해.*  
 *Just like you saw, the situation is complicated.*
+
 ---
 ## 5. Cultural Notes
 ### Politeness and Formality

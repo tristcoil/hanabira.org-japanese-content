@@ -1,6 +1,6 @@
 Processing keyword: ~내내 [naenae] (Throughout, the whole time)
 # Korean Grammar Point: ~내내 [naenae] (Throughout, the whole time)
-# ~내내 [naenae] (Throughout, The Whole Time)
+
 ## 1. Introduction
 In Korean, the suffix **~내내** is used to express the idea of "throughout" or "the whole time." When attached to nouns, it emphasizes that an action or state continues without interruption over a certain period or within a specific place.
 
@@ -127,7 +127,7 @@ A[Noun (Time/Place)] --> B[내내]
 3. **Translate to Korean**: "I was busy throughout the week."
    - **Answer**: *일주일 내내 바빴어요.*
 ---
-# **Congratulations!** You have learned how to use **~내내** to express continuous actions or states in Korean. Remember to attach it directly to nouns and adjust your verb endings to match the appropriate level of politeness.
+**Congratulations!** You have learned how to use **~내내** to express continuous actions or states in Korean. Remember to attach it directly to nouns and adjust your verb endings to match the appropriate level of politeness.
 
 ---
 © [Hanabira.org](https://hanabira.org)

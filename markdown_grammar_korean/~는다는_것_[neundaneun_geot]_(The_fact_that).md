@@ -1,8 +1,9 @@
 Processing keyword: ~는다는 것 [neundaneun geot] (The fact that)
 # Korean Grammar Point: ~는다는 것 [neundaneun geot] (The fact that)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, expressing factual statements or emphasizing the content of a statement often requires specific grammatical structures. One such structure is **~는다는 것** (neundaneun geot), which translates to **"the fact that"** in English. This grammar point is essential for conveying information, reporting statements, or highlighting facts in conversations and writing.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning and Usage
 **~는다는 것** is used to nominalize a verb clause, turning it into a noun phrase that expresses **"the fact that [someone does/said] something."** It emphasizes the content of the action or statement as a fact or piece of information.
 ## Structure and Formation
@@ -36,7 +37,7 @@ For **Descriptive Verbs (Adjectives)**:
 3. **Descriptive Verb**:
    - **아니다** (to not be) → 아니 + **다는 것** → **아니다는 것**
    - *The fact that [something] is not*
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### **Comparison with ~는다고**
 - **~는다고** is used to quote statements or thoughts directly (indirect quotation).
   - Example: 그는 내일 온다고 했어요. (*He said he will come tomorrow.*)
@@ -47,7 +48,7 @@ For **Descriptive Verbs (Adjectives)**:
   - Example: 걷는 것 (*Walking* or *the act of walking*)
 - **~는다는 것** adds emphasis on the content of the statement as a fact.
   - Example: 걷는다는 것은 건강에 좋아요. (*The fact that you walk is good for your health.*)
-# 4. Examples in Context
+## 4. Examples in Context
 ## Sentence Examples
 ### **Formal Written**
 1. **환경이 중요하다는 것은 모두가 알고 있습니다.**
@@ -79,7 +80,7 @@ For **Descriptive Verbs (Adjectives)**:
 - **Reporting Information:**
   - **신문에서 새로운 법이 시행된다는 것을 읽었어.**
     - *I read in the newspaper that a new law is being implemented.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 Understanding and using **~는다는 것** reflects a learner's ability to convey complex ideas and factual statements, which is important in Korean communication, especially in formal contexts.
 ## Levels of Politeness and Formality
@@ -94,7 +95,7 @@ Adjusting the ending of the sentence after **~는다는 것** helps match the ap
 - **...다는 것은 말할 것도 없다**: "It goes without saying that..."
   - **노력 없이 성공한다는 것은 말할 것도 없어.**
     - *It goes without saying that success without effort is impossible.*
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Using the Wrong Attachment with Verb Stems:**
    - Incorrect: 먹다 → 먹 + **ㄴ다는 것** → **먹ㄴ다는 것**
@@ -110,7 +111,7 @@ Adjusting the ending of the sentence after **~는다는 것** helps match the ap
   - If it ends with a consonant, use **는다는 것**.
 - **Practice with Common Verbs:**
   - Make sentences using frequently used verbs to become comfortable with the pattern.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~는다는 것** is used to express **"the fact that..."** with action verbs.
 - It emphasizes the content of a statement as a fact or important information.

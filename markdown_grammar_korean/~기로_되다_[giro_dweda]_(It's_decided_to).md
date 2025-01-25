@@ -1,6 +1,6 @@
 Processing keyword: ~기로 되다 [giro dweda] (It's decided to)
 # Korean Grammar Point: ~기로 되다 [giro dweda] (It's decided to)
-# Lesson: ~기로 되다 [giro dweda] (It's decided to)
+
 ## 1. Introduction
 In Korean, expressing decisions, plans, or scheduled events often involves specific grammar patterns. One such pattern is **~기로 되다**, which conveys that something has been decided or arranged, typically by external factors or authorities rather than by the speaker themselves.
 

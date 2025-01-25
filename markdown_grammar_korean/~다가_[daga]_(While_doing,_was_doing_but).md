@@ -1,10 +1,10 @@
 Processing keyword: ~다가 [daga] (While doing, was doing but)
 # Korean Grammar Point: ~다가 [daga] (While doing, was doing but)
-# Grammar Point: ~다가 [daga] (While doing, was doing but)
 
----
+
 ## 1. Introduction
 The Korean grammar point **~다가** is used to express that an action was interrupted by another action. It often translates to "while doing," "on the way to," or "was doing but" in English. This grammar structure is essential for describing scenarios where one action is in progress and then another action occurs, causing an interruption.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -105,7 +105,6 @@ The use of **~다가** itself does not inherently carry a level of politeness. P
    - **Answer**: **공부하다가 잠들었어요.**
 3. **What's the difference between ~다가 and ~면서?**
    - **Answer**: **~다가** implies an interruption; **~면서** indicates simultaneous actions.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

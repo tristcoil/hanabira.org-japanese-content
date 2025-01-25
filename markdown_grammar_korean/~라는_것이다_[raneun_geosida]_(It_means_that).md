@@ -1,8 +1,9 @@
 Processing keyword: ~라는 것이다 [raneun geosida] (It means that)
 # Korean Grammar Point: ~라는 것이다 [raneun geosida] (It means that)
-# 1. Introduction
+
+## 1. Introduction
 The Korean grammar point **~라는 것이다** (pronounced *raneun geosida*) is commonly used to clarify or explain the meaning of something previously mentioned. It functions similarly to the English phrases **"It means that..."** or **"What (someone) is saying is that..."**. Understanding this expression is essential for comprehending explanations and definitions in Korean conversations and texts.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 **~라는 것이다** is used to:
 - **Clarify or restate** what has been said.
@@ -30,7 +31,7 @@ Simplified, it becomes:
 Suppose we have the verb **말하다** (to speak/say):
 1. **말하다** → **말라고 하는 것이다** → **말라는 것이다**
 But typically, we attach **~라는 것이다** directly to the clause we want to explain.
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Similar Grammar Points
 - **~다는 것이다**: Used similarly but often with statements rather than definitions.
 - **~이라는 것이다**: Used when defining nouns.
@@ -38,7 +39,7 @@ But typically, we attach **~라는 것이다** directly to the clause we want to
 - **~라는 것이다** is often used with verbs and adjectives to explain actions or descriptions.
 - **~이라는 것이다** is used with nouns.
 - **~다는 것이다** can be used more generally but may not carry the same emphasis on definition or clarification.
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example 1: Definition
 **Sentence:**
 - 행복이란 마음의 상태라는 것이다.
@@ -79,7 +80,7 @@ But typically, we attach **~라는 것이다** directly to the clause we want to
 - "Life doesn't go as planned."
 **Explanation:**
 - General statement about life, using **~라는 것이다** for emphasis.
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Politeness Levels
 - The use of **~라는 것이다** can be adjusted for formality:
   - **~라는 것입니다**: Formal polite
@@ -88,14 +89,14 @@ But typically, we attach **~라는 것이다** directly to the clause we want to
 ## Idiomatic Expressions
 - **사람은 변하지 않는다는 것이다**: "It means that people don't change."
   - Common saying reflecting a cultural view on human nature.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Confusing with Direct Speech**: Using **~라고 한다** instead of **~라는 것이다** when the intent is to explain or define.
 2. **Misplacement**: Incorrectly positioning **~라는 것이다** in the sentence structure.
 ## Tips
 - **Mnemonic Device**: Remember that **~라는 것이다** is like saying **"What that is, is..."** in English.
 - **Practice**: Create sentences defining words or concepts you learn using **~라는 것이다** to become comfortable with its usage.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~라는 것이다** is used to **define, explain, or clarify** a preceding statement.
 - It combines the **indirect quotation** with **것이다** to express "It means that..."

@@ -1,6 +1,6 @@
 Processing keyword: ~는지 알다 [neunji alda] (Know if)
 # Korean Grammar Point: ~는지 알다 [neunji alda] (Know if)
-# ~는지 알다 [neunji alda] (Know if)
+
 ## 1. Introduction
 In Korean, expressing whether you know or don't know a piece of information is essential for everyday communication. The grammar pattern **~는지 알다** is commonly used to convey the meaning of "knowing if" or "knowing whether" something is the case.
 

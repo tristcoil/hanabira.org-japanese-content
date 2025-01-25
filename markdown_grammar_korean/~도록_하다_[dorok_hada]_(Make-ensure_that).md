@@ -1,6 +1,6 @@
 Processing keyword: ~도록 하다 [dorok hada] (Make/ensure that)
 # Korean Grammar Point: ~도록 하다 [dorok hada] (Make/ensure that)
-# ~도록 하다 [dorok hada] (Make/Ensure That)
+
 ## 1. Introduction
 In Korean, **~도록 하다** is a versatile grammar structure used to instruct, suggest, or ensure that an action is carried out. It's a helpful expression for giving advice, making recommendations, or setting rules. This lesson will delve into the usage of **~도록 하다**, helping you incorporate it naturally into your Korean conversations.
 
@@ -40,10 +40,12 @@ To form this expression:
 While both expressions are used to make someone do something, they have subtle differences.
 - **~도록 하다:** Focuses on ensuring an action is done; more about suggestion or instruction.
 - **~게 하다:** Implies causing or allowing someone to do something; can indicate permission or making someone do something.
+
 | Grammar Point | Usage                                 | Example                                             |
 |---------------|---------------------------------------|-----------------------------------------------------|
 | ~도록 하다     | Suggesting/Ensuring an action         | 일찍 일어나도록 하세요. <br>*Make sure to wake up early.* |
 | ~게 하다       | Making/Letting someone do something   | 아이를 놀게 했어요. <br>*I let the child play.*              |
+
 ---
 ## 4. Examples in Context
 ### Formal Situations
@@ -110,7 +112,9 @@ While both expressions are used to make someone do something, they have subtle d
    <details><summary>Answer</summary>False. It is typically used with action verbs.</details>
 3. **Translate to Korean:** "Let's make sure not to forget."
    <details><summary>Answer</summary>잊지 않도록 하자.</details>
+
 ---
+
 By mastering **~도록 하다**, you'll enhance your ability to give considerate advice and instructions in Korean, reflecting both linguistic accuracy and cultural awareness.
 
 ---

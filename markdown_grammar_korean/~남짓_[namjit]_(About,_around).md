@@ -1,6 +1,6 @@
 Processing keyword: ~남짓 [namjit] (About, around)
 # Korean Grammar Point: ~남짓 [namjit] (About, around)
-# Lesson: ~남짓 [namjit] (About, Around)
+
 ## 1. Introduction
 In Korean, expressing approximate quantities is common in daily conversations. One such grammar point used to indicate "about" or "around" a certain number is **~남짓 (namjit)**. Understanding how to use ~남짓 will help you describe approximate amounts or durations more naturally in Korean.
 
@@ -54,6 +54,7 @@ In Korean culture, being precise can sometimes be seen as blunt or unnecessary i
 - The overall politeness is adjusted using appropriate verb endings and honorifics.
 ### Idiomatic Expressions
 While **~남짓** is not part of an idiom, it's commonly used in combination with time expressions and quantities in everyday language.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
