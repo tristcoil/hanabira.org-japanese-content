@@ -13,7 +13,7 @@ updated
 - grammar_ja_N1_full_alphabetical_0001.json with proofreadings - whole file
 
 - grammar_kr_KOREAN_1_0001.json with proofreadings - whole file
-
+- grammar_kr_KOREAN_2_0001.json with proofreadings - whole file
 
 
 - Japanese grammar markdown proofreading - full content
