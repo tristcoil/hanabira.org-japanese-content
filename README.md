@@ -17,6 +17,7 @@ updated
 - grammar_kr_KOREAN_3_0001.json with proofreadings - whole file
 - grammar_kr_KOREAN_4_0001.json with proofreadings - whole file
 - grammar_kr_KOREAN_5_0001.json with proofreadings - whole file
+- grammar_kr_KOREAN_6_0001.json with proofreadings - whole file
 
 - Japanese grammar markdown proofreading - full content
 
