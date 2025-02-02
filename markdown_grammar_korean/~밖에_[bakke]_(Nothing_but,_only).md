@@ -1,8 +1,10 @@
 Processing keyword: ~밖에 [bakke] (Nothing but, only)
 # Korean Grammar Point: ~밖에 [bakke] (Nothing but, only)
-# Introduction
+
+## Introduction
 In Korean, expressing limitations or emphasizing that only a certain amount or type of something exists is common in daily conversation. One such grammar point that conveys this meaning is **~밖에** [bakke], which translates to "**nothing but**" or "**only**" in English. This lesson will explore how to use **~밖에** to express exclusivity and limitation in Korean sentences.
-# Core Grammar Explanation
+
+## Core Grammar Explanation
 ## Meaning of ~밖에 [bakke]
 **~밖에** is attached to nouns to indicate that there is nothing else except what is mentioned. It emphasizes that only the specified item or amount is available, often implying that it is insufficient or less than expected.
 - **Translation:** nothing but, only
@@ -23,7 +25,8 @@ In Korean, expressing limitations or emphasizing that only a certain amount or t
   - **저는 물** (I water) - Subject and noun
   - **밖에** (except) - Particle indicating "nothing but"
   - **안 마셔요** (do not drink) - Negative verb form
-# Comparative Analysis
+
+## Comparative Analysis
 ## ~만 [man] vs. ~밖에 [bakke]
 Both **~만** and **~밖에** can be used to express "only," but there are nuances:
 | Aspect            | **~만**                                     | **~밖에**                                  |
@@ -36,7 +39,8 @@ Both **~만** and **~밖에** can be used to express "only," but there are nuanc
   _I have only five minutes._ (Neutral statement)
 - **시간이 5분밖에 없어요.**  
   _I have only five minutes (and it's not enough)._ (Emphasizes limitation)
-# Examples in Context
+
+## Examples in Context
 ## Example Sentences
 1. **친구가 한 명밖에 없어요.**  
    _I have only one friend._
@@ -55,7 +59,8 @@ Both **~만** and **~밖에** can be used to express "only," but there are nuanc
 - **Formal:**  
   **죄송하지만 현금밖에 안 받습니다.**  
   _Sorry, but we accept only cash._
-# Cultural Notes
+
+## Cultural Notes
 ## Cultural Relevance
 In Korean culture, modesty and humility are valued traits. Using **~밖에** can subtly express that what one has is minimal or insufficient, aligning with the cultural tendency to downplay one's possessions or abilities.
 ## Levels of Politeness and Formality
@@ -71,7 +76,8 @@ While **~밖에** itself doesn't change formality levels, the verb endings and c
   _There's nothing to see (implying there's little of interest)._
 - **할 수 있는 것밖에 없다**  
   _I can do nothing but this (there's no other option)._
-# Common Mistakes and Tips
+
+## Common Mistakes and Tips
 ## Common Mistakes
 1. **Using a positive verb after ~밖에**
    - **Incorrect:**  
@@ -91,7 +97,8 @@ While **~밖에** itself doesn't change formality levels, the verb endings and c
   Think of **밖** meaning "outside." So, **밖에** implies "outside of this, there's nothing." It emphasizes that only what's "inside" is present.
 - **Remember the Negative Verb Rule:**  
   Always pair **~밖에** with a negative verb form to convey the correct meaning.
-# Summary and Review
+
+## Summary and Review
 ## Key Takeaways
 - **~밖에** is used to express "nothing but" or "only," emphasizing limitation or insufficiency.
 - It attaches to nouns and must be followed by a negative verb form.
@@ -106,7 +113,8 @@ While **~밖에** itself doesn't change formality levels, the verb endings and c
 1. **밖에**
 2. **False** (It must be followed by a negative verb form.)
 3. **~만** is neutral and simply states "only," while **~밖에** emphasizes limitation or insufficiency.
-# Short Practice Exercise
+
+## Short Practice Exercise
 Create sentences using **~밖에** with the following nouns:
 1. 시간 (time)
 2. 책 (book)
@@ -118,7 +126,8 @@ Create sentences using **~밖에** with the following nouns:
    _There is only one book in this room._
 3. **저는 한국어밖에 몰라서 통역사가 필요해요.**  
    _I know nothing but Korean, so I need an interpreter._
-# Conclusion
+
+## Conclusion
 Understanding how to use **~밖에** will enhance your ability to express limitations and exclusivity in Korean, adding depth to your conversations. Remember to pair it with negative verb forms and be mindful of the nuance it conveys compared to similar particles like **~만**.
 
 ---

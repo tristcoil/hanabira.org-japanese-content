@@ -1,6 +1,6 @@
 Processing keyword: ~만 하다 [man hada] (Only, just)
 # Korean Grammar Point: ~만 하다 [man hada] (Only, just)
-# ~만 하다 [man hada] Grammar Explanation
+
 ## 1. Introduction
 In Korean, the expression **~만 하다** is a versatile grammar point used to compare sizes, quantities, or degrees. It can convey meanings such as "as much as," "as big as," or "only." Understanding **~만 하다** will enhance your ability to make comparisons and express equivalence in Korean.
 
@@ -23,6 +23,7 @@ The structure involves attaching **~만 하다** to a noun:
 | Noun2            | Basis of comparison         | 내 손바닥만       |
 | 만 하다          | Comparison marker (as... as) | 만 하다           |
 | **Sentence**     |                             | 그 사과가 내 손바닥만 하다. |
+
 ---
 ## 3. Comparative Analysis
 ### Comparison with Similar Grammar Points

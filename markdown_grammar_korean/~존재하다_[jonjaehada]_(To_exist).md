@@ -1,6 +1,6 @@
 Processing keyword: ~존재하다 [jonjaehada] (To exist)
 # Korean Grammar Point: ~존재하다 [jonjaehada] (To exist)
-# 존재하다 [jonjaehada] (To Exist)
+
 ## 1. Introduction
 In Korean, understanding different verbs that express existence is crucial for constructing meaningful sentences. One such verb is **존재하다** (*jonjaehada*), which means "to exist" or "to be present." This lesson will delve into the usage of **존재하다**, its grammatical structure, and how it compares to similar verbs like **있다** (*itda*).
 
@@ -98,6 +98,7 @@ While both **존재하다** and **있다** mean "to exist," they are used differ
    **존재하다** is commonly used in casual daily conversations.
 3. **Fill in the blank:**
    사랑은 마음속에 ________. (*Love exists within the heart.*)
+
 **Answers:**
 1. b) 있다
 2. False

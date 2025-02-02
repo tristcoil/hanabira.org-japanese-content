@@ -1,6 +1,6 @@
 Processing keyword: ~이 되다 [i doeda] (Become)
 # Korean Grammar Point: ~이 되다 [i doeda] (Become)
-# ~이 되다 [i doeda] (Become)
+
 ## 1. Introduction
 The Korean grammar pattern **~이 되다** translates to **"to become"** in English. It's a fundamental structure used to express a change or transition in state, status, or role. Understanding this pattern is essential for describing transformations in various contexts, whether personal growth, career changes, or shifts in situations.
 
@@ -100,9 +100,11 @@ Using **되다** in different speech levels:
 1. 그는 우리 팀의 리더__ 되었어요.
 2. 나는 미래에 엔지니어__ 되고 싶어요.
 3. 그녀는 어제 대학생__ 되었어요.
+
 #### Translate the following sentences into Korean:
 4. They became famous singers.
 5. I hope to become a good person.
+
 ### Answers:
 1. 그는 우리 팀의 리더**가** 되었어요.
 2. 나는 미래에 엔지니어**가** 되고 싶어요.

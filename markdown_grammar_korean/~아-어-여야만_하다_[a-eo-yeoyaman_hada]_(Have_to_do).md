@@ -1,6 +1,6 @@
 Processing keyword: ~아/어/여야만 하다 [a/eo/yeoyaman hada] (Have to do)
 # Korean Grammar Point: ~아/어/여야만 하다 [a/eo/yeoyaman hada] (Have to do)
-# ~아/어/여야만 하다 [a/eo/yeoyaman hada] (Have to do)
+
 ## 1. Introduction
 Expressing necessity or obligation is a fundamental aspect of any language. In Korean, one common way to convey "have to do" or "must do" is by using the grammar structure **~아/어/여야만 하다**. This form emphasizes the necessity of an action, indicating that there's no other choice but to do it. In this lesson, we'll explore how to form and use this grammar point effectively.
 

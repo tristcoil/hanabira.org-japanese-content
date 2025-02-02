@@ -1,6 +1,6 @@
 Processing keyword: ~즉시 [jeukshi] (Immediately, at once)
 # Korean Grammar Point: ~즉시 [jeukshi] (Immediately, at once)
-# Korean Grammar Lesson: ~즉시 [jeukshi] (Immediately, At Once)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **~즉시** (*immediately, at once*), a useful adverb in Korean that denotes immediate action. Understanding how to use **~즉시** will enhance your ability to express promptness in various contexts.
 

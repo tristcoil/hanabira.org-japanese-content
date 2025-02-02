@@ -1,10 +1,11 @@
 Processing keyword: ~을 통해 [eul tonghae] (Through, via)
 # Korean Grammar Point: ~을 통해 [eul tonghae] (Through, via)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, the grammatical construction **~을 통해** (*~eul tonghae*) is used to express the meaning of "through" or "via". It indicates that something is achieved or happens by means of something else. This grammar point is commonly used in both spoken and written Korean and is essential for expressing methods, mediums, or channels through which actions occur.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 **~을 통해** is attached to a noun to indicate that the action is performed "through" or "by means of" that noun. It shows the method, medium, or process used to achieve a result.
 - **Translation**: through, via, by means of
@@ -21,7 +22,7 @@ The structure is straightforward:
 - **인터넷** (Internet) + **을 통해** → **인터넷을 통해** (through the Internet)
 - **친구** (friend) + **를 통해** → **친구를 통해** (through a friend)
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## Comparison with Similar Grammar Points
 ### 1. **~(으)로**
 - **Meaning**: by, with, using
@@ -34,7 +35,7 @@ The structure is straightforward:
 - **Example**: **바람에 의해 문이 열렸다** (The door was opened by the wind)
 **Difference**: **~에 의해** is often used in passive constructions and emphasizes the cause or agent, while **~을 통해** emphasizes the medium or method.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Formal Context
 1. **인터넷을 통해 정보를 얻을 수 있습니다.**
    *You can obtain information through the Internet.*
@@ -56,7 +57,7 @@ The structure is straightforward:
 2. **그는 경험을 통해 성장했어요.**
    *He grew through experience.*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, relationships and connections are highly valued. Utilizing **~을 통해** reflects the importance of mediums like social networks, education, and collective experiences in achieving goals or sharing information.
 ## Levels of Politeness
@@ -70,7 +71,7 @@ The structure **~을 통해** itself remains the same across different levels of
 - **시간을 통해 치유되다**
   *To be healed over time (through time).*
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Misusing particles**: Forgetting to use **을/를** correctly based on the preceding noun ending.
    - **Incorrect**: **인터넷 통해 정보를 얻었어요.**
@@ -82,7 +83,7 @@ The structure **~을 통해** itself remains the same across different levels of
 - **Mnemonic Device**: Remember that **통해** comes from **통하다**, meaning "to pass through" or "go through". So, think of something passing through a medium.
 - **Check the Noun Ending**: Always look at the last syllable of the noun to determine whether to use **을** or **를**.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~을 통해** is used to express "through" or "via".
 - Attached to nouns to indicate the medium or method.
@@ -104,7 +105,7 @@ The structure **~을 통해** itself remains the same across different levels of
 2. **a) 나는 인터넷을 통해 이 소식을 알게 되었어.**
 3. **False**
 ---
-# End of Lesson
+
 Feel free to revisit this lesson to reinforce your understanding of **~을 통해**. Practice by creating your own sentences using this grammar point!
 
 ---

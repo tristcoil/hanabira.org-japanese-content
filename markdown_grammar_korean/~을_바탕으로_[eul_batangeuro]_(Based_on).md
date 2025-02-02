@@ -1,6 +1,6 @@
 Processing keyword: ~을 바탕으로 [eul batangeuro] (Based on)
 # Korean Grammar Point: ~을 바탕으로 [eul batangeuro] (Based on)
-# Korean Grammar Lesson: ~을 바탕으로 [~eul batangeuro] (Based on)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~을 바탕으로**, which is used to express the meaning of "based on" something. This expression is commonly used to indicate that something is founded upon or relies on certain information, experiences, or materials. Understanding how to use **~을 바탕으로** will enhance your ability to construct more complex and nuanced sentences in Korean.
 
@@ -112,7 +112,6 @@ In Korean culture, building upon existing knowledge, traditions, and experiences
    - **Answer:** False
 ---
 By mastering **~을 바탕으로**, you can express complex ideas about foundations and bases in Korean, adding depth to your communication.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

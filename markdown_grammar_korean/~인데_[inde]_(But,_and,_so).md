@@ -1,6 +1,6 @@
 Processing keyword: ~인데 [inde] (But, and, so)
 # Korean Grammar Point: ~인데 [inde] (But, and, so)
-# Understanding the Korean Grammar Point: ~인데 [inde] (But, And, So)
+
 ## 1. Introduction
 The Korean grammatical ending **~인데** is a versatile connector attached to **nouns** that can translate to "but," "and," or "so" in English. It is used to provide background information, contrast two statements, or connect related ideas seamlessly. Mastering **~인데** will enhance your fluency and make your Korean conversations sound more natural.
 
@@ -37,10 +37,12 @@ The formation of **~인데** depends on whether the noun ends with a consonant o
 #### **~는데** vs. **~인데**
 - **~는데** is used with **verbs and adjectives**.
 - **~인데** is used with **nouns**.
+
 | Grammar Point | Used With         | Example                      | Translation                  |
 |---------------|-------------------|------------------------------|------------------------------|
 | **~는데**     | Verbs/Adjectives  | 먹는데                       | (I eat, so/but/and...)       |
 | **~인데**     | Nouns             | 학생인데                      | (I'm a student, so/but/and...) |
+
 #### **~지만** (But)
 - **~지만** explicitly means "but" and is used to contrast statements.
 - **~인데** is more versatile and can imply "but," "and," or "so" depending on context.

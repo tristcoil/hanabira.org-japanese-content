@@ -1,8 +1,9 @@
 Processing keyword: ~을까 [eulkka] (Shall we?)
 # Korean Grammar Point: ~을까 [eulkka] (Shall we?)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, the ending **~을까** (*~eulkka*) is commonly used to express the idea of "Shall we?" or "I wonder if...". This grammar point is versatile and frequently used in everyday conversations to suggest doing something together or to ponder about something. Understanding how to use **~을까** will enhance your ability to participate in Korean dialogues naturally.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The ending **~을까** is attached to verbs to:
 1. Propose doing something together with the listener. ("Shall we...?")
@@ -29,7 +30,7 @@ The structure varies slightly depending on whether the verb stem ends with a con
 ```
 [Verb Stem] + [~을까/~ㄹ까] = "Shall we [verb]?" or "I wonder if [verb]"
 ```
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### ~자 (Let's...)
 - **Usage**: Suggesting to do something together.
 - **Example**: 먹자. (Let's eat.)
@@ -44,7 +45,7 @@ The structure varies slightly depending on whether the verb stem ends with a con
 ### Nuance
 - **~을까** is casual and used among friends.
 - **~을까요?** is polite and used in formal situations.
-# 4. Examples in Context
+## 4. Examples in Context
 ### Informal Conversation
 1. **영화 보러 갈까?**
    - Shall we go watch a movie?
@@ -69,7 +70,7 @@ The structure varies slightly depending on whether the verb stem ends with a con
    - I wonder if it will be faster if we go this way.
 2. **어떤 선물을 살까 고민 중이에요.**
    - I'm contemplating what gift to buy.
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Politeness Levels
 - Using **~을까** is casual and suited for friends or close acquaintances.
 - To be polite, especially with elders or in formal settings, use **~을까요?**
@@ -81,7 +82,7 @@ The structure varies slightly depending on whether the verb stem ends with a con
    - Where shall we go? Have you decided?
 2. **무엇을 먹을까? 다 맛있어 보여.**
    - What shall we eat? Everything looks delicious.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Using the wrong ending for the verb stem.**
    - Incorrect: 가을까? (Incorrect because **가** ends with a vowel.)
@@ -95,7 +96,7 @@ The structure varies slightly depending on whether the verb stem ends with a con
 - **Practice with common verbs**:
   - 하다 (to do) → 할까?
   - 보다 (to see) → 볼까?
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~을까/~ㄹ까** is used to propose actions or express wonder.
 - Attach **~을까** to consonant-ending stems, **~ㄹ까** to vowel-ending stems.

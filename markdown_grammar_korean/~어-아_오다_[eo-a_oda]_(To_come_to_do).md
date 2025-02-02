@@ -1,6 +1,6 @@
 Processing keyword: ~어/아 오다 [eo/a oda] (To come to do)
 # Korean Grammar Point: ~어/아 오다 [eo/a oda] (To come to do)
-# ~어/아 오다 [eo/a oda] (To have been doing something until now)
+
 ## 1. Introduction
 The Korean grammar pattern **~어/아 오다** is used to express an action that started in the past and has continued up to the present moment. It emphasizes the continuity of an action over time, highlighting the progression or accumulation of experiences.
 
@@ -96,7 +96,6 @@ The Korean grammar pattern **~어/아 오다** is used to express an action that
    - **Answer**: 배우**어** 오다 → **배워 오다**
 ---
 Keep practicing using **~어/아 오다** to express actions that have continued up to now. This will enhance your ability to convey time progression and experiences in Korean.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

@@ -1,6 +1,6 @@
 Processing keyword: ~며/면서 [myeo/myeonseo] (While)
 # Korean Grammar Point: ~며/면서 [myeo/myeonseo] (While)
-# ~며/면서 [myeo/myeonseo] (While)
+
 ## 1. Introduction
 In Korean, the grammatical endings **~며** and **~면서** are used to express two actions occurring **simultaneously** by the **same subject**. They are equivalent to the English conjunctions "**while**" or "**as**". Mastering this grammar point allows you to create more complex sentences that describe concurrent actions or states.
 
@@ -99,7 +99,7 @@ In Korean culture, multitasking is often a part of daily life, especially in bus
    - *While he was reading a book, she was drawing.*
 ---
 By understanding and practicing **~며/면서**, you'll be able to express simultaneous actions naturally and enhance your Korean language skills!
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

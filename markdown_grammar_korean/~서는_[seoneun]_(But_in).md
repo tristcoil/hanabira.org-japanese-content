@@ -1,10 +1,10 @@
 Processing keyword: ~서는 [seoneun] (But in)
 # Korean Grammar Point: ~서는 [seoneun] (But in)
-# Lesson on the Korean Grammar Point: ~서는 [seoneun] (But in)
 
----
+
 ## 1. Introduction
 In Korean, the particle **~서는** (seoneun) is used to emphasize contrast or to highlight a particular condition in a sentence. It often conveys the nuance of "but in" or "but when it comes to" in English, drawing attention to a specific aspect or situation for emphasis or contrast.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

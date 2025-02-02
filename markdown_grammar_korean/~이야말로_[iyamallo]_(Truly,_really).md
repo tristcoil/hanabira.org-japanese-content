@@ -1,6 +1,6 @@
 Processing keyword: ~이야말로 [iyamallo] (Truly, really)
 # Korean Grammar Point: ~이야말로 [iyamallo] (Truly, really)
-# Korean Grammar Lesson: **~이야말로** (Truly, Indeed)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~이야말로** [iyamallo], which is used to emphasize that something is truly or indeed the case. It's a powerful expression that highlights the subject as the most fitting or exemplary instance among others.
 

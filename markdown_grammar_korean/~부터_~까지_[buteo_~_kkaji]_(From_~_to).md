@@ -1,6 +1,6 @@
 Processing keyword: ~부터 ~까지 [buteo ~ kkaji] (From ~ to)
 # Korean Grammar Point: ~부터 ~까지 [buteo ~ kkaji] (From ~ to)
-# ~부터 ~까지 [buteo ~ kkaji] (From ~ to)
+
 ## 1. Introduction
 In Korean, expressing a range—from a starting point to an ending point—is commonly done using the grammar pattern **~부터 ~까지**. This pattern is essential for indicating spans of time, distances between places, or ranges in quantities. Understanding how to use **~부터 ~까지** will greatly enhance your ability to convey durations, distances, and sequences in Korean.
 
@@ -111,13 +111,18 @@ The basic structure is:
 ### Quick Recap Quiz
 1. **Fill in the blanks with 부터 or 까지:**
    **_____** 2월 **_____** 4월 한국에 있을 거예요.
+   
    **Answer:** **2월부터 4월까지** 한국에 있을 거예요.  
    _I will be in Korea from February to April._
+
 2. **Identify and correct the error:**
    **어제에서 오늘까지 비가 내렸어요.**
+   
    **Correction:** **어제부터 오늘까지** 비가 내렸어요.
+
 3. **Translate into Korean:**
    _I exercise from morning to night._
+   
    **Answer:** **아침부터 밤까지 운동해요.**
 ---
 By mastering **~부터 ~까지**, you can effectively communicate various ranges in Korean, making your conversations more precise and natural. Keep practicing by creating your own sentences using this pattern!

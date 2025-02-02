@@ -1,6 +1,6 @@
 Processing keyword: ~아/어 놓다 [a/eo notda] (To have done something in advance)
 # Korean Grammar Point: ~아/어 놓다 [a/eo notda] (To have done something in advance)
-# Understanding the Grammar Point: ~아/어 놓다 [a/eo notda] (To have done something in advance)
+
 ## 1. Introduction
 The Korean grammar pattern **~아/어 놓다** is a versatile expression used to indicate that an action has been completed and its result is maintained for future use or reference. It emphasizes that something has been "done in advance" or "left as is" after performing an action. This pattern is commonly used in everyday Korean to describe preparations or completed actions whose results are intended to be utilized later.
 
@@ -123,7 +123,6 @@ Verb Stem + ~아/어 놓다
    - **Answer:** **만들어 놓다** (to have made something and kept it ready)
 ---
 By mastering **~아/어 놓다**, you can effectively express actions done in advance or preparations made for future convenience in Korean, adding depth and nuance to your language skills.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

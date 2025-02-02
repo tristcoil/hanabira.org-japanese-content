@@ -1,8 +1,9 @@
 Processing keyword: ~아/어야 하다 [a/eoya hada] (Have to, must)
 # Korean Grammar Point: ~아/어야 하다 [a/eoya hada] (Have to, must)
-# 1. Introduction
+
+## 1. Introduction
 The Korean grammar point **~아/어야 하다 [a/eoya hada]** is an essential structure used to express necessity or obligation, similar to "have to" or "must" in English. Mastering this grammar point will significantly enhance your ability to convey duties, requirements, and necessities in Korean conversations.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 **~아/어야 하다** is used to indicate that someone **must** or **has to** do something. It expresses obligation, necessity, or a required action.
 ## Structure
@@ -28,7 +29,7 @@ The structure combines a verb stem with **~아/어야 하다** as follows:
 | 먹다 (to eat)          | 먹         | ㅓ         | -어야 하다    | 먹어야 하다          |
 | 배우다 (to learn)      | 배우       | ㅜ         | -어야 하다    | 배워야 하다          |
 | 하다 (to do)           | 하         |            | -해야 하다    | 해야 하다            |
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## Comparing with **~아/어야 되다**
 Both **~아/어야 하다** and **~아/어야 되다** express necessity or obligation. They are often interchangeable, but there are subtle differences:
 - **~아/어야 하다** emphasizes **the speaker's personal conviction** about the necessity.
@@ -36,7 +37,7 @@ Both **~아/어야 하다** and **~아/어야 되다** express necessity or obli
 ## Comparing with **~아/어도 되다**
 - **~아/어도 되다** means "**it's okay to...**" or "**you may...**," expressing permission rather than obligation.
 - Do not confuse **~아/어야 하다** (must do) with **~아/어도 되다** (may do), as they convey opposite meanings.
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Situations
 1. **회의에 참석해야 합니다.**
    - *I must attend the meeting.*
@@ -57,14 +58,14 @@ Both **~아/어야 하다** and **~아/어야 되다** express necessity or obli
    - *Students must follow the school rules.*
 2. **안전을 위해 규칙을 지켜야 합니다.**
    - *For safety, the rules must be followed.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Levels of Politeness
 - **~아/어야 합니다**: Formal high respect form, used in formal settings or with elders/superiors.
 - **~아/어야 해요**: Polite form, suitable for most situations.
 - **~아/어야 해**: Casual form, used among friends or peers.
 ## Cultural Relevance
 - In Korean culture, respecting social hierarchy and norms is essential. Using the correct level of politeness when expressing obligations reflects one's understanding of social etiquette.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Incorrect vowel harmony**:
    - Using **-아야 하다** when **-어야 하다** is needed, e.g., *먹다* → **먹아야 하다** (Incorrect) vs. **먹어야 하다** (Correct).
@@ -76,7 +77,7 @@ Both **~아/어야 하다** and **~아/어야 되다** express necessity or obli
   - **Other vowels are dark vowels** – they **"match with 어야 하다"**.
 - **Remember with "해야 하다"**:
   - For **하다** verbs, simply use **해야 하다**.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~아/어야 하다** expresses **necessity or obligation** ("must," "have to").
 - **Conjugation depends on the last vowel** of the verb stem.

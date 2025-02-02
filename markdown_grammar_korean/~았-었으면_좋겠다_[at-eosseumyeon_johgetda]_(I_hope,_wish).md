@@ -1,6 +1,6 @@
 Processing keyword: ~았/었으면 좋겠다 [at/eosseumyeon johgetda] (I hope, wish)
 # Korean Grammar Point: ~았/었으면 좋겠다 [at/eosseumyeon johgetda] (I hope, wish)
-# ~았/었으면 좋겠다 [at/eosseumyeon johgetda] (I hope, I wish)
+
 ## 1. Introduction
 In Korean, expressing hopes or wishes about situations that are not yet realized is often done using the grammar pattern **~았/었으면 좋겠다**. This pattern allows speakers to convey desires or wishes about the past, present, or future in a nuanced way. Understanding this grammar point is essential for expressing personal feelings and desires in both spoken and written Korean.
 
@@ -105,7 +105,6 @@ The structure combines the verb stem with the past tense marker and the conditio
    - **Answer**: 한국어를 잘 했으면 좋겠어요.
 3. **What is the main difference between **~았/었으면 좋겠다** and **~으면 좋겠다**?**
    - **Answer**: **~았/었으면 좋겠다** expresses a stronger wish about a situation contrary to reality, while **~으면 좋겠다** expresses a general hope for something possible.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

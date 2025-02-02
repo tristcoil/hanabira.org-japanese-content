@@ -1,5 +1,6 @@
 Processing keyword: ~을/를 통해 [eul/reul tonghae] (Through, by means of)
 # Korean Grammar Point: ~을/를 통해 [eul/reul tonghae] (Through, by means of)
+
 ### 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~을/를 통해** (_eul/reul tonghae_), which translates to "**through**" or "**by means of**" in English. This structure is commonly used to express the means, method, or medium by which an action is carried out.
 

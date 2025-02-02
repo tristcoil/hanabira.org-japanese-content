@@ -1,6 +1,6 @@
 Processing keyword: ~면서도 [myeonseodo] (Even though, while)
 # Korean Grammar Point: ~면서도 [myeonseodo] (Even though, while)
-# Korean Grammar Lesson: ~면서도 (myeonseodo)
+
 ## 1. Introduction
 The grammatical structure **~면서도** (*myeonseodo*) is a versatile connector in Korean that expresses contrast between two simultaneous actions or states. It is often translated as **"even though," "although,"** or **"while still."** Understanding this grammar point will enhance your ability to express complex sentences that reflect contrasting situations occurring at the same time.
 

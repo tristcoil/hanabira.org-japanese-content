@@ -1,6 +1,6 @@
 Processing keyword: ~인 이상 [in isang] (As long as, since)
 # Korean Grammar Point: ~인 이상 [in isang] (As long as, since)
-# ~인 이상 [in isang] (As long as, Since)
+
 ## 1. Introduction
 In Korean, the grammatical expression **~인 이상** is used to indicate a condition or situation that leads to a logical consequence. It translates to "as long as," "since," or "now that" in English. Understanding how to use **~인 이상** can help you express cause-and-effect relationships and state conditions that influence outcomes.
 

@@ -1,6 +1,6 @@
 Processing keyword: ~아/어 버리다 [a/eo beorida] (Completely do, unfortunately do)
 # Korean Grammar Point: ~아/어 버리다 [a/eo beorida] (Completely do, unfortunately do)
-# Korean Grammar Lesson: ~아/어 버리다 [a/eo beorida]
+
 ## 1. Introduction
 The Korean grammar point **~아/어 버리다** ([a/eo beorida]) is a verb ending used to express the **completion of an action**, often with an emotional nuance such as regret, relief, or surprise. It adds depth to your expressions, allowing you to convey how you feel about the action being completed.
 

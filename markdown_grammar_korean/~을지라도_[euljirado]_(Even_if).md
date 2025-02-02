@@ -1,6 +1,6 @@
 Processing keyword: ~을지라도 [euljirado] (Even if)
 # Korean Grammar Point: ~을지라도 [euljirado] (Even if)
-# Korean Grammar Lesson: ~을지라도 [euljirado] (Even if)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~을지라도** (*~euljirado*), which translates to **"even if"** or **"even though"** in English. This expression is used to indicate that the result in the main clause remains the same regardless of the condition stated in the preceding clause.
 
@@ -18,22 +18,26 @@ The basic structure is:
 #### For Nouns:
 - Add **~일지라도** directly after the noun.
 ### Formation Diagram
+
 | **Word Type** | **Stem Ending** | **Conjugation**             |
 |---------------|-----------------|-----------------------------|
 | Verb/Adjective (consonant) | 먹다 (to eat)          | 먹**을지라도**       |
 | Verb/Adjective (vowel)     | 가다 (to go)           | 가**ㄹ지라도**       |
 | Noun                       | 학생 (student)         | 학생**일지라도**     |
+
 ---
 ## 3. Comparative Analysis
 - **~아/어도**: Also means "even if," but is more commonly used in everyday speech and is less formal.
 - **~더라도**: Similar in meaning to **~을지라도**, but slightly less formal and often used in both spoken and written language.
 - **~는데도 불구하고**: Means "despite" or "in spite of," emphasizing the unexpectedness of the outcome.
 **Comparison Table**
+
 | **Grammar Point** | **Formality** | **Usage Context**         |
 |-------------------|---------------|---------------------------|
 | ~을지라도          | Formal        | Written, formal speeches  |
 | ~더라도           | Neutral       | Spoken and written        |
 | ~아/어도          | Informal      | Everyday conversation     |
+
 ---
 ## 4. Examples in Context
 ### Formal Context Examples
@@ -87,7 +91,6 @@ The basic structure is:
    - **Answer**: 만들**지라도**
 ---
 By understanding and practicing **~을지라도**, you can enhance your Korean language skills, especially in formal contexts. Remember to consider the level of formality required in your speech or writing to choose the appropriate grammar point.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

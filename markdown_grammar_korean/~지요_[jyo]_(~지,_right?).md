@@ -1,6 +1,6 @@
 Processing keyword: ~지요 [jyo] (~지, right?)
 # Korean Grammar Point: ~지요 [jyo] (~지, right?)
-# ~지요 (~지요 [jiyo]; ~지, isn't it?/right?)
+
 ## 1. Introduction
 The Korean sentence ending **~지요** (pronounced *[jiyo]*) is a versatile grammar point used to confirm information, seek agreement, or share knowledge that both the speaker and listener are assumed to know. It adds a nuance similar to "isn't it?" or "right?" in English, making conversations more interactive and engaging.
 

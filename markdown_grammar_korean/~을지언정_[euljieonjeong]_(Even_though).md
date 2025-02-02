@@ -1,8 +1,9 @@
 Processing keyword: ~을지언정 [euljieonjeong] (Even though)
 # Korean Grammar Point: ~을지언정 [euljieonjeong] (Even though)
-# 1. Introduction
+
+## 1. Introduction
 Welcome to today's lesson on the Korean grammar point **~을지언정** (*euljieonjeong*), which translates to **"even though"** or **"even if"** in English. This expression is used to emphasize a strong contrast or concession between two clauses. By mastering this grammar point, you'll be able to express contrastive statements more effectively in Korean.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 ### Meaning
 The grammar point **~을지언정** is used to express a strong concession or contrast, similar to saying "even though" or "even if" in English. It implies that although the first clause presents a significant condition or obstacle, the second clause will still occur or remain true.
@@ -21,7 +22,7 @@ The structure of **~을지언정** is as follows:
 ```markdown
 [Verb/Adjective Stem] + 을/ㄹ지언정
 ```
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 **~을지언정** vs **~지만**
 - **~을지언정** is used for strong contrasts or concessions, often in more formal or literary contexts.
 - **~지만** simply means "but" or "however" and is used for general contrasts.
@@ -30,7 +31,7 @@ The structure of **~을지언정** is as follows:
   - *Even though I may be poor, I will live honestly.*
 - **~지만**: 가난하지만 행복하다.
   - *I am poor, but I am happy.*
-# 4. Examples in Context
+## 4. Examples in Context
 ### 1. Formal Written Context
 - **그는 실패할지언정 포기하지 않을 것이다.**
   - *Even if he fails, he will not give up.*
@@ -43,13 +44,13 @@ The structure of **~을지언정** is as follows:
 ### 4. Hypothetical Situations
 - **죽을지언정 비밀은 지키겠다.**
   - *Even if I die, I will keep the secret.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, expressions like **~을지언정** are often used to convey strong will, determination, or moral stance. It reflects the value placed on perseverance and integrity.
 ## Idiomatic Expressions
 - **망할지언정 끝까지 싸우겠다.**
   - *Even if I go bankrupt, I will fight till the end.*
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Mistake**: Using **~지만** instead of **~을지언정** for strong concessions.
   - *Incorrect*: 실패하지만 포기하지 않는다.
@@ -60,7 +61,7 @@ In Korean culture, expressions like **~을지언정** are often used to convey s
 ## Learning Strategies
 - **Mnemonic Device**: Think of **을지언정** as emphasizing "even if this extreme case happens."
 - **Tip**: Remember that **~을지언정** is more formal and emphatic than **~지만**.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~을지언정** is used to express strong concessions or contrasts.
 - It translates to "even though" or "even if."
@@ -78,6 +79,7 @@ Try creating sentences using **~을지언정** with the following verbs/adjectiv
 - 공부하다 (to study)
 - 어렵다 (to be difficult)
 - 사랑하다 (to love)
+
 **Example**:
 - **공부할지언정 포기하지 않겠다.**
   - *Even if I have to study hard, I won't give up.*

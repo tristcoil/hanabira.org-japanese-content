@@ -1,10 +1,9 @@
 Processing keyword: ~지요/죠 [jiyo/jyo] (Isn't it, right)
 # Korean Grammar Point: ~지요/죠 [jiyo/jyo] (Isn't it, right)
-# ~지요/죠 (Isn't it?, Right?)
 
----
 ## 1. Introduction
 The Korean ending **~지요/죠 (jiyo/jyo)** is a versatile grammatical structure used to confirm information, seek agreement, or soften statements and questions. It adds a nuance similar to "isn't it?" or "right?" in English, fostering a sense of familiarity and engagement in conversation.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

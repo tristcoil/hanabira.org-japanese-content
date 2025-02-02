@@ -1,6 +1,6 @@
 Processing keyword: ~이었다 [ieotda] (Was, were)
 # Korean Grammar Point: ~이었다 [ieotda] (Was, were)
-# Understanding the Korean Grammar Point: ~이었다 [ieotda] (Was, Were)
+
 ## 1. Introduction
 In Korean, expressing the past state of being is essential for communicating about past identities, professions, or statuses. The grammar point **~이었다** [ieotda] serves this purpose by functioning similarly to the English "was" or "were." Mastering **~이었다** allows learners to convey past existence or characteristics effectively in Korean.
 
@@ -119,7 +119,7 @@ Understanding and using the appropriate speech level is crucial in Korean cultur
 3. **저는 의사였어요**.
 ---
 By consistently practicing and being mindful of these rules, you'll become adept at using **~이었다** to express past states of being in Korean.
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

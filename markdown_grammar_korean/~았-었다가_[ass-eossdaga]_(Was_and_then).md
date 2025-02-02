@@ -1,6 +1,6 @@
 Processing keyword: ~았/었다가 [ass/eossdaga] (Was and then)
 # Korean Grammar Point: ~았/었다가 [ass/eossdaga] (Was and then)
-# **~았/었다가 [ass/eossdaga] Grammar Point Explanation**
+
 ## 1. Introduction
 In Korean, the grammar pattern **~았/었다가** is used to express that after completing one action, a contrasting or unexpected action occurs. It often conveys a sense of reversal or change in situation. This pattern can be translated to "did (something) and then (unexpectedly)..." or "was (doing something) but then...".
 
@@ -138,7 +138,6 @@ The structure combines the past tense suffix **~았/었다** with **다가**, at
      - "It rained but then stopped."
 ---
 By understanding **~았/었다가**, you can express nuanced changes and unexpected outcomes in your Korean sentences, adding depth to your communication.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

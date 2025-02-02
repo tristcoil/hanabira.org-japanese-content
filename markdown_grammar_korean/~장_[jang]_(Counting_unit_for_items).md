@@ -1,8 +1,9 @@
 Processing keyword: ~장 [jang] (Counting unit for items)
 # Korean Grammar Point: ~장 [jang] (Counting unit for items)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, counters are essential when counting objects, people, or actions. One such counter is **~장 [jang]**, which is used for counting flat and thin objects like sheets of paper, tickets, pages, and photos. Understanding how to use **~장** correctly will enhance your ability to quantify items naturally in Korean.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 **~장** is a counter used to indicate the number of flat, thin items. It's equivalent to saying "sheet(s)" or "piece(s)" in English when referring to papers or similar objects.
 ## Structure
@@ -21,7 +22,7 @@ When used in a sentence with a noun, it follows the noun:
 | 티켓 두 장                               | Two tickets                              |
 | 사진 세 장                               | Three photos                             |
 | 페이지 네 장                             | Four pages                               |
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 In Korean, different counters are used based on the characteristics of the items being counted. Compare **~장** with other counters:
 | Counter | Used For                               | Example                   |
 |---------|----------------------------------------|---------------------------|
@@ -29,7 +30,7 @@ In Korean, different counters are used based on the characteristics of the items
 | ~명/분  | People (informal/formal)               | 학생 세 명 (Three students)|
 | ~권     | Books and bound volumes                | 책 두 권 (Two books)       |
 | **~장** | Flat, thin items                       | 사진 네 장 (Four photos)   |
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Situations
 1. **제가 필요한 서류를 다섯 장 준비했습니다.**
    - *I prepared five sheets of the documents I need.*
@@ -45,7 +46,7 @@ In Korean, different counters are used based on the characteristics of the items
    - *I sent a postcard to a friend.*
 2. **노트북에 메모장을 세 장 붙였어요.**
    - *I stuck three memo sheets on my laptop.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, using the correct counter is important and reflects a speaker's proficiency and respect for the language. Misusing counters can lead to misunderstandings or sound unnatural.
 ## Levels of Politeness and Formality
@@ -59,7 +60,7 @@ In Korean culture, using the correct counter is important and reflects a speaker
 - **한 장 하다**: This idiom means to have a drink (often alcoholic).
   - **오늘 한 장 할래요?**
     - *Do you want to have a drink today?*
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Using the wrong counter**: Learners might mistakenly use **~개** instead of **~장** for flat items.
   - Incorrect: **종이 세 개 주세요.**
@@ -69,7 +70,7 @@ In Korean culture, using the correct counter is important and reflects a speaker
 ## Learning Strategies
 - **Mnemonic Device**: Associate **장** with "jang", sounding like "junk". Think of "junk mail" which often comes as flat papers.
 - **Practice with Objects**: Count flat items around you using **~장**, such as sheets of paper, tickets, or photos.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~장** is the counter for flat, thin items in Korean.
 - It is used after the number when counting items.

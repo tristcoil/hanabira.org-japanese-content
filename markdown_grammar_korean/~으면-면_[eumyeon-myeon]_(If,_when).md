@@ -1,6 +1,6 @@
 Processing keyword: ~으면/면 [eumyeon/myeon] (If, when)
 # Korean Grammar Point: ~으면/면 [eumyeon/myeon] (If, when)
-# ~으면/면 [eumyeon/myeon] (If, When)
+
 ## 1. Introduction
 The Korean conditional endings **~으면/면** are essential tools for expressing conditions similar to "if" or "when" in English. They allow speakers to connect actions and events based on certain conditions, enhancing the complexity and nuance of communication.
 
@@ -41,6 +41,7 @@ The attachment of **~으면** or **~면** depends on whether the verb or adjecti
 #### ~(으)면 좋겠다
 - **Usage:** Used to express a wish or hope.
 - **Example:** 비가 안 오면 좋겠어요. (I hope it doesn't rain.)
+
 **Key Differences:**
 - **~으면/면** is a general conditional expressing "if/when."
 - **~거든** adds nuance of shared information or suggestion.

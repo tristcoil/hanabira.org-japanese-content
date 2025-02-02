@@ -1,6 +1,6 @@
 Processing keyword: ~즉 [jeuk] (That is to say, namely)
 # Korean Grammar Point: ~즉 [jeuk] (That is to say, namely)
-# ~즉 [jeuk] (That is to Say, Namely)
+
 ## 1. Introduction
 Welcome to this lesson on the Korean grammar point **~즉 (jeuk)**. This connector plays a crucial role in Korean, especially in formal writing and speeches. It translates to **"that is to say"** or **"namely"** in English and is used to clarify or restate a previous statement.
 
@@ -22,7 +22,7 @@ The structure using **~즉** is as follows:
 ```markdown
 ┌─────────────┐    즉    ┌─────────────┐
 │ Statement A │ ──────> │ Statement B │
-└─────────────┘          └─────────────┘
+└─────────────┘         └─────────────┘
 ```
 ---
 ## 3. Comparative Analysis

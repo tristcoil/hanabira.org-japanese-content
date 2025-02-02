@@ -1,6 +1,6 @@
 Processing keyword: ~지 않을까 하다 [ji anheulkka hada] (I guess, I suspect)
 # Korean Grammar Point: ~지 않을까 하다 [ji anheulkka hada] (I guess, I suspect)
-# Understanding "~지 않을까 하다 [ji anheulkka hada]" (I guess, I suspect)
+
 ## 1. Introduction
 The Korean grammar construction **~지 않을까 하다** is used to express speculation or conjecture about a possibility. It conveys the speaker's guess, suspicion, or uncertainty about an event or situation. This expression is often translated as "I think that perhaps..." or "I suspect that...".
 
@@ -89,7 +89,7 @@ In Korean, expressing oneself indirectly or tentatively is a common way to maint
 1. To express speculation or a tentative guess about something.
 2. Attach **지 않다** to the verb stem, then add **을까 하다**.
 3. *(Example)* 친구가 늦지 않을까 해요. *I guess my friend might be late.*
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

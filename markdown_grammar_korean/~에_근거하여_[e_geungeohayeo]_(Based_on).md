@@ -1,6 +1,6 @@
 Processing keyword: ~에 근거하여 [e geungeohayeo] (Based on)
 # Korean Grammar Point: ~에 근거하여 [e geungeohayeo] (Based on)
-# ~에 근거하여 [e geungeohayeo] (Based on)
+
 ## 1. Introduction
 In Korean, expressing the basis or foundation of an action, opinion, or decision is essential for clear communication, especially in formal contexts. The grammatical expression **~에 근거하여** [e geungeohayeo] translates to **"based on"** in English. It's commonly used to indicate that something is founded on certain information, evidence, or criteria.
 This lesson will delve into the usage of **~에 근거하여**, providing detailed explanations, comparisons with similar expressions, and practical examples to enhance your understanding.

@@ -1,10 +1,11 @@
 Processing keyword: ~죠 [jyo] (~Isn't it?)
 # Korean Grammar Point: ~죠 [jyo] (~Isn't it?)
-# 1. Introduction
+
+## 1. Introduction
 The Korean grammar ending **~죠** (*~jyo*) is a versatile and commonly used expression in everyday conversation. It serves multiple functions, such as seeking agreement, confirming information, or making suggestions in a polite and nuanced manner. Understanding **~죠** can enhance your conversational skills and help you sound more natural in Korean.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 ### Meaning and Usage
 The ending **~죠** is a contraction of **~지요** (*~jiyo*). It is attached to verb stems and has several usages:
@@ -32,15 +33,14 @@ The formation of **~죠** depends on whether the verb stem is in the present, pa
 ---
 ## Visual Aids
 ### Conjugation Flowchart
-```mermaid
-graph TD;
+```
     A[Verb Stem] --> B{Tense?};
     B -- Present --> C[-죠];
     B -- Past --> D[Add 았/었/였 + -죠];
     B -- Future --> E[Add 겠 + -죠];
 ```
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### **~죠** vs. **~지요**
 - **~죠** is the contracted, more casual form of **~지요**.
 - Both are used similarly, but **~지요** can sound slightly more formal or emphatic.
@@ -49,7 +49,7 @@ graph TD;
 - **~지** is even more casual and is often used among close friends or peers.
 - Example: "그렇지?" (Isn't it so?)
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Situations
 1. **날씨가 좋죠?**
    - *Nalsiga jotjyo?*
@@ -76,7 +76,7 @@ graph TD;
    - *I munjereul haegyeolhaeyagetjyo.*
    - "We need to solve this problem, don't we?"
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - Using **~죠** adds a soft and polite tone to your statements.
 - It aligns with the Korean cultural emphasis on harmony and avoiding directness.
@@ -91,7 +91,7 @@ graph TD;
    - *Algetjyo?*
    - "You understand, don't you?"
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Overusing Informal Variants**: Using **~지** instead of **~죠** in formal situations can be impolite.
 - **Misplacing the Ending**: Attaching **~죠** directly to the dictionary form without proper conjugation.
@@ -100,7 +100,7 @@ graph TD;
 - **Context Matters**: Pay attention to the level of formality required in the situation.
 - **Active Listening**: Notice how native speakers use **~죠** in conversations or media.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~죠** is a polite sentence ending used to seek agreement, make suggestions, or state assumed information.
 - It is a contraction of **~지요** and is commonly used in spoken Korean.
@@ -114,7 +114,7 @@ graph TD;
 1. To seek confirmation or agreement, make suggestions, or state information assumed to be known.
 2. Add **았/었/였** to the verb stem before attaching **~죠** (e.g., 먹었죠).
 3. **내일 만나요, 그렇죠?** (Let's meet tomorrow, okay?)
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

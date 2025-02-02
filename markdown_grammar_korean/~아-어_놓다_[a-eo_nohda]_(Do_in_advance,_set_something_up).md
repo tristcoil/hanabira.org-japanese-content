@@ -1,6 +1,6 @@
 Processing keyword: ~아/어 놓다 [a/eo nohda] (Do in advance, set something up)
 # Korean Grammar Point: ~아/어 놓다 [a/eo nohda] (Do in advance, set something up)
-# ~아/어 놓다 [a/eo nohda] Grammar Point
+
 ## 1. Introduction
 The Korean grammar pattern **~아/어 놓다** is used to express the completion of an action with the intention of leaving it in that state for some time. It often carries the meaning of doing something **in advance** or **setting something up** to be ready for future use.
 
@@ -33,11 +33,13 @@ Verb Stem       +   아/어 놓다
 (하다)          +   여 놓다      =    해 놓다
 ```
 ### Visual Aid: Usage Table
+
 | Verb Infinitive | Verb Stem | Last Vowel | Connecting Vowel | Resulting Form   |
 |-----------------|------------|------------|------------------|------------------|
 | 보다 (to see)   | 보         | ᅩ          | 아 놓다          | 봐 놓다          |
 | 먹다 (to eat)   | 먹         | ᅥ          | 어 놓다          | 먹어 놓다        |
 | 하다 (to do)    | 하         | ᅡ          | 여 놓다          | 해 놓다          |
+
 ---
 ## 3. Comparative Analysis
 ### Comparison with ~아/어 두다

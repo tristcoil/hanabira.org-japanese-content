@@ -1,10 +1,9 @@
 Processing keyword: ~어/아 버리다 [eo/a beorida] (Regretfully, completely)
 # Korean Grammar Point: ~어/아 버리다 [eo/a beorida] (Regretfully, completely)
-# Understanding the Korean Grammar Point: ~어/아 버리다 [~eo/a beorida]
 
----
 ## 1. Introduction
 The Korean grammar pattern **~어/아 버리다** is used to express the completion of an action, often with an emotional nuance such as regret, relief, or frustration. It emphasizes that an action has been carried out entirely, and the speaker has feelings about its completion.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

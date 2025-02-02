@@ -1,6 +1,6 @@
 Processing keyword: ~어/아 다니다 [eo/a danida] (To keep doing)
 # Korean Grammar Point: ~어/아 다니다 [eo/a danida] (To keep doing)
-# Korean Grammar Point: ~어/아 다니다 [eo/a danida] (To keep doing)
+
 ## 1. Introduction
 The grammatical construction **~어/아 다니다** is used in Korean to express the idea of continuously or repeatedly doing an action, often while moving around. It conveys a sense of habitual or ongoing activity that occurs over a period of time or across different places.
 
@@ -20,23 +20,28 @@ To form this expression, attach **~어/아 다니다** to the stem of an action 
 - **For all other vowels**: Use **-어 다니다**.
 - **For 하다 verbs**: Change 하다 to **해 다니다**.
 ### Visual Aid: Verb Conjugation Table
+
 | Verb        | Verb Stem | Ending Vowel | Conjugation       | Result          |
 |-------------|-----------|--------------|-------------------|-----------------|
 | 가다 (to go)  | 가         | 아           | 가 + 아 다니다     | 가아 다니다 → 가다니다 |
 | 마시다 (to drink) | 마시      | 이           | 마시 + 어 다니다   | 마시어 다니다 → 마셔 다니다 |
 | 일하다 (to work) | 일하      | 하           | 일하 + 여 다니다   | 일하여 다니다 → 일해 다니다 |
+
 *Note: Some contractions occur in spoken Korean (e.g., 가아 다니다 → 가 다니다).*
+
 ---
 ## 3. Comparative Analysis
 ### Similar Grammar Points
 - **~고 다니다**: Means "to go around doing," but focuses more on the simultaneous action rather than habitual repetition.
 - **~곤 하다**: Indicates a habitual action but without the nuance of movement.
 **Comparison Table**
+
 | Grammar Point | Meaning                     | Example                          |
 |---------------|-----------------------------|----------------------------------|
 | ~어/아 다니다  | Keep doing (while moving)   | 노래를 불러 다니다 (Keep singing around) |
 | ~고 다니다     | Go around while doing       | 노래를 부르고 다니다 (Go around singing)  |
 | ~곤 하다       | Habitually do               | 노래를 부르곤 하다 (Used to sing habitually) |
+
 ---
 ## 4. Examples in Context
 ### Example Sentences

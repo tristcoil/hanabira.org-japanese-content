@@ -1,6 +1,6 @@
 Processing keyword: ~아/어 다니다 [a/eo danida] (Keep doing, repeatedly do)
 # Korean Grammar Point: ~아/어 다니다 [a/eo danida] (Keep doing, repeatedly do)
-# Korean Grammar Lesson: ~아/어 다니다 [a/eo danida] (To keep doing, repeatedly do)
+
 ## Introduction
 Welcome to today's lesson on the Korean grammar point **~아/어 다니다 [a/eo danida]**. This expression is essential for describing actions that are done repeatedly or habitually while moving around. By mastering this grammar point, you'll be able to convey routines and frequent behaviors in a natural and nuanced way in Korean.
 

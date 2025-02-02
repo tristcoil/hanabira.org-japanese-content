@@ -1,6 +1,6 @@
 Processing keyword: ~을/ㄹ게요 [eul/l geyo] (I will)
 # Korean Grammar Point: ~을/ㄹ게요 [eul/l geyo] (I will)
-# ~을/ㄹ게요 [eul/l geyo] (I will)
+
 ## 1. Introduction
 In Korean, communicating future actions or intentions can vary depending on the context and the relationship between speakers. One common grammatical structure used to express the speaker's intention or promise is **~을/ㄹ게요**. This form is particularly used when the speaker decides to do something as a reaction to the listener's statement or situation.
 

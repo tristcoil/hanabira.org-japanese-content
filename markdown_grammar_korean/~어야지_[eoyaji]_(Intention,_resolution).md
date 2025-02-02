@@ -1,6 +1,6 @@
 Processing keyword: ~어야지 [eoyaji] (Intention, resolution)
 # Korean Grammar Point: ~어야지 [eoyaji] (Intention, resolution)
-# ~어야지 [eoyaji] (Intention, Resolution)
+
 ## 1. Introduction
 In Korean, expressing intentions, resolutions, or a strong sense of obligation often involves specific grammatical structures. One such structure is **~어야지**. This grammar point is used to indicate that the speaker or someone else should or must do something. It reflects a decision or determination to perform an action.
 

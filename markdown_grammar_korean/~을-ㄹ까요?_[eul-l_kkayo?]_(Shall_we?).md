@@ -1,6 +1,6 @@
 Processing keyword: ~을/ㄹ까요? [eul/l kkayo?] (Shall we?)
 # Korean Grammar Point: ~을/ㄹ까요? [eul/l kkayo?] (Shall we?)
-# Grammar Point: ~을/ㄹ까요? [eul/l kkayo?] (Shall we?)
+
 ## 1. Introduction
 The Korean grammar ending **~을/ㄹ까요?** is a versatile and commonly used expression that translates to "Shall we...?", "Shall I...?", or "Do you think...?" in English. It is used to:
 - Make suggestions or proposals.

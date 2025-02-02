@@ -1,6 +1,6 @@
 Processing keyword: ~이나 ~ [ina] (Either, or)
 # Korean Grammar Point: ~이나 ~ [ina] (Either, or)
-# Understanding ~이나~ [ina] (Either... or...)
+
 ## 1. Introduction
 In Korean, the grammatical particle **~이나~** (*[ina]*) is used to present options or choices between two nouns, equivalent to "either... or..." in English. This structure allows the speaker to offer alternatives, showing flexibility or indifference between the options provided.
 
@@ -135,7 +135,6 @@ The usage of **~이나~** depends on whether the noun ends with a consonant or a
    </details>
 ---
 By understanding and practicing **~이나~**, you can enhance your Korean by offering choices naturally and respectfully, which is an essential aspect of effective communication in Korean culture.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

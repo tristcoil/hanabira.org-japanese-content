@@ -1,8 +1,9 @@
 Processing keyword: ~에서 [eseo] (At, in)
 # Korean Grammar Point: ~에서 [eseo] (At, in)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, particles are essential elements that indicate the role of nouns within a sentence. One such versatile particle is **~에서 [eseo]**, which primarily denotes location and action. Understanding how to use **~에서** correctly will enhance your ability to describe actions and events in specific places.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning and Usage
 The particle **~에서 [eseo]** is attached to nouns to indicate:
 1. **The location where an action takes place**: It corresponds to "at" or "in" in English when describing where an action occurs.
@@ -10,8 +11,7 @@ The particle **~에서 [eseo]** is attached to nouns to indicate:
 ### Structure
 - **Noun + 에서**
 ### Formation Diagram
-```mermaid
-graph LR
+```
 A(Noun) --> B(~에서)
 C[Resulting Phrase: Noun에서]
 ```
@@ -22,7 +22,7 @@ When you want to express that an action is occurring at a specific place, use **
 ### 2. Indicating the Starting Point
 To express the starting point of movement or an action, **~에서** means "from."
 - **Example**: 서울에서 부산까지. (From Seoul to Busan.)
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### ~에서 vs. ~에
 Both **~에서** and **~에** are location particles, but they serve different purposes.
 | Particle | Usage                                    | Example                                 |
@@ -31,7 +31,7 @@ Both **~에서** and **~에** are location particles, but they serve different p
 | ~에서     | Indicates location of action/origin (dynamic)   | 집에서 먹다. (To eat at home.)          |
 - **~에** is used with verbs like **있다** (to be/exist) or **가다** (to go).
 - **~에서** is used with action verbs where an action is performed at the location.
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Speech
 1. 도서관에서 책을 읽습니다.
    - *I read books at the library.*
@@ -52,7 +52,7 @@ Both **~에서** and **~에** are location particles, but they serve different p
    - *Where did you come from?*
 2. 시장에서 과일을 샀어.
    - *I bought fruits at the market.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 Understanding location particles like **~에서** is crucial in Korean because:
 - **Social Interactions**: Koreans often discuss where events or meetings take place, making **~에서** common in daily conversations.
@@ -60,7 +60,7 @@ Understanding location particles like **~에서** is crucial in Korean because:
 ## Idiomatic Expressions Using ~에서
 1. **반에서 일 등이다**: To be first in the class.
 2. **나라에서 나라로**: From country to country.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Mixing up ~에 and ~에서**
    - Incorrect: 학교에 공부해요.
@@ -73,7 +73,7 @@ Understanding location particles like **~에서** is crucial in Korean because:
 ## Tips to Remember
 - **Mnemonic**: Think of **~에서** as "where action happens" — both **에서** and **action** start with an 'e' sound.
 - Associate **~에서** with dynamic verbs (actions), and **~에** with static verbs (existence or direction).
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~에서** is used to indicate the location of an action or the starting point of movement.
 - It is attached after a noun without any space.
@@ -88,7 +88,7 @@ Understanding location particles like **~에서** is crucial in Korean because:
      - a) 에
      - b) 에서
    - **Answer**: a) 에
-# Additional Practice
+## Additional Practice
 Try making your own sentences using **~에서** to describe actions taking place at different locations!
 
 ---

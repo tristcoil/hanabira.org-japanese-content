@@ -1,6 +1,6 @@
 Processing keyword: ~았/었다가 [at/eotdagga] (Did something and then another situation occurred)
 # Korean Grammar Point: ~았/었다가 [at/eotdagga] (Did something and then another situation occurred)
-# 한국어 문법: ~았/었다가 [at/eotdagga]
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~았/었다가 [at/eotdagga]**, which is used to express that after one action was completed, another unexpected or contrasting situation or action occurred. This structure helps in connecting sequential events and highlighting changes in situations.
 
@@ -112,12 +112,17 @@ In this lesson, we'll explore the Korean grammar point **~았/었다가 [at/eotd
 ---
 ### Quick Recap Quiz
 1. **Conjugate using ~았/었다가**: 쓰다 (to write)
+
    **Answer**: 썼다가
+
 2. **Choose the correct sentence using ~았/었다가**:
    a) 길을 **걸었다가** 넘었어요.  
    b) 길을 **걷다가** 넘어졌어요.
+
    **Answer**: a) 길을 **걸었다가** 넘어졌어요.
+
 3. **True or False**: The grammar point ~았/었다가 can be used with action verbs to indicate that an unexpected event happened after the action was completed.
+
    **Answer**: True
 ---
 Feel free to create your own sentences using **~았/었다가** to reinforce your understanding!

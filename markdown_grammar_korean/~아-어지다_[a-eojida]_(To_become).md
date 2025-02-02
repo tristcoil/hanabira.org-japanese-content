@@ -1,10 +1,11 @@
 Processing keyword: ~아/어지다 [a/eojida] (To become)
 # Korean Grammar Point: ~아/어지다 [a/eojida] (To become)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, the grammar pattern **~아/어지다** (_a/eojida_) is commonly used to express a change or transformation in the state or condition of something or someone. It translates to "to become" or "to get" in English and is essential for describing how things change over time.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 ### Meaning
 - **~아/어지다** is attached to the stem of an adjective (also known as descriptive verbs in Korean) to indicate that someone or something **becomes** or **gets** a certain way.
@@ -37,7 +38,7 @@ To form this pattern:
 | Other Vowels       | -어지다   | 많 (많다)    | 많아지다        |
 | Stem ends with 하  | -해지다   | 행복하       | 행복해지다      |
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Comparison with **-게 되다**
 While **~아/어지다** is used with adjectives to express a change in state, **-게 되다** is used with action verbs to indicate a change that occurs due to external circumstances or fate, often translated as "came to" or "ended up."
 - **~아/어지다** (with adjectives):
@@ -47,7 +48,7 @@ While **~아/어지다** is used with adjectives to express a change in state, *
   - **한국에서 일하게 되었어요.**
     - _I **ended up** working in Korea._
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Speech
 1. **경제가 좋아졌습니다.**
    - _The economy has improved._
@@ -69,7 +70,7 @@ While **~아/어지다** is used with adjectives to express a change in state, *
 2. **새로운 친구를 사귀어서 학교 생활이 즐거워졌어.**
    - _I made new friends, so school life has become enjoyable._
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - In Korean society, noticing and commenting on changes, especially improvements, is a common way to show interest and care.
 - Using **~아/어지다** allows speakers to politely acknowledge changes in someone's life or environment.
@@ -86,7 +87,7 @@ While **~아/어지다** is used with adjectives to express a change in state, *
 - **얼굴이 피다**
   - Literally "face blooms," meaning someone's appearance has improved significantly.
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Using with Action Verbs Incorrectly**
    - **Incorrect:** _먹어지다_ (to become eaten)
@@ -102,7 +103,7 @@ While **~아/어지다** is used with adjectives to express a change in state, *
 - **Practice with Opposites:** Learn pairs of adjectives to express changes in both directions.
   - **추워지다** (to become colder) ↔ **따뜻해지다** (to become warmer)
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~아/어지다** is used to express a change in state with adjectives.
 - Conjugate based on vowel harmony and stem endings.
@@ -117,7 +118,6 @@ While **~아/어지다** is used with adjectives to express a change in state, *
    - **Answer:** False
 ---
 By mastering **~아/어지다**, you can describe changes in states or conditions effectively, enriching your Korean communication skills.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

@@ -1,10 +1,9 @@
 Processing keyword: ~았/었어야 했다 [ass/eosseoya haessda] (Should have done)
 # Korean Grammar Point: ~았/었어야 했다 [ass/eosseoya haessda] (Should have done)
-# Grammar Point: ~았/었어야 했다 [ass/eosseoya haessda] (Should have done)
 
----
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~았/었어야 했다**, which translates to **"should have done"** in English. This expression is used to convey regret or the realization that an action **ought to have been done** in the past but wasn't.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -86,7 +85,6 @@ To construct sentences using **~았/었어야 했다**:
    - **Answer**: **마셨어야 했다** (Proper conjugation of **마시다**).
 ---
 By mastering **~았/었어야 했다**, you'll enhance your ability to express past regrets and engage in more nuanced conversations in Korean.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

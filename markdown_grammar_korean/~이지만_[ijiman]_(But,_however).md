@@ -1,6 +1,6 @@
 Processing keyword: ~이지만 [ijiman] (But, however)
 # Korean Grammar Point: ~이지만 [ijiman] (But, however)
-# ~이지만 [ijiman] (But, However)
+
 ## 1. Introduction
 In Korean, expressing contrast or opposition within sentences is essential for fluent communication. The grammar point **~이지만** [ijiman] is a conjunction used to connect two clauses where the second clause contrasts with the first. It is equivalent to "but" or "however" in English and is specifically used after nouns.
 
@@ -37,11 +37,14 @@ The structure of **~이지만** depends on whether the noun ends with a consonan
 ### Comparing **~이지만** with **~지만**
 - **~지만** is a verb/adjective ending meaning "but" or "although" used after verb and adjective stems.
 - **~이지만** is specifically used after nouns due to the copular verb "이다" (to be).
+
 | Grammar Point | Attached to      | Example               |
 |---------------|------------------|-----------------------|
 | **~지만**     | Verb/Adjective   | 먹다 → 먹지만          |
 | **~이지만**   | Noun             | 의사 → 의사이지만      |
+
 **Note:** When using **~지만** after verbs or adjectives, you simply attach **지만** to the stem without "이".
+
 ---
 ## 4. Examples in Context
 ### Formal Situations

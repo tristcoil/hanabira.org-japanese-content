@@ -1,6 +1,6 @@
 Processing keyword: ~에 따라 [e ddara] (According to, depends on)
 # Korean Grammar Point: ~에 따라 [e ddara] (According to, depends on)
-# Korean Grammar Lesson: ~에 따라 [e ttara] (According to, Depends on)
+
 ## 1. Introduction
 In this lesson, we'll delve into the grammar point **~에 따라**, which is essential for expressing dependency or variation based on certain conditions in Korean. Understanding this structure will enhance your ability to articulate how outcomes or actions change according to different factors.
 
@@ -72,6 +72,7 @@ _"Behavior changes according to time."_
 **B:** 사람 수에 따라 달라질 것 같아요.
 _A: Where shall we eat?  
 B: It seems it'll depend on the number of people._
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -81,6 +82,7 @@ In Korean culture, context and situational factors play a significant role in co
   _"To change with the seasons."_
 - **경우에 따라 다르다**  
   _"It depends on the case/situation."_
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

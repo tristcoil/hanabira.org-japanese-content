@@ -1,6 +1,6 @@
 Processing keyword: ~았/었던 [at/eotdeon] (That used to be)
 # Korean Grammar Point: ~았/었던 [at/eotdeon] (That used to be)
-# Understanding the Korean Grammar Point: ~았/었던 (~at/eotdeon) (That Used to Be)
+
 ## 1. Introduction
 In Korean, expressing actions or states that occurred in the past and have since changed is essential for nuanced communication. The grammar point **~았/었던** allows speakers to describe things that **used to be** in a particular way but are no longer the same. This lesson will guide you through understanding and using **~았/었던** effectively.
 
@@ -119,7 +119,6 @@ In Korean, expressing actions or states that occurred in the past and have since
    - **Answer**: 우리가 만났던 장소
 ---
 By understanding and using **~았/었던**, you can effectively communicate past experiences and how things have changed, adding depth to your Korean language skills.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

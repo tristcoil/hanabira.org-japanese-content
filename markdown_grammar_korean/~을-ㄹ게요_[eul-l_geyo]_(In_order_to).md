@@ -1,6 +1,6 @@
 Processing keyword: ~을/ㄹ게요 [eul/l geyo] (In order to)
 # Korean Grammar Point: ~을/ㄹ게요 [eul/l geyo] (In order to)
-# Grammar Lesson: ~(으)ㄹ게요 [~eul/ l-geyo]
+
 ## 1. Introduction
 In this lesson, we will explore the Korean grammar point **~(으)ㄹ게요**, a verb ending used to express the speaker's intention, promise, or willingness to do something, often considering the listener's feelings or needs. Understanding this grammar will help you convey commitment and responsiveness in your conversations.
 

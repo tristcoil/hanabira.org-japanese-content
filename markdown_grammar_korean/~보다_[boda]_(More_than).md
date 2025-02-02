@@ -1,6 +1,6 @@
 Processing keyword: ~보다 [boda] (More than)
 # Korean Grammar Point: ~보다 [boda] (More than)
-# ~보다 [boda] (More Than)
+
 ## 1. Introduction
 In Korean, making comparisons is an essential part of daily communication. The particle "**~보다**" (_boda_), meaning "**more than**" or "**than**", is commonly used to compare two nouns. Understanding how to use "~보다" will enhance your ability to express preferences, differences, and comparisons accurately in Korean.
 
@@ -25,12 +25,14 @@ The general structure using "~보다" is:
 ### Example Breakdown
 - **Sentence**: 사과가 배보다 **더** 맛있어요.
 - **Translation**: Apples are more delicious than pears.
+
 | Component          | Korean       | Explanation                                   |
 |--------------------|--------------|-----------------------------------------------|
 | Noun1 + 이/가      | 사과가       | Apples (subject of the sentence)              |
 | Noun2 + 보다       | 배보다       | Than pears (standard of comparison)           |
 | 더 (optional)      | 더           | More (emphasizes the comparison)              |
 | Adjective/Verb     | 맛있어요     | Are delicious (describes Noun1)               |
+
 ---
 ## 3. Comparative Analysis
 ### Comparison with Similar Grammar Points
@@ -112,8 +114,9 @@ The general structure using "~보다" is:
    - **Answer**: Both are correct.
    - **Explanation**: Both sentences correctly compare Seoul to Busan using "~보다".
 ---
+
 👏 **Well done!** You've learned how to use "~보다" to make comparisons in Korean. Try creating your own sentences to further solidify your understanding.
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

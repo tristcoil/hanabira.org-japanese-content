@@ -1,6 +1,6 @@
 Processing keyword: ~이미 [imi] (Already)
 # Korean Grammar Point: ~이미 [imi] (Already)
-# ~이미 [imi] (Already)
+
 ## 1. Introduction
 In Korean, the adverb **이미** (*imi*) translates to **"already"** in English. It is used to indicate that an action or state has occurred before the current time or earlier than expected. Mastering the use of **이미** will help you express past actions and states more precisely and enhance your fluency in Korean.
 
@@ -33,10 +33,12 @@ While both **이미** and **벌써** mean "already," they are used in slightly d
 - **이미** (*imi*): Used when the speaker is stating a known fact or when both the speaker and listener are aware of the situation.
 - **벌써** (*beolsseo*): Used when the speaker expresses surprise or when something occurs sooner than expected.
 **Comparison Table:**
+
 |         | **이미**                                     | **벌써**                                  |
 |---------|----------------------------------------------|-------------------------------------------|
 | **Usage** | Known facts, emphasis on prior occurrence   | Surprise, earlier than expected            |
 | **Example** | 그 영화는 **이미** 끝났어요. <br>_(The movie has already ended.)_ | **벌써** 5시예요? <br>_(Is it already 5 o'clock?)_ |
+
 ---
 ## 4. Examples in Context
 ### Sentence Examples
@@ -104,7 +106,6 @@ b) **벌써**
 - **True**
 ---
 By understanding and practicing the use of **이미**, you can express past actions more naturally and accurately in Korean.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

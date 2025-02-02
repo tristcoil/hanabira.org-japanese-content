@@ -1,6 +1,6 @@
 Processing keyword: ~으나마나 [eunamana] (It's no use, to no avail)
 # Korean Grammar Point: ~으나마나 [eunamana] (It's no use, to no avail)
-# ~으나마나 (~eunamana) *(It's no use, to no avail)*
+
 ## 1. Introduction
 In Korean, the expression **~으나마나** is used to convey that an action will not influence the outcome; that is, "it's no use" doing something because the result will be the same regardless. This grammar point emphasizes the futility or ineffectiveness of an action.
 
@@ -118,7 +118,6 @@ For **Action Verbs**:
    b) **으나마나**  
    > **Answer**: **b) 으나마나**  
    > *Because **두드리다** ends with a consonant sound "ㄹ" in **두드리**.*
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

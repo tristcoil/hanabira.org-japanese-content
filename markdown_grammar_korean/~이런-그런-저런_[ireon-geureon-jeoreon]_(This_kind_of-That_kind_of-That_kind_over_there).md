@@ -1,6 +1,6 @@
 Processing keyword: ~이런/그런/저런 [ireon/geureon/jeoreon] (This kind of/That kind of/That kind over there)
 # Korean Grammar Point: ~이런/그런/저런 [ireon/geureon/jeoreon] (This kind of/That kind of/That kind over there)
-# Understanding ~이런/그런/저런 [이런/그런/저런]
+
 ## 1. Introduction
 In Korean, demonstrative adjectives like **이런** (ireon), **그런** (geureon), and **저런** (jeoreon) are essential for describing objects, actions, or situations relative to the speaker and listener. They translate to "this kind of," "that kind of," and "that kind of over there," respectively. Mastering these terms will enhance your ability to describe and differentiate between various topics in conversation.
 

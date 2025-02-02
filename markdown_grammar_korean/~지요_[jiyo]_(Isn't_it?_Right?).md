@@ -1,13 +1,14 @@
 Processing keyword: ~지요 [jiyo] (Isn't it? Right?)
 # Korean Grammar Point: ~지요 [jiyo] (Isn't it? Right?)
-# 1. Introduction
+
+## 1. Introduction
 The Korean sentence ending **~지요** (pronounced *jiyo*) is a versatile grammatical tool used to:
 - Seek agreement or confirmation (Isn't it? Right?)
 - Provide explanations or background information
 - Soften statements or suggestions
 - Express certainty about a shared knowledge
 Understanding **~지요** will help you engage more naturally in conversations and express nuances in your speech.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning and Usage
 ### Primary Functions of **~지요**
 1. **Seeking Confirmation or Agreement**
@@ -58,7 +59,7 @@ Example:
 Contraction:
 가지요 → 가죠
 ```
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 Understanding similar grammatical endings helps distinguish their unique uses.
 ### Comparing **~지요** and **~죠**
 - **~지요** is the full form.
@@ -77,7 +78,7 @@ Understanding similar grammatical endings helps distinguish their unique uses.
 - **~잖아요** is used to remind or correct someone about something already known.
   - *그 책이 어렵잖아요.*
     - You know that book is difficult.
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Speech
 1. **Confirmation Seeking**
    - *내일 회의가 있지요?*
@@ -100,7 +101,7 @@ Understanding similar grammatical endings helps distinguish their unique uses.
 1. **Emphasis**
    - *당연하지!* (Using the shortened form)
      - Of course!
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Politeness and Social Harmony
 - Using **~지요** reflects Korean cultural values of modesty and politeness.
 - It softens statements, making them less direct and more inclusive.
@@ -116,7 +117,7 @@ Understanding similar grammatical endings helps distinguish their unique uses.
   - That's right.
 - **역시 그렇지요**
   - As expected.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Overusing in Formal Writing**
    - **~지요** is less common in very formal or academic writing.
@@ -134,7 +135,7 @@ Understanding similar grammatical endings helps distinguish their unique uses.
   Use the contracted form **~죠** to sound more natural in spoken Korean.
 - **Contextual Usage**
   Practice forming sentences in different contexts (questions, statements, suggestions).
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~지요** is used to seek confirmation, provide explanations, soften statements, or express certainty.
 - It can be contracted to **~죠** in spoken Korean.

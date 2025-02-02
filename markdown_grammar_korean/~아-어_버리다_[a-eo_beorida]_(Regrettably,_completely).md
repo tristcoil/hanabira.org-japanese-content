@@ -1,6 +1,6 @@
 Processing keyword: ~아/어 버리다 [a/eo beorida] (Regrettably, completely)
 # Korean Grammar Point: ~아/어 버리다 [a/eo beorida] (Regrettably, completely)
-# ~아/어 버리다 [a/eo beorida] (Regrettably, completely)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~아/어 버리다**, which is used to express the completion of an action, often with emotional nuances such as regret, relief, or finality. Mastering this grammar structure will allow you to convey subtle emotional contexts and deepen your understanding of Korean expressions.
 
@@ -99,11 +99,14 @@ In Korean culture, subtle expression of emotions is common. The use of **~아/�
 ### Quick Recap Quiz
 1. **Fill in the blank with the correct form of ~아/어 버리다:**
    어제 친구들과 영화를 보고 늦게 잠들어서 오늘 아침에 일어나지 못___.
+   
    **Answer:** 못해버렸어.
 2. **True or False:** ~아/어 버리다 can only be used to express negative emotions.
+   
    **Answer:** **False.** It can express both negative (regret) and positive (relief) emotions.
 3. **Identify and correct the mistake:**
    그는 모든 돈을 써아 버렸어요.
+   
    **Answer:** 써버렸어요. (The correct form is **써 버렸어요**.)
 ---
 Feel free to revisit this lesson to reinforce your understanding of **~아/어 버리다** and practice using it in various contexts!

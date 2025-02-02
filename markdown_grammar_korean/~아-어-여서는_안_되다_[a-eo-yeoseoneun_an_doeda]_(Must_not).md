@@ -1,6 +1,6 @@
 Processing keyword: ~아/어/여서는 안 되다 [a/eo/yeoseoneun an doeda] (Must not)
 # Korean Grammar Point: ~아/어/여서는 안 되다 [a/eo/yeoseoneun an doeda] (Must not)
-# ~아/어/여서는 안 되다 [a/eo/yeoseoneun an doeda] (Must Not)
+
 ## 1. Introduction
 The grammatical structure **~아/어/여서는 안 되다** in Korean is used to express prohibition or to indicate that something must not be done. It's an essential pattern for conveying rules, prohibitions, or expressing strong disapproval of certain actions. Understanding this grammar point will help you communicate restrictions and understand Korean rules and guidelines effectively.
 

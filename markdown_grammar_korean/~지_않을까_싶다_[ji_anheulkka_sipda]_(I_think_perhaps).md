@@ -1,10 +1,9 @@
 Processing keyword: ~지 않을까 싶다 [ji anheulkka sipda] (I think perhaps)
 # Korean Grammar Point: ~지 않을까 싶다 [ji anheulkka sipda] (I think perhaps)
-# Understanding the Korean Grammar Point: ~지 않을까 싶다 [ji anheulkka sipda] (I think perhaps)
 
----
 ## 1. Introduction
 In Korean, expressing tentative thoughts or speculations is a nuanced way to convey opinions without being too direct. One such expression is **~지 않을까 싶다**, which translates to "I think perhaps" or "I wonder if". This grammar point allows speakers to share their thoughts modestly and is commonly used in both spoken and written Korean.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -112,6 +111,7 @@ Create sentences using **~지 않을까 싶다** with the following words:
 1. **만나다** (to meet)
 2. **필요하다** (to be necessary)
 3. **높다** (to be high)
+
 **Answers:**
 1. **그를 만나지 않을까 싶어요.**
    - *I think perhaps I might meet him.*

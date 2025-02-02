@@ -1,6 +1,6 @@
 Processing keyword: ~인데다 [indeda] (Moreover, besides)
 # Korean Grammar Point: ~인데다 [indeda] (Moreover, besides)
-# ~인데다 [indeda] (Moreover, Besides)
+
 ## 1. Introduction
 In Korean, the grammar point **~인데다** [indeda] is used to **add information** to a statement, similar to "moreover," "besides," or "in addition to" in English. It connects two clauses to express that one situation occurs on top of another, emphasizing the combined effects or conditions.
 
@@ -144,7 +144,6 @@ The structure of **~인데다** varies depending on whether it is attached to a 
 2. **b)** 큰데다
 ---
 By understanding and practicing the usage of **~인데다**, you can enhance your Korean language skills, allowing you to express additional information smoothly within your sentences.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

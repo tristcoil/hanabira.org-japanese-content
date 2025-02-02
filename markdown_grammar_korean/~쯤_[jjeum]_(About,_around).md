@@ -1,6 +1,6 @@
 Processing keyword: ~쯤 [jjeum] (About, around)
 # Korean Grammar Point: ~쯤 [jjeum] (About, around)
-# Korean Grammar Lesson: ~쯤 [jjeum] (About, Around)
+
 ## 1. Introduction
 In Korean, expressing approximations is essential for everyday conversations, especially when talking about quantities, times, or distances. The suffix **~쯤** [jjeum] is commonly used to indicate "about" or "around" a certain amount. This lesson will delve into the usage of **~쯤**, helping you understand how to naturally incorporate it into your Korean speech.
 

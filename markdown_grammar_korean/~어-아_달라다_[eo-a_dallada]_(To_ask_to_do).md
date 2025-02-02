@@ -1,6 +1,6 @@
 Processing keyword: ~어/아 달라다 [eo/a dallada] (To ask to do)
 # Korean Grammar Point: ~어/아 달라다 [eo/a dallada] (To ask to do)
-# Understanding the Grammar Point: ~어/아 달라다 (To Ask Someone to Do Something)
+
 ## 1. Introduction
 In Korean, expressing a request for someone to do something involves specific grammatical constructions. One such structure is **~어/아 달라다**, which is used when **asking someone to perform an action for the speaker**. Mastering this grammar point will enhance your ability to make polite requests and navigate social interactions in Korean.
 

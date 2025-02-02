@@ -1,6 +1,6 @@
 Processing keyword: ~아/어야지 [a/eoyaji] (I should, I better)
 # Korean Grammar Point: ~아/어야지 [a/eoyaji] (I should, I better)
-# ~아/어야지 (~a/eoyaji): Expressing Determination or Obligation
+
 ## 1. Introduction
 In Korean, expressing personal determination or a strong sense of obligation can be nuanced. The grammar pattern **~아/어야지** is used to convey a speaker's intention to take action, similar to saying "I should" or "I better" in English. This pattern reflects the speaker's resolve to perform an action, often after realizing its necessity.
 

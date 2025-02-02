@@ -1,8 +1,9 @@
 Processing keyword: ~진 않지만 [jin anhjiman] (Not exactly, but)
 # Korean Grammar Point: ~진 않지만 [jin anhjiman] (Not exactly, but)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~진 않지만** *(jin anjiman)*, which translates to **"Not exactly..., but..."** in English. This expression is used to make a concession or partially disagree while introducing a contrasting statement. Understanding this grammar point will enhance your ability to express nuance and contrast in Korean conversations.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 ### Meaning
 The grammar point **~진 않지만** is used to acknowledge that something is **not entirely true** or **not exactly as stated**, but there's an exception or contrasting point to be made. It allows the speaker to softly disagree or present an alternative perspective without completely negating the previous statement.
@@ -31,7 +32,7 @@ However, in spoken Korean, **~지는 않지만** often contracts to **~진 않�
 | Negative Verb    | 않다            | do not           |
 | Conjunction      | 지만            | but              |
 | Combined         | 먹진 않지만     | Not exactly eat, but... |
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Comparing **~진 않지만** with **~지 않지만**
 While **~지 않지만** and **~진 않지만** have similar meanings, **~진 않지만** is a **contracted and more colloquial form**.
 - **~지 않지만**: Standard form; may sound more formal or written.
@@ -43,7 +44,7 @@ Another similar grammar point is **~기는 하지만**, which also expresses con
 - **먹진 않지만 배는 고프지 않아요.**
   - *I don't exactly eat, but I'm not hungry.*
 **~기는 하지만** emphasizes the action occurred but introduces a contrasting result, while **~진 않지만** emphasizes that the action did not occur, leading to a contrast.
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example Sentences
 1. **영화를 보진 않지만 내용은 알고 있어요.**
    - *I didn't exactly watch the movie, but I know the content.*
@@ -62,7 +63,7 @@ Another similar grammar point is **~기는 하지만**, which also expresses con
 - **Informal (Casual Conversation):**
   - **시간이 없진 않지만 만나긴 어려워.**
     - *It's not that I don't have time, but it's hard to meet.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, indirect communication is often preferred to maintain harmony and avoid confrontation. Using expressions like **~진 않지만** allows speakers to gently introduce a differing opinion or a contrasting statement without being too direct or forceful.
 ## Levels of Politeness and Formality
@@ -72,7 +73,7 @@ The use of **~진 않지만** is neutral and can be adjusted for formality by co
 - **Formal:** 먹진 않지만입니다.
 ## Idiomatic Expressions
 While there aren't specific idioms that use **~진 않지만**, this structure is commonly found in everyday speech to soften statements and is integral in expressing nuances.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Omitting the contraction:** Learners might use **~지 않지만** instead of **~진 않지만**, which isn't incorrect but may sound less natural in spoken Korean.
 - **Misplacing negation:** Placing **않지만** incorrectly can change the meaning. Ensure it directly follows the **~지** form.
@@ -81,7 +82,7 @@ While there aren't specific idioms that use **~진 않지만**, this structure i
 ## Learning Strategies
 - **Mnemonic Device:** Remember that **~진** is a contraction of **~지는**, so think of it as **"Not doing..., but..."**.
 - **Practice with Common Verbs:** Use verbs you frequently encounter to form sentences with **~진 않지만**.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~진 않지만** is used to express **"Not exactly..., but..."**.
 - It softens statements, allowing for gentle contrast or partial disagreement.
@@ -94,7 +95,8 @@ While there aren't specific idioms that use **~진 않지만**, this structure i
    - **Answer:** **커피를 좋아하진 않지만 차를 더 선호해요.**
 3. What is the purpose of using **~진 않지만** in a sentence?
    - **Answer:** To acknowledge that something is not exactly the case while introducing a contrasting point, often to soften the statement.
-# Thank you!
+
+---
 Keep practicing using **~진 않지만** in your daily conversations to become more comfortable with expressing nuanced thoughts in Korean.
 
 ---

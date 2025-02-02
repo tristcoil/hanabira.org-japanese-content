@@ -1,6 +1,6 @@
 Processing keyword: ~에게 [ege] (To someone, for someone)
 # Korean Grammar Point: ~에게 [ege] (To someone, for someone)
-# ~에게 [ege] (To someone, For someone)
+
 ## 1. Introduction
 In Korean, particles play a crucial role in indicating the relationship between words in a sentence. The particle **~에게 [ege]** is commonly used to denote the indirect object of a verb, essentially meaning **"to someone"** or **"for someone"**. Understanding how to use **~에게** correctly will enhance your ability to form more natural and expressive sentences in Korean.
 
@@ -15,20 +15,24 @@ The particle **~에게** is attached directly to a noun (usually a person or ani
 Noun (Person/Animate Object) + 에게
 ```
 ### Formation Diagram
+
 | Component                  | Usage                     | Example           |
 |----------------------------|---------------------------|-------------------|
 | **Noun**                   | Person/Animate object     | 친구 (friend)     |
 | **+ 에게**                 | Particle indicating "to"  | 친구에게 (to a friend) |
+
 ---
 ## 3. Comparative Analysis
 While **~에게** is used to indicate "to someone," there are other particles with similar meanings that are used in different contexts.
 ### Comparison with Similar Particles
+
 | Particle    | Usage                                 | Politeness Level | Example                      |
 |-------------|---------------------------------------|------------------|------------------------------|
 | **~에게**   | To someone (written/formal contexts)  | Neutral          | 선생님에게 (to the teacher)  |
 | **~한테**   | To someone (spoken/informal contexts) | Informal         | 친구한테 (to a friend)       |
 | **~께**     | To someone (honorific)                | Formal Honorific | 할아버지께 (to grandfather)  |
 | **~에**     | To a place or time                    | N/A              | 학교에 (to school)           |
+
 ---
 ## 4. Examples in Context
 ### Formal Written Context
@@ -93,6 +97,7 @@ Korean language has a hierarchical structure of politeness levels. Choosing the 
    c) 께  
 2. Fill in the blank: 친구___ 메시지를 보냈어요. (I sent a message to my friend.)
 3. True or False: ~에게 can be used with inanimate objects.
+
 **Answers:**
 1. c) 께 (선생님께 책을 드렸어요.)
 2. 에게 (친구에게 메시지를 보냈어요.)

@@ -1,6 +1,6 @@
 Processing keyword: ~을/ㄹ 거예요 [eul/l geoyeyo] (Going to, will)
 # Korean Grammar Point: ~을/ㄹ 거예요 [eul/l geoyeyo] (Going to, will)
-# ~을/ㄹ 거예요 [eul/l geoyeyo] (Going to, Will)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~을/ㄹ 거예요**, which is used to express future actions or plans. Similar to "going to" or "will" in English, this structure helps you talk about what you intend to do or what will happen in the future.
 
@@ -95,7 +95,6 @@ In Korean culture, being clear about one's plans is appreciated, and using **~�
 3. There is no mistake. **마시다** ends with a vowel **시**, so **마실 거예요** is correct.
 ---
 By mastering **~을/ㄹ 거예요**, you can confidently talk about future events and your plans in Korean. Keep practicing with different verbs to become more comfortable with this essential grammar point!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

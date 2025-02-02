@@ -1,6 +1,6 @@
 Processing keyword: ~았/었으면 [ass/eosseumyeon] (I wish it were)
 # Korean Grammar Point: ~았/었으면 [ass/eosseumyeon] (I wish it were)
-# ~았/었으면 (~ass/eosseumyeon) - Expressing Wishes or Regrets
+
 ## 1. Introduction
 In Korean, expressing wishes, hopes, or regrets about situations often requires specific grammar structures. One such structure is **~았/었으면**, which conveys a desire for a situation that is contrary to reality or current circumstances. It translates closely to "I wish..." or "If only..." in English.
 
@@ -14,11 +14,13 @@ The grammar point **~았/었으면** is used to:
 ### Structure
 The structure involves attaching **~았으면** or **~었으면** to the verb stem.
 #### Formation Diagram
+
 | Verb Stem Ending                   | Add       | Example Verb | Verb Stem | Combined Form  |
 |------------------------------------|-----------|--------------|-----------|----------------|
 | Vowel **아** or **오**               | ~았으면    | 가다 (to go)  | 가         | 갔으면         |
 | Other vowels                       | ~었으면    | 먹다 (to eat) | 먹         | 먹었으면       |
 | Verb 하다                           | ~였으면    | 공부하다 (to study) | 공부하     | 공부했으면     |
+
 *Note: **하였으면** often contracts to **했으면** in spoken and written Korean.*
 ### How to Form It
 1. **Identify the verb stem** by removing **다** from the dictionary form.
@@ -70,6 +72,7 @@ The structure involves attaching **~았으면** or **~었으면** to the verb st
 _Been so busy these days; it's tough._
 **B:** 휴가를 갔었으면 좋았을 텐데.
 _I wish you had gone on vacation._
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -81,6 +84,7 @@ _I wish you had gone on vacation._
 ### Idiomatic Expressions
 - **꿈이었으면 좋겠다**: _I wish it were a dream._
 - **다 잊었으면 좋겠어**: _I wish I could forget everything._
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

@@ -1,10 +1,9 @@
 Processing keyword: ~에 비추어 볼 때 [e bichueo bol ttae] (In comparison to)
 # Korean Grammar Point: ~에 비추어 볼 때 [e bichueo bol ttae] (In comparison to)
-# Korean Grammar Lesson: ~에 비추어 볼 때 [e bichueo bol ttae] (In comparison to)
 
----
 ### 1. Introduction
 In this lesson, we'll explore the grammar point **~에 비추어 볼 때**, which translates to **"in comparison to"**, **"considering"**, or **"in light of"** in English. This expression is used to evaluate or judge something based on a particular standard or perspective.
+
 ---
 ### 2. Core Grammar Explanation
 #### Meaning
@@ -13,11 +12,13 @@ In this lesson, we'll explore the grammar point **~에 비추어 볼 때**, whic
 #### Structure
 - **Noun + 에 비추어 볼 때**
 #### Breakdown of Components
+
 | Component        | Meaning                                          |
 | ---------------- | ------------------------------------------------ |
 | **에**           | Particle meaning "in", "at", "to"                |
 | **비추어**       | From **비추다** (to shine, to illuminate), connective form |
 | **볼 때**        | "when looking", "when considering"               |
+
 **Formation Diagram:**
 ```
 [Noun] + 에 + 비추어 + 볼 때

@@ -1,10 +1,9 @@
 Processing keyword: ~아/어야 되다/하다 [a/eoya dweda/hada] (Have to, must)
 # Korean Grammar Point: ~아/어야 되다/하다 [a/eoya dweda/hada] (Have to, must)
-# Korean Grammar Lesson: ~아/어야 되다/하다 [a/eoya dweda/hada] (Have to, Must)
 
----
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~아/어야 되다/하다**, which is used to express obligation or necessity, similar to "have to" or "must" in English. Mastering this structure will help you convey duties, responsibilities, and necessities accurately in Korean.
+
 ---
 ## 2. Core Grammar Explanation
 ### Detailed Explanation
@@ -101,7 +100,6 @@ The choice between **되다** and **하다** is generally interchangeable in thi
    - **Sample Answer**: 책을 읽어야 돼요.
 ---
 Keep practicing this grammar point by applying it in your daily conversations. Understanding and using **~아/어야 되다/하다** will significantly enhance your ability to express necessity and obligations in Korean.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

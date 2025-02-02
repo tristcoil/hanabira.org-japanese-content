@@ -1,6 +1,6 @@
 Processing keyword: ~을 빼다 [eul ppaeda] (Except for)
 # Korean Grammar Point: ~을 빼다 [eul ppaeda] (Except for)
-# Grammar Point: ~을 빼다 [eul ppaeda] (Except for)
+
 ## 1. Introduction
 In Korean, expressing exceptions or exclusions in a sentence is essential for clear communication. The grammar point **~을 빼다** is used to convey the meaning of "except for" or "excluding." This lesson will delve into the usage of **~을 빼다**, provide detailed explanations, compare it with similar expressions, and offer practical examples to enhance your understanding.
 
@@ -18,8 +18,8 @@ The structure combines a noun with the object particle **~을/를** and the verb
 | Component      | Function                |
 |----------------|-------------------------|
 | Noun           | The item being excluded |
-| 을/를          | Object particle          |
-| 빼다           | Verb meaning "to remove" |
+| 을/를           | Object particle         |
+| 빼다            | Verb meaning "to remove"|
 ```
 ---
 ## 3. Comparative Analysis

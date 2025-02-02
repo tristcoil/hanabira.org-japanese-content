@@ -1,6 +1,6 @@
 Processing keyword: ~이지만 [ijiman] (But, although)
 # Korean Grammar Point: ~이지만 [ijiman] (But, although)
-# Understanding the Grammar Point: ~이지만 [ijiman] (But, Although)
+
 ## 1. Introduction
 In Korean, expressing contrast or contradiction is essential for nuanced communication. The grammar point **~이지만** is commonly used to mean **"but"** or **"although"** when connecting two contrasting ideas involving nouns. This lesson will explore how to use ~이지만 effectively in various contexts.
 

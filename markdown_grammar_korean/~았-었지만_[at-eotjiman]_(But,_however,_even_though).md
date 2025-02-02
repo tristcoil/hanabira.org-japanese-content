@@ -1,6 +1,6 @@
 Processing keyword: ~았/었지만 [at/eotjiman] (But, however, even though)
 # Korean Grammar Point: ~았/었지만 [at/eotjiman] (But, however, even though)
-# Korean Grammar Lesson: ~았/었지만 [at/eotjiman] (But, However, Even Though)
+
 ## 1. Introduction
 In Korean, expressing contrast between two actions or states is essential for clear communication. The grammar pattern **~았/었지만** is used to connect two clauses, indicating that even though the first action occurred, the result was contrary to what might be expected. It translates to "but," "however," or "even though" in English.
 
@@ -97,7 +97,6 @@ In Korean, expressing contrast between two actions or states is essential for cl
    - Corrected: *나는 먹었지만 아직도 배고파요.*
 ---
 By practicing **~았/었지만**, you'll enhance your ability to express contrasts and nuances in past events, making your Korean conversations more natural and engaging.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

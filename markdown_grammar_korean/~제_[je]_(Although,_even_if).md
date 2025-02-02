@@ -1,6 +1,6 @@
 Processing keyword: ~제 [je] (Although, even if)
 # Korean Grammar Point: ~제 [je] (Although, even if)
-# ~(으)ㄹ지라도 [~(eu)l ji-ra-do] (Even if, Although)
+
 ## 1. Introduction
 The grammar point **~(으)ㄹ지라도** is used in Korean to express the meaning of "even if" or "although". It sets up a hypothetical or contrasting condition, acknowledging a certain possibility but indicating that it does not affect the outcome.
 This structure is often employed in formal writing and speeches to emphasize determination or to express concessions. Understanding **~(으)ㄹ지라도** enhances your ability to articulate complex conditional statements in Korean.

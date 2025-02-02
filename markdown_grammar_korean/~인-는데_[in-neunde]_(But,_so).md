@@ -1,6 +1,6 @@
 Processing keyword: ~인/는데 [in/neunde] (But, so)
 # Korean Grammar Point: ~인/는데 [in/neunde] (But, so)
-# ~인/는데 [in/neunde] (But, So)
+
 ## 1. Introduction
 The Korean conjunctive ending **~인/는데** is a versatile grammar point used to connect sentences, provide background information, contrast ideas, or show a cause-effect relationship. It is an essential tool for making speech and writing more cohesive and natural in Korean. Understanding how to use **~인/는데** will greatly enhance your ability to express complex thoughts and engage in more advanced conversations.
 
@@ -42,11 +42,14 @@ The ending you attach depends on whether the word is a **verb**, **adjective**, 
 ---
 ## 3. Comparative Analysis
 ### Comparison with ~지만 (But)
+
 | Grammar Point | Usage                   | Example                                 |
 |---------------|-------------------------|-----------------------------------------|
 | ~는데         | Softer contrast, background info | 날씨가 추운데 나갑니다.<br>(It's cold but I'm going out.) |
 | ~지만         | Direct contrast         | 날씨가 춥지만 나갑니다.<br>(It's cold but I'm going out.) |
+
 **~는데** often implies a softer contrast or provides background information, whereas **~지만** is used for a direct contrast.
+
 ---
 ## 4. Examples in Context
 ### Example Sentences
@@ -78,6 +81,7 @@ The ending you attach depends on whether the word is a **verb**, **adjective**, 
 Using **~인/는데** is acceptable in both formal and informal contexts. However, attaching polite endings after **~인/는데** is important when speaking to someone of higher status or in formal situations.
 ### Conversation Flow
 In Korean culture, **~인/는데** is often used to keep conversations flowing smoothly. It serves as a way to provide context or background before stating the main point, which is a common discourse pattern in Korean communication.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes

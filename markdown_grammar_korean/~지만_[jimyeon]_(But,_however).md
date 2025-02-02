@@ -1,6 +1,6 @@
 Processing keyword: ~지만 [jimyeon] (But, however)
 # Korean Grammar Point: ~지만 [jimyeon] (But, however)
-# ~지만 (~jiman) - "But, However"
+
 ## 1. Introduction
 In Korean, connecting contrasting ideas or statements is essential for expressing complex thoughts. The grammar point **~지만** (*~jiman*) is commonly used to link two clauses where the second clause presents a contrast or exception to the first. It translates to "but" or "however" in English.
 

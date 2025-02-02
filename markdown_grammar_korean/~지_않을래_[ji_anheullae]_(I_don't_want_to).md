@@ -1,8 +1,10 @@
 Processing keyword: ~지 않을래 [ji anheullae] (I don't want to)
 # Korean Grammar Point: ~지 않을래 [ji anheullae] (I don't want to)
-# Introduction
+
+## Introduction
 In this lesson, we will explore the Korean grammar point **~지 않을래** (*ji anheullae*), which translates to "**I don't want to**" or "**I'm not going to**" in English. This expression is used to convey the speaker's unwillingness or refusal to perform an action, often in a casual or informal context.
-# Core Grammar Explanation
+
+## Core Grammar Explanation
 ## Meaning and Usage
 The grammar pattern **~지 않을래** is used to express:
 - A polite refusal or unwillingness to do something.
@@ -26,7 +28,8 @@ To form **~지 않을래**, follow these steps:
 ### Notes
 - **Politeness Level**: **~(으)ㄹ래요** is considered informal polite. It's appropriate for casual conversations but should be avoided in formal settings.
 - **요** Ending: Adding **요** makes the expression polite. Dropping **요** makes it casual.
-# Comparative Analysis
+
+## Comparative Analysis
 ## Comparison with Similar Grammar Points
 ### ~지 않겠어요 (I will not...)
 - **Usage**: More formal than **~지 않을래요**; used to make a firm statement about not doing something.
@@ -41,7 +44,8 @@ To form **~지 않을래**, follow these steps:
 - **~지 않을래요** implies personal unwillingness with a softer tone.
 - **~지 않겠어요** is more definitive and firm.
 - **~기 싫어요** conveys dislike rather than unwillingness.
-# Examples in Context
+
+## Examples in Context
 ## Sentence Examples
 1. **Informal Polite**
    - *오늘은 영화 보러 가지 않을래요.*
@@ -58,7 +62,8 @@ To form **~지 않을래**, follow these steps:
 5. **Expressing Refusal**
    - *음식은 더 이상 먹지 않을래요.*
      - **Translation**: "I don't want to eat any more food."
-# Cultural Notes
+
+## Cultural Notes
 ## Levels of Politeness and Formality
 - **~지 않을래요** is used in informal polite speech.
 - Appropriate when speaking with:
@@ -74,7 +79,8 @@ To form **~지 않을래**, follow these steps:
 - **하지 않을래야 하지 않을 수가 없다**
   - **Meaning**: "Even if I don't want to do it, I can't avoid doing it."
   - **Usage**: Expressing inevitability despite unwillingness.
-# Common Mistakes and Tips
+
+## Common Mistakes and Tips
 ## Common Mistakes
 1. **Using in Formal Situations**
    - Incorrect: *회의에 참석하지 않을래요.* (to a superior)
@@ -87,7 +93,8 @@ To form **~지 않을래**, follow these steps:
 - **Mnemonic for Formation**: Think "**Verb stem + 지 않 + 을래요**" as "I don't want to do [verb]."
 - **Practice with Common Verbs**: Apply the pattern to frequently used verbs to become comfortable.
 - **Mind the Politeness Level**: Always consider the context and the person you are speaking to.
-# Summary and Review
+
+## Summary and Review
 ## Key Takeaways
 - **~지 않을래** expresses unwillingness or refusal.
 - It is formed by adding **지 않** to the verb stem, followed by **을래요**.
@@ -102,7 +109,8 @@ To form **~지 않을래**, follow these steps:
    a) *먹지 않래요.*
    b) *먹지 않을래요.*
    - **Answer**: b) *먹지 않을래요.*
-# Practice Section
+
+## Practice Section
 Try forming sentences using **~지 않을래요** with the following verbs:
 1. **보다** (to see)
    - **Your Answer**: *보지 않을래요.* ("I don't want to see.")
@@ -110,7 +118,8 @@ Try forming sentences using **~지 않을래요** with the following verbs:
    - **Your Answer**: *만나지 않을래요.* ("I don't want to meet.")
 3. **공부하다** (to study)
    - **Your Answer**: *공부하지 않을래요.* ("I don't want to study.")
-# Conclusion
+
+### Conclusion
 Understanding how to use **~지 않을래** allows you to express your unwillingness politely in Korean. Remember to be mindful of the context and choose the appropriate level of formality when communicating.
 
 ---

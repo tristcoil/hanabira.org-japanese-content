@@ -1,6 +1,6 @@
 Processing keyword: ~을/ㄹ 수록 [eul/l surok] (The more)
 # Korean Grammar Point: ~을/ㄹ 수록 [eul/l surok] (The more)
-# ~을/ㄹ수록 [eul/l surok] (The more)
+
 ## 1. Introduction
 In Korean, expressing comparative degrees, such as "the more you study, the better you become," involves specific grammatical structures. One such structure is **~을/ㄹ수록**, which is used to indicate that as one action or state increases, another action or state also increases. This lesson will delve into the usage of **~을/ㄹ수록**, how to form it, and how to use it naturally in various contexts.
 

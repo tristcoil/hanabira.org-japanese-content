@@ -1,6 +1,6 @@
 Processing keyword: ~아/어 보다 [a/eo boda] (Try)
 # Korean Grammar Point: ~아/어 보다 [a/eo boda] (Try)
-# ~아/어 보다 [a/eo boda] (Try)
+
 ## 1. Introduction
 The Korean grammar structure **~아/어 보다** is commonly used to express the idea of *trying* or *attempting* to do something. It's an essential grammatical construction for learners aiming to convey experiences or suggest trying new actions in Korean. Mastering this grammar point will enhance your ability to express attempts, experiences, and encourage others in everyday conversations.
 

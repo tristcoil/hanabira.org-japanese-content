@@ -1,6 +1,6 @@
 Processing keyword: ~이리 [iri] (This way, like this)
 # Korean Grammar Point: ~이리 [iri] (This way, like this)
-# Grammar Point: ~이리 [iri] (This way, like this)
+
 ## 1. Introduction
 In Korean, the adverb **이리 [iri]** is used to indicate direction towards the speaker or to describe the manner in which something is done. It translates to **"this way"** or **"like this"** in English. Understanding how to use **이리** is essential for everyday conversations, especially when giving directions or demonstrating how to perform an action.
 
@@ -36,6 +36,7 @@ In Korean, the adverb **이리 [iri]** is used to indicate direction towards the
 | **이리 [iri]**  | This way, like this | Towards the speaker or in this manner |
 | **그리 [geuri]** | That way, like that | Towards the listener or previously mentioned manner |
 | **저리 [jeori]** | Over there, like that over there | Away from both speaker and listener |
+
 **Examples:**
 - **그리 가세요.**
   - *Go that way.*

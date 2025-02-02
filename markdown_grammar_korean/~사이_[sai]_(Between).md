@@ -1,6 +1,6 @@
 Processing keyword: ~사이 [sai] (Between)
 # Korean Grammar Point: ~사이 [sai] (Between)
-# Understanding the Grammar Point: ~사이 [sai] (Between) in Korean
+
 ## 1. Introduction
 The Korean term **사이** [sai] translates to **"between"** in English. It is used to express the space, time, or relationship **between** two entities or points. Understanding how to use **~사이** correctly will enhance your ability to describe positions, relationships, and intervals in Korean with greater precision.
 
@@ -14,12 +14,14 @@ The Korean term **사이** [sai] translates to **"between"** in English. It is u
 ### Structure and Formation
 The typical structure involves placing **사이** after two nouns connected by particles like **와/과**, **하고**, or **(이)랑**.
 #### Formation Diagram
+
 | **Structure**                                 | **Usage**                                  |
 |-----------------------------------------------|--------------------------------------------|
 | **Noun1** **와** **Noun2** **사이**            | Between Noun1 and Noun2 (formal)           |
 | **Noun1** **과** **Noun2** **사이**            | Between Noun1 and Noun2 (formal)           |
 | **Noun1** **하고** **Noun2** **사이**          | Between Noun1 and Noun2 (informal)         |
 | **Noun1** **(이)랑** **Noun2** **사이**        | Between Noun1 and Noun2 (casual)           |
+
 - **Note**: Use **와** after a noun ending with a vowel and **과** after a noun ending with a consonant. Similarly, use **이랑** after a consonant and **랑** after a vowel.
 ---
 ## 3. Comparative Analysis

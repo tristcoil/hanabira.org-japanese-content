@@ -1,6 +1,6 @@
 Processing keyword: ~이래 [irae] (Since then, after)
 # Korean Grammar Point: ~이래 [irae] (Since then, after)
-# ~이래 [irae] (Since then, after)
+
 ## 1. Introduction
 Understanding how to express "since then" or "after" in Korean is essential for describing actions or states that have continued from a specific point in time up to the present. The grammar point **~이래** is commonly used to convey this meaning in everyday conversation.
 ## 2. Core Grammar Explanation
@@ -80,13 +80,16 @@ By attaching **~ㄴ/은 이래** to the verb stem, you're expressing that the ac
 - Adjust the politeness level through sentence endings, not by modifying **~이래**.
 ### Quick Recap Quiz
 1. **Question:** How do you attach **~이래** to the verb **살다** (to live)?
-   **Answer:** 살다 → 살 + **-ㄴ 이래** = **산 이래**
-2. **Question:** Translate to Korean: "Since I started working, I've been very busy."
-   **Answer:** 일을 시작한 이래 아주 바빴어요.
-3. **Question:** What is a common mistake when using **~이래**?
-   **Answer:** Attaching **~이래** to the present tense form instead of the past tense verb stem.
 
----
+   **Answer:** 살다 → 살 + **-ㄴ 이래** = **산 이래**
+
+2. **Question:** Translate to Korean: "Since I started working, I've been very busy."
+
+   **Answer:** 일을 시작한 이래 아주 바빴어요.
+
+3. **Question:** What is a common mistake when using **~이래**?
+
+   **Answer:** Attaching **~이래** to the present tense form instead of the past tense verb stem.
 
 ---
 © [Hanabira.org](https://hanabira.org)

@@ -1,6 +1,6 @@
 Processing keyword: ~았/었으면 좋겠다 [at/eosseumyeon joketda] (I wish/hope)
 # Korean Grammar Point: ~았/었으면 좋겠다 [at/eosseumyeon joketda] (I wish/hope)
-# ~았/었으면 좋겠다 [았/었으면 좋겠다] (I wish/hope)
+
 ## 1. Introduction
 The grammar pattern **~았/었으면 좋겠다** is commonly used in Korean to express a **wish**, **hope**, or **desire** about a **past action or state** that affects the present or future. It's a way to convey that you **wish something had happened** or **hope something happens**.
 

@@ -1,6 +1,6 @@
 Processing keyword: ~아/어야지 [a/eoyaji] (I'm going to)
 # Korean Grammar Point: ~아/어야지 [a/eoyaji] (I'm going to)
-# Korean Grammar Lesson: ~아/어야지 [a/eo yaji] (I really should...)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~아/어야지** (*[a/eo yaji]*), which is used to express a strong intention or resolve to do something. This expression is similar to saying "I really should..." or "I ought to..." in English. Mastering this grammar point will help you convey determination and a sense of obligation in everyday conversations.
 

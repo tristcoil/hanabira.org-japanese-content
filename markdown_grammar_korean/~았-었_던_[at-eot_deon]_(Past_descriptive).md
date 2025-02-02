@@ -1,10 +1,9 @@
 Processing keyword: ~았/었 던 [at/eot deon] (Past descriptive)
 # Korean Grammar Point: ~았/었 던 [at/eot deon] (Past descriptive)
-# Understanding the Korean Grammar Point: **~았/었 던** [at/eot deon] (Past Descriptive)
 
----
 ## 1. Introduction
 In Korean, expressing past events or states can be nuanced and varies depending on the context. The grammar point **~았/었 던** is used to describe actions or states that occurred in the past but have implications or relevance to the present. This lesson will delve into the usage of **~았/었 던**, its formation, and how it differs from other past tense expressions.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

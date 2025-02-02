@@ -1,6 +1,6 @@
 Processing keyword: ~아/어/여도 되다 [a/eo/yeodo doeda] (Is it okay to)
 # Korean Grammar Point: ~아/어/여도 되다 [a/eo/yeodo doeda] (Is it okay to)
-# ~아/어/여도 되다 [a/eo/yeodo doeda] (Is it okay to)
+
 ## 1. Introduction
 The Korean grammar point **~아/어/여도 되다** is used to ask for or give permission. It's equivalent to saying "Is it okay to..." or "May I..." in English. This structure is essential for polite interactions in Korean society, where showing respect and seeking approval is important.
 

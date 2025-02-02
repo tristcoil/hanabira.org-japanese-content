@@ -1,6 +1,6 @@
 Processing keyword: ~인 즉 [in jeuk] (In other words)
 # Korean Grammar Point: ~인 즉 [in jeuk] (In other words)
-# Grammar Lesson: ~인즉 [in jeuk] (In Other Words)
+
 ## 1. Introduction
 The Korean grammar point **~인즉** is an expression used to rephrase or summarize a previous statement. It translates to **"in other words," "that is to say,"** or **"so"** in English. Understanding how to use **~인즉** will enhance your ability to clarify statements and improve the flow of your Korean conversations.
 

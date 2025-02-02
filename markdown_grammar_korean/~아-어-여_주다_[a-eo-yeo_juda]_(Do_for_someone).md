@@ -1,6 +1,6 @@
 Processing keyword: ~아/어/여 주다 [a/eo/yeo juda] (Do for someone)
 # Korean Grammar Point: ~아/어/여 주다 [a/eo/yeo juda] (Do for someone)
-# ~아/어/여 주다 [a/eo/yeo juda] (Do for someone)
+
 ## 1. Introduction
 In Korean, expressing that you are doing something **for someone else's benefit** is a common and essential part of communication. The grammar pattern **~아/어/여 주다** is used to indicate that the subject performs an action for someone. Understanding this grammar point will help you make your Korean sound more natural and considerate.
 
@@ -21,17 +21,18 @@ The basic structure is:
    - If the last vowel is anything else, add **어 주다**.
    - For verbs ending in **하다**, it becomes **해 주다**.
 ### Formation Diagram
+
 | Verb            | Verb Stem | Connector  | Combined Form    |
 |-----------------|-----------|------------|------------------|
 | 가다 (to go)    | 가         | 아 주다    | 가아 주다 → 가  주다 |
 | 읽다 (to read)  | 읽         | 어 주다    | 읽어 주다        |
 | 만들다 (to make)| 만들       | 어 주다    | 만들어 주다      |
 | 하다 (to do)    | 하         | 여 주다    | 하여 주다 → 해 주다 |
+
 *Note: For ease of pronunciation, some forms are contracted (e.g., **가아 주다** becomes **가 주다**).*
 ---
 ### Visual Aid: Formation Flowchart
-```mermaid
-graph TD;
+```
     A[Verb] --> B[Remove ~다];
     B --> C{Last vowel ㅏ or ㅗ?};
     C -- Yes --> D[Add 아 주다];
@@ -44,11 +45,13 @@ graph TD;
 ### Comparison with **~아/어/여 주시다**
 - **~아/어/여 주시다** is an honorific form used when the **subject is someone to whom you want to show respect**.
 - **~아/어/여 드리다** is used when **you** are doing something for someone of higher status.
+
 | Grammar Pattern       | Use Case                                 |
 |-----------------------|------------------------------------------|
 | ~아/어/여 주다        | Doing something for someone (neutral)     |
 | ~아/어/여 주시다      | Superior does something for someone       |
 | ~아/어/여 드리다      | Doing something for a superior (humble)   |
+
 ---
 ## 4. Examples in Context
 ### Informal Speech

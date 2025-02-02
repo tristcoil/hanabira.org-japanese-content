@@ -1,10 +1,11 @@
 Processing keyword: ~일수록 [ilsulok] (The more ~, the more ~)
 # Korean Grammar Point: ~일수록 [ilsulok] (The more ~, the more ~)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, expressing a proportional relationship or emphasizing that "the more A happens, the more B happens" is commonly achieved using the grammar pattern **-일수록** [ilsurok]. Understanding this pattern is essential for expressing comparative degrees and drawing connections between two related actions or states.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 ### Meaning
 The grammar pattern **-일수록** translates to **"the more ~, the more ~"** in English. It is used to indicate that as one action or state intensifies, another correlated action or state also intensifies.
@@ -35,7 +36,7 @@ The structure of **-일수록** depends on the type of verb, adjective, or noun 
 As [A] increases, [B] increases.
 ```
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Similar Grammar Points
 - **-(으)면 -(으)ㄹ수록**: Combines the conditional **-면** ("if") with **-을수록** for emphasis. It can sometimes be used interchangeably.
   - **예시 (Example):**
@@ -43,7 +44,7 @@ As [A] increases, [B] increases.
 ### Differences
 - **-면** indicates a condition ("if"), whereas **-을수록** emphasizes a proportional or increasing degree without conditionality.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Sentence Examples
 ### Example 1: Informal Speech
 - **한국어는 공부할수록 재미있어.**
@@ -66,7 +67,7 @@ As [A] increases, [B] increases.
   - *Saenggakhalsurok hwaga nanda.*
   - **Translation:** "The more I think about it, the angrier I get."
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, expressing relationships between actions and states often involves subtle nuances. The use of **-일수록** allows speakers to articulate how one aspect intensifies alongside another, reflecting a deep appreciation for interconnectedness.
 ### Levels of Politeness
@@ -82,7 +83,7 @@ In Korean culture, expressing relationships between actions and states often inv
 - **Literal Translation:** "The farther you go, the more mountains."
 - **Meaning:** "Things keep getting more difficult." Similar to "Out of the frying pan into the fire."
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 ### Mistake 1: Incorrect Attachment
 - **Incorrect:** **먹다** → **먹을수록** (Correct)
@@ -97,7 +98,7 @@ In Korean culture, expressing relationships between actions and states often inv
 - **Mnemonic Device:** Remember that **-을수록** adds the meaning of "the more..." Think of it as amplifying the verb or adjective.
 - **Practice with Common Verbs:** Create sentences using frequently used verbs and adjectives to become comfortable with the pattern.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **-일수록** is used to express a proportional relationship: "the more ~, the more ~."
 - Attachment varies:
@@ -125,9 +126,8 @@ In Korean culture, expressing relationships between actions and states often inv
 - **Correct Answer:** The stem of **예쁘다** ends with a vowel (after removing **-다**), but **ㅂ** irregular verbs change **ㅂ** to **우** when followed by a vowel.
   - **Correct Form:** **예쁠수록** is correct because **예쁘** becomes **예쁠** before **-수록**.
 ---
-# Conclusion
+## Conclusion
 By mastering **-일수록**, you can express complex comparative relationships in Korean, enhancing both your speaking and writing skills. Regular practice with various verbs and adjectives will help solidify your understanding of this essential grammar point.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

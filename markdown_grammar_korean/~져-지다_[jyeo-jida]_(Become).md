@@ -1,6 +1,6 @@
 Processing keyword: ~져/지다 [jyeo/jida] (Become)
 # Korean Grammar Point: ~져/지다 [jyeo/jida] (Become)
-# ~아/어지다 (~아/어지다) - "Become" in Korean
+
 ## 1. Introduction
 In Korean, expressing a change of state or the process of becoming something is commonly done using the grammar pattern **~아/어지다**. This pattern is attached to adjectives to indicate that someone or something **becomes** or **gets** a certain way over time. Understanding this grammar point is essential for describing transformations and changes in various contexts.
 

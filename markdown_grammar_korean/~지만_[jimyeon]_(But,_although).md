@@ -1,6 +1,6 @@
 Processing keyword: ~지만 [jimyeon] (But, although)
 # Korean Grammar Point: ~지만 [jimyeon] (But, although)
-# Grammar Point: ~지만 [jiman] (But, Although)
+
 ## 1. Introduction
 In Korean, the conjunctive ending **~지만** is used to connect two clauses where the second clause presents a contrast or opposition to the first clause. It translates to "but" or "although" in English.
 
@@ -18,28 +18,34 @@ Attach **~지만** directly to the stem of a verb, adjective, or copula in the f
 1. **For Verbs and Adjectives:**
    - **Step 1:** Remove **다** from the dictionary form to get the stem.
    - **Step 2:** Add **지만** to the stem.
+   
    | Dictionary Form | Stem    | + 지만  | Meaning                     |
    |-----------------|---------|---------|-----------------------------|
    | 가다 (to go)      | 가      | 가지만   | (I) go but...               |
    | 먹다 (to eat)     | 먹     | 먹지만   | (I) eat but...              |
    | 춥다 (to be cold) | 춥     | 춥지만   | It is cold but...           |
+
 2. **For Nouns with Copula (~이다):**
    - **이다** becomes **이지만** after a consonant.
    - Simply add **지만** after a vowel.
+   
    | Noun           | Ending    | + (이)지만 | Meaning                         |
    |----------------|-----------|-----------|---------------------------------|
    | 학생 (student)   | Consonant | 학생이지만  | (I am) a student but...         |
    | 친구 (friend)    | Vowel     | 친구지만   | (He is) a friend but...         |
+
 ### Notes
 - **Tense and Politeness:** Tense and politeness levels are expressed in the **second clause**.
 - **Negation:** Can be combined with negative forms.
 ---
 ## 3. Comparative Analysis
 ### Comparing **~지만** with **~는데**
+
 | Grammar Point | Usage                          | Example                                |
 |---------------|--------------------------------|----------------------------------------|
 | **~지만**      | Direct contrast, "but/although" | 피곤하지만 잠이 안 와요. <br> *I'm tired but can't sleep.* |
 | **~는데**      | Background info, "but/and"      | 피곤한데 잠이 안 와요. <br> *I'm tired, and yet can't sleep.* |
+
 - **~지만** focuses on contrasting two clauses.
 - **~는데** provides background or sets up context.
 ---
@@ -103,7 +109,6 @@ Attach **~지만** directly to the stem of a verb, adjective, or copula in the f
    - **Answer:** False. Tense is indicated in the second clause.
 ---
 Feel free to create your own sentences using **~지만** to express contrasts and deepen your understanding!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

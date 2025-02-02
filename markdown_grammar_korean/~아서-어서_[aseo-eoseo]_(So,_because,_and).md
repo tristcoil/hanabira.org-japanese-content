@@ -1,6 +1,6 @@
 Processing keyword: ~아서/어서 [aseo/eoseo] (So, because, and)
 # Korean Grammar Point: ~아서/어서 [aseo/eoseo] (So, because, and)
-# ~아서/어서 [~aseo/eoseo] (So, Because, And)
+
 ## 1. Introduction
 The endings **~아서/어서** are essential connectors in Korean that express cause and effect, sequence of actions, or simply link two related statements. Mastering their usage will enhance your ability to construct coherent and natural sentences in Korean.
 

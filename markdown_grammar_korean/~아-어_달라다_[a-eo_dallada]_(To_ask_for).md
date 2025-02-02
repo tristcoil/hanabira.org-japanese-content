@@ -1,8 +1,9 @@
 Processing keyword: ~아/어 달라다 [a/eo dallada] (To ask for)
 # Korean Grammar Point: ~아/어 달라다 [a/eo dallada] (To ask for)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, expressing requests or asking someone to do something is an essential part of daily communication. The grammar point **~아/어 달라다** (**[a/eo dallada]**) is used to convey the meaning of **"to ask someone to do something for you."** Understanding this structure will enhance your ability to make polite requests and express your needs effectively.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning and Usage
 The pattern **~아/어 달라다** is used when reporting that you **asked someone to do something**. It combines the verb ending **~아/어** with **달라다** (a variation of **달라고 하다**, meaning "to ask for"). This structure is often used in **indirect speech** to relay requests made to others.
 ## Structure
@@ -36,7 +37,7 @@ The pattern **~아/어 달라다** is used when reporting that you **asked someo
 | 먹다 (to eat)   | 먹        | 먹 + 어 달라다  | 먹어 달라다     |
 | 하다 (to do)    | 하         | 하 + 여 달라다  | 해 달라다       |
 | 만들다 (to make)| 만들      | 만들 + 어 달라다| 만들어 달라다   |
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Comparing **~아/어 달라다** with **~아/어 주다**
 - **~아/어 주다**: Used when someone does something for you.
   - *Example*: 친구가 저를 위해 음식을 **만들어 주었어요**.
@@ -45,7 +46,7 @@ The pattern **~아/어 달라다** is used when reporting that you **asked someo
   - *Example*: 저는 친구에게 음식을 **만들어 달라고 했어요**.
     - "I **asked** my friend to make food for me."
 **Key Difference**: **~아/어 주다** focuses on the action being done **for you**, whereas **~아/어 달라다** emphasizes the **request** made for the action.
-# 4. Examples in Context
+## 4. Examples in Context
 ## Formal Situations
 1. **Indirect Speech**
    - 선생님께 문법을 설명해 **달라고 요청드렸습니다**.
@@ -67,7 +68,7 @@ The pattern **~아/어 달라다** is used when reporting that you **asked someo
      - "What did your sibling say?"
    - B: 내일 일찍 깨워 **달라고 했어**.
      - "They asked me to wake them up early tomorrow."
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, making requests politely is crucial due to the hierarchical and respectful nature of social interactions. Using **~아/어 달라다** appropriately reflects respect and awareness of social norms, especially when dealing with elders or superiors.
 ## Levels of Politeness
@@ -78,7 +79,7 @@ In Korean culture, making requests politely is crucial due to the hierarchical a
 - **시간을 내 달라다**: To ask someone to make time.
   - 우리는 그에게 잠시 시간을 내 **달라고 요청했다**.
     - "We asked him to spare a moment."
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 ### Mistake 1: Confusing the Subject and Object
 - **Incorrect**: 친구가 나에게 도와 **달라다**.
@@ -93,7 +94,7 @@ In Korean culture, making requests politely is crucial due to the hierarchical a
 - **Remember the Vowel Harmony**: ㅏ or ㅗ takes **아**, others take **어**.
 - **Practice Indirect Speech**: Since **~아/어 달라다** is often used in reported speech, practice converting direct requests into indirect ones.
 - **Use Common Verbs**: Start with verbs you use frequently to get comfortable with the pattern.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~아/어 달라다** is used to express that you **asked someone to do something**.
 - It is formed by attaching **~아/어** to the verb stem, followed by **달라다**.

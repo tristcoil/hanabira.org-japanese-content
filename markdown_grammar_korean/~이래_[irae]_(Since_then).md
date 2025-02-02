@@ -1,6 +1,6 @@
 Processing keyword: ~이래 [irae] (Since then)
 # Korean Grammar Point: ~이래 [irae] (Since then)
-# Korean Grammar Lesson: ~(으)ㄴ 이래 [irae] (Since then)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~(으)ㄴ 이래** (**[irae]**), which translates to **"since"** or **"since then"** in English. This structure is used to indicate that a certain state or action has continued from a specific point in the past up to the present. Mastering this grammar point will enhance your ability to discuss time-related events and their ongoing effects in Korean.
 
@@ -97,7 +97,6 @@ In Korean culture, expressing the continuity of actions or states from a point i
    - **Answer**: **False**
 ---
 By understanding and practicing **~(으)ㄴ 이래(로)**, you'll be able to express the continuity of events from the past to the present, making your Korean communication more fluent and natural. Keep practicing by creating your own sentences!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

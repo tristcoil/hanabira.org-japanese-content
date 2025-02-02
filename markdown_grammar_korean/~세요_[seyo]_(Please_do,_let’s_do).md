@@ -1,6 +1,6 @@
 Processing keyword: ~세요 [seyo] (Please do, let’s do)
 # Korean Grammar Point: ~세요 [seyo] (Please do, let’s do)
-# Lesson on "~세요 [seyo]" (Please Do, Let's Do)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **"~세요 [seyo]"**, a common and essential polite ending used in everyday Korean. This ending is primarily used to:
 - Make polite requests or commands.
@@ -24,6 +24,7 @@ To attach "~세요" to a verb:
    - **If the verb stem ends with a vowel or the consonant "ㄹ"**, attach **"세요"**.
    - **If the verb stem ends with any other consonant**, attach **"으세요"**.
 #### Formation Table
+
 | Verb (Dictionary Form) | Verb Stem | Ending Letter | Add | Result       | Meaning                |
 |------------------------|-----------|---------------|-----|--------------|------------------------|
 | 가다 (to go)           | 가         | Vowel         | 세요 | 가세요       | Please go              |
@@ -31,14 +32,14 @@ To attach "~세요" to a verb:
 | 먹다 (to eat)          | 먹         | Consonant     | 으세요 | 먹으세요     | Please eat             |
 | 읽다 (to read)         | 읽         | Consonant     | 으세요 | 읽으세요     | Please read            |
 | 만들다 (to make)       | 만들        | ㄹ (special case) | 세요 | 만드세요* | Please make            |
+
 *Note: When a verb stem ends with "ㄹ", the "ㄹ" is dropped before adding "세요".
 #### Special Note on Verbs Ending with "ㄹ"
 - **Verbs ending with "ㄹ"**: The "ㄹ" is treated differently. It's dropped when adding "세요".
   - **만들다** (to make) → 만들 → **만드세요**
   - **살다** (to live) → 살 → **사세요**
 ### Visual Aid: Formation Flowchart
-```mermaid
-flowchart TD
+```
     A[Start: Verb Stem] --> B{Ends with Vowel or "ㄹ"?}
     B --> |Yes| C[Add "세요"]
     B --> |No| D[Add "으세요"]
@@ -49,10 +50,12 @@ flowchart TD
 #### "~(으)십시오" (More Formal Polite Command)
 - **Usage**: More formal and honorific than "~세요".
 - **Contexts**: Formal announcements, professional settings, instructions.
+
 | Ending       | Politeness Level | Context                               |
 |--------------|------------------|---------------------------------------|
 | ~(으)세요    | Polite           | Everyday conversations, casual polite |
 | ~(으)십시오  | Formal Polite    | Formal settings, instructions         |
+
 **Example**:
 - *조용히 하세요.* (Please be quiet.)
 - *조용히 하십시오.* (Please be quiet.) - more formal.

@@ -1,6 +1,6 @@
 Processing keyword: ~었으면 좋겠다 [eosseumyeon jotgetda] (I wish it was/were)
 # Korean Grammar Point: ~었으면 좋겠다 [eosseumyeon jotgetda] (I wish it was/were)
-# Grammar Point: ~었으면 좋겠다 (I wish it was/were)
+
 ## 1. Introduction
 The expression **~었으면 좋겠다** is used in Korean to express a **wish**, **hope**, or **desire** about a **past or hypothetical situation**. It's similar to saying "I wish it was..." or "It would be nice if..." in English.
 
@@ -23,33 +23,41 @@ The expression **~었으면 좋겠다** is used in Korean to express a **wish**,
 ### Formation Diagram
 Let's break down the formation step by step.
 1. **Identify the Verb Stem**
+   
    | Verb (Dictionary Form) | Verb Stem |
    | --- | --- |
    | 가다 (to go) | 가 |
    | 먹다 (to eat) | 먹 |
    | 공부하다 (to study) | 공부하 |
+
 2. **Add Past Tense Conditional Marker**
    - For verbs ending with **ㅏ** or **ㅗ**: add **았으면**.
    - For other verbs: add **었으면**.
    - For **하다** verbs: change to **했으면**.
+   
    | Verb Stem | +았/었으면 |
    | --- | --- |
    | 가 | 갔으면 |
    | 먹 | 먹었으면 |
    | 공부하 | 공부했으면 |
+
 3. **Add 좋겠다**
+   
    | Conjugated Verb | +좋겠다 |
    | --- | --- |
    | 갔으면 | 갔으면 좋겠다 |
    | 먹었으면 | 먹었으면 좋겠다 |
    | 공부했으면 | 공부했으면 좋겠다 |
+
 ### Visual Aid: Conjugation Table
+
 | Verb (Dictionary Form) | Verb Stem | +았/었으면 | +좋겠다 | Meaning |
 | --- | --- | --- | --- | --- |
 | 가다 (to go) | 가 | **갔으면** | **갔으면 좋겠다** | I wish (someone) went |
 | 먹다 (to eat) | 먹 | **먹었으면** | **먹었으면 좋겠다** | I wish (someone) ate |
 | 오다 (to come) | 오 | **왔으면** | **왔으면 좋겠다** | I wish (someone) came |
 | 듣다 (to listen) | 듣 | **들었으면** | **들었으면 좋겠다** | I wish (someone) listened |
+
 ---
 ## 3. Comparative Analysis
 ### Comparing Similar Grammar Points

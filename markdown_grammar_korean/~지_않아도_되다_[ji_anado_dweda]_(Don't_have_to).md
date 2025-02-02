@@ -1,6 +1,6 @@
 Processing keyword: ~지 않아도 되다 [ji anado dweda] (Don't have to)
 # Korean Grammar Point: ~지 않아도 되다 [ji anado dweda] (Don't have to)
-# ~지 않아도 되다 [ji anado dweda] (Don't have to)
+
 ## 1. Introduction
 In Korean, expressing that an action is not necessary or that someone doesn't have to do something is a common aspect of daily communication. The grammar point **~지 않아도 되다** is used to convey the meaning of "don't have to" or "it's okay not to" in various contexts.
 
@@ -83,7 +83,6 @@ Understanding and using the appropriate level of politeness is crucial in Korean
    - **Answer:** **하지 않아도 됩니다.**
 3. **True or False:** **~지 않아도 되다** and **~지 말다** have the same meaning.
    - **Answer:** **False.** **~지 않아도 되다** means "don't have to [do]," whereas **~지 말다** means "do not [do]" (imperative form).
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

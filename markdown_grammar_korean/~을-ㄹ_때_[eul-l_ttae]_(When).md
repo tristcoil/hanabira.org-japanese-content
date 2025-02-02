@@ -1,8 +1,9 @@
 Processing keyword: ~을/ㄹ 때 [eul/l ttae] (When)
 # Korean Grammar Point: ~을/ㄹ 때 [eul/l ttae] (When)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, expressing the timing of events is essential for clear communication. The grammar point **~을/ㄹ 때** (*~eul/*~l ttae), which translates to **"when"**, is used to indicate the time when an action or state occurs. Mastering this grammar pattern will allow you to describe when things happen in various contexts.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The pattern **~을/ㄹ 때** is used to express **"when"** or **"at the time of"** something happening. It connects two clauses by specifying the timing of an action or state.
 ## Structure
@@ -25,7 +26,7 @@ The pattern **~을/ㄹ 때** is used to express **"when"** or **"at the time of"
    - **먹 + 을 때** → **먹을 때**
    - **가 + ㄹ 때** → **갈 때**
    - **살 + ㄹ 때** → **살 때**
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### ~을/ㄹ 때 vs. ~(으)면서 (while)
 - **~을/ㄹ 때** focuses on the time **when** an action occurs.
   - **음악을 들을 때 공부해요.**
@@ -40,7 +41,7 @@ The pattern **~을/ㄹ 때** is used to express **"when"** or **"at the time of"
 - **~자마자** emphasizes immediacy, meaning **"as soon as"**.
   - **집에 가자마자 전화를 해요.**
     - *I call as soon as I go home.*
-# 4. Examples in Context
+## 4. Examples in Context
 ## Formal Speech
 1. **회의가 끝날 때 말씀해 주세요.**
    - *Please tell me when the meeting ends.*
@@ -61,7 +62,7 @@ The pattern **~을/ㄹ 때** is used to express **"when"** or **"at the time of"
    - *What do you do when you're very busy?*
 2. **추울 때 따뜻한 커피를 마셔요.**
    - *I drink hot coffee when it's cold.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 Understanding and using time expressions like **~을/ㄹ 때** is important in Korean culture, which values punctuality and proper timing in social interactions. It reflects respect for others' time and schedules.
 ## Idiomatic Expressions
@@ -71,7 +72,7 @@ Understanding and using time expressions like **~을/ㄹ 때** is important in K
 - **힘들 때 친구가 진짜 친구다.**
   - *A friend during hard times is a true friend.*
   - Highlights the value of friendship in difficult times.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Using the Wrong Ending**
    - Incorrect: **먹다 때**
@@ -85,7 +86,7 @@ Understanding and using time expressions like **~을/ㄹ 때** is important in K
 - **Remember the Consonant/Vowel Rule**: If the verb stem ends with a consonant (except **ㄹ**), use **-을 때**. If it ends with a vowel or **ㄹ**, use **-ㄹ 때**.
 - **Practice with Common Verbs**: Create sentences using verbs you frequently use to become comfortable with the pattern.
 - **Visualize Timing**: Associate the action with a specific time to reinforce the meaning of **"when."**
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~을/ㄹ 때** means **"when"** and is used to indicate the time an action or state occurs.
 - Attach **-을 때** to verb stems ending with consonants (except **ㄹ**) and **-ㄹ 때** to stems ending with vowels or **ㄹ**.
@@ -99,8 +100,6 @@ Understanding and using time expressions like **~을/ㄹ 때** is important in K
    - *Because the verb stem ends with **ㄹ**, add **-ㄹ 때**.*
 3. **Translate into Korean**: "When it's raining, I read a book."
    - **비가 올 때 책을 읽어요.**
-# Answer
-The assistant's response perfectly complies with OpenAI's policy of providing helpful, accurate, and policy-compliant answers. It does not contain any disallowed content, and it fully follows the user's instructions. The response is in Markdown format, includes clear explanations, examples, and structure, and the examples sound natural. The assistant has broken down the explanation into manageable parts, provided comparative analysis, and included cultural notes, common mistakes, and tips, concluding with a summary and quiz, as requested.
 
 ---
 © [Hanabira.org](https://hanabira.org)

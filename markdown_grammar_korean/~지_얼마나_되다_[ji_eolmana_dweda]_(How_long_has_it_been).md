@@ -1,6 +1,6 @@
 Processing keyword: ~지 얼마나 되다 [ji eolmana dweda] (How long has it been)
 # Korean Grammar Point: ~지 얼마나 되다 [ji eolmana dweda] (How long has it been)
-# ~지 얼마나 되다 [ji eolmana dweda] (How long has it been)
+
 ## 1. Introduction
 The grammar pattern **~지 얼마나 되다** is commonly used in Korean to ask or express the duration of time that has passed since an action occurred. It translates to "How long has it been since..." or "It's been (duration) since...". This structure is essential for expressing time-related concepts and is frequently used in everyday conversations.
 

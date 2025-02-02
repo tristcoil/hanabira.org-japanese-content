@@ -1,10 +1,9 @@
 Processing keyword: ~이/히다 [i/hida] (To become)
 # Korean Grammar Point: ~이/히다 [i/hida] (To become)
-# Lesson on the Grammar Point: **~이/히다** (To Cause, To Make Someone Do)
 
----
 ## 1. Introduction
 In Korean, expressing causation—**making someone or something do an action or become a certain state**—is achieved through specific verb forms called **causative verbs**. One of the ways to form causative verbs is by attaching the suffixes **~이** or **~히다** to the verb stem. Understanding how to use these suffixes is essential for conveying causative meaning accurately in Korean.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning and Usage
@@ -122,6 +121,7 @@ The suffixes **~이** and **~히다** are added to the stems of certain verbs to
 3. **앉다** means "to sit," while **앉히다** means "to seat [someone]," indicating causation.
 ---
 By mastering **~이/히다**, you enhance your ability to express complex actions and causation in Korean. Keep practicing with various verbs to become more comfortable with this grammar point!
+
 ---
 # Practice Exercise
 Create sentences using the following verbs in their causative forms:

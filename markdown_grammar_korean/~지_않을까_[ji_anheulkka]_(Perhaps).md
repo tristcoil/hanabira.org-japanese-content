@@ -1,6 +1,6 @@
 Processing keyword: ~지 않을까 [ji anheulkka] (Perhaps)
 # Korean Grammar Point: ~지 않을까 [ji anheulkka] (Perhaps)
-# Korean Grammar Point: ~지 않을까 [ji anheulkka] (Perhaps)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar pattern **"~지 않을까"** [ji anheulkka], which is commonly used to express speculation, conjecture, or a tentative guess about a situation. Understanding this grammar point will allow you to express uncertainty and make polite suggestions, adding nuance to your Korean conversations.
 
@@ -108,7 +108,7 @@ Translation: "Perhaps (someone) won't see?" or "Maybe (someone) doesn't see?"
    *Answer*: **음식이 식지 않을까요?** (Maybe the food will get cold?)
 ---
 By mastering "**~지 않을까(요)**", you enhance your ability to communicate subtlety and politeness in Korean, making your speech sound more natural and culturally appropriate. Keep practicing, and don't hesitate to use this grammar point in your daily conversations!
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

@@ -1,10 +1,9 @@
 Processing keyword: ~저 [jeo] (That kind of)
 # Korean Grammar Point: ~저 [jeo] (That kind of)
-# Korean Grammar Lesson: **저** [jeo] (That, That Kind of)
 
----
 ## 1. Introduction
 In this lesson, we'll explore the Korean demonstrative **저** [jeo], which is used to refer to objects or people that are far from both the speaker and the listener. Understanding **저** is essential for clear communication in Korean, as it helps specify which object or person you're talking about, especially when they are not nearby. We'll also look at related forms like **저렇다**, **저런**, and **저렇게**, which are used to describe characteristics or manners associated with "that kind of" or "like that".
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning and Usage
@@ -26,10 +25,10 @@ In this lesson, we'll explore the Korean demonstrative **저** [jeo], which is u
 - **저** + **-렇게** (like that) → **저렇게** (like that, in that way)
 ### Formation Diagram
 ```
-저 + Noun       → 저 Noun       (That [noun] over there)
-저 + -렇다      → 저렇다        (To be like that)
-저 + -런        → 저런          (Such, That kind of)
-저 + -렇게      → 저렇게        (Like that, In that way)
+저 + Noun      → 저 Noun     (That [noun] over there)
+저 + -렇다      → 저렇다       (To be like that)
+저 + -런        → 저런        (Such, That kind of)
+저 + -렇게      → 저렇게       (Like that, In that way)
 ```
 ### Visual Aid: Demonstrative Pronouns
 | Korean | Pronunciation | Meaning        | Usage                                |
@@ -48,11 +47,13 @@ Understanding the subtle differences between these demonstratives is crucial:
 - **저** [jeo]: **That (over there)**
   - Use when the object is **far from both the speaker and the listener**.
 ### Comparing **-렇다** Forms
+
 | Base Demonstrative | **-렇다** Form | Meaning          |
 |--------------------|----------------|------------------|
 | 이                 | 이렇다         | To be like this  |
 | 그                 | 그렇다         | To be like that (near listener) |
 | 저                 | 저렇다         | To be like that (over there) |
+
 ---
 ## 4. Examples in Context
 ### 1. Using **저** with Nouns
@@ -101,24 +102,30 @@ Understanding the subtle differences between these demonstratives is crucial:
     - "Who is that person over there?" (Honorific)
 ### Idiomatic Expressions
 #### **저런!**
+
 An exclamation similar to "Oh dear!" or "Oh no!", used when reacting to unexpected news or situations.
 **Example:**
 **저런! 큰일 났네요.**
 *[Jeoreon! Keunil natneyo.]*
 "Oh no! That's a big problem."
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes
 #### Mistake 1: Confusing **저** with **그**
 - **Error**: Using **저** when referring to something that is near the listener or has been previously mentioned.
 - **Correction**: Use **그** in these cases.
+
 **Incorrect**: **저 책이 네 거야?** *(Is that book over there yours?)*
 **Correct**: **그 책이 네 거야?** *(Is that book [near you or previously mentioned] yours?)*
+
 #### Mistake 2: Using **저** for Objects Near the Speaker
 - **Error**: Using **저** instead of **이** for something near the speaker.
 - **Correction**: Use **이** for objects near you.
+
 **Incorrect**: **저 연필은 내가 사용할게.** *(I'll use that pencil over there.)*
 **Correct**: **이 연필은 내가 사용할게.** *(I'll use this pencil.)*
+
 ### Learning Strategies
 #### Mnemonic Device
 - **이**: *"It's close to me."* (Both start with "I")
@@ -151,6 +158,7 @@ c) 어제 만난 **그** 친구 기억나요?
 #### 2.
 **그는 왜 저렇게 춤추고 있어요?**
 *[Geuneun wae jeoreoke chumchugo isseoyo?]*
+
 ---
 Feel free to revisit this lesson to reinforce your understanding of **저** and its related forms. Practice using them in sentences to become more comfortable with their nuances.
 

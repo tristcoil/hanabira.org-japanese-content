@@ -1,6 +1,6 @@
 Processing keyword: ~면 어때 [myeon eottae] (How about if)
 # Korean Grammar Point: ~면 어때 [myeon eottae] (How about if)
-# ~면 어때 [myeon eottae] (How about if)
+
 ## 1. Introduction
 The grammar pattern **~면 어때** is a useful expression in Korean that translates to **"How about if..."** or **"What if..."** in English. It's commonly used to make suggestions or propose ideas in a casual and friendly manner. Understanding this pattern will enhance your ability to engage in everyday conversations and offer suggestions naturally.
 

@@ -1,6 +1,6 @@
 Processing keyword: ~이라면 [iramyeon] (If it's the case that)
 # Korean Grammar Point: ~이라면 [iramyeon] (If it's the case that)
-# ~이라면 [iramyeon] (If it's the case that)
+
 ## 1. Introduction
 In Korean, expressing hypothetical situations or conditions is essential for daily communication. The grammar point **~이라면** is a conditional form used to convey "if it's the case that" or simply "if". This lesson will explore the usage of **~이라면**, how to form it, and how it differs from other conditional expressions.
 

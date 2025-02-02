@@ -1,6 +1,6 @@
 Processing keyword: ~아/어 오다 [a/eo oda] (Come to do)
 # Korean Grammar Point: ~아/어 오다 [a/eo oda] (Come to do)
-# Korean Grammar Lesson: ~아/어 오다 [a/eo oda] (Come to do)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **~아/어 오다**, a structure used to express actions that have been ongoing from the past up to the present. This form helps convey the sense of continuity and progression in Korean.
 

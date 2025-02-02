@@ -1,6 +1,6 @@
 Processing keyword: ~아/어도 [a/eodo] (Even if)
 # Korean Grammar Point: ~아/어도 [a/eodo] (Even if)
-# ~아/어도 [a/eodo] (Even if)
+
 ## 1. Introduction
 In learning Korean, expressing conditions and concessions is essential for effective communication. The grammar point **~아/어도** ([a/eodo]) allows speakers to express "even if" or "even though," indicating that the result remains the same regardless of the condition. This lesson will guide you through understanding, forming, and using **~아/어도** naturally in various contexts.
 
@@ -16,8 +16,7 @@ It expresses that **the action or state in the main clause occurs regardless of 
 **Formation:**
 1. **Verb/Adjective Stem + 아/어도**
 ### Formation Diagram
-```mermaid
-graph TD
+```
 A[Verb/Adjective Stem] --> B{Last Vowel?}
 B -- ㅏ or ㅗ --> C[Add 아도]
 B -- Other Vowels --> D[Add 어도]

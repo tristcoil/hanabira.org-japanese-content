@@ -1,6 +1,6 @@
 Processing keyword: ~을지언정 [euljieonjeong] (Whether...or...)
 # Korean Grammar Point: ~을지언정 [euljieonjeong] (Whether...or...)
-# ~을지언정 [euljieonjeong]
+
 ## 1. Introduction
 In Korean, expressing strong contrast or making a concession often involves specific grammar structures. One such structure is **~을지언정**, which is used to indicate that even though the first clause may be true or acceptable, the second clause is decidedly not. This grammar point conveys a sense of determination or preference, often translated as "I might (do A), but I would never (do B)" or "Even if I have to (do A), I will (do B)".
 
@@ -90,14 +90,17 @@ In Korean, expressing strong contrast or making a concession often involves spec
 - It is a formal expression, suitable for written language or formal speech.
 ### Quick Recap Quiz
 1. **What is the main function of ~을지언정?**
+
    a) To make a suggestion  
    b) To express a strong contrast or concession  
    c) To indicate simultaneous actions  
 2. **Which of the following sentences correctly uses ~을지언정?**
+
    a) 늦을지언정 서두르지 마세요.  
    b) 배고플지언정 많이 먹어요.  
    c) 갈지언정 가지 않습니다.  
 3. **Is ~을지언정 commonly used in informal spoken Korean?**
+
    a) Yes  
    b) No  
 ---
@@ -105,7 +108,6 @@ In Korean, expressing strong contrast or making a concession often involves spec
 1. b) To express a strong contrast or concession
 2. a) 늦을지언정 서두르지 마세요.
 3. b) No
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

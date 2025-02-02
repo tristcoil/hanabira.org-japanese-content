@@ -1,6 +1,6 @@
 Processing keyword: ~어/아 두다 [eo/a duda] (To stop doing)
 # Korean Grammar Point: ~어/아 두다 [eo/a duda] (To stop doing)
-# ~어/아 두다 [eo/a duda]
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~어/아 두다 [eo/a duda]**, which is used to express completing an action and leaving it in that state, often for future convenience. This structure helps convey that something has been done in advance or that the result of an action remains effective.
 

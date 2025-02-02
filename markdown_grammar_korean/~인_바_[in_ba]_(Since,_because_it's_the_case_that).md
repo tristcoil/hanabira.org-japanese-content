@@ -1,6 +1,6 @@
 Processing keyword: ~인 바 [in ba] (Since, because it's the case that)
 # Korean Grammar Point: ~인 바 [in ba] (Since, because it's the case that)
-# ~인 바 [in ba] (Since, because it's the case that)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~인 바** [in ba], which is used to express a reason or cause in a formal context. It translates to "since" or "because it's the case that" in English. This structure is frequently found in formal writings such as official documents, reports, and legal texts.
 

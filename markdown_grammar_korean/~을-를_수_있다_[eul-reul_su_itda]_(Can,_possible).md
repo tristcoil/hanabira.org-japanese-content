@@ -1,10 +1,11 @@
 Processing keyword: ~을/를 수 있다 [eul/reul su itda] (Can, possible)
 # Korean Grammar Point: ~을/를 수 있다 [eul/reul su itda] (Can, possible)
-# 1. Introduction
+
+## 1. Introduction
 The Korean grammar point **~을/를 수 있다** (*~eul/reul su itda*) is used to express **ability** or **possibility**, equivalent to "can" or "be able to" in English. It is a fundamental grammatical structure that allows speakers to talk about what they or others are capable of doing.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 - **~을/를 수 있다** means **"can"** or **"to be able to"**.
 - It indicates that the subject has the ability or that it is possible to perform a certain action.
@@ -17,10 +18,12 @@ To form this expression, attach **~을/를 수 있다** to the verb stem.
    - If the verb stem ends with a **consonant**, add **을 수 있다**.
    - If the verb stem ends with a **vowel**, add **를 수 있다**.
 ### Formation Diagram
+
 | Verb Stem Ending | Attach       | Example Verb | Conjugation       |
 |------------------|--------------|--------------|-------------------|
 | Consonant        | **을 수 있다** | 먹다 (to eat) | 먹을 수 있다      |
 | Vowel            | **를 수 있다** | 가다 (to go)  | 갈 수 있다 (Note the contraction from 가를 to 갈)|
+
 **Note**: In the case of verbs like **가다**, the combination of **가** + **를** becomes **갈** due to contraction in spoken Korean.
 ## Visual Aid
 ```
@@ -29,7 +32,7 @@ To form this expression, attach **~을/를 수 있다** to the verb stem.
            ↳ Ends with vowel:     를 수 있다
 ```
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Similar Grammar Points
 - **~(으)ㄹ 수 있다**: Another way to express "can" or "ability". It is structurally similar but involves attaching **~(으)ㄹ 수 있다** directly to the verb stem without the object particles **을/를**.
   
@@ -42,7 +45,7 @@ To form this expression, attach **~을/를 수 있다** to the verb stem.
   - Example:
     - 저는 수영할 줄 알아요. (*I know how to swim.*)
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Polite Speech (습니다/습니다)
 1. **저는 피아노를 칠 수 있습니다.**
    - *Jeoneun pianoreul chil su itsseumnida.*
@@ -72,7 +75,7 @@ To form this expression, attach **~을/를 수 있다** to the verb stem.
    - *Haksaengdeureun doseogwaneseo gongbuhal su itda.*
    - *Students can study in the library.*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Politeness Levels
 In Korean, it's important to use the correct speech level to match the social context.
 - **Formal Polite (습니다)**: Used in formal situations, with strangers, or to show respect.
@@ -88,7 +91,7 @@ In Korean culture, modesty is valued. People might understate their abilities or
 - **시간을 되돌릴 수 없다**
   - *Cannot turn back time.*
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Using the wrong particle**
    - **Incorrect**: **읽다 → 읽를 수 있다**
@@ -103,7 +106,7 @@ In Korean culture, modesty is valued. People might understate their abilities or
 - **Conjugation Drill**: Regularly practice conjugating verbs with **~을/를 수 있다**.
 - **Remember the Particles**: Think of **을/를 수 있다** as one unit meaning "can".
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~을/를 수 있다** is used to express ability or possibility ("can").
 - Attach **을 수 있다** if the verb stem ends with a consonant.

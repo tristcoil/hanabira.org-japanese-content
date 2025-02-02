@@ -1,6 +1,6 @@
 Processing keyword: ~지요 [jiyo] (~right?, isn't it?)
 # Korean Grammar Point: ~지요 [jiyo] (~right?, isn't it?)
-# ~지요 (~죠) Grammar Point
+
 ## 1. Introduction
 In Korean, the sentence ending **~지요** (pronounced *jiyo*), often contracted to **~죠** (*jyo*), is a versatile grammar point used to:
 - Seek confirmation or agreement.
@@ -129,7 +129,6 @@ In spoken Korean, **~지요** is often contracted:
    - **Answer:** **당신은 학생이지요?**
 ---
 By incorporating **~지요 (~죠)** into your speech, you'll enhance your ability to engage more naturally in Korean conversations, showing politeness and connecting with others.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

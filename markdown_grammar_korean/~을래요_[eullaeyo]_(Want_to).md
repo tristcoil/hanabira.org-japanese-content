@@ -1,6 +1,6 @@
 Processing keyword: ~을래요 [eullaeyo] (Want to)
 # Korean Grammar Point: ~을래요 [eullaeyo] (Want to)
-# ~을래요 [eullae-yo] (Want to)
+
 ## 1. Introduction
 In this lesson, we will learn the Korean grammar point **~을래요** (**~ㄹ래요** after vowels), which is used to express the speaker’s intention or to ask someone about their intention in an informal and polite manner. Mastering this grammar will help you convey your desires and engage in everyday conversations more naturally.
 

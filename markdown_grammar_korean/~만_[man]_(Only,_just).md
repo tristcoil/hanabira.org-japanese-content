@@ -1,6 +1,6 @@
 Processing keyword: ~만 [man] (Only, just)
 # Korean Grammar Point: ~만 [man] (Only, just)
-# ~만 [man] (Only, Just)
+
 ## 1. Introduction
 The particle **~만** in Korean is used to express the meaning of **"only"** or **"just"**. It emphasizes that the subject or object is exclusive or limited to a particular thing or action. Mastering the use of **~만** will enhance your ability to make specific and exclusive statements in Korean.
 
@@ -11,9 +11,11 @@ The particle **~만** in Korean is used to express the meaning of **"only"** or 
 ### Structure and Formation
 #### Basic Structure
 - **Noun/Pronoun + 만**
+  
   | Component       | Attachment | Meaning              |
   |-----------------|------------|----------------------|
   | **Noun/Pronoun** | + 만       | Only [noun/pronoun]  |
+
 - **Examples**:
   - **저만** 알고 있어요.
     - *Only I know.*
@@ -25,9 +27,11 @@ The particle **~만** in Korean is used to express the meaning of **"only"** or 
 To use **~만** with verbs, nominalize the verb using **~기** or **~는 것** before attaching **만**.
 - **Verb Stem + 기만 하다**
   - Means *to only do [verb]*
+  
   | Component    | Attachment | Meaning          |
   |--------------|------------|------------------|
   | **Verb Stem + 기** | + 만 하다  | Only do [verb action] |
+
 - **Examples**:
   - **먹기만 해요.**
     - *I only eat.*

@@ -1,6 +1,6 @@
 Processing keyword: ~쯤 [jjeum] (Around, about)
 # Korean Grammar Point: ~쯤 [jjeum] (Around, about)
-# Grammar Point: ~쯤 (~jjeum) - "Around, About"
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~쯤 (~jjeum)**, which is used to indicate approximation, similar to "around" or "about" in English. Understanding how to use **~쯤** will help you express estimates and make your Korean more natural and fluent.
 
@@ -105,7 +105,6 @@ Using **~쯤** reflects a common communication style in Korean culture where bei
    - **Answer**: *점심쯤에*
 ---
 By incorporating **~쯤** into your sentences, you'll be able to express approximations naturally, enhancing your fluency in Korean conversations.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

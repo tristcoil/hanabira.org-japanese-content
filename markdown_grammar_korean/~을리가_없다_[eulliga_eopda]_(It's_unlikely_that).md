@@ -1,6 +1,6 @@
 Processing keyword: ~을리가 없다 [eulliga eopda] (It's unlikely that)
 # Korean Grammar Point: ~을리가 없다 [eulliga eopda] (It's unlikely that)
-# Korean Grammar Point: ~을 리가 없다 [eulliga eopda] (It's unlikely that)
+
 ## 1. Introduction
 The expression **~을 리가 없다** is used in Korean to express strong disbelief or doubt about a situation or action. It roughly translates to "It's unlikely that..." or "There is no way that...". This grammar point is essential for expressing skepticism or certainty that something is not true.
 

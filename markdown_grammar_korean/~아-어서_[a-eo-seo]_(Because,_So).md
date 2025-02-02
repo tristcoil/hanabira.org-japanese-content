@@ -1,6 +1,6 @@
 Processing keyword: ~아/어서 [a/eo-seo] (Because, So)
 # Korean Grammar Point: ~아/어서 [a/eo-seo] (Because, So)
-# ~아/어서 [a/eo-seo] (Because, So)
+
 ## 1. Introduction
 The Korean grammar point **~아/어서** is a connective ending used to express **reason or cause**. It connects two clauses where the first clause provides the reason for the action or state in the second clause. In English, it is similar to "because" or "so".
 
@@ -20,8 +20,7 @@ The Korean grammar point **~아/어서** is a connective ending used to express 
 2. **All other verbs**: add **어서**.
 3. **Verbs ending with 하다**: change to **해서**.
 #### Formation Diagram
-```mermaid
-graph LR
+```
 A[Verb Stem] --> B{Last Vowel}
 B --> |ㅏ or ㅗ| C(아서)
 B --> |Other Vowels| D(어서)

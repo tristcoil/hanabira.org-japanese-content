@@ -1,6 +1,6 @@
 Processing keyword: ~어/아도 [eo/ado] (Even if)
 # Korean Grammar Point: ~어/아도 [eo/ado] (Even if)
-# Grammar Point: ~어/아도 [eo/ado] (Even if)
+
 ## 1. Introduction
 In Korean, expressing conditions like "even if" or "even though" allows speakers to convey that a certain action or state in the main clause will happen regardless of the condition stated in the preceding clause. The grammar pattern **~어/아도** is commonly used to express this meaning.
 

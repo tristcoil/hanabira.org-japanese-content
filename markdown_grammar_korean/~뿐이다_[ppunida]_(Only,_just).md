@@ -1,6 +1,6 @@
 Processing keyword: ~뿐이다 [ppunida] (Only, just)
 # Korean Grammar Point: ~뿐이다 [ppunida] (Only, just)
-# ~뿐이다 [ppunida] (Only, Just)
+
 ## 1. Introduction
 The Korean grammar point **~뿐이다** is used to express the meaning of "only" or "just," indicating that there is nothing else beyond what is specified. It is a useful structure for emphasizing exclusivity or limitation in a sentence.
 
@@ -130,11 +130,12 @@ The structure of **~뿐이다** varies slightly depending on whether it is attac
 3. **Choose the correct form:**
    **저는 할 수 있는 게 기다리______.**
    *(All I can do is wait.)*
+
 ### Answers
 1. **일 뿐이다**
 2. **False**
 3. **-ㄹ 뿐이다** (기다릴 뿐이다)
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

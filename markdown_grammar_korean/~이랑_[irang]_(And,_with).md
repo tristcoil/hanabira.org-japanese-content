@@ -1,10 +1,9 @@
 Processing keyword: ~이랑 [irang] (And, with)
 # Korean Grammar Point: ~이랑 [irang] (And, with)
-# Grammar Point: ~이랑 [irang] (And, With)
 
----
 ## 1. Introduction
 In Korean, connecting words and phrases is essential for constructing sentences and expressing complex ideas. The particle **~이랑** [irang] is a versatile conjunction used to mean **"and"** or **"with"**. It is commonly used in everyday speech and helps in listing items or indicating companionship.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

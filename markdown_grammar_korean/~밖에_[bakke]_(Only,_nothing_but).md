@@ -1,6 +1,6 @@
 Processing keyword: ~밖에 [bakke] (Only, nothing but)
 # Korean Grammar Point: ~밖에 [bakke] (Only, nothing but)
-# Grammar Point: ~밖에 [bakke] (Only, Nothing But)
+
 ## 1. Introduction
 The particle **~밖에** in Korean is used to express the meaning of "only" or "nothing but." It emphasizes that there is no other option, quantity, or item beyond what is mentioned. This grammar point is essential for conveying limitations or expressing that something is insufficient.
 
@@ -30,10 +30,12 @@ Example:
 ## 3. Comparative Analysis
 ### Comparing **~밖에** with **만 [man]**
 Both **~밖에** and **만** can translate to "only" in English, but they are used differently in Korean.
+
 | Grammar Point | Structure                  | Verb Form   | Nuance                               |
 | ------------- | -------------------------- | ----------- | ------------------------------------ |
 | **~밖에**     | Noun + 밖에 + Negative Verb | Negative    | Emphasizes insufficiency or limitation |
 | **만**        | Noun + 만 + Verb           | Positive    | Simply states "only" without negative nuance |
+
 **Example Sentences:**
 - **밖에 Example:**
   - **돈이 천 원밖에 없어요.**

@@ -1,8 +1,9 @@
 Processing keyword: ~에 따르다 [e ddareuda] (To be attributed to, according to)
 # Korean Grammar Point: ~에 따르다 [e ddareuda] (To be attributed to, according to)
-# 1. Introduction
+
+## 1. Introduction
 The Korean grammar point **~에 따르다** is commonly used to express that something is **based on**, **according to**, or **attributed to** a source or criteria. It is an essential structure for conveying information sourced from others, referencing guidelines, or attributing causes.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 - **~에 따르다**: _According to ~_, _Based on ~_, _Depending on ~_, _To be attributed to ~_.
 ## Structure
@@ -20,7 +21,7 @@ The grammar pattern combines a noun with the postposition **~에**, followed by 
 - **따르다** means **to follow**.
 - When used with **~에**, it forms an expression meaning **to follow according to** a certain source or standard.
 - It is often used to present information that is sourced from studies, news, people, rules, etc.
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Similar Grammar Points
 1. **~에 의하면**
    - **Meaning**: According to ~
@@ -38,7 +39,7 @@ The grammar pattern combines a noun with the postposition **~에**, followed by 
 - **~에 따르다** is more formal and often used in written language or formal speech.
 - **~에 의하면** emphasizes the source of information, often used in news or reports.
 - **~에 따라서** highlights variability based on conditions.
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example Sentences
 1. **Formal/Written**
    - _연구 결과에 따르면 이 약은 효과가 있습니다._
@@ -55,7 +56,7 @@ The grammar pattern combines a noun with the postposition **~에**, followed by 
 5. **Personal Opinion (less common)**
    - _내 생각에 따르면 우리는 더 노력해야 해._
    - "According to my thoughts, we need to try harder."
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Hierarchy and Respect**: In Korean culture, referencing authoritative sources shows respect and credibility.
 - **Formal Communication**: Using **~에 따르다** is appropriate in formal settings such as business, academic, or official communications.
@@ -67,7 +68,7 @@ The grammar pattern combines a noun with the postposition **~에**, followed by 
 ## Idiomatic Expressions
 - **규칙에 따르다**: To follow the rules.
 - **지시사항에 따르다**: To follow instructions.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Using the wrong particle**
    - Incorrect: _규칙**을** 따르다_
@@ -79,7 +80,7 @@ The grammar pattern combines a noun with the postposition **~에**, followed by 
 ## Learning Strategies
 - **Mnemonic Device**: Think of **따르다** as "to follow." So, **~에 따르다** is "to follow according to ~."
 - **Association**: Link **따르다** with "following" a source or standard.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~에 따르다** is used to express "according to ~" or "based on ~."
 - Structure: **[Noun] + 에 따르다**
@@ -89,6 +90,7 @@ The grammar pattern combines a noun with the postposition **~에**, followed by 
 1. How do you say "According to the news, it will snow tomorrow" using **~에 따르다**?
 2. What is the main difference between **~에 따르다** and **~에 의하면**?
 3. Correct the error in the sentence: _규칙을 따르다_ (when meaning "according to the rules").
+
 ### Answers:
 1. _뉴스에 따르면 내일 눈이 올 것입니다._
 2. **~에 따르다** is often used directly with the verb **따르다**, while **~에 의하면** is typically used with reported speech endings and emphasizes the source.

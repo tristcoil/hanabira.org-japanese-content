@@ -1,6 +1,6 @@
 Processing keyword: ~부터는 [buteoneun] (From now on, since)
 # Korean Grammar Point: ~부터는 [buteoneun] (From now on, since)
-# ~부터는 [buteoneun] (From now on, since)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~부터는 (buteoneun)**, which means **"from now on"** or **"since"**. This expression is used to emphasize the starting point of an action or state, highlighting a change or new beginning.
 

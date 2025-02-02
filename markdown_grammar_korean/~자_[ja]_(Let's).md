@@ -1,8 +1,9 @@
 Processing keyword: ~자 [ja] (Let's)
 # Korean Grammar Point: ~자 [ja] (Let's)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~자 [ja]**, which is used to make suggestions or proposals, similar to "Let's" in English. Mastering this grammar point will help you actively initiate activities and plans in casual conversations.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 **~자** is a casual sentence ending attached to verb stems to suggest doing something together with someone. It conveys the meaning of "Let's [do something]".
 ## Structure
@@ -20,12 +21,12 @@ To form the **~자** ending:
 | 먹다 (to eat)           | 먹       | 먹자 | Let's eat       |
 | 시작하다 (to start)     | 시작하    | 시작하자 | Let's start     |
 | 공부하다 (to study)     | 공부하    | 공부하자 | Let's study     |
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 - **~자** vs. **~(으)ㄹ까요?**: While **~자** is used to make a direct suggestion, **~(으)ㄹ까요?** is used to ask for the listener's opinion, like "Shall we...?".
   - *Example*: **먹을까요?** (Shall we eat?)
 - **~자** vs. **~(으)세요**: **~(으)세요** is a polite imperative form used to make requests or suggestions in a polite manner.
   - *Example*: **가세요.** (Please go.)
-# 4. Examples in Context
+## 4. Examples in Context
 ## Sentence Examples
 ### Informal Spoken (Casual)
 1. **오늘 밤에 영화 보자.**
@@ -46,7 +47,7 @@ To form the **~자** ending:
 - **Encouraging Action**:
   - **지금부터 열심히 공부하자.**
     - *Let's study hard from now on.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Use Among Peers**: **~자** is appropriate among friends, close colleagues, or family members of similar age.
 - **Hierarchy Sensitivity**: Using **~자** with someone older or of higher status can be considered impolite in Korean culture.
@@ -60,7 +61,7 @@ To form the **~자** ending:
   - *Let's see each other again next time.*
 - **포기하지 말자.**
   - *Let's not give up.*
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Using ~자 with Honorifics**
    - **Incorrect**: 선생님, 시작하자.
@@ -78,7 +79,7 @@ To form the **~자** ending:
 ```markdown
 [Verb Stem] + 자 → Let's [verb] together.
 ```
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~자** is a casual, friendly way to say "Let's [do something]" in Korean.
 - Attach **~자** directly to the verb stem (after removing **-다**).

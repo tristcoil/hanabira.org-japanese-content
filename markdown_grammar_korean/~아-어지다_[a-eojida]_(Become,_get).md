@@ -1,6 +1,6 @@
 Processing keyword: ~아/어지다 [a/eojida] (Become, get)
 # Korean Grammar Point: ~아/어지다 [a/eojida] (Become, get)
-# Korean Grammar Lesson: ~아/어지다 [a/eojida] (Become, Get)
+
 ## 1. Introduction
 In this lesson, we'll delve into the Korean grammar point **~아/어지다**, which means **"to become"** or **"to get"**. This grammar structure is essential for expressing changes in state or condition in Korean. By mastering **~아/어지다**, you'll enhance your ability to describe transformations, developments, and passive occurrences.
 
@@ -131,18 +131,25 @@ Certain idiomatic expressions use **~아/어지다** to convey changes in abstra
 - Be mindful of irregular verb conjugations.
 ### Quick Recap Quiz
 1. **Conjugate the following adjectives with ~아/어지다:**
+
    a) **맑다** (to be clear) → _________
    b) **어둡다** (to be dark) → _________
    c) **시원하다** (to be cool) → _________
+
 2. **Translate to Korean using ~아/어지다:**
+
    a) "Her Korean has improved."
    b) "It is getting interesting."
+
 ### Answers:
+
 1. a) **맑아지다**
    b) **어두워지다**
    c) **시원해지다**
+
 2. a) **그녀의 한국어가 좋아졌어요.**
    b) **재미있어지고 있어요.**
+   
 ---
 By understanding and practicing **~아/어지다**, you'll be better equipped to express changes and states in Korean. Keep practicing with different adjectives and observe how natives use this grammar point in various contexts!
 

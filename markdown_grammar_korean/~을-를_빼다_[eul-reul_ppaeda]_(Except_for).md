@@ -1,8 +1,9 @@
 Processing keyword: ~을/를 빼다 [eul/reul ppaeda] (Except for)
 # Korean Grammar Point: ~을/를 빼다 [eul/reul ppaeda] (Except for)
-# Introduction
+
+## 1. Introduction
 In Korean, expressing exceptions within sentences is essential for clear communication. The grammar point **~을/를 빼다** is used to indicate "except for" or "excluding." This lesson will delve into how to use this structure effectively in various contexts.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ### Meaning
 The expression **~을/를 빼다** is used to exclude a person or thing from a general statement. It conveys the meaning of "except for," "excluding," or "but" in English.
 ### Structure
@@ -25,7 +26,7 @@ The structure combines:
 ### Usage
 - **Spoken and Written Language**: Commonly used in both casual and formal settings.
 - **Verb Conjugation**: Adjust "빼다" to match the appropriate tense and politeness level.
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Comparison with Similar Grammar Points
 #### ~을/를 제외하고
 - **Meaning**: "Except for," "excluding."
@@ -45,7 +46,7 @@ The structure combines:
 | ~을/를 빼다       | Casual    | Spoken and written     |
 | ~을/를 제외하고   | Formal    | Mainly written         |
 | ~을/를 빼고       | Casual    | Connecting clauses     |
-# 4. Examples in Context
+## 4. Examples in Context
 ### Sentence Examples
 1. **Casual Spoken**
    - 오늘은 너를 **빼다** 다 모였어.
@@ -69,7 +70,7 @@ The structure combines:
 - **Talking about Preferences**:
   - 매운 음식을 **빼다** 다 좋아해요.
     - I like all foods **except for** spicy ones.
-# 5. Cultural Notes
+## 5. Cultural Notes
 ### Cultural Relevance
 - **Direct Communication**: Using precise expressions like **~을/를 빼다** aligns with the Korean preference for clarity.
 - **Politeness Levels**: Adjusting the verb "빼다" to match the politeness level is important in Korean social interactions.
@@ -79,7 +80,7 @@ The structure combines:
   - **Example**:
     - 그는 아버지와 **빼다 박았어요**.
       - He is the **spitting image** of his father.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Error Analysis
 1. **Missing Object Particle**
    - **Incorrect**: 그 사람 **빼다** 모두 왔어요.
@@ -92,7 +93,7 @@ The structure combines:
 ### Learning Strategies
 - **Remember the Verb "빼다"**: Think of "빼다" as "to subtract" or "to remove," which helps in understanding the exclusion.
 - **Practice with Nouns**: Create sentences excluding different nouns to become comfortable with particle usage.
-# 7. Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
 - **~을/를 빼다** is used to express "except for" or "excluding."
 - Always attach the object particle **을/를** to the noun being excluded.

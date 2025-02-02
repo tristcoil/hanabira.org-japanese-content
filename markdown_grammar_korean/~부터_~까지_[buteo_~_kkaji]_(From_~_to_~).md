@@ -1,6 +1,6 @@
 Processing keyword: ~부터 ~까지 [buteo ~ kkaji] (From ~ to ~)
 # Korean Grammar Point: ~부터 ~까지 [buteo ~ kkaji] (From ~ to ~)
-# Korean Grammar Lesson: ~부터 ~까지 [buteo ~ kkaji] (From ~ to ~)
+
 ## 1. Introduction
 In Korean, expressing a range or span of time, location, or sequence is commonly done using the structure **~부터 ~까지**. This grammar point is essential for indicating starting and ending points, similar to saying "from ~ to ~" in English.
 

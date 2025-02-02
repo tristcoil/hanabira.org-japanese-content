@@ -1,6 +1,6 @@
 Processing keyword: ~잖다 [janda] (You know, isn't it)
 # Korean Grammar Point: ~잖다 [janda] (You know, isn't it)
-# ~잖다 [janta] (You know, isn't it)
+
 ## 1. Introduction
 The Korean grammar ending **~잖다** is commonly used in conversation to remind the listener of something they already know or to assert a fact that is evident. It adds emphasis by suggesting that both the speaker and listener are aware of the information. In English, it can be translated as **"You know,"**, **"Isn't it,"**, or **"After all."**
 
@@ -118,13 +118,19 @@ The Korean grammar ending **~잖다** is commonly used in conversation to remind
 ### Quick Recap Quiz
 1. **Fill in the blank with the correct form of ~잖다:**
    우리가 늦게 출발하면, 늦을 ___. (Informal)
+
    **Answer:** 늦을 **잖아**.
+
 2. **Translate to Korean using ~잖다:**
    "It's cold today, you know."
+
    **Answer:** 오늘 춥잖아요.
+
 3. **True or False:**
    You can use ~잖다 to introduce new information to the listener.
+
    **Answer:** **False** – ~잖다 is used for known information.
+   
 ---
 By understanding and practicing **~잖다**, you'll enhance your conversational Korean, making your speech more natural and engaging. Remember to use it when you want to gently remind someone of something or to assert a shared understanding.
 

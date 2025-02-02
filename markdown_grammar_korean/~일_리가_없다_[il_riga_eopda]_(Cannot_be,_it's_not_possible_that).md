@@ -1,6 +1,6 @@
 Processing keyword: ~일 리가 없다 [il riga eopda] (Cannot be, it's not possible that)
 # Korean Grammar Point: ~일 리가 없다 [il riga eopda] (Cannot be, it's not possible that)
-# ~일 리가 없다 [il riga eopda] – "Cannot be, it's not possible that"
+
 ## 1. Introduction
 The grammar pattern **~(으)ㄹ 리가 없다** is used to express strong doubt or disbelief about something. It conveys the meaning of "It cannot be..." or "There's no way that...". This expression is essential for emphasizing that you firmly believe something is impossible.
 
@@ -13,8 +13,7 @@ The grammar pattern **~(으)ㄹ 리가 없다** is used to express strong doubt 
 The structure combines a verb stem with specific grammatical endings:
 1. **Verb Stem** + **(으)ㄹ** + **리가 없다**
 ### Formation Diagram
-```mermaid
-graph LR
+```
 A[Verb Stem] --> B[(으)ㄹ]
 B --> C[리가 없다]
 ```

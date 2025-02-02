@@ -1,6 +1,6 @@
 Processing keyword: ~지만 [jiman] (But)
 # Korean Grammar Point: ~지만 [jiman] (But)
-# ~지만 [jiman] (But)
+
 ## 1. Introduction
 In Korean, expressing contrast or opposition between two statements is essential for effective communication. The grammatical structure **~지만** is commonly used to connect two clauses that have contrasting meanings, much like the English conjunction **"but"**. This lesson will delve into how to properly use **~지만**, with clear explanations and examples to enhance your understanding.
 
@@ -107,7 +107,7 @@ The particle **~지만** is attached to the stem of a verb or adjective to mean 
    **Answer**: *비싸지만 필요해요.*
 ---
 By practicing and applying **~지만** in your sentences, you'll become more proficient in expressing contrasting ideas in Korean. Keep experimenting with different verbs and adjectives to enhance your fluency!
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

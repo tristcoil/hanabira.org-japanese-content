@@ -1,6 +1,6 @@
 Processing keyword: ~이래 [irae] (Like this, in this manner)
 # Korean Grammar Point: ~이래 [irae] (Like this, in this manner)
-# ~이래 [irae] (Like This, In This Manner)
+
 ## 1. Introduction
 The expression **~이래** is a commonly used adverb in Korean that means **"like this"** or **"in this manner."** Understanding this grammar point will enhance your ability to describe actions, behaviors, or situations by comparing them to something immediate or previously mentioned.
 
@@ -98,6 +98,7 @@ In Korean culture, the way something is done can be as important as what is done
 1. What does **이래** mean?
 2. How is **이래** different from **이렇게**?
 3. Provide an example sentence using **이래**.
+
 **Answers:**
 1. "Like this" or "in this manner."
 2. **이래** is more casual and often used in spoken Korean, while **이렇게** is standard and used in both spoken and written Korean.

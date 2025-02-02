@@ -1,6 +1,6 @@
 Processing keyword: ~진 않다 [jin anta] (Not really)
 # Korean Grammar Point: ~진 않다 [jin anta] (Not really)
-# ~진 않다 [jin anta] (Not really)
+
 ## 1. Introduction
 In Korean, expressing negation can be nuanced. The grammar point **~진 않다** is used to convey a softer or partial negation, similar to "not really" or "it's not that...". It allows the speaker to deny something without being overly direct or absolute.
 
@@ -60,8 +60,10 @@ Verb Stem + 진 않다
   - **하진 않습니다** (Formal)
   - **하진 않아요** (Polite)
   - **하진 않아** (Casual)
+
 ### Softening Statements
 In Korean culture, direct refusals or negations can be considered impolite. Using **~진 않다** allows the speaker to express disagreement or negation more softly, which aligns with the preference for indirect communication.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes

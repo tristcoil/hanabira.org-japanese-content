@@ -1,6 +1,6 @@
 Processing keyword: ~전 [jeon] (Before)
 # Korean Grammar Point: ~전 [jeon] (Before)
-# Korean Grammar Point: ~전 [jeon] (Before)
+
 ## 1. Introduction
 In Korean, expressing when an action occurs in relation to another is essential for clear communication. One common way to indicate that something happens **before** another action or event is by using the grammar point **~전 [jeon]**. This lesson will explore how to correctly use **~전** to express "before" in various contexts.
 

@@ -1,6 +1,6 @@
 Processing keyword: ~을/ㄹ 만하다 [eul/l manhada] (Worth doing)
 # Korean Grammar Point: ~을/ㄹ 만하다 [eul/l manhada] (Worth doing)
-# Grammar Point: ~을/ㄹ 만하다 [eul/l manhada] (Worth doing)
+
 ## 1. Introduction
 The grammar pattern **~을/ㄹ 만하다** is used in Korean to express that something is **worth doing** or **deserves to be done**. It's a versatile expression that helps you recommend actions or evaluate experiences.
 
@@ -14,12 +14,14 @@ To form **~을/ㄹ 만하다**, attach it to the verb stem according to the foll
 1. **Verb stem ending with a consonant**: **~을 만하다**
 2. **Verb stem ending with a vowel**: **~ㄹ 만하다**
 ### Formation Diagram
+
 | Verb Infinitive | Verb Stem | Ending Type | Suffix      | Result          |
 |-----------------|------------|-------------|-------------|-----------------|
 | 먹다 (to eat)    | 먹         | Consonant   | 을 만하다   | 먹을 만하다     |
 | 보다 (to see)    | 보         | Vowel       | ㄹ 만하다   | 볼 만하다       |
 | 읽다 (to read)   | 읽         | Consonant   | 을 만하다   | 읽을 만하다     |
 | 가다 (to go)     | 가         | Vowel       | ㄹ 만하다   | 갈 만하다       |
+
 ---
 ## 3. Comparative Analysis
 ### Comparison with Similar Grammar Points

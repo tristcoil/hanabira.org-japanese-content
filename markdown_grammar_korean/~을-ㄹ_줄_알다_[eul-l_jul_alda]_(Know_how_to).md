@@ -1,6 +1,6 @@
 Processing keyword: ~을/ㄹ 줄 알다 [eul/l jul alda] (Know how to)
 # Korean Grammar Point: ~을/ㄹ 줄 알다 [eul/l jul alda] (Know how to)
-# ~을/ㄹ 줄 알다 [eul/l jul alda] (Know How To)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~을/ㄹ 줄 알다**, which is used to express **"know how to [do something]"**. By understanding this structure, you'll be able to talk about your abilities and skills in Korean.
 

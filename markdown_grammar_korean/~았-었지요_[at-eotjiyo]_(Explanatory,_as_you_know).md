@@ -1,6 +1,6 @@
 Processing keyword: ~았/었지요 [at/eotjiyo] (Explanatory, as you know)
 # Korean Grammar Point: ~았/었지요 [at/eotjiyo] (Explanatory, as you know)
-# Korean Grammar Lesson: ~았/었지요 [at/eotjiyo] (Explanatory, as you know)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammatical ending **~았/었지요** [at/eotjiyo], which is used to confirm information that both the speaker and listener are aware of, often translated as "as you know" or "remember." This form adds nuance to your conversations, making your speech sound more natural and engaging.
 

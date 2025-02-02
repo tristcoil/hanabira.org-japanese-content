@@ -1,6 +1,6 @@
 Processing keyword: ~뿐만 아니라 [ppunman anira] (Not only... but also)
 # Korean Grammar Point: ~뿐만 아니라 [ppunman anira] (Not only... but also)
-# ~뿐만 아니라 [ppunman anira] (Not only... but also)
+
 ## 1. Introduction
 The Korean grammar point **~뿐만 아니라** translates to **"not only... but also..."** in English. It's used to express that in addition to one thing, there is also another. This structure allows speakers to add emphasis and provide additional information, making their sentences more expressive and nuanced.
 
@@ -121,12 +121,15 @@ The structure varies slightly depending on whether you're attaching it to a **no
 ### Quick Recap Quiz
 1. **Fill in the blank:**
    그는 친절___ 뿐만 아니라 똑똑해요.
+   
    **Answer:** 할 (그는 친절**할** 뿐만 아니라 똑똑해요.)
 2. **True or False:**
    "~뿐만 아니라" can be used with both nouns and verbs.
+   
    **Answer:** True
 3. **Translate to Korean:**
    "She is not only a teacher but also a writer."
+   
    **Answer:** 그녀는 선생님**뿐만 아니라** 작가입니다.
 ---
 By mastering **~뿐만 아니라**, you can make your Korean sentences more expressive and detailed, effectively communicating multiple related ideas with ease.

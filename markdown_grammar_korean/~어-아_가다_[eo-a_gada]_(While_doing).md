@@ -1,6 +1,6 @@
 Processing keyword: ~어/아 가다 [eo/a gada] (While doing)
 # Korean Grammar Point: ~어/아 가다 [eo/a gada] (While doing)
-# Understanding the Korean Grammar Point: ~어/아 가다 [eo/a gada] (While Doing)
+
 ## 1. Introduction
 In Korean, the expression **~어/아 가다** is commonly used to indicate the continuation or progression of an action into the future. It emphasizes that an action is ongoing and will continue as time goes on. This grammar point helps convey a sense of movement or change that persists from the present into the future.
 

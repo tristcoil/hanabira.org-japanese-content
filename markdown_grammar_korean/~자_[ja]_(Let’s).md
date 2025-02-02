@@ -1,6 +1,6 @@
 Processing keyword: ~자 [ja] (Let’s)
 # Korean Grammar Point: ~자 [ja] (Let’s)
-# ~자 [ja] (Let's)
+
 ## 1. Introduction
 In Korean, suggesting an action to do together is a common part of everyday conversation. The grammar ending **~자** is an informal way to say "Let's [do something]". This form is used among friends, family, or peers of the same age. Understanding **~자** will help you make casual suggestions and invitations in Korean.
 

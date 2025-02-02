@@ -1,10 +1,10 @@
 Processing keyword: ~만큼 [mankeum] (As much as, as many as)
 # Korean Grammar Point: ~만큼 [mankeum] (As much as, as many as)
-# Korean Grammar Lesson: ~만큼 [mankeum] (As much as, As many as)
 
 ---
 ## 1. Introduction
 The grammar point **~만큼** `[mankeum]` is a versatile particle in Korean used to compare quantities, qualities, or degrees. It translates to **"as much as"** or **"as many as"** in English and helps express comparisons between two entities or actions.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

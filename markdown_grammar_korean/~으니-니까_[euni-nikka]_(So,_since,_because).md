@@ -1,6 +1,6 @@
 Processing keyword: ~으니/니까 [euni/nikka] (So, since, because)
 # Korean Grammar Point: ~으니/니까 [euni/nikka] (So, since, because)
-# Understanding the Korean Grammar Point: ~으니/니까 (으니/니까) 
+
 ## 1. Introduction
 The Korean grammar patterns **~으니** and **~니까** are commonly used to express reasons or causes, similar to "so", "since", or "because" in English. They are essential for constructing complex sentences and expressing causation, which is crucial for effective communication in Korean.
 
@@ -103,7 +103,6 @@ The basic structure for attaching **~으니** or **~니까** to verbs and adject
    - **Answer**: Yes, **~으니까** can be used in imperative sentences.
 3. **What's the difference between ~어서 and ~으니까?**
    - **Answer**: **~아서/어서** cannot be used in imperative or propositive sentences, whereas **~으니까** can be used. Also, **~아서/어서** expresses an objective reason or natural sequence, while **~으니까** may convey a subjective reason.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

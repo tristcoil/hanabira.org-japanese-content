@@ -1,6 +1,6 @@
 Processing keyword: ~본 [bon] (Having experienced)
 # Korean Grammar Point: ~본 [bon] (Having experienced)
-# Korean Grammar Lesson: ~본 [bon] (Having Experienced)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~본**, which is used to express having experienced or tried something. This grammatical construction allows you to talk about past experiences, share stories, and ask others about their experiences. Mastering **~본** will enhance your conversational skills and deepen your understanding of Korean language nuances.
 

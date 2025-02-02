@@ -1,8 +1,10 @@
 Processing keyword: ~았/었던 것 같다 [at/eotdeon geot gatda] (It seemed that)
 # Korean Grammar Point: ~았/었던 것 같다 [at/eotdeon geot gatda] (It seemed that)
-# 1. Introduction
+
+## 1. Introduction
 The Korean grammar point **~았/었던 것 같다** is used to express a speaker's perception or conjecture about a past event or state. It translates roughly to "**It seemed that...**" or "**I think that... (in the past).**" This form allows the speaker to convey uncertainty or recollection regarding something that happened in the past.
-# 2. Core Grammar Explanation
+
+## 2. Core Grammar Explanation
 ## Meaning
 **~았/었던 것 같다** is used when:
 - The speaker is recalling something from the past with some uncertainty.
@@ -37,14 +39,16 @@ The structure is formed by:
 4. Add **것 같다**: **갔던 것 같다**
 ---
 ## Visual Aid: Formation Table
+
 | **Verb (Dictionary Form)** | **Verb Stem** | **Past Suffix** | **Retrospective Modifier** | **Final Form**           |
 |----------------------------|---------------|-----------------|----------------------------|--------------------------|
 | 가다 (to go)               | 가            | 았              | 던                         | 갔던 것 같다             |
 | 먹다 (to eat)              | 먹           | 었              | 던                         | 먹었던 것 같다           |
 | 보다 (to see)              | 보           | 았              | 던                         | 봤던 것 같다             |
 | 살다 (to live)             | 살           | 았              | 던                         | 살았던 것 같다           |
+
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### **~았/었던 것 같다** vs. **~는 것 같다**
 - **~았/었던 것 같다**: Refers to past events or states with uncertainty.
   - Example: **비가 왔던 것 같다.**
@@ -58,7 +62,7 @@ The structure is formed by:
   - **았던 것 같다**: After stems ending with **ㅏ** or **ㅗ**.
   - **었던 것 같다**: After other vowels.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ### Sentence Examples
 1. **그 책을 읽었던 것 같아요.**
    - _I think I read that book._
@@ -78,7 +82,7 @@ The structure is formed by:
   - **너 어제 늦게 잤던 것 같아.**
     - _I think you went to bed late yesterday._
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Expressing Uncertainty**: In Korean culture, being indirect can be a way to show politeness. Using **~았/었던 것 같다** softens statements about the past, showing humility or softness in speech.
 - **Avoiding Definitive Statements**: This form allows speakers to express thoughts without asserting absolute certainty, which is valued in maintaining harmonious interactions.
@@ -88,7 +92,7 @@ The structure is formed by:
 - **무엇을 말하려고 했던 것 같아요.**
   - _I think I was about to say something._
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Mistake**: Omitting **던** in the structure.
   - Incorrect: **만났었던 것 같다.**
@@ -100,7 +104,7 @@ The structure is formed by:
 - **Mnemonic Device**: Think of **던** as a "memory lens" that looks back into past actions with a sense of recollection.
 - **Practice with Common Verbs**: Use verbs like **하다**, **가다**, **보다** to get comfortable with the conjugation.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~았/었던 것 같다** is used to express uncertainty or assumptions about past events.
 - Formed by adding **았/었 + 던 것 같다** to the verb stem.

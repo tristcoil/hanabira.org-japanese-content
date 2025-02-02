@@ -1,10 +1,11 @@
 Processing keyword: ~을/를 틈타 [eul/reul teumta] (Taking advantage of, during)
 # Korean Grammar Point: ~을/를 틈타 [eul/reul teumta] (Taking advantage of, during)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, understanding various grammatical particles and expressions is crucial for fluency and comprehension. One such expression is **~을/를 틈타** (*~eul/reul teumta*), which translates to **"taking advantage of"** or **"during"**. This grammar point is used to indicate that someone took the opportunity presented by a certain situation to perform an action.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The expression **~을/를 틈타** means **"taking advantage of (a situation/event)"**, indicating that an action was performed by seizing an opportunity during a particular moment or circumstance.
 ## Structure
@@ -20,7 +21,7 @@ The structure involves attaching **~을/를 틈타** to a noun, which represents
 - Use **을 틈타** after a noun ending with a consonant.
 - Use **를 틈타** after a noun ending with a vowel.
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## Similar Grammar Points
 ### ~는 사이(에) (*~neun sai(e)*)
 - **Meaning**: "While", "during the time when"
@@ -31,7 +32,7 @@ The structure involves attaching **~을/를 틈타** to a noun, which represents
 - **Usage**: Denotes the duration in which something happens.
 - **Difference**: ~을/를 틈타 implies intentional action to capitalize on an opportunity, unlike ~는 동안.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Example Sentences
 1. **휴식 시간을 틈타 책을 읽었어요.**
    - *Hyusik siganeul teumta chaegeul ilgeosseoyo.*
@@ -49,7 +50,7 @@ The structure involves attaching **~을/를 틈타** to a noun, which represents
    - *Haksaengdeureun seonsaengnimi an gyesin teumta tteodeulgi sijakaesseoyo.*
    - **Translation**: "The students began to chatter, taking advantage of the teacher's absence."
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, being opportunistic in a positive sense—such as efficiently using time or resources—is often seen as a good trait. Using **~을/를 틈타** reflects a proactive attitude.
 ## Levels of Politeness and Formality
@@ -58,8 +59,9 @@ The examples above are in a polite form using **-어요** endings. Depending on 
 - **Informal**: **휴식 시간을 틈타 책을 읽었어.**
 ## Idiomatic Expressions
 While **~을/를 틈타** itself is an idiomatic expression, it is often used in storytelling or news reporting to describe actions such as crimes committed when an opportunity arises.
+
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Incorrect Particle Usage**: Mixing up **을** and **를**.
   - **Wrong**: **휴식 시간를 틈타**
@@ -71,7 +73,7 @@ While **~을/를 틈타** itself is an idiomatic expression, it is often used in
 - **Mnemonic Device**: Remember **틈** (teum) means "gap" or "opening," and **타다** (tada) means "to ride." Think of "riding the gap" to seize an opportunity.
 - **Practice**: Create sentences using daily routines where you seize small opportunities.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~을/를 틈타** is used to express seizing an opportunity during a specific situation.
 - Attach **을/를 틈타** to a noun representing the situation/event.

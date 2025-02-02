@@ -1,10 +1,9 @@
 Processing keyword: ~적 [jeok] (Time, instance)
 # Korean Grammar Point: ~적 [jeok] (Time, instance)
-# ~적 [jeok] (Time, Instance)
 
----
 ## 1. Introduction
 In Korean, expressing when something happens or happened is essential for clear communication. The grammar point **~적** (jeok) is used to indicate a specific time, instance, or occasion when an action takes place. Understanding how to use **~적** will enhance your ability to describe experiences and events accurately.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -43,10 +42,12 @@ Both **~때** and **~적** are used to indicate "when" something happens, but th
   - Refers to a specific instance or occasion.
   - Carries a slightly formal or literary tone.
   - Often used to reminisce or highlight a particular moment.
+
 | Grammar Point | Usage                       | Example                                 |
 |---------------|-----------------------------|-----------------------------------------|
 | ~때           | General time (when)         | 어릴 때 (when I was young)             |
 | ~적           | Specific instance (occasion)| 어렸을 적에 (at the time when I was young)|
+
 ---
 ## 4. Examples in Context
 ### Sentence Examples

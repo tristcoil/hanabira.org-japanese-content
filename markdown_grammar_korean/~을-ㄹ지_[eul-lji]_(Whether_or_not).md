@@ -1,6 +1,6 @@
 Processing keyword: ~을/ㄹ지 [eul/lji] (Whether or not)
 # Korean Grammar Point: ~을/ㄹ지 [eul/lji] (Whether or not)
-# ~을/ㄹ지 [eul/lji] (Whether or Not)
+
 ## 1. Introduction
 The Korean grammar point **~을/ㄹ지** ([eul/lji]) is used to express uncertainty, speculation, or contemplation about options and possibilities. It's similar to the English phrases "**whether**," "**whether or not**," or "**if**". Mastering this structure will enhance your ability to discuss future possibilities and hypothetical situations in Korean.
 
@@ -101,7 +101,6 @@ In Korean culture, considering others' opinions and being indirect when expressi
    - **Correct Sentence**: 내일 비가 **올지** 안 **올지** 모르겠어요.
 ---
 By practicing **~을/ㄹ지**, you'll become more comfortable expressing uncertainty and discussing possibilities in Korean, making your conversations more nuanced and natural.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

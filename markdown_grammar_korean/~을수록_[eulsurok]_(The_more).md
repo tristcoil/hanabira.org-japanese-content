@@ -1,10 +1,9 @@
 Processing keyword: ~을수록 [eulsurok] (The more)
 # Korean Grammar Point: ~을수록 [eulsurok] (The more)
-# Korean Grammar Point: ~을수록 [eulsurok] (The More)
 
----
 ## 1. Introduction
 In Korean, the grammar structure **~을수록** is used to express the idea of "the more... the more...". This expression highlights a proportional relationship between two actions or states, indicating that as one increases or intensifies, so does the other.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

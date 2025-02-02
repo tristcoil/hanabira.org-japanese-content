@@ -1,6 +1,6 @@
 Processing keyword: ~았/었으면 좋겠다 [at/eosseumyeon jokgetda] (Wish something had happened)
 # Korean Grammar Point: ~았/었으면 좋겠다 [at/eosseumyeon jokgetda] (Wish something had happened)
-# Korean Grammar Lesson: ~았/었으면 좋겠다 (Expressing Wishes About Past Events)
+
 ## 1. Introduction
 In Korean, expressing regrets or wishes about the past involves specific grammatical structures. The pattern **~았/었으면 좋겠다** is used to convey a desire for something that did not happen in the past. It's similar to saying "I wish I had..." in English. This lesson will help you understand and use this grammar point naturally.
 
@@ -20,13 +20,16 @@ The structure combines the past tense marker **~았/었** with the conditional *
   - Use **었** after all other verb stems.
 - **으면 좋겠다**: "It would be good if..."
 #### Formation Table
+
 | Verb        | Verb Stem | Past Tense Marker | Combined Form         | Meaning                  |
 |-------------|-----------|-------------------|-----------------------|--------------------------|
 | 가다 (to go)   | 가         | 았              | 가았으면 좋겠다 → 갔으면 좋겠다 | I wish I had gone        |
 | 먹다 (to eat)  | 먹         | 었              | 먹었으면 좋겠다        | I wish I had eaten       |
 | 하다 (to do)   | 하         | 였             | 하였으면 좋겠다 → 했으면 좋겠다 | I wish I had done        |
 | 보다 (to see)  | 보         | 았              | 보았으면 좋겠다 → 봤으면 좋겠다 | I wish I had seen        |
+
 *Note:* In spoken Korean, certain combinations are shortened (e.g., **가았** → **갔**, **보았** → **봤**).
+
 ---
 ## 3. Comparative Analysis
 ### Comparison with ~면 좋겠다

@@ -1,6 +1,6 @@
 Processing keyword: ~지 않다/지 못하다 [ji anhda/ji mothada] (Not, don't, can't)
 # Korean Grammar Point: ~지 않다/지 못하다 [ji anhda/ji mothada] (Not, don't, can't)
-# ~지 않다/~지 못하다 [ji anhda/ji mothada] (Not, Don't, Can't)
+
 ## 1. Introduction
 In Korean, negation is an essential part of everyday communication. Understanding how to express "not doing" something or "cannot do" something is crucial for building meaningful sentences. Two commonly used grammatical structures for negation are **~지 않다** and **~지 못하다**. This lesson will delve into their meanings, usage, and how to form sentences using these structures.
 

@@ -1,10 +1,11 @@
 Processing keyword: ~소문에는 [somuneneun] (I heard that)
 # Korean Grammar Point: ~소문에는 [somuneneun] (I heard that)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~소문에는** (*somuneneun*), which translates to **"I heard that..."** or **"According to rumors..."** in English. This expression is commonly used to convey information obtained indirectly, emphasizing that the speaker is relaying hearsay rather than firsthand knowledge.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 ### Meaning
 - **~소문에는**: *"I heard that...", "According to rumors...", "Rumor has it that..."*
@@ -29,7 +30,7 @@ Where:
 | Introductory Phrase | 소문에는           | According to rumors    |
 | Statement        | 그 두 사람이 사귄대 | They say those two are dating |
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 **Comparing Similar Expressions:**
 | Expression              | Usage                                      | Example                                              |
 |-------------------------|--------------------------------------------|------------------------------------------------------|
@@ -38,7 +39,7 @@ Where:
 | **~아/어 보니까**        | Based on personal experience; "Having tried..." | 직접 가 보니까 정말 좋았어요.<br>(*Having been there myself, it was really good.*) |
 - **Difference:** While **~소문에는** is used for information heard through rumors, **~에 따르면** cites a specific source, and **~아/어 보니까** is used for conclusions drawn from personal experience.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example Sentences
 #### 1. Informal Spoken Context
 - **소문에는 지훈이가 회사를 그만뒀다며?**
@@ -56,7 +57,7 @@ Where:
 - **소문에는 그 박물관이 다음 달에 개장한다고 들었습니다.**
   - *I heard that the museum is opening next month.*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, indirect communication is often valued, especially when discussing sensitive information or rumors. Using expressions like **~소문에는** allows speakers to share information while acknowledging that it's unverified, which can help maintain harmony and avoid spreading misinformation.
 ## Levels of Politeness and Formality
@@ -71,7 +72,7 @@ In Korean culture, indirect communication is often valued, especially when discu
   - **풍문으로 들었는데 그들이 이혼했대요.**
     - *I heard through the grapevine that they got divorced.*
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Misplacing the Particle -는**
    - **Incorrect:** 소문에 그 영화가 재미있대.
@@ -87,7 +88,7 @@ In Korean culture, indirect communication is often valued, especially when discu
 - **Practice Making Sentences:** Create sentences about fictional rumors to get comfortable with the structure.
 - **Listening Practice:** Watch Korean dramas or shows and note when characters use **~소문에는** or similar expressions.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~소문에는** is used to relay information based on rumors or hearsay.
 - It introduces a statement that the speaker has heard indirectly.
@@ -97,18 +98,22 @@ In Korean culture, indirect communication is often valued, especially when discu
    a) According to the news  
    b) I personally think  
    c) According to rumors  
+   
    **Answer:** c) According to rumors
+   
 2. **Fill in the blank with the correct particle:**
    소문**__** 그들이 새로운 가게를 열었대.
+   
    **Answer:** 소문**에는** 그들이 새로운 가게를 열었대.
+
 3. **Choose the appropriate context for using 소문에는:**
    a) Sharing confirmed news  
    b) Discussing a personal experience  
    c) Relaying unverified information  
+   
    **Answer:** c) Relaying unverified information
 ---
 Thank you for learning about the grammar point **~소문에는** with us! Keep practicing by incorporating it into sentences about things you've heard.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

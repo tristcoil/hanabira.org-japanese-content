@@ -1,10 +1,9 @@
 Processing keyword: ~어/아 갖다 [eo/a gatda] (To keep doing)
 # Korean Grammar Point: ~어/아 갖다 [eo/a gatda] (To keep doing)
-# Korean Grammar Lesson: ~어/아 갖다 [eo/a gatda] (To Keep Doing)
 
----
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~어/아 갖다 [eo/a gatda]**, which conveys the meaning of **"to keep doing"** an action. This structure is commonly used in colloquial Korean to express the continuity or repetition of an action over time.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -96,6 +95,7 @@ The connecting vowel **~어/아** is chosen based on vowel harmony:
 1. What does **~어/아 갖다** express in a sentence?
 2. How do you attach **~어/아 갖다** to the verb **읽다** (to read)?
 3. Is it appropriate to use **~어/아 갖다** in formal writing?
+
 **Answers:**
 1. It expresses that someone keeps doing an action or continues to do something.
 2. **읽어 갖다** (*ilgeo gatda*)

@@ -1,6 +1,6 @@
 Processing keyword: ~와/과 [wa/gwa] (And, with)
 # Korean Grammar Point: ~와/과 [wa/gwa] (And, with)
-# ~와/과 [wa/gwa] (And, With)
+
 ## 1. Introduction
 In Korean, particles are essential in indicating the relationships between words in a sentence. The particles **~와/과** are conjunctions used to connect nouns, similar to "and" or "with" in English. Mastering these particles will help you construct more complex sentences and communicate more effectively in Korean.
 
@@ -74,12 +74,17 @@ There are other particles in Korean that also mean "and" or "with." Understandin
 ### Quick Recap Quiz
 1. **Fill in the blank with the correct particle (~와/과):**
    **산**___ 바다를 좋아해요. *(I like mountains and the sea.)*
-   **Answer:** **산****과** 바다를 좋아해요.
+   
+   **Answer:** 산 **과** 바다를 좋아해요.
+
 2. **True or False:**
    The particle **~와/과** is appropriate for casual conversations with friends.
+   
    **Answer:** **False**
+
 3. **Choose the correct particle for the noun ending:**
    Connect **우유** (milk) and **커피** (coffee).
+   
    **Answer:** 우유**와** 커피
 ---
 By consistently practicing and paying attention to noun endings, you will become proficient in using **~와/과** to connect nouns in formal Korean language contexts.

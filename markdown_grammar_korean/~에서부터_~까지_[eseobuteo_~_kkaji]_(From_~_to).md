@@ -1,10 +1,11 @@
 Processing keyword: ~에서부터 ~까지 [eseobuteo ~ kkaji] (From ~ to)
 # Korean Grammar Point: ~에서부터 ~까지 [eseobuteo ~ kkaji] (From ~ to)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, expressing the range from one point to another is essential for describing distances, times, quantities, and more. The grammatical structure **~에서부터 ~까지** (eseobuteo ~ kkaji) is used to indicate "from ~ to ~" in a sentence. This lesson will delve into the usage of this grammar point, providing a comprehensive understanding with examples and explanations.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 - **~에서부터 ~까지** is used to indicate the starting point (**from**) and the ending point (**to**) of an action, state, or range.
 - It emphasizes the origin and the destination or the span between two points.
@@ -23,7 +24,7 @@ The structure combines **~에서부터** (from) and **~까지** (to):
 | **Noun2**        | Ending point      |
 | **까지**         | To                |
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 - **~에서 ~까지** vs. **~부터 ~까지** vs. **~에서부터 ~까지**:
   - **~에서 ~까지**: Used mainly for places.
     - Example: 서울에서 부산까지 (From Seoul to Busan)
@@ -32,7 +33,7 @@ The structure combines **~에서부터** (from) and **~까지** (to):
   - **~에서부터 ~까지**: Emphasizes both the starting point and the journey to the ending point. It can be used for both places and times.
 **Note**: While they can sometimes be used interchangeably, **~에서부터 ~까지** adds emphasis on the starting point.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example Sentences
 1. **Place (Informal)**
    - 서울에서부터 부산까지 여행했어요.
@@ -54,7 +55,7 @@ The structure combines **~에서부터** (from) and **~까지** (to):
   - 집에서부터 학교까지 걸어왔어.
   - *I walked from home to school.*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - In Korean culture, specifying the range or extent of something is common, especially in storytelling and descriptions.
 - The use of **~에서부터 ~까지** can add a sense of thoroughness or completeness.
@@ -65,7 +66,7 @@ The structure combines **~에서부터** (from) and **~까지** (to):
   - Example: 그녀는 머리에서부터 발끝까지 완벽해.
     - *She is perfect from head to toe.*
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Omitting 에서 or 부터**
    - Incorrect: 서울부터 부산까지
@@ -77,7 +78,7 @@ The structure combines **~에서부터** (from) and **~까지** (to):
 - **Mnemonic Device**: Remember that **에서** denotes location, and **부터** denotes starting point. Combining them (**에서부터**) emphasizes "starting from a location."
 - **Practice**: Create sentences using different nouns for places and times to get comfortable with the structure.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~에서부터 ~까지** is used to express "from ~ to ~" with emphasis on the starting point.
 - It can be used with places, times, quantities, and abstract concepts.

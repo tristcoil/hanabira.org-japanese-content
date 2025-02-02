@@ -1,6 +1,8 @@
 Processing keyword: ~차라리 [charari] (Rather, instead)
 # Korean Grammar Point: ~차라리 [charari] (Rather, instead)
-# ~차라리 [charari] (Rather, Instead)
+
+TODO: start from here
+
 ## 1. Introduction
 Expressing preferences, especially when both options are less than ideal, is a common aspect of communication in any language. In Korean, **차라리 [charari]** is an adverb that allows speakers to indicate a preference for one option over another unfavorable one. Understanding how to use **차라리** will enhance your ability to articulate choices more precisely.
 
@@ -123,10 +125,12 @@ Note: In this context, the sentence should be formed as:
 - **더운 날씨는 싫어요. 차라리 추운 날씨가 좋아요.**
   - *I don't like hot weather. I'd rather prefer cold weather.*
 </details>
+
 ---
 By mastering the use of **차라리**, you can express nuanced preferences and make your Korean conversations more natural and precise. Keep practicing by creating your own sentences and using **차라리** in different scenarios!
+
 ---
-# Additional Practice
+## Additional Practice
 ### Try making your own sentences using **차라리**:
 1. **Express choosing a lesser task over another.**
    - *Example*: 차라리 설거지를 할게요.
@@ -134,8 +138,7 @@ By mastering the use of **차라리**, you can express nuanced preferences and m
 2. **Show preference in an undesirable situation.**
    - *Example*: 기다리느니 차라리 내일 오겠어요.
      - *Rather than waiting, I'd come tomorrow instead.*
----
-Feel free to share your sentences with a teacher or language partner to get feedback!
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

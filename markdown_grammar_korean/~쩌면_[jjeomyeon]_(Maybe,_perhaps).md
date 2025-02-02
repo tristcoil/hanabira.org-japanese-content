@@ -1,8 +1,9 @@
 Processing keyword: ~쩌면 [jjeomyeon] (Maybe, perhaps)
 # Korean Grammar Point: ~쩌면 [jjeomyeon] (Maybe, perhaps)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we'll explore the Korean adverb **~쩌면 [jjeomyeon]**, which conveys the meaning of "maybe" or "perhaps" in English. Understanding this expression will help you express uncertainty or possibility in various contexts, enhancing your communication skills in Korean.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 **~쩌면 [jjeomyeon]** is actually a contraction of **어쩌면 [eojjeomyeon]**, an adverb used to indicate that something is possible or that the speaker is unsure about something. It can be translated as "maybe," "perhaps," or "possibly" in English. This term is often used when the speaker wants to express speculation or a guess about a situation.
 ### Meaning and Usage
@@ -30,7 +31,7 @@ Start sentence with "어쩌면"
         V
 Express uncertain possibility
 ```
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 **어쩌면** vs. **아마 [ama]**
 - **어쩌면 [eojjeomyeon]**
   - Implies a higher degree of uncertainty.
@@ -38,7 +39,7 @@ Express uncertain possibility
 - **아마 [ama]**
   - Translates to "probably."
   - Indicates that the speaker believes something is likely, with more confidence than "어쩌면."
-# 4. Examples in Context
+## 4. Examples in Context
 ## Formal Context
 1. **어쩌면 내일 회의가 취소될 수도 있습니다.**
    - *Maybe the meeting tomorrow might be canceled.*
@@ -59,21 +60,21 @@ Express uncertain possibility
    - *Maybe it will rain. Should we take an umbrella?*
 2. **어쩌면 그가 올 수도 있어.**
    - *He might come, perhaps.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, expressing uncertainty or humility in statements is common and reflects politeness. Using **어쩌면** allows the speaker to avoid making definitive statements, which can be seen as considerate in social interactions.
 ## Idiomatic Expressions
 - **어쩌면 좋아**
   - Literal: "What should I do?"
   - Meaning: Expressing worry or concern about a situation.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Mistake**: Using **어쩌면** interchangeably with **아마** without considering the degree of certainty.
   - **Correction**: Use **어쩌면** for less certain situations and **아마** when you are fairly confident.
 ## Learning Strategies
 - **Tip**: Associate **어쩌면** with situations where you genuinely are unsure and are speculating.
 - **Mnemonic**: Think of **어쩌면** as "Oh, what if..." to remember its usage in uncertain contexts.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **어쩌면 [eojjeomyeon]** means "maybe" or "perhaps" and is used to express uncertainty.
 - It is used at the beginning of a sentence to modify the entire statement.

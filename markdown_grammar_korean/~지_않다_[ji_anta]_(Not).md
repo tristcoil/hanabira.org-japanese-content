@@ -1,8 +1,9 @@
 Processing keyword: ~지 않다 [ji anta] (Not)
 # Korean Grammar Point: ~지 않다 [ji anta] (Not)
-# 1. Introduction
+
+## 1. Introduction
 In the Korean language, expressing negation is essential for clear communication. The grammar pattern **~지 않다** is a common and versatile way to say "not" when negating verbs and adjectives. Mastering this structure will enhance your ability to form negative sentences accurately in various contexts.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 ### Meaning
 The pattern **~지 않다** is used to negate actions or states, equivalent to "do not" or "does not" in English. It conveys that someone does not perform an action or that something is not in a certain state.
@@ -34,7 +35,7 @@ To form a negative sentence using **~지 않다**, follow these steps:
 | + 지 않다     | 먹지 않다        |
 | Present Tense | 먹지 않아요      |
 | Translation   | I do not eat    |
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 **~지 않다** vs. **안 + Verb/Adjective**
 - **안 + Verb/Adjective**:
   - Place **안** directly before the verb or adjective.
@@ -46,7 +47,7 @@ To form a negative sentence using **~지 않다**, follow these steps:
   - Example: **먹지 않아요** (I do not eat).
 **Nuance Difference**:
 - While both forms negate the verb or adjective, **~지 않다** can sound more formal or emphatic compared to **안**.
-# 4. Examples in Context
+## 4. Examples in Context
 ## Sentence Examples
 ### Formal Context
 1. **회의에 참석하지 않습니다**.
@@ -68,7 +69,7 @@ To form a negative sentence using **~지 않다**, follow these steps:
    - This problem is not simple.
 2. **성공은 쉽지 않다**.
    - Success is not easy.
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 Understanding levels of politeness is crucial in Korean. The choice between **안 + Verb/Adjective** and **~지 않다** can reflect the speaker's relationship with the listener and the formality of the situation.
 - **~지 않습니다** is formal and polite, suitable for professional settings or when addressing someone of higher status.
@@ -81,7 +82,7 @@ Understanding levels of politeness is crucial in Korean. The choice between **�
 - **마음이 놓이지 않다**: To be uneasy or anxious
   - 시험 결과가 나올 때까지 마음이 놓이지 않아요.
     - I won't feel at ease until the exam results come out.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 ### Mistake 1: Mixing **안** and **~지 않다**
 - **Incorrect**: **안 가지 않아요**.
@@ -95,7 +96,7 @@ Understanding levels of politeness is crucial in Korean. The choice between **�
 - **Tip**: Remember that **않다** behaves like a regular verb and should be conjugated accordingly.
 - **Mnemonic**: Think of **지** as attaching to the stem, with **않다** negating the action.
 - **Practice**: Convert affirmative sentences to negative using both **안** and **~지 않다** to become familiar with both forms.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~지 않다** is used to negate verbs and adjectives, meaning "do not" or "does not".
 - Attach **지 않다** to the verb or adjective stem, then conjugate **않다** based on tense and politeness.

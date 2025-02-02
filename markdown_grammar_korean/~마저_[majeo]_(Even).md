@@ -1,6 +1,6 @@
 Processing keyword: ~마저 [majeo] (Even)
 # Korean Grammar Point: ~마저 [majeo] (Even)
-# ~마저 [majeo] (Even)
+
 ## 1. Introduction
 In Korean, particles are essential in adding nuance and specificity to sentences. One such particle is **~마저** (*majeo*), which translates to **"even"** in English. This particle is used to emphasize that something is included in addition to other things, often highlighting an exhaustive inclusion that leads to an unexpected or undesirable situation. Mastering **~마저** will help you express situations where everything, including the last possible option, is involved.
 
@@ -115,21 +115,32 @@ In Korean, particles are essential in adding nuance and specificity to sentences
 ### Quick Recap Quiz
 **Question 1:** Choose the correct particle to complete the sentence:
 **갑자기 비가 와서 우산___ 없었어요.**
+
 a) 도  b) 마저  c) 까지
+
 **Answer:** **b) 마저**
 **Explanation:** Emphasizes that even the umbrella was not available in an unexpected situation.
+
 ---
 **Question 2:** True or False?
+
 **~마저** is commonly used in positive contexts to express pleasant surprises.
+
 **Answer:** **False**
+
 **Explanation:** **~마저** is typically used in negative contexts to express exhaustive inclusion leading to undesired outcomes.
+
 ---
 **Question 3:** Which particle is more appropriate in the following sentence?
+
 **좋은 일만 가득한데 선물___ 받았어요!**
+
 a) 마저  b) 까지
+
 **Answer:** **b) 까지**
 **Correct Sentence:** **좋은 일만 가득한데 선물까지 받았어요!**
 **Explanation:** **~까지** is suitable for positive inclusion without negative nuance.
+
 ---
 By understanding and practicing the usage of **~마저**, you can add depth to your Korean language expressions, especially when conveying emotions related to exhaustive situations.
 

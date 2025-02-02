@@ -1,6 +1,6 @@
 Processing keyword: ~어/아야 하다 [eo/ayahada] (Have to, should)
 # Korean Grammar Point: ~어/아야 하다 [eo/ayahada] (Have to, should)
-# Korean Grammar Lesson: ~어/아야 하다 [eo/aya hada] (Have to, Should)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~어/아야 하다**, which is used to express obligation or necessity, similar to "have to" or "should" in English. Understanding this grammar structure is essential for expressing duties, responsibilities, and recommendations in Korean.
 
@@ -12,10 +12,12 @@ The grammar point **~어/아야 하다** conveys the meaning of **"must," "have 
 **Verb Stem + ~어/아야 하다**
 ### Formation Diagram
 To form this expression, attach **~어야 하다** or **~아야 하다** to the verb stem, depending on the verb's vowel harmony.
+
 | Verb Stem Ending           | Suffix     | Example Verb | Conjugated Form          |
 |----------------------------|------------|--------------|--------------------------|
 | Ends with **아** or **오** vowel | ~아야 하다 | 가다 (to go)    | 가 + 아야 하다 = **가야 하다** |
 | All other vowels           | ~어야 하다 | 먹다 (to eat) | 먹 + 어야 하다 = **먹어야 하다** |
+
 ### Notes on Formation
 - For verbs ending with **하다**, it becomes **해야 하다**.
 - **Irregular verbs** follow their respective conjugation rules.
@@ -109,7 +111,6 @@ In Korean culture, expressing obligations is often influenced by social relation
    - **Answer:** **공부해야 해요.** (Both are acceptable, but if focusing on **~어야 하다**, then use **해요**.)
 ---
 Keep practicing by creating your own sentences using **~어/아야 하다** to express your daily obligations!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

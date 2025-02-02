@@ -1,6 +1,6 @@
 Processing keyword: ~어/아 서다 [eo/a seoda] (After doing)
 # Korean Grammar Point: ~어/아 서다 [eo/a seoda] (After doing)
-# ~어/아 서다 [eo/a seoda] (After doing)
+
 ## 1. Introduction
 Welcome to today's lesson on the Korean grammar point **~어/아 서다** [eo/a seoda]. While this construction might seem to imply "after doing" due to its components, it's important to note that **~어/아 서다** is not a standard or commonly used grammatical structure to express "after doing" in Korean. In this lesson, we'll explore its components, clarify common ways to express "after doing", and provide examples to enhance your understanding.
 
@@ -85,6 +85,7 @@ Korean language has different levels of politeness:
 1. How do you say "after eating" using **~고 나서**?
 2. Which grammar point would you use to emphasize the completion of an action before the next?
 3. True or False: **~어/아 서다** is commonly used to mean "after doing" in Korean.
+
 **Answers**:
 1. **먹고 나서**
 2. **~고 나서**

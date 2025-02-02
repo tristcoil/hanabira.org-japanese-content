@@ -1,14 +1,16 @@
 Processing keyword: ~을 테니 [eul teni] (I assume/bet)
 # Korean Grammar Point: ~을 테니 [eul teni] (I assume/bet)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~을 테니** (**~eul teni**), which is used to express the speaker's strong intention or assumption, often providing a reason or condition for the following statement. Understanding this grammar point will help you convey intentions, make assumptions, and coordinate actions in various contexts.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The ending **~을 테니** is used to:
 - **Express the speaker's strong intention or plan**, often when proposing a course of action or giving a reason.
 - **Indicate an assumption about a situation**, providing a basis for the following clause.
+
 It can be translated as:
 - "Since I will..."
 - "Because I intend to..."
@@ -32,7 +34,7 @@ The structure of **~을 테니** is applied to verbs and consists of:
 | Ends with consonant  | 작 (작다) | **을 테니** | 작을 테니    |
 | Ends with vowel      | 주 (주다) | **ㄹ 테니** | 줄 테니      |
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### **~을 테니** vs **~을 거니까**
 - **~을 테니** focuses on the speaker's intention or assumption as a reason for the following action.
 - **~을 거니까** (future tense of "because") emphasizes the future occurrence as the reason.
@@ -43,7 +45,7 @@ The structure of **~을 테니** is applied to verbs and consists of:
   - *Because I will prepare, don't worry.*
 While both convey similar meanings, **~을 테니** is more about intention or assumption, whereas **~을 거니까** states a future fact.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example 1: Speaker's Intention
 **Formal**
 - 제가 발표를 준비**할 테니** 자료를 보내주세요.
@@ -68,7 +70,7 @@ While both convey similar meanings, **~을 테니** is more about intention or a
 - 너는 표를 사**을 테니** 나는 음식을 준비할게.
   - *You buy the tickets, and I'll prepare the food.*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Levels of Politeness
 - **~을 테니** can be made more polite by adding **-요**: **~을 테니요**.
 - In formal or respectful situations, ensure to use polite verb endings to show proper respect.
@@ -80,7 +82,7 @@ While both convey similar meanings, **~을 테니** is more about intention or a
   - *I'll go alone, so don't worry.*
   - Indicates independence and assures others not to be concerned.
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Common Mistakes
 1. **Incorrect Verb Stem Attachment**
    - **Incorrect:** 읽**을** 테니니 (redundant ending)
@@ -95,7 +97,7 @@ While both convey similar meanings, **~을 테니** is more about intention or a
 - **Practice Intentions and Assumptions:**
   - Create sentences expressing what you intend to do or what you assume about situations.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~을 테니** is used to express strong intentions or assumptions, providing reasons or conditions for the following action.
 - Attach **을 테니** to verb stems ending with a consonant and **ㄹ 테니** to those ending with a vowel.

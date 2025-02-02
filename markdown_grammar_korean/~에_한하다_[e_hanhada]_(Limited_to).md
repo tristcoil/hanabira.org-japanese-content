@@ -1,6 +1,6 @@
 Processing keyword: ~에 한하다 [e hanhada] (Limited to)
 # Korean Grammar Point: ~에 한하다 [e hanhada] (Limited to)
-# Korean Grammar Point: ~에 한하다 [e hanhada] (Limited to)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~에 한하다** (*e hanhada*), which translates to **"limited to"** in English. This expression is commonly used to indicate that something is restricted to a particular group, condition, or period.
 
@@ -18,22 +18,26 @@ The structure of **~에 한하다** is:
 - **에**: A particle meaning "to" or "at."
 - **한하다**: A verb meaning "to be limited."
 ### Formation Diagram
+
 | **Component** | **Description**                 |
 |---------------|---------------------------------|
 | Noun          | The subject of limitation       |
 | 에            | Particle indicating "to"        |
 | 한하다        | Verb meaning "to be limited to" |
+
 ---
 ## 3. Comparative Analysis
 ### Similar Grammar Points
 - **~에 한해서**: Also means "limited to," but often used to emphasize the condition.
 - **~만**: Means "only," but less formal and without the nuance of restriction.
 **Comparison Table**
+
 | **Grammar Point** | **Meaning**    | **Usage**                                |
 |-------------------|----------------|------------------------------------------|
 | ~에 한하다          | Limited to     | Formal contexts, specifying limitations  |
 | ~에 한해서          | Limited to     | Emphasizing restrictive conditions       |
 | ~만               | Only           | General usage, less formal               |
+
 ---
 ## 4. Examples in Context
 ### Sentence Examples
@@ -62,6 +66,7 @@ The structure of **~에 한하다** is:
 - **Clarity in Regulations**: This expression helps in clearly defining rules and regulations, which is important in a society that values order and harmony.
 ### Idiomatic Expressions
 While **~에 한하다** itself is straightforward, it's often found in set phrases within legal or official contexts.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -91,7 +96,6 @@ While **~에 한하다** itself is straightforward, it's often found in set phra
    - **Answer**: 접근은 승인된 인원에 한합니다.
 ---
 By understanding and practicing the use of **~에 한하다**, you'll enhance your ability to comprehend and compose formal Korean texts, especially those involving rules, policies, and official statements.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

@@ -1,6 +1,6 @@
 Processing keyword: ~이므로 [imyeo] (Therefore, because)
 # Korean Grammar Point: ~이므로 [imyeo] (Therefore, because)
-# Korean Grammar Lesson: **~이므로** (Therefore, Because)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~이므로**, which translates to **"therefore"** or **"because"**. It's used to express a reason or cause and is commonly found in formal written texts and speeches. Mastering **~이므로** will enhance your ability to construct logical and coherent sentences in Korean.
 
@@ -11,10 +11,12 @@ In this lesson, we'll explore the Korean grammar point **~이므로**, which tra
 ### Structure
 The structure varies depending on whether the noun ends with a consonant or a vowel.
 #### Formation
+
 | Noun Ending  | Attachment | Resulting Form      |
 |--------------|------------|---------------------|
 | Consonant    | ~**이므로** | **Noun + 이므로**    |
 | Vowel        | ~**므로**   | **Noun +므로**       |
+
 **Note:** In modern usage, **이므로** is often used regardless of whether the noun ends with a consonant or vowel for consistency.
 ### Formation Diagram
 ```
@@ -68,6 +70,7 @@ Let's compare **~이므로** with similar grammar points:
 - **Context:** You'll often see **~이므로** in newspapers, official statements, academic papers, and polite business correspondence.
 ### Idiomatic Expressions
 While **~이므로** is not typically used in idiomatic expressions, its usage reflects a speaker's adherence to formality and respect in communication, which is deeply valued in Korean society.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -96,19 +99,22 @@ While **~이므로** is not typically used in idiomatic expressions, its usage r
 1. **Fill in the blank with the correct grammar point:**
    부모님은 선생님__ 대우해 드려야 합니다.  
    *(We must treat our parents respectfully because they are teachers.)*
+
    **Answer:** **이므로**  
    부모님은 선생님**이므로** 대우해 드려야 합니다.
 2. **True or False:**  
    **~이므로** can be used with verbs and adjectives.
+
    **Answer:** **False**
 3. **Which context is appropriate for using **~이므로**?**
+
    a) Informal conversation with friends.  
    b) Formal business email.  
    c) Casual text messages.  
+
    **Answer:** **b) Formal business email**
 ---
 By understanding and practicing **~이므로**, you'll be able to express reasons formally in Korean, enhancing both your writing and speaking skills in formal contexts.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

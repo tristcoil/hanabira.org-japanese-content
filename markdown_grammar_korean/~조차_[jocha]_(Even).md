@@ -1,6 +1,6 @@
 Processing keyword: ~조차 [jocha] (Even)
 # Korean Grammar Point: ~조차 [jocha] (Even)
-# ~조차 [jocha] (Even)
+
 ## 1. Introduction
 The Korean particle **~조차** is used to emphasize that something is the least expected or desired option, often indicating that not even that minimal thing is available or possible. It translates to "**even**" in English, highlighting extremity or adding emphasis to negative statements.
 

@@ -1,10 +1,9 @@
 Processing keyword: ~서야 [seoya] (Only after)
 # Korean Grammar Point: ~서야 [seoya] (Only after)
-# Grammar Point: ~서야 [seoya] (Only after)
 
----
 ## 1. Introduction
 In Korean, expressing that an action occurs **only after** another action is crucial for conveying sequences and conditions. The grammar pattern **~서야** is used to indicate that the main action happens only after the preceding action is completed. This lesson will guide you through understanding and using **~서야** naturally in various contexts.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -31,10 +30,12 @@ Both **~서야** and **~고 나서** indicate that one action follows another. H
 - **~서야** emphasizes that the second action **can only happen after** the first action is completed.
 - **~고 나서** simply states that one action happens **after** another, without emphasis on necessity.
 **Comparison Table:**
+
 | Grammar Pattern | Meaning     | Emphasis                                    |
 |-----------------|-------------|---------------------------------------------|
 | ~서야           | Only after  | Main action happens only after first action |
 | ~고 나서        | After doing | Sequential order, no emphasis               |
+
 ---
 ## 4. Examples in Context
 ### Example Sentences
@@ -99,7 +100,6 @@ Adjusting verb endings in the main clause can convey different levels of politen
    - **Answer:** **b) 아침을 먹어서야 학교에 갈 수 있었어요.**
 ---
 By understanding and practicing **~서야**, you can express conditional sequences more naturally in Korean. Keep practicing by creating sentences relevant to your daily life!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

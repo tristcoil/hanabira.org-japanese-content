@@ -1,6 +1,6 @@
 Processing keyword: ~아/어 보이다 [a/eo boida] (Looks/seems like)
 # Korean Grammar Point: ~아/어 보이다 [a/eo boida] (Looks/seems like)
-# ~아/어 보이다 [a/eo boida] (Looks/Seems Like)
+
 ## 1. Introduction
 In Korean, expressing how something appears or seems is essential for effective communication. The grammar point **~아/어 보이다** ([a/eo boida]) is commonly used to convey that someone or something **looks** or **seems** a certain way based on visual perception.
 

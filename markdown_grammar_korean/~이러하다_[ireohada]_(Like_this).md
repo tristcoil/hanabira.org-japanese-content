@@ -1,10 +1,11 @@
 Processing keyword: ~이러하다 [ireohada] (Like this)
 # Korean Grammar Point: ~이러하다 [ireohada] (Like this)
-# 1. Introduction
+
+## 1. Introduction
 In learning Korean, understanding demonstratives and descriptive verbs is essential for expressing descriptions and states of being. One such grammar point is **~이러하다** (*ireohada*), which translates to "**to be like this**" or "**such as this**". This expression is often used to describe a situation, condition, or characteristic in a formal or written context.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 **~이러하다** (*ireohada*) is a descriptive verb used to indicate that something is in a state "like this." It combines the demonstrative **이러** (*ireo*), meaning "like this," with the verb **하다** (*hada*), meaning "to do" or "to be." This construction is commonly used to:
 - Describe a situation or condition that is being referred to.
@@ -34,7 +35,7 @@ In learning Korean, understanding demonstratives and descriptive verbs is essent
 | Present Formal Polite | 이러합니다   | ireohamnida       | Is like this (formal)    |
 | Present Informal Polite | 이러해요    | ireohaeyo         | Is like this (polite)    |
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 **이러하다** (*ireohada*) vs. **이렇다** (*ireota*)
 While both verbs express a state of "being like this," there are subtle differences:
 - **이러하다** (*ireohada*):
@@ -45,7 +46,7 @@ While both verbs express a state of "being like this," there are subtle differen
   - Commonly used in spoken Korean.
   - Used in everyday conversations to describe something immediate or present.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Sentence Examples
 1. **Formal Writing**
    - 이 제품의 특징은 **이러합니다**.
@@ -68,7 +69,7 @@ While both verbs express a state of "being like this," there are subtle differen
    - *Oneul hoeui naeyong-eun **ireohamnida**.*
    - "The details of today's meeting **are as follows**."
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, levels of politeness and formality are crucial. **이러하다** (*ireohada*) is often used in formal contexts, reflecting respect and professionalism. It is commonly found in:
 - Business reports
@@ -84,7 +85,7 @@ Using **이러하다** appropriately shows an understanding of social norms and 
   - *Sesang-i ireohani*
   - "Since the world is like this; given the state of the world."
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Mixing with 이렇다**:
   - Incorrect: 이 상황은 *이렇합니다*.
@@ -99,7 +100,7 @@ Using **이러하다** appropriately shows an understanding of social norms and 
 - **Practice Formal Contexts**:
   - Write sample sentences as if preparing a report or presentation.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~이러하다** (*ireohada*) means "to be like this" and is used in formal contexts.
 - It combines the demonstrative **이러** ("like this") with **하다** ("to do/be").
@@ -113,7 +114,6 @@ Using **이러하다** appropriately shows an understanding of social norms and 
    - **Answer**: 결과는 **이러하게** 발표되었다. ("The results were announced like this.")
 ---
 By understanding **~이러하다**, you enhance your ability to express formal descriptions and grasp the nuances of Korean politeness levels.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

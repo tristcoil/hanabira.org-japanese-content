@@ -1,6 +1,6 @@
 Processing keyword: ~아/어서 [a/eoseo] (Because, so)
 # Korean Grammar Point: ~아/어서 [a/eoseo] (Because, so)
-# Korean Grammar Point: ~아/어서 [a/eoseo] (Because, So)
+
 ## 1. Introduction
 The grammatical structure **~아/어서** is a fundamental connective ending in Korean that expresses **cause and effect** or reasons between two clauses. It is equivalent to the English conjunctions **"because"** or **"so"** and is essential for constructing coherent and logical sentences in Korean.
 

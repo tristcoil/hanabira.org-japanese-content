@@ -1,11 +1,12 @@
 Processing keyword: ~어/아 들다 [eo/a deulda] (Start to)
 # Korean Grammar Point: ~어/아 들다 [eo/a deulda] (Start to)
-# Korean Grammar Point: ~어/아 들다 [eo/a deulda] (Start to)
+
 In this lesson, we'll explore the grammar pattern **~어/아 들다**, which is used to express the beginning of an action or a change in state. This pattern is similar to saying **"start to"** or **"begin to"** in English.
 
 ---
 ## 1. Introduction
 The pattern **~어/아 들다** is attached to a verb stem to indicate that someone **starts to** do something or that something **begins to** happen or change. It's often used to describe gradual beginnings or transitions into a new state.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning and Usage

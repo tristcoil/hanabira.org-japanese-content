@@ -1,6 +1,6 @@
 Processing keyword: ~인즉슨 [injeuksseun] (Which means, in other words)
 # Korean Grammar Point: ~인즉슨 [injeuksseun] (Which means, in other words)
-# ~인즉슨 [injeuksseun] (Which means, in other words)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~인즉슨** (*injeuksseun*), which is used to clarify or rephrase a statement. It's similar to saying **"which means"** or **"in other words"** in English. Mastering this expression will enhance your ability to provide explanations and make your speech more coherent in Korean.
 
@@ -22,8 +22,7 @@ The structure of **~인즉슨** is as follows:
 - **이다**: Copula meaning *to be*.
 - **인즉슨**: Combination of **인** (from **이다**) + **즉** (*that is to say*) + **슨** (variant of **은**, a topic marker).
 #### Formation Diagram
-```mermaid
-graph TD;
+```
     A[Clause/Noun] -- 이다 --> B[이다];
     B -- Delete '다' --> C[이];
     C -- + 즉슨 --> D[인즉슨];
@@ -47,12 +46,14 @@ Let's compare **~인즉슨** with similar grammar points:
 - **~그러니까:** Used in casual speech to rephrase or explain, similar to *so*, *therefore*.
   - *Example:* **그러니까, 내일 만나자고?** (*So, you want to meet tomorrow?*)
 **Comparison Table:**
+
 | Grammar Point | Formality | Usage                         |
 |---------------|-----------|-------------------------------|
 | **~인즉슨**     | Formal    | Restating with emphasis       |
 | **~다는 말이다**| Neutral   | Clarifying a statement        |
 | **~즉**        | Formal    | Summarizing or concluding     |
 | **~그러니까**   | Informal  | Explaining in casual speech   |
+
 ---
 ## 4. Examples in Context
 ### Sentence Examples

@@ -1,6 +1,5 @@
 Processing keyword: ~아/어 두다 [a/eo duda] (Keep, leave)
 # Korean Grammar Point: ~아/어 두다 [a/eo duda] (Keep, leave)
-# ~아/어 두다 [a/eo duda] (Keep, Leave)
 ## 1. Introduction
 Welcome to today's lesson on the Korean grammar point **~아/어 두다**. This pattern is essential for expressing actions done in preparation or actions completed and left in a certain state for future convenience.
 
@@ -103,7 +102,6 @@ In Korean culture, being prepared and thinking ahead is highly valued. Using **~
    - **Answer**: False. They are similar but have subtle differences in nuance.
 3. **Translate into Korean**: "I wrote down the address for future reference."
    - **Answer**: 참고하려고 주소를 적어 두었어요.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

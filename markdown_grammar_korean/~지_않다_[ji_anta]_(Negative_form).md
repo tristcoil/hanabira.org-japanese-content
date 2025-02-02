@@ -1,10 +1,9 @@
 Processing keyword: ~지 않다 [ji anta] (Negative form)
 # Korean Grammar Point: ~지 않다 [ji anta] (Negative form)
-# Korean Grammar Lesson: **~지 않다** [ji anta] (Negative Form)
 
----
 ## 1. Introduction
 In Korean, expressing negation is an essential part of daily communication. The grammar point **~지 않다** is a versatile and commonly used negative form that allows speakers to negate verbs and adjectives in a sentence. Understanding how to use **~지 않다** will significantly enhance your ability to express negative statements in various contexts.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -32,12 +31,14 @@ Verb/Adjective Stem + 지 않다
 Korean has two primary ways to form negative sentences:
 1. **안 + [Verb/Adjective]**
 2. **[Verb/Adjective Stem] + 지 않다**
+
 | Aspect          | 안 + [Verb/Adjective] | [Verb/Adjective Stem] + 지 않다 |
 |-----------------|-----------------------|--------------------------------|
 | Formality       | Less formal           | More formal                    |
 | Usage           | Spoken language       | Written and spoken language    |
 | Placement       | Before verb/adjective | After verb/adjective stem      |
 | Example (가다)  | 안 가다 (don't go)     | 가지 않다 (do not go)          |
+
 **Key Differences:**
 - **Formality**: **~지 않다** is slightly more formal and is often used in formal writing and speeches.
 - **Emphasis**: **안** is used for simple negation, while **~지 않다** can add subtle emphasis to the negation.
@@ -103,7 +104,6 @@ Korean has two primary ways to form negative sentences:
    - **Answer**: **False**
 ---
 By mastering **~지 않다**, you enhance your ability to convey negation clearly and appropriately across different contexts in the Korean language.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

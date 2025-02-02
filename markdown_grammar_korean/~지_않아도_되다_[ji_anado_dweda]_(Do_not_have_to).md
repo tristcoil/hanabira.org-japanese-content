@@ -1,6 +1,6 @@
 Processing keyword: ~지 않아도 되다 [ji anado dweda] (Do not have to)
 # Korean Grammar Point: ~지 않아도 되다 [ji anado dweda] (Do not have to)
-# Grammar Point: ~지 않아도 되다 [ji anado dweda] (Do Not Have To)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar pattern **~지 않아도 되다**, which is used to express that someone **does not have to** do something. This structure is essential for conveying that an action is not necessary or required.
 
@@ -89,7 +89,7 @@ Let's construct the pattern using the verb **가다** (to go):
    - **Answer:** **전화하지 않아도 돼요.**
 ---
 By understanding and practicing **~지 않아도 되다**, you'll be able to express that something is not required, adding nuance and politeness to your Korean conversations.
----
+
 Feel free to create your own sentences using **~지 않아도 되다** to become more familiar with this grammar pattern!
 
 ---

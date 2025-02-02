@@ -1,6 +1,6 @@
 Processing keyword: ~못하다 [mothada] (Cannot)
 # Korean Grammar Point: ~못하다 [mothada] (Cannot)
-# ~못하다 [mothada] (Cannot)
+
 ## 1. Introduction
 In Korean, expressing the inability to do something is essential for everyday communication. The grammar point **~못하다** is commonly used to indicate that someone **cannot** or **is unable to** perform an action. Understanding how to use **~못하다** correctly will enhance your ability to express limitations and prohibitions in Korean.
 
@@ -114,11 +114,12 @@ In Korean culture, expressing inability politely is important to maintain harmon
    - I cannot sleep.
 3. True or False:
    - Using **안** and **못** interchangeably is acceptable.
+
 #### Answers
 1. 못 해요.
 2. 저는 잠을 자지 못해요.
 3. False.
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

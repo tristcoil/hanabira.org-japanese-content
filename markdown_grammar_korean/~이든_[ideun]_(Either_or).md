@@ -1,6 +1,6 @@
 Processing keyword: ~이든 [ideun] (Either or)
 # Korean Grammar Point: ~이든 [ideun] (Either or)
-# Korean Grammar Lesson: ~이든 (~ideun) - "Either... or..."
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~이든 (~ideun)**, which is used to express choices or alternatives, similar to "either... or..." or "whether... or..." in English. This grammar point allows you to convey flexibility or indifference between options, making your Korean expressions more natural and nuanced.
 
@@ -112,6 +112,7 @@ Using **~이든** can reflect humility and openness in Korean culture by showing
    **Answer**: 먹든 말든 빨리 결정하세요.
 ---
 By incorporating **~이든** into your Korean, you'll be able to express choices and alternatives smoothly, enhancing your conversational skills.
+
 ---
 "수고하셨습니다!" (Good work!) Keep practicing, and don't hesitate to use **~이든** in your daily conversations.
 

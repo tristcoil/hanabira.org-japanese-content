@@ -1,8 +1,9 @@
 Processing keyword: ~만큼 [mankeum] (As much as)
 # Korean Grammar Point: ~만큼 [mankeum] (As much as)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, expressing comparisons such as "as much as" or "to the extent of" is essential for meaningful communication. The grammar point **~만큼** (*mankeum*) allows speakers to compare quantities, qualities, and actions directly. Mastering **~만큼** will enhance your ability to convey equalities and make comparisons naturally in Korean.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning and Usage
 **~만큼** translates to "as much as," "to the extent of," or "like." It is used to:
 - Compare the extent or degree of two actions or qualities.
@@ -42,7 +43,7 @@ Add **(으)ㄴ 만큼** to the adjective stem.
   
   - 어렵**은 만큼** 보람이 있어요. (Adjective stem ending with a consonant)
     - *It's rewarding as much as it's difficult.*
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 Comparing **~만큼** with similar grammar points:
 ### **~만큼** vs. **~처럼**/**~같이**
 | Grammar Point | Meaning          | Usage                               |
@@ -56,7 +57,7 @@ Comparing **~만큼** with similar grammar points:
   - **그녀는 엄마**처럼** 요리해요.**
     - *She cooks like her mother.*
 **Difference:** **~만큼** stresses the *degree* (equally good), whereas **~처럼** focuses on the *manner* or *style*.
-# 4. Examples in Context
+## 4. Examples in Context
 ## Sentence Examples
 ### Formal Context
 1. **그 사람은 예상한 만큼 성과를 내지 못했습니다.**
@@ -78,7 +79,7 @@ Comparing **~만큼** with similar grammar points:
    - *Eat a lot as much as you're hungry.*
 2. **일한 만큼 돈을 받아야죠.**
    - *You should get paid as much as you work.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Balance and Reciprocity:** Korean culture values balance and reciprocity. Using **~만큼** reflects the importance of fairness and equivalence in relationships and social interactions.
 - **Avoiding Boastfulness:** By comparing oneself or something to another using **~만큼**, speakers can express competence or quality without seeming arrogant.
@@ -89,7 +90,7 @@ Comparing **~만큼** with similar grammar points:
 2. **고생한 만큼 얻는 것도 있다.**
    - *There are gains equal to the amount of hardship endured.*
    - **Meaning:** Hard work and suffering lead to proportional rewards.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Incorrect Attachment to Verbs**
    - **Incorrect:** 공부**만큼** 열심히 해요.
@@ -108,7 +109,7 @@ Comparing **~만큼** with similar grammar points:
     - **Example:** 작다 → 작**은 만큼**
 - **Practice with Common Adjectives and Verbs:**
   - Make a list of frequently used adjectives and verbs to practice forming **~만큼** phrases.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~만큼** is used to express equality in amount, degree, or extent.
 - Attach **만큼** directly to nouns, **-는 만큼** to verb stems, and **-(으)ㄴ 만큼** to adjective stems.
@@ -116,13 +117,18 @@ Comparing **~만큼** with similar grammar points:
 ## Quick Recap Quiz
 1. **Fill in the blank with the correct form of **~만큼**:**
    **그는 나만큼 _________.** (He is as tall as me.)
+   
    **Answer:** **그는 나만큼 키가 커요.**
+
 2. **Choose the correct ending for the adjective 좋다 (good) to use with **~만큼**.**
    - a) 좋는 만큼
    - b) 좋은 만큼
    - c) 좋은 만큼
+   
    **Answer:** c) **좋은 만큼**
+   
 3. **True or False:** **~만큼** can be used interchangeably with **~처럼** without any change in meaning.
+   
    **Answer:** **False.** They have similar but distinct meanings; **~만큼** emphasizes degree, while **~처럼** indicates similarity in manner.
 
 ---

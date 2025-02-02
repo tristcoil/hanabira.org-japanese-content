@@ -1,6 +1,6 @@
 Processing keyword: ~이든지 ~든지 [ideunji deunji] (Whether… or)
 # Korean Grammar Point: ~이든지 ~든지 [ideunji deunji] (Whether… or)
-# ~이든지 ~든지 [ideunji deunji] (Whether… or)
+
 ## 1. Introduction
 In Korean, expressing choices or possibilities often involves using the grammar point **~이든지 ~든지**. This structure is equivalent to "whether... or" in English and is used to indicate that any of the given options are acceptable or that the outcome is the same regardless of the choice.
 
@@ -37,10 +37,12 @@ For Verbs/Adjectives:
 - **거나** is used to list alternatives but is only used with verbs and adjectives.
 - **~이든지 ~든지** can be used with nouns, verbs, and adjectives.
 - **~이든지 ~든지** often emphasizes that any option is acceptable.
+
 | **Grammar Point** | **Usage**                         | **Example**                             |
 |-------------------|-----------------------------------|-----------------------------------------|
 | **거나**          | Verb/Adjective alternatives       | 먹거나 마신다 (eat or drink)            |
 | **~(이)든지**     | Noun/Verb/Adjective alternatives  | 책이든지 영화든지 좋아요 (I like either books or movies) |
+
 ---
 ## 4. Examples in Context
 ### Example Sentences

@@ -1,8 +1,9 @@
 Processing keyword: ~에 [e] (At, on, in, to)
 # Korean Grammar Point: ~에 [e] (At, on, in, to)
-# 1. Introduction
+
+## 1. Introduction
 The Korean particle **~에 [e]** is a versatile postposition used to indicate location, time, direction, and more. Understanding its usage is fundamental for constructing basic sentences in Korean, as it often corresponds to English prepositions like **"at," "on," "in,"** and **"to."**
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning and Usage
 The particle **~에** is attached to nouns to denote:
 1. **Location (static position)**: indicating where something **is** or where an action **takes place**.
@@ -33,14 +34,16 @@ When used with verbs of movement, **~에** indicates the **destination** or goal
 | Location    | At/In          | 있다, 없다, 살다             | 집에 있어요. *(I am at home.)*     |
 | Time        | At/On/In       | Action verbs                | 월요일에 시작해요. *(It starts on Monday.)* |
 | Direction   | To/Towards     | Movement verbs              | 한국에 여행가요. *(I am traveling to Korea.)* |
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## **~에** vs. **~에서**
+
 |                | **~에**                                 | **~에서**                                 |
 |----------------|-----------------------------------------|-------------------------------------------|
 | **Indicates**  | Static location (where something is), Time, Direction | Active location (where an action takes place) |
 | **Example**    | 학교에 있어요. *(I am at school.)* | 학교에서 공부해요. *(I study at school.)* |
+
 - **Note**: **~에** is used with verbs of existence or movement, while **~에서** is used with action verbs.
-# 4. Examples in Context
+## 4. Examples in Context
 ## Example Sentences
 ### 1. Location
 - **저는 방에 있어요.**
@@ -60,13 +63,13 @@ When used with verbs of movement, **~에** indicates the **destination** or goal
 ### Formal and Informal Contexts
 - **Informal**: 어디에 가? *(Where are you going?)*
 - **Formal**: 어디에 가세요? *(Where are you going?)*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Levels of Politeness
 While **~에** itself doesn't change with politeness levels, the verbs and sentence endings do. Being aware of the appropriate verb conjugations is essential in Korean social interactions.
 ### Examples
 - **Informal Polite**: 도서관에 가요. *(I go to the library.)*
 - **Formal Polite**: 도서관에 갑니다. *(I go to the library.)*
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 ### 1. Confusing **~에** and **~에서**
 - **Incorrect**: 저는 학교에서 있어요.
@@ -81,7 +84,7 @@ While **~에** itself doesn't change with politeness levels, the verbs and sente
 ## Tips
 - **Mnemonic**: Think of **~에** as **"at a point"** in time or space.
 - **Remember**: Use **~에** with **existence** and **movement** verbs; use **~에서** with **action** verbs.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~에** is used to indicate **location**, **time**, and **direction**.
 - Used with **existence** verbs (있다, 없다) for location.

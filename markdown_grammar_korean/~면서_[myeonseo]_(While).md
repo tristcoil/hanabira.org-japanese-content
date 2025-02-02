@@ -1,6 +1,6 @@
 Processing keyword: ~면서 [myeonseo] (While)
 # Korean Grammar Point: ~면서 [myeonseo] (While)
-# ~면서 [myeonseo] (While)
+
 ## 1. Introduction
 In Korean, expressing simultaneous actions or states is essential for conveying complex ideas and events occurring at the same time. The grammar point **~면서** (*myeonseo*) is commonly used to indicate that two actions are happening simultaneously. Understanding how to use **~면서** will enhance your ability to describe concurrent activities naturally in Korean.
 

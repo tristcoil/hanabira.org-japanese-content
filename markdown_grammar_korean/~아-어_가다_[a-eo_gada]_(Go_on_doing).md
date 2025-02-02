@@ -1,6 +1,6 @@
 Processing keyword: ~아/어 가다 [a/eo gada] (Go on doing)
 # Korean Grammar Point: ~아/어 가다 [a/eo gada] (Go on doing)
-# Korean Grammar Lesson: ~아/어 가다 [a/eo gada] (Go On Doing)
+
 ## 1. Introduction
 In this lesson, we'll delve into the Korean grammar point **~아/어 가다**, which is used to express an action or state that continues into the future. This pattern helps convey progression or a gradual change over time. By mastering **~아/어 가다**, you'll enhance your ability to describe ongoing actions in Korean.
 
@@ -16,11 +16,13 @@ To form this pattern:
 1. **Take the verb stem** (remove 다 from the dictionary form).
 2. **Add** ~아/어 가다 to the stem.
 ### Formation Diagram
+
 | Verb Ending (Last Vowel) | Connective | Example Verb | Conjugated Form |
 |--------------------------|------------|--------------|-----------------|
 | **아 / 오**              | **-아 가다** | 가다 (to go)  | 가 **아 가다** = 가아 가다 → 가아가다 (contracted) |
 | All Other Vowels         | **-어 가다** | 먹다 (to eat) | 먹 **어 가다** = 먹어 가다                |
 | Verb Stem ending in 하   | **-여 가다** | 공부하다 (to study) | 공부하 **여 가다** = 공부하여 가다 → 공부해 가다 (contracted) |
+
 **Note:** Contractions are common for smoother pronunciation.
 ### Example of Conjugation
 Let's conjugate **쓰다** (to write):

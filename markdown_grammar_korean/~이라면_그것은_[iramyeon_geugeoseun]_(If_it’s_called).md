@@ -1,6 +1,6 @@
 Processing keyword: ~이라면 그것은 [iramyeon geugeoseun] (If it’s called)
 # Korean Grammar Point: ~이라면 그것은 [iramyeon geugeoseun] (If it’s called)
-# Korean Grammar Lesson: ~이라면 그것은 (If it is...)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~(이)라면 그것은** (**~iramyeon geugeoseun**), which translates to **"If it is..."** in English. This structure is used to form conditional statements based on nouns, allowing speakers to speculate or consider hypothetical situations.
 

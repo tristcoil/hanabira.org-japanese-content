@@ -1,6 +1,6 @@
 Processing keyword: ~이라도 [irado] (Even if, at least)
 # Korean Grammar Point: ~이라도 [irado] (Even if, at least)
-# ~이라도 [irado] (Even if, At least)
+
 ## 1. Introduction
 The Korean particle **~이라도** is a versatile grammatical structure used to express concession, suggestion, or minimal acceptance. It carries meanings like **"even if," "though,"** or **"at least."** By using ~이라도, speakers can imply that while the option may not be ideal, it is acceptable under the circumstances.
 

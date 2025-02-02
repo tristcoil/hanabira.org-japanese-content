@@ -1,6 +1,6 @@
 Processing keyword: ~않게 [anhge] (So as not to)
 # Korean Grammar Point: ~않게 [anhge] (So as not to)
-# Korean Grammar Lesson: ~않게 [anhge] (So as Not To)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **~않게 [anhge]**, which translates to **"so as not to"** in English. This expression is used to indicate the purpose of avoiding something or to **prevent** a certain action or state from occurring.
 

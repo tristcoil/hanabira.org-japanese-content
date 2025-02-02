@@ -1,8 +1,9 @@
 Processing keyword: ~을 사이 [eul sai] (Between)
 # Korean Grammar Point: ~을 사이 [eul sai] (Between)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~을 사이** (*[~eul sai]*), which is used to express "between" or "the relationship between" two entities. Mastering this grammar will help you describe relationships and positions more naturally in Korean.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 **~을 사이** connects two nouns to indicate:
 - The **physical space between** two objects.
@@ -38,7 +39,7 @@ The basic structure is:
 **Example Formation:**
 - **철수** *(Cheolsu)* + **와** + **영희** *(Younghee)* + **사이**
   - **철수와 영희 사이**: Between Cheolsu and Younghee
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## Comparing Similar Expressions
 ### 1. **~에 사이에** vs. **~을 사이**
 - **~에 사이에** *(~e saie)*: Emphasizes the position "between" places or objects.
@@ -52,7 +53,7 @@ The basic structure is:
 | **~을 사이**      | Between two entities (relationship) | **친구와 나 사이** (Between my friend and me) |
 | **~에 사이에**    | Physical space between locations  | **두 건물 사이에** (Between two buildings)     |
 | **~중에서**       | Among multiple options           | **세 사람 중에서** (Among three people)       |
-# 4. Examples in Context
+## 4. Examples in Context
 ## Example Sentences
 ### Formal Written
 1. **한국과 일본 사이에는 바다가 있습니다.**
@@ -78,7 +79,7 @@ The basic structure is:
 5. **그녀는 동료들과 사이가 좋습니다.**
    - *Geunyeo-neun dongnyodeul-gwa saiga joseumnida.*
    - She has a good relationship with her colleagues.
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Relationship Emphasis:** In Korean culture, relationships and the connections between people are highly valued. Using **~을 사이** reflects an awareness of these interpersonal relationships.
 - **Politeness Levels:** Choosing the correct particle (**와/과**, **하고**, **(이)랑**) depends on the formality and the social relationship between the speakers.
@@ -92,7 +93,7 @@ The basic structure is:
 - **사이가 멀어지다**: *To grow apart.*
   - **오랜만에 만나니 사이가 많이 멀어졌네요.**
     - It's been a while since we met, and we've grown apart.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Mixing up particles:**
    - Incorrect: **철수는 영희 사이에...**
@@ -106,7 +107,7 @@ The basic structure is:
 ## Learning Strategies
 - **Mnemonic for Particles:** Remember **와/과, 하고, (이)랑** as connectors for "and", used before **사이**.
 - **Visualizing Relationships:** Picture the two nouns with a connecting line labeled **사이** to emphasize the "between" relationship.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~을 사이** is used to express "between" or "the relationship between" two nouns.
 - Use appropriate connecting particles based on formality:

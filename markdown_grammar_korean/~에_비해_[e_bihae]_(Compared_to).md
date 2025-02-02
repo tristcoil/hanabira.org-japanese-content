@@ -1,10 +1,11 @@
 Processing keyword: ~에 비해 [e bihae] (Compared to)
 # Korean Grammar Point: ~에 비해 [e bihae] (Compared to)
-# 1. Introduction
+
+## 1. Introduction
 In learning Korean, understanding how to make comparisons is essential for expressing preferences, differences, and similarities between objects, people, or situations. The grammar point **~에 비해** (*e bihae*), which translates to **"compared to"** in English, is commonly used to compare two nouns.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The expression **~에 비해** is used to compare one noun to another, highlighting differences or similarities. It is equivalent to saying "compared to" or "in comparison with" in English.
 ## Structure
@@ -14,19 +15,24 @@ To use **~에 비해**, attach **에 비해** directly to a noun.
 [Noun] + 에 비해
 ```
 **Diagram:**
+
 | Korean | Romanization | Meaning |
 |--------|--------------|---------|
 | 명사   |              | Noun    |
 | 에     | e            | to      |
 | 비해   | bihae        | compare |
+
 So, **명사 + 에 비해** means "compared to [Noun]".
+
 ## Visual Aid
+
 | Component    | Function            |
 |--------------|---------------------|
 | **Noun**     | The reference point |
 | **에 비해**   | "compared to"       |
+
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 **~에 비해** vs. **~보다**
 - **~보다** also means "than" or "compared to" and is used in comparative sentences.
   
@@ -39,7 +45,7 @@ So, **명사 + 에 비해** means "compared to [Noun]".
 - **~에 비해** can sound more formal and is commonly used in written language, news reports, or formal speeches.
 - **~보다** is more common in everyday conversation.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Written Context
 1. **작년에 비해 올해 매출이 증가했습니다.**
    - *Jangnyeone bihae ohae maechuri jeunggahetseumnida.*
@@ -65,7 +71,7 @@ So, **명사 + 에 비해** means "compared to [Noun]".
    - *Dareun saramdeure bihae geuneun suyeongeul jalhaeyo.*
    - **Translation:** *He swims well compared to others.*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Levels of Politeness and Formality
 - **~에 비해** is neutral in terms of politeness but is slightly more formal than **~보다**.
 - In formal writing, such as reports or academic papers, **~에 비해** is preferred.
@@ -77,7 +83,7 @@ So, **명사 + 에 비해** means "compared to [Noun]".
 - **예상보다/예상에 비해**
   - Both mean "compared to expectations," but **예상보다** is less formal than **예상에 비해**.
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Incorrect Attachment:**
    - **Incorrect:** 사람에 **비해서** 좋다.
@@ -94,7 +100,7 @@ So, **명사 + 에 비해** means "compared to [Noun]".
   - When needing to attach **~에 비해** to a verb, practice turning verbs into nouns.
     - **걷다 (to walk)** ⇒ **걷기에 비해 (compared to walking)**
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~에 비해** means "compared to" and is used to compare two nouns.
 - Attach **에 비해** directly to nouns.
@@ -109,7 +115,6 @@ So, **명사 + 에 비해** means "compared to [Noun]".
    - **Answer:** **~에 비해** is more formal.
 ---
 Feel free to revisit the examples and explanations to strengthen your understanding of **~에 비해**. Practice by creating your own sentences comparing different nouns or situations!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

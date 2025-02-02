@@ -1,6 +1,6 @@
 Processing keyword: ~이/가 되다 [i/ga dweda] (Become)
 # Korean Grammar Point: ~이/가 되다 [i/ga dweda] (Become)
-# Korean Grammar Lesson: ~이/가 되다 [i/ga doeda] (Become)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~이/가 되다**, which translates to **"to become"** in English. This structure is essential for expressing changes in state or status, making it a valuable tool for everyday conversation.
 
@@ -14,10 +14,12 @@ The structure combines a **noun** with the verb **되다** (to become), preceded
 - **Noun (ending with a consonant) + **이 되다**
 - **Noun (ending with a vowel) + **가 되다**
 ### Formation Diagram
+
 | Noun Ending | Subject Marker | 되다 | Meaning             |
 |-------------|----------------|------|---------------------|
 | Consonant   | 이             | 되다 | to become (noun)    |
 | Vowel       | 가             | 되다 | to become (noun)    |
+
 ---
 ## 3. Comparative Analysis
 ### ~이/가 되다 vs. ~게 되다

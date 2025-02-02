@@ -1,6 +1,6 @@
 Processing keyword: ~에 한해서 [e hanhaeseo] (Only in, limited to)
 # Korean Grammar Point: ~에 한해서 [e hanhaeseo] (Only in, limited to)
-# ~에 한해서 ([e hanhaeseo]) - Only in, Limited to
+
 ## 1. Introduction
 In Korean, the grammar point **~에 한해서** is used to express limitations or restrictions within a certain scope or condition. It translates to **"only in,"** **"limited to,"** or **"exclusive to"** in English. This expression is particularly useful when specifying that something applies **exclusively** to a certain group, time frame, or condition.
 
@@ -17,12 +17,14 @@ In Korean, the grammar point **~에 한해서** is used to express limitations o
 - **Noun**: The subject or scope being limited.
 - **에 한해서**: A combination of the particle **에** (to, at, in) and **한하다** (to limit), forming "**limited to**".
 ### Formation Diagram
+
 | **Components**        |                      | **Meaning**        |
 |-----------------------|----------------------|--------------------|
 | Noun                  | +                    | The scope/subject  |
 | 에 (particle)         |                      | To/In/At           |
 | 한하다 → 한해서       | (verb → connective)  | To limit → limiting to |
 | **Noun + 에 한해서** |                      | Limited to [Noun]  |
+
 ---
 ## 3. Comparative Analysis
 - **~에만**: Means "only in/at," but without the nuance of formal limitation.

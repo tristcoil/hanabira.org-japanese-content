@@ -1,6 +1,6 @@
 Processing keyword: ~이래 [irae] (Since)
 # Korean Grammar Point: ~이래 [irae] (Since)
-# Grammar Point: ~이래 [irae] (Since)
+
 ## 1. Introduction
 In Korean, expressing the concept of "since" or "ever since" in temporal contexts is essential for describing actions or states that have continued from a certain point in the past up to the present. The grammar pattern **~이래** (pronounced *irae*) is used to indicate "since" a certain time or event. This lesson will delve into the usage, structure, and nuances of **~이래**, helping you understand and apply it correctly in various contexts.
 

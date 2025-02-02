@@ -1,10 +1,9 @@
 Processing keyword: ~인지 [inji] (Whether)
 # Korean Grammar Point: ~인지 [inji] (Whether)
-# Korean Grammar Lesson: ~인지 [inji] (Whether)
 
----
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~인지** (*inji*), which is used to express "whether" or "if" in English. Understanding **~인지** will help you form indirect questions and convey uncertainty or curiosity in Korean.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning and Usage
@@ -189,7 +188,6 @@ Attach **-인지** directly to the noun.
    **Answer:** **b) 컸는지**
 ---
 By understanding and practicing **~인지**, you'll be able to express curiosity and form indirect questions naturally in Korean. Keep practicing with different verbs, adjectives, and nouns to become comfortable with this grammar point.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

@@ -1,6 +1,6 @@
 Processing keyword: ~면 [myeon] (If)
 # Korean Grammar Point: ~면 [myeon] (If)
-# Korean Grammar Lesson: ~면 [myeon] (If)
+
 ## 1. Introduction
 In Korean, conditional sentences are essential for expressing possibilities, hypotheses, and conditions. The grammar point "~면" [myeon] translates to "if" in English and is a fundamental tool in both spoken and written Korean. This lesson will delve into the usage of "~면," its formation, and how to apply it naturally in various contexts.
 
@@ -15,18 +15,22 @@ The suffix "~면" is attached to the stem of verbs and adjectives to form condit
 #### Formation Rules:
 1. **For stems ending in a vowel**:
    - Attach **~면** directly to the stem.
+   
    | Verb/Adjective | Stem   | Conditional Form |
    | -------------- | ------ | ---------------- |
    | 가다 (to go)    | 가     | 가면             |
    | 사다 (to buy)   | 사     | 사면             |
    | 크다 (to be big)| 크     | 크면             |
+
 2. **For stems ending in a consonant**:
    - Attach **~으면** to the stem.
+   
    | Verb/Adjective   | Stem    | Conditional Form |
    | ---------------- | ------- | ---------------- |
    | 먹다 (to eat)     | 먹      | 먹으면           |
    | 읽다 (to read)    | 읽      | 읽으면           |
    | 작다 (to be small)| 작      | 작으면           |
+
 ### Visual Aid: Formation Diagram
 ```
 For vowel-ending stems:

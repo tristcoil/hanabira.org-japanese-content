@@ -1,6 +1,6 @@
 Processing keyword: ~았/었어야 했다 [at/eosseoya haetda] (Should have)
 # Korean Grammar Point: ~았/었어야 했다 [at/eosseoya haetda] (Should have)
-# ~았/었어야 했다 [at/eosseoya haetda] (Should Have)
+
 ## 1. Introduction
 The Korean grammar pattern **~았/었어야 했다** is used to express **regret** or a sense of obligation about something that **should have been done but wasn't**. It allows the speaker to reflect on past actions (or inactions) and convey that a different choice would have been better.
 

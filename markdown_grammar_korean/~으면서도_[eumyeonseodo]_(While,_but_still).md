@@ -1,5 +1,6 @@
 Processing keyword: ~으면서도 [eumyeonseodo] (While, but still)
 # Korean Grammar Point: ~으면서도 [eumyeonseodo] (While, but still)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~으면서도** (**eumyeonseodo**), which translates to **"while, but still"** in English. This grammar construct is used to express a contrast between two simultaneous actions or states of being. By understanding **~으면서도**, you'll be able to articulate complex thoughts that highlight contradictions occurring at the same time.
 

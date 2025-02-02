@@ -1,6 +1,6 @@
 Processing keyword: ~아/어야만 [a/eoyaman] (Only if/when)
 # Korean Grammar Point: ~아/어야만 [a/eoyaman] (Only if/when)
-# ~아/어야만 [a/eoyaman]: Only if/when
+
 ## 1. Introduction
 In Korean, expressing conditions is essential for forming complex sentences and conveying precise meanings. The grammar point **~아/어야만** is used to indicate that something can only happen if a specific condition is met. It adds emphasis to the necessity of the condition.
 
@@ -82,7 +82,6 @@ Verb/Adjective stem + 아/어야만 + [result clause]
 1. **아침을 먹어야만 힘이 날 거예요.**
 2. **~아/어야만** emphasizes "only if", while **~으면** simply means "if".
 3. **용기를 가져야만 성공할 수 있어요.**
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

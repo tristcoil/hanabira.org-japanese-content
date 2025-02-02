@@ -1,8 +1,9 @@
 Processing keyword: ~어/아 보다 [eo/a boda] (To try doing)
 # Korean Grammar Point: ~어/아 보다 [eo/a boda] (To try doing)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~어/아 보다** (*~eo/a boda*), which is used to express the idea of **trying to do something**. This is a common and useful construction that will help you talk about new experiences and encourage others to try activities.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 The **~어/아 보다** grammar pattern is attached to the verb stem to indicate that someone **attempts** or **tries** doing an action. It conveys the meaning of "to try doing" something.
 ### Meaning
@@ -38,7 +39,7 @@ To form this expression:
                    |                    |
               Conjugated Form     Conjugated Form
 ```
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 The grammar point **~어/아 보다** should not be confused with:
 - **~어/아 보이다**: Meaning "to appear" or "to look" (e.g., 예뻐 보이다 - "looks pretty").
 - **~어/아 주다**: Meaning "to do something for someone".
@@ -72,7 +73,7 @@ While **~어/아 보다** indicates **trying** an action, **~어/아 보이다**
 **B:** 그래? 그럼 한번 읽어볼게.
 - *Geurae? Geureom hanbeon ilg-eobolge.*
 - Really? Then I'll try reading it.
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, encouraging someone to try something is common, especially with food or experiences. Using **~어/아 보다** softens the suggestion, making it polite and friendly.
 ## Levels of Politeness and Formality
@@ -84,7 +85,7 @@ In Korean culture, encouraging someone to try something is common, especially wi
   - **예:** **새로운 일에 도전해 봐.**
     - *Saeroun ire dojeonhae bwa.*
     - Try challenging yourself with new things.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Misconjugating the stem**
    - Incorrect: *먹아 보다*
@@ -97,7 +98,7 @@ In Korean culture, encouraging someone to try something is common, especially wi
 - **Mnemonic Device:** If the vowel is **ㅏ** or **ㅗ**, it's **"아 보다"**; otherwise, it's **"어 보다"**.
 - **Practice Conjugation:** Write out conjugations for various verbs to become familiar with the pattern.
 - **Use in Sentences:** Create your own sentences to internalize the grammar point.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~어/아 보다** is used to express trying or attempting an action.
 - **Conjugation depends on the last vowel of the verb stem**:
@@ -109,6 +110,7 @@ In Korean culture, encouraging someone to try something is common, especially wi
 1. How do you say "Try eating this" in polite Korean?
 2. Conjugate the verb **보다** (to see) with **~어/아 보다**.
 3. What's the difference between **~어/아 보다** and **~어/아 보이다**?
+
 **Answers:**
 1. **이것을 드셔 보세요.** (*Igeoseul deusyeo boseyo.*)
 2. **봐 보다** → **봐 보다** (since **보다** ends with **ㅗ**, it becomes **봐 보다**)

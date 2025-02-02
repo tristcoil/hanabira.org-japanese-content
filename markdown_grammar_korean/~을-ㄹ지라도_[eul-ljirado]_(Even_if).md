@@ -1,6 +1,6 @@
 Processing keyword: ~을/ㄹ지라도 [eul/ljirado] (Even if)
 # Korean Grammar Point: ~을/ㄹ지라도 [eul/ljirado] (Even if)
-# Korean Grammar Lesson: ~을/ㄹ지라도 [~eul/ljirado] (Even if)
+
 ## 1. Introduction
 In Korean, expressing conditions and concessions is essential for fluency. The grammar point **~을/ㄹ지라도** is used to convey the meaning of "even if" or "even though," emphasizing that a certain condition does not affect the outcome.
 

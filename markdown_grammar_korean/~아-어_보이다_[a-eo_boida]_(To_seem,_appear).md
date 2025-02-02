@@ -1,10 +1,9 @@
 Processing keyword: ~아/어 보이다 [a/eo boida] (To seem, appear)
 # Korean Grammar Point: ~아/어 보이다 [a/eo boida] (To seem, appear)
-# Korean Grammar Lesson: ~아/어 보이다 [a/eo boida] (To Seem, Appear)
 
----
 ## 1. Introduction
 In Korean, expressing perceptions or impressions about someone or something is a common aspect of daily communication. The grammar structure **~아/어 보이다** is used to indicate that something **"seems"** or **"appears"** a certain way based on visual cues or impressions.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -94,7 +93,6 @@ The suffix **~아/어 보이다** attaches to the stem of descriptive verbs (adj
 1. **맛있어 보여요.**
 2. **~아/어 보이다** is used with adjectives to describe appearance, while **~처럼 보이다** is used with nouns meaning "looks like."
 3. Corrected: **그는 피곤해 보여요.**
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

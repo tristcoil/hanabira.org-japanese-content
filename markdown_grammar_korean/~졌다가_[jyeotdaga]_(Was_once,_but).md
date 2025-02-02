@@ -1,10 +1,9 @@
 Processing keyword: ~졌다가 [jyeotdaga] (Was once, but)
 # Korean Grammar Point: ~졌다가 [jyeotdaga] (Was once, but)
-# Korean Grammar Lesson: ~졌다가 [jyeotdaga] (Was once, but...)
 
----
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~졌다가** (*jyeotdaga*), which is used to express that something **became** a certain state **but then** changed again. It's akin to saying "was once..., but..." in English. This structure highlights a transition from one state to another, emphasizing the contrast between them.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -18,32 +17,42 @@ The structure for forming **~졌다가** is:
 ### Formation Diagram
 Let's break down the formation:
 1. **Take the Verb Stem**:
+   
    | Verb          | Stem   |
    |---------------|--------|
    | 예쁘다 (to be pretty) | 예쁘  |
+
 2. **Add -아/어지다** (to become ...):
    - If the stem vowel is **아** or **오**, use **-아지다**.
    - Otherwise, use **-어지다**.
+
    | Stem | Ending  | Result      |
    |------|---------|-------------|
    | 예쁘 | -어지다 | 예뻐지다 (to become pretty) |
+
 3. **Conjugate to Past Tense**:
+
    | Verb       | Past Tense Ending | Result       |
    |------------|-------------------|--------------|
    | 예뻐지다    | -았다/었다        | 예뻐졌다 (became pretty) |
+
 4. **Add -다가**:
+
    | Verb     | + 다가 | Result          |
    |----------|--------|-----------------|
    | 예뻐졌다 | 다가   | 예뻐졌다가 (was once pretty, but then...) |
+
 ---
 ## 3. Visual Aids
 ### Formation Table
+
 | Step | Process                             | Example                  |
 |------|-------------------------------------|--------------------------|
 | 1    | Verb Stem                           | 좋다 → **좋**             |
 | 2    | Add -아/어지다 (to become ...)       | 좋 + 아지다 → **좋아지다** |
 | 3    | Past Tense (-았다/었다)              | 좋아지다 → **좋아졌다**     |
 | 4    | Add -다가                            | 좋아졌다 + 다가 → **좋아졌다가** |
+
 ---
 ## 4. Comparative Analysis
 ### Comparison with -다가

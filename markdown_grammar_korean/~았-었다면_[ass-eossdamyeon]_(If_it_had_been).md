@@ -1,6 +1,6 @@
 Processing keyword: ~았/었다면 [ass/eossdamyeon] (If it had been)
 # Korean Grammar Point: ~았/었다면 [ass/eossdamyeon] (If it had been)
-# Korean Grammar Lesson: ~았/었다면 [ass/eossdamyeon] (If it had been)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~았/었다면**, which is used to express hypothetical situations or regrets about the past that did not happen. It's similar to saying "If I had..." or "Had it been..." in English. Mastering this grammar will allow you to discuss unreal past conditions and their possible outcomes.
 
@@ -20,11 +20,13 @@ In this lesson, we'll explore the Korean grammar point **~았/었다면**, which
 - **~었다면**: Used with all other verb stems.
 - **Exception with 하다 verbs**: Becomes **했더라면**.
 **Visual Aid**:
+
 | Verb Ending                  | Attach       | Example Verb | Conjugation       |
 |------------------------------|--------------|--------------|-------------------|
 | Ends with ㅏ or ㅗ            | ~았다면       | 가다 (to go)  | 가 + 았다면 = 갔다면  |
 | Ends with other vowels/consonants | ~었다면  | 먹다 (to eat) | 먹 + 었다면 = 먹었다면 |
 | 하다 verbs                   | ~였다면       | 하다 (to do)  | 하 + 였다면 = 했다면 |
+
 ---
 ## 3. Comparative Analysis
 - **~으면** vs. **~았/었다면**:
@@ -105,16 +107,18 @@ In Korean culture, reflecting on past events and considering "what if" scenarios
 - Allows you to express regrets, wishes, or speculations about past events.
 ### Quick Recap Quiz
 1. **Conjugate** the verb **살다** (to live) using **~았/었다면**.
+   
    **Answer**: 살 + 았다면 = 살았다면
 2. **Translate** into Korean:  
    *If they had arrived earlier, they would have met us.*
+   
    **Answer**: 그들이 더 일찍 도착했었다면 우리를 만났을 거예요.
 3. **Identify the error** in the sentence and correct it:  
    **그가 열심히 일했으면 승진했을 거야.**
+   
    **Correction**: 그가 열심히 일했었다면 승진했을 거야.
 ---
 By understanding and practicing **~았/었다면**, you can more accurately express complex thoughts about past events in Korean. Keep practicing, and soon you'll be able to convey your reflections and regrets just like a native speaker!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

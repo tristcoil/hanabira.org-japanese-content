@@ -1,6 +1,6 @@
 Processing keyword: ~아/어 버리다 [a/eo beorida] (To completely)
 # Korean Grammar Point: ~아/어 버리다 [a/eo beorida] (To completely)
-# ~아/어 버리다 [~a/eo beorida] (To do something completely)
+
 ## 1. Introduction
 The Korean grammar pattern **~아/어 버리다** is used to express the completion of an action, often with an emotional nuance such as relief, regret, or frustration. It can indicate that something has been done thoroughly, entirely, or irreversibly.
 
@@ -12,11 +12,13 @@ The Korean grammar pattern **~아/어 버리다** is used to express the complet
 ### Structure
 The pattern is formed by attaching **~아/어 버리다** to the verb stem.
 ### Formation Diagram
+
 | Verb Stem Ending           | Connection                   | Example Verb | Conjugated Form   |
 |----------------------------|------------------------------|--------------|-------------------|
 | Verb stem ending with **아** or **오** vowel | Attach **-아 버리다** | 가다 (to go)   | 가 **+ 아 버리다** = 가버리다 |
 | Other verb stems           | Attach **-어 버리다**         | 먹다 (to eat) | 먹 **+ 어 버리다** = 먹어버리다 |
 | 하다                        | Attach **-여 버리다** (often contracted to **-해 버리다**) | 하다 (to do) | 해버리다         |
+
 ### Detailed Explanation
 1. **Identify the verb stem**:
    - Remove **다** from the dictionary form of the verb.

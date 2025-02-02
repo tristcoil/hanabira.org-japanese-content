@@ -1,6 +1,6 @@
 Processing keyword: ~이어서 [ieoseo] (And then, so)
 # Korean Grammar Point: ~이어서 [ieoseo] (And then, so)
-# ~이어서 [ieoseo] (And then, so)
+
 ## 1. Introduction
 In Korean, the grammar point **~이어서** is a connective ending used to link clauses, indicating a sequence of actions or reasons. It is similar to saying "and then" or "because it is" in English. Understanding how to use **~이어서** can enhance your ability to create complex sentences and express cause-and-effect relationships.
 
@@ -25,6 +25,7 @@ It connects two clauses by indicating that the second clause follows as a result
 - **When the noun ends with a vowel**, use **~여서**.
   
 This ending is a combination of the copula **이다** (to be) and the connective **~어서**, which together express causation or sequence.
+
 ---
 ## 3. Comparative Analysis
 ### Similar Grammar Points
@@ -61,6 +62,7 @@ Today is a public holiday, **so** the bank is closed.
 생일**이어서** 친구들이 케이크를 준비했어.
 **Translation:**  
 Since it's my birthday, my friends prepared a cake.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -95,11 +97,16 @@ In Korean culture, expressing reasons and sequences clearly is important for eff
 - Adjust the verb endings for the appropriate level of politeness.
 ### Quick Recap Quiz
 1. What ending would you use after a noun ending with a vowel to indicate "and then"?
+
    **Answer:** ~여서
+   
 2. Correct the sentence: 날씨 추워서 산책을 못 했어요.
    **Hint:** Use the appropriate ending after the noun "날씨".
+
    **Corrected Sentence:** 날씨**여서** 산책을 못 했어요.
+
 3. Translate to Korean: "It's Monday, so the store is closed."
+
    **Answer:** 월요일**이어서** 가게가 문을 닫았어요.
 ---
 By mastering **~이어서/~여서**, you enhance your ability to express reasons and sequences in Korean, making your conversations more natural and coherent.

@@ -1,6 +1,6 @@
 Processing keyword: ~이므로 [imyeo] (Because, so)
 # Korean Grammar Point: ~이므로 [imyeo] (Because, so)
-# ~(으)므로: Because, Since
+
 ## 1. Introduction
 In Korean, expressing reasons and causes is essential for clear communication. The grammatical construct **~(으)므로** is a formal way to indicate cause or reason, similar to "because" or "since" in English. It's frequently used in formal writing, such as reports, essays, official documents, and news articles.
 

@@ -1,10 +1,11 @@
 Processing keyword: ~어/아 버리다 [eo/a beorida] (To end up doing, regrettably)
 # Korean Grammar Point: ~어/아 버리다 [eo/a beorida] (To end up doing, regrettably)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, the grammar pattern **~어/아 버리다** (eo/a beorida) is used to express the completion of an action, often carrying an emotional nuance such as regret, frustration, or relief. It implies that something is done completely, leaving nothing behind, and the speaker has strong feelings about it. Understanding this grammar point will help you convey your emotions more precisely when discussing completed actions in Korean.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The expression **~어/아 버리다** attaches to a verb stem to indicate that an action has been completed entirely, often with a sense of:
 - **Regret or disappointment**: The action was undesirable or unfortunate.
@@ -36,7 +37,7 @@ It can be translated into English as:
 | Other vowels            | 어  | 먹다 (to eat)| 먹 **어 버리다**       |
 | Verb stem 하            | 해  | 공부하다 (to study)| 공부 **해 버리다**    |
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Comparison with **~고 말다**
 - **~어/아 버리다**:
   - Emphasizes the **completion** of an action with emotional nuance.
@@ -49,7 +50,7 @@ It can be translated into English as:
   - **Example**: 결국 그 비밀을 말하고 말았어요.
     - In the end, I ended up telling the secret.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example 1: Regret
 **Informal Speech**
 - **친구와 싸워 버렸어.**
@@ -72,7 +73,7 @@ It can be translated into English as:
 - **남은 피자를 다 먹어 버렸어.**
   - I ate all the leftover pizza (oops).
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, there is a strong emphasis on expressing emotions appropriately within social contexts. Using **~어/아 버리다** allows speakers to subtly convey their feelings about completed actions, aligning with the cultural tendency towards indirect communication of emotions.
 ### Levels of Politeness and Formality
@@ -91,7 +92,7 @@ In Korean culture, there is a strong emphasis on expressing emotions appropriate
   - **내 지갑이 없어져 버렸어요.**
     - My wallet has completely disappeared.
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Incorrect Vowel Use**
    - Mixing up **아** and **어**.
@@ -110,7 +111,7 @@ In Korean culture, there is a strong emphasis on expressing emotions appropriate
 - **Practice with Emotions**: When using this pattern, always consider what emotion you're expressing—regret, frustration, or relief.
 - **Conjugation Drill**: Regularly practice conjugating different verbs with **~어/아 버리다** to become familiar with vowel harmonization.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~어/아 버리다** is used to express the completion of an action with an emotional nuance.
 - Attach **어/아 버리다** to the verb stem, using proper vowel harmony.

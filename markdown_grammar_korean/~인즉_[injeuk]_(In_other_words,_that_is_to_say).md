@@ -1,10 +1,9 @@
 Processing keyword: ~인즉 [injeuk] (In other words, that is to say)
 # Korean Grammar Point: ~인즉 [injeuk] (In other words, that is to say)
-# Understanding the Grammar Point: **~인즉** (injeuk)
 
----
 ## 1. Introduction
 The Korean grammatical expression **~인즉** (_injeuk_) is used to provide clarification or rephrase something for better understanding. It translates to **"in other words"** or **"that is to say"** in English. This grammar point is often used in formal settings, written language, or when making logical conclusions.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

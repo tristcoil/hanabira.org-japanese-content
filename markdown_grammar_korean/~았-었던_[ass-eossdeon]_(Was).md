@@ -1,6 +1,6 @@
 Processing keyword: ~았/었던 [ass/eossdeon] (Was)
 # Korean Grammar Point: ~았/었던 [ass/eossdeon] (Was)
-# The Korean Grammar Point: ~았/었던 [ass/eossdeon] (Was)
+
 ## 1. Introduction
 In Korean, expressing past actions or states that have relevance to the present is essential for effective communication. The grammar point **~았/었던** is a verb modifier used to describe something that happened in the past but is being recalled or has implications now. This lesson will explore the usage, formation, and nuances of **~았/었던** to enhance your understanding and ability to express past events in Korean.
 
@@ -108,7 +108,6 @@ In Korean, expressing past experiences with relevance to the present is common i
      - **알았던 친구**: A friend I knew (but probably don't know anymore).
 ---
 By understanding and practicing **~았/었던**, you can express your past experiences more vividly and connect them to your present conversations, making your Korean more fluent and natural.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

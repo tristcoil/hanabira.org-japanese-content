@@ -1,10 +1,11 @@
 Processing keyword: ~이/가 아니다 [i/ga anida] (Is not, are not)
 # Korean Grammar Point: ~이/가 아니다 [i/ga anida] (Is not, are not)
-# 1. Introduction
+
+## 1. Introduction
 The Korean grammar pattern **~이/가 아니다** [**i/ga anida**] is essential for expressing negation in Korean. It translates to "is not" or "are not" in English and is used to indicate that a subject is not something or someone.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The pattern **~이/가 아니다** is used to negate a noun, stating that the subject **is not** the noun that follows.
 ## Structure
@@ -25,7 +26,7 @@ The pattern **~이/가 아니다** is used to negate a noun, stating that the su
 - 사과**가** 아니다 (It is not an apple)
 - 친구**가** 아니다 (He/She is not a friend)
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 **~이/가 아니다** vs **~은/는 아니다**
 - Both are used for negation, but **~은/는 아니다** adds emphasis or contrast.
 - **~이/가 아니다** states a simple negation.
@@ -36,7 +37,7 @@ The pattern **~이/가 아니다** is used to negate a noun, stating that the su
 - **그 사람은 학생은 아니다.**  
   (That person is not a student [but perhaps something else].)
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Polite (존댓말)
 1. **저는 의사가 아닙니다.**  
    *I am not a doctor.*
@@ -58,7 +59,7 @@ The pattern **~이/가 아니다** is used to negate a noun, stating that the su
 2. **해당 정보는 공식 자료가 아닙니다.**  
    *The information is not official data.*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Politeness Levels
 - Using **아닙니다** is formal and polite, suitable for official situations and with elders.
 - **아니에요** is polite but less formal, common in everyday conversations.
@@ -69,7 +70,7 @@ The pattern **~이/가 아니다** is used to negate a noun, stating that the su
   *Example:* **그건 사실이 아닌 것 같아요.**  
   *(I think that's not true.)*
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Mistake:** Using **은/는** instead of **이/가** with **아니다**.
   *Incorrect:* 나는 학생**은** 아니다.
@@ -84,7 +85,7 @@ The pattern **~이/가 아니다** is used to negate a noun, stating that the su
   - If the noun ends with a **vowel**, use **가**.
     - Think "**V**owel → **가**"
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~이/가 아니다** is used to express "is not" or "are not".
 - Attach **이** to nouns ending with consonants; attach **가** to nouns ending with vowels.
@@ -96,27 +97,29 @@ The pattern **~이/가 아니다** is used to negate a noun, stating that the su
    **이것은 책이 아닙니다.**
 3. Translate to Korean:
    **"They are not teachers."**
+
 ### Answers:
 1. **저는 학생**이** 아니에요.**
 2. The sentence is correct.
 3. **그들은 선생님**이** 아닙니다.**
 ---
-# Additional Notes
+
+## Additional Notes
 Remember that **아니다** is a verb in Korean, so it should be conjugated accordingly to match the speech level and context.
+
 ---
-# Visual Aid: Particle Usage Chart
+## Visual Aid: Particle Usage Chart
 | Noun Ending        | Particle | Example Noun | Complete Form      |
 |--------------------|----------|--------------|--------------------|
 | Consonant (받침)   | 이        | 학생         | 학생**이** 아니다   |
 | Vowel (No 받침)    | 가        | 의사         | 의사**가** 아니다   |
+
 ---
 # Practice Sentences
 Try creating your own sentences using **~이/가 아니다**:
 1. **I am not Korean.**
 2. **This is not coffee.**
 3. **He is not my brother.**
----
-Feel free to ask any questions or seek clarification on any points!
 
 ---
 © [Hanabira.org](https://hanabira.org)

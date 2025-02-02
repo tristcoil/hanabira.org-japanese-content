@@ -1,10 +1,11 @@
 Processing keyword: ~만이 아니다 [mani anida] (Not only)
 # Korean Grammar Point: ~만이 아니다 [mani anida] (Not only)
-# **Grammar Lesson: ~만이 아니다 [mani anida] (Not only)**
+
 
 ---
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~만이 아니다**, which translates to **"not only"** in English. This structure is used to indicate that something is **not the only case** or **there are more instances beyond what is mentioned**.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

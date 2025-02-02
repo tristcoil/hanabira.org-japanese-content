@@ -1,6 +1,6 @@
 Processing keyword: ~바라다 [barada] (Hope to)
 # Korean Grammar Point: ~바라다 [barada] (Hope to)
-# Korean Grammar Lesson: ~바라다 [barada] (Hope to)
+
 ## 1. Introduction
 In Korean, expressing hope or a wish is a common aspect of daily communication. The grammar construction **~바라다** is used to convey the speaker's wishes or hopes regarding a situation or action. This lesson will delve into the usage of **~바라다**, its formation, and how it differs from similar expressions.
 

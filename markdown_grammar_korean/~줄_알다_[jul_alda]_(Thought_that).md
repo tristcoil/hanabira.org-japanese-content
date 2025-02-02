@@ -1,10 +1,11 @@
 Processing keyword: ~줄 알다 [jul alda] (Thought that)
 # Korean Grammar Point: ~줄 알다 [jul alda] (Thought that)
-# 1. Introduction
+
+## 1. Introduction
 In learning Korean, understanding expressions that convey assumptions or beliefs is crucial for effective communication. The grammar point **~줄 알다** is commonly used to express that one thought or assumed something to be true. This lesson will delve into the usage, structure, and nuances of **~줄 알다**, helping you to comprehend and use it naturally in various contexts.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning of ~줄 알다
 The expression **~줄 알다** translates roughly to "thought that" in English. It is used when the speaker believed something to be true but discovered that it was not. This grammar point conveys the speaker's mistaken assumption or expectation.
 ## Structure and Formation
@@ -28,7 +29,7 @@ The expression **~줄 알다** translates roughly to "thought that" in English. 
 | 먹다 (to eat)    | 먹        | 먹은 줄 알다          | 먹는 줄 알다            | 먹을 줄 알다          |
 | 오다 (to come)   | 오         | 온 줄 알다            | 오는 줄 알다            | 올 줄 알다            |
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## Comparing ~줄 알다 with ~는 것 같다
 - **~줄 알다**: Indicates a mistaken belief or assumption that turned out to be untrue.
   - _내일 비가 올 줄 알았어요._ (I thought it would rain tomorrow.)
@@ -36,7 +37,7 @@ The expression **~줄 알다** translates roughly to "thought that" in English. 
   - _내일 비가 올 것 같아요._ (It seems like it will rain tomorrow.)
 **Key Difference**: **~줄 알다** reflects realization of incorrect assumption, whereas **~는 것 같다** is used for making conjectures without knowing the outcome.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Formal Situations
 1. **회의가 오후에 있을 줄 알았습니다.**
    - *I thought the meeting was in the afternoon.*
@@ -58,7 +59,7 @@ The expression **~줄 알다** translates roughly to "thought that" in English. 
 2. **지갑을 집에 두고 온 줄 알았어!**
    - *I thought I left my wallet at home!*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, expressing misunderstandings or mistaken beliefs politely is important for maintaining social harmony. Using **~줄 알다** allows speakers to acknowledge their errors gracefully.
 ## Levels of Politeness and Formality
@@ -74,7 +75,7 @@ In Korean culture, expressing misunderstandings or mistaken beliefs politely is 
 - **네가 안 올 줄 알았어.**
   - *I thought you wouldn't come.*
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Using 알다 without 줄**:
    - Incorrect: *비가 오는 알았어요.*
@@ -88,7 +89,7 @@ In Korean culture, expressing misunderstandings or mistaken beliefs politely is 
 - **Mnemonic Device**: Think of **줄** as a "string" connecting your thought (**알다**) to the assumption.
 - **Practice Conjugation**: Regularly conjugate different verbs with **~줄 알다** to become comfortable with the pattern.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~줄 알다** is used to express a mistaken belief or assumption.
 - The structure varies depending on the tense of the verb.
@@ -102,7 +103,7 @@ In Korean culture, expressing misunderstandings or mistaken beliefs politely is 
 3. Translate to Korean using **~줄 알다**: "We thought the store was open."
    - *답:* **우리는 가게가 열려 있는 줄 알았어요.**
 ---
-# **End of Lesson**
+
 Feel free to revisit any section for clarification, and practice using **~줄 알다** in your own sentences to solidify your understanding!
 
 ---

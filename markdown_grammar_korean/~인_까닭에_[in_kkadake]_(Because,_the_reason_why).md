@@ -1,6 +1,6 @@
 Processing keyword: ~인 까닭에 [in kkadake] (Because, the reason why)
 # Korean Grammar Point: ~인 까닭에 [in kkadake] (Because, the reason why)
-# ~인 까닭에 [in kkadake] (Because, the Reason Why)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~인 까닭에**, which is used to express the reason or cause for something. This pattern translates to "because," "due to," or "the reason why" in English. It's a formal expression often found in written language, literature, and formal speeches.
 

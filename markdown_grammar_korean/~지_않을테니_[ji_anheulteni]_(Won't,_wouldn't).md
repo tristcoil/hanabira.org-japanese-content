@@ -1,10 +1,9 @@
 Processing keyword: ~지 않을테니 [ji anheulteni] (Won't, wouldn't)
 # Korean Grammar Point: ~지 않을테니 [ji anheulteni] (Won't, wouldn't)
-# ~지 않을 테니 [ji anheulteni] (Won't, Wouldn't)
 
----
 ## 1. Introduction
 The Korean grammar pattern **~지 않을 테니** is used to express a speaker's intention not to do something and often implies a suggestion or request to the listener. It combines negation with a future intention, providing a nuanced way to convey "I won't do X, so (please do Y)" or "Since I won't do X, then...". Understanding this structure will enhance your ability to express future intentions and negotiate actions in Korean.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning and Usage

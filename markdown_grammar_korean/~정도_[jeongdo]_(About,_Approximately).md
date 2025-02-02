@@ -1,6 +1,6 @@
 Processing keyword: ~정도 [jeongdo] (About, Approximately)
 # Korean Grammar Point: ~정도 [jeongdo] (About, Approximately)
-# ~정도 [jeongdo] (About, Approximately)
+
 ## 1. Introduction
 In everyday conversations, expressing approximate amounts or degrees is essential. The Korean grammar point **~정도** [jeongdo] is used to indicate that something is "about," "approximately," or "around" a certain quantity or extent. Mastering this grammar point will help you communicate more naturally and effectively in Korean.
 

@@ -1,6 +1,6 @@
 Processing keyword: ~진행하다 [jinhaenghada] (To proceed)
 # Korean Grammar Point: ~진행하다 [jinhaenghada] (To proceed)
-# ~진행하다 [jinhaenghada] (To Proceed)
+
 ## 1. Introduction
 The verb **진행하다** in Korean translates to **"to proceed," "to progress,"** or **"to carry out."** It's a commonly used verb that describes the action of moving forward with an activity, event, or process. Understanding how to use **진행하다** will enhance your ability to discuss ongoing actions and planned activities in Korean.
 

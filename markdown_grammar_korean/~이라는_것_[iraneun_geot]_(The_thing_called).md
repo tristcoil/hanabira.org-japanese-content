@@ -1,6 +1,6 @@
 Processing keyword: ~이라는 것 [iraneun geot] (The thing called)
 # Korean Grammar Point: ~이라는 것 [iraneun geot] (The thing called)
-# Grammar Point: ~이라는 것 [iraneun geot] (The Thing Called)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar construction **~이라는 것** (*iraneun geot*), which translates to **"the thing called"** or **"something known as"** in English. This expression is commonly used to define, explain, or introduce a concept or object that may not be familiar to the listener.
 
@@ -71,6 +71,7 @@ Both mean "The thing called love is..."
 **'기생충'이라는 영화를 보셨어요?**  
 **Translation:**  
 "Have you watched the movie called 'Parasite'?"
+
 ---
 ## 5. Cultural Notes
 ### Levels of Politeness and Formality

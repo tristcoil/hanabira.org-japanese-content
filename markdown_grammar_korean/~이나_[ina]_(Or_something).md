@@ -1,6 +1,6 @@
 Processing keyword: ~이나 [ina] (Or something)
 # Korean Grammar Point: ~이나 [ina] (Or something)
-# ~이나 [ina] (Or Something)
+
 ## 1. Introduction
 In Korean, particles play a crucial role in adding nuance and meaning to sentences. One such versatile particle is **~이나** [ina], which can be translated as **"or something"** in English. This grammar point helps in expressing alternatives, suggestions, or approximations in a conversation.
 
@@ -91,7 +91,7 @@ In Korean culture, suggesting an activity with **~이나** reflects politeness a
 2. The sentence is correct.
 3. **책이나 읽을까요?**
 ---
-## End of Lesson
+
 Feel free to review these points and practice using **~이나** in your own sentences to become more comfortable with its usage!
 
 ---

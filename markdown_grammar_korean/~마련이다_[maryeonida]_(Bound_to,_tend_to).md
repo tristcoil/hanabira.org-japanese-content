@@ -1,10 +1,9 @@
 Processing keyword: ~마련이다 [maryeonida] (Bound to, tend to)
 # Korean Grammar Point: ~마련이다 [maryeonida] (Bound to, tend to)
-# ~마련이다 [maryeonida] (Bound to, Tend to)
-TODO: start from here
----
+
 ## 1. Introduction
 In Korean, expressing the inevitability or strong tendency of an event or action is essential for conveying expectations or norms. The grammar point **~마련이다** is commonly used to express that something is **bound to happen** or is a natural outcome. In this lesson, we'll explore how to use ~마련이다 to describe inevitability in various contexts.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -29,11 +28,13 @@ In Korean, expressing the inevitability or strong tendency of an event or action
 ### Similar Grammar Points
 - **~게 마련이다**: Similar meaning, but focuses more on the manner or way something happens.
 - **~기 쉽다**: Means "easy to do," indicating a high possibility but less certainty than ~마련이다.
+
 | Grammar Point | Meaning                              | Usage Example             |
 |---------------|--------------------------------------|---------------------------|
 | ~마련이다     | Inevitable, bound to happen          | 실수하기 마련이다          |
 | ~게 마련이다  | It's natural for something to happen | 사람이 늙게 마련이다       |
 | ~기 쉽다      | Easy to do, likely to happen         | 넘어지기 쉽다             |
+
 ---
 ## 4. Examples in Context
 ### Formal Context
@@ -99,11 +100,11 @@ In Korean culture, acknowledging the inevitability of certain situations reflect
 3. Translate to Korean using ~마련이다:
    _"After rain, the ground is bound to harden."_
 ---
+
 **Answers:**
 1. a) **실수하기**
 2. **Incorrect.** Correct sentence: **행복은 찾아오기 마련이다.**
 3. **비 온 뒤에 땅이 굳기 마련이다.**
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

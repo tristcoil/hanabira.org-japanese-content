@@ -1,6 +1,6 @@
 Processing keyword: ~와/과 같다 [wa/gwa gatda] (Be the same as, like)
 # Korean Grammar Point: ~와/과 같다 [wa/gwa gatda] (Be the same as, like)
-# Understanding "~와/과 같다" (wa/gwa gatda) - "To Be the Same As", "Like"
+
 ## Introduction
 When learning Korean, expressing similarities between two nouns is essential for clear communication. The grammar point **~와/과 같다** is a fundamental structure used to indicate that one thing is the same as or similar to another. This lesson will explore the meaning, usage, and nuances of **~와/과 같다**, helping you to use it naturally in various contexts.
 
@@ -16,11 +16,14 @@ The structure is straightforward:
 - **와 같다**: Used when the noun ends with a **vowel**.
 - **과 같다**: Used when the noun ends with a **consonant**.
 ### Formation Diagram
+
 | Noun Ending With | Particle   | Example                         |
 |------------------|------------|---------------------------------|
 | Vowel            | **와 같다** | 바다 + 와 같다 = **바다와 같다**   |
 | Consonant        | **과 같다** | 산 + 과 같다 = **산과 같다**       |
+
 **Note:** The verb **같다** means "to be the same" or "to be like." When combined with **와/과**, it connects two nouns in comparison.
+
 ---
 ## Comparative Analysis
 ### Similar Grammar Points

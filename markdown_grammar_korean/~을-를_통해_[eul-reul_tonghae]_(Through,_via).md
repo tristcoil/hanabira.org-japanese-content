@@ -1,6 +1,6 @@
 Processing keyword: ~을/를 통해 [eul/reul tonghae] (Through, via)
 # Korean Grammar Point: ~을/를 통해 [eul/reul tonghae] (Through, via)
-# ~을/를 통해 [eul/reul tonghae] (Through, Via)
+
 ## 1. Introduction
 In Korean, the expression **~을/를 통해** is commonly used to indicate the means or method by which something is achieved. It translates to "through" or "via" in English and is an essential grammar point for expressing how an action is carried out or how information is obtained.
 

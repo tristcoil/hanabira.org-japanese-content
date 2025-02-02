@@ -1,6 +1,6 @@
 Processing keyword: ~일 때 [il ttae] (When, while)
 # Korean Grammar Point: ~일 때 [il ttae] (When, while)
-# Understanding ~일 때 [il ttae]: "When, While"
+
 ## 1. Introduction
 In Korean, expressing "when" or "while" is essential for describing events occurring at specific times or simultaneously. The grammar pattern **~일 때** [il ttae] is commonly used to indicate "**when**" something happens or "**while**" doing something. This lesson will delve into the usage of **~일 때**, its formation, and its nuances.
 
@@ -128,7 +128,6 @@ In Korean culture, emphasizing timing and conditions is crucial in communication
    - **Answer:** **비가 올 때 책을 읽어요.**
 ---
 By understanding and practicing the usage of **~일 때**, you'll be able to express timing and conditions more naturally in Korean conversations.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

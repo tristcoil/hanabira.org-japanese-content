@@ -1,6 +1,6 @@
 Processing keyword: ~았/었다 치다 [at/eotda chida] (Let’s say, suppose)
 # Korean Grammar Point: ~았/었다 치다 [at/eotda chida] (Let’s say, suppose)
-# Grammar Point: ~았/었다 치다 (~at/eotda chida) - "Let's say", "Suppose"
+
 ## 1. Introduction
 In Korean, expressing hypothetical situations or making assumptions is a common way to discuss possibilities, give advice, or explore scenarios. The grammar pattern **~았/었다 치다** is used to suppose that a past event has occurred, even if it hasn't. It's akin to saying "let's say" or "suppose" in English when referring to past actions.
 

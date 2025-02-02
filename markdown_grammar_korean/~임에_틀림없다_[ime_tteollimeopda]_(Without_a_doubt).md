@@ -1,6 +1,6 @@
 Processing keyword: ~임에 틀림없다 [ime tteollimeopda] (Without a doubt)
 # Korean Grammar Point: ~임에 틀림없다 [ime tteollimeopda] (Without a doubt)
-# Understanding the Grammar Point: ~임에 틀림없다 [im-e teullim-eopda] (Without a doubt)
+
 ## 1. Introduction
 In Korean, expressing certainty or strong conviction is crucial for clear communication. The grammar pattern **~임에 틀림없다** is used to state that there is no doubt about something—it's undoubtedly true. This lesson will explore the meaning, usage, and nuances of this expression to help you incorporate it naturally into your Korean conversations.
 

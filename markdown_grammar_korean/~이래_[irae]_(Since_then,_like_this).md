@@ -1,10 +1,9 @@
 Processing keyword: ~이래 [irae] (Since then, like this)
 # Korean Grammar Point: ~이래 [irae] (Since then, like this)
-# Korean Grammar Lesson: ~이래 [irae] (Since then; they say that...)
 
----
 ## 1. Introduction
 In this lesson, we will explore the Korean grammar point **~이래 [irae]**, which can mean **"since then"** or be used to convey **reported speech** similar to **"they say that..."** in English. Understanding this grammar point will enhance your ability to comprehend and express nuanced meanings in Korean, both in spoken and written forms.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning and Usage
@@ -32,11 +31,14 @@ When **이래** follows a time expression, it means **"since"** a particular poi
 - If noun ends with a vowel: **~라 해** → **~래**
 ---
 ### Visual Aid: Formation Table
+
 | Sentence Type     | Ending with Consonant | Ending with Vowel |
 |-------------------|-----------------------|-------------------|
 | Noun + 이래       | 친구 **이라 해** → 친구 **이래** | 의사 **라 해** → 의사 **래** |
 | Verb/Adjective + 대 | 간다 **고 해** → 간다 **대** | 좋다 **고 해** → 좋다 **대** |
+
 *Note: While **~이래** is commonly used with nouns, verbs and adjectives use **~대** for reported speech.*
+
 ---
 ## 3. Comparative Analysis
 ### Comparison with **~(이)라고 하다**

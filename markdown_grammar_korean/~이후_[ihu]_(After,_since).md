@@ -1,10 +1,9 @@
 Processing keyword: ~이후 [ihu] (After, since)
 # Korean Grammar Point: ~이후 [ihu] (After, since)
-# **~이후 [ihu] (After, Since)**
 
----
 ### 1. Introduction
 In Korean, expressing the sequence of events is essential for clear communication. The grammar point **"~이후"** [ihu], meaning **"after"** or **"since,"** is commonly used to indicate that something happens following a certain time or event.
+
 ---
 ### 2. Core Grammar Explanation
 #### **Meaning**
@@ -95,7 +94,6 @@ In Korean, expressing the sequence of events is essential for clear communicatio
    - **Answer:** **a) 그는 여행 이후에 사진을 정리했어요.**
 ---
 By mastering **"~이후,"** you enhance your ability to discuss timelines and articulate events with clarity in Korean. Keep practicing by forming your own sentences and soon it will become second nature!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

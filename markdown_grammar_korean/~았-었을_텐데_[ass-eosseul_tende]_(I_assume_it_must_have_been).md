@@ -1,6 +1,6 @@
 Processing keyword: ~았/었을 텐데 [ass/eosseul tende] (I assume it must have been)
 # Korean Grammar Point: ~았/었을 텐데 [ass/eosseul tende] (I assume it must have been)
-# Grammar Lesson: ~았/었을 텐데 [ass/eosseul tende] (I assume it must have been)
+
 ## 1. Introduction
 The grammar point **~았/었을 텐데** is used in Korean to express an assumption or speculation about a past event that didn't occur or to express regret about something that could have happened. It often carries a nuance of "It must have been..." or "I assume it would have..." in English.
 

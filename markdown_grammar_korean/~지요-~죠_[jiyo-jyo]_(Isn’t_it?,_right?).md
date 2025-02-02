@@ -1,6 +1,6 @@
 Processing keyword: ~지요/~죠 [jiyo/jyo] (Isn’t it?, right?)
 # Korean Grammar Point: ~지요/~죠 [jiyo/jyo] (Isn’t it?, right?)
-# ~지요/~죠 [jiyo/jyo] (Isn't it?, right?)
+
 ## 1. Introduction
 The grammar endings **~지요/~죠** are commonly used in Korean to seek agreement, confirm information, or make polite suggestions. They can be translated as **"..., isn't it?"**, **"..., right?"**, or **"..., aren't you?"** in English. These endings help make conversations smoother and show consideration for the listener's perspective.
 

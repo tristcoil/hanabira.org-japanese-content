@@ -1,6 +1,6 @@
 Processing keyword: ~이어서 [ieoseo] (And then, and so)
 # Korean Grammar Point: ~이어서 [ieoseo] (And then, and so)
-# ~이어서 [ieoseo]: "And then", "Because it is"
+
 ## 1. Introduction
 In Korean, the grammar pattern **~(이)어서** is used to connect a noun to a following clause, indicating a reason or sequential action. It translates to **"because (it) is..."**, **"and then"**, or **"and so"** in English. This pattern helps express causation or sequence in a sentence, making your Korean more fluent and natural.
 
@@ -55,6 +55,7 @@ Both sentences are correct, but **~이어서** feels slightly more conversationa
 ## 5. Cultural Notes
 ### Cultural Relevance
 In Korean culture, stating reasons explicitly is common, and using patterns like **~(이)어서** helps in explaining situations politely and clearly. Understanding these nuances aids in effective communication, especially in formal settings.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes
@@ -90,8 +91,7 @@ In Korean culture, stating reasons explicitly is common, and using patterns like
 3. Corrected Sentence:
    날씨가 **추워서** 따뜻한 옷을 입었어요.
    *(Since "춥다" is an adjective, we use ~(아/어)서 form: 추**워서**)*
----
-# Visit our [Korean Grammar Guide](#) for more lessons!
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

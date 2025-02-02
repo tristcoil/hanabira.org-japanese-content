@@ -1,6 +1,6 @@
 Processing keyword: ~자마자 [jamaja] (As soon as)
 # Korean Grammar Point: ~자마자 [jamaja] (As soon as)
-# ~자마자 [jamaja] (As soon as)
+
 ## 1. Introduction
 In Korean, expressing immediate sequences of actions is essential for clear and natural communication. The grammar point **~자마자** is used to indicate that one action happens **immediately after** another without any delay. Mastering this structure will help you articulate sequences smoothly and understand native speech more effectively.
 
@@ -27,10 +27,12 @@ The formation of **~자마자** is straightforward:
 #### ~고 나서 (After doing)
 - **~고 나서** implies that one action happens after another but not necessarily immediately.
 - **~자마자** emphasizes **immediacy** between actions.
+
 | **Grammar Point** | **Meaning**            | **Immediate?** |
 |-------------------|------------------------|----------------|
 | **~자마자**       | As soon as A, B occurs | Yes            |
 | **~고 나서**      | After A, B occurs      | Not always     |
+
 **Example:**
 - **끝나자마자 집에 갔어요.**
   - *I went home **as soon as** it ended.* (Immediate)

@@ -1,6 +1,6 @@
 Processing keyword: ~을/ㄹ지도 모르다 [eul/ljido moreuda] (Might)
 # Korean Grammar Point: ~을/ㄹ지도 모르다 [eul/ljido moreuda] (Might)
-# ~을/ㄹ지도 모르다 [eul/ljido moreuda] (Might)
+
 ## 1. Introduction
 In Korean, expressing possibility or uncertainty is essential for everyday conversations. The grammar pattern **~을/ㄹ지도 모르다** is commonly used to indicate that something **might** happen or that someone **might** do something. In this lesson, we'll explore how to use this grammar point effectively.
 

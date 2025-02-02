@@ -1,6 +1,6 @@
 Processing keyword: ~면 [myeon] (If, when)
 # Korean Grammar Point: ~면 [myeon] (If, when)
-# Korean Grammar Lesson: ~면 [myeon] (If, When)
+
 ## 1. Introduction
 In Korean, expressing conditions and hypothetical situations is essential for everyday communication. The suffix **~면** [myeon] is a fundamental grammar point used to mean "if" or "when". Mastering ~면 allows you to discuss possibilities, make plans, and express contingencies effectively.
 

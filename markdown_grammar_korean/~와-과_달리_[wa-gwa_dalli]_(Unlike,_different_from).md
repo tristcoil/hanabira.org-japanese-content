@@ -1,6 +1,6 @@
 Processing keyword: ~와/과 달리 [wa/gwa dalli] (Unlike, different from)
 # Korean Grammar Point: ~와/과 달리 [wa/gwa dalli] (Unlike, different from)
-# Korean Grammar Point: ~와/과 달리 [wa/gwa dalli] (Unlike, Different From)
+
 ## 1. Introduction
 In Korean, expressing differences or contrasts between two subjects is a common linguistic practice. The expression **~와/과 달리** is used to indicate that something is **unlike** or **different from** another. This grammar structure helps to highlight contrasts in characteristics, behaviors, or situations between two nouns.
 

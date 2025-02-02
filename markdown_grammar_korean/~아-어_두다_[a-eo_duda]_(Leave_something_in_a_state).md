@@ -1,6 +1,6 @@
 Processing keyword: ~아/어 두다 [a/eo duda] (Leave something in a state)
 # Korean Grammar Point: ~아/어 두다 [a/eo duda] (Leave something in a state)
-# Understanding the Grammar Point: ~아/어 두다 (*~a/eo duda*) - "Leave Something in a State"
+
 ## 1. Introduction
 In Korean, the grammatical structure **~아/어 두다** is used to express the idea of leaving something in a certain state or condition, often for future convenience or use. This grammar point is essential for conveying actions that have been completed and are intended to have lasting effects.
 

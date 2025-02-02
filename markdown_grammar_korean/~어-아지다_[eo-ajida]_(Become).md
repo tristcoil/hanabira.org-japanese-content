@@ -1,10 +1,11 @@
 Processing keyword: ~어/아지다 [eo/ajida] (Become)
 # Korean Grammar Point: ~어/아지다 [eo/ajida] (Become)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, the grammar pattern **~어/아지다** is used to express a change in state or condition, similar to "become" or "get" in English. It indicates that someone or something has changed from one state to another over time.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 ### Meaning
 The suffix **~어/아지다** attaches to adjectives (descriptive verbs) and some verbs to express that the subject **becomes** or **gets** a certain way. It emphasizes a transformation or a gradual change in state.
@@ -27,6 +28,7 @@ The formation depends on the vowel harmony of the adjective or verb stem:
 3. **Attach **지다** to Complete the Form**.
 ---
 ## Visual Aids
+
 | Adjective (Dictionary Form) | Stem    | Last Vowel | Suffix  | Result        |
 |-----------------------------|---------|------------|---------|---------------|
 | 작다 (to be small)          | 작      | ㅏ         | 아지다  | 작아지다       |
@@ -35,8 +37,9 @@ The formation depends on the vowel harmony of the adjective or verb stem:
 | 크다 (to be big)            | 크      | ㅡ         | 어지다  | 커지다         |
 | 많다 (to be many)           | 많      | ㅏ         | 아지다  | 많아지다       |
 | 깨끗하다 (to be clean)      | 깨끗하  | 하         | 해지다  | 깨끗해지다     |
+
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Difference with **~게 되다**
 - **~어/아지다**: Emphasizes the change in the **state or condition** of the subject.
   - **날씨가 따뜻해졌어요.**
@@ -46,7 +49,7 @@ The formation depends on the vowel harmony of the adjective or verb stem:
     - *I came to work in Korea (ended up working in Korea).*
 **Key Point**: **~어/아지다** is mainly used with adjectives to show changes in qualities, while **~게 되다** is used with verbs to indicate a change in circumstances or new actions.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Sentence Examples
 ### Formal Speech
 1. **기술이 발전하면서 생활이 편리해졌습니다.**
@@ -69,7 +72,7 @@ The formation depends on the vowel harmony of the adjective or verb stem:
 2. **사는 곳이 조용해졌어요.**
    - *The place where I live has become quiet.*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - In Korean culture, commenting on changes is a common way to show interest and care.
 - Using **~어/아지다** politely acknowledges someone's efforts or changes in situations.
@@ -93,7 +96,7 @@ The formation depends on the vowel harmony of the adjective or verb stem:
   - **그들과 사이가 많이 좋아졌어요.**
     - *My relationship with them has improved a lot.*
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Using the Wrong Vowel Ending**
    - **Incorrect**: *배고프아지다*
@@ -116,7 +119,7 @@ The formation depends on the vowel harmony of the adjective or verb stem:
 - **Irregular Verb Awareness**:
   - Pay attention to irregular verbs like **ㄷ**, **ㅂ**, **ㅡ**, and memorize their patterns.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~어/아지다** expresses a change in state or condition, meaning "become" or "get."
 - It is mainly used with adjectives (descriptive verbs).

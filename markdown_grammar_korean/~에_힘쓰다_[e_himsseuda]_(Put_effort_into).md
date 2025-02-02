@@ -1,8 +1,9 @@
 Processing keyword: ~에 힘쓰다 [e himsseuda] (Put effort into)
 # Korean Grammar Point: ~에 힘쓰다 [e himsseuda] (Put effort into)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **`~에 힘쓰다`** (*e himsseuda*), which means **"to put effort into"** or **"to strive for"**. This expression is commonly used to describe dedicating effort or working diligently towards a particular goal or activity.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The expression **`~에 힘쓰다`** is used to convey that someone is exerting effort or striving towards something. It emphasizes dedication and continuous effort in pursuing a goal or activity.
 - **`에`**: A particle indicating the target or focus of the action.
@@ -39,7 +40,7 @@ The structure involves attaching **`에 힘쓰다`** to a noun that represents t
 | Informal Low     | 힘쓸 거야        | 나는 공부에 힘쓸 거야.               |
 | Informal High    | 힘쓸 거예요      | 저는 공부에 힘쓸 거예요.             |
 | Formal High      | 힘쓸 것입니다    | 저는 공부에 힘쓸 것입니다.           |
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 Let's compare **`~에 힘쓰다`** with similar expressions to understand their nuances.
 ### `~에 노력하다` (Put effort into)
 - **Meaning**: To make an effort in something.
@@ -50,7 +51,7 @@ Let's compare **`~에 힘쓰다`** with similar expressions to understand their 
 ### `~를 위해 노력하다` (Make efforts for)
 - **Meaning**: To make efforts for someone or something.
 - **Usage**: Emphasizes the beneficiary of the effort.
-# 4. Examples in Context
+## 4. Examples in Context
 ## Sentence Examples
 ### Example 1
 **환경 보호에 힘쓰고 있습니다.**
@@ -74,7 +75,7 @@ Let's compare **`~에 힘쓰다`** with similar expressions to understand their 
 ### Informal Situations
 **요즘 영어 공부에 힘쓰고 있어.**
 - *I'm putting effort into studying English these days.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, diligence and dedication are highly valued traits. Using expressions like **`~에 힘쓰다`** reflects a positive attitude towards hard work and commitment, aligning with societal expectations for perseverance in personal and professional endeavors.
 ## Levels of Politeness and Formality
@@ -87,7 +88,7 @@ Ensure you adjust the verb ending to match the social context and relationship.
 ### 온 힘을 다하다
 - **Meaning**: To do one's utmost; to exert all of one's strength.
 - **Usage**: Similar in meaning to **`~에 힘쓰다`**, but emphasizes using all available strength.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 ### Mistake 1: Incorrect Particle Usage
 - **Incorrect**: *환경 보호**를** 힘쓰고 있습니다.*
@@ -99,7 +100,7 @@ Ensure you adjust the verb ending to match the social context and relationship.
 ## Learning Strategies
 - **Mnemonic Device**: Remember that **`힘`** means "strength," and **`쓰다`** means "to use." So, **`힘쓰다`** literally means "to use strength," i.e., "to put effort into."
 - **Practice**: Create sentences about your own efforts in daily life to become comfortable with the structure.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **`~에 힘쓰다`** is used to express putting effort into a specific goal or activity.
 - Attach **`에 힘쓰다`** to a noun representing the focus of your effort.
@@ -112,7 +113,7 @@ Ensure you adjust the verb ending to match the social context and relationship.
    <details><summary>Answer</summary>그들은 고객 서비스 개선에 힘쓰고 있어요.</details>
 3. **True or False**: **`~에 힘쓰다`** implies a sustained and dedicated effort towards a goal.
    <details><summary>Answer</summary>True</details>
-# Additional Practice
+## Additional Practice
 Try using **`~에 힘쓰다`** in sentences about your personal goals or activities you're dedicated to.
 - Example: *저는 취업 준비에 힘쓰고 있습니다.* (I am putting effort into job preparation.)
 Feel free to share your sentences for feedback!

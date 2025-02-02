@@ -1,10 +1,9 @@
 Processing keyword: ~아/어 서는 [a/eo seoneun] (Although)
 # Korean Grammar Point: ~아/어 서는 [a/eo seoneun] (Although)
-# ~아/어서는 [a/eo seoneun] (Although)
 
----
 ## 1. Introduction
 The Korean grammar point **~아/어서는** is used to express a contrast or limitation, often translating to "although" or "even though" in English. It indicates that the result in the main clause occurs despite the action or state described in the preceding clause.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -32,6 +31,7 @@ Verb/Adjective Stem + 아/어서는 + [Result Clause]
 ---
 ## 3. Comparative Analysis
 ### Comparison with Similar Grammar Points
+
 | Grammar Point      | Meaning                   | Usage                                            |
 |--------------------|---------------------------|--------------------------------------------------|
 | **~지만**          | Although, but             | Simple contrast or opposition between clauses.   |
@@ -39,7 +39,9 @@ Verb/Adjective Stem + 아/어서는 + [Result Clause]
 | **~아/어도**       | Even if, although         | Hypothetical or factual situations.              |
 | **~더라도**        | Even if (stronger emphasis)| Even if (regardless of the situation).           |
 | **~아/어서는**     | Although, even though     | Highlights limitations or unexpected outcomes.   |
+
 **Note**: While **~지만** and **~는데도** are commonly used for expressing "although", **~아/어서는** adds a nuance of limitation or inadequacy leading to an unexpected result.
+
 ---
 ## 4. Examples in Context
 ### Example Sentences

@@ -1,6 +1,6 @@
 Processing keyword: ~전에/전까지 [jeone/jeonkkaji] (Before/by the time of)
 # Korean Grammar Point: ~전에/전까지 [jeone/jeonkkaji] (Before/by the time of)
-# ~전에/전까지 [jeone/jeonkkaji] (Before/by the time of)
+
 ## 1. Introduction
 In Korean, expressing when an action takes place in relation to another is essential for clear communication. The grammar points **~전에** and **~전까지** are used to indicate actions or events that occur **before** a certain time or **by** a specific point in time. Understanding these expressions will enhance your ability to describe sequences and deadlines in Korean.
 

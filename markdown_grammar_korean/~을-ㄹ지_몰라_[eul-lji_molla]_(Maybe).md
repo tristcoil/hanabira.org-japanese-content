@@ -1,6 +1,6 @@
 Processing keyword: ~을/ㄹ지 몰라 [eul/lji molla] (Maybe)
 # Korean Grammar Point: ~을/ㄹ지 몰라 [eul/lji molla] (Maybe)
-# Korean Grammar Point: ~을/ㄹ지 몰라 [~eul/lj i molla] (Maybe)
+
 ## 1. Introduction
 In Korean, expressing uncertainty or possibility is essential for everyday communication. The grammar point **~을/ㄹ지 몰라** is frequently used to convey that something might happen or that one is unsure about a situation. Mastering this expression will enhance your ability to discuss possibilities and uncertainties in Korean.
 

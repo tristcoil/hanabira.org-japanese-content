@@ -1,6 +1,6 @@
 Processing keyword: ~이다 보니 [ida boni] (Since, as)
 # Korean Grammar Point: ~이다 보니 [ida boni] (Since, as)
-# ~이다 보니 [ida boni] (Since, As)
+
 ## 1. Introduction
 The grammar pattern **~이다 보니** is used in Korean to express a reason or cause that arises from a state of being. It translates to "since" or "as" in English and is attached to nouns. This pattern indicates that because a certain state or identity continues, a particular result or situation occurs.
 

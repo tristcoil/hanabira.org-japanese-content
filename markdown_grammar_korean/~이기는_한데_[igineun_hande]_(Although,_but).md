@@ -1,6 +1,6 @@
 Processing keyword: ~이기는 한데 [igineun hande] (Although, but)
 # Korean Grammar Point: ~이기는 한데 [igineun hande] (Although, but)
-# Grammar Point: ~이기는 한데 [igineun hande] (Although, but)
+
 ## 1. Introduction
 In Korean, expressing contrast or concession is essential for nuanced communication. The grammar structure **~이기는 한데** is used to acknowledge a fact while introducing a contrasting statement. This lesson will delve into the usage of **~이기는 한데**, helping you understand its formation, meaning, and application in various contexts.
 

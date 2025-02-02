@@ -1,6 +1,7 @@
 Processing keyword: ~부터 [buteo] (From)
 # Korean Grammar Point: ~부터 [buteo] (From)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, the particle **~부터** (*buteo*) is used to indicate the starting point of an action or event in terms of time or place. It translates to "from" in English and is essential for expressing sequences, durations, and origins in conversations.
 # 2. Core Grammar Explanation
 ## Meaning
@@ -18,16 +19,20 @@ In Korean, the particle **~부터** (*buteo*) is used to indicate the starting p
 ## Examples
 - **시간(Time)**: *아침부터* (from morning)
 - **장소(Place)**: *학교부터* (from school)
-# 3. Comparative Analysis
+
+## 3. Comparative Analysis
 ### **~부터** vs **~에서**
 Both particles can mean "from," but they have distinct uses:
+
 | Particle    | Usage                                            | Example                             |
 |-------------|--------------------------------------------------|-------------------------------------|
 | **~부터**   | Starting point in time or sequence               | *어제부터 오늘까지* (from yesterday to today) |
 | **~에서**   | Starting point of action/movement; location where an action takes place | *서울에서 부산까지* (from Seoul to Busan) |
+
 - **~부터** is typically used with time expressions or to emphasize the starting point.
 - **~에서** is used with places when indicating where an action begins or occurs.
-# 4. Examples in Context
+
+## 4. Examples in Context
 ### Sentence Examples
 #### Formal Speech
 1. **회의는 오후 2시부터 시작합니다.**

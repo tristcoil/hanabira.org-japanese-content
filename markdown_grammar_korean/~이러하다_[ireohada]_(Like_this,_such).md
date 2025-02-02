@@ -1,10 +1,9 @@
 Processing keyword: ~이러하다 [ireohada] (Like this, such)
 # Korean Grammar Point: ~이러하다 [ireohada] (Like this, such)
-# Grammar Point: ~이러하다 [ireohada] (Like This, Such)
 
----
 ## 1. Introduction
 In the Korean language, understanding subtle nuances in grammar can greatly enhance your ability to express specific ideas and emotions. The grammar point **~이러하다 [ireohada]** is an adjective that means **"like this"** or **"such"**, and it's used to describe a state or condition that is similar to something previously mentioned or observed. This lesson will delve into the usage of **~이러하다**, its structure, and how it differs from similar expressions.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

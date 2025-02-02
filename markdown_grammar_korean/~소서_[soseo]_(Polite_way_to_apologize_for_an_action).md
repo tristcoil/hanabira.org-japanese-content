@@ -1,6 +1,6 @@
 Processing keyword: ~소서 [soseo] (Polite way to apologize for an action)
 # Korean Grammar Point: ~소서 [soseo] (Polite way to apologize for an action)
-# Korean Grammar Lesson: ~소서 [soseo]
+
 ## 1. Introduction
 In this lesson, we will explore the Korean grammatical ending **~소서** (*soseo*), a polite and humble way to **apologize for an action** or make earnest requests. Although not commonly used in everyday conversation, understanding **~소서** enriches your grasp of formal and literary Korean, especially in historical texts, prayers, and formal speeches.
 
@@ -109,9 +109,6 @@ To attach **~소서** to a verb:
 3. **False**
 ---
 Thank you for studying this formal and respectful aspect of Korean grammar. While **~소서** isn't used in daily conversations, appreciating its usage enriches your understanding of the Korean language's depth and cultural heritage.
----
-# 감사합니다! (Thank you!)
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

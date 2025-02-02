@@ -1,10 +1,9 @@
 Processing keyword: ~을/ㄹ 듯하다 [eul/l deushada] (Seems like)
 # Korean Grammar Point: ~을/ㄹ 듯하다 [eul/l deushada] (Seems like)
-# ~을/ㄹ 듯하다 [eul/l deushada] (Seems Like)
 
----
 ## 1. Introduction
 The Korean grammar point **~을/ㄹ 듯하다** is used to express speculation or an assumption about a situation or action. It translates to "**it seems like**," "**it appears that**," or "**I think that**" in English. This structure is commonly employed when the speaker is making an educated guess based on information, observations, or feelings.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -27,10 +26,12 @@ Both **~을/ㄹ 듯하다** and **~을/ㄹ 것 같다** are used to express spec
 - **~을/ㄹ 듯하다** often implies a deduction based on indirect evidence or a certain feeling. It can sound slightly more formal or literary.
 - **~을/ㄹ 것 같다** is more commonly used in everyday conversation for general suppositions.
 **Comparison Table**
+
 | Grammar Point        | Usage                                    | Example                   | Translation                    |
 |----------------------|------------------------------------------|---------------------------|--------------------------------|
 | ~을/ㄹ 듯하다       | Assumption based on indirect evidence     | 비가 올 듯하다            | It seems like it will rain     |
 | ~을/ㄹ 것 같다      | General guess or supposition              | 비가 올 것 같다           | I think it will rain           |
+
 ---
 ## 4. Examples in Context
 ### Formal Context
