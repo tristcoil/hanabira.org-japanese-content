@@ -1,6 +1,6 @@
 Processing keyword: ~해야겠다 [haeyagetda] (Should, ought to)
 # Korean Grammar Point: ~해야겠다 [haeyagetda] (Should, ought to)
-# Korean Grammar Lesson: ~해야겠다 [haeyagetda] (Should, Ought to)
+
 ## 1. Introduction
 In learning Korean, expressing intentions and decisions is crucial for effective communication. The phrase **~해야겠다** is a common and versatile grammar point used to indicate that the speaker has decided to do something or feels they ought to take a particular action. It conveys a sense of realization or determination, similar to "I should" or "I ought to" in English.
 
@@ -120,8 +120,7 @@ In Korean culture, expressing intentions politely and thoughtfully is important.
 3. **What is the difference in nuance between ~해야겠다 and ~하고 싶다?**
    - **Answer**: **~해야겠다** implies a realization or decision that one should do something, often out of necessity, while **~하고 싶다** expresses a desire or wish to do something.
 ---
-# End of Lesson
----
+
 By understanding and practicing **~해야겠다**, you'll be better equipped to express your intentions and decisions in Korean naturally and accurately.
 
 ---

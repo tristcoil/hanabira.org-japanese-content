@@ -1,6 +1,6 @@
 Processing keyword: ~해야지 [haeyaji] (I should)
 # Korean Grammar Point: ~해야지 [haeyaji] (I should)
-# Lesson on the Grammar Point: **~해야지** (*I should*)
+
 ## 1. Introduction
 In this lesson, we will explore the Korean grammar point **~해야지** (*[haeyaji]*) which is used to express a strong intention or obligation to do something, often translated as "I should" or "I must" in English. Understanding this grammar point will enhance your ability to express personal resolutions, intentions, and promises in Korean.
 

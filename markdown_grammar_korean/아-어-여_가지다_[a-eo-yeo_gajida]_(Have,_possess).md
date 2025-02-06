@@ -1,6 +1,6 @@
 Processing keyword: 아/어/여 가지다 [a/eo/yeo gajida] (Have, possess)
 # Korean Grammar Point: 아/어/여 가지다 [a/eo/yeo gajida] (Have, possess)
-# 아/어/여 가지다 [a/eo/yeo gajida] - "To Have, To Possess"
+
 ## 1. Introduction
 The Korean grammar point **아/어/여 가지다** combines a verb with **가지다** (to have or possess) to express the idea of obtaining or possessing something as a result of an action. This construction emphasizes that the subject has carried out an action and now possesses the outcome or state resulting from that action.
 
@@ -85,11 +85,12 @@ The Korean grammar point **아/어/여 가지다** combines a verb with **가지
 1. Fill in the blank: 말을 ______ 가지다. (*to say something and have it*)
 2. True or False: **아/어/여 가지다** can be used to express continuation of an action into the future.
 3. Correct the mistake: 그는 선물을 사아 가지다.
+
 **Answers**
 1. 말해 가지다
 2. False (That is **아/어/여 가다**)
 3. 그는 선물을 사**아** 가지다. → 그는 선물을 사**서** 가지다.
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

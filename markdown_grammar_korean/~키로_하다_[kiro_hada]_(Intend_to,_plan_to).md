@@ -1,6 +1,6 @@
 Processing keyword: ~키로 하다 [kiro hada] (Intend to, plan to)
 # Korean Grammar Point: ~키로 하다 [kiro hada] (Intend to, plan to)
-# Grammar Point: ~기로 하다 [kiro hada] (Intend to, Plan to)
+
 ## 1. Introduction
 Expressing intentions or plans is essential in any language. In Korean, the grammar structure **~기로 하다** is commonly used to indicate that someone intends to do something or has decided to take a particular action. Mastering this expression will enhance your ability to communicate future plans and decisions clearly in Korean.
 

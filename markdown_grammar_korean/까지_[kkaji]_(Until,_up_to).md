@@ -1,6 +1,6 @@
 Processing keyword: 까지 [kkaji] (Until, up to)
 # Korean Grammar Point: 까지 [kkaji] (Until, up to)
-# 까지 [kkaji] (Until, Up To)
+
 ## 1. Introduction
 The particle **까지 [kkaji]** is an essential component in Korean grammar used to indicate the limit or extent in terms of time, location, or amount. Understanding how to use **까지** will enhance your ability to describe durations, destinations, and extents in Korean conversations.
 

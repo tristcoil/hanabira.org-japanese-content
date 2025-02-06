@@ -1,6 +1,6 @@
 Processing keyword: ~하면서 [hamyeonseo] (While doing)
 # Korean Grammar Point: ~하면서 [hamyeonseo] (While doing)
-# ~하면서 [hamyeonseo] (While Doing)
+
 ## 1. Introduction
 The Korean grammar point **~하면서** *(hamyeonseo)* is used to express that two actions are happening simultaneously. It is equivalent to the English conjunction "while doing" and is commonly used to indicate that one action occurs in parallel with another.
 

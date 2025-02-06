@@ -1,8 +1,10 @@
 Processing keyword: 보다 [boda] (More than)
 # Korean Grammar Point: 보다 [boda] (More than)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, expressing comparisons is essential for daily communication. The particle **보다** (*boda*), meaning **"than"**, is a fundamental grammar point used to compare two things. Mastering **보다** allows you to describe preferences, differences, and similarities effectively.
-# 2. Core Grammar Explanation
+
+## 2. Core Grammar Explanation
 ## Meaning and Usage
 **보다** is used to compare two nouns, indicating that one has a greater degree of a certain quality than the other. It functions similarly to "than" in English comparative sentences.
 ## Structure
@@ -17,27 +19,32 @@ The basic structure for using **보다** is:
 - **더**: Means "more"; optional but commonly used.
 - **Adjective/Verb**: Describes the quality or action being compared.
 ### Formation Diagram
+
 | Component       | Role                               |
 |-----------------|------------------------------------|
 | Noun A + 이/가    | Subject of the comparison          |
 | Noun B + 보다    | Reference point ("than Noun B")    |
 | (더)             | "More"; emphasizes the comparison  |
 | Adjective/Verb  | Quality or action being compared   |
+
 ## Detailed Explanation
 - **Position of 보다**: **보다** follows the noun you are comparing **to** (Noun B).
 - **Use of 더**: **더** (*deo*) means "more" and intensifies the comparison. While optional, it's often included for emphasis.
 - **Adjectives and Verbs**: The adjective or verb at the end of the sentence expresses the comparative quality or action.
-# 3. Comparative Analysis
+
+## 3. Comparative Analysis
 **보다** is specifically used for comparisons where one item surpasses another in some aspect. It's important to distinguish it from other comparative expressions:
 - **처럼** (*cheoreom*): Means "like" or "as", used for similes.
 - **만큼** (*mankeum*): Means "as much as", used for expressing equality.
 **Comparison Table**
+
 | Expression | Meaning         | Usage Example                        |
 |------------|-----------------|--------------------------------------|
 | 보다       | Than            | 오늘은 어제보다 더워요. <br>*Oneureun eojeboda deowoyo.* <br>"Today is hotter than yesterday." |
 | 만큼       | As much as      | 그는 나만큼 빠릅니다. <br>*Geuneun namankeum ppareumnida.* <br>"He is as fast as me."      |
 | 처럼       | Like, As        | 새처럼 날고 싶어요. <br>*Saeeocheoreom nalgo sipeoyo.* <br>"I want to fly like a bird."      |
-# 4. Examples in Context
+
+## 4. Examples in Context
 ### Example 1: Basic Comparison
 **이 사과가 저 사과보다 큽니다.**
 - *I sagwaga jeo sagwaboda keumnida.*
@@ -66,7 +73,8 @@ The basic structure for using **보다** is:
 **생각보다 어려웠어요.**
 - *Saenggakboda eoryeowosseoyo.*
 - **Translation**: "It was more difficult than I thought."
-# 5. Cultural Notes
+
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Politeness Levels**: Korean language has different speech levels to show respect. The verb endings change accordingly but the use of **보다** remains the same.
   - **Formal Polite**: -습니다/-ㅂ니다
@@ -94,7 +102,8 @@ The basic structure for using **보다** is:
   - 시험이 예상보다 쉬웠어요.
     - *Siheomi yesangboda swiwoosseoyo.*
     - "The exam was easier than expected."
-# 6. Common Mistakes and Tips
+
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Misplacing 보다**
    - **Incorrect**: *보다 저 사람은 내가 키가 커요.*
@@ -115,7 +124,8 @@ The basic structure for using **보다** is:
 - **Practice Sentence Construction**: Write your own sentences comparing familiar things to solidify the structure.
 - **Remember the Order**: Think of **보다** as attaching to the noun you're comparing to (Noun B).
 - **Use Visual Aids**: Create a chart matching English comparative sentences to Korean ones.
-# 7. Summary and Review
+
+## 7. Summary and Review
 ## Key Takeaways
 - **보다** is used to make comparisons, meaning "than".
 - The standard structure is **[Noun A] + 이/가 + [Noun B] + 보다 + (더) + [Adjective/Verb]**.

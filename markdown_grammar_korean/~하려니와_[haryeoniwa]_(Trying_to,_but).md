@@ -1,6 +1,6 @@
 Processing keyword: ~하려니와 [haryeoniwa] (Trying to, but)
 # Korean Grammar Point: ~하려니와 [haryeoniwa] (Trying to, but)
-# TOPIK Grammar Point: ~하려니와 [haryeoniwa]
+
 ## 1. Introduction
 In this lesson, we'll explore the advanced Korean grammar point **~하려니와**, pronounced *haryeoniwa*. This expression is used to indicate that while you are trying or intending to do something, there's an opposing situation or additional consideration.
 
@@ -90,7 +90,6 @@ The structure of **~하려니와** is as follows:
    - *Answer:* 시작하려니와
 ---
 By understanding and practicing **~하려니와**, you enhance your ability to express complex ideas formally in Korean. Remember to consider the context and formality when using this grammar point.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

@@ -1,10 +1,9 @@
 Processing keyword: ~하다 보니 [hada boni] (As I was doing)
 # Korean Grammar Point: ~하다 보니 [hada boni] (As I was doing)
-# Korean Grammar Lesson: ~하다 보니 [hada boni] (As I was doing)
 
----
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~하다 보니 (hada boni)**, which allows you to express unexpected results or realizations that occur while performing an action continuously. Understanding this grammar pattern will enable you to share experiences and insights gained over time in a natural and expressive way.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -112,7 +111,6 @@ In Korean culture, there's an emphasis on the journey and the experiences gained
    *(As I was living in Korea, I learned Korean.)*
 ---
 By incorporating **~하다 보니** into your Korean conversations, you'll be able to naturally express discoveries and changes experienced over time. Practice by recounting your own experiences using this grammar point to become more comfortable with its usage.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

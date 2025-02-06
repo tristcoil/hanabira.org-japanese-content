@@ -1,6 +1,6 @@
 Processing keyword: ~했었는데 [haesseotneunde] (Had done but)
 # Korean Grammar Point: ~했었는데 [haesseotneunde] (Had done but)
-# Understanding the Korean Grammar Point: ~했었는데 (Had Done But)
+
 ## 1. Introduction
 In Korean, expressing past actions with nuances is essential for clear communication. The grammar pattern **~했었는데** (`haesseotneunde`) is used to indicate that something **had occurred in the past, but circumstances have changed since then**. This construction helps convey a sense of contrast between the past and the present.
 
@@ -115,7 +115,6 @@ Verb Stem + 았/었/했었는데
    **Answer:** b) We had met in college, but now we've lost contact.
 ---
 By mastering **~했었는데**, you can express nuanced changes between the past and present, making your Korean storytelling more vivid and precise.
----
 Feel free to practice by creating sentences about your past experiences that have changed!
 
 ---

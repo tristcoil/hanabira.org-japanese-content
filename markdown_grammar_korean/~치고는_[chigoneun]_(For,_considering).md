@@ -1,6 +1,6 @@
 Processing keyword: ~치고는 [chigoneun] (For, considering)
 # Korean Grammar Point: ~치고는 [chigoneun] (For, considering)
-# ~~치고는~~ [chigoneun] (For, Considering)
+
 ## 1. Introduction
 The Korean grammar point **~~치고는~~** is used to express an exception or deviation from what is generally expected of a certain group or category. It conveys the meaning of "for," "considering," or "given" in English. This expression highlights that someone or something exhibits a characteristic that is unusual or noteworthy, given a particular standard.
 

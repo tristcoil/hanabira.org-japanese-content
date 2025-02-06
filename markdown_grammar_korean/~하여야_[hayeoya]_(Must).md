@@ -1,6 +1,6 @@
 Processing keyword: ~하여야 [hayeoya] (Must)
 # Korean Grammar Point: ~하여야 [hayeoya] (Must)
-# ~하여야 [hayeoya] (Must)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~하여야** (*hayeoya*), which is used to express necessity or obligation, similar to "must" or "have to" in English. Mastering this grammar will allow you to articulate actions that are necessary or required in various contexts.
 
@@ -66,6 +66,7 @@ Let's break down how to form **~하여야**:
   - **예:** 공부해야 해 (I must study).
 ### Cultural Relevance
 In Korean culture, expressing obligations politely is important, especially when speaking to elders or superiors. Using the correct politeness level shows respect and maintains harmonious relationships.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes
@@ -100,7 +101,7 @@ In Korean culture, expressing obligations politely is important, especially when
    **우리는 지금 떠나하여야 합니다.**
    **Answer:** 우리는 지금 떠나야 해요.
 ---
-## Visual Aids
+
 ### Conjugation Summary
 | Verb (Infinitive) | Verb Stem | Add 하여야 / 해야 | Result           | Meaning       |
 |-------------------|-----------|-------------------|------------------|---------------|

@@ -1,8 +1,9 @@
 Processing keyword: ~하던 중에 [hadeon junge] (While I was doing)
 # Korean Grammar Point: ~하던 중에 [hadeon junge] (While I was doing)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, expressing concurrent actions or stating that something happened while another action was in progress is essential for fluent communication. The grammar point **~하던 중에** (*hadeon junge*) allows speakers to convey the meaning of "while I was doing" or "in the middle of doing." This lesson will delve into the usage, structure, and nuances of **~하던 중에**, providing examples and comparisons to enhance understanding.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 **~하던 중에** is used to indicate that something occurred while an action was in progress in the past. It emphasizes that the speaker was in the middle of an activity when another event happened.
 ## Structure
@@ -15,11 +16,13 @@ Alternatively, when the verb is "하다" (to do), it becomes:
 Noun + 을/를 하던 중에
 ```
 ## Formation Diagram
+
 | Component          | Explanation                              |
 |--------------------|------------------------------------------|
 | **Verb Stem**      | The base form of the verb without "다"   |
 | **~하던**          | Past attributive form of "하다"          |
 | **중에**           | "In the middle of"                        |
+
 ### Combined:
 - **Verb Stem + 하던 중에**
 ## Detailed Explanation
@@ -27,18 +30,20 @@ Noun + 을/를 하던 중에
 2. **~하던**: Use the past attributive form **~던** to indicate an incomplete past action.
 3. **중에**: Add **중에**, meaning "in the middle of," to complete the expression.
 This construction highlights that an action was ongoing in the past when another event interrupted or occurred simultaneously.
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 - **~는 중에**: Used similarly but focuses on present continuous actions ("while doing").
 - **~다가**: Indicates an action was interrupted by another action ("while ~ing, (something happened)").
 - **~는 동안에**: Means "during" or "while," but doesn't necessarily imply interruption.
 **Comparison Table:**
+
 | Grammar Point     | Meaning                      | Nuance                                                 |
 |-------------------|------------------------------|--------------------------------------------------------|
 | **~하던 중에**    | While I was doing            | Past action in progress when another event occurred    |
 | **~는 중에**      | While doing                  | Present action in progress                             |
 | **~다가**         | While ~ing, then...          | Action interrupted by another                          |
 | **~는 동안에**    | During, while                | Two actions occurring simultaneously without interruption |
-# 4. Examples in Context
+
+## 4. Examples in Context
 ### Example 1:
 **Sentence:** 저는 공부**하던 중에** 전화를 받았어요.
 **Translation:** I received a phone call **while I was studying**.
@@ -54,7 +59,8 @@ This construction highlights that an action was ongoing in the past when another
 ### Example 5:
 **Sentence:** 영화 보**던 중에** 휴대폰이 울렸어요.
 **Translation:** My phone rang **while I was watching a movie**.
-# 5. Cultural Notes
+
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean workplaces and schools, being interrupted during an activity is a common scenario due to the collaborative nature of work and study. Using **~하던 중에** appropriately conveys the nuance of unexpected interruptions, which reflects the dynamic social interactions in Korean culture.
 ## Idiomatic Expressions
@@ -62,7 +68,8 @@ In Korean workplaces and schools, being interrupted during an activity is a comm
   - *The call got cut off while we were talking.*
 - **식사하던 중에 손님이 왔어요.**
   - *Guests arrived while we were eating.*
-# 6. Common Mistakes and Tips
+
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Using present tense instead of past attributive form:**
    - Incorrect: 공부**하는 중에** 전화를 받았어요.
@@ -73,7 +80,8 @@ In Korean workplaces and schools, being interrupted during an activity is a comm
 ## Learning Strategies
 - **Mnemonic Device**: Think of **던** as "done but not completed"—an action that was happening but got interrupted.
 - **Practice**: Create sentences about past activities that were interrupted to solidify the usage.
-# 7. Summary and Review
+
+## 7. Summary and Review
 ## Key Takeaways
 - **~하던 중에** expresses an action that was in progress in the past when another event occurred.
 - It emphasizes the interruption or occurrence of another action during the ongoing past activity.
@@ -83,6 +91,7 @@ In Korean workplaces and schools, being interrupted during an activity is a comm
 2. Translate the sentence: "I lost my wallet while I was shopping."
 3. Correct the mistake in the following sentence:
    - 저는 요리**하는 중에** 친구가 왔어요.
+
 ### Answers:
 1. Verb Stem + **하던 중에**
 2. 쇼핑**하던 중에** 지갑을 잃어버렸어요.

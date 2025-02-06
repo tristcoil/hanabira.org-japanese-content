@@ -2,7 +2,6 @@ Processing keyword: ~층 [cheung] (Floor count)
 # Korean Grammar Point: ~층 [cheung] (Floor count)
 # Lesson on ~층 [cheung] (Floor Count)
 
----
 ## 1. Introduction
 In Korean, counters are essential for expressing quantities, counts, and specific classifications of objects and concepts. One such counter is **~층** (*cheung*), used specifically to denote the **floor number** in a building. Understanding how to use ~층 is crucial for everyday conversations, especially when navigating buildings, discussing locations, or giving directions in Korea.
 ---
@@ -21,6 +20,7 @@ The general structure for using ~층 is:
 [Number (Sino-Korean)] + 층 = Floor Number
 ```
 ### Visual Aid: Sino-Korean Numbers and 층
+
 | Numeral (Sino-Korean) | Pronunciation | Floor (층) | Pronunciation |
 |------------------------|---------------|------------|---------------|
 | 일                      | il            | 일층       | il-cheung     |
@@ -33,6 +33,7 @@ The general structure for using ~층 is:
 | 팔                      | pal           | 팔층       | pal-cheung    |
 | 구                      | gu            | 구층       | gu-cheung     |
 | 십                      | sip           | 십층       | sip-cheung    |
+
 ---
 ## 3. Comparative Analysis
 While **층** is used for counting floors, it's important to distinguish it from other counters:

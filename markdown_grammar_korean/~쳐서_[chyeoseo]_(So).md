@@ -1,10 +1,9 @@
 Processing keyword: ~쳐서 [chyeoseo] (So)
 # Korean Grammar Point: ~쳐서 [chyeoseo] (So)
-# Korean Grammar Lesson: **~(아/어/여)서** (So, Because)
 
----
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~(아/어/여)서**, a connective ending used to express reason or cause, similar to "so" or "because" in English. This grammar point is essential for linking actions and reasons, helping you create more coherent and natural sentences in Korean.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -114,7 +113,7 @@ In this lesson, we'll explore the Korean grammar point **~(아/어/여)서**, a 
    **Answer**: The sentence is already correct with **막혀서**.
 ---
 By mastering **~(아/어/여)서**, you'll be able to express reasons and causes effectively, making your Korean communication more natural and fluid.
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

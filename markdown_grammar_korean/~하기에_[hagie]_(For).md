@@ -1,6 +1,6 @@
 Processing keyword: ~하기에 [hagie] (For)
 # Korean Grammar Point: ~하기에 [hagie] (For)
-# Understanding the Grammar Point: ~하기에 [hagie] (For)
+
 ## 1. Introduction
 In learning Korean, understanding how to express reasons or causes is essential for effective communication. The grammar point **~하기에** (hagie) is a useful tool that means **"for," "because,"** or **"since."** It helps link a reason to a result or judgment. This lesson will explore the usage of **~하기에**, its formation, comparisons with similar grammar points, practical examples, and common pitfalls to avoid.
 

@@ -1,6 +1,6 @@
 Processing keyword: ~하기로 하다 [hakiro hada] (Decide to)
 # Korean Grammar Point: ~하기로 하다 [hakiro hada] (Decide to)
-# ~하기로 하다 [hakiro hada] (To Decide to)
+
 ## 1. Introduction
 In Korean, the grammar structure "**~하기로 하다**" is used to express a decision to perform a certain action. It translates to "**decide to do**" in English. This pattern is commonly used in both spoken and written Korean to indicate that someone has made up their mind about doing something.
 

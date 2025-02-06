@@ -1,6 +1,6 @@
 Processing keyword: ~했더니 [haetdeoni] (After doing)
 # Korean Grammar Point: ~했더니 [haetdeoni] (After doing)
-# Grammar Point: ~했더니 [haetdeoni] (After doing)
+
 ## 1. Introduction
 The Korean grammar pattern **~했더니 [haetdeoni]** is used to express that after the speaker did something, they observed a result, consequence, or discovered something new. It highlights a cause-and-effect relationship from the speaker's direct experience.
 

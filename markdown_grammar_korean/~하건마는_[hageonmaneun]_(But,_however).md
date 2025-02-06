@@ -1,10 +1,9 @@
 Processing keyword: ~하건마는 [hageonmaneun] (But, however)
 # Korean Grammar Point: ~하건마는 [hageonmaneun] (But, however)
-# Korean Grammar Lesson: ~하건마는 [hageonmaneun] (But, however)
 
----
 ## 1. Introduction
 In this lesson, we'll explore the grammatical construction **~하건마는 [hageonmaneun]**, which is used to express contrast or concession, similar to "but" or "however" in English. Understanding this grammar point will help you convey nuanced contrasts in Korean, especially in written and formal contexts.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

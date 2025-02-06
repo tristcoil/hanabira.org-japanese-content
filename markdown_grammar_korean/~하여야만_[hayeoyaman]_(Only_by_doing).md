@@ -1,6 +1,6 @@
 Processing keyword: ~하여야만 [hayeoyaman] (Only by doing)
 # Korean Grammar Point: ~하여야만 [hayeoyaman] (Only by doing)
-# ~하여야만 [hayeoyaman] (Only by doing)
+
 ## 1. Introduction
 In learning Korean, understanding various grammar structures is essential to express nuanced meanings. One such structure is **~하여야만** (*hayeoyaman*), which emphasizes that only by performing a certain action can a specific result be achieved. This lesson will delve into the usage of **~하여야만**, providing clear explanations, examples, and tips to help you grasp this grammar point effectively.
 

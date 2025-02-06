@@ -1,10 +1,10 @@
 Processing keyword: ~켤 [kkeol] (Every, each)
 # Korean Grammar Point: ~켤 [kkeol] (Every, each)
-# Korean Grammar Lesson: "~켤" [kkeol] (Every, Each)
 
----
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **"~켤" [kkeol]**, which is used to express the meaning of "every" or "each" in Korean. Understanding how to use "~켤" will enhance your ability to describe frequency and distributions in various contexts.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -16,22 +16,27 @@ Number + Counter + ~켤
 ```
 ### Formation Diagram
 Here's a visual representation:
+
 | Component      | Example       | Note                                     |
 |----------------|---------------|------------------------------------------|
 | **Number**     | 하나 (one)    | The numeral indicating quantity          |
 | **Counter**    | 마리 (animal) | The counter appropriate for the noun     |
 | **~켤**        | ~켤           | Attached to express "every" or "each"    |
 | **Combined**   | 한 마리씩     | "Each one animal"                        |
+
 **Note**: The number can often be implied and omitted when contextually clear.
+
 ---
 ## 3. Comparative Analysis
 ### "~마다" vs. "~켤"
 - **"~마다"**: Attached to nouns to mean "every" (e.g., 날마다 - every day).
 - **"~켤"**: Attached to numerals and counters to mean "each" (e.g., 한 명씩 - each person).
+
 | Grammar Point | Usage                             | Example               |
 |---------------|-----------------------------------|-----------------------|
 | **~마다**     | Every [noun/time period]          | 주마다 (every week)   |
 | **~켤**       | Each [number + counter]           | 두 개씩 (two each)    |
+
 ---
 ## 4. Examples in Context
 ### Formal Written
@@ -84,7 +89,6 @@ In Korean culture, sharing and fair distribution are valued. Using "~켤" convey
 3. **당**
 ---
 By mastering "~켤," you enhance your ability to discuss distributions and frequencies in Korean, bringing you one step closer to fluency!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

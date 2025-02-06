@@ -1,6 +1,6 @@
 Processing keyword: ~했을 텐데 [haesseul tende] (Would have)
 # Korean Grammar Point: ~했을 텐데 [haesseul tende] (Would have)
-# ~했을 텐데 [haesseul tende] (Would have)
+
 ## 1. Introduction
 In Korean, expressing regret or suppositions about past events often requires specific grammatical structures. One such structure is **~했을 텐데**, which conveys the meaning of "would have" and is used to express assumptions or expectations about past actions or situations that did not occur. This lesson will delve into the usage, formation, and nuances of **~했을 텐데**, helping you understand how to express these complex sentiments naturally in Korean.
 

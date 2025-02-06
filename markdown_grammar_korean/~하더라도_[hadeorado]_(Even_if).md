@@ -1,6 +1,6 @@
 Processing keyword: ~하더라도 [hadeorado] (Even if)
 # Korean Grammar Point: ~하더라도 [hadeorado] (Even if)
-# Understanding the Korean Grammar Point: ~하더라도 (~hadeorado) (Even if)
+
 ## 1. Introduction
 The Korean grammar point **~하더라도** (`~hadeorado`) is used to express a strong hypothetical condition similar to "even if" or "even though" in English. It emphasizes that regardless of the condition, the outcome in the main clause remains unchanged. This construction is essential for expressing determination, inevitability, or steadfastness in Korean.
 
@@ -108,7 +108,6 @@ Attach **`더라도`** directly to the verb stem of an action or descriptive ver
    **Answer**: **~하더라도** carries stronger emphasis and implies that the outcome is completely unaffected by the condition, whereas **~아/어도** is less emphatic and the condition may influence the outcome.
 ---
 Keep practicing to become more comfortable with **~하더라도**. Try creating sentences that reflect situations in your life to make the learning process more engaging!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

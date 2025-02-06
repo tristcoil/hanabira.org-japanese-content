@@ -1,6 +1,6 @@
 Processing keyword: ~하려는 뜻이다 [haryeoneun tteushida] (Intend to)
 # Korean Grammar Point: ~하려는 뜻이다 [haryeoneun tteushida] (Intend to)
-# ~하려는 뜻이다 [haryeoneun tteushida] - "Intend to"
+
 ## 1. Introduction
 In Korean, expressing intentions or plans is crucial for effective communication. The grammar pattern **~하려는 뜻이다** is used to convey one's intention to perform a specific action. This lesson will guide you through understanding and using **~하려는 뜻이다** to express intentions naturally in Korean.
 

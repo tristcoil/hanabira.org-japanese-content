@@ -1,6 +1,6 @@
 Processing keyword: ~하자마자 [hajamaja] (As soon as)
 # Korean Grammar Point: ~하자마자 [hajamaja] (As soon as)
-# ~하자마자 [hajamaja] (As soon as)
+
 ## 1. Introduction
 In Korean, the grammatical expression **~하자마자** is used to indicate that one action occurs immediately after another action. It translates to **"as soon as"** or **"immediately after"** in English. This structure emphasizes the immediacy between two events, highlighting that there is no delay between them.
 
@@ -12,12 +12,14 @@ In Korean, the grammatical expression **~하자마자** is used to indicate that
 To form this grammatical structure:
 1. **Verb Stem** + **자마자**
 ### Formation Diagram
+
 | Verb (Dictionary Form) | Verb Stem | + 자마자 | Result                    | Meaning             |
 |------------------------|-----------|---------|---------------------------|---------------------|
 | 일어나다 (to get up)   | 일어나    | 자마자  | 일어나자마자             | As soon as I got up |
 | 먹다 (to eat)          | 먹        | 자마자  | 먹자마자                 | As soon as I eat    |
 | 끝나다 (to finish)     | 끝나      | 자마자  | 끝나자마자               | As soon as it ends  |
 | 도착하다 (to arrive)   | 도착하    | 자마자  | 도착하자마자             | As soon as I arrive |
+
 **Note:** Do not add any tense markers (e.g., 았/었) before **자마자**.
 ---
 ## 3. Comparative Analysis

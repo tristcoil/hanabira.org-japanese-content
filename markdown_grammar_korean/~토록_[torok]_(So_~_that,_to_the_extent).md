@@ -1,6 +1,6 @@
 Processing keyword: ~토록 [torok] (So ~ that, to the extent)
 # Korean Grammar Point: ~토록 [torok] (So ~ that, to the extent)
-# ~토록 [torok] (So ~ that, to the extent)
+
 ## 1. Introduction
 In this lesson, we will explore the Korean grammar point **~토록 [torok]**, which is used to express the extent or degree of an action or state. By the end of this lesson, you will understand how to use **~토록** to convey meanings such as "so ~ that" or "to the extent that" in various contexts.
 
@@ -20,21 +20,25 @@ In this lesson, we will explore the Korean grammar point **~토록 [torok]**, wh
 [Verb/Adjective stem] + 토록
 ```
 ### Examples of Formation
+
 | Verb/Adjective Stem | + 토록 | Result      |
 |---------------------|--------|-------------|
 | 울다 (to cry)        | 울**도록**  | 울도록      |
 | 기다리다 (to wait)   | 기다리**도록** | 기다리도록 |
 | 아름답다 (to be beautiful) | 아름답**도록** | 아름답도록 |
+
 ---
 ## 3. Comparative Analysis
 **~토록** vs. **~도록**
 - Both **~토록** and **~도록** can be used interchangeably in many contexts.
 - **~토록** has a slightly more emphatic or literary nuance compared to **~도록**.
 - **~도록** is more commonly used in spoken Korean.
+
 | Grammar Point | Meaning                   | Nuance            |
 |---------------|---------------------------|-------------------|
 | ~토록          | So ~ that, to the extent  | Emphatic, formal  |
 | ~도록          | So ~ that, in order to    | Neutral, common   |
+
 ---
 ## 4. Examples in Context
 ### Formal Examples
@@ -90,6 +94,7 @@ In this lesson, we will explore the Korean grammar point **~토록 [torok]**, wh
 1. What does **~토록** express in a sentence?
 2. How does **~토록** differ from **~도록**?
 3. Create a sentence using **~토록** to express "I missed you so much that I couldn't sleep."
+
 **Answers:**
 1. It expresses the extent or degree of an action or state, meaning "so ~ that" or "to the extent that."
 2. **~토록** is more emphatic and formal than **~도록**, which is more commonly used in everyday speech.

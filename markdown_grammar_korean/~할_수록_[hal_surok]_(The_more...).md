@@ -1,6 +1,6 @@
 Processing keyword: ~할 수록 [hal surok] (The more...)
 # Korean Grammar Point: ~할 수록 [hal surok] (The more...)
-# ~할수록 (~halsurok): "The more..."
+
 ## 1. Introduction
 In Korean, the grammatical expression **~할수록** is used to convey the meaning of "the more [someone does something], the more [something happens]." It's a way to express a proportional or correlational relationship between two actions or states. This structure emphasizes that as one aspect increases or intensifies, another aspect changes in response.
 

@@ -1,6 +1,6 @@
 Processing keyword: ~하면서도 [hamyeonseodo] (While, although)
 # Korean Grammar Point: ~하면서도 [hamyeonseodo] (While, although)
-# Korean Grammar Lesson: **~하면서도** [hamyeonseodo] (While, although)
+
 ## 1. Introduction
 Welcome to today's lesson! We're going to explore the Korean grammar point **~하면서도**, which is essential for expressing contrast or unexpected outcomes between two simultaneous actions or states. Mastering this grammar will enhance your ability to articulate complex ideas in Korean.
 
@@ -116,8 +116,7 @@ In Korean culture, there's an emphasis on harmony and collective well-being. Usi
      - **Answer**: 그녀는 슬프면서도 미소를 지어요.
 ---
 By understanding and practicing **~하면서도**, you'll be able to express complex ideas involving contrast and simultaneity in Korean. Keep practicing, and soon it'll become a natural part of your Korean language skills!
----
-# Practice Time!
+
 Try creating your own sentences using **~하면서도**. Start with verbs you frequently use, and don't hesitate to make mistakes—that's how you learn!
 
 ---

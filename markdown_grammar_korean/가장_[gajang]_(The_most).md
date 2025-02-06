@@ -1,6 +1,6 @@
 Processing keyword: 가장 [gajang] (The most)
 # Korean Grammar Point: 가장 [gajang] (The most)
-# 가장 [gajang] (The Most)
+
 ## 1. Introduction
 In Korean, expressing the superlative degree—saying something is *the most* or *the best*—is essential for detailed descriptions and comparisons. The word **가장** [gajang] is commonly used to form superlatives. This lesson will guide you through its usage, helping you to enhance your Korean language skills.
 
@@ -40,10 +40,12 @@ Here's how **가장** is used in sentences:
 - **Formality**: **가장** is slightly more formal than **제일**.
 - **Usage**: **가장** is used in both spoken and written language, while **제일** is more common in spoken Korean.
 **Comparison Table:**
+
 | Sentence with **가장**          | Sentence with **제일**           | English Translation            |
 |--------------------------------|---------------------------------|-------------------------------|
 | 이 문제가 **가장 어렵습니다**.   | 이 문제가 **제일 어렵습니다**.    | This problem is the hardest.   |
 | 한국음식 중에서 비빔밥을 **가장 좋아해요**. | 한국음식 중에서 비빔밥을 **제일 좋아해요**. | Among Korean foods, I like bibimbap the most. |
+
 ---
 ## 4. Examples in Context
 ### Formal Speech

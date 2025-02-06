@@ -1,8 +1,10 @@
 Processing keyword: 때 [ttae] (When, time)
 # Korean Grammar Point: 때 [ttae] (When, time)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, **때 [ttae]** is a versatile noun that means **"time"** or **"when"**. It's commonly used to indicate the time when an action occurs or to describe a specific moment or period. Mastering the use of **때** is essential for expressing time-related concepts and creating complex sentences in Korean.
-# 2. Core Grammar Explanation
+
+## 2. Core Grammar Explanation
 ## Meaning
 - **때 [ttae]**: Refers to **"the time when..."**, **"at the time of..."**, or simply **"when..."**.
 ## Structure
@@ -35,7 +37,8 @@ The basic structure for using **때** is as follows:
 - Simply add **때** after the noun without any changes.
   - **시험** (exam) + **때** ⇒ **시험 때** (during the exam)
   - **어렸을** (when [someone] was young) ⇒ **어렸을 때** (when [someone] was young)
-# 3. Comparative Analysis
+
+## 3. Comparative Analysis
 ## 때 vs. **동안**
 - **때** emphasizes the specific moment or period when an action occurs.
 - **동안** means **"during"** or **"for a duration of time"**, highlighting the length of time.
@@ -52,7 +55,8 @@ The basic structure for using **때** is as follows:
   - I watch the news **when** I eat dinner.
 - **저녁을 먹으면서 뉴스를 봐요.**
   - I watch the news **while** eating dinner.
-# 4. Examples in Context
+
+## 4. Examples in Context
 ## Formal Situations
 1. **출근할 때 지하철을 탑니다.**
    - I take the subway when commuting to work.
@@ -73,7 +77,8 @@ The basic structure for using **때** is as follows:
    - You look really pretty when you smile!
 2. **시험 볼 때 긴장돼?**
    - Do you get nervous when taking exams?
-# 5. Cultural Notes
+
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Respect for Time**: In Korean culture, punctuality is important. Using **때** properly shows respect for others' time.
 - **Age and Experience**: Phrases like **어렸을 때** (when I was young) are frequently used to share experiences.
@@ -96,7 +101,8 @@ The basic structure for using **때** is as follows:
 3. **때와 장소** - Time and place.
    - **적절한 때와 장소에서 이야기합시다.**
      - Let's talk at an appropriate time and place.
-# 6. Common Mistakes and Tips
+
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Forgetting to Conjugate the Verb/Adjective Correctly**
    - ❌ **먹다 때** instead of **먹을 때**
@@ -114,7 +120,8 @@ The basic structure for using **때** is as follows:
   - **Vowel + ㄹ 때**: Vowel flows smoothly into **ㄹ 때**.
 - **Practice with Common Verbs**:
   - Write sentences using **때** with verbs you use frequently.
-# 7. Summary and Review
+
+## 7. Summary and Review
 ## Key Takeaways
 - **때** is used to express **"when"** or **"the time of"** an action or state.
 - Conjugate verbs and adjectives correctly by adding **-을 때** or **-ㄹ 때**.
@@ -133,7 +140,6 @@ The basic structure for using **때** is as follows:
 
 ---
 By understanding and practicing the use of **때**, you'll be able to express time-related ideas more naturally and accurately in Korean. Remember to pay attention to the verb stems and the context in which **때** is used.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

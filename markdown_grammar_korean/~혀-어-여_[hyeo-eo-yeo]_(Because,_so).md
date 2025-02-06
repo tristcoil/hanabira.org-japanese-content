@@ -1,10 +1,11 @@
 Processing keyword: ~혀/어/여 [hyeo/eo/yeo] (Because, so)
 # Korean Grammar Point: ~혀/어/여 [hyeo/eo/yeo] (Because, so)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, connecting clauses to express reasons or causes is essential for fluent communication. One common way to indicate cause and effect is by using the verb endings **~여/어/아** (*-yeo/-eo/-a*), which translate to "because" or "so" in English. This grammar point allows speakers to link two actions or states, where the first is the reason for the second.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning and Usage
 The endings **~여/어/아** are attached to the verb stem to indicate that the preceding clause is the reason for the following clause.
 - **Usage**: To express causation or reason between two clauses.
@@ -27,7 +28,7 @@ Attach the appropriate ending to the verb stem based on the final vowel of the s
 3. **먹다** (to eat): 먹 + **-어** → **먹어**
 4. **숙제하다** (to do homework): 숙제하 + **-여** → **숙제하여** (contracts to **숙제해**)
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## Comparison with **~아서/어서**
 Both **~여/어/아** and **~아서/어서** are used to connect clauses and indicate reasons or sequential actions. However, there are subtle differences:
 - **~아서/어서** is more commonly used in modern Korean for everyday conversation.
@@ -37,7 +38,7 @@ Both **~여/어/아** and **~아서/어서** are used to connect clauses and ind
 | **~여/어/아**    | Cause and effect linkage       | Less common, formal/literary |
 | **~아서/어서**   | Cause and effect linkage       | Common, everyday speech |
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Examples
 1. **시간이 없**어** 회의에 참석하지 못했습니다.**
    - *Sigani eop*eo* hoeie chamseokhaji mothaetseumnida.*
@@ -59,7 +60,7 @@ Both **~여/어/아** and **~아서/어서** are used to connect clauses and ind
    - *Biga o*a* usaneul gajyeowasseo.*
    - **Translation**: *Because it's raining, I brought an umbrella.*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Levels of Politeness and Formality
 - **~여/어/아** can sound more formal or literary, especially in the **-여** form.
 - In everyday speech, Koreans often use **~아서/어서** instead for a natural flow.
@@ -68,7 +69,7 @@ Both **~여/어/아** and **~아서/어서** are used to connect clauses and ind
 - **하여간** (*hayeogan*): An expression meaning "anyway" or "in any case."
 - **그래서** (*geuraeseo*): Commonly used to mean "so" or "therefore," showing cause and effect.
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Misapplication of vowel harmony:**
    - Incorrect: *먹다* (to eat) → 먹**아**
@@ -83,7 +84,7 @@ Both **~여/어/아** and **~아서/어서** are used to connect clauses and ind
 - **Practice with Common Verbs**: Regularly conjugate verbs you use daily to internalize patterns.
 - **Create Sentences**: Form your own sentences using **~여/어/아** to express reasons.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~여/어/아** is used to connect two clauses, indicating that the first is the reason for the second.
 - The ending added depends on the verb stem's final vowel.

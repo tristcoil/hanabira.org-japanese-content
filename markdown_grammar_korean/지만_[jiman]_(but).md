@@ -1,10 +1,11 @@
 Processing keyword: 지만 [jiman] (but)
 # Korean Grammar Point: 지만 [jiman] (but)
-# 1. Introduction
+
+## 1. Introduction
 Welcome to today's lesson on the Korean grammar point **-지만** (*jiman*), which translates to "**but**" in English. This conjunction is essential for expressing contrast or opposition between two statements. Mastering **-지만** will enhance your ability to form complex sentences and communicate nuanced thoughts in Korean.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The suffix **-지만** is attached to verbs and adjectives to connect two clauses that have contrasting or opposing meanings, similar to "**but**", "**however**", or "**although**" in English.
 ## Structure
@@ -22,13 +23,13 @@ The general structure for using **-지만** is as follows:
    - 학생이다 (to be a student) → 학생**이지만** (but [I] am a student)
    - 친구이다 (to be a friend) → 친구**지만** (but [he/she] is a friend)
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 - **-지만** vs. **-는데**
   While both **-지만** and **-는데** can express contrast, **-지만** is a direct way to say "but," whereas **-는데** adds background information or sets up a situation. 
   - **-지만** example: 날씨가 춥지만 나가야 해요. (The weather is cold, but I have to go out.)
   - **-는데** example: 날씨가 추운데 나가야 해요. (The weather is cold, and given that, I have to go out.)
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Situations
 1. **회의는 길었지만 유익했습니다.**
    - *The meeting was long, but it was beneficial.*
@@ -50,7 +51,7 @@ The general structure for using **-지만** is as follows:
 2. **그는 노력했지만 성공하지 못했다.**
    - *He tried, but he didn't succeed.*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Levels of Politeness
 - In Korean, politeness levels are crucial. Using **-지만** maintains the same politeness level as the rest of your sentence.
   
@@ -64,7 +65,7 @@ The general structure for using **-지만** is as follows:
 2. **보고 싶지만 갈 수 없어요.**
    - *I want to see you, but I can't go.*
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Mistake:** Conjugating **-지만** incorrectly after a verb stem.
   
@@ -77,7 +78,7 @@ The general structure for using **-지만** is as follows:
 - **Mnemonic Device:** Think of **-지만** as "**Gee, man (지만), it's contrasting!**" to remember it introduces a contrast.
 - **Practice Tip:** Create sentences using **-지만** to connect two opposing ideas you encounter daily.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **-지만** is used to express contrast between two clauses, meaning "but" or "however."
 - Attach **-지만** directly to verb or adjective stems.

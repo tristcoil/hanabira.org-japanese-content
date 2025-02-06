@@ -1,6 +1,6 @@
 Processing keyword: ~하여서는 안 되다 [hayeoseoneun an dweda] (Must not)
 # Korean Grammar Point: ~하여서는 안 되다 [hayeoseoneun an dweda] (Must not)
-# ~하여서는 안 되다 [hayeoseoneun an dweda] (Must Not)
+
 ## 1. Introduction
 In this lesson, we will explore the Korean grammar point **~하여서는 안 되다** (**~hayeoseoneun an dweda**). This structure is used to express **prohibition**, indicating that an action must not be done. It is commonly used in formal contexts, such as official notices, rules, and regulations.
 
@@ -17,11 +17,13 @@ This grammar point is specifically used with **verbs ending in 하다**.
 1. **Identify the Verb Stem**
    - For verbs ending with **하다**, remove **다** to get the stem **하**.
    **Examples:**
+   
    | Verb        | Verb Stem |
    |-------------|-----------|
    | 공부하다     | 공부하    |
    | 일하다       | 일하      |
    | 청소하다     | 청소하    |
+   
 2. **Add ~여서는 안 되다 to the Verb Stem**
    - 공부하 + 여서는 안 되다 → **공부하여서는 안 되다**
    - 일하 + 여서는 안 되다 → **일하여서는 안 되다**

@@ -1,6 +1,6 @@
 Processing keyword: ~해야겠다 [haeyagetta] (Should, must, have to)
 # Korean Grammar Point: ~해야겠다 [haeyagetta] (Should, must, have to)
-# Understanding the Korean Grammar Point "~해야겠다" (Should, Must, Have to)
+
 ## 1. Introduction
 In Korean, conveying the necessity or strong intention to perform an action involves specific grammatical structures. The expression **~해야겠다** is commonly used to indicate that the speaker has realized the need to do something and has decided to take action. It translates closely to "should," "must," or "have to" in English and often carries a nuance of personal resolution or spontaneous decision.
 
@@ -148,6 +148,7 @@ Conjugate the verb **"듣다" (to listen)** using **~해야겠다**.
 - **듣** → **들** (ㄷ changes to ㄹ before a vowel)
 - Add **-어야겠다**: **들** + **어야겠다** → **들어야겠다**
 </details>
+
 ---
 #### **Question 2**:
 Which of the following sentences uses **~해야겠다** correctly?
@@ -161,6 +162,7 @@ Which of the following sentences uses **~해야겠다** correctly?
 - **가다** (to go) + **-아야겠다** because the last vowel is **ㅏ**.
 - So it becomes **가야겠다**.
 </details>
+
 ---
 #### **Question 3**:
 True or False: **~아/어야겠다** can be used to express obligations imposed by rules or external requirements.
@@ -170,9 +172,10 @@ True or False: **~아/어야겠다** can be used to express obligations imposed 
 - **~아/어야겠다** expresses a **personal decision or realization**, not obligations imposed by external factors.
 - For external obligations, **~아/어야 하다** is used.
 </details>
+
 ---
 By understanding **~해야겠다**, you can effectively express your intentions and decisions in Korean, reflecting both necessity and personal commitment.
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

@@ -1,6 +1,6 @@
 Processing keyword: ~하다가 말다 [hadaga malda] (Stop doing something)
 # Korean Grammar Point: ~하다가 말다 [hadaga malda] (Stop doing something)
-# ~하다가 말다 [hadaga malda] (Stop Doing Something)
+
 ## 1. Introduction
 In Korean, expressing the nuance of starting an action but not completing it requires specific grammatical constructions. One such expression is **~하다가 말다** (*hadaga malda*), which conveys the idea of beginning something and then stopping before it's finished. This lesson will explore the usage, formation, and nuances of **~하다가 말다**, helping you incorporate it naturally into your Korean conversations.
 
@@ -56,22 +56,27 @@ When combined, **~하다가 말다** communicates that the subject began an acti
 #### Example 1
 **Sentence:** 영화를 보다가 말았어요.
 **Translation:** *I started watching a movie but stopped.*
+
 ---
 #### Example 2
 **Sentence:** 그는 말을 하다가 말았어요.
 **Translation:** *He began to speak but stopped.*
+
 ---
 #### Example 3
 **Sentence:** 우리는 길을 걷다가 말고 카페에 들어갔어요.
 **Translation:** *We stopped walking on the street and went into a café.*
+
 ---
 #### Example 4
 **Sentence:** 친구에게 편지를 쓰다가 말았어.
 **Translation:** *I started writing a letter to a friend but didn't finish it.*
+
 ---
 #### Example 5
 **Sentence:** 아이가 숙제를 하다가 말고 놀기 시작했어요.
 **Translation:** *The child stopped doing homework and started playing.*
+
 ---
 ### Formal vs. Informal Usage
 | Politeness Level | Korean                                | English Translation                    |

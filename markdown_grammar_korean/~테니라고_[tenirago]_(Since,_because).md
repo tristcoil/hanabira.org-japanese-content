@@ -1,6 +1,6 @@
 Processing keyword: ~테니라고 [tenirago] (Since, because)
 # Korean Grammar Point: ~테니라고 [tenirago] (Since, because)
-# ~테니라고 [tenirago] (Since, because)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~테니라고** (*tenirago*), which is used to express actions or thoughts based on an assumption or expectation about the future. It's similar to saying "thinking that..." or "since I expect that..." in English. Mastering this grammar point will enhance your ability to convey reasons or motivations grounded in your expectations.
 
@@ -22,24 +22,29 @@ The grammar point combines:
 [Verb Stem] + ~(으)ㄹ 테니라고 + [Main Verb/Action]
 ```
 ### Formation Diagram
+
 | **Component**      | **Role**                                           |
 |--------------------|----------------------------------------------------|
 | Verb Stem          | The base form of the verb                          |
 | ~(으)ㄹ 테니        | Assumption or intention about the future           |
 | 라고               | Marks reported speech or thought                   |
 | Main Verb/Action   | The action taken based on the assumption           |
+
 **Conjugation Rules:**
 - If the verb stem ends in a **vowel**, add **-ㄹ 테니라고**
 - If the verb stem ends in a **consonant**, add **-을 테니라고**
 ---
 ## 3. Comparative Analysis
 ### Similar Grammar Points
+
 | Grammar Point     | Usage                                      | Example                                      |
 |-------------------|--------------------------------------------|----------------------------------------------|
 | ~(으)니까          | Reason or cause (since/because)             | 비가 오**니까** 우산을 가져왔어요.<br>*Since it's raining, I brought an umbrella.* |
 | ~기 때문에        | Reason or cause (because)                   | 비가 오**기 때문에** 우산이 필요해요.<br>*Because it's raining, I need an umbrella.* |
 | ~느라고           | Reason for a negative result (because of doing) | 일하**느라고** 바빴어요.<br>*I was busy because I was working.* |
+
 **Difference:** **~테니라고** specifically denotes actions based on future assumptions or expectations, adding a nuance of anticipation that the other grammar points may not convey.
+
 ---
 ## 4. Examples in Context
 ### Example 1: Formal Speech
@@ -72,6 +77,7 @@ The grammar point combines:
 - **Informal Endings:** Use **-아/어** endings with friends or close acquaintances.
 ### Idiomatic Expressions
 While **~테니라고** itself isn't part of a fixed idiom, understanding it enhances comprehension of expressions involving expectations and planning.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -96,6 +102,7 @@ While **~테니라고** itself isn't part of a fixed idiom, understanding it enh
 1. What does **~테니라고** convey in a sentence?
 2. How do you form **~테니라고** after a verb ending with a vowel?
 3. Translate to Korean: "She stayed home thinking it would snow."
+
 **Answers:**
 1. It conveys an action or thought based on an assumption or expectation about the future.
 2. Add **-ㄹ 테니라고** after the verb stem.

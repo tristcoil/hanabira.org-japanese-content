@@ -1,6 +1,6 @@
 Processing keyword: 다 [da] (All, entirely)
 # Korean Grammar Point: 다 [da] (All, entirely)
-# 다 [da] (All, Entirely)
+
 ## 1. Introduction
 In Korean, **다** [da] is a commonly used adverb that means **"all," "everything,"** or **"entirely."** It is used to indicate the completion or totality of an action or state. Understanding how to use **다** effectively can greatly enhance your fluency and expressiveness in Korean.
 
@@ -86,6 +86,7 @@ However, **다** is often placed **before the verb** it modifies.
 1. How do you say "I read all the books" in Korean?
 2. What is the difference between **다** and **모두**?
 3. Where is **다** placed in a sentence?
+
 **Answers:**
 1. **책을 다 읽었어요.**
 2. **다** is an adverb modifying verbs/adjectives, **모두** is a noun/pronoun meaning "everyone" or "all."

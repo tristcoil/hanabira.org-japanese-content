@@ -1,10 +1,9 @@
 Processing keyword: ~하는데 [haneunde] (But, and so)
 # Korean Grammar Point: ~하는데 [haneunde] (But, and so)
-# Grammar Point: ~하는데 [haneunde] (But, And So)
 
----
 ## 1. Introduction
 The grammatical structure **~하는데** is a versatile and commonly used connective in Korean. It serves multiple functions such as showing contrast ("but"), providing background information ("and"), or indicating a cause or reason ("so"). Understanding how to use **~하는데** will greatly enhance your ability to create complex and natural sentences in Korean.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning and Usage
@@ -36,8 +35,7 @@ Here is a simple diagram to illustrate the formation:
 | Descriptive Verb   | Stem ends with consonant  | ~은데      | 맛있다        | 맛있는 데  |
 | Descriptive Verb   | 있다/없다 verbs           | ~는데      | 있다          | 있는데     |
 ### Visual Aid: Usage Flowchart
-```mermaid
-flowchart TD
+```
     A[Start] --> B{Verb Type}
     B --> C[Action Verb]
     B --> D[Descriptive Verb]
@@ -113,6 +111,7 @@ flowchart TD
 1. How do you attach **~는데** to an action verb ending with a vowel?
 2. Which connective is more versatile, **~는데** or **~지만**, and why?
 3. Translate the following sentence: *비가 오는데 우산을 가져가세요.*
+
 **Answers:**
 1. Verb Stem + **는데** (e.g., 하다 → 하는데)
 2. **~는데** is more versatile because it can mean "but," "and," or "so" depending on context.

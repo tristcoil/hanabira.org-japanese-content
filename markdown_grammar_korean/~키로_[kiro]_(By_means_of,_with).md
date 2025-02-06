@@ -1,6 +1,6 @@
 Processing keyword: ~키로 [kiro] (By means of, with)
 # Korean Grammar Point: ~키로 [kiro] (By means of, with)
-# Korean Grammar Lesson: ~(으)로 [(eu)ro] (By means of, with)
+
 ## 1. Introduction
 In this lesson, we will explore the Korean particle **~(으)로** [(eu)ro], which is commonly used to indicate the means, method, or instrument by which an action is performed. Understanding this particle is essential for expressing how something is done or what is used to do it in Korean.
 

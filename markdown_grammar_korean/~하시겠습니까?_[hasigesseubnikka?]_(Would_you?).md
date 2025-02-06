@@ -1,8 +1,10 @@
 Processing keyword: ~하시겠습니까? [hasigesseubnikka?] (Would you?)
 # Korean Grammar Point: ~하시겠습니까? [hasigesseubnikka?] (Would you?)
-# 1. Introduction
+
+## 1. Introduction
 Understanding how to make polite and respectful requests is essential in Korean, especially in formal situations. The grammar point **~하시겠습니까?** is a formal and honorific way to ask someone if they would like to do something. It translates to **"Would you...?"** in English and is commonly used in service industries, formal business settings, and when addressing someone of higher social status.
-# 2. Core Grammar Explanation
+
+## 2. Core Grammar Explanation
 ## Meaning and Usage
 **~하시겠습니까?** is used to:
 - Politely ask someone if they would like to perform an action.
@@ -28,7 +30,8 @@ For other verbs:
 - **-시-**: Honorific suffix indicating respect to the subject.
 - **겠**: Expresses intention or future tense.
 - **습니까**: Formal interrogative ending.
-# 3. Comparative Analysis
+
+## 3. Comparative Analysis
 ### **~하시겠습니까?** vs. **~시겠습니까?**
 - **~하시겠습니까?**
   - Specifically used with **하다** verbs.
@@ -43,7 +46,8 @@ For other verbs:
 - **~(으)실래요?**
   - Polite but less formal.
   - Used among colleagues, acquaintances, or in casual business contexts.
-# 4. Examples in Context
+
+## 4. Examples in Context
 ### Formal Situations
 1. **주문하시겠습니까?**
    - *Would you like to order?*
@@ -66,7 +70,8 @@ For other verbs:
    - *Would you need assistance?*
 9. **좌석을 변경하시겠습니까?**
    - *Would you like to change your seat?*
-# 5. Cultural Notes
+
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Honorific Language**: Korean places a strong emphasis on hierarchy and respect. Using honorifics correctly is essential in showing respect.
 - **Formal Settings**: **~하시겠습니까?** is appropriate in formal contexts like interviews, meetings, or when speaking to customers.
@@ -77,7 +82,8 @@ For other verbs:
   - Example: **드시겠어요?** (Would you like to eat?)
 - **Formal Honorific**: Used in formal situations.
   - Example: **드시겠습니까?** (Would you like to eat?)
-# 6. Common Mistakes and Tips
+
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Dropping the Honorific Suffix**
    - Incorrect: **주문하겠습니까?**
@@ -91,7 +97,8 @@ For other verbs:
 - **Remember the Honorific**: Always include **-시-** to show respect.
 - **Verb Ending Vowel/Consonant**: Pay attention to whether the verb stem ends with a vowel or consonant to choose **-시겠습니까?** or **-으시겠습니까?**
 - **Context Matters**: Use this form in appropriate settings to match the level of formality required.
-# 7. Summary and Review
+
+## 7. Summary and Review
 ## Key Takeaways
 - **~하시겠습니까?** is a formal and honorific way to ask if someone would like to do something.
 - It combines the honorific **-시-**, the future tense **-겠-**, and the formal question ending **-습니까**.

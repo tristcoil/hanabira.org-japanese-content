@@ -1,6 +1,6 @@
 Processing keyword: 하고 [hago] (And, with)
 # Korean Grammar Point: 하고 [hago] (And, with)
-# 하고 [hago] (And, With)
+
 ## 1. Introduction
 The particle **하고** is a fundamental Korean connector used to link nouns together. It translates to "and" or "with" in English. Understanding **하고** is essential for constructing basic sentences and expressing relationships between people and objects.
 

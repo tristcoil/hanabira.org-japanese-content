@@ -1,6 +1,6 @@
 Processing keyword: 아/어야 해요 [a/eoya haeyo] (Have to do)
 # Korean Grammar Point: 아/어야 해요 [a/eoya haeyo] (Have to do)
-# 아/어야 해요 [a/eoya haeyo] (Have to do)
+
 ## 1. Introduction
 The Korean grammar point **아/어야 해요** expresses obligation or necessity, similar to "have to" or "must" in English. It's used when indicating that someone is required to perform a certain action.
 
@@ -88,6 +88,7 @@ To form **아/어야 해요**, follow these steps:
 1. How do you say "I have to study" in Korean?
 2. Choose the correct form: **읽다** → 읽아야 해요 or 읽어야 해요?
 3. What is the polite formal version of **아/어야 해요**?
+
 **Answers:**
 1. **공부해야 해요.**
 2. **읽어야 해요.**

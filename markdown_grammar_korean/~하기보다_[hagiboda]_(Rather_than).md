@@ -1,10 +1,9 @@
 Processing keyword: ~하기보다 [hagiboda] (Rather than)
 # Korean Grammar Point: ~하기보다 [hagiboda] (Rather than)
-# Lesson on Korean Grammar Point: **~하기보다** (Rather than)
 
----
 ## 1. Introduction
 The grammar point **~하기보다** is used to express preference between two actions or states in Korean. It translates to "rather than" in English and is commonly used to compare two options, indicating that one prefers the latter over the former.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

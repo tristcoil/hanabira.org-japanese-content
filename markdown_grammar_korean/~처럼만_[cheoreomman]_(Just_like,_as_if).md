@@ -1,6 +1,6 @@
 Processing keyword: ~처럼만 [cheoreomman] (Just like, as if)
 # Korean Grammar Point: ~처럼만 [cheoreomman] (Just like, as if)
-# ~처럼만 [cheoreomman] (Just Like, As If Only)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~처럼만 (cheoreomman)**, which translates to **"just like"** or **"only as if"**. This expression is used to make comparisons, emphasizing that something is exactly like something else, often with an exclusive or limiting nuance. Understanding **~처럼만** will enhance your ability to express detailed comparisons in Korean.
 
@@ -72,11 +72,13 @@ The addition of **만** narrows the focus, stressing that the action is limited 
    - *The issue was resolved just like a lie (as if by magic).*
 ### Politeness Levels
 - Adjust the verb endings for different levels of formality.
+
 | Politeness Level | Example Sentence                                  |
 |------------------|---------------------------------------------------|
 | Informal         | 너처럼만 노래하고 싶어.                     |
 | Polite           | 당신처럼만 노래하고 싶어요.                  |
 | Formal           | 선생님처럼만 노래하고 싶습니다.             |
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

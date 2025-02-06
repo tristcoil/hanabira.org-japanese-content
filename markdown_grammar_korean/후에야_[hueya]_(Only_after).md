@@ -1,10 +1,9 @@
 Processing keyword: 후에야 [hueya] (Only after)
 # Korean Grammar Point: 후에야 [hueya] (Only after)
-# 후에야 [hueya] (Only After)
 
----
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **`후에야`** which translates to **"only after"** in English. This expression emphasizes that a certain action or state in the main clause can occur **only after** the completion of another action or condition mentioned in the preceding clause.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

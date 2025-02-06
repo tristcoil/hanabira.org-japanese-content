@@ -1,6 +1,6 @@
 Processing keyword: 너무 [neomu] (Too, very)
 # Korean Grammar Point: 너무 [neomu] (Too, very)
-# 너무 (neomu) - Too, Very
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean adverb **너무 (neomu)**, which translates to "too" or "very" in English. It's a versatile word used to express intensity or excessiveness. Mastering **너무** will enhance your ability to describe situations, feelings, and actions more vividly in Korean.
 

@@ -1,10 +1,11 @@
 Processing keyword: ~했어야 했다 [haesseoya haetda] (Had to)
 # Korean Grammar Point: ~했어야 했다 [haesseoya haetda] (Had to)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, expressing regret or acknowledgment of something that **should have been done** but wasn't requires specific grammatical constructions. One such construction is **~했어야 했다 [haesseoya haetda]**, which translates to "**I should have...**" or "**You should have...**" in English. This grammar point is essential for conveying a sense of hindsight and responsibility in past actions.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The grammar **~했어야 했다** is used to express **regret** or **lament** about an action that **should have been done** in the past but **wasn't**. It reflects the speaker's realization that performing the action would have led to a better outcome.
 - **English Equivalent**: "Should have done", "Ought to have done"
@@ -24,7 +25,7 @@ To form **~했어야 했다**, combine the verb stem with the appropriate ending
 | Other stems        | -었어야 했다      | 먹다 (to eat)  | 먹었어야 했다       |
 | 하다 verbs         | 했어야 했다       | 공부하다 (to study) | 공부했어야 했다 |
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### **~해야 했다** vs **~했어야 했다**
 - **~해야 했다**: Indicates an obligation or necessity in the past. *"I had to..."*
   - **Example**: 숙제를 해야 했다. (I had to do homework.)
@@ -32,7 +33,7 @@ To form **~했어야 했다**, combine the verb stem with the appropriate ending
   - **Example**: 숙제를 했어야 했다. (I should have done homework.)
 **Key Difference**: **~해야 했다** conveys that the action was completed out of necessity, whereas **~했어야 했다** indicates the action was **not** completed, and the speaker regrets it.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Speech
 1. 시간을 더 효율적으로 사용했어야 했습니다.
    - *I should have used my time more efficiently.*
@@ -54,7 +55,7 @@ To form **~했어야 했다**, combine the verb stem with the appropriate ending
 2. 그렇게 말하면 안 됐어. 미안하다고 했어야 했어.
    - *You shouldn't have said that. You should have apologized.*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, expressing regret or acknowledging a mistake is important for maintaining harmony and showing respect. Using **~했어야 했다** appropriately demonstrates humility and responsibility.
 ## Levels of Politeness and Formality
@@ -66,7 +67,7 @@ Choosing the correct level of formality is crucial, especially in hierarchical r
 - **알았으면 갔어야 했다**: *If I had known, I should have gone.*
 - **믿었어야 했다**: *I should have trusted (you).*
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 ### Mistake 1: Confusing **~해야 했다** with **~했어야 했다**
 - **Incorrect**: 숙제를 해야 했다. (Intending to say "I should have done homework.")
@@ -79,7 +80,7 @@ Choosing the correct level of formality is crucial, especially in hierarchical r
 - **Practice Conjugation**: Regularly practice verb conjugations with various verbs to become familiar with patterns.
 - **Contextual Learning**: Use example sentences in different contexts to understand nuances.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~했어야 했다** is used to express regret about an action that was **not done** but **should have been done**.
 - It conveys a sense of hindsight and responsibility.

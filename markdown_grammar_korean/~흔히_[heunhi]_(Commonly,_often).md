@@ -1,6 +1,6 @@
 Processing keyword: ~흔히 [heunhi] (Commonly, often)
 # Korean Grammar Point: ~흔히 [heunhi] (Commonly, often)
-# Grammar Point: ~흔히 [heunhi] (Commonly, Often)
+
 ## 1. Introduction
 In this lesson, we'll explore the adverb **흔히 (heunhi)**, which translates to **"commonly"** or **"often"** in English. Understanding how to use **흔히** will help you describe actions or situations that frequently occur in everyday life.
 
@@ -104,6 +104,7 @@ Understanding how **흔히** differs from similar adverbs will help you choose t
 - It is neutral and fits both formal and informal contexts.
 - Distinct from **자주** (focuses on frequency) and **보통** (focuses on normalcy).
 ### Quick Recap Quiz
+
 #### 1. Fill in the Blank
 **사람들은 아침에 커피를 ____ 마십니다.**
 - *People ____ drink coffee in the morning.*
@@ -113,6 +114,7 @@ Understanding how **흔히** differs from similar adverbs will help you choose t
 **사람들은 아침에 커피를 **흔히** 마십니다.**
 *People commonly drink coffee in the morning.*
 </details>
+
 #### 2. True or False
 **흔히** can be used interchangeably with **자주** without any change in meaning.
 <details>
@@ -120,6 +122,7 @@ Understanding how **흔히** differs from similar adverbs will help you choose t
 False.
 While both can mean "often," **흔히** emphasizes commonality or typical occurrences, whereas **자주** emphasizes frequency without implying that the action is typical among many people.
 </details>
+
 #### 3. Choose the Correct Sentence Using **흔히**
 a) **그 식당은 흔히 사람들이 붐빈다.**
 b) **그녀는 흔히 새로운 곳을 여행한다.**
@@ -130,6 +133,7 @@ Both sentences are correct.
 - b) She often travels to new places.
 However, sentence a) better reflects commonality among people, aligning closely with the typical use of **흔히**.
 </details>
+
 ---
 By mastering **흔히**, you can more accurately describe frequent or widespread actions and enhance the naturalness of your Korean speaking and writing. Remember to pay attention to the nuances that differentiate **흔히** from other similar adverbs.
 

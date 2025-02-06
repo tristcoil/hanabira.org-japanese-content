@@ -1,6 +1,6 @@
 Processing keyword: ~하기는 [hagineun] (Although, but)
 # Korean Grammar Point: ~하기는 [hagineun] (Although, but)
-# Understanding the Korean Grammar Point: ~하기는 (hagineun)
+
 ## 1. Introduction
 The grammar point **~하기는 (hagineun)** is used in Korean to express a contrast or partial agreement, similar to "although" or "but" in English. It acknowledges a point while introducing a differing or opposing idea.
 
@@ -51,6 +51,7 @@ The expression **~하기는** is derived from the verb stem followed by **-기**
 ## 5. Cultural Notes
 ### Levels of Politeness
 In Korean, expressing contrast or concession respectfully is important, especially in formal situations. Using **~하기는** allows speakers to acknowledge a point before gently introducing a differing opinion, which aligns with the cultural value of maintaining harmony.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

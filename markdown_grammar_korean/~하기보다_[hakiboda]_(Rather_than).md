@@ -1,6 +1,6 @@
 Processing keyword: ~하기보다 [hakiboda] (Rather than)
 # Korean Grammar Point: ~하기보다 [hakiboda] (Rather than)
-# Understanding the Korean Grammar Point: ~하기보다 (Rather Than)
+
 ## 1. Introduction
 In Korean, expressing preferences or making comparisons between actions is a fundamental aspect of communication. The grammar point **~하기보다** allows speakers to compare two actions, indicating that one is preferred over the other. This structure is essential for conveying choices and preferences in everyday conversations.
 
@@ -119,9 +119,8 @@ These expressions emphasize action over words or thoughts, reflecting the value 
 3. **Error**: Added past tense **-었** before **-기보다**.
    - **Correct Sentence**: **출발하기보다 기다릴게요.**
 ---
-## Conclusion
+
 Understanding and using **~하기보다** allows you to express preferences and make choices naturally in Korean. By incorporating this grammar point into your speech, you can communicate more effectively and politely in various situations.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

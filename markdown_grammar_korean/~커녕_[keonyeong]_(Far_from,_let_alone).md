@@ -1,6 +1,6 @@
 Processing keyword: ~커녕 [keonyeong] (Far from, let alone)
 # Korean Grammar Point: ~커녕 [keonyeong] (Far from, let alone)
-# ~커녕 [keonyeong] (Far from, Let Alone)
+
 ## 1. Introduction
 In Korean, expressing contrast or emphasizing the impossibility of something is often necessary in conversations. The grammar point **~커녕** is used to highlight that something is far from happening or to emphasize that not even the most basic expectation was met, let alone something more significant. This lesson will delve into the usage of **~커녕**, helping you understand its formation, meaning, and application in various contexts.
 

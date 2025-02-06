@@ -1,6 +1,6 @@
 Processing keyword: ~하기까지 [hagikkaji] (Even)
 # Korean Grammar Point: ~하기까지 [hagikkaji] (Even)
-# ~하기까지 [hagikkaji] (Even to the extent of doing)
+
 ## 1. Introduction
 In Korean, expressing the extent or degree to which an action is taken can add depth and emphasis to your sentences. The grammar point **~하기까지** (*hagikkaji*) is used to convey that someone goes so far as to do something, highlighting an extreme or unexpected action. It's similar to saying "even to the extent of doing" in English.
 

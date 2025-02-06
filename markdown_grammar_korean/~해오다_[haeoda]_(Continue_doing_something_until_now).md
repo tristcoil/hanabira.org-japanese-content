@@ -1,6 +1,6 @@
 Processing keyword: ~해오다 [haeoda] (Continue doing something until now)
 # Korean Grammar Point: ~해오다 [haeoda] (Continue doing something until now)
-# Grammar Point: ~해오다 [haeoda] (Continue doing something until now)
+
 ## 1. Introduction
 The Korean grammar pattern **~해오다** is used to express an action that started in the past and has continued up to the present moment. It emphasizes the continuity and ongoing nature of an activity or state.
 

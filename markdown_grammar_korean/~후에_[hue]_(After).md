@@ -1,6 +1,6 @@
 Processing keyword: ~후에 [hue] (After)
 # Korean Grammar Point: ~후에 [hue] (After)
-# ~후에 [hu-e] (After)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~후에**, which is used to express the meaning of "after" doing something. This structure is essential for talking about sequences of events and is commonly used in everyday Korean conversation.
 

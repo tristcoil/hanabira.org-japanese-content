@@ -1,6 +1,6 @@
 Processing keyword: ~할 텐데 [hal tende] (Probably will)
 # Korean Grammar Point: ~할 텐데 [hal tende] (Probably will)
-# ~할 텐데 [hal tende] (Probably will)
+
 ## 1. Introduction
 In Korean, the grammar point **~할 텐데** is used to express a strong assumption or expectation about a future event. It conveys the speaker's belief that something will probably happen or is likely to be true. Understanding **~할 텐데** is essential for expressing expectations and making assumptions in Korean.
 

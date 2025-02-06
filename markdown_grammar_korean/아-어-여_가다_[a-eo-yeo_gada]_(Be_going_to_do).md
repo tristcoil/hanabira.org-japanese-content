@@ -1,6 +1,6 @@
 Processing keyword: 아/어/여 가다 [a/eo/yeo gada] (Be going to do)
 # Korean Grammar Point: 아/어/여 가다 [a/eo/yeo gada] (Be going to do)
-# Korean Grammar Lesson: 아/어/여 가다 [a/eo/yeo gada] (Be going to do)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **아/어/여 가다**, which is used to express the continuation or progression of an action into the future. This construction allows you to describe actions that are ongoing and will continue moving forward.
 
@@ -111,7 +111,7 @@ The structure of **아/어/여 가다** is formed by attaching **-아/어/여** 
    - *Answer*: 공부해 가다 (Because **하다** verbs use **-여**, which becomes **-해**)
 ---
 By mastering **아/어/여 가다**, you'll enhance your ability to express ongoing actions and speak more naturally in Korean. Keep practicing by creating your own sentences using this grammar point!
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

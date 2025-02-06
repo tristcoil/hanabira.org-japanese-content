@@ -1,6 +1,6 @@
 Processing keyword: ~하는 편이다 [haneun pyeonida] (Tend to do)
 # Korean Grammar Point: ~하는 편이다 [haneun pyeonida] (Tend to do)
-# Grammar Lesson: ~하는 편이다 [haneun pyeonida] (Tend to do)
+
 ## 1. Introduction
 In Korean, expressing tendencies or general characteristics about oneself or others is common in daily conversations. The grammar point **~하는 편이다** allows speakers to indicate that someone **tends to do** something or is **rather** a certain way. This structure adds nuance to statements, making them less absolute and more approximate.
 

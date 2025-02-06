@@ -1,10 +1,11 @@
 Processing keyword: 을/를 [eul/reul] (Object markers)
 # Korean Grammar Point: 을/를 [eul/reul] (Object markers)
-# 1. Introduction
+
+## 1. Introduction
 In the Korean language, particles are essential components that provide grammatical context to sentences. One such crucial set of particles is the object markers **을/를 [eul/reul]**. These particles indicate the direct object—the noun that receives the action of the verb. Understanding how to use **을/를** correctly is fundamental for constructing precise and natural-sounding sentences in Korean.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 The object markers **을 [eul]** and **를 [reul]** are attached to nouns to signify that they are the direct object of a verb. The choice between **을** and **를** depends on whether the noun ends with a consonant or a vowel:
 - **을 [eul]** is used after nouns ending with a **consonant**.
@@ -18,7 +19,7 @@ The object markers **을 [eul]** and **를 [reul]** are attached to nouns to sig
 | Consonant   | 을 [eul]      | 책 (book)    | 책**을**          | 책을             |
 | Vowel       | 를 [reul]     | 사과 (apple) | 사과**를**        | 사과를           |
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## Comparison with Other Particles
 ### Subject Particles: **이/가**
 - **이 [i]** is used after nouns ending with a consonant.
@@ -37,7 +38,7 @@ The object markers **을 [eul]** and **를 [reul]** are attached to nouns to sig
 - **이/가** mark the **subject**.
 - **은/는** indicate the **topic** or provide contrast.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Formal Polite Speech
 1. 저는 한국어**를** 공부합니다.
    - _I study Korean._
@@ -59,7 +60,7 @@ The object markers **을 [eul]** and **를 [reul]** are attached to nouns to sig
 2. 아이스크림**을** 좋아해요.
    - _I like ice cream._
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Levels of Politeness and Formality
 Korean language has different speech levels to indicate formality and respect. The use of **을/를** remains consistent across these levels, but the verb endings change:
 - **Formal Polite:** 합니다, 먹습니다
@@ -75,7 +76,7 @@ Korean language has different speech levels to indicate formality and respect. T
 2. 기분**을** 풀다
    - _To relieve one's feelings._
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Forgetting to Use Object Markers:**
   Omitting **을/를** can lead to confusion, as the sentence might lose clarity about the object of the action.
@@ -95,7 +96,7 @@ Korean language has different speech levels to indicate formality and respect. T
 - **Practice with Common Nouns:**
   Make a list of nouns and practice attaching **을/를** based on their ending.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **을/를** are object markers used to indicate the direct object in a sentence.
 - Use **을 [eul]** after nouns ending with a consonant.
@@ -115,10 +116,9 @@ Korean language has different speech levels to indicate formality and respect. T
 3. **False**
    - Omitting **을/를** might lead to confusion, especially in complex sentences.
 ---
-# Conclusion
+### Conclusion
 Mastering the use of **을/를** is a significant step toward fluency in Korean. Regular practice and application of these object markers will enhance your ability to communicate clearly and effectively in various contexts.
 Feel free to revisit this guide and practice with different nouns and verbs to solidify your understanding.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

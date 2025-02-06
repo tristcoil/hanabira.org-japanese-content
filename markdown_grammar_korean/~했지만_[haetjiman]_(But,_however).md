@@ -1,6 +1,6 @@
 Processing keyword: ~했지만 [haetjiman] (But, however)
 # Korean Grammar Point: ~했지만 [haetjiman] (But, however)
-# Grammar Point: ~했지만 [haetjiman] (But, However)
+
 ## 1. Introduction
 In Korean, expressing contrast between two statements is essential for clear communication. The grammar point **~했지만** allows you to connect two clauses where the first clause is in the past tense, and there is a contrasting relationship with the second clause. It translates to "but" or "however" in English.
 
@@ -27,11 +27,13 @@ Let's break it down:
 3. **Add 지만**:
    - Combine to form **았지만**/**었지만**/**했지만**.
 **Example**:
+
 | Dictionary Form | Verb Stem | Past Tense Ending | + 지만 | Combined Form |
 |-----------------|-----------|-------------------|--------|---------------|
 | 먹다 (to eat)     | 먹        | 먹었            | 지만    | 먹었지만      |
 | 가다 (to go)     | 가        | 갔              | 지만    | 갔지만        |
 | 하다 (to do)     | 하        | 했              | 지만    | 했지만        |
+
 ---
 ## 3. Comparative Analysis
 **Comparison with Similar Grammar Points**:

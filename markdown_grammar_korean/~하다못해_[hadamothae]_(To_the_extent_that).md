@@ -1,6 +1,6 @@
 Processing keyword: ~하다못해 [hadamothae] (To the extent that)
 # Korean Grammar Point: ~하다못해 [hadamothae] (To the extent that)
-# ~하다못해 (~hada mot hae) - "To the Extent That"
+
 ## 1. Introduction
 In this lesson, we will explore the Korean grammar point **~하다못해** (*~hada mot hae*), which translates to **"to the extent that"**, **"to the point where one cannot even..."**, or **"so much that..."** in English. This expression is used to convey that an action or state has reached an extreme limit, often leading to an alternative action or outcome. It's a way to emphasize the intensity or extremity of a situation.
 
@@ -94,11 +94,12 @@ The use of **~하다못해** itself is neutral, but the overall formality depend
 1. What does **~하다못해** express in a sentence?
 2. How do you properly attach **~하다못해** to a verb?
 3. Create a sentence using **~하다못해** in a formal context.
+
 **Answers:**
 1. It expresses that an action has been done to such an extent that it leads to an extreme result or new action.
 2. Remove **-다** from the verb to get the stem and attach **하다못해** (e.g., **기다리다** → **기다리** + **하다못해**).
 3. **그는 일하다못해 지쳤습니다.** *(He worked to the extent that he became exhausted.)*
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

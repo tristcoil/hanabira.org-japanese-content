@@ -1,10 +1,9 @@
 Processing keyword: ~하게 되다 [hage dweda] (End up doing)
 # Korean Grammar Point: ~하게 되다 [hage dweda] (End up doing)
-# TOPIK Grammar Lesson: **~하게 되다** [hage doeda] (End up Doing)
 
----
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~하게 되다** [hage doeda], which is used to express an unplanned or unintended action or change of state. It often translates to "end up doing" or "come to do" in English. Understanding this grammar structure will help you convey changes or developments that happen unintentionally or inevitably.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -115,7 +114,6 @@ The formation of **~하게 되다** is straightforward:
    *Answer*: The sentence uses **하게 했어요**, meaning "I made (someone) learn Korean." It should be **배우게 됐어요**.
 ---
 By mastering **~하게 되다**, you'll enhance your ability to describe unplanned actions and changes, making your Korean sound more natural and expressive.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

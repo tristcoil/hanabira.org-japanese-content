@@ -1,6 +1,6 @@
 Processing keyword: ~할지라도 [haljirado] (Even if)
 # Korean Grammar Point: ~할지라도 [haljirado] (Even if)
-# Korean Grammar Lesson: ~할지라도 [haljirado] (Even if)
+
 ## 1. Introduction
 In this lesson, we will explore the Korean grammar point **~할지라도** [haljirado], which is used to express "even if" or "even though" in Korean. This structure allows speakers to discuss hypothetical situations or express contrast between two clauses. By mastering **~할지라도**, you'll enhance your ability to convey complex ideas and nuances in Korean.
 
@@ -102,7 +102,6 @@ In Korean culture, perseverance and dedication are highly valued traits. The use
    **Answer:** **~할지라도** is more formal and emphatic, often used in hypothetical or strongly contrasting situations; **~아/어도** is more common in everyday speech and less formal.
 ---
 By incorporating **~할지라도** into your Korean language usage, you'll be able to express complex contrasts and hypothetical situations more effectively. Keep practicing to become more comfortable with this grammar point!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

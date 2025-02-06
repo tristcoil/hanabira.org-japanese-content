@@ -1,6 +1,6 @@
 Processing keyword: ~할지언정 [haljieonjeong] (Whether ... or)
 # Korean Grammar Point: ~할지언정 [haljieonjeong] (Whether ... or)
-# **~할지언정 [haljieonjeong] (Even if, Rather than)**
+
 ## 1. Introduction
 In this lesson, we'll delve into the Korean grammar point **~할지언정** (*~haljieonjeong*). This expression is used to convey a strong contrast or concession, emphasizing determination or a preference for one action over an undesirable alternative. It translates to **"even if," "rather than,"** or **"I would sooner [do A] than [do B]"** in English.
 
@@ -92,7 +92,6 @@ In Korean culture, expressions of determination and steadfastness are highly val
    *Even if I become hungry, I will stay here.*
 ---
 By understanding and practicing **~할지언정**, you can express strong determination and nuanced concessions in Korean, adding depth to your language skills.
-# **Happy Studying!**
 
 ---
 © [Hanabira.org](https://hanabira.org)

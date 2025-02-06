@@ -1,10 +1,11 @@
 Processing keyword: ~하기만 하면 [hakiman hamyeon] (As long as)
 # Korean Grammar Point: ~하기만 하면 [hakiman hamyeon] (As long as)
-# 1. Introduction
+
+## 1. Introduction
 Welcome to today's lesson on the Korean grammar point **~하기만 하면** (*hakiman hamyeon*), which translates to **"as long as"** in English. This expression is used to indicate that if a certain action is performed or a condition is met, then a specific result will follow. Mastering this grammar point will enhance your ability to express conditions and expectations in Korean.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 **~하기만 하면** is used to express **"as long as (one) does..."** or **"if only (one) does..."**. It emphasizes that a particular action or condition is sufficient for a certain result to occur.
 ## Structure
@@ -26,7 +27,7 @@ The construction involves adding **~기만 하면** to the verb stem.
 | 보다 (to see)| 보         | 기만 하면       | **보기만 하면**       |
 | 일하다 (to work)| 일하    | 기만 하면       | **일하기만 하면**     |
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 - **~기만 하면** vs. **~(으)면**:
   - **~(으)면** simply means **"if"** or **"when"** and is used for general conditional statements.
   - **~기만 하면** emphasizes that **only** the specified action is needed for the result to occur.
@@ -37,7 +38,7 @@ The construction involves adding **~기만 하면** to the verb stem.
   - *As long as you make an effort, you will succeed.*
 The second sentence stresses that making an effort is the sole requirement for success.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Sentence Examples
 1. **문을 열기만 하면 돼요.**
    - *As long as you open the door, it's fine.*
@@ -50,7 +51,7 @@ The second sentence stresses that making an effort is the sole requirement for s
 5. **연습하기만 하면 실력이 늘어요.**
    - *As long as you practice, your skills improve.*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, diligence and meeting conditions are highly valued. Expressions like **~하기만 하면** reflect the belief that fulfilling certain key actions leads to desired outcomes. It underscores the importance of effort and responsibility.
 ## Idiomatic Expressions
@@ -61,7 +62,7 @@ In Korean culture, diligence and meeting conditions are highly valued. Expressio
   - *He/She sleeps as soon as eating.*
   - Implies that eating inevitably leads to sleeping.
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Incorrect Placement of **만****:
   - **Incorrect**: **하만기 하면**
@@ -79,7 +80,7 @@ In Korean culture, diligence and meeting conditions are highly valued. Expressio
   - **듣다** (to listen) → **듣기만 하면**
     - *As long as you listen...*
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~하기만 하면** means **"as long as (one) does..."**.
 - It emphasizes that only the specified action is necessary for the result.

@@ -1,6 +1,6 @@
 Processing keyword: 아/어/여야겠다 [a/eo/yeoya getda] (Should, must)
 # Korean Grammar Point: 아/어/여야겠다 [a/eo/yeoya getda] (Should, must)
-# 아/어/여야겠다 [a/eo/yeoya getda] (Should, Must)
+
 ## 1. Introduction
 In learning Korean, expressing necessity or obligation is essential for everyday conversations. The grammar point **아/어/여야겠다** is commonly used to indicate that you **should** or **must** do something. It reflects a personal determination or realization about an action that needs to be taken.
 

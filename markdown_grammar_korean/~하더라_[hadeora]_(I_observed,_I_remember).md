@@ -1,6 +1,6 @@
 Processing keyword: ~하더라 [hadeora] (I observed, I remember)
 # Korean Grammar Point: ~하더라 [hadeora] (I observed, I remember)
-# 하더라 [hadeora] (I observed, I remember)
+
 ## 1. Introduction
 In Korean, the grammar ending **~하더라 [hadeora]** is used to express the speaker's firsthand experience or observation of something that happened in the past. It conveys that the speaker witnessed or realized something and wants to share that information, often with a sense of surprise or discovery.
 

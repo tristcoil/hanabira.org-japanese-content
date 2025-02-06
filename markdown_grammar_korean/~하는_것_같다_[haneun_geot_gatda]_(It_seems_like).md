@@ -1,6 +1,6 @@
 Processing keyword: ~하는 것 같다 [haneun geot gatda] (It seems like)
 # Korean Grammar Point: ~하는 것 같다 [haneun geot gatda] (It seems like)
-# ~하는 것 같다 [haneun geot gatda] (It seems like)
+
 ## 1. Introduction
 In Korean, expressing assumptions, guesses, or making inferences about situations is common in everyday conversation. The grammar pattern **~하는 것 같다 [haneun geot gatda]**, meaning **"it seems like"** or **"I think that"**, is frequently used to convey these nuances.
 

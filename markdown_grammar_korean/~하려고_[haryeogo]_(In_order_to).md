@@ -1,6 +1,6 @@
 Processing keyword: ~하려고 [haryeogo] (In order to)
 # Korean Grammar Point: ~하려고 [haryeogo] (In order to)
-# ~하려고 [haryeogo] (In order to)
+
 ## 1. Introduction
 Expressing intention or purpose is essential in any language. In Korean, one common way to convey the purpose of an action is by using the grammar point "~하려고" (haryeogo), which translates to "in order to" or "with the intention of." This lesson will guide you through the usage of "~하려고," helping you construct sentences that express intention naturally and accurately.
 
@@ -139,7 +139,6 @@ Understanding "~하려고" can help grasp the nuances of expressing intentions p
    *(Use "~(으)러" with motion verbs in commands.)*
 ---
 By mastering "~하려고," you'll be able to express intentions and purposes clearly, enhancing your ability to communicate more naturally in Korean. Keep practicing by forming your own sentences, and soon this grammar point will become second nature!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

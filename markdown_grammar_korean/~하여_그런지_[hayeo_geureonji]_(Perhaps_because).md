@@ -1,6 +1,6 @@
 Processing keyword: ~하여 그런지 [hayeo geureonji] (Perhaps because)
 # Korean Grammar Point: ~하여 그런지 [hayeo geureonji] (Perhaps because)
-# Korean Grammar Lesson: ~하여 그런지 [hayeo geureonji] (Perhaps because)
+
 ## 1. Introduction
 In this lesson, we'll delve into the Korean grammar point **~하여 그런지** (*hayeo geureonji*), which translates to **"Perhaps because..."**. This expression is used to speculate about the possible reason for a situation or outcome, often in a formal or written context.
 
@@ -68,6 +68,7 @@ Where:
 - Being overly formal in casual settings can create distance or seem awkward.
 ### Idiomatic Expressions
 While **~하여 그런지** itself is a grammatical structure, it appears in some idiomatic expressions in literature and formal writing to convey a reflective or speculative tone.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

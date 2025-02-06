@@ -1,10 +1,9 @@
 Processing keyword: ~테니까 [tenikka] (Because)
 # Korean Grammar Point: ~테니까 [tenikka] (Because)
-# Korean Grammar Lesson: **~테니까** [tenikka] (Because)
 
----
 ## 1. Introduction
 In Korean, expressing reasons or causes is essential for effective communication. The grammar point **~테니까** is used to convey a reason or cause, often based on the speaker's assumption or future intention. Understanding how to use **~테니까** will enhance your ability to construct more nuanced sentences in Korean.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning and Usage
@@ -12,12 +11,14 @@ In Korean, expressing reasons or causes is essential for effective communication
 ### Structure
 The structure of **~테니까** varies slightly depending on whether the verb stem ends with a vowel or a consonant.
 #### Formation Diagram
+
 | Verb/Adjective Stem Type | Formation            | Example Verb | Conjugated Form |
 |--------------------------|----------------------|--------------|-----------------|
 | **Action Verbs**         | Stem + **-ㄹ 테니까** | 살다 (to live)  | 살**ㄹ 테니까**   |
 | **Action Verbs**         | Stem + **-을 테니까** | 먹다 (to eat)   | 먹**을 테니까**  |
 | **Adjectives**           | Stem + **-ㄹ 테니까** | 빠르다 (to be fast) | 빠르**ㄹ 테니까** |
 | **Verbs Ending in ㄹ**   | Stem + **-테니까**    | 길다 (to be long) | 기**ㄹ** + 테니까 → 기**ㄹ 테니까** |
+
 ### Detailed Formation Rules
 1. **For verb/adjective stems ending with a vowel:**
    - Add **-ㄹ 테니까** directly to the stem.
@@ -29,8 +30,7 @@ The structure of **~테니까** varies slightly depending on whether the verb st
    - Simply add **-테니까** since ㄹ is dropped in certain conjugations.
    - *Example:* 살다 (to live) → 살**테니까**
 ### Visual Aid: Formation Flowchart
-```mermaid
-graph LR
+```
 A[Verb/Adjective Stem] --> B{Ends with Vowel?}
 B -- Yes --> C[Add -ㄹ 테니까]
 B -- No --> D{Ends with ㄹ?}

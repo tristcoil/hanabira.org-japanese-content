@@ -1,6 +1,6 @@
 Processing keyword: 아/어/여 주다 [a/eo/yeo juda] (To do for someone)
 # Korean Grammar Point: 아/어/여 주다 [a/eo/yeo juda] (To do for someone)
-# 아/어/여 주다 [a/eo/yeo juda] (To do something for someone)
+
 ## 1. Introduction
 The grammar point **아/어/여 주다** is a fundamental structure in Korean that expresses performing an action **for the benefit of someone else**. It reflects the courteous and considerate aspects of Korean culture, emphasizing social harmony and respect.
 

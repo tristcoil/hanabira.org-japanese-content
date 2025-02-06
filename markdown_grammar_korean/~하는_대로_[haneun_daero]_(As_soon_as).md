@@ -1,6 +1,6 @@
 Processing keyword: ~하는 대로 [haneun daero] (As soon as)
 # Korean Grammar Point: ~하는 대로 [haneun daero] (As soon as)
-# Lesson on ~하는 대로 [haneun daero] (As soon as)
+
 ## 1. Introduction
 In Korean, expressing the timing of actions is essential for clear communication. One commonly used grammar point for indicating that one action occurs immediately after another is **~하는 대로 [haneun daero]**, which translates to **"as soon as"** in English. This lesson will delve into the usage of **~하는 대로**, explain its formation, compare it with similar expressions, and provide practical examples to enhance your understanding.
 

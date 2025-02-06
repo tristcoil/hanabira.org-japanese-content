@@ -1,6 +1,6 @@
 Processing keyword: ~하구나 [haguna] (Oh, so it's)
 # Korean Grammar Point: ~하구나 [haguna] (Oh, so it's)
-# ~하구나 [haguna] (Oh, so it's)
+
 ## 1. Introduction
 In Korean, expressing sudden realization or exclamation is often done through specific sentence endings. One such ending is **~구나**, which is attached to verbs and adjectives to convey a newfound understanding or surprise. In this lesson, we'll explore the usage of **~하구나 [haguna]**, understand its formation, and see it in action through various examples.
 
@@ -17,11 +17,13 @@ The grammar point **~하구나** is used to express a sudden realization, surpri
 2. **Adjective Stem + 구나**
 3. **Copula 이다 (to be) + 구나**
 Here's how you form it:
+
 | Type                | Stem             | Add       | Result          |
 |---------------------|------------------|-----------|-----------------|
 | Verb                | 먹 (from 먹다)    | 구나      | 먹구나          |
 | Adjective           | 예쁘 (from 예쁘다) | 구나      | 예쁘구나        |
 | Noun + 이다 (to be) | 학생이 (from 학생이다) | 구나  | 학생이구나      |
+
 **Note**: For nouns, you include **이** from **이다** before adding **구나**.
 ### Conjugation Diagram
 ```markdown

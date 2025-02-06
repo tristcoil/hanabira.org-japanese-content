@@ -1,6 +1,6 @@
 Processing keyword: 아요/어요/여요 [ayo/eoyo/yeoyo] (Verb ending in present tense)
 # Korean Grammar Point: 아요/어요/여요 [ayo/eoyo/yeoyo] (Verb ending in present tense)
-# 아요/어요/여요 [-아요/-어요/-여요] (Present Tense Verb Endings)
+
 ## 1. Introduction
 In Korean, verbs are conjugated to indicate tense, mood, and politeness levels. The endings **-아요**, **-어요**, and **-여요** are used to form the polite present tense, which is essential for everyday conversations. Mastering these endings will help you communicate actions and states happening in the present time politely and effectively.
 

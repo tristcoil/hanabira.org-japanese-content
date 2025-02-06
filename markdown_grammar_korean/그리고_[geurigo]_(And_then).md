@@ -1,6 +1,6 @@
 Processing keyword: 그리고 [geurigo] (And then)
 # Korean Grammar Point: 그리고 [geurigo] (And then)
-# 그리고 (geurigo) - "And", "And then"
+
 ## 1. Introduction
 The conjunction **그리고** is commonly used in Korean to connect sentences, phrases, or nouns, similar to "and" or "and then" in English. It helps in linking ideas, actions, or events, making the speech or writing more cohesive.
 

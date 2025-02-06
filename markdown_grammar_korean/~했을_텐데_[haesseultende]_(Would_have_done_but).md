@@ -1,6 +1,6 @@
 Processing keyword: ~했을 텐데 [haesseultende] (Would have done but)
 # Korean Grammar Point: ~했을 텐데 [haesseultende] (Would have done but)
-# ~했을 텐데 [haesseultende] (Would have done but)
+
 ## 1. Introduction
 In Korean, expressing assumptions or regrets about past events is often done using specific grammar structures. One such structure is **~했을 텐데**, which conveys the meaning "would have done but" or expresses an assumption about what *would have happened* under different circumstances.
 This lesson will delve into the usage, formation, and nuances of **~했을 텐데**, helping you understand how to express past assumptions and regrets naturally in Korean.

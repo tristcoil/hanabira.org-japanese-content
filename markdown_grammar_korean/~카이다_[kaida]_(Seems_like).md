@@ -1,8 +1,9 @@
 Processing keyword: ~카이다 [kaida] (Seems like)
 # Korean Grammar Point: ~카이다 [kaida] (Seems like)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, understanding regional dialects, known as **사투리 (saturi)**, can enrich your comprehension of the language and culture. One such expression is **~카이다 [~kaida]**, commonly used in the Gyeongsang Province dialect, including Busan. The expression roughly translates to **"seems like"** or **"looks like"** in English.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 The suffix **~카이다** is attached to verbs and adjectives in the Gyeongsang dialect to express speculation or conjecture, similar to how **~ 같다** (*gatda*) is used in standard Korean.
 ### Meaning
@@ -19,13 +20,13 @@ The suffix **~카이다** is attached to verbs and adjectives in the Gyeongsang 
 Example:
 예쁘 (pretty) + 카이다 → 예쁘카이다 (seems pretty)
 ```
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 | Dialect (Gyeongsang) | Standard Korean | English Translation   |
 |----------------------|-----------------|-----------------------|
 | 예쁘**카이다**        | 예쁜 것 같다      | Seems to be pretty    |
 | 비가 오**카이다**     | 비가 올 것 같다   | It seems like it will rain |
 - **~카이다** corresponds to the standard Korean **~ 것 같다** (*~ geot gatda*).
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example Sentences
 1. **Informal Spoken**
    - **밥 맛있카이다.**
@@ -48,7 +49,7 @@ Example:
   - **왜 이렇게 조용하카이고?**
   - *Standard Korean*: 왜 이렇게 조용한 것 같지?
   - *Translation*: Why does it seem so quiet?
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Regional Dialects**: Korea has several dialects, each with unique expressions. The Gyeongsang dialect is known for its distinctive intonation and vocabulary.
 - **Usage**: Using dialects can convey familiarity and authenticity in conversations, especially in informal settings.
@@ -60,7 +61,7 @@ Example:
   - Translation: It seems really tough.
 - **시간이 없카이다.**
   - Translation: It looks like there's no time.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Mixing Dialect with Standard Korean**: Avoid combining dialect expressions with standard grammar forms incorrectly.
   - Incorrect: 예쁘**카이다** 것 같아요.
@@ -69,7 +70,7 @@ Example:
 ## Learning Strategies
 - **Mnemonic Device**: Think of **카이다** as a fusion of **같다** with a dialect twist.
 - **Practice Listening**: Exposure to regional dramas or conversations can help familiarize you with the usage.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~카이다 [~kaida]** is a Gyeongsang dialect expression meaning **"seems like"**.
 - It is attached directly to verb or adjective stems.

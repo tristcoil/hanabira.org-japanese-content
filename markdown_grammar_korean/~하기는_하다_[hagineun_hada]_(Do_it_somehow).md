@@ -1,10 +1,11 @@
 Processing keyword: ~하기는 하다 [hagineun hada] (Do it somehow)
 # Korean Grammar Point: ~하기는 하다 [hagineun hada] (Do it somehow)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, expressing nuances and subtle meanings often involves specific grammatical constructions. One such construction is **~하기는 하다** (*hagineun hada*), which is used to acknowledge an action or state, sometimes implying a contrast or reservation. This lesson will delve into the usage of **~하기는 하다**, exploring its meaning, formation, and practical applications.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The grammar point **~하기는 하다** is used to admit or acknowledge that an action occurs or a state exists, often with a hint of concession or reservation. It can be translated as "do indeed," "do (something), but...," or "I admit that..., however..."
 ## Structure
@@ -15,8 +16,7 @@ To form **~하기는 하다**, follow these steps:
 3. **Topic Marker**: Add **는** after **-기** to introduce the topic.
 4. **하다**: Conclude with **하다** (to do).
 ### Formation Diagram
-```mermaid
-graph LR
+```
 A[Verb Stem] --> B[-기]
 B --> C[-기는]
 C --> D[하다]
@@ -29,7 +29,7 @@ Verb Stem + -기 + 는 + 하다
 - **Acknowledgment with Reservation**: Indicates that while the action is done, there may be some limitations or contrasting circumstances.
 - **Emphasis**: Highlights that the action does occur, possibly contrary to expectations.
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### ~기는 하다 vs. ~기는 하지만
 - **~기는 하다**: Simply acknowledges the action with a possible implied contrast.
 - **~기는 하지만**: Explicitly states a contrast using **하지만** (but/however).
@@ -39,7 +39,7 @@ Verb Stem + -기 + 는 + 하다
 - **먹기는 했지만 배가 고프다.**  
   "I did eat, but I'm still hungry." (Explicit contrast)
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Formal Context
 1. **그 영화가 재미있기는 합니다.**  
    *Geu yeonghwaga jaemiitgineun hamnida.*  
@@ -66,7 +66,7 @@ Verb Stem + -기 + 는 + 하다
    *Geu chaegeul ilkgineun haetjiman ihaehaji mothaetda.*  
    "I did read the book, but I couldn't understand it."
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean communication, modesty and indirectness are valued. Using **~하기는 하다** allows speakers to acknowledge something while maintaining humility or expressing subtle reservations, aligning with cultural norms of modesty.
 ## Levels of Politeness
@@ -75,7 +75,7 @@ The construction can be adjusted for formality:
 - **Informal Polite**: **~하기는 해요**
 - **Casual**: **~하기는 해**
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Omitting the Nominalizer**: Forgetting **-기** results in grammatical errors.
   - Incorrect: **먹는 하다**
@@ -87,7 +87,7 @@ The construction can be adjusted for formality:
 - **Mnemonic Device**: Remember "Verb + **-기** (to make it a noun) + **는 하다** (do indeed)."
 - **Practice with Common Verbs**: Apply the structure to frequently used verbs to internalize the pattern.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~하기는 하다** is used to acknowledge an action with possible reservations.
 - Formed by **Verb Stem + -기 + 는 하다**.

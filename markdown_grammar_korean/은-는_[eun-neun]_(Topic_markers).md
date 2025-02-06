@@ -1,6 +1,6 @@
 Processing keyword: 은/는 [eun/neun] (Topic markers)
 # Korean Grammar Point: 은/는 [eun/neun] (Topic markers)
-# 은/는 [eun/neun] (Topic Markers) in Korean Grammar
+
 ## 1. Introduction
 In Korean, particles are essential components that attach to nouns to indicate their role in a sentence. The topic markers **은** and **는** are among the most fundamental particles. They help specify the topic of discussion, allowing speakers to emphasize or contrast subjects effectively.
 

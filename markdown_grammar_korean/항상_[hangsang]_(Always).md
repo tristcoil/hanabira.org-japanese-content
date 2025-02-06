@@ -1,10 +1,9 @@
 Processing keyword: 항상 [hangsang] (Always)
 # Korean Grammar Point: 항상 [hangsang] (Always)
-# Korean Grammar Lesson: **항상 [hangsang]** (Always)
 
----
 ## 1. Introduction
 In this lesson, we'll explore the adverb **항상 [hangsang]**, which means **"always"** in English. **항상** is commonly used in Korean to express actions or states that occur consistently or without exception. Understanding how to use **항상** will help you describe habitual actions and emphasize the continuity of events in your daily conversations.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning and Usage

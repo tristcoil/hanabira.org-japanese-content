@@ -1,6 +1,6 @@
 Processing keyword: 아/어/여 하다 [a/eo/yeo hada] (Do something)
 # Korean Grammar Point: 아/어/여 하다 [a/eo/yeo hada] (Do something)
-# Korean Grammar Lesson: 아/어/여 하다 [a/eo/yeo hada] (To Feel/Act)
+
 ## 1. Introduction
 Welcome to today's lesson on the Korean grammar point **아/어/여 하다**. This structure is essential for expressing feelings, emotions, and perceptions in Korean. By mastering this grammar point, you'll enhance your ability to describe not just states of being but also how someone exhibits or feels those emotions.
 

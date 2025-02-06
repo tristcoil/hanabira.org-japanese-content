@@ -1,6 +1,6 @@
 Processing keyword: ~해주다 [haejuda] (Do for someone)
 # Korean Grammar Point: ~해주다 [haejuda] (Do for someone)
-# ~해주다 [haejuda] (Do for someone)
+
 ## 1. Introduction
 In Korean, expressing actions done **for someone else's benefit** is essential for polite and considerate communication. The grammar point **~해주다** is used to indicate that you are performing an action **for someone**. Mastering this structure will enhance your ability to show kindness, make requests, and offer assistance in Korean.
 

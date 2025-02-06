@@ -1,6 +1,6 @@
 Processing keyword: ~하는 한 [haneun han] (As long as)
 # Korean Grammar Point: ~하는 한 [haneun han] (As long as)
-# Understanding the Korean Grammar Point: ~하는 한 (As long as)
+
 ## 1. Introduction
 In Korean, expressing conditions or limitations is essential for conveying precise meanings in conversations and writing. The grammar point **~하는 한** (_haneun han_) translates to **"as long as"** in English. It is used to indicate that a particular action or state will persist only if a certain condition is met.
 
@@ -108,7 +108,6 @@ In Korean culture, conditions and social expectations are significant. Using **~
      - *Translation:* As long as you cooperate, all problems will be solved.
 ---
 By mastering **~하는 한**, you enhance your ability to express conditions and dependencies in Korean, making your language use more nuanced and natural.
-# 끝
 
 ---
 © [Hanabira.org](https://hanabira.org)

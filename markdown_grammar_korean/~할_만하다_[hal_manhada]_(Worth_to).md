@@ -1,10 +1,9 @@
 Processing keyword: ~할 만하다 [hal manhada] (Worth to)
 # Korean Grammar Point: ~할 만하다 [hal manhada] (Worth to)
-# Grammar Point: ~할 만하다 [hal manhada] (Worth Doing)
 
----
 ## 1. Introduction
 The Korean expression **~할 만하다** is used to indicate that something is **worth doing**, **deserves to be done**, or is **good enough to merit an action**. It's a versatile grammar point that helps speakers evaluate and recommend experiences, objects, or actions based on their worthiness.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning and Usage
@@ -142,8 +141,7 @@ To form **~할 만하다**, attach **~ㄹ/을 만하다** to the **verb stem** o
 3. **Translate into Korean using ~할 만하다:**
    - "The problem is difficult, but it's worth solving."
    - **Answer**: 문제가 어렵지만 해결할 만해요.
----
-By mastering **~할 만하다**, you enhance your ability to **recommend** and **evaluate** experiences in Korean, adding subtlety and depth to your conversations.
+
 ---
 **Practice Challenge**
 - Create sentences using **~할 만하다** with the following verbs:

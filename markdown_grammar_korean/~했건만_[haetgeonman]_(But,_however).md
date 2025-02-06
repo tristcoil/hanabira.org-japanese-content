@@ -1,6 +1,6 @@
 Processing keyword: ~했건만 [haetgeonman] (But, however)
 # Korean Grammar Point: ~했건만 [haetgeonman] (But, however)
-# Understanding the Korean Grammar Point: ~했건만 [haetgeonman] (But, However)
+
 ## 1. Introduction
 In Korean, expressing contrast or unexpected results is a common grammatical function. The suffix **~했건만** (*~haetgeonman*) is one such connector that conveys a sense of **"but," "however,"** or **"even though"** in the past tense. This grammar point is used to show that despite a certain action or circumstance, the result was different from what was expected.
 

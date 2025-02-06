@@ -1,8 +1,10 @@
 Processing keyword: 한테/에게 [hante/ege] (To someone)
 # Korean Grammar Point: 한테/에게 [hante/ege] (To someone)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, expressing the direction of an action toward a person is essential for clear communication. The particles **한테** (hante) and **에게** (ege) are commonly used to indicate "to someone" or "from someone." These particles are attached to nouns to show that an action is being done to or from a person. Understanding their usage is crucial for constructing natural and grammatically correct sentences in Korean.
-# 2. Core Grammar Explanation
+
+## 2. Core Grammar Explanation
 ## Meaning and Usage
 - **한테** (hante): Used mainly in **spoken and informal contexts** to indicate "to someone" or "from someone."
 - **에게** (ege): Used primarily in **written and formal contexts** to express "to someone" or "from someone."
@@ -26,7 +28,8 @@ Both particles function similarly and are often interchangeable, but the choice 
 | 한테     | Spoken          | Informal      |
 | 에게     | Written         | Formal        |
 | 께       | Honorific       | Very Formal   |
-# 3. Comparative Analysis
+
+## 3. Comparative Analysis
 ### 한테 vs. 에게 vs. 께
 - **한테**: Informal, used in everyday conversation.
 - **에게**: Formal, used in written language and formal speech.
@@ -38,7 +41,8 @@ Both particles function similarly and are often interchangeable, but the choice 
   - *I made a call **to** my younger sibling.* (Informal)
 - 교수님**에게** 이메일을 드렸습니다.
   - *I sent an email **to** the professor.* (Formal)
-# 4. Examples in Context
+
+## 4. Examples in Context
 ## Informal Spoken Korean (한테)
 1. **친구한테 전화했어요.**
    - *I called my friend.*
@@ -68,7 +72,8 @@ Both particles function similarly and are often interchangeable, but the choice 
    - *Don't tell anyone.*
 2. **그 소식을 누구에게도 전하지 않았어요.**
    - *I didn't convey the news to anyone.*
-# 5. Cultural Notes
+
+## 5. Cultural Notes
 ## Cultural Relevance
 Understanding and using the correct level of politeness is essential in Korean culture. It reflects respect and social awareness.
 - **한테** is appropriate among friends, peers, or those younger than you.
@@ -84,7 +89,8 @@ Using the incorrect particle can be considered rude or inappropriate, so it's im
    - *To fall for someone (romantically).*
    - **그 사람에게 반했어요.**
      - *I fell for that person.*
-# 6. Common Mistakes and Tips
+
+## 6. Common Mistakes and Tips
 ## Error Analysis
 ### Mistake 1: Mixing Formality Levels
 - **Incorrect:** 할머니한테 선물을 드렸어요.
@@ -104,7 +110,8 @@ Using the incorrect particle can be considered rude or inappropriate, so it's im
   - Create sentences for different people (friend, teacher, boss) using the correct particle.
 - **Memorize Honorifics:**
   - Remember that **께** is always used for elders or in honorific speech.
-# 7. Summary and Review
+
+## 7. Summary and Review
 ## Key Takeaways
 - **한테** and **에게** mean "to someone" or "from someone."
 - **한테** is used in informal, spoken Korean.

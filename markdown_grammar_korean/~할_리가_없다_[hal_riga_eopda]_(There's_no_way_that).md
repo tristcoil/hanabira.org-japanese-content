@@ -1,6 +1,6 @@
 Processing keyword: ~할 리가 없다 [hal riga eopda] (There's no way that)
 # Korean Grammar Point: ~할 리가 없다 [hal riga eopda] (There's no way that)
-# Korean Grammar Lesson: ~할 리가 없다 (There's no way that)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~할 리가 없다**, which is used to express disbelief or the impossibility of something happening. Mastering this expression will enhance your ability to convey certainty and skepticism in Korean conversations.
 
@@ -99,7 +99,6 @@ The structure combines a verb stem with **-ㄹ/을 리가 없다**.
    - **Answer**: **False**. It expresses disbelief, not inability.
 ---
 Keep practicing by using **~할 리가 없다** in daily conversations to become more comfortable with expressing disbelief naturally in Korean!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

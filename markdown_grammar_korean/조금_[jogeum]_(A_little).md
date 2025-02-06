@@ -1,10 +1,11 @@
 Processing keyword: 조금 [jogeum] (A little)
 # Korean Grammar Point: 조금 [jogeum] (A little)
-# 1. Introduction
+
+## 1. Introduction
 **조금 (jogeum)** is a Korean adverb meaning **"a little," "a bit,"** or **"slightly."** It's used to indicate a small amount or degree of something. Understanding how to use 조금 correctly can help you express quantities and nuances more naturally in Korean.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ### Meaning
 - **조금** expresses a small amount, degree, or extent.
 - It modifies verbs, adjectives, or other adverbs to lessen their intensity.
@@ -22,17 +23,19 @@ Processing keyword: 조금 [jogeum] (A little)
 - **조금 빨리 말해주세요.**
   - *Please speak a little faster.*
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### 조금 vs. 약간 vs. 좀
 - **조금** and **약간 (yakkan)** both mean "a little," but **약간** is slightly more formal.
 - **좀 (jom)** is the colloquial contraction of **조금** and is used more frequently in spoken Korean.
+
 | Adverb | Meaning     | Formality  |
 |--------|-------------|------------|
 | 조금   | A little    | Neutral    |
 | 약간   | Slightly    | Formal     |
 | 좀     | A bit       | Informal   |
+
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Language
 1. **조금 더 자세히 설명해 주시겠습니까?**
    - *Could you explain it a little more in detail?*
@@ -54,7 +57,7 @@ Processing keyword: 조금 [jogeum] (A little)
 2. **조금 도와줄 수 있어?**
    - *Can you help me a little?*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ### Cultural Relevance
 - **Politeness and Softening Requests:**
   - Using **조금** can soften a request or statement, making it sound more polite.
@@ -69,7 +72,7 @@ Processing keyword: 조금 [jogeum] (A little)
    - **조금씩 적응하고 있어요.**
      - *I'm gradually getting used to it.*
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Error Analysis
 - **Mistake:** Overusing **조금** in negative sentences where **전혀 (jeonhyeo)** or **하나도 (hanado)** would be more appropriate.
   - **Incorrect:** 저는 그 말을 조금 이해 못 했어요.
@@ -80,7 +83,7 @@ Processing keyword: 조금 [jogeum] (A little)
 - **Tip:** Remember that **조금** can make your Korean sound more natural and polite, especially in requests.
 - **Practice:** Try replacing **좀** with **조금** in sentences to become familiar with formality levels.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
 - **조금** means **"a little"** and is used to express small amounts or degrees.
 - It can modify verbs, adjectives, and adverbs.
@@ -105,7 +108,6 @@ Processing keyword: 조금 [jogeum] (A little)
   | 좀     | [jom]         | A bit (informal) |
 - **Practice Sentences:**
   - Create your own sentences using **조금** to talk about your daily activities.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

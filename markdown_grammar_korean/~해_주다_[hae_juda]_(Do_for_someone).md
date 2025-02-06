@@ -1,6 +1,6 @@
 Processing keyword: ~해 주다 [hae juda] (Do for someone)
 # Korean Grammar Point: ~해 주다 [hae juda] (Do for someone)
-# ~해 주다 [hae juda] (Do for someone)
+
 ## 1. Introduction
 The grammar pattern **~해 주다** is a fundamental structure in Korean that expresses doing something **for someone else's benefit**. It combines an action verb with **주다** (to give), indicating that the action is performed as a favor or service to someone.
 

@@ -1,6 +1,6 @@
 Processing keyword: 아/어/여야 되다 [a/eo/yeoya doeda] (Must, have to)
 # Korean Grammar Point: 아/어/여야 되다 [a/eo/yeoya doeda] (Must, have to)
-# 아/어/여야 되다 [a/eo/yeoya doeda] (Must, Have to)
+
 ## 1. Introduction
 The grammar pattern **아/어/여야 되다** is a fundamental Korean expression used to indicate necessity or obligation. It translates to "**must**" or "**have to**" in English and is essential for conveying that an action is required or mandatory.
 

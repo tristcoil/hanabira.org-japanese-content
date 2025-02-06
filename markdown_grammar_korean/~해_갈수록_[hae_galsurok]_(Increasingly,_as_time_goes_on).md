@@ -1,6 +1,6 @@
 Processing keyword: ~해 갈수록 [hae galsurok] (Increasingly, as time goes on)
 # Korean Grammar Point: ~해 갈수록 [hae galsurok] (Increasingly, as time goes on)
-# ~해 갈수록 [hae galsurok] (Increasingly, as time goes on)
+
 ## 1. Introduction
 The grammatical structure **~해 갈수록** (*hae galsurok*) is used in Korean to express a progressive change or increase as time passes. It conveys the meaning of "increasingly" or "the more... the more..." indicating that as one action continues, another outcome becomes more pronounced.
 

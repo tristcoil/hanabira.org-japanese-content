@@ -1,6 +1,7 @@
 Processing keyword: ~하여 [hayeo] (So, therefore)
 # Korean Grammar Point: ~하여 [hayeo] (So, therefore)
-# ~하여 (*hayeo*) (So, Therefore)
+
+
 ## 1. Introduction
 The connective ending **~하여** (*hayeo*) is a formal Korean grammar point used to express a cause-and-effect relationship or to indicate a sequence of actions. It is the formal written form of **~해서** (*haeseo*) and is often found in literature, official documents, and formal speeches. Understanding **~하여** will enhance your ability to comprehend formal texts and communicate effectively in formal contexts.
 

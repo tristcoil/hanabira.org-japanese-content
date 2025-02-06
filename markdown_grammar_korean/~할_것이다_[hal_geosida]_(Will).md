@@ -1,6 +1,6 @@
 Processing keyword: ~할 것이다 [hal geosida] (Will)
 # Korean Grammar Point: ~할 것이다 [hal geosida] (Will)
-# Korean Grammar Point: ~할 것이다 [hal geosida] (Will)
+
 ## 1. Introduction
 Expressing future actions is essential in any language. In Korean, one common way to indicate the future tense is by using **~할 것이다** [hal geosida], which translates to **"will"** in English. This grammar point is fundamental for conveying intentions, plans, or predictions.
 

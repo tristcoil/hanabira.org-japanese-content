@@ -1,6 +1,6 @@
 Processing keyword: ~할 수 없다 [hal su eopda] (Cannot do)
 # Korean Grammar Point: ~할 수 없다 [hal su eopda] (Cannot do)
-# ~할 수 없다 [hal su eopda] (Cannot Do)
+
 ## 1. Introduction
 The Korean grammar point **~할 수 없다** is used to express the inability or impossibility to perform an action. It translates to "**cannot do**" or "**be unable to do**" in English. This structure is essential for expressing limitations, lack of ability, or external circumstances preventing an action.
 

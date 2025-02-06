@@ -1,6 +1,6 @@
 Processing keyword: ~텐데 [tende] (Would, might)
 # Korean Grammar Point: ~텐데 [tende] (Would, might)
-# **Grammar Lesson: ~텐데 [tende] (Would, Might)**
+
 ## 1. Introduction
 In Korean, the ending **~텐데** is used to express the speaker's supposition or expectation about a situation. It often carries nuances similar to "would," "might," or "should be" in English. Understanding how to use **~텐데** will enhance your ability to convey assumptions, make polite suggestions, or express slight regrets in conversations.
 

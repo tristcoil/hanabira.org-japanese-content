@@ -1,6 +1,6 @@
 Processing keyword: ~하여서는 안 되다 [hayeoseoneun an doeda] (Must not)
 # Korean Grammar Point: ~하여서는 안 되다 [hayeoseoneun an doeda] (Must not)
-# ~하여서는 안 되다 [hayeoseoneun an doeda] (Must Not)
+
 ## 1. Introduction
 In Korean, expressing prohibition or strong advice against doing something is essential for clear communication. The grammar pattern **~하여서는 안 되다** is used to indicate that something **must not** or **should not** be done. This pattern is important for forming sentences that convey rules, prohibitions, or moral imperatives.
 
@@ -85,7 +85,6 @@ In Korean culture, respect for rules and social norms is highly valued. Using **
 1. **해서는** – 너는 거짓말을 **해서는** 안 된다.
 2. **Yes**, it is correctly formed.
 3. 이 방에 들어와서는 안 됩니다.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

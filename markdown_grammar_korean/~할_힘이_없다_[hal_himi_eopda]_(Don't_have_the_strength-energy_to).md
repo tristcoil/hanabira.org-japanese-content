@@ -1,6 +1,6 @@
 Processing keyword: ~할 힘이 없다 [hal himi eopda] (Don't have the strength/energy to)
 # Korean Grammar Point: ~할 힘이 없다 [hal himi eopda] (Don't have the strength/energy to)
-# Grammar Point: ~할 힘이 없다 [hal himi eopda] (Don't have the strength/energy to)
+
 ## 1. Introduction
 The expression **~할 힘이 없다** is used in Korean to convey that someone lacks the strength or energy to perform a certain action. It's a way to express physical or mental exhaustion that prevents one from doing something. This structure is common in everyday conversation when discussing fatigue or lack of motivation.
 

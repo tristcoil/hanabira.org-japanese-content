@@ -1,6 +1,6 @@
 Processing keyword: 겠다 [getda] (will, guess, hope, wish)
 # Korean Grammar Point: 겠다 [getda] (will, guess, hope, wish)
-# Understanding the Korean Grammar Point: **-겠-** (겠다)
+
 ## 1. Introduction
 In Korean, **-겠-** (겠다) is a versatile grammatical infix attached to verbs and adjectives that can express various meanings such as intention ("will"), conjecture ("guess"), or volition ("hope", "wish"). Mastering **-겠-** is essential for conveying future actions, making polite expressions, and articulating your thoughts more naturally in Korean.
 
@@ -88,11 +88,11 @@ In Korean, **-겠-** is often used in formal settings to show respect. It's comm
 1. How do you express a polite offer using **-겠-**?
 2. What is the difference between **-겠-** and **-(으)ㄹ 거예요**?
 3. Translate to Korean: "It must be cold."
+
 **Answers:**
 1. Attach **-겠-** to the verb stem in a polite question form. Example: **드시겠어요?** (Would you like to eat?)
 2. **-겠-** emphasizes intention or conjecture and adds politeness, while **-(으)ㄹ 거예요** is a plain future tense.
 3. **춥겠어요.**
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

@@ -1,6 +1,6 @@
 Processing keyword: ~해 보아야 [hae boaya] (Should try and see)
 # Korean Grammar Point: ~해 보아야 [hae boaya] (Should try and see)
-# ~해 보아야 [hae boaya] (Even if one tries)
+
 ## 1. Introduction
 In Korean, the grammar pattern **~해 보아야** (pronounced *hae boaya*) is used to express the meaning of "even if one tries" or "it's no use trying". This structure is employed to indicate that no matter how much effort is put into an action, the desired outcome cannot be achieved.
 
@@ -19,20 +19,25 @@ The **~아/어 보아야** construction combines the verb stem with **-아/어 �
 - **For verbs with vowel ending in 'ㅏ' or 'ㅗ'**: Use **아 보아야**
 - **For verbs with other vowels**: Use **어 보아야**
 #### Conjugation Examples
+
 | Verb (Dictionary Form) | Verb Stem | + 아/어 보아야 | Final Form      |
 |------------------------|-----------|---------------|-----------------|
 | 가다 (to go)           | 가        | 아 보아야     | 가 보아야       |
 | 먹다 (to eat)          | 먹        | 어 보아야     | 먹어 보아야     |
 | 만들다 (to make)       | 만들      | 어 보아야     | 만들어 보아야   |
 | 하다 (to do)           | 하        | 여 보아야     | 해 보아야       |
+
 *Note*: In spoken Korean, **보아야** often contracts to **봐야**, so **해 보아야** becomes **해봐야**.
+
 ### Visual Aid: Structure Breakdown
+
 | Component             | Description                                  |
 |-----------------------|----------------------------------------------|
 | **Verb Stem**         | Base form of the action verb                 |
 | **아/어 보다**        | To try doing the verb                        |
 | **아야/어야**         | Conditional ending meaning "must" or "only if"|
 | **Combined 보아야**   | Idiomatic expression meaning "even if one tries"|
+
 ---
 ## 3. Comparative Analysis
 ### Similar Grammar Points
@@ -111,7 +116,6 @@ In Korean communication, expressing limitations or accepting inevitable outcomes
 1. 가져가**봐야** 소용없어요.
 2. False
 3. b) 지금 출발해 보아야 늦을 것 같아요.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

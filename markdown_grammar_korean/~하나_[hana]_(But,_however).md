@@ -1,10 +1,9 @@
 Processing keyword: ~하나 [hana] (But, however)
 # Korean Grammar Point: ~하나 [hana] (But, however)
-Error: Error code: 400 - {'error': {'message': 'Invalid prompt: your prompt was flagged as potentially violating our usage policy. Please try again with a different prompt: https://platform.openai.com/docs/guides/reasoning/advice-on-prompting', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_prompt'}}
-Retrying in 10 seconds...
-# 1. Introduction
+
+## 1. Introduction
 In Korean, connecting ideas and contrasting statements is an essential part of effective communication. One such grammar point that allows speakers to express contrast or opposition between clauses is **~(으)나**. This conjunctive ending translates to "but" or "however" in English and is commonly used in both spoken and written Korean. Understanding how to use **~(으)나** will enhance your ability to construct more complex and nuanced sentences.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning and Usage
 **~(으)나** is a conjunctive ending added to verbs, adjectives, and nouns (with the **이다** copula) to express contrast or opposition between two clauses, similar to "but" or "however" in English.
 - **Function**: Connects two clauses by contrasting or opposing them.
@@ -23,7 +22,7 @@ The formation of **~(으)나** depends on whether the stem ends with a vowel or 
 ### Examples
 - **Verb ending with consonant**: 읽다 (to read) → 읽으나
 - **Verb ending with vowel**: 배우다 (to learn) → 배우나
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 **~(으)나** vs. **~지만**
 Both **~(으)나** and **~지만** are used to express contrast. However, there are slight differences:
 | Aspect              | **~(으)나**                          | **~지만**                                 |
@@ -31,7 +30,7 @@ Both **~(으)나** and **~지만** are used to express contrast. However, there 
 | Usage Context       | More formal, often in written Korean | Commonly used in spoken Korean            |
 | Politeness Level    | Formal situations                   | Neutral, suitable for most contexts       |
 | Structure Example   | 어렵**으나**                         | 어렵**지만**                              |
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example 1 (Formal/Written)
 - **Korean**: 이 문제는 복잡하나 해결해야 합니다.
 - **Pronunciation**: *I munjeneun bokjap**hana** haegyeolhaeya hamnida.*
@@ -48,7 +47,7 @@ Both **~(으)나** and **~지만** are used to express contrast. However, there 
 - **Korean**: 노력하나 결과가 없다.
 - **Pronunciation**: *Noryeok**hana** gyeolgwaga eopda.*
 - **English Translation**: "I make efforts, but there are no results."
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Politeness and Formality
 - **~(으)나** is more formal and is frequently used in written language, formal speeches, presentations, and academic writing.
 - In everyday conversation, Koreans are more likely to use **~지만** to express contrast.
@@ -56,7 +55,7 @@ Both **~(으)나** and **~지만** are used to express contrast. However, there 
 - **유명하나** 이름없는 배우
   - *Yumyeong**hana** ireumeomneun baeu*
   - "A famous yet unnamed actor"
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Using ~(으)나 in Informal Speech**
    - Incorrect: 바쁘나 갈게. (*Bappeu**na** galge.*)
@@ -69,7 +68,7 @@ Both **~(으)나** and **~지만** are used to express contrast. However, there 
 ## Learning Strategies
 - **Mnemonic Device**: Think of **~(으)나** as the formal "but"—used in formal situations like a formal "안녕하세요" instead of "안녕".
 - **Practice**: Create formal sentences using **~(으)나** to get accustomed to its usage.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~(으)나** is a formal conjunctive ending meaning "but" or "however".
 - Used primarily in formal settings and written Korean.
@@ -88,6 +87,7 @@ Both **~(으)나** and **~지만** are used to express contrast. However, there 
 Try rewriting the following sentences using **~(으)나**.
 1. 날씨가 춥지만 산책을 나갔어요.
 2. 그는 부자지만 행복하지 않아요.
+
 **Answers**:
 1. 날씨가 춥으나 산책을 나갔어요.
 2. 그는 부자이나 행복하지 않아요.

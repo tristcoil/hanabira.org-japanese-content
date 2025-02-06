@@ -1,6 +1,6 @@
 Processing keyword: ~해서는 안 되다 [haeseoneun an dwae] (Must not, shouldn't)
 # Korean Grammar Point: ~해서는 안 되다 [haeseoneun an dwae] (Must not, shouldn't)
-# ~해서는 안 되다 [haeseoneun an dwae] (Must not, Shouldn't)
+
 ## 1. Introduction
 The grammar pattern **~해서는 안 되다** is an essential structure in Korean that expresses prohibition or strong discouragement. It is used to indicate that an action is not allowed or should not be done. Understanding this pattern is crucial for proper communication, especially in formal and polite contexts.
 
@@ -96,11 +96,12 @@ In Korean culture, there is a strong emphasis on societal norms and respecting r
 1. How do you say "You must not eat that" using **~해서는 안 되다**?
 2. What is the correct conjugation of **하다** with **~해서는 안 되다**?
 3. Which part of the pattern indicates prohibition?
+
 **Answers**:
 1. **그거 먹어서는 안 돼.**
 2. **해서는 안 되다**
 3. **는 안 되다**
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

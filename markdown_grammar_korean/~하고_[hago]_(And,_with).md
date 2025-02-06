@@ -1,6 +1,6 @@
 Processing keyword: ~하고 [hago] (And, with)
 # Korean Grammar Point: ~하고 [hago] (And, with)
-# Lesson: ~하고 [hago] (And, With)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~하고** `[hago]`, which is widely used to connect nouns in sentences. Understanding **~하고** is essential for building basic sentences and expressing connections between people, objects, and ideas.
 

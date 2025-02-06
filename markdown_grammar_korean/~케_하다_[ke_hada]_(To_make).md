@@ -1,10 +1,9 @@
 Processing keyword: ~케 하다 [ke hada] (To make)
 # Korean Grammar Point: ~케 하다 [ke hada] (To make)
-# Understanding the Grammar Point: ~게 하다 [ge hada] (To Make / To Cause)
 
----
 ## 1. Introduction
 In Korean, expressing the idea of making or causing someone to do something is commonly achieved using the grammar pattern **~게 하다**. This construction is essential for conveying causation in various contexts, whether you're asking someone to perform an action or describing how one event leads to another.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

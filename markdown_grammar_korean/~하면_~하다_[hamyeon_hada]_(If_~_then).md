@@ -1,6 +1,6 @@
 Processing keyword: ~하면 ~하다 [hamyeon hada] (If ~ then)
 # Korean Grammar Point: ~하면 ~하다 [hamyeon hada] (If ~ then)
-# Understanding the Korean Grammar Point: ~하면 ~하다 (If ~ then)
+
 ## Introduction
 Conditional statements are essential in any language, allowing us to express possibilities, hypotheses, and logical sequences. In Korean, one common way to form conditional sentences is by using the structure **~하면 ~하다** (*If ~ then ~*). This construction enables speakers to articulate conditions and their results smoothly and naturally.
 

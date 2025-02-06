@@ -1,6 +1,6 @@
 Processing keyword: ~하자 [haja] (Let's, as soon as)
 # Korean Grammar Point: ~하자 [haja] (Let's, as soon as)
-# ~하자 [haja]: "Let's" and "As soon as"
+
 ## 1. Introduction
 The Korean grammar ending **~자** is a versatile tool that serves two primary functions in the language:
 1. **"Let's"**: Used to suggest or propose an action to someone in an informal setting.
@@ -110,6 +110,7 @@ Attach **~자** to the verb stem of the first action verb.
 2. **Translate to Korean using ~자:**
    *As soon as I woke up, I checked my phone.*
 3. **True or False:** **~자** is appropriate to use with your boss.
+
 **Answers:**
 1. **우리 영화관에 가자.**
 2. **일어나자 휴대폰을 확인했다.**

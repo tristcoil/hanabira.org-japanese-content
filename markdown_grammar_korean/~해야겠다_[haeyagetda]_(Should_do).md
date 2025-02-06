@@ -1,6 +1,6 @@
 Processing keyword: ~해야겠다 [haeyagetda] (Should do)
 # Korean Grammar Point: ~해야겠다 [haeyagetda] (Should do)
-# ~해야겠다 [haeyagetda] (Should do)
+
 ## 1. Introduction
 The Korean grammar pattern **~해야겠다** is used to express a strong intention or decision to do something, often implying that the speaker has realized that they *should* or *ought to* do it. This form is commonly used when one comes to a conclusion or determination after considering a situation.
 

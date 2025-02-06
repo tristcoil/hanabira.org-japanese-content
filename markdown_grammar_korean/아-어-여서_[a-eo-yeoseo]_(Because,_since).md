@@ -1,10 +1,11 @@
 Processing keyword: 아/어/여서 [a/eo/yeoseo] (Because, since)
 # Korean Grammar Point: 아/어/여서 [a/eo/yeoseo] (Because, since)
-# 1. Introduction
+
+## 1. Introduction
 Understanding how to express reasons and causes is essential for effective communication in any language. In Korean, one common way to indicate "because" or "since" is by using **아/어/여서** (*a/eo/yeoseo*).
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 **아/어/여서** is a connective ending added to a verb stem to link two clauses, where the first clause provides the reason or cause for the second clause.
 - **Function:** Indicates that the action or state in the first clause is the reason for the action or state in the second clause.
@@ -30,7 +31,7 @@ Understanding how to express reasons and causes is essential for effective commu
 | 읽다 (to read)  | 읽        | -어서   | 읽어서 |
 | 하다 (to do)    | 하        | -여서   | 해서   |
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## **아/어/여서** vs. **-(으)니까**
 Both **아/어/여서** and **-(으)니까** are used to express reasons, but they have subtle differences:
 - **아/어/여서**
@@ -47,7 +48,7 @@ Both **아/어/여서** and **-(으)니까** are used to express reasons, but th
 - **시간이 없으니까 빨리 갑시다.**
   - "Since we don't have time, let's go quickly." (Suggestion)
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ### 1. Casual Conversation (Informal)
 - **배가 고파서 밥을 먹었어요.**
   - "I was hungry, so I ate."
@@ -64,7 +65,7 @@ Both **아/어/여서** and **-(으)니까** are used to express reasons, but th
 - **날씨가 좋아서 공원에 갔어요.**
   - "The weather was nice, so I went to the park."
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Politeness and Formality
 - **아/어/여서** is neutral in terms of politeness; the level of formality is determined by the verb endings in the second clause.
   
@@ -82,7 +83,7 @@ Both **아/어/여서** and **-(으)니까** are used to express reasons, but th
   - Incorrect: **바쁘어서 도와주세요.** ("Because I'm busy, please help me.") ✖
   - Correct: **바쁘니까 도와주세요.** ("Since I'm busy, please help me.") ✔
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Using 아/어/여서 in Imperatives or Propositives**
    - **Incorrect:** 시간이 없어서 빨리 가세요. ✖
@@ -97,7 +98,7 @@ Both **아/어/여서** and **-(으)니까** are used to express reasons, but th
 - **Practice with Common Verbs**
   - Create sentences using everyday verbs to become comfortable with the conjugation.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **아/어/여서** is used to express reason or cause.
 - Attach **-아서**, **-어서**, or **-여서** to the verb stem based on the vowel harmony rules.
@@ -117,8 +118,6 @@ Both **아/어/여서** and **-(으)니까** are used to express reasons, but th
 1. **a) 아파서 학교에 못 갔어요.**
 2. **No** (It should be 시간이 없으니까 도와주세요.)
 3. **a) 만나서**
----
-# Thank you for studying Korean grammar with me! 😀
 
 ---
 © [Hanabira.org](https://hanabira.org)

@@ -1,9 +1,11 @@
 Processing keyword: 뿐 [ppun] (Only)
 # Korean Grammar Point: 뿐 [ppun] (Only)
-# 1. Introduction
+
+## 1. Introduction
 **Grammar Point:** **뿐** (*ppun*) — "Only"
 The Korean particle **뿐** is used to express the meaning of "only," "just," or "nothing but." It emphasizes that there is nothing more than what has been stated, highlighting exclusivity or limitation.
-# 2. Core Grammar Explanation
+
+## 2. Core Grammar Explanation
 ## Meaning
 **뿐** conveys the sense of "only" or "just," indicating that something is limited to exactly what is mentioned, excluding all else.
 ## Structure
@@ -42,7 +44,8 @@ The Korean particle **뿐** is used to express the meaning of "only," "just," or
   - If the stem ends in a consonant, use **-을 뿐이다**.
     - **Example:** 그는 아플 **뿐이다**.  
       *He is only sick.*
-# 3. Comparative Analysis
+
+## 3. Comparative Analysis
 ## **뿐** vs. **만**
 While both **뿐** and **만** mean "only," they are used differently.
 - **만** is a particle that attaches to nouns, pronouns, and numbers to mean "only" or "just."
@@ -58,7 +61,8 @@ While both **뿐** and **만** mean "only," they are used differently.
 - **(으)ㄹ 뿐만 아니라** means "not only... but also..."
   - **Example:** 그녀는 아름다울 **뿐만 아니라** 똑똑하다.  
     *She is not only beautiful but also smart.*
-# 4. Examples in Context
+
+## 4. Examples in Context
 ## Sentence Examples
 ### Formal Speech
 1. **저는 제 의무를 다했을 **뿐입니다**.**
@@ -80,7 +84,8 @@ While both **뿐** and **만** mean "only," they are used differently.
    *It's just not my responsibility.*
 2. **할 수 있는 건 기다릴 **뿐이야**.**
    *All I can do is wait.*
-# 5. Cultural Notes
+
+## 5. Cultural Notes
 ## Cultural Relevance
 - Using **뿐** can reflect modesty or humility in Korean culture by downplaying one's actions or state.
   - **Example:** 대단한 것 없어요. 그냥 했을 **뿐이에요**.  
@@ -95,7 +100,8 @@ While both **뿐** and **만** mean "only," they are used differently.
   - While not directly using **뿐**, it conveys exclusivity.
 - **눈에 보이는 것** **뿐이다**
   - *It's only what meets the eye.*
-# 6. Common Mistakes and Tips
+
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Incorrect Attachment**
    - **Incorrect:** 먹다**뿐이다**
@@ -110,7 +116,8 @@ While both **뿐** and **만** mean "only," they are used differently.
   - **뿐** sounds like "poon," which can remind you of "prune," a singular item—think "only one."
 - **Practice Makes Perfect:**
   - Create sentences using both **만** and **뿐** to understand their nuances.
-# 7. Summary and Review
+
+## 7. Summary and Review
 ## Key Takeaways
 - **뿐** means "only" or "just," emphasizing exclusivity.
 - Attach **뿐이다** to nouns directly.

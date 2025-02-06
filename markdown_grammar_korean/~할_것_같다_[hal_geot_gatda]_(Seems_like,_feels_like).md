@@ -1,6 +1,6 @@
 Processing keyword: ~할 것 같다 [hal geot gatda] (Seems like, feels like)
 # Korean Grammar Point: ~할 것 같다 [hal geot gatda] (Seems like, feels like)
-# Grammar Point: ~할 것 같다 [hal geot gatda] (Seems like, Feels like)
+
 ## 1. Introduction
 The expression **~할 것 같다 [hal geot gatda]** is used in Korean to express a guess, assumption, or supposition about future events or situations. It translates to "it seems like", "I think that", or "it looks like" in English. This grammar point helps convey uncertainty while indicating a likelihood based on evidence or intuition.
 
@@ -113,7 +113,6 @@ The expression **~할 것 같다 [hal geot gatda]** is used in Korean to express
    **Answer:** 올
 ---
 By mastering **~할 것 같다**, you can express your thoughts and predictions about future events more naturally in Korean. Practice by making your own sentences about what you think might happen!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

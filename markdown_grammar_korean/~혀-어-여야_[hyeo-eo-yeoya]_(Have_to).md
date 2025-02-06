@@ -1,6 +1,6 @@
 Processing keyword: ~혀/어/여야 [hyeo/eo/yeoya] (Have to)
 # Korean Grammar Point: ~혀/어/여야 [hyeo/eo/yeoya] (Have to)
-# Understanding the Grammar Point: ~아/어/여야 [a/eo/yeo-ya] (Have to)
+
 ## 1. Introduction
 In Korean, expressing necessity or obligation is essential for daily communication. The grammar pattern **~아/어/여야** ([a/eo/yeo-ya]) is commonly used to indicate that something **"has to"** or **"must"** be done. This lesson will delve into the usage of this grammar point, providing clear explanations, examples, and cultural insights to help you master it.
 

@@ -1,6 +1,6 @@
 Processing keyword: ~하다가는 [hadaganeun] (If continue doing)
 # Korean Grammar Point: ~하다가는 [hadaganeun] (If continue doing)
-# ~하다가는 [hadaganeun] (If [subject] continues doing)
+
 ## 1. Introduction
 The Korean grammar pattern **~하다가는** is used to warn or caution that if a certain action continues, an undesirable result may occur. It often implies that the speaker believes the continuation of an action will lead to negative consequences.
 

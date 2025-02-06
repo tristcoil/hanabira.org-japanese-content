@@ -1,6 +1,6 @@
 Processing keyword: ~하는 편이다 [haneun pyeonida] (Tend to)
 # Korean Grammar Point: ~하는 편이다 [haneun pyeonida] (Tend to)
-# ~하는 편이다 [haneun pyeonida] (Tend to)
+
 ## 1. Introduction
 In Korean, expressing tendencies or general inclinations is a common aspect of daily conversation. The grammar point **~하는 편이다** is used to indicate that someone or something **tends to** do something or is **rather** a certain way. This expression helps convey a softer or more nuanced statement about habits or characteristics.
 
@@ -74,6 +74,7 @@ These expressions soften statements, making them sound less absolute and more mo
 1. How do you attach **~하는 편이다** to a verb stem?
 2. Translate to Korean: "She tends to sleep early."
 3. What's a common mistake learners make with this grammar point?
+
 **Answers**:
 1. For action verbs, use _verb stem_ + **~는 편이다**.
 2. **그녀는 일찍 자는 편이에요.**

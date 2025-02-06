@@ -1,6 +1,6 @@
 Processing keyword: 못 [mot] (Can't, not able to)
 # Korean Grammar Point: 못 [mot] (Can't, not able to)
-# 못 [mot] (Can't, Not Able To)
+
 ## 1. Introduction
 In Korean, **못 [mot]** is an adverb used to express the **inability** or **impossibility** to perform an action. It is a fundamental grammar point essential for communicating limitations or things one cannot do. Understanding how to use **못** correctly allows learners to express themselves more precisely in various situations.
 
@@ -16,18 +16,22 @@ Subject + 못 + Verb
 - **못** is placed **directly before** the verb it modifies.
 - The verb is conjugated according to tense and politeness level as usual.
 ### Formation Diagram
+
 | Element       | Explanation                        |
 |---------------|------------------------------------|
 | **Subject**   | The person or thing performing the action. |
 | **못**        | The adverb indicating inability.   |
 | **Verb**      | The action that cannot be performed. |
+
 **Example:**
+
 | Korean          | English                    |
 |-----------------|----------------------------|
 | 저는            | I                          |
 | 못              | can't                      |
 | 수영해요        | swim                        |
 | **저는 못 수영해요.** | **I can't swim.**            |
+
 ---
 ## Visual Aid: Sentence Structure
 ```
@@ -150,7 +154,6 @@ Being mindful of the appropriate level of politeness is crucial in Korean social
    *Option c) correctly uses 못 to express inability.*
 3. **False**
    *못 is not used with adjectives; use 안 instead.*
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

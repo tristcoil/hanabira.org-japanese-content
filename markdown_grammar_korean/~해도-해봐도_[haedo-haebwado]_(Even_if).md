@@ -1,10 +1,9 @@
 Processing keyword: ~해도/해봐도 [haedo/haebwado] (Even if)
 # Korean Grammar Point: ~해도/해봐도 [haedo/haebwado] (Even if)
-# Lesson on Korean Grammar: ~해도 / ~해봐도 [haedo / haebwado] (Even if)
 
----
 ### 1. Introduction
 In Korean, expressing conditions where an action or situation doesn't affect the outcome is essential for nuanced communication. The grammar points **~해도** and **~해봐도** allow speakers to convey "even if", "even though", or "no matter how much". This lesson will explore how to use these expressions effectively.
+
 ---
 ### 2. Core Grammar Explanation
 #### Meaning and Usage

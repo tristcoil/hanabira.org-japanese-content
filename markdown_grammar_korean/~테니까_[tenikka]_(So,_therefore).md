@@ -1,6 +1,6 @@
 Processing keyword: ~테니까 [tenikka] (So, therefore)
 # Korean Grammar Point: ~테니까 [tenikka] (So, therefore)
-# Korean Grammar Lesson: ~테니까 [tenikka] (So, Therefore)
+
 ## 1. Introduction
 In Korean, expressing reasons and intentions is essential for coherent communication. The grammar point **~테니까 [tenikka]** is a conjunction used to indicate a reason or cause, often leading to a suggestion, command, or future action. Understanding how to use **~테니까** will enhance your ability to connect ideas logically in conversation and writing.
 

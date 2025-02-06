@@ -1,6 +1,6 @@
 Processing keyword: ~해야 하다 [haeya hada] (Have to do)
 # Korean Grammar Point: ~해야 하다 [haeya hada] (Have to do)
-# Korean Grammar Lesson: ~해야 하다 [haeya hada] (Have to do)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~해야 하다**, which is used to express necessity or obligation, similar to "have to" or "must" in English. Understanding this structure is essential for communicating duties, responsibilities, or required actions in Korean.
 

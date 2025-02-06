@@ -1,6 +1,6 @@
 Processing keyword: ~해보다 [haeboda] (Try to)
 # Korean Grammar Point: ~해보다 [haeboda] (Try to)
-# Understanding the Korean Grammar Point: ~해보다 [haeboda] ("to try to")
+
 ## 1. Introduction
 In this lesson, we will explore the Korean grammar construction **~해보다** (*haeboda*), which translates to **"to try to do something"** in English. This grammar point is commonly used in everyday conversations to express attempts, experiences, or suggestions to try something new. By mastering **~해보다**, you'll be able to convey your willingness to attempt actions and encourage others to do the same.
 

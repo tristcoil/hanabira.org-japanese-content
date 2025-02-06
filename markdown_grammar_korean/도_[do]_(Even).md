@@ -1,6 +1,6 @@
 Processing keyword: 도 [do] (Even)
 # Korean Grammar Point: 도 [do] (Even)
-# 도 [do] (Even) - Korean Grammar Lesson
+
 ## 1. Introduction
 In Korean, particles play a crucial role in conveying nuances and subtle meanings in sentences. One such versatile particle is **도 [do]**, commonly known for meanings like "also" or "too." However, **도** can also be used to express the meaning of **"even"**, adding emphasis to the extremity or unexpectedness of a situation. This lesson will explore the usage of **도** as "even" and how it enhances your Korean expressions.
 

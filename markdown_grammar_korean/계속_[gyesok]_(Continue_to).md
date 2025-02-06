@@ -1,6 +1,6 @@
 Processing keyword: 계속 [gyesok] (Continue to)
 # Korean Grammar Point: 계속 [gyesok] (Continue to)
-# Lesson on 계속 [gyesok] (Continue to)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean adverb **계속** (*gyesok*), which means **"continuously"** or **"keep doing"**. Understanding how to use **계속** will help you express ongoing actions or states in Korean, adding depth and fluency to your language skills.
 

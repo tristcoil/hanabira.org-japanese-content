@@ -1,6 +1,6 @@
 Processing keyword: ~하여야만 [hayeoyaman] (Only when)
 # Korean Grammar Point: ~하여야만 [hayeoyaman] (Only when)
-# Korean Grammar Lesson: ~하여야만 [hayeoyaman] (Only When)
+
 ## 1. Introduction
 The grammar point **~하여야만** (pronounced *hayeoyaman*) is used in Korean to express the meaning of "only when" or "only if." It emphasizes that a certain condition must be met for the result or action in the main clause to occur. This form is often used in formal writing and speeches.
 
@@ -26,10 +26,10 @@ Verb Stem | + 하여야만 | Meaning
 준비하    | 준비하여야만 | Only when [prepare]
 ```
 For other verbs, the more commonly used forms are **~아야만**, **~어야만**, but they serve the same function.
+
 ---
 ### Visual Aid: Flowchart of Usage
-```mermaid
-graph TD;
+```
     A[Verb Stem] --> B[Attach 하여야만];
     B --> C[Complete Conditional Clause];
     C --> D[Add Result Clause];
@@ -39,11 +39,13 @@ graph TD;
 ### Similar Grammar Points
 - **~해야만**: A contraction of **~하여야만**, more commonly used in spoken Korean.
 - **~아야만/어야만**: Used with verb stems that do not end with **하다**.
+
 | Grammar Point | Usage                            | Nuance                    |
 |---------------|----------------------------------|---------------------------|
 | ~하여야만      | Formal, verbs ending with **하다** | Emphasizes necessity      |
 | ~해야만        | Less formal, spoken form          | Same meaning as above     |
 | ~아야만/어야만 | Verbs not ending with **하다**     | Same function for other verbs |
+
 ---
 ## 4. Examples in Context
 ### Formal Writing Examples

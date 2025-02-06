@@ -1,6 +1,6 @@
 Processing keyword: ~케 되다 [ke dweda] (Become)
 # Korean Grammar Point: ~케 되다 [ke dweda] (Become)
-# ~게 되다 [ge dweda] (Become)
+
 ## 1. Introduction
 In this lesson, we will explore the Korean grammar point **~게 되다** [ge dweda], which translates to "**to become**," "**to come to (do something)**," or "**to end up (doing something)**." This expression is commonly used to indicate a change of state or situation, often implying that the change occurred naturally or without the subject's intention.
 
@@ -24,6 +24,7 @@ To form this grammar point, attach **게 되다** to the stem of an **action ver
 - **먹다** (to eat) → **먹** + **게 되다** → **먹게 되다** (to end up eating)
 - **알다** (to know) → **알** + **게 되다** → **알게 되다** (to come to know)
 ### Visual Aids
+
 | Step | Description                                | Example               |
 |------|--------------------------------------------|-----------------------|
 | 1    | Take the verb stem (remove **다**)         | 하다 → 하             |
@@ -31,6 +32,7 @@ To form this grammar point, attach **게 되다** to the stem of an **action ver
 | 3    | Conjugate **되다** as needed               | 하게 됩니다 (formal)   |
 |      |                                            | 하게 돼요 (polite)     |
 |      |                                            | 하게 됐어요 (past tense)|
+
 ---
 ## 3. Comparative Analysis
 ### Comparison with Similar Grammar Points
@@ -105,17 +107,19 @@ To form this grammar point, attach **게 되다** to the stem of an **action ver
    - **Answer**: 받게
 ---
 Congratulations! You've learned how to use **~게 되다** to express unintended or inevitable actions in Korean. Keep practicing by creating your own sentences to solidify your understanding.
+
 ---
-# Additional Practice
+## Additional Practice
 Create sentences using **~게 되다** with the following verbs:
 - 시작하다 (to start)
 - 좋아하다 (to like)
 - 알다 (to know)
+
 *Example Answer*:
 - *운동을 시작하게 되었어요.* (I ended up starting to exercise.)
 - *그 음식을 좋아하게 됐어요.* (I came to like that food.)
 - *사실을 알게 되었습니다.* (I came to know the truth.)
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

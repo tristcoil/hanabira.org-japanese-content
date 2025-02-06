@@ -1,6 +1,6 @@
 Processing keyword: ~할 거예요 [hal geoyeyo] (Going to do)
 # Korean Grammar Point: ~할 거예요 [hal geoyeyo] (Going to do)
-# Korean Grammar Lesson: ~할 거예요 [hal geoyeyo] (Going to do)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~할 거예요 [hal geoyeyo]**, which is used to express future plans or intentions, similar to "going to do" in English. Understanding this construction is essential for discussing future activities and making plans in Korean.
 

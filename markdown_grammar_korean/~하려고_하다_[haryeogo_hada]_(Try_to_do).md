@@ -1,6 +1,6 @@
 Processing keyword: ~하려고 하다 [haryeogo hada] (Try to do)
 # Korean Grammar Point: ~하려고 하다 [haryeogo hada] (Try to do)
-# Korean Grammar Point: ~하려고 하다 [haryeogo hada] (Try to do)
+
 ## 1. Introduction
 The pattern **~하려고 하다** is a commonly used Korean grammar structure that expresses a speaker's intention, plan, or attempt to perform an action. It translates to "to try to do" or "intend to do" in English. Understanding this pattern is essential for conveying future actions and intentions in Korean.
 
@@ -110,7 +110,6 @@ The pattern **~하려고 하다** is a commonly used Korean grammar structure th
    **Answer:** *한국어를 배우려고 해요.*
 ---
 By mastering **~하려고 하다**, you can effectively express your intentions and plans in Korean, making your speech sound more natural and culturally appropriate!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

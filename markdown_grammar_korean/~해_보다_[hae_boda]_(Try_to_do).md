@@ -1,8 +1,10 @@
 Processing keyword: ~해 보다 [hae boda] (Try to do)
 # Korean Grammar Point: ~해 보다 [hae boda] (Try to do)
-# 1. Introduction
+
+## 1. Introduction
 In learning Korean, understanding auxiliary verbs and suffixes is crucial for expressing nuanced actions and intentions. One such grammar point is **~해 보다** `[hae boda]`, which means **"to try doing something"**. This construction allows speakers to express attempting an action or experiencing something for the first time.
-# 2. Core Grammar Explanation
+
+## 2. Core Grammar Explanation
 ## Meaning
 The expression **~해 보다** is used to indicate that someone **tries to do** an action or **experiments** with something. It conveys the sense of making an effort to perform an activity, often to see the result or outcome.
 ## Structure
@@ -28,7 +30,8 @@ The structure involves attaching **보다** to the **verb stem** of the main act
 | 먹다 (to eat)   | 먹        | 먹 + 어 보다  | 먹어봐요                   |
 | 읽다 (to read)  | 읽        | 읽 + 어 보다  | 읽어봐요                   |
 | 공부하다 (to study) | 공부하 | 공부하 + 해 보다 | 공부해봐요                 |
-# 3. Comparative Analysis
+
+## 3. Comparative Analysis
 - **~해 보다** vs. **~하려고 하다** (`~haryeogo hada` - intending to do)
   - **~해 보다** implies **trying out** an action to see what it's like.
   - **~하려고 하다** expresses **intention or plan** to do something.
@@ -56,7 +59,8 @@ The structure involves attaching **보다** to the **verb stem** of the main act
   - _When you have time, try visiting Jeju Island._
 - **이 책을 읽어보시는 게 어떨까요?**
   - _How about trying to read this book?_
-# 5. Cultural Notes
+
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, showing willingness to try new experiences is valued. Using **~해 보다** can express openness and curiosity, which are positive traits in social interactions.
 ## Levels of Politeness and Formality
@@ -70,7 +74,8 @@ In Korean culture, showing willingness to try new experiences is valued. Using *
 - **맛을 보다**
   - Literally "to taste", but can mean to **experience** something.
   - _Example_: **고생을 맛봐요.** - "I try experiencing hardship."
-# 6. Common Mistakes and Tips
+
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Mistake**: Confusing **보다** (to see) with **~해 보다** (to try doing).
   - _Incorrect_: **영화를 보아 봐요.**
@@ -81,7 +86,8 @@ In Korean culture, showing willingness to try new experiences is valued. Using *
 ## Learning Strategies
 - **Mnemonic Device**: Think of **보다** as "to see what it's like," so **해 보다** is "do and see."
 - **Practice**: Create sentences by combining various verbs with **~해 보다** to get comfortable with the structure.
-# 7. Summary and Review
+
+## 7. Summary and Review
 ## Key Takeaways
 - **~해 보다** means **to try doing** something.
 - Attach **보다** to the verb stem with the appropriate connector (**아/어/해**).

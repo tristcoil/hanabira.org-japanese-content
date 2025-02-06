@@ -1,6 +1,6 @@
 Processing keyword: ~하기로 [hagiro] (Decide to)
 # Korean Grammar Point: ~하기로 [hagiro] (Decide to)
-# Grammar Point: ~하기로 [hagiro] (Decide to)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~기로 하다**, which is used to express a decision to perform an action. Understanding this structure will help you articulate choices and decisions in Korean, an essential aspect of daily conversations.
 
@@ -76,6 +76,7 @@ In Korean culture, expressing decisions can vary in formality depending on the c
 - **~기로 했어** is informal and used among close friends or peers.
 ### Group Decisions
 In collectivist Korean culture, decisions are often made in groups. Using **~기로 했다** can reflect a group decision when the subject is **우리** (we).
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes

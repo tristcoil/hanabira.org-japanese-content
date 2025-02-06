@@ -1,6 +1,6 @@
 Processing keyword: 아/어/여 주세요 [a/eo/yeo juseyo] (Please give/do for me)
 # Korean Grammar Point: 아/어/여 주세요 [a/eo/yeo juseyo] (Please give/do for me)
-# 아/어/여 주세요 [a/eo/yeo juseyo] (Please give/do for me)
+
 ## 1. Introduction
 In Korean, politeness and respect are essential aspects of communication. When asking someone to do something for you, it's important to use the appropriate grammatical structures to convey respect. The phrase **아/어/여 주세요** is widely used to make polite requests or ask for favors in everyday conversations.
 

@@ -1,6 +1,6 @@
 Processing keyword: ~하기도 하다 [hagido hada] (Sometimes)
 # Korean Grammar Point: ~하기도 하다 [hagido hada] (Sometimes)
-# ~~하기도 하다~~ [hagido hada] - "Sometimes", "Also"
+
 ## 1. Introduction
 The grammar pattern **~하기도 하다** is used in Korean to express that someone **also does** something or **sometimes does** something. It emphasizes that the action is one of several possibilities or occurs occasionally.
 

@@ -1,8 +1,9 @@
 Processing keyword: ~처럼 [cheoreom] (Like, as if)
 # Korean Grammar Point: ~처럼 [cheoreom] (Like, as if)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, expressing similarities or making comparisons is a common way to describe situations, feelings, or characteristics. The grammar point **~처럼** (*cheoreom*) serves this purpose by meaning **"like"** or **"as if"**. It allows speakers to compare one noun to another, enhancing the vividness of expressions.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ### Meaning
 **~처럼** is used to compare one noun to another, indicating that someone or something is **"like"** the noun it is being compared to. It helps in creating similes and expressing likeness or resemblance.
 ### Structure
@@ -23,7 +24,7 @@ The structure for using **~처럼** is straightforward:
 Example:
 천사 (angel) + 처럼 → 천사처럼 (like an angel)
 ```
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### **~처럼** vs **~같이** (*gachi*)
 Both **~처럼** and **~같이** can mean **"like"** or **"as"**, and they are often interchangeable when used after a noun to make a comparison.
 - **~처럼**: Slightly more formal, primarily used in written language.
@@ -33,7 +34,7 @@ Both **~처럼** and **~같이** can mean **"like"** or **"as"**, and they are o
   - *[He/She] has a heart as wide as the ocean.*
 - **바다같이 마음이 넓어요.**
   - *[He/She] has a heart as wide as the ocean.*
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Context
 - **그는 산처럼 믿음직한 사람입니다.**
   - *He is a trustworthy person like a mountain.*
@@ -49,7 +50,7 @@ Both **~처럼** and **~같이** can mean **"like"** or **"as"**, and they are o
 ### Using with Pronouns
 - **우리처럼 해보세요.**
   - *Try it like us.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ### Cultural Relevance
 In Korean culture, using similes with **~처럼** adds depth to communication, allowing speakers to convey emotions and descriptions effectively. It reflects the importance of imagery and metaphor in the language.
 ### Idiomatic Expressions
@@ -58,7 +59,7 @@ In Korean culture, using similes with **~처럼** adds depth to communication, a
   
 - **하늘이 무너지는 것처럼 슬프다**
   - *To be sad as if the sky is falling* (meaning extremely sad).
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Error Analysis
 - **Attaching **~처럼** to Verbs Incorrectly**
   **Incorrect:** *먹다처럼 행복해요.*
@@ -67,7 +68,7 @@ In Korean culture, using similes with **~처럼** adds depth to communication, a
 ### Learning Strategies
 - **Tip:** Remember that **~처럼** attaches directly to nouns without any particle or space.
 - **Mnemonic Device:** Think of **"처음처럼"**, a famous Korean soju brand, to recall that **~처럼** is used for comparisons (the brand name means "Like the First Time").
-# 7. Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
 - **~처럼** means **"like"** or **"as if"** and is used to compare nouns.
 - It attaches directly to nouns without any modifications.

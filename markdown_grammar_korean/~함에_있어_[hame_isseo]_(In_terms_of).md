@@ -1,6 +1,6 @@
 Processing keyword: ~함에 있어 [hame isseo] (In terms of)
 # Korean Grammar Point: ~함에 있어 [hame isseo] (In terms of)
-# Korean Grammar Lesson: ~함에 있어 [hame isseo] (In terms of)
+
 ## 1. Introduction
 In Korean, expressing nuanced perspectives is key to conveying precise meanings. The grammar point **~함에 있어** is an essential structure used to indicate "in terms of," "regarding," or "when it comes to" a particular action or topic. It's commonly found in formal writing and speeches, such as essays, reports, and presentations.
 

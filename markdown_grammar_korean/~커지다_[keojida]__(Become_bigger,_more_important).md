@@ -1,6 +1,6 @@
 Processing keyword: ~커지다 [keojida]  (Become bigger, more important)
 # Korean Grammar Point: ~커지다 [keojida]  (Become bigger, more important)
-# ~커지다 [keojida] (Become bigger, more important)
+
 ## 1. Introduction
 In Korean, the verb **커지다** (*keojida*) means "to become bigger" or "to grow." It's used to express the idea that something increases in size, volume, importance, or intensity over time. Mastering this grammar point will help you describe changes and developments effectively in Korean.
 
@@ -17,12 +17,15 @@ The structure for using **커지다** is straightforward:
 - **커지다**: To become bigger
 ### Formation Diagram
 Let's break down the formation:
+
 | Component      | Hangul        | Meaning                     |
 |----------------|---------------|-----------------------------|
 | Root adjective | 크다          | Big                         |
 | Change marker  | -어지다       | Becomes (change of state)   |
 | Combined verb  | 커지다        | To become bigger            |
+
 **Note:** When combining **크다** and **-어지다**, the vowel **ㅡ** in **크다** is dropped, and **-어지다** is added directly, resulting in **커지다**.
+
 ---
 ## 3. Comparative Analysis
 ### Similar Grammar Points

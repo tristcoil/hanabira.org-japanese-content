@@ -1,8 +1,9 @@
 Processing keyword: ~하느라 [haneura] (Because, in order to)
 # Korean Grammar Point: ~하느라 [haneura] (Because, in order to)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~하느라** (*haneura*), which translates to **"because of doing"** or **"due to doing"** in English. This grammatical structure is used to explain that the subject was occupied with one action, resulting in another action or situation, often with a negative outcome.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 **~하느라** is used to indicate that the action in the first clause is the reason or cause for the subsequent action or situation in the second clause. It emphasizes that the subject was so engaged in the first action that it led to a certain result, frequently an unintended or negative one.
 ## Structure
@@ -30,7 +31,7 @@ The structure of **~하느라** is as follows:
 - **Same Subject:** The subject performing both actions must be the same.
 - **Negative Outcomes:** The result clause often indicates a negative consequence or something that couldn't be accomplished.
 - **Cannot Be Used with Imperatives or Proposals:** Not used in commands or suggestions.
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### **~하느라** vs. **~기 때문에**
 - **~하느라**
   - Only used with action verbs.
@@ -47,7 +48,7 @@ The structure of **~하느라** is as follows:
 - **~하느라** and **~느라고** are essentially the same, with **~느라고** being a more colloquial form.
 - Both are used interchangeably in casual speech.
 - **~하느라** might be considered slightly more formal in written contexts.
-# 4. Examples in Context
+## 4. Examples in Context
 ### Sentence Examples
 1. **숙제하느라 밤을 새웠어요.**
    - *Sukje-haneura bam-eul saewosseoyo.*
@@ -73,7 +74,7 @@ The structure of **~하느라** is as follows:
   - **자료를 찾느라 시간이 걸렸습니다.**
     - *Jaryoreul chatneura sigani geollyeotseumnida.*
     - *It took time because I was searching for materials.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ### Cultural Relevance
 In Korean society, explaining lateness or failure to do something by citing being occupied with another task is a common courtesy. Using **~하느라** shows responsibility for both actions and is a polite way to explain oneself.
 ### Levels of Politeness and Formality
@@ -85,7 +86,7 @@ In Korean society, explaining lateness or failure to do something by citing bein
 - **밥 먹느라 바빠요.**
   - *I'm busy eating.*
   - Often used humorously to indicate being occupied with eating.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Error Analysis
 - **Using Different Subjects:**
   - Incorrect: *친구가 오느라 내가 기다렸어요.*
@@ -100,7 +101,7 @@ In Korean society, explaining lateness or failure to do something by citing bein
 ### Learning Strategies
 - **Mnemonic Device:** Remember that **~하느라** is about **"doing"** something that leads to another situation.
 - **Practice with Common Verbs:** Start by using **~하느라** with verbs like 공부하다 (to study), 일하다 (to work), 먹다 (to eat).
-# 7. Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
 - **~하느라** is used to express that the subject was busy with one action, causing another result, often negative.
 - Attach **~느라** to the stem of an action verb.

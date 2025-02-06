@@ -1,6 +1,6 @@
 Processing keyword: 아/어/여 있다 [a/eo/yeo itda] (To be doing)
 # Korean Grammar Point: 아/어/여 있다 [a/eo/yeo itda] (To be doing)
-# 아/어/여 있다 [a/eo/yeo itda] (To be ~ing)
+
 ## 1. Introduction
 Understanding how to express ongoing actions or states is essential in mastering Korean. The grammar point **아/어/여 있다** is used to indicate that something **is in a certain state** or **is currently happening**. It often translates to "to be ~ing" or "to be in the state of ~" in English.
 ## 2. Core Grammar Explanation

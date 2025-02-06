@@ -1,6 +1,6 @@
 Processing keyword: 이미 [imi] (Already)
 # Korean Grammar Point: 이미 [imi] (Already)
-# 이미 [imi] - "Already"
+
 ## 1. Introduction
 In Korean, **이미** means **"already"** and is used to indicate that an action or state has occurred or existed before the current time or before a certain point in time. It emphasizes that the information is known or that the event has happened prior to now.
 
@@ -19,8 +19,7 @@ In Korean, **이미** means **"already"** and is used to indicate that an action
 ```
 ### Visual Aid: Timeline Illustration
 ```markdown
-|--------|-----------|-----------|
- Past     이미 발생한 시점     Present
+| Past     이미 발생한 시점     Present |
 ```
 ---
 ## 3. Comparative Analysis
@@ -80,6 +79,7 @@ Korean language has different levels of formality. The use of **이미** remains
 1. Fill in the blank: 그는 _____ 집에 도착했어요. (He already arrived home.)
 2. True or False: **이미** is used when expressing surprise.
 3. Choose the correct word: It's already too late! (이미 / 벌써)
+
 **Answers:**
 1. 이미
 2. False

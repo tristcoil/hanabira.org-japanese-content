@@ -20,4 +20,4 @@ updated
 - grammar_kr_KOREAN_6_0001.json with proofreadings - whole file
 
 - Japanese grammar markdown proofreading - full content
-
+- Korean grammar markdown proofreading - full content

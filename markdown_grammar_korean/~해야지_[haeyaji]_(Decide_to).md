@@ -1,10 +1,9 @@
 Processing keyword: ~해야지 [haeyaji] (Decide to)
 # Korean Grammar Point: ~해야지 [haeyaji] (Decide to)
-# Lesson on Grammar Point: ~해야지 [haeyaji] (Decide to)
 
----
 ## 1. Introduction
 In Korean, expressing one's intention or decision to do something is essential in daily conversations. The grammar point **~해야지 [haeyaji]** is commonly used to convey a personal decision or strong intention to perform an action. This lesson will explore the usage, formation, and nuances of **~해야지**, helping you understand and apply it naturally in various contexts.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

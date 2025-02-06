@@ -1,10 +1,9 @@
 Processing keyword: ~했기에 [haetgie] (Because)
 # Korean Grammar Point: ~했기에 [haetgie] (Because)
-# Lesson on the Korean Grammar Point: ~했기에 [haetgie] (Because)
 
----
 ## 1. Introduction
 In Korean, expressing reasons or causes for actions is essential for constructing coherent sentences. The grammar point **~했기에** [haetgie] is a past tense form used to indicate a cause or reason, similar to "because" or "since" in English. This lesson will explore the usage of ~했기에, its formation, and how it compares to other similar expressions.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -68,6 +67,7 @@ The structure for forming sentences with **~했기에** is as follows:
 - In everyday conversation, Koreans might opt for **~해서** or **~하니까** for a more casual tone.
 ### Idiomatic Expressions
 While **~했기에** itself is a grammatical structure rather than an idiom, understanding its usage is crucial for reading and writing formal Korean texts, such as newspapers, academic papers, and official correspondence.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes

@@ -1,10 +1,9 @@
 Processing keyword: ~할 줄 알다 [hal jul alda] (Know how to)
 # Korean Grammar Point: ~할 줄 알다 [hal jul alda] (Know how to)
-# ~할 줄 알다 [hal jul alda] (Know How To)
 
----
 ## 1. Introduction
 In Korean, expressing the ability or knowledge of how to do something is essential for daily communication. The grammar pattern **~할 줄 알다** is used to indicate that someone knows how to perform a specific action. This lesson will delve into the usage, structure, and nuances of this grammar point, helping you to incorporate it naturally into your Korean conversations.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -90,6 +89,7 @@ Knowing how to do traditional activities (like making kimchi or playing traditio
 1. How do you say "I know how to drive" in Korean?
 2. What is the difference between **할 줄 알다** and **할 수 있다**?
 3. Correct the mistake in the sentence: **저는 피아노를 칠 수 알아요.**
+
 **Answers:**
 1. **저는 운전할 줄 알아요.**
 2. **할 줄 알다** means "to know how to do," focusing on knowledge or skill. **할 수 있다** means "can do," focusing on ability or possibility.

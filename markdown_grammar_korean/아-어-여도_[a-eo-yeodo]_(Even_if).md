@@ -1,6 +1,6 @@
 Processing keyword: 아/어/여도 [a/eo/yeodo] (Even if)
 # Korean Grammar Point: 아/어/여도 [a/eo/yeodo] (Even if)
-# 아/어/여도 [a/eo/yeodo] (Even if)
+
 ## 1. Introduction
 The grammar pattern **아/어/여도** is used in Korean to express the meaning of "even if," "even though," or "although." It indicates that regardless of the preceding action or state, the result in the main clause remains unaffected.
 

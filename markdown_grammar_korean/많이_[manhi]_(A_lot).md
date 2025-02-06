@@ -1,6 +1,6 @@
 Processing keyword: 많이 [manhi] (A lot)
 # Korean Grammar Point: 많이 [manhi] (A lot)
-# 많이 [manhi] (A lot)
+
 ## 1. Introduction
 The adverb **많이** *(manhi)* is an essential word in Korean that translates to **"a lot," "much,"** or **"many."** It is widely used to express quantity or degree when describing actions, feelings, or states. Understanding how to use **많이** correctly will significantly enhance your ability to express yourself more naturally in Korean.
 

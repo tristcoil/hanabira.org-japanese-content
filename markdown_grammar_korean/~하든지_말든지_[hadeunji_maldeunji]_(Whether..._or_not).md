@@ -1,10 +1,9 @@
 Processing keyword: ~하든지 말든지 [hadeunji maldeunji] (Whether... or not)
 # Korean Grammar Point: ~하든지 말든지 [hadeunji maldeunji] (Whether... or not)
-# Grammar Point: ~하든지 말든지 [hadeunji maldeunji] (Whether... or not)
 
----
 ## 1. Introduction
 The Korean grammar construct **~하든지 말든지** is used to express the meaning "whether (do something) or not." It's a way to indicate that the outcome or action does not affect the speaker's stance or that the decision is left entirely up to someone else.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -31,10 +30,12 @@ Verb Stem + ~든지 말든지
 ### Comparison with ~거나 말거나
 - **~거나 말거나** is another expression meaning "whether... or not," but it's less common in modern usage and can sound harsher or more dismissive.
 - **~하든지 말든지** is slightly more neutral and commonly used in spoken Korean.
+
 | Grammar Point      | Usage                                | Tone                     |
 |--------------------|--------------------------------------|--------------------------|
 | ~하든지 말든지       | Whether do or not; indifferent       | Neutral, casual          |
 | ~거나 말거나          | Whether do or not; don't care        | Dismissive, potentially rude |
+
 ---
 ## 4. Examples in Context
 ### Example Sentences

@@ -1,6 +1,6 @@
 Processing keyword: 아직 [ajik] (Yet, still)
 # Korean Grammar Point: 아직 [ajik] (Yet, still)
-# 아직 [ajik] (Yet, Still)
+
 ## 1. Introduction
 In Korean, the adverb **아직** (*ajik*) is widely used to express the meanings of **"yet"** and **"still"**. It conveys that an action or state is continuing or has not occurred up to a certain point in time. Mastering **아직** is essential for anyone looking to enhance their understanding and fluency in Korean, particularly when discussing timing and the progression of events.
 

@@ -1,6 +1,6 @@
 Processing keyword: ~하기에는 [hagineun] (Considering)
 # Korean Grammar Point: ~하기에는 [hagineun] (Considering)
-# ~하기에는 [hagineun] (Considering)
+
 ## 1. Introduction
 In Korean, expressing judgments or evaluations based on certain considerations is a common linguistic practice. The grammar point **~하기에는 [hagineun]** is used to convey such nuances, equivalent to "considering" or "for (doing)" in English. Understanding this structure enhances the ability to articulate thoughtful assessments in Korean.
 

@@ -1,6 +1,6 @@
 Processing keyword: ~하나 [hana] (Questioning oneself)
 # Korean Grammar Point: ~하나 [hana] (Questioning oneself)
-# Korean Grammar Lesson: **~하나** [*hana*] (Questioning Oneself)
+
 ## 1. Introduction
 In Korean, expressing self-doubt or internal questioning often involves specific grammatical structures. One such structure is **~하나** (*hana*), which allows speakers to convey their introspection or uncertainties. This lesson will explore the usage of **~하나**, providing clear explanations and natural examples to help you incorporate it into your Korean language skills.
 

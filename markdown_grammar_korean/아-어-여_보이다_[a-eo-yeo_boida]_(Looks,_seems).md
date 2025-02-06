@@ -1,6 +1,6 @@
 Processing keyword: 아/어/여 보이다 [a/eo/yeo boida] (Looks, seems)
 # Korean Grammar Point: 아/어/여 보이다 [a/eo/yeo boida] (Looks, seems)
-# 아/어/여 보이다 [a/eo/yeo boida] (Looks, Seems)
+
 ## 1. Introduction
 In Korean, expressing perceptions or assumptions about something's appearance is common in daily conversations. The grammatical structure **아/어/여 보이다** is used to convey that someone or something "looks" or "seems" a certain way based on visual or sensory perception. This lesson will delve into the usage of **아/어/여 보이다**, helping you understand its formation, application, and nuances.
 
@@ -80,6 +80,7 @@ Understanding the appropriate level of politeness is crucial in Korean culture, 
 2. **작아 보여요.**
 3. Yes, it means "It looks delicious."
 </details>
+
 ---
 By mastering **아/어/여 보이다**, you'll enhance your ability to describe perceptions in Korean, making your expressions more natural and nuanced.
 

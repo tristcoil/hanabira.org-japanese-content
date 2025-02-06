@@ -1,39 +1,45 @@
 Processing keyword: 만 [man] (Only)
 # Korean Grammar Point: 만 [man] (Only)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, the particle **만** [*man*] is used to express the meaning of "only" or "just." It is a versatile particle that can be attached to nouns, pronouns, verbs, and adverbs to limit or restrict the scope of a sentence to a particular element. Understanding how to use **만** correctly will enhance your ability to express exclusivity and emphasis in Korean.
-# 2. Core Grammar Explanation
+
+## 2. Core Grammar Explanation
 ## Meaning of **만**
 The particle **만** means **"only"**, **"just"**, or **"nothing but"**. It is used to indicate that the action or state is limited exclusively to the noun or verb it is attached to.
 ## Structure
 ### Attaching **만** to Nouns and Pronouns
 - Attach **만** directly after a noun or pronoun without any space.
 **Formation:**
+
 | Noun/Pronoun | + | 만 |
 |--------------|---|----|
 | 친구          | + | 만 |
 | 저            | + | 만 |
+
 **Example:**
 - 친구만 *[chin-gu-man]* - only friends
 - 저만 *[jeo-man]* - only me
 ### Attaching **만** to Verbs and Adjectives
 - When attaching **만** to verbs or adjectives, it is combined with **-기만 하다** or **-만 하다** structures.
 **Formation:**
+
 | Verb/Adjective Stem | + | -기만 하다 / -만 하다 |
 |---------------------|---|---------------------|
 | 먹다                 | + | 먹기만 하다          |
 | 듣다                 | + | 듣기만 하다          |
+
 **Example:**
 - 먹기만 해요 *[meok-gi-man hae-yo]* - I only eat.
 - 듣기만 해요 *[deut-gi-man hae-yo]* - I only listen.
 ## Visual Aid: Using **만** in Sentences
-```mermaid
-flowchart LR
+```
 A[Subject] -- 만 --> B[Action/Object]
 ```
 - **Subject만** + Verb/Object
 - Subject + **Object만** + Verb
-# 3. Comparative Analysis
+
+## 3. Comparative Analysis
 ## **만** vs. **밖에**
 Both **만** and **밖에** express limitation, but they differ in usage and nuance.
 | Particle | Usage                          | Form                         | Example                             |
@@ -42,7 +48,8 @@ Both **만** and **밖에** express limitation, but they differ in usage and nua
 | 밖에     | Limitation with negative verb  | Noun + 밖에 + Negative Verb  | 물밖에 없어요. *[mul-bak-e eop-seo-yo]* <br> There is nothing but water. |
 - **만** can be used in positive and negative sentences.
 - **밖에** is used only with negative verbs to emphasize scarcity.
-# 4. Examples in Context
+
+## 4. Examples in Context
 ## Formal Situations
 1. **저는 진실만 말합니다.**
    *[jeo-neun jin-sil-man mal-ham-ni-da]*
@@ -65,7 +72,8 @@ Both **만** and **밖에** express limitation, but they differ in usage and nua
 1. **오늘만 일찍 갈게요.**
    *[o-neul-man il-jjik gal-ge-yo]*
    *I'll leave early just for today.*
-# 5. Cultural Notes
+
+## 5. Cultural Notes
 ## Politeness and Formality
 - Using **만** does not inherently carry a level of politeness or formality.
 - Politeness is expressed through verb endings and honorifics attached to the verb, not through the particle **만**.
@@ -76,7 +84,8 @@ Both **만** and **밖에** express limitation, but they differ in usage and nua
 - **말만 앞세우지 마세요.**
   *[mal-man ap-se-u-ji ma-se-yo]*
   *Don't just put words forward (Don't just talk the talk).*
-# 6. Common Mistakes and Tips
+
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Misplacing 만 in a sentence**
    - Incorrect: **만 저는 사과를 먹었어요.**
@@ -90,7 +99,8 @@ Both **만** and **밖에** express limitation, but they differ in usage and nua
 - **Position Matters**: Place **만** immediately after the word you want to emphasize as "only."
 - **Context Clues**: Pay attention to what is being limited in the sentence to use **만** correctly.
 - **Practice with Examples**: Create sentences replacing different elements with **만** to see how the meaning changes.
-# 7. Summary and Review
+
+## 7. Summary and Review
 ## Key Takeaways
 - **만** means **"only"** or **"just"**.
 - Attach **만** directly after nouns, pronouns, or verb stems.
@@ -104,10 +114,6 @@ Both **만** and **밖에** express limitation, but they differ in usage and nua
    - **Answer:** **밖에** (시간밖에 없어요.)
 3. Correct the error: **저는 만 커피 마셔요.**
    - **Corrected Sentence:** **저는 커피만 마셔요.**
-# References
-- Integrated Korean: Beginning 1
-- Korean Grammar in Use: Beginning
-- [How to Use 만 Particle](https://www.howtostudykorean.com/)
 
 ---
 © [Hanabira.org](https://hanabira.org)

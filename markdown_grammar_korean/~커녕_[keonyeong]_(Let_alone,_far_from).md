@@ -1,6 +1,6 @@
 Processing keyword: ~커녕 [keonyeong] (Let alone, far from)
 # Korean Grammar Point: ~커녕 [keonyeong] (Let alone, far from)
-# **Grammar Point: ~커녕 [keonyeong] (Let Alone, Far From)**
+
 ## **1. Introduction**
 In Korean, the particle **~커녕** is used to emphasize that something is far from happening or that one thing is even less likely or possible than another. It translates to "let alone," "far from," or "not to mention" in English. This grammar point is particularly useful when you want to stress the improbability of an action or state in comparison to another.
 
@@ -52,10 +52,12 @@ Example:
 #### **~은/는 고사하고**
 - Also means "let alone" or "not to mention."
 - More formal and often used in written language.
+
 | Grammar Point    | Usage                        | Formality       |
 |------------------|------------------------------|-----------------|
 | **~커녕**           | Emphasizes negative contrast | Informal to Neutral |
 | **~은/는 고사하고**   | Adds emphasis in formal writing | Formal            |
+
 #### **~은/는커녕**
 - Similar to **~기는커녕** but used directly with nouns or noun forms of verbs/adjectives without the nominalizer **기**.
 ---

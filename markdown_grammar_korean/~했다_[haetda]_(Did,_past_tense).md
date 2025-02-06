@@ -1,6 +1,6 @@
 Processing keyword: ~했다 [haetda] (Did, past tense)
 # Korean Grammar Point: ~했다 [haetda] (Did, past tense)
-# Understanding the Korean Past Tense: ~했다 [haetda]
+
 ## 1. Introduction
 The past tense in Korean allows speakers to express actions or states that have already occurred or been completed. One of the most common ways to form the past tense is by using the verb ending **~했다 [haetda]**. Mastering this grammar point is essential for effective communication about past events in Korean.
 

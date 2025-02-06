@@ -1,10 +1,11 @@
 Processing keyword: ~케 하다 [ke hada] (Make)
 # Korean Grammar Point: ~케 하다 [ke hada] (Make)
-# 1. Introduction
+
+## 1. Introduction
 The Korean grammar pattern **~케 하다** [ke hada] is used to express the idea of causing someone to do something or making something happen. It is equivalent to "make" or "let" in English. This grammar point is essential for constructing sentences where an action is induced or permitted by someone.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 **~케 하다** is attached to the verb stem to indicate that the subject causes or allows someone else to perform an action. It emphasizes the action being facilitated or compelled by the subject.
 - When used, it often conveys a sense of authority, permission, or instruction.
@@ -23,13 +24,13 @@ The Korean grammar pattern **~케 하다** [ke hada] is used to express the idea
 - **Verb Stem**: The base form of the verb without the **-다** ending.
 - **-게 하다**: The grammatical construction that means "make/let (someone) do".
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 - **-도록 하다** vs. **-게 하다**:
   - Both can mean "make someone do something," but **-도록 하다** often implies a suggestion or encouragement, while **-게 하다** is more about causing or allowing an action.
 - **시키다**:
   - **시키다** also means "to make someone do something," often used with nouns derived from verbs (e.g., 공부시키다 - make someone study). **-게 하다** is used directly with verb stems.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Context
 1. **선생님은 학생들에게 숙제를 빨리 끝내게 하셨습니다.**
    *Translation:* The teacher made the students finish their homework quickly.
@@ -51,7 +52,7 @@ The Korean grammar pattern **~케 하다** [ke hada] is used to express the idea
 2. **그가 나를 웃게 해.**
    *Translation:* He makes me laugh.
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - In Korean culture, showing respect and hierarchy is important. Using **-게 하다** can sometimes reflect authority or seniority.
 - Politeness levels can be adjusted by changing **하다** to its honorific form (**하시다**) or by adding polite endings.
@@ -61,7 +62,7 @@ The Korean grammar pattern **~케 하다** [ke hada] is used to express the idea
 2. **마음을 편하게 하다**
    - *Meaning:* To put someone's mind at ease.
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Mistake:** Using **-게 하다** directly with nouns instead of verb stems.
   - *Incorrect:* 선생님은 학생에게 공부하게 하다.
@@ -72,7 +73,7 @@ The Korean grammar pattern **~케 하다** [ke hada] is used to express the idea
 - **Mnemonic Device:** Remember that **-게 하다** is like "get" someone "to do" something.
 - **Tip:** Practice by taking verbs and forming sentences where someone causes another person to perform the action.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~게 하다** is used to express making or allowing someone to do something.
 - Attach **-게 하다** to the verb stem.

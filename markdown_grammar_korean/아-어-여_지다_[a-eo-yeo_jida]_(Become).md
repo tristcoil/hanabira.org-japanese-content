@@ -1,6 +1,6 @@
 Processing keyword: 아/어/여 지다 [a/eo/yeo jida] (Become)
 # Korean Grammar Point: 아/어/여 지다 [a/eo/yeo jida] (Become)
-# 아/어/여 지다 [a/eo/yeo jida] (Become)
+
 ## 1. Introduction
 In Korean, expressing changes in states or conditions is essential for describing transformations or developments over time. The grammar point **아/어/여 지다** attaches to verbs and adjectives to indicate "to become" or "to get" a certain way. Understanding this structure enhances your ability to describe dynamic situations and changes.
 

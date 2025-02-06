@@ -1,6 +1,6 @@
 Processing keyword: ~했더니 [haetdeoni] (When, and then)
 # Korean Grammar Point: ~했더니 [haetdeoni] (When, and then)
-# ~했더니 [haetdeoni] (When I did..., then...)
+
 ## 1. Introduction
 In Korean, the grammar point **~했더니 (haetdeoni)** is used to describe a situation where the speaker did something in the past, and as a result, a certain outcome occurred or a discovery was made. It connects an action to its subsequent consequence or realization, emphasizing the direct relationship between the two.
 
@@ -41,22 +41,27 @@ The structure combines a verb in the past tense with **더니**.
 ### Example 1 (Informal Spoken)
 **Sentence**: 아침에 일찍 일어났더니 피곤해요.
 **Translation**: I woke up early in the morning, and now I'm tired.
+
 ---
 ### Example 2 (Formal Written)
 **Sentence**: 그 영화를 봤더니 마음이 따뜻해졌습니다.
 **Translation**: When I watched that movie, my heart felt warm.
+
 ---
 ### Example 3 (Informal Conversation)
 **Sentence**: 친구를 만났더니 기분이 좋아졌어.
 **Translation**: I met a friend, and then I felt better.
+
 ---
 ### Example 4 (Formal Presentation)
 **Sentence**: 새로운 식당에서 식사했더니 음식이 정말 맛있었습니다.
 **Translation**: I dined at a new restaurant, and the food was really delicious.
+
 ---
 ### Example 5 (Written Narrative)
 **Sentence**: 산책을 했더니 기분 전환이 되었다.
 **Translation**: I took a walk, and then I felt refreshed.
+
 ---
 ## 5. Cultural Notes
 ### Politeness Levels

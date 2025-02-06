@@ -1,6 +1,6 @@
 Processing keyword: ~했더니 [haetdeoni] (After doing something, result)
 # Korean Grammar Point: ~했더니 [haetdeoni] (After doing something, result)
-# Understanding the Korean Grammar Point: ~했더니 (haetdeoni)
+
 ## 1. Introduction
 In learning Korean, connecting actions with their outcomes is essential for expressing sequences and cause-and-effect relationships. One useful grammatical structure for this purpose is **~했더니 (haetdeoni)**. This connective ending allows speakers to indicate that after they did something, a particular result occurred. This lesson will delve into the usage of **~했더니**, its formation, comparisons with similar grammar points, and practical examples to enhance your understanding.
 

@@ -1,8 +1,9 @@
 Processing keyword: ~했으면 [haesseumyeon] (If it were)
 # Korean Grammar Point: ~했으면 [haesseumyeon] (If it were)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, expressing hypothetical situations or regrets about the past involves specific grammatical structures. One such structure is **~했으면** (*haesseumyeon*), which translates to "if (someone) had done..." or "if it were...". This grammar point allows speakers to talk about unrealized past events and express wishes or regrets about things that didn't happen.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The suffix **~했으면** is used to:
 - Express hypothetical situations in the past.
@@ -33,7 +34,7 @@ To form **~했으면**, combine:
 ## Usage Notes
 - The structure is used to talk about events that **did not happen** but are imagined.
 - Often paired with expressions like **좋겠어요** (I wish) or **좋았을 텐데요** (it would have been good).
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## Comparing with **~(으)면**
 - **~(으)면**: General conditional "if", used for present or future conditions.
   - **내일 비가 오면 집에 있을게요.**
@@ -45,7 +46,7 @@ To form **~했으면**, combine:
 - **~했다면**: Similar to **~했으면**, but often used in formal writing or to emphasize speculation.
   - **그때 공부를 열심히 했다면 합격했을 거예요.**
     *(If I had studied hard then, I would have passed.)*
-# 4. Examples in Context
+## 4. Examples in Context
 ### Informal Speech
 1. **어제 영화 봤으면 좋았을 텐데.**
    *If we had watched the movie yesterday, it would have been nice.*
@@ -67,7 +68,7 @@ To form **~했으면**, combine:
   
   *A: How was the trip?  
   B: If the weather had been good, it would have been more enjoyable.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Expressing Regrets and Wishes
 - In Korean culture, it's common to express regrets or wishes about the past in conversation.
 - Using **~했으면** shows reflection on past events and consideration of different outcomes.
@@ -79,7 +80,7 @@ To form **~했으면**, combine:
   - **갔으면 좋았을 거예요.**
 - **Formal**: Used in formal settings or with superiors.
   - **갔으면 좋았을 것입니다.**
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Forgetting the Past Tense Marker**
    - Incorrect: **먹으면 좋았을 텐데.**
@@ -93,7 +94,7 @@ To form **~했으면**, combine:
 - **Practice Conjugation**: Regularly conjugate different verbs to become comfortable with the pattern.
 - **Memorize Key Phrases**: Learn common expressions using **~했으면** to become familiar with its usage.
 - **Create Sentences**: Make your own sentences reflecting on past events to practice the structure.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~했으면** is used to express hypothetical or unreal situations in the past.
 - Formed by attaching **았/었/였** and **으면** to the verb stem.

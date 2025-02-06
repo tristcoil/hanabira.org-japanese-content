@@ -1,6 +1,6 @@
 Processing keyword: ~했을 때 [haesseul ttae] (When someone did)
 # Korean Grammar Point: ~했을 때 [haesseul ttae] (When someone did)
-# ~했을 때 [haesseul ttae] (When someone did)
+
 ## 1. Introduction
 In Korean, expressing the timing of actions is essential for conveying clear and precise meanings. The grammar point **~했을 때 [haesseul ttae]** is used to indicate "when someone did" something in the past. This structure helps speakers discuss past events and situations that occurred at a specific time.
 

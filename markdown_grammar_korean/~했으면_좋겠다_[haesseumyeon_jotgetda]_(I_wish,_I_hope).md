@@ -1,6 +1,6 @@
 Processing keyword: ~했으면 좋겠다 [haesseumyeon jotgetda] (I wish, I hope)
 # Korean Grammar Point: ~했으면 좋겠다 [haesseumyeon jotgetda] (I wish, I hope)
-# Grammar Point: ~했으면 좋겠다 [haesseumyeon jotgetda] (I wish, I hope)
+
 ## 1. Introduction
 In Korean, expressing wishes or hopes about situations often involves specific grammatical constructions. One such construction is **~했으면 좋겠다**, which translates to **"I wish..."** or **"I hope..."**. This grammar point allows speakers to convey their desires or hopes regarding themselves or others.
 

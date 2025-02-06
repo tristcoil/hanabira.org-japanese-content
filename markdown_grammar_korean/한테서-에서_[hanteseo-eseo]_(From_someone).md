@@ -1,6 +1,6 @@
 Processing keyword: 한테서/에서 [hanteseo/eseo] (From someone)
 # Korean Grammar Point: 한테서/에서 [hanteseo/eseo] (From someone)
-# 한테서/에서 [hanteseo/eseo] (From someone)
+
 ## 1. Introduction
 In Korean, expressing that you received something **from someone** or **from somewhere** requires the correct use of particles. Two essential particles for this purpose are **한테서** and **에서**. Mastering these particles will help you convey the source of an action or item accurately, which is crucial for clear and effective communication in Korean.
 
@@ -126,20 +126,26 @@ While **한테서** and **에서** are common, you might also encounter **에게
 - Use **에서** to indicate receiving **from somewhere** (places or institutions).
 - Choose **에게서** or **(으)로부터** for formal contexts or when referring to superiors.
 - Be mindful of Korean honorifics and levels of politeness to avoid disrespect.
+
 ### Quick Recap Quiz
 1. **Fill in the blank with the correct particle (한테서 / 에서):**
    동생___ 선물을 받았어요.
+   
    **Answer:** 동생**한테서** 선물을 받았어요.
 2. **True or False:**
    It is appropriate to use **한테서** when speaking about receiving something from your teacher in a formal setting.
+   
    **Answer:** False (Use **에게서** or **께** for formal and respectful language.)
 3. **Correct the mistake in the sentence:**
    저는 시장**한테서** 과일을 샀어요.
+   
    **Answer:** 저는 시장**에서** 과일을 샀어요.
 4. **Choose the appropriate particle to complete the sentence:**
    회사___ 중요한 소식을 들었습니다.
+   
    a) 한테서  
    b) 에서
+   
    **Answer:** b) 에서 (회사**에서** 중요한 소식을 들었습니다.)
 ---
 By understanding the nuances of **한테서** and **에서**, and their proper usage, you'll enhance your ability to communicate sources and origins in Korean effectively and respectfully.

@@ -1,10 +1,11 @@
 Processing keyword: ~하기는 [hakineun] (Though, although)
 # Korean Grammar Point: ~하기는 [hakineun] (Though, although)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, expressing contrast or concession within a sentence is essential for nuanced communication. The grammar point **~하기는** (*~hakineun*) is used to acknowledge a fact or action while implying a contrasting or limiting condition. It is similar to "though" or "although" in English.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 **~하기는** is used to:
 - Admit or acknowledge something.
@@ -27,7 +28,7 @@ The structure for using **~하기는** is:
 - **~하기는** is often followed by **-지만**, **-한데**, or **-한데도**, which introduce the contrasting statement.
 - It can be used in both spoken and written Korean, in formal and informal contexts.
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## Comparison with **-지만**
 While **-지만** alone means "but" or "however," combining **~하기는** with **-지만** adds emphasis on the acknowledgment before the contrast.
 - **-지만**: Simple contrast.
@@ -38,7 +39,7 @@ While **-지만** alone means "but" or "however," combining **~하기는** with 
 - 🔹 **가고 싶기는 하지만 시간이 없어요.**
   - *Though I want to go, I don't have time.*
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Formal Context
 1. **이 영화는 재미있기는 한데 조금 길어요.**
    - *Though this movie is interesting, it's a bit long.*
@@ -55,7 +56,7 @@ While **-지만** alone means "but" or "however," combining **~하기는** with 
 2. **참여하기는 했으나 큰 도움이 되지 못했습니다.**
    - *Although I participated, I wasn't much help.*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 Using **~하기는** reflects the Korean communication style of indirectly expressing disagreement or reservations to maintain harmony and politeness.
 ## Levels of Politeness
@@ -70,7 +71,7 @@ Using **~하기는** reflects the Korean communication style of indirectly expre
 2. **좋기는 좋지만...**
    - *It's good, but...*
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Omitting the contrasting clause:**
   - Incorrect: **영화를 보기에는.**
@@ -81,7 +82,7 @@ Using **~하기는** reflects the Korean communication style of indirectly expre
 - **Mnemonic Device:** Think of **~하기는** as acknowledging ("Yes, it's so") before introducing a "but."
 - **Practice:** Create sentences by first stating a fact and then adding a contrasting point using **~하기는**.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~하기는** is used to acknowledge something before introducing a contrast.
 - It translates to "though" or "although."
@@ -95,7 +96,7 @@ Using **~하기는** reflects the Korean communication style of indirectly expre
 3. **Translate to Korean:** "Though it's expensive, I will buy it."
    - Answer: **비싸기는 하지만 살 거예요.**
 ---
-# Additional Practice
+## Additional Practice
 Try creating your own sentences using **~하기는** to express contrast. Remember to follow the structure and consider the level of politeness appropriate for the context.
 
 ---

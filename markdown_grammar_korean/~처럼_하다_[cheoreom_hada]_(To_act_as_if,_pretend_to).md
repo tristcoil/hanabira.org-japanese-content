@@ -1,6 +1,6 @@
 Processing keyword: ~처럼 하다 [cheoreom hada] (To act as if, pretend to)
 # Korean Grammar Point: ~처럼 하다 [cheoreom hada] (To act as if, pretend to)
-# ~처럼 하다 [cheoreom hada] (To act as if, pretend to)
+
 ## 1. Introduction
 In Korean, expressing that someone is **acting as if** or **pretending to** do something is often conveyed using the grammar structure **~처럼 하다**. This structure is essential for describing situations where someone behaves in a way that is not genuine, imitating an action, feeling, or state.
 
@@ -11,6 +11,7 @@ In Korean, expressing that someone is **acting as if** or **pretending to** do s
 - It is used when someone is behaving in a way that mimics or imitates something else, often not genuinely.
 ### Structure
 #### Formation Diagram
+
 | Sentence Component     | Korean                               | Explanation                                 |
 |------------------------|--------------------------------------|---------------------------------------------|
 | **Verb stem**          | **동사**                              | Base form of the verb                       |
@@ -19,6 +20,7 @@ In Korean, expressing that someone is **acting as if** or **pretending to** do s
 | **Nominalizer**        | **-는 것, -은 것, -인 것**             | Turns verbs/adjectives into noun phrases    |
 | **Like, as if**        | **처럼**                              | Means "like" or "as if"                     |
 | **To do**              | **하다**                              | Verb "to do"                                |
+
 #### Formation Patterns
 1. **For Verbs:**
    ```

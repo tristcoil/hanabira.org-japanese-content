@@ -1,6 +1,6 @@
 Processing keyword: 는/은 데 [neun/eun de] (Situation or condition)
 # Korean Grammar Point: 는/은 데 [neun/eun de] (Situation or condition)
-# 는/은 데 [neun/eun de] (Situation or Condition)
+
 ## 1. Introduction
 In Korean, the grammar pattern **-는/은 데** is a versatile connective that links two clauses, providing context or background information about a situation or condition. Understanding how to use **-는/은 데** correctly will enhance your ability to form complex sentences and express nuanced relationships between events or states.
 
@@ -104,11 +104,11 @@ The formation of **-는/은 데** depends on the verb or adjective stem it attac
 2. Translate the following sentence:
    - 날씨가 추운데 나가지 맙시다.
 3. What is one common mistake learners make when using **-는/은 데**?
+
 **Answers:**
 1. a) 예쁜데
 2. "It's cold outside, so let's not go out."
 3. Attaching **-는데** to descriptive verbs instead of **-은데/-ㄴ데**.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

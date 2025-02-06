@@ -1,6 +1,6 @@
 Processing keyword: ~하다 보면 [hada bomyeon] (If you keep doing)
 # Korean Grammar Point: ~하다 보면 [hada bomyeon] (If you keep doing)
-# "~하다 보면 [hada bomyeon]" Grammar Point Explanation
+
 ## 1. Introduction
 In Korean, the expression **~하다 보면** is a commonly used grammar pattern that conveys the meaning "if you keep doing" or "as you continue doing." It is used to express that if an action is repeated or continued over time, a certain result or situation will naturally occur. This lesson will provide a detailed explanation of **~하다 보면**, including its formation, usage, and practical examples to help you understand and apply this grammar point effectively.
 

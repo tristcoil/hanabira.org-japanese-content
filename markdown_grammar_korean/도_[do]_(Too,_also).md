@@ -1,6 +1,6 @@
 Processing keyword: 도 [do] (Too, also)
 # Korean Grammar Point: 도 [do] (Too, also)
-# 도 [do] (Too, Also)
+
 ## 1. Introduction
 The particle **도** [do] is a commonly used particle in Korean that translates to "too," "also," or "as well" in English. It is used to indicate that something is being added to a list or that an action or state applies in addition to another.
 

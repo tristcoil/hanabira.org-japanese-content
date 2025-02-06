@@ -1,10 +1,11 @@
 Processing keyword: ~했더니 [haetdeoni] (And then)
 # Korean Grammar Point: ~했더니 [haetdeoni] (And then)
-# 1. Introduction
+
+## 1. Introduction
 In learning Korean, understanding connective endings is essential for expressing complex ideas and sequences of events. One such connective is **~했더니 [haetdeoni]**, which is used to describe an action that leads to a result or discovery. This lesson will delve into the usage of **~했더니**, providing explanations, examples, and tips to master this grammar point.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 **~했더니 [haetdeoni]** connects two clauses to express that the speaker did something, and as a result, discovered or realized something else. It translates to "and then (I found/discovered/noticed that)".
 ## Structure
@@ -26,7 +27,7 @@ Example:
 (I studied, and then my grades improved.)
 ```
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## ~더니 vs. ~했더니
 - **~더니**: Used when the speaker observes a change or result based on past observations or actions by someone else or oneself (in the past).
 - **~했더니**: Specifically used when **the speaker did** the first action, which led to a result or discovery.
@@ -36,7 +37,7 @@ Example:
 | ~더니         | Someone else / Speaker (past self) | Observing a change based on past actions or states | 그는 열심히 공부하더니 성공했어요.<br>(He studied hard, and then he succeeded.) |
 | ~했더니       | Speaker                 | Result or discovery after the speaker's action    | 내가 물을 주었더니 꽃이 피었어요.<br>(I watered the plant, and then the flower bloomed.) |
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Formal Language
 1. **어제 밤에 늦게까지 일했더니 피곤합니다.**
    *I worked late last night, and now I'm tired.*
@@ -58,14 +59,14 @@ Example:
 2. **문을 열었더니 고양이가 밖에 있었어요.**
    *I opened the door, and the cat was outside.*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Politeness and Formality
 In Korean culture, expressing actions and their results respectfully is important, especially when interacting with elders or superiors. Using **~했더니** appropriately reflects causality in a polite manner.
 ## Idiomatic Expressions
 - **길을 물었더니 친절하게 알려주셨어요.**
   *I asked for directions, and then (they) kindly told me.*
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Using ~했더니 when the subject is not the speaker**
    Incorrect: *친구가 노래를 했더니 사람들이 박수를 쳤어요.*
@@ -76,7 +77,7 @@ In Korean culture, expressing actions and their results respectfully is importan
 - **Mnemonic Device**: Think of **했더니** as "I did (했) something and then (더니)..."
 - **Practice**: Create sentences about your daily activities leading to results.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~했더니** is used to express that the speaker did something, and as a result, discovered or experienced something else.
 - It connects two clauses: the first is an action by the speaker, the second is the result or discovery.
@@ -92,7 +93,6 @@ In Korean culture, expressing actions and their results respectfully is importan
 1. Possible answers vary. Example: *집에 돌아왔더니 아무도 없었어요.* (I came home, and then no one was there.)
 2. False. **~했더니** is used for the speaker's actions.
 3. 갔더니.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

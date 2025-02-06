@@ -1,6 +1,6 @@
 Processing keyword: ~하고 나서 [hago naseo] (After doing)
 # Korean Grammar Point: ~하고 나서 [hago naseo] (After doing)
-# ~하고 나서 [hago naseo] (After doing)
+
 ## 1. Introduction
 Understanding how to express sequential actions is essential in Korean. The grammar point **~하고 나서** allows speakers to indicate that one action is completed before another begins. This structure is equivalent to saying "after doing" in English and is widely used in everyday conversations.
 

@@ -1,6 +1,6 @@
 Processing keyword: ~케하다 [kehada] (To make so that)
 # Korean Grammar Point: ~케하다 [kehada] (To make so that)
-# ~케하다 (~kehada): To Make So That
+
 ## 1. Introduction
 In Korean, expressing causation is essential for conveying actions where one causes another to perform an action or to be in a certain state. The grammar pattern **~케하다** (`~kehada`) is used to indicate that the subject causes someone or something to do something or to become a certain way.
 

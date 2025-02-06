@@ -1,6 +1,6 @@
 Processing keyword: 밖에 [bakke] (Only, except)
 # Korean Grammar Point: 밖에 [bakke] (Only, except)
-# 밖에 [bakke] (Only, Except)
+
 ## 1. Introduction
 In Korean, **밖에** is a particle used to express limitation, similar to "only" or "nothing but" in English. It emphasizes that there's nothing more than what is stated, often conveying a sense of insufficiency or exclusivity. Unlike some other particles, **밖에** is always used with negative verbs.
 
@@ -16,7 +16,7 @@ The general structure for using **밖에** is:
 ### Formation Diagram
 ```plaintext
 ────────────    ────────    ───────────────
-      Noun          밖에         Negative Verb
+  Noun          밖에         Negative Verb
 ────────────    ────────    ───────────────
 ```
 ### Detailed Explanation
@@ -103,11 +103,11 @@ Using **밖에** appropriately reflects understanding of emphasis and nuance in 
    b) 밖에
 2. Fill in the blank: 시간은 조금___ 없어요.
 3. True or False: 밖에 can be used with affirmative verbs.
+
 **Answers:**
 1. **b) 밖에**
 2. **밖에** (시간은 조금**밖에** 없어요.)
 3. **False**
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

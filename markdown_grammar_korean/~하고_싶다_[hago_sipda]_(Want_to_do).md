@@ -1,6 +1,6 @@
 Processing keyword: ~하고 싶다 [hago sipda] (Want to do)
 # Korean Grammar Point: ~하고 싶다 [hago sipda] (Want to do)
-# ~하고 싶다 [hago sipda] (Want to do)
+
 ## 1. Introduction
 In Korean, expressing desires or wants is an essential part of communication. The grammar pattern **~하고 싶다** (`hago sipda`) translates to **"want to do"** in English. It is used to convey the speaker's desire to perform a particular action. This lesson will explore how to use **~하고 싶다** effectively, ensuring your expressions sound natural and are culturally appropriate.
 
@@ -128,7 +128,6 @@ Let's break it down:
    - **Corrected Sentence**: 친구는 영화를 보고 싶어해요.
 ---
 By mastering **~하고 싶다**, you can express your desires and understand others better, enhancing your Korean communication skills.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

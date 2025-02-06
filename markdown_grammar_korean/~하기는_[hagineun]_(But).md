@@ -1,6 +1,6 @@
 Processing keyword: ~하기는 [hagineun] (But)
 # Korean Grammar Point: ~하기는 [hagineun] (But)
-# Korean Grammar Lesson: ~하기는 [hagineun] (But)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~하기는** (*hagineun*), which is used to express contrast or concession, similar to the English word **"but"**. Understanding this grammar will enhance your ability to convey nuanced thoughts and participate in more complex conversations.
 
@@ -83,7 +83,6 @@ Using **~하기는** can soften statements, showing humility or politeness by ac
 1. 하 + 기는 = 하기는
 2. 좋아하기는 하지만 비싸요.
 3. **~지만** is a direct "but", while **~하기는** emphasizes the action before contrasting.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

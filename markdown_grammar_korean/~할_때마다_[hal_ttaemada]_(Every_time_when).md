@@ -1,6 +1,6 @@
 Processing keyword: ~할 때마다 [hal ttaemada] (Every time when)
 # Korean Grammar Point: ~할 때마다 [hal ttaemada] (Every time when)
-# ~할 때마다 [hal ttaemada] (Every Time When)
+
 ## 1. Introduction
 The Korean grammar pattern **~할 때마다** is used to express "every time when" or "whenever". It indicates that whenever a particular action or event occurs, another action consistently happens as a result. This structure is essential for emphasizing repeated or habitual experiences in Korean.
 
@@ -113,7 +113,6 @@ While **~할 때마다** itself is straightforward, **마다** is used in variou
    - **Answer**: **a)** 한국어를 배울 때마다 더 재미있어져요.
 ---
 By mastering **~할 때마다**, you enhance your ability to describe habitual actions and repeated experiences, making your Korean communication more nuanced and expressive.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

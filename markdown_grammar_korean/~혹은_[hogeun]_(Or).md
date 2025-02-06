@@ -1,6 +1,6 @@
 Processing keyword: ~혹은 [hogeun] (Or)
 # Korean Grammar Point: ~혹은 [hogeun] (Or)
-# ~혹은 [hogeun] (Or)
+
 ## 1. Introduction
 In Korean, expressing alternatives or choices is essential for everyday communication. The conjunction **~혹은** (*hogeun*) serves as a way to connect two nouns, verbs, or clauses to indicate "or". Understanding how to use **~혹은** will enhance your ability to convey options and make your speech more fluent.
 
@@ -11,8 +11,7 @@ In Korean, expressing alternatives or choices is essential for everyday communic
 ### Structure
 **Noun/Verb/Clause + 혹은 + Noun/Verb/Clause**
 ### Formation Diagram
-```mermaid
-graph LR
+```
 A[Noun/Verb/Clause] -- 혹은 --> B[Noun/Verb/Clause]
 ```
 ### Usage Notes

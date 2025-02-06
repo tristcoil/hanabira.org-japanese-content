@@ -1,10 +1,11 @@
 Processing keyword: 아/어/여 버리다 [a/eo/yeo beorida] (Completely, regretfully)
 # Korean Grammar Point: 아/어/여 버리다 [a/eo/yeo beorida] (Completely, regretfully)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, the auxiliary verb **아/어/여 버리다** is used to express the **completion of an action with an emotional nuance**. This grammar point often conveys feelings such as relief, regret, disappointment, or surprise about the action being completed.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The construction **아/어/여 버리다** attaches to the verb stem to indicate that an action has been **completed entirely**, sometimes with an **emotional overtone**. The emotion conveyed depends on the context and intonation, ranging from relief to regret.
 - **Positive context**: Expressing relief or satisfaction that something is finished.
@@ -26,12 +27,14 @@ The construction **아/어/여 버리다** attaches to the verb stem to indicate
 [Verb Stem] + 아/어/여 + 버리다
 ```
 ---
-# 3. Comparative Analysis
+
+## 3. Comparative Analysis
 ## Comparison with **-고 말다**
 - **-고 말다**: Also indicates the completion of an action, often unintended or regrettable.
 - **Difference**: **-고 말다** emphasizes that the action was completed **despite attempts to avoid it**, whereas **아/어/여 버리다** focuses on the **emotional reaction** to the action's completion.
 ---
-# 4. Examples in Context
+
+## 4. Examples in Context
 ## Example Sentences
 ### 1. Regretful Completion
 - **Korean**: 그만 돈을 다 써 버렸어요.
@@ -54,7 +57,8 @@ The construction **아/어/여 버리다** attaches to the verb stem to indicate
 - **Romanization**: Beolsseo bap meogeo beoryeosseo?
 - **Translation**: You already ate without me?
 ---
-# 5. Cultural Notes
+
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean, expressing emotions subtly through grammatical structures is common. The use of **아/어/여 버리다** allows speakers to convey their feelings about an action without explicitly stating them, aligning with the cultural norm of indirect expression.
 ## Politeness Levels
@@ -67,7 +71,8 @@ The grammar point can be used across different levels of speech, but the conjuga
   - **Korean**: 공연이 끝나 버렸어요.
   - **Translation**: The performance has completely ended.
 ---
-# 6. Common Mistakes and Tips
+
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Incorrect Connector Usage**
    - Mistake: *먹다* → 먹아 버리다 ❌
@@ -81,7 +86,8 @@ The grammar point can be used across different levels of speech, but the conjuga
 - **Mnemonic for Vowel Harmony**: **"Bright vowels (ㅏ, ㅗ) get 아, the rest get 어."**
 - **Emotional Context Matters**: Remember that **아/어/여 버리다** carries emotion; think about how you feel about the action when using it.
 ---
-# 7. Summary and Review
+
+## 7. Summary and Review
 ## Key Takeaways
 - **아/어/여 버리다** is used to express the complete termination of an action with an emotional nuance.
 - The connector **아**, **어**, or **여** is added based on the verb stem's last vowel.
@@ -102,9 +108,10 @@ The grammar point can be used across different levels of speech, but the conjuga
 2. a) 맞**아** 버리다
 3. False. It can express various emotions, including relief and satisfaction.
 ---
-# 8. Practice
+
+
 Try creating your own sentences using **아/어/여 버리다** to express a completed action with emotion.
----
+
 *Happy studying! 화이팅!*
 
 ---

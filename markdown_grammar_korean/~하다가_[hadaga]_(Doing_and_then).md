@@ -1,6 +1,6 @@
 Processing keyword: ~하다가 [hadaga] (Doing and then)
 # Korean Grammar Point: ~하다가 [hadaga] (Doing and then)
-# Korean Grammar Lesson: ~하다가 [hadaga] (Doing and then)
+
 ## 1. Introduction
 In Korean, the grammatical pattern **~하다가** is used to express that one action was in progress when another action occurred, often interrupting the first action. It allows speakers to describe scenarios where something unexpected or significant happens during an ongoing activity. Mastering **~하다가** will enable you to articulate events more vividly and naturally in Korean.
 

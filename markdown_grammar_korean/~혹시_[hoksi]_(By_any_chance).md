@@ -1,8 +1,10 @@
 Processing keyword: ~혹시 [hoksi] (By any chance)
 # Korean Grammar Point: ~혹시 [hoksi] (By any chance)
-# 1. Introduction
+
+## 1. Introduction
 **혹시** (*hoksi*) is a Korean adverb commonly translated as "**by any chance**," "**maybe**," or "**perhaps**" in English. It is frequently used in questions to express uncertainty or to politely make a request or inquiry. Understanding how to use **혹시** can greatly enhance your ability to ask questions more naturally and politely in Korean.
-# 2. Core Grammar Explanation
+
+## 2. Core Grammar Explanation
 ## Meaning and Usage
 **혹시** is used to:
 - Soften the tone of a question or request.
@@ -25,15 +27,18 @@ Below is a simple diagram illustrating the placement of **혹시** in a sentence
   *By any chance, do you know this?*
 - 이거 혹시 아세요?  
   *Do you perhaps know this?*
-# 3. Comparative Analysis
+
+## 3. Comparative Analysis
 **혹시** vs. **만약에** (*manyage*):
 - **만약에** means "if" and is used in conditional sentences.
 - **혹시** is used to indicate uncertainty in questions and is more about "by any chance" rather than setting up a condition.
+
 | Adverb   | Usage                       | Example                                |
 |----------|-----------------------------|----------------------------------------|
 | 혹시     | Polite inquiry, uncertainty | 혹시 지금 시간 있어요? (*Do you by any chance have time now?*) |
 | 만약에   | Conditional "if" statements | 만약에 비가 오면, 못 가요. (*If it rains, I can't go.*) |
-# 4. Examples in Context
+
+## 4. Examples in Context
 ### Formal Situations
 1. **혹시 성함이 어떻게 되세요?**  
    *By any chance, what is your name?*
@@ -50,7 +55,8 @@ Below is a simple diagram illustrating the placement of **혹시** in a sentence
 ### Spoken Context
 1. **혹시 이 근처에 은행이 어디인지 아세요?**  
    *Do you by any chance know where a bank is around here?*
-# 5. Cultural Notes
+
+## 5. Cultural Notes
 ## Politeness and Formality
 Using **혹시** adds a layer of politeness to your question, making it less direct and more respectful. This is important in Korean culture, where indirect communication and respect are valued, especially when speaking to someone older or of higher status.
 ## Idiomatic Expressions
@@ -60,7 +66,8 @@ Using **혹시** adds a layer of politeness to your question, making it less dir
   **Example:**  
   **혹시나 해서 우산을 가져왔어요.**  
   *I brought an umbrella just in case.*
-# 6. Common Mistakes and Tips
+
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 1. **Overusing 혹시 in statements:**  
    **Incorrect:** 혹시 나는 학생입니다.  
@@ -75,7 +82,8 @@ Using **혹시** adds a layer of politeness to your question, making it less dir
   Think of **혹시** as "Hope She..." to remind you it's used when you're hopeful but uncertain about something.
 - **Practice Polite Questions:**  
   Use **혹시** when asking for help or information from strangers to sound more polite.
-# 7. Summary and Review
+
+## 7. Summary and Review
 ## Key Takeaways
 - **혹시** means "by any chance," used to politely express uncertainty in questions.
 - It adds politeness and softness to inquiries.
@@ -86,6 +94,7 @@ Using **혹시** adds a layer of politeness to your question, making it less dir
    a) 혹시 나는 한국 사람입니다.
    b) 혹시 지금 시간 있어요?
 3. Translate to Korean: "By any chance, do you know his phone number?"
+
 **Answers:**
 1. To politely express uncertainty or soften a question.
 2. b) 혹시 지금 시간 있어요?

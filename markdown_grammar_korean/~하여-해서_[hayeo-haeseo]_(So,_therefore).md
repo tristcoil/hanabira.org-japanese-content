@@ -1,6 +1,6 @@
 Processing keyword: ~하여/해서 [hayeo/haeseo] (So, therefore)
 # Korean Grammar Point: ~하여/해서 [hayeo/haeseo] (So, therefore)
-# Understanding the Korean Grammar Point: ~하여/해서 [hayeo/haeseo] (So, Therefore)
+
 ## 1. Introduction
 In Korean, expressing cause and effect or reasoning between actions and events is crucial for clear communication. The grammar points **~하여** (hayeo) and **~해서** (haeseo) are connectors that mean **"so," "therefore,"** or **"because."** They link clauses to show that the preceding action is the reason for the following one. This lesson will explore their usage, formation, and nuances to help you use them naturally.
 
@@ -126,8 +126,8 @@ In Korean, expressing cause and effect or reasoning between actions and events i
 - **Example Answer:** 책을 많이 읽어서 지식이 늘었어요.
   *I read a lot of books, so my knowledge has increased.*
 ---
-# End of Lesson
-Feel free to revisit this lesson to reinforce your understanding of **~하여/해서**. Practice by forming your own sentences to become more comfortable with these connectors.
+
+Feel free to revisit this lesson to reinforce your understanding of **~하여/해서**. 
 
 ---
 © [Hanabira.org](https://hanabira.org)

@@ -1,10 +1,9 @@
 Processing keyword: ~하기는 하다 [hakineun hada] (Do to some extent)
 # Korean Grammar Point: ~하기는 하다 [hakineun hada] (Do to some extent)
-# **Grammar Point: ~하기는 하다 [hakineun hada] (Do to some extent)**
 
----
 ## 1. Introduction
 Welcome to today's lesson on the Korean grammar point **~하기는 하다**. This structure is used to express that an action is indeed done, but there might be reservations, limitations, or contrasting information associated with it. Understanding this grammar will help you express subtle nuances and add depth to your Korean communication.
+
 ---
 ## 2. Core Grammar Explanation
 ### **Meaning**

@@ -1,10 +1,9 @@
 Processing keyword: 지금 [jigeum] (Now)
 # Korean Grammar Point: 지금 [jigeum] (Now)
-# 지금 [jigeum] (Now)
 
----
 ## 1. Introduction
 **지금** (*jigeum*) is a fundamental Korean adverb meaning **"now"** or **"at this moment"**. It's widely used in daily conversations to indicate actions or states occurring at the present time. Understanding how to use **지금** is essential for expressing current events and engaging in real-time discussions in Korean.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -20,8 +19,7 @@ Processing keyword: 지금 [jigeum] (Now)
   - *jeoneun jigeum meogeoyo.*
   - "I am eating now."
 ### Formation Diagram
-```mermaid
-graph TD;
+```
     A[Subject] --> B[지금];
     B --> C[Verb];
 ```

@@ -1,6 +1,6 @@
 Processing keyword: ~할 수밖에 없다 [hal subakke eopda] (Have no choice but to)
 # Korean Grammar Point: ~할 수밖에 없다 [hal subakke eopda] (Have no choice but to)
-# ~할 수밖에 없다 [hal subakke eopda] (Have no choice but to)
+
 ## 1. Introduction
 The Korean grammar point **~할 수밖에 없다** is used to express a lack of alternatives, emphasizing that one **has no choice but to** do something. It conveys inevitability or an obligation due to circumstances.
 
@@ -55,6 +55,7 @@ The structure combines a verb stem with **~을/ㄹ 수밖에 없다**.
   - Informal: **~할 수밖에 없어.**
 ### Cultural Relevance
 In Korean culture, expressing situations where one is compelled to act due to circumstances can reflect humility and acknowledgment of external factors, which aligns with the collectivist nature of society.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes
@@ -87,6 +88,7 @@ In Korean culture, expressing situations where one is compelled to act due to ci
 3. **Choose the correct form**: 만들다 → 만들___ 수밖에 없다
    a) 을  
    b) ㄹ
+
 **Answers**:
 1. b) 수밖에 없었어요
 2. False (They are similar but have nuanced differences)

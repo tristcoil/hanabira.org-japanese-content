@@ -1,6 +1,6 @@
 Processing keyword: ~한테/한테서 [hante/hanteseo] (To/From someone)
 # Korean Grammar Point: ~한테/한테서 [hante/hanteseo] (To/From someone)
-# Korean Grammar Lesson: ~한테/한테서 [hante/hanteseo] (To/From Someone)
+
 ## 1. Introduction
 In Korean, the particles **한테** [hante] and **한테서** [hanteseo] are commonly used to indicate "to someone" and "from someone" respectively. They are essential in constructing sentences that involve giving, receiving, or any action directed towards or originating from a person or animal. Understanding how to use these particles will greatly enhance your ability to communicate interactions between people in Korean.
 

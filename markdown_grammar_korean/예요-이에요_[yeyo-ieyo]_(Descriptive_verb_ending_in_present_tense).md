@@ -1,10 +1,9 @@
 Processing keyword: 예요/이에요 [yeyo/ieyo] (Descriptive verb ending in present tense)
 # Korean Grammar Point: 예요/이에요 [yeyo/ieyo] (Descriptive verb ending in present tense)
-# **Grammar Lesson: 예요/이에요 [yeyo/ieyo] (Descriptive Verb Ending in Present Tense)**
 
----
 ## 1. Introduction
 In Korean, expressing the verb "to be" in the present tense is essential for constructing basic sentences. The endings **예요** and **이에요** are polite forms used to state that something "is" or to identify and describe nouns. Mastering these endings will significantly enhance your ability to communicate in everyday Korean conversations.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning and Usage
@@ -22,8 +21,7 @@ Determine which ending to use based on the final sound of the noun:
 | Ends with a **consonant** | +          | 이에요      | 책 + 이에요 = 책이에요     |
 ---
 ### Visual Aid
-```mermaid
-graph LR
+```
 A[Noun ending with vowel] -- attach --> B[예요]
 C[Noun ending with consonant] -- attach --> D[이에요]
 ```
@@ -32,11 +30,13 @@ C[Noun ending with consonant] -- attach --> D[이에요]
 ### Comparing 예요/이에요 with Other Forms
 - **입니다 [imnida]:** More formal and used in formal settings or writing.
 - **야/이야 [ya/iya]:** Informal, used among close friends or younger people.
+
 | **Speech Level** | **Vowel Ending** | **Consonant Ending** | **Example Sentence**                |
 |------------------|------------------|----------------------|-------------------------------------|
 | Formal           | 입니다            | 입니다                | 저는 학생**입니다**.               |
 | Polite Informal  | 예요             | 이에요               | 저는 학생**이에요**.              |
 | Casual           | 야               | 이야                 | 나는 학생**이야**.               |
+
 ---
 ## 4. Examples in Context
 ### Sentence Examples
@@ -125,7 +125,6 @@ C[Noun ending with consonant] -- attach --> D[이에요]
    b) **저것은 카메라예요?**
 ---
 By understanding and practicing **예요** and **이에요**, you'll be able to form basic sentences confidently and politely in Korean. Keep practicing, and soon it will become second nature!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

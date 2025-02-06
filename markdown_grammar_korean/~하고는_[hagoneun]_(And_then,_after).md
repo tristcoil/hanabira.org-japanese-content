@@ -1,6 +1,6 @@
 Processing keyword: ~하고는 [hagoneun] (And then, after)
 # Korean Grammar Point: ~하고는 [hagoneun] (And then, after)
-# Understanding the Korean Grammar Point: ~하고는 (And then, after)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~하고는** (*hagoneun*), which is used to indicate that after one action, another action occurs—often unexpectedly or in contrast to what was anticipated. This expression helps connect actions and highlight the relationship or contrast between them.
 

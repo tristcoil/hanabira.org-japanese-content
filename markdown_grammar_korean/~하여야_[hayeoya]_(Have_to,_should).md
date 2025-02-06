@@ -1,6 +1,6 @@
 Processing keyword: ~하여야 [hayeoya] (Have to, should)
 # Korean Grammar Point: ~하여야 [hayeoya] (Have to, should)
-# Korean Grammar Lesson: ~하여야 (*hayeoya*) - "Have to, Should"
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~하여야** (*hayeoya*), which is used to express obligation or necessity—similar to "have to" or "should" in English. Mastering this form will enhance your ability to articulate duties and responsibilities in formal contexts.
 
@@ -20,6 +20,7 @@ The structure for forming **~하여야** is straightforward:
 ```
 - **Action Verb Stem**: The base form of the verb without **다**.
 ### Visual Aid: Formation Table
+
 | **Verb (Dictionary Form)** | **Verb Stem** | **~하여야 Form** | **Meaning**                 |
 |----------------------------|---------------|-----------------|-----------------------------|
 | 가다 (to go)               | 가             | 가하여야         | have to go                  |
@@ -27,7 +28,9 @@ The structure for forming **~하여야** is straightforward:
 | 공부하다 (to study)        | 공부하         | 공부하여야       | have to study               |
 | 일하다 (to work)           | 일하           | 일하여야         | have to work                |
 | 준비하다 (to prepare)      | 준비하         | 준비하여야       | have to prepare             |
+
 *Note*: While **~하여야** can technically be attached to any verb stem, it is most naturally used with verbs ending in **하다**.
+
 ---
 ## 3. Comparative Analysis
 ### ~하여야 vs. ~해야
@@ -38,16 +41,19 @@ The structure for forming **~하여야** is straightforward:
 |-------------|----------------------------|-------------------|
 | ~하여야      | Formal, literary           | Written, speeches |
 | ~해야        | Informal, spoken           | Daily conversation|
+
 ### ~하여야 vs. ~아야/어야
 - **~아야/어야** is another ending meaning "have to" or "must," used with verbs not ending in **하다**.
 - **Usage**:
   - Verbs with stem ending in **ㅏ** or **ㅗ**: use **~아야**
   - Other verbs: use **~어야**
+
 | **Verb Stem Ending** | **Ending Used** | **Example**              |
 |----------------------|-----------------|--------------------------|
 | ㅏ or ㅗ             | ~아야           | 가다 → 가아야 (가야)      |
 | Others               | ~어야           | 먹다 → 먹어야             |
 | 하다                 | ~하여야         | 공부하다 → 공부하여야     |
+
 ---
 ## 4. Examples in Context
 ### 1. Formal Written
@@ -108,7 +114,6 @@ The structure for forming **~하여야** is straightforward:
    *Answer*: False
 ---
 By understanding and practicing **~하여야**, you'll enhance your ability to communicate obligations respectfully in Korean, especially in formal situations. Keep practicing to build confidence and fluency!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

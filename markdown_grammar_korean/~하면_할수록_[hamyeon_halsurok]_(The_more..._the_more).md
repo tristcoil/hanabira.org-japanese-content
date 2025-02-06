@@ -1,8 +1,10 @@
 Processing keyword: ~하면 할수록 [hamyeon halsurok] (The more... the more)
 # Korean Grammar Point: ~하면 할수록 [hamyeon halsurok] (The more... the more)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, the expression **~하면 할수록** (*hamyeon halsurok*) is used to convey the meaning "the more... the more...". It's a comparative grammar structure that emphasizes that as one action or state increases, another action or state also increases proportionally.
-# 2. Core Grammar Explanation
+
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 ### Meaning
 The structure **~하면 할수록** expresses a proportional relationship between two actions or states. It is used to indicate that as one thing happens or intensifies, another thing happens or intensifies correspondingly.
@@ -25,14 +27,15 @@ Here's a simplified diagram to illustrate the structure:
 ```
 [Verb Stem] + (으)면 [Same Verb Stem] + (으)ㄹ수록
 ```
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 Compare **~하면 할수록** with **~(으)ㄹ수록**:
 - **~(으)ㄹ수록** can be used alone to mean "the more... the more...".
   - Example: 바쁠수록 (**The busier** I am)
 - **~하면 할수록** emphasizes the action by repeating the verb with the conditional.
   - Example: 공부하면 할수록 (**The more** I study)
 The use of **~하면 할수록** adds emphasis and clarity to the proportional relationship.
-# 4. Examples in Context
+
+## 4. Examples in Context
 ### Formal Situations
 1. **한국어를 공부하면 할수록 재미있어요.**  
    _The more I study Korean, the more interesting it becomes._
@@ -49,14 +52,16 @@ The use of **~하면 할수록** adds emphasis and clarity to the proportional r
 ### Spoken Context
 1. **얘기하면 할수록 복잡해지네.**  
    _The more we talk about it, the more complicated it gets._
-# 5. Cultural Notes
+
+## 5. Cultural Notes
 ## Cultural Relevance
 Understanding and using structures like **~하면 할수록** can help learners grasp the nuances of expressing proportional relationships in Korean, which is important in daily conversations and expressing complex thoughts.
 ## Idiomatic Expressions
 - **갈수록 태산이다.**  
   _It goes from bad to worse._ (Literally, "As you go, Mt. Taesan.")
   - Uses **갈수록** to express that something becomes increasingly difficult.
-# 6. Common Mistakes and Tips
+
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Incorrect Verb Conjugation**
    - **Incorrect:** 먹으면 먹수록  
@@ -71,7 +76,7 @@ Understanding and using structures like **~하면 할수록** can help learners 
   Think of **"If I [do], the more I [do]"** to remember to repeat the verb.
 - **Practice with Common Verbs:**  
   Create sentences using common verbs to get familiar with the structure.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~하면 할수록** is used to express "the more... the more..." in Korean.
 - The structure combines the conditional **~(으)면** and the proportional **~(으)ㄹ수록**.

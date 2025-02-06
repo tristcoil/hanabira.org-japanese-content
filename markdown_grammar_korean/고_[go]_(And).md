@@ -1,6 +1,6 @@
 Processing keyword: 고 [go] (And)
 # Korean Grammar Point: 고 [go] (And)
-# Korean Grammar Point: **-고** (And)
+
 ## 1. Introduction
 In Korean, connecting actions and descriptions smoothly is essential for natural communication. The conjunctive particle **-고** is one of the most commonly used structures to link verbs and adjectives, equivalent to "and" in English. This lesson will delve into the usage of **-고**, helping you understand how to connect clauses seamlessly in Korean.
 

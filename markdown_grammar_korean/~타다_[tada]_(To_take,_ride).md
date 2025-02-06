@@ -1,8 +1,9 @@
 Processing keyword: ~타다 [tada] (To take, ride)
 # Korean Grammar Point: ~타다 [tada] (To take, ride)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we will explore the Korean verb **타다** (*tada*), which means **"to take"** or **"to ride"**. This verb is essential when discussing modes of transportation, riding activities, or even certain expressions. Mastering **타다** will enhance your ability to talk about daily commutes, travel, and recreational activities in Korean.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 ### Meaning
 - **타다** (*tada*): 
@@ -43,7 +44,7 @@ The basic sentence structure using **타다** is:
 | Informal       | 탔어        | Casual speech         |
 | Informal Polite| 탔어요      | Everyday conversation |
 | Formal Polite  | 탔습니다    | Formal settings       |
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## Comparing **타다** with **타고 가다**
 - **타다**: Emphasizes the action of riding or taking transportation.
   - **저는 버스를 타요.**
@@ -55,7 +56,7 @@ The basic sentence structure using **타다** is:
 - **타고 오다**: Combines **타다** (to ride) and **오다** (to come), used when someone comes somewhere by riding.
   - **친구가 자전거를 타고 왔어요.**
     - *My friend came by bicycle.*
-# 4. Examples in Context
+## 4. Examples in Context
 ## Formal Speech
 1. **저는 매일 지하철을 탑니다.**
    - *I take the subway every day.*
@@ -76,7 +77,7 @@ The basic sentence structure using **타다** is:
    - *The passengers arrived at their destination by bus.*
 2. **그녀는 파도를 타는 것을 좋아한다.**
    - *She likes to ride the waves (surf).*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Public Transportation**: Korea has an extensive and efficient public transportation system. Using verbs like **타다** is essential when navigating buses, subways, and trains.
 - **Recreational Activities**: Activities like skiing and snowboarding are popular in Korea, often expressed using **타다**.
@@ -98,7 +99,7 @@ Understanding the appropriate speech level is crucial in Korean culture, showing
 3. **분위기를 타다**: To be influenced by the mood or atmosphere.
    - **분위기를 타서 말했어요.**
      - *I spoke up influenced by the mood.*
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 ### Mistake 1: Using the Wrong Particle
 - **Incorrect**: **버스에 타다**
@@ -116,7 +117,7 @@ Understanding the appropriate speech level is crucial in Korean culture, showing
   - **저는 학교에 버스를 타고 가요.**
     - *I go to school by bus.*
 - **Visual Aids**: Use images of different transportation modes and label them with **타다** expressions.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **타다** is used to express "riding" or "taking" transportation and certain activities.
 - Always use the object marking particles **을/를** with the mode of transport.

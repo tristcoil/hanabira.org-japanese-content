@@ -1,6 +1,6 @@
 Processing keyword: ~했었다 [haesseotda] (Had done)
 # Korean Grammar Point: ~했었다 [haesseotda] (Had done)
-# ~했었다 [haesseotda] (Had Done)
+
 ## 1. Introduction
 In Korean, expressing past actions and their temporal relationships is essential for clear communication. The grammar point **~했었다** ([haesseotda]) is used to indicate that an action **had been completed in the past before another past action or time reference**. It serves a similar function to the past perfect tense "had done" in English.
 

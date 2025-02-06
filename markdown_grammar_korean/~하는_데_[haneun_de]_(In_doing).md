@@ -1,10 +1,11 @@
 Processing keyword: ~하는 데 [haneun de] (In doing)
 # Korean Grammar Point: ~하는 데 [haneun de] (In doing)
-# 1. Introduction
+
+## 1. Introduction
 Welcome to today's lesson on the Korean grammar point **~하는 데** (*~haneun de*). This construction is commonly used to express "in doing," "while doing," or "when doing" something. Understanding this grammar point will enhance your ability to describe actions in progress and discuss circumstances surrounding events in Korean. Let's dive in!
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 ### Meaning
 The expression **~하는 데** (*~haneun de*) is used to indicate:
@@ -20,22 +21,23 @@ Verb Stem + 는 데 + [필요하다 / 좋다 / 어렵다 / 시간 / 돈 / 도움
 - **Verb Stem + 는 데**: Creates a noun phrase meaning "in doing [verb]"
 - Followed by nouns or adjectives that describe necessity, difficulty, time, money, help, etc.
 ### Formation Diagram
+
 | Verb Type | Verb Stem | + 는 데 |
 |-----------|-----------|---------|
 | Action Verb | 먹다 (to eat) | 먹는 데 |
 | Action Verb | 찾다 (to find) | 찾는 데 |
 | Action Verb ending with ㄹ | 만들다 (to make) | 만드는 데 |
+
 ---
 ## Visual Aid
 ### Usage Flowchart
-```mermaid
-graph LR
+```
 A[Action Verb] --> B[Remove 다]
 B --> C[Add 는 데]
 C --> D[Phrase: "In doing [action]"]
 ```
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Similar Grammar Points
 - **~(으)면서** (*~(eu)myeonseo*): Means "while doing" but emphasizes simultaneous actions.
   - *책을 읽으면서 음악을 들어요.*  
@@ -48,7 +50,7 @@ C --> D[Phrase: "In doing [action]"]
 - **~(으)면서** emphasizes two actions happening at the same time.
 - **~(으)려고** expresses intention or purpose.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example Sentences
 1. **이번 프로젝트를 완성하는 데 시간이 많이 걸렸어요.**  
    *It took a lot of time to complete this project.*
@@ -67,7 +69,7 @@ C --> D[Phrase: "In doing [action]"]
 - **그 게임 깨는 데 도움 줄까?**  
   *Want some help beating that game?*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, expressing the effort or resources required to achieve something is common. Using **~하는 데** highlights the importance of the process and acknowledges any assistance received, reflecting values of diligence and cooperation.
 ## Idiomatic Expressions
@@ -79,7 +81,7 @@ In Korean culture, expressing the effort or resources required to achieve someth
   - *운동하는 데 이 음식이 도움돼요.*  
     *(This food helps in exercising.)*
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 ### Common Mistakes
 1. **Using it with adjectives**: Remember, **~하는 데** is used with action verbs, not adjectives.
@@ -92,7 +94,7 @@ In Korean culture, expressing the effort or resources required to achieve someth
 - **Mnemonic Device**: Think of **데** as "the place/point where something happens."
 - **Association**: Associate **~하는 데** with "in the process/place of doing."
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~하는 데** is used to express "in doing," "when doing," or "for doing."
 - It is formed by adding **는 데** to the verb stem of action verbs.
@@ -108,7 +110,6 @@ In Korean culture, expressing the effort or resources required to achieve someth
 4. What is a common mistake learners make with **~하는 데**?
    - **Answer**: Confusing **~하는 데** with **~하는데** and using it with adjectives.
 Feel free to review the lesson and ask any questions!
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

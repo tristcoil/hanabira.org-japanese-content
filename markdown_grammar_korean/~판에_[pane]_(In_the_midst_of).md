@@ -1,6 +1,6 @@
 Processing keyword: ~판에 [pane] (In the midst of)
 # Korean Grammar Point: ~판에 [pane] (In the midst of)
-# Grammar Lesson: ~판에 ([pane]) - "In the Midst of"
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~판에** (*[pane]*), which translates to **"in the midst of"** or **"just when"** in English. This expression is used to indicate that an event occurs right in the middle of another action or situation, often unexpectedly or inconveniently.
 
@@ -92,6 +92,7 @@ In Korean culture, punctuality and respecting others' time are highly valued. Us
      - *Explanation*: Use **~는 중에** to indicate simultaneous actions without the interruption nuance.
 ---
 By mastering **~판에**, you can effectively convey situations where timing is crucial, adding depth to your Korean language skills.
+
 --- 
 *Happy studying!*
 

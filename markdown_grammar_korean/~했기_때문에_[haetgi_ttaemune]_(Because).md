@@ -1,6 +1,6 @@
 Processing keyword: ~했기 때문에 [haetgi ttaemune] (Because)
 # Korean Grammar Point: ~했기 때문에 [haetgi ttaemune] (Because)
-# ~했기 때문에 [haetgi ttaemune] (Because)
+
 ## 1. Introduction
 Expressing reasons and causes is essential in any language. In Korean, **~했기 때문에** is a grammatical structure used to indicate the reason for a past action or state. It translates to **"because (someone) did..."** or **"due to (someone) having done..."** Understanding this grammar point will enhance your ability to explain past events and reasons accurately in Korean.
 

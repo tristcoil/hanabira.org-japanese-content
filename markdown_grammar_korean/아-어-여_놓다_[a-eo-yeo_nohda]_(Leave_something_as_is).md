@@ -1,6 +1,6 @@
 Processing keyword: 아/어/여 놓다 [a/eo/yeo nohda] (Leave something as is)
 # Korean Grammar Point: 아/어/여 놓다 [a/eo/yeo nohda] (Leave something as is)
-# 아/어/여 놓다 [a/eo/yeo nohda] (To leave something as is)
+
 ## 1. Introduction
 Understanding the grammar point **아/어/여 놓다** in Korean is essential for expressing actions that have been completed and left in a certain state, often for future use or convenience. This construction adds nuance to your Korean language skills by allowing you to convey intentionality and preparedness.
 

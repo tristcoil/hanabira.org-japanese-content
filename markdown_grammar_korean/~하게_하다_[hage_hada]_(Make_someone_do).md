@@ -1,5 +1,6 @@
 Processing keyword: ~하게 하다 [hage hada] (Make someone do)
 # Korean Grammar Point: ~하게 하다 [hage hada] (Make someone do)
+
 ## 1. Introduction
 The Korean grammar point **~하게 하다 [hage hada]** is used to express the idea of making someone do something or causing someone to be in a certain state. It is an essential construction when you want to indicate that the subject induces or compels another person to perform an action.
 
@@ -100,7 +101,6 @@ The structure involves attaching **~하게 하다** to the stem of a descriptive
 3. Fix the error in the sentence: 부모님은 나를 숙제를 하다.
    - **Corrected Sentence**: 부모님은 나를 숙제하게 하셨다.
      - *My parents made me do homework.*
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

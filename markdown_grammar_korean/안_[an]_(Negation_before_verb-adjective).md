@@ -1,6 +1,6 @@
 Processing keyword: 안 [an] (Negation before verb/adjective)
 # Korean Grammar Point: 안 [an] (Negation before verb/adjective)
-# 안 [an] (Negation Before Verb/Adjective)
+
 ## 1. Introduction
 In Korean, negation is an essential aspect of expressing what's **not** happening or what someone **does not** do. The particle **안 [an]** is a simple and colloquial way to negate verbs and adjectives, similar to "not" in English. Understanding how to use **안** will greatly enhance your ability to form negative sentences in everyday conversations.
 

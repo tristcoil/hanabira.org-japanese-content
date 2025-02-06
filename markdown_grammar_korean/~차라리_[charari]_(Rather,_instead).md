@@ -1,8 +1,6 @@
 Processing keyword: ~차라리 [charari] (Rather, instead)
 # Korean Grammar Point: ~차라리 [charari] (Rather, instead)
 
-TODO: start from here
-
 ## 1. Introduction
 Expressing preferences, especially when both options are less than ideal, is a common aspect of communication in any language. In Korean, **차라리 [charari]** is an adverb that allows speakers to indicate a preference for one option over another unfavorable one. Understanding how to use **차라리** will enhance your ability to articulate choices more precisely.
 

@@ -1,6 +1,6 @@
 Processing keyword: ~할 수 있다 [hal su itda] (Can do)
 # Korean Grammar Point: ~할 수 있다 [hal su itda] (Can do)
-# ~할 수 있다 [hal su itda] (Can do)
+
 ## 1. Introduction
 In Korean, expressing one's ability or possibility to perform an action is commonly done using the grammar structure **~할 수 있다**. This phrase translates to "**can do**" in English and is essential for daily conversations. Mastering this grammar point will enable you to discuss your capabilities and possibilities effectively in Korean.
 

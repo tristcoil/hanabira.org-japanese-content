@@ -1,6 +1,6 @@
 Processing keyword: 아/어/여 보다 [a/eo/yeo boda] (Try to do)
 # Korean Grammar Point: 아/어/여 보다 [a/eo/yeo boda] (Try to do)
-# 아/어/여 보다 [a/eo/yeo boda] - "Try to Do"
+
 ## 1. Introduction
 The Korean grammar point **아/어/여 보다** is used to express the act of **trying** or **attempting** to do something. It conveys the meaning of performing an action to see what happens or to experience it. This construction is commonly used in everyday Korean to suggest trying something new or to encourage someone to give something a go.
 
@@ -22,12 +22,14 @@ To form this expression, you attach **아/어/여 보다** to the verb stem.
    - If the verb is **하다**, it becomes **해** (하 + 여).
 3. **Add 보다** after the connecting vowel.
 ### Conjugation Table
+
 | Verb (Dictionary Form) | Verb Stem | Last Vowel | Connecting Vowel | Result                              |
 |------------------------|-----------|------------|------------------|-------------------------------------|
 | 가다 (to go)           | 가         | 아          | 아               | 가 + 아 보다 = **가아보다** → **가 봐** |
 | 먹다 (to eat)          | 먹         | 어          | 어               | 먹 + 어 보다 = **먹어 보다**          |
 | 쓰다 (to write/use)    | 쓰         | 으          | 어               | 쓰 + 어 보다 = **써 보다**            |
 | 하다 (to do)           | 하         | 하          | 여               | 하 + 여 보다 = **해 보다**            |
+
 ---
 ## 3. Comparative Analysis
 ### 아/어/여 보다 vs. V~려고 하다

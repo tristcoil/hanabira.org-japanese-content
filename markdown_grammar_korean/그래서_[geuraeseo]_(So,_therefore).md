@@ -1,16 +1,17 @@
 Processing keyword: 그래서 [geuraeseo] (So, therefore)
 # Korean Grammar Point: 그래서 [geuraeseo] (So, therefore)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, connecting ideas smoothly is essential for clear communication. One of the key conjunctions that helps achieve this is **그래서** (*geuraeseo*), which means **"so"** or **"therefore"**. This grammar point is fundamental in expressing cause-and-effect relationships, allowing speakers to link reasons with results effectively.
-# 2. Core Grammar Explanation
+
+## 2. Core Grammar Explanation
 ## Meaning and Usage
 **그래서** is a conjunctive adverb used to indicate that the second clause is the result or consequence of the first clause. It's akin to the English words **"so"**, **"therefore"**, or **"thus"**.
 - **Function**: Connects two independent clauses by highlighting a causal relationship.
 - **Usage**: Common in both spoken and written Korean across all levels of formality.
 ## Structure and Formation
 ### Formation Diagram
-```mermaid
-graph LR
+```
     A[Clause 1<br/>(Reason/Cause)]
     -->B[그래서]
     -->C[Clause 2<br/>(Result/Effect)]
@@ -24,7 +25,8 @@ graph LR
 - **Placement**: **그래서** is placed at the beginning of the second sentence or clause to signal that what follows is a result of what was previously stated.
 - **Neutrality**: Does not inflect for tense, politeness, or formality; these are conveyed through the verbs and adjectives in the clauses.
 - **Flow of Ideas**: Helps in maintaining logical progression in conversations and writing.
-# 3. Comparative Analysis
+
+## 3. Comparative Analysis
 | Grammar Point        | Meaning            | Usage Example                                      | Notes                                               |
 |----------------------|--------------------|----------------------------------------------------|-----------------------------------------------------|
 | **그래서**           | So, therefore      | 비가 왔어요. 그래서 못 갔어요.                     | States a result based on a cause.                   |
@@ -32,7 +34,8 @@ graph LR
 | **때문에**           | Because            | 비 때문에 못 갔어요.                               | Used within a clause to indicate cause.             |
 | **왜냐하면... 때문이다** | Because... therefore | 왜냐하면 비가 왔기 때문이에요.                      | More formal, often used in explanations or writing. |
 - **Key Differences**: While **그래서** and **그러니까** both mean "so," **그러니까** is frequently used when the speaker is urging action or giving suggestions based on the reason.
-# 4. Examples in Context
+
+## 4. Examples in Context
 ### Sentence Examples
 1. **저는 배가 고파요. 그래서 밥을 먹을 거예요.**
    - *Jeoneun baega gopayo. Geuraeseo babeul meogeul geoyeyo.*
@@ -52,7 +55,8 @@ graph LR
 ### Contextual Usage
 - **Formal Situations**: Used in presentations or formal writing to link reasons and conclusions.
 - **Informal Conversations**: Commonly used in daily speech to explain actions or feelings.
-# 5. Cultural Notes
+
+## 5. Cultural Notes
 ## Cultural Relevance
 In Korean culture, providing reasons for actions is common, reflecting a collective society where understanding and harmony are valued. Using **그래서** appropriately shows logical reasoning and helps maintain smooth interpersonal communications.
 ## Idiomatic Expressions
@@ -60,7 +64,8 @@ In Korean culture, providing reasons for actions is common, reflecting a collect
   - *Geuraeseo marinde...*
   - "Speaking of which..." or "By the way..."
   - Used to segue into a related topic or bring up a matter connected to the previous statement.
-# 6. Common Mistakes and Tips
+
+## 6. Common Mistakes and Tips
 ## Error Analysis
 ### Common Mistake 1: Misusing **그래서** in Place of **그러니까**
 - **Incorrect**: **날씨가 좋네요. 그래서 산에 갑시다.**
@@ -79,7 +84,8 @@ In Korean culture, providing reasons for actions is common, reflecting a collect
 - **Practice Linking Clauses**: Write sentences connecting reasons and results using **그래서**.
 - **Listen to Native Resources**: Watch Korean shows or listen to podcasts to hear **그래서** used naturally.
 - **Grammar Flashcards**: Create flashcards with sentences using **그래서** to reinforce understanding.
-# 7. Summary and Review
+
+## 7. Summary and Review
 ## Key Takeaways
 - **그래서** means **"so"** or **"therefore"**, used to express a result based on a preceding reason.
 - It connects two independent clauses, indicating cause and effect.
@@ -95,7 +101,8 @@ In Korean culture, providing reasons for actions is common, reflecting a collect
    **머리가 아파요. 그래서 약을 드세요.**
    **Answer**: Replace **그래서** with **그러니까**.
    **Correct Sentence**: 머리가 아파요. **그러니까** 약을 드세요. ("I have a headache. **So** please take some medicine.")
-# Thank you for studying **그래서** with us!
+
+#### Thank you for studying **그래서** with us!
 Feel free to create your own sentences using **그래서** to deepen your understanding.
 
 ---

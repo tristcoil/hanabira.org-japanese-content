@@ -1,6 +1,6 @@
 Processing keyword: ~하는 김에 [haneun kime] (While at it)
 # Korean Grammar Point: ~하는 김에 [haneun kime] (While at it)
-# Korean Grammar Guide: ~하는 김에 [haneun kime] (While at It)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~하는 김에 [haneun kime]**, which is used to express the idea of doing something additional while already engaged in an action. It's akin to saying "while at it" or "since I'm doing this" in English.
 

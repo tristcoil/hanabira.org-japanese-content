@@ -1,6 +1,6 @@
 Processing keyword: 는/은 것 [neun/eun geot] (The thing that, nominalizing)
 # Korean Grammar Point: 는/은 것 [neun/eun geot] (The thing that, nominalizing)
-# 는/은 것 [neun/eun geot] (Nominalizing Verbs into Nouns)
+
 ## 1. Introduction
 In Korean, verb nominalization is a crucial grammatical tool that allows verbs to function as nouns within a sentence. The construction **는/은 것** [neun/eun geot] is commonly used for this purpose. Understanding how to nominalize verbs using **는/은 것** will enhance your ability to form more complex sentences and express ideas more naturally in Korean.
 ## 2. Core Grammar Explanation

@@ -1,6 +1,6 @@
 Processing keyword: ~할 바에 [hal bae] (Rather than)
 # Korean Grammar Point: ~할 바에 [hal bae] (Rather than)
-# ~할 바에 [hal bae] (Rather than)
+
 ## 1. Introduction
 In Korean, the expression **~할 바에** is used to indicate a preference for one action over another, especially when the first option is undesirable. It translates to "rather than doing" something in English. This grammar point is useful when expressing that you'd prefer an alternative action instead of the one mentioned.
 

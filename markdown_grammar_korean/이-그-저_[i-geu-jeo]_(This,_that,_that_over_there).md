@@ -1,6 +1,6 @@
 Processing keyword: 이/그/저 [i/geu/jeo] (This, that, that over there)
 # Korean Grammar Point: 이/그/저 [i/geu/jeo] (This, that, that over there)
-# 이/그/저 [i/geu/jeo] (This, That, That over there)
+
 ## 1. Introduction
 In Korean, **이**, **그**, and **저** are demonstrative adjectives and pronouns used to indicate objects or people relative to the speaker and listener. They are essential in everyday conversation, helping speakers specify which item or person they are referring to based on proximity.
 
@@ -102,7 +102,6 @@ Demonstrative + Noun
    - **Answer:** 저
 3. Translate to Korean: *This book is interesting.*
    - **Answer:** **이 책은 재미있어요.**
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

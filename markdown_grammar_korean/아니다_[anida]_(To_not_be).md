@@ -1,6 +1,6 @@
 Processing keyword: 아니다 [anida] (To not be)
 # Korean Grammar Point: 아니다 [anida] (To not be)
-# 아니다 [anida] (To Not Be)
+
 ## 1. Introduction
 In Korean, negating statements is essential for expressing what something is not. The verb **아니다** means "to not be" and is used to negate nouns. Mastering **아니다** allows you to accurately describe non-identities and non-associations in various contexts.
 

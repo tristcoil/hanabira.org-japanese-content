@@ -1,6 +1,6 @@
 Processing keyword: 이/가 [i/ga] (Subject markers)
 # Korean Grammar Point: 이/가 [i/ga] (Subject markers)
-# 이/가 [i/ga] (Subject Markers) in Korean Grammar
+
 ## 1. Introduction
 In Korean, particles play a crucial role in conveying the grammatical relationships between words in a sentence. Two of the most fundamental particles are **이** (*i*) and **가** (*ga*), which are subject markers. Understanding how to use these markers correctly is essential for constructing grammatically accurate sentences and for comprehension in both spoken and written Korean.
 
@@ -24,6 +24,7 @@ The particles **이** (*i*) and **가** (*ga*) are subject markers placed after 
   - **나무** (tree) + **가** → **나무가**
 #### Function in Sentences
 The subject marker **이/가** emphasizes **who or what** is performing the action or is in a certain state.
+
 ---
 ## 3. Comparative Analysis
 ### 은/는 vs. 이/가

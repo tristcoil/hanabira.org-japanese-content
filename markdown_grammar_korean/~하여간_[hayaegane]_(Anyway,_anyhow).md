@@ -1,6 +1,6 @@
 Processing keyword: ~하여간 [hayaegane] (Anyway, anyhow)
 # Korean Grammar Point: ~하여간 [hayaegane] (Anyway, anyhow)
-# ~하여간 [hayaegane] (Anyway, Anyhow)
+
 ## 1. Introduction
 In Korean, expressions that help transition between ideas or emphasize points are essential for fluent communication. One such expression is **~하여간 (hayaegane)**, which translates to "anyway" or "anyhow" in English. This adverb is commonly used in both spoken and written Korean to:
 - Transition between topics.

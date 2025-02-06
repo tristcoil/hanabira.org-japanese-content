@@ -1,6 +1,6 @@
 Processing keyword: ~했을 텐데 [haesseul tende] (I think I did)
 # Korean Grammar Point: ~했을 텐데 [haesseul tende] (I think I did)
-# ~했을 텐데 [haesseul tende] (I think I did)
+
 ## 1. Introduction
 The Korean grammar point **~했을 텐데** is commonly used to express assumption or speculation about past events, often with a sense of regret or missed opportunity. It conveys the speaker's belief that something **probably happened** or **would have happened** under certain circumstances.
 

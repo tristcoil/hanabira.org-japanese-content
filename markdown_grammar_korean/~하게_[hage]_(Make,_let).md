@@ -1,6 +1,6 @@
 Processing keyword: ~하게 [hage] (Make, let)
 # Korean Grammar Point: ~하게 [hage] (Make, let)
-# Understanding the Grammar Point: ~하게 [hage] (Make, Let)
+
 ## 1. Introduction
 In Korean, expressing causation—making or letting someone do something—is a fundamental aspect of communication. The grammar pattern **~하게 하다** is commonly used to convey this meaning. This lesson will delve into the usage of **~하게 하다**, helping you understand how to apply it naturally in various contexts.
 
@@ -36,12 +36,15 @@ The formation of **~하게 하다** involves attaching **-게 하다** to the ve
 ---
 ## 3. Comparative Analysis
 ### ~하게 하다 vs. ~도록 하다
+
 |                         | **~하게 하다**                            | **~도록 하다**                                  |
 |-------------------------|------------------------------------------|------------------------------------------------|
 | **Usage**               | Direct causation (make/let someone do)   | Indirect causation or setting conditions       |
 | **Connotation**         | More authoritative or commanding         | Suggestive or instructive                      |
 | **Example**             | 친구를 기다리게 했어요.<br>*I made my friend wait.* | 친구를 기다리도록 했어요.<br>*I had my friend wait.* |
+
 **Note:** While both can express causation, **~하게 하다** is more direct, whereas **~도록 하다** can imply setting up conditions for someone to do something.
+
 ---
 ## 4. Examples in Context
 ### Formal Speech

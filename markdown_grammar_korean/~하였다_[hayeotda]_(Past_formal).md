@@ -1,6 +1,6 @@
 Processing keyword: ~하였다 [hayeotda] (Past formal)
 # Korean Grammar Point: ~하였다 [hayeotda] (Past formal)
-# ~하였다 [hayeotda] (Past Formal)
+
 ## 1. Introduction
 In Korean, expressing past actions or states requires specific verb conjugations. One such form is **~하였다** (*hayeotda*), a formal past tense ending often used in written language, literature, historical accounts, and formal reports. Understanding ~하였다 is essential for reading and writing in formal or academic contexts.
 

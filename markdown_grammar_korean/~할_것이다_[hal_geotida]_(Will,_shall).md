@@ -1,6 +1,6 @@
 Processing keyword: ~할 것이다 [hal geotida] (Will, shall)
 # Korean Grammar Point: ~할 것이다 [hal geotida] (Will, shall)
-# Korean Grammar Lesson: ~할 것이다 [hal geotida] (Will, Shall)
+
 ## 1. Introduction
 In Korean, expressing future actions or events is often achieved using the grammar pattern **~할 것이다**. This construction translates to **"will"** or **"shall"** in English and is widely used to indicate intentions, plans, or predictions about the future.
 
@@ -18,6 +18,7 @@ To form this future tense expression, combine the verb stem with **-ㄹ/을 것�
 ### How to Form
 1. **Identify the Verb Stem**:
    Remove **-다** from the dictionary form of the verb.
+   
    | Verb (Dictionary Form) | Verb Stem |
    |------------------------|-----------|
    | 가**다** (to go)           | 가         |
@@ -25,9 +26,11 @@ To form this future tense expression, combine the verb stem with **-ㄹ/을 것�
    | 하**다** (to do)           | 하         |
    | 읽**다** (to read)         | 읽        |
    | 공부하**다** (to study)     | 공부하     |
+
 2. **Add the Future Tense Marker (-ㄹ/을)**:
    - If the verb stem ends with a **vowel**, add **-ㄹ**.
    - If the verb stem ends with a **consonant**, add **-을**.
+   
    | Verb Stem | Ending Letter | Future Marker | Future Form   |
    |-----------|---------------|---------------|---------------|
    | 가        | Vowel         | -ㄹ           | 갈           |
@@ -35,8 +38,10 @@ To form this future tense expression, combine the verb stem with **-ㄹ/을 것�
    | 하        | Vowel         | -ㄹ           | 할           |
    | 읽        | Consonant     | -을          | 읽을         |
    | 공부하    | Vowel         | -ㄹ           | 공부할       |
+
 3. **Add 것이다**:
    - Attach **것이다** to the future-marked verb stem.
+   
    | Future Verb Stem | Add 것이다      | Full Future Form   |
    |------------------|-----------------|---------------------|
    | 갈               | 갈 + 것이다      | 갈 것이다           |
@@ -44,6 +49,7 @@ To form this future tense expression, combine the verb stem with **-ㄹ/을 것�
    | 할               | 할 + 것이다      | 할 것이다           |
    | 읽을             | 읽을 + 것이다    | 읽을 것이다         |
    | 공부할           | 공부할 + 것이다  | 공부할 것이다       |
+
 ### Conjugation of 것이다
 **것이다** can be conjugated to match different levels of politeness and speech styles.
 #### Politeness Levels
@@ -166,7 +172,6 @@ These expressions often convey hope, reassurance, or certainty about the future.
    - **Answer**: **우리는 다음 달에 프로젝트를 시작할 것입니다.**
 ---
 Continue practicing by creating your own sentences using **~할 것이다** to describe future plans or actions. Understanding and using this grammar point will significantly enhance your ability to communicate about future events in Korean.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

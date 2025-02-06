@@ -1,6 +1,6 @@
 Processing keyword: 아/어/여 드리다 [a/eo/yeo deurida] (To give – honorific)
 # Korean Grammar Point: 아/어/여 드리다 [a/eo/yeo deurida] (To give – honorific)
-# 아/어/여 드리다 [a/eo/yeo deurida] (To Give – Honorific)
+
 ## 1. Introduction
 In Korean, showing respect and politeness in language is essential, especially when interacting with elders, superiors, or strangers. One way to convey this respect is by using honorific forms. The grammar point **아/어/여 드리다** is used to express that the speaker is performing an action for the benefit of someone esteemed, reflecting humility and courtesy.
 
@@ -19,11 +19,13 @@ In Korean, showing respect and politeness in language is essential, especially w
 [Verb Stem] + [아/어/여] + 드리다
 ```
 ### Visual Aid: Conjugation Table
+
 | Verb (Dictionary Form) | Verb Stem | Ending    | Combined Form  | Meaning                           |
 |------------------------|-----------|-----------|----------------|-----------------------------------|
 | **돕다** (to help)     | 돕        | 아 드리다 | 도와 드리다    | To help (esteemed person)         |
 | **읽다** (to read)     | 읽        | 어 드리다 | 읽어 드리다    | To read (for esteemed person)     |
 | **하다** (to do)       | 하        | 여 드리다 | 해 드리다      | To do (for esteemed person)       |
+
 ---
 ## 3. Comparative Analysis
 - **아/어 주다**: Used when doing something for someone of equal or lower status.
@@ -31,10 +33,12 @@ In Korean, showing respect and politeness in language is essential, especially w
 - **아/어 드리다**: Used when doing something for someone of higher status or to show extra politeness.
   - *Example*: **제가 도와 드릴게요.** (I'll help you [honorific].)
 **Difference in Usage**
+
 | Expression     | Usage                       | Politeness Level |
 |----------------|-----------------------------|------------------|
 | **아/어 주다** | Peers, friends, younger     | Standard polite  |
 | **아/어 드리다** | Elders, superiors, customers | Honorific polite |
+
 ---
 ## 4. Examples in Context
 ### Formal Situations
@@ -108,7 +112,7 @@ In Korean, showing respect and politeness in language is essential, especially w
    - **Answer**: 드릴까요
 ---
 By mastering **아/어/여 드리다**, you enhance your ability to communicate respectfully in Korean, which is essential for building positive relationships and navigating social hierarchies.
----
+
 *Practice crafting your own sentences using **아/어/여 드리다** to become more comfortable with this honorific form!*
 
 ---

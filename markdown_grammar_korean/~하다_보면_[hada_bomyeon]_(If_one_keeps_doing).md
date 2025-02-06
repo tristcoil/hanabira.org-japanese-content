@@ -1,8 +1,10 @@
 Processing keyword: ~하다 보면 [hada bomyeon] (If one keeps doing)
 # Korean Grammar Point: ~하다 보면 [hada bomyeon] (If one keeps doing)
-# Introduction
+
+## Introduction
 In Korean, the expression **~하다 보면** (*hada bomyeon*) is commonly used to convey the meaning "if one keeps doing" something. It implies that through continuous action or repetition, a certain result or realization naturally occurs over time. This grammar point is useful for expressing outcomes or changes that happen as a result of ongoing activities.
-# Core Grammar Explanation
+
+## Core Grammar Explanation
 ## Meaning
 **~하다 보면** is used to indicate that if someone continues doing an action, eventually a certain result will happen or they will come to realize something. It suggests a natural progression or outcome from the repeated action.
 ## Structure
@@ -21,7 +23,8 @@ The structure combines a **verb stem** with **-다 보면**.
 - **읽다** (to read) → 읽 + 다 보면 → **읽다 보면** (If one keeps reading)
 - **듣다** (to listen) → 듣 + 다 보면 → **듣다 보면** (If one keeps listening)
 - **연습하다** (to practice) → 연습하 + 다 보면 → **연습하다 보면** (If one keeps practicing)
-# Comparative Analysis
+
+## Comparative Analysis
 ### **~하다 보면** vs. **~하면**
 - **~하면** means "if one does," expressing a simple condition without emphasis on repetition.
   - Example: **열심히 공부하면 성공할 거예요.** (If you study hard, you will succeed.)
@@ -32,7 +35,8 @@ The structure combines a **verb stem** with **-다 보면**.
   - Example: **일을 하다 보니까 시간이 훌쩍 지났어요.** (As I was working, time flew by.)
 - **~하다 보면** predicts an outcome that will happen if the action continues.
   - Example: **일을 계속하다 보면 익숙해질 거예요.** (If you keep working, you'll become accustomed to it.)
-# Examples in Context
+
+## Examples in Context
 ## Sentence Examples
 ### Formal Context
 1. **한국어를 공부하다 보면 문화에 대한 이해도 깊어집니다.**
@@ -68,7 +72,8 @@ In Korean culture, perseverance and continuous effort are highly valued. The exp
 - **살다 보면 별 일이 다 있다.**
   - *As you live, all sorts of things happen.*
   - This idiom expresses that life brings various unexpected events over time.
-# Common Mistakes and Tips
+
+## Common Mistakes and Tips
 ## Error Analysis
 1. **Incorrect Verb Conjugation**
    - Mistake: **먹어요다 보면**
@@ -81,7 +86,8 @@ In Korean culture, perseverance and continuous effort are highly valued. The exp
 - **Associate with Outcome:** Link **~하다 보면** to natural outcomes from repeated actions.
 - **Practice with Common Verbs:** Write sentences using verbs you frequently use to become comfortable with the structure.
 - **Visualize Progression:** Imagine the action being done repeatedly leading to a certain result.
-# Summary and Review
+
+## Summary and Review
 ## Key Takeaways
 - **~하다 보면** is used to express that if one keeps doing an action, a natural result or realization will occur.
 - Formed by adding **-다 보면** to the verb stem.
@@ -91,13 +97,12 @@ In Korean culture, perseverance and continuous effort are highly valued. The exp
 1. How do you form **~하다 보면** with the verb **쓰다** (to write)?
 2. What is the main difference between **~하다 보면** and **~하다 보니까**?
 3. Create a sentence using **~하다 보면** related to learning a language.
+
 ### Answers
 1. **쓰다** → **쓰** (verb stem) + **다 보면** → **쓰다 보면**
 2. **~하다 보면** predicts an outcome from continued action, while **~하다 보니까** indicates a realization or discovery made during the action.
 3. **한국어로 말하다 보면 자신감이 생겨요.**
    - *If you keep speaking in Korean, you'll gain confidence.*
-
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

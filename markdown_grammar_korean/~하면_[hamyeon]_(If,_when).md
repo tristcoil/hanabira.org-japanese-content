@@ -1,6 +1,6 @@
 Processing keyword: ~하면 [hamyeon] (If, when)
 # Korean Grammar Point: ~하면 [hamyeon] (If, when)
-# ~하면 [hamyeon] (If, When)
+
 ## 1. Introduction
 In Korean, the conditional expression **~하면** [hamyeon] is commonly used to indicate "if" or "when" an action occurs. This grammar point is essential for constructing conditional sentences, expressing possibilities, and discussing hypothetical situations.
 

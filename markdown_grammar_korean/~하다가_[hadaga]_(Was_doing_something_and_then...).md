@@ -1,10 +1,9 @@
 Processing keyword: ~하다가 [hadaga] (Was doing something and then...)
 # Korean Grammar Point: ~하다가 [hadaga] (Was doing something and then...)
-# Korean Grammar Lesson: ~하다가 [hadaga] (Was doing something and then...)
 
----
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~하다가 [hadaga]**, which is used to indicate that someone was in the middle of doing something when another action or event occurred. This structure helps speakers express interruptions or transitions between actions in a natural and fluid way.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning and Usage
@@ -94,7 +93,6 @@ The suffix **~다가** attached to a verb stem conveys the meaning of "while doi
 ### Practice Sentences
 Try creating your own sentences using **~하다가** to describe a situation where you were doing something and then something else happened.
 - **Example**: *_____________________________ 하다가 ____________________________ 했어요.*
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

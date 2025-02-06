@@ -1,6 +1,6 @@
 Processing keyword: ~하기야 [hagiya] (Indeed, truly)
 # Korean Grammar Point: ~하기야 [hagiya] (Indeed, truly)
-# ~하기야 [hagiya] (Indeed, Truly)
+
 ## 1. Introduction
 The Korean grammatical structure **~하기야** is used to acknowledge a statement emphatically, often preceding additional or contrasting information. It conveys meanings similar to "indeed," "truly," or "well" in English, and is a way to concede a point before providing further context.
 

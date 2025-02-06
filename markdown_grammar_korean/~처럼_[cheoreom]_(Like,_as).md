@@ -1,6 +1,6 @@
 Processing keyword: ~처럼 [cheoreom] (Like, as)
 # Korean Grammar Point: ~처럼 [cheoreom] (Like, as)
-# Korean Grammar Point: ~처럼 [cheoreom] (Like, As)
+
 ## 1. Introduction
 In Korean, the particle **~처럼** (*cheoreom*) is used to make comparisons, much like the English words **"like"** or **"as"**. It allows speakers to describe someone or something by comparing them to another entity, enhancing expressive and descriptive language.
 

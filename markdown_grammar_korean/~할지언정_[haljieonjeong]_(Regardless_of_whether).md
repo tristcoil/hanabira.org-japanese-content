@@ -1,6 +1,6 @@
 Processing keyword: ~할지언정 [haljieonjeong] (Regardless of whether)
 # Korean Grammar Point: ~할지언정 [haljieonjeong] (Regardless of whether)
-# **Understanding the Korean Grammar Point: ~할지언정 [haljieonjeong]**
+
 ## **1. Introduction**
 In mastering Korean, it's essential to understand various grammatical structures that convey nuanced meanings. One such structure is **~할지언정 [haljieonjeong]**, which expresses a strong concession or contrast, similar to "even if" or "regardless of whether" in English. This lesson will delve into the usage, structure, and context of **~할지언정**, helping you incorporate it naturally into your Korean language skills.
 

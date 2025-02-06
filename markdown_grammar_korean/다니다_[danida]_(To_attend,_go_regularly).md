@@ -1,6 +1,6 @@
 Processing keyword: 다니다 [danida] (To attend, go regularly)
 # Korean Grammar Point: 다니다 [danida] (To attend, go regularly)
-# 다니다 [danida] - To Attend, Go Regularly
+
 ## 1. Introduction
 In Korean, the verb **다니다** [danida] is commonly used to express the idea of attending a place regularly or going somewhere frequently. It's an essential verb for learners to convey daily routines, habitual actions, and regular attendance at places like school, work, or other institutions.
 
@@ -73,11 +73,13 @@ The basic structure for using **다니다** is:
 - **Mnemonic Device:**
   - Think of **다니다** as "do + need + a" routine — you "do need a" regular place to go.
 - **Practice Conjugation:**
+
 | Tense          | Polite Form      | Casual Form  |
 |----------------|------------------|--------------|
 | Present        | 다녀요           | 다녀        |
 | Past           | 다녔어요         | 다녔어      |
 | Future         | 다닐 거예요       | 다닐 거야    |
+
 ---
 ## 7. Summary and Review
 ### Key Takeaways
@@ -88,6 +90,7 @@ The basic structure for using **다니다** is:
 1. How do you say "I attend school" using **다니다**?
 2. What particle is used before **다니다** to indicate the place?
 3. What's the difference between **가다** and **다니다**?
+
 **Answers:**
 1. **학교에 다녀요.**
 2. The particle **에**.

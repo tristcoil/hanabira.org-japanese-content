@@ -1,6 +1,6 @@
 Processing keyword: ~해서야 [haeseoya] (In order to)
 # Korean Grammar Point: ~해서야 [haeseoya] (In order to)
-# ~해서야 [haeseoya] (In order to / Only when)
+
 ## 1. Introduction
 The Korean grammar pattern **~해서야** is used to emphasize that only when a particular action is done or condition is met, the following result or situation can occur. It conveys a sense of necessity or indispensability of the preceding action for the realization of the following one.
 
@@ -43,6 +43,7 @@ The structure combines a verb or adjective stem with **~해서야**, connecting 
 ### Example 4 (Written)
 **Sentence:** 자료를 모두 조사해서야 결론을 내릴 수 있었다.
 **Translation:** "Only after researching all the materials could a conclusion be drawn."
+
 ---
 ## 5. Cultural Notes
 ### Levels of Politeness and Formality

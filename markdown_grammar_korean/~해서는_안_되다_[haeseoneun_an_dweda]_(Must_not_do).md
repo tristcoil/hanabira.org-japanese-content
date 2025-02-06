@@ -1,6 +1,6 @@
 Processing keyword: ~해서는 안 되다 [haeseoneun an dweda] (Must not do)
 # Korean Grammar Point: ~해서는 안 되다 [haeseoneun an dweda] (Must not do)
-# ~해서는 안 되다 [haeseoneun an dweda] (Must Not Do)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~해서는 안 되다**, which is used to express prohibition or to state that an action must not be done. This structure is essential for conveying rules, regulations, and advice in both formal and informal settings.
 
@@ -25,18 +25,22 @@ To form this expression, follow these steps:
    - **-아서**: For stems ending with **ㅏ** or **ㅗ**
    - **-어서**: For all other vowel endings
    - **-여서**: For the verb **하다**, which becomes **해서**
+   
    | Verb Stem | Connective Ending | Result      |
    | --------- | ----------------- | ----------- |
    | 가        | -아서             | 가서        |
    | 먹       | -어서             | 먹어서      |
    | 하       | -여서             | 해서        |
+
 3. **Add 는 안 되다**
    Attach **는 안 되다** to indicate prohibition.
+   
    | Result   | Final Form           |
    | -------- | -------------------- |
    | 가서     | **가서는 안 되다**    |
    | 먹어서   | **먹어서는 안 되다**  |
    | 해서     | **해서는 안 되다**    |
+
 #### Formation Diagram
 ```
 [Verb Stem] + 아/어/여서 + 는 안 되다

@@ -1,6 +1,6 @@
 Processing keyword: ~하기만 하면 [hakiman hamyeon] (As soon as)
 # Korean Grammar Point: ~하기만 하면 [hakiman hamyeon] (As soon as)
-# ~하기만 하면 [hakiman hamyeon] (As Soon As)
+
 ## 1. Introduction
 In Korean, expressing conditions and emphasizing certain actions is common in daily conversations. The grammar pattern **~하기만 하면** is used to indicate that *as soon as* or *whenever* a particular action occurs, a certain result follows. This lesson will delve into the usage of **~하기만 하면**, providing clear explanations, examples, and tips to help you master this grammar point.
 

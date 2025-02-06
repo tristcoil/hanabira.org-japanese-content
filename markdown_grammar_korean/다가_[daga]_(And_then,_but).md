@@ -1,6 +1,6 @@
 Processing keyword: 다가 [daga] (And then, but)
 # Korean Grammar Point: 다가 [daga] (And then, but)
-# 다가 [daga] (And then, but)
+
 ## 1. Introduction
 In Korean, the grammar point **-다가** is used to express an interruption or transition between two actions or states. It connects two clauses to indicate that the first action was in progress when the second action occurred. This structure adds depth to your storytelling by highlighting a change or interruption in activities.
 
@@ -19,15 +19,16 @@ It implies that the subject was engaged in the first action when the second acti
 - **-다가:** The connector indicating interruption or transition.
 - **Second Clause:** The action or event that interrupts the first action.
 **Example Formation Diagram:**
+
 | Component      | Example                      |
 |----------------|------------------------------|
 | Verb Stem      | 공부하  (from 공부하다 - to study) |
 | -다가           | 다가                         |
 | Second Clause  | 잠이 들었어요. (I fell asleep.)   |
 | **Full Sentence** | 공부하다가 잠이 들었어요.         |
+
 ### Visual Aid: Usage Flow
-```mermaid
-graph LR
+```
 A[Start First Action] --> B[First Action in Progress]
 B --> C{Interruption occurs?}
 C -- Yes --> D[Second Action Happens]
@@ -108,9 +109,7 @@ In Korean culture, storytelling often involves sharing detailed sequences of eve
 3. **Translate to Korean using **-다가**:**
    **"I was eating dinner and then the phone rang."**
    - **Answer:** 저녁을 먹다가 전화가 울렸어요.
----
-# 끝 (The End)
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)

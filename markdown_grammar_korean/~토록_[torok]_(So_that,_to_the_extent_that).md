@@ -1,10 +1,9 @@
 Processing keyword: ~토록 [torok] (So that, to the extent that)
 # Korean Grammar Point: ~토록 [torok] (So that, to the extent that)
-# **Grammar Point: ~토록 [torok] (So that, To the extent that)**
 
----
 ## 1. Introduction
 In Korean, the grammatical ending **~토록** is used to express the extent or degree of an action or state. It can be translated as "so that," "to the extent that," or "until." Understanding how to use ~토록 will help you express actions that reach a certain degree or extent in Korean.
+
 ---
 ## 2. Core Grammar Explanation
 ### **Meaning and Usage**
@@ -19,11 +18,13 @@ Attach **~토록** directly to the verb or adjective stem.
 [Verb/Adjective Stem] + 토록
 ```
 #### **Examples of Formation**
+
 | Verb/Adjective Stem | + 토록 | Result              |
 |---------------------|--------|---------------------|
 | 노력하                | 토록   | 노력하도록             |
 | 아프                | 토록   | 아프도록               |
 | 기다리                | 토록   | 기다리도록             |
+
 ### **Detailed Explanation**
 1. **Expressing Degree or Extent**
    Indicates that something is done to such a degree that a certain result occurs.
@@ -41,13 +42,16 @@ Attach **~토록** directly to the verb or adjective stem.
 ## 3. Comparative Analysis
 ### **Comparison with ~도록**
 **~토록** is often used interchangeably with **~도록**. Both can express similar meanings, but **~토록** adds emphasis and is slightly more formal or literary.
+
 |                | ~토록                                 | ~도록                                  |
 |----------------|--------------------------------------|----------------------------------------|
 | Usage          | Emphasis on extent or degree         | General expression of purpose or extent|
 | Formality      | More formal/literary                 | Neutral                                |
 | Example        | 목이 쉬도록 소리를 질렀다.            | 목이 쉬도록 소리를 질렀다.             |
 | Translation    | I shouted so much that my voice faded.| I shouted so much that my voice faded.|
+
 **Note**: In many cases, **~토록** and **~도록** are interchangeable without significant change in meaning.
+
 ---
 ## 4. Examples in Context
 ### **Formal Situations**
@@ -113,11 +117,12 @@ Attach **~토록** directly to the verb or adjective stem.
    b) 그는 밤이 새도록 공부했다.  
    c) 우리는 친구토록 만났다.  
    d) 그들은 빨리토록 달렸다.
+
 **Answers:**
 1. **b) Extent or degree, purpose, duration**
 2. **b) 그는 밤이 새도록 공부했다.**
 ---
-# **Practice Makes Perfect!**
+
 Try creating your own sentences using **~토록** to describe actions done to a great extent.
 
 ---

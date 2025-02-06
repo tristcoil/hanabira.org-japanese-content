@@ -1,6 +1,6 @@
 Processing keyword: ~하기에 [hakie] (For, considering)
 # Korean Grammar Point: ~하기에 [hakie] (For, considering)
-# Korean Grammar Lesson: ~하기에 [hakie] (For, Considering)
+
 ## 1. Introduction
 The Korean grammar pattern **~하기에** is used to express a reason or basis for a judgment, action, or decision. It can be translated into English as "for", "considering", or "because of". This pattern allows the speaker to state a condition or situation that influences their thought process or action.
 

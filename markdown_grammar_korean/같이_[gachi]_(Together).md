@@ -1,6 +1,6 @@
 Processing keyword: 같이 [gachi] (Together)
 # Korean Grammar Point: 같이 [gachi] (Together)
-# 같이 [gachi] (Together)
+
 ## 1. Introduction
 In this lesson, we will explore the grammar point **같이 [gachi]**, which means **"together"** in Korean. Understanding how to use 같이 will help you express actions done in collaboration or companionship with others, enriching your conversational skills in Korean.
 
@@ -83,11 +83,11 @@ Adjusting the verb endings can change the politeness level:
 1. What is the difference between **같이** and **함께**?
 2. Correct the mistake: **저는 같이 동생과 산책했어요.**
 3. Translate to Korean: **"Shall we study together?"**
+
 **Answers:**
 1. **같이** is more colloquial and used in spoken language, while **함께** is more formal and used in written language.
 2. Correct Sentence: **저는 동생과 같이 산책했어요.**
 3. **같이 공부할까요?**
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

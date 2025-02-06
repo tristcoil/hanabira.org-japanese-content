@@ -1,10 +1,11 @@
 Processing keyword: ~할 텐데 [hal tende] (I thought/would have thought that..)
 # Korean Grammar Point: ~할 텐데 [hal tende] (I thought/would have thought that..)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~할 텐데** (*hal tende*), which is used to express expectations, suppositions, or intentions about a situation. Understanding this grammar point will enhance your ability to convey nuanced thoughts and anticipate situations in Korean.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 **~할 텐데** is used to express:
 - **Expectation or Supposition**: "I suppose that...", "It should be that..."
@@ -31,7 +32,7 @@ The structure of **~할 텐데** depends on whether the verb stem ends with a vo
   - **Express regret about a situation**: "I would have thought that..."
 - The expression can be used about oneself or others.
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## Similar Grammar Points
 1. **~겠어요**
    - **Usage**: Expresses speculation or assumption.
@@ -44,7 +45,7 @@ The structure of **~할 텐데** depends on whether the verb stem ends with a vo
 - **~ㄹ 거예요** is mainly used for future tense statements or predictions.
 - **~할 텐데** combines the sense of expectation with a nuance that the speaker is considering the situation in making a suggestion or expressing concern.
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Example Sentences
 ### 1. Formal (Written)
 - 시간이 없을 텐데 빨리 출발합시다.
@@ -62,7 +63,7 @@ The structure of **~할 텐데** depends on whether the verb stem ends with a vo
 - 피곤할 텐데 좀 쉬세요.
   - *You must be tired, so please rest.*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Consideration for Others**: Using **~할 텐데** shows thoughtfulness, as the speaker is considering the listener's situation or feelings before making a suggestion or comment.
 ## Levels of Politeness and Formality
@@ -73,7 +74,7 @@ The structure of **~할 텐데** depends on whether the verb stem ends with a vo
 - **모를 텐데요**: "You probably don't know."
 - **힘들었을 텐데 고생 많았어요**: "It must have been hard; you've worked hard."
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Using the Wrong Tense**
    - Incorrect: 내일 비가 오는 텐데 우산을 가져가세요.
@@ -87,7 +88,7 @@ The structure of **~할 텐데** depends on whether the verb stem ends with a vo
 - **Mnemonic Device**: Think of **~할 텐데** as "I **tend** to think that..." which helps remember its usage in expressing expectations or suppositions.
 - **Practice**: Create sentences about weather forecasts or plans, as these often involve expectations.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~할 텐데** is used to express expectations, suppositions, or intentions.
 - It sets up context for suggestions, advice, or expresses concern.

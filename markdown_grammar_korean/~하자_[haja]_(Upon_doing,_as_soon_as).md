@@ -1,10 +1,9 @@
 Processing keyword: ~하자 [haja] (Upon doing, as soon as)
 # Korean Grammar Point: ~하자 [haja] (Upon doing, as soon as)
-# Korean Grammar Lesson: **~자** [ja] (Upon Doing, As Soon As)
 
----
 ## 1. Introduction
 The grammar point **~자** is a connective ending in Korean used to express that one action occurs immediately after another. It translates to "as soon as", "upon doing", or "the moment". Understanding **~자** enables you to describe sequential actions effectively, enhancing the fluency and coherence of your speech and writing.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

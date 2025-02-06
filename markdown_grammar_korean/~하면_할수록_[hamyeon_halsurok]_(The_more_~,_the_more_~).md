@@ -1,6 +1,6 @@
 Processing keyword: ~하면 할수록 [hamyeon halsurok] (The more ~, the more ~)
 # Korean Grammar Point: ~하면 할수록 [hamyeon halsurok] (The more ~, the more ~)
-# **~하면 할수록 [hamyeon halsurok] (The more ~, the more ~)**
+
 ## **1. Introduction**
 The Korean grammar pattern **~하면 할수록** translates to **"the more ~, the more ~"** in English. It's used to express a proportional relationship between two actions or states, indicating that as one aspect intensifies or increases, another does so as well. This structure is essential for conveying cause-and-effect relationships and expressing emphasis on progressive changes.
 
@@ -128,7 +128,6 @@ In Korean, expressing proportional relationships is common in daily conversation
    **Correction:** 사람들이 친절하면 **친절할수록** 그 가게가 인기가 많아요.
 ---
 By mastering **~하면 할수록**, you enhance your ability to describe complex relationships and emphasize increasing degrees in Korean, making your speech and writing more nuanced and expressive.
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

@@ -1,6 +1,6 @@
 Processing keyword: ~하기보다 [hakiboda] (Rather than doing)
 # Korean Grammar Point: ~하기보다 [hakiboda] (Rather than doing)
-# Korean Grammar Lesson: ~하기보다 (Rather Than Doing)
+
 ## 1. Introduction
 Expressing preferences and making comparisons between actions is a common aspect of everyday conversations in Korean. One useful grammar point for this purpose is **~하기보다** (*~hakiboda*), which translates to **"rather than doing"** in English. It allows speakers to suggest an alternative action or express a preference between two actions.
 

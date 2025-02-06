@@ -1,8 +1,10 @@
 Processing keyword: ~함께 [hamkke] (Together with)
 # Korean Grammar Point: ~함께 [hamkke] (Together with)
-# 1. Introduction
+
+## 1. Introduction
 **~함께 [hamkke] (Together with)** is a commonly used Korean grammar point that expresses the concept of doing something together with someone or something. It is an essential expression for learners who wish to describe shared actions or experiences in Korean.
-# 2. Core Grammar Explanation
+
+## 2. Core Grammar Explanation
 ## Meaning and Usage
 - **함께** means **"together"**.
 - It is used to indicate that an action is performed **with someone else**.
@@ -27,14 +29,16 @@ Processing keyword: ~함께 [hamkke] (Together with)
 |------------------|---------------|
 | Vowel (e.g., 친구)   | 와, 하고, 랑      |
 | Consonant (e.g., 책) | 과, 하고, 이랑     |
-# 3. Comparative Analysis
+
+## 3. Comparative Analysis
 ### 함께 vs. 같이 [gachi]
 - **같이** also means **"together"** and is often used interchangeably with **함께**.
 - **Differences**:
   - **함께** is slightly more formal than **같이**.
   - **함께** is more common in **written** and **formal** contexts.
   - **같이** is more common in **spoken** and **casual** conversations.
-# 4. Examples in Context
+
+## 4. Examples in Context
 ### Formal Situations
 1. **친구와 함께 도서관에 갔습니다.**  
    *Chinguwa hamkke doseogwane gatsseumnida.*  
@@ -63,7 +67,8 @@ Processing keyword: ~함께 [hamkke] (Together with)
 2. **친구들하고 함께 여행 가자.**  
    *Chingudeulhago hamkke yeohaeng gaja.*  
    _Let's go on a trip together with friends._
-# 5. Cultural Notes
+
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Collectivism**: Korean culture often emphasizes group harmony and collective activities. Expressions like **함께** reflect the importance of doing things together.
 - **Politeness Levels**: Using **함께** in formal speech shows respect and adherence to social norms in professional or elder relationships.
@@ -77,7 +82,8 @@ Processing keyword: ~함께 [hamkke] (Together with)
 2. **생사고락을 함께하다**  
    *Saengsa-gorakeul hamkkehada*  
    _To share life's ups and downs together_
-# 6. Common Mistakes and Tips
+
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Omitting the particle**: Forgetting to use **와/과/하고/(이)랑** before **함께**.
   - **Incorrect:** 친구 함께 영화를 봤어요.  
@@ -93,7 +99,8 @@ Processing keyword: ~함께 [hamkke] (Together with)
 ## Learning Strategies
 - **Mnemonic Device**: Think **"Hamkke with Hamkki"**, imagining **함께** as a friendly hamster (hamkki) you do things together with.
 - **Practice Pairing**: Always pair **함께** with the appropriate particle. Create sentences swapping **와/과**, **하고**, **(이)랑** to get comfortable.
-# 7. Summary and Review
+
+## 7. Summary and Review
 ## Key Takeaways
 - **함께** means **"together"** and is used to express doing something with someone else.
 - It is often used with **와/과**, **하고**, **(이)랑**.

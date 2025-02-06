@@ -1,6 +1,6 @@
 Processing keyword: 의 [ui] (Possessive marker)
 # Korean Grammar Point: 의 [ui] (Possessive marker)
-# 의 [ui] (Possessive Marker)
+
 ## 1. Introduction
 The Korean particle **의 [ui]** is a possessive marker used to indicate ownership or a relationship between two nouns. It functions similarly to the English possessive "'s" or "of".
 

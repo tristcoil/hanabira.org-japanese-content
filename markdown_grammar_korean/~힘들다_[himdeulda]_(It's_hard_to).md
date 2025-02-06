@@ -1,6 +1,6 @@
 Processing keyword: ~힘들다 [himdeulda] (It's hard to)
 # Korean Grammar Point: ~힘들다 [himdeulda] (It's hard to)
-# 한국어 문법 레슨: ~힘들다 [himdeulda] (It's hard to)
+
 ## 1. Introduction
 In this lesson, we'll explore the Korean grammar point **~힘들다 [himdeulda]**, which is used to express that something is difficult or hard to do. Understanding this expression will enhance your ability to describe challenges and difficulties in various contexts, both in spoken and written Korean.
 
@@ -29,6 +29,7 @@ To construct a sentence using **~힘들다**, you attach **-기가 힘들다** t
 - **-기 싫다**: Means "I don't want to..." or "I dislike...", focusing on reluctance rather than difficulty.
 ### Nuances
 Using **~힘들다** often conveys a sense of personal struggle or hardship associated with the action, possibly affecting one's emotions or physical state.
+
 ---
 ## 4. Examples in Context
 ### Example Sentences
@@ -84,15 +85,14 @@ Choosing the correct level of politeness is crucial in Korean. Using **힘들어
 1. How do you say "It's hard to find time" in Korean?
 2. What is the difference between **힘들다** and **어렵다**?
 3. Convert the following sentence to polite form: **운동하기가 힘들어.**
+
 **Answers:**
 1. **시간을 찾기가 힘들어요.**
 2. **힘들다** implies physical or emotional difficulty, while **어렵다** refers to intellectual or technical difficulty.
 3. **운동하기가 힘들어요.**
 ---
-# Practicing ~힘들다
+#### Practicing ~힘들다
 Try forming sentences using **~힘들다** with verbs you commonly use. This will help solidify your understanding and make your Korean sound more natural.
----
-# End of Lesson
 
 ---
 © [Hanabira.org](https://hanabira.org)

@@ -1,8 +1,10 @@
 Processing keyword: 처럼 [cheoreom] (Like, as)
 # Korean Grammar Point: 처럼 [cheoreom] (Like, as)
-# 1. Introduction
+
+## 1. Introduction
 The Korean particle **처럼** (*cheoreom*) translates to **"like"** or **"as"** in English. It's used to draw comparisons between two nouns, indicating that one is similar to the other. Mastering **처럼** will enhance your ability to express similes and metaphors in Korean, enriching your descriptive language skills.
-# 2. Core Grammar Explanation
+
+## 2. Core Grammar Explanation
 ## Meaning
 - **처럼** means **"like"** or **"as"**, used to compare one noun to another, highlighting similarity.
 ## Structure
@@ -18,7 +20,8 @@ Attach **처럼** directly to a noun without any spacing.
 ## Usage Notes
 - **처럼** is only used with nouns.
 - When comparing actions or adjectives, convert the verb or adjective into a noun form before adding **처럼**.
-# 3. Comparative Analysis
+
+## 3. Comparative Analysis
 ## **처럼** vs. **같이**
 Both **처럼** and **같이** can mean **"like"** or **"as"** when comparing nouns.
 | Expression    | Meaning          | Example                   |
@@ -28,7 +31,8 @@ Both **처럼** and **같이** can mean **"like"** or **"as"** when comparing no
 - **같이** can also mean **"together"** when used with **-와/과** (with):
   - **친구와 같이 갔어요.** (*I went together with a friend.*)
 - When expressing "like," **처럼** and **같이** are often interchangeable, but **처럼** is more commonly used in written Korean.
-# 4. Examples in Context
+
+## 4. Examples in Context
 ## Sentence Examples
 ### Example 1
 **모델처럼 걷어요.**  
@@ -59,7 +63,8 @@ Both **처럼** and **같이** can mean **"like"** or **"as"** when comparing no
 - **Spoken:**
   **너 오늘 영화배우처럼 보여!**  
   *You look like a movie star today!*
-# 5. Cultural Notes
+
+## 5. Cultural Notes
 ## Cultural Relevance
 - Comparing someone to respected figures (e.g., **선생님처럼** - like a teacher) shows admiration.
 - Using nature in similes (e.g., **바다처럼** - like the sea) reflects the importance of nature in Korean culture.
@@ -70,7 +75,8 @@ Both **처럼** and **같이** can mean **"like"** or **"as"** when comparing no
 ### 2. **산더미처럼 많다**  
 (*As many as a mountain*)
 - Indicates a large quantity.
-# 6. Common Mistakes and Tips
+
+## 6. Common Mistakes and Tips
 ## Error Analysis
 ### Mistake 1
 **Incorrect:** *달리다처럼 빨라요.*  
@@ -85,7 +91,8 @@ Both **처럼** and **같이** can mean **"like"** or **"as"** when comparing no
 ## Learning Strategies
 - **Mnemonic Device:** Think of **처럼** as "cha-room" - imagine comparing two things in a "chat room."
 - **Tip:** When in doubt, ensure **처럼** follows a noun, not a verb or adjective.
-# 7. Summary and Review
+
+## 7. Summary and Review
 ## Key Takeaways
 - **처럼** is used to compare nouns, meaning "like" or "as."
 - Attach **처럼** directly to nouns without spaces.

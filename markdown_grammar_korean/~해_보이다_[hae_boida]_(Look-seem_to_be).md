@@ -1,10 +1,11 @@
 Processing keyword: ~해 보이다 [hae boida] (Look/seem to be)
 # Korean Grammar Point: ~해 보이다 [hae boida] (Look/seem to be)
-# 1. Introduction
+
+## 1. Introduction
 In Korean, the grammar point **~해 보이다 [~hae boida]** is used to express that someone or something appears or seems to be in a certain state based on visual perception. It translates to **"looks"** or **"seems to be"** in English and is commonly used to describe observations or first impressions.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 **~해 보이다** is attached to the stem of an adjective to indicate that something appears or looks a certain way to the speaker. It conveys a subjective observation based on what the speaker sees.
 ## Structure
@@ -28,7 +29,7 @@ In Korean, the grammar point **~해 보이다 [~hae boida]** is used to express 
 | 예쁘다 (to be pretty)       | 예쁘           | ㅡ     | 예뻐 보이다          | Looks pretty           |
 | 피곤하다 (to be tired)      | 피곤하         | 하     | 피곤해 보이다        | Looks tired            |
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## **~해 보이다** vs. **~같다**
 While both grammar points express a perception or assumption, they are used differently:
 - **~해 보이다**: Used with adjectives to express that something looks or appears a certain way based on visual cues.
@@ -44,7 +45,7 @@ While both grammar points express a perception or assumption, they are used diff
 | Based on visual observation            | Based on assumption or indirect evidence |
 | Translates to "looks" or "seems to be" | Translates to "seems like" or "think that" |
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ## Sentence Examples
 ### Formal Situations
 1. **그분은 젊어 보입니다.**  
@@ -67,7 +68,7 @@ While both grammar points express a perception or assumption, they are used diff
 2. **그 영화 재미있어 보였어?**  
    *(Did that movie look interesting?)*
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Visual Politeness:** In Korean culture, commenting on someone's appearance is common but should be done politely, especially with elders or superiors.
 - **Indirect Communication:** Using **~해 보이다** allows for indirect expression, which aligns with the Korean communication style of being less direct to maintain harmony.
@@ -89,7 +90,7 @@ The verb **보이다** can be conjugated to match the appropriate level of polit
   - *목적지가 아직도 멀어 보여요.*  
     *(The destination still looks far away.)*
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 ### 1. Using **~해 보이다** with Action Verbs
 **Incorrect:**  
@@ -113,7 +114,7 @@ The verb **보이다** can be conjugated to match the appropriate level of polit
 - **Visual Association:** Associate **보이다** with "to be seen" or "appears," helping you remember it's about perception.
 - **Practice with Adjectives:** Make a list of common adjectives and practice conjugating them with **~해 보이다**.
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **~해 보이다** is used to express that something **looks** or **seems** a certain way based on visual observation.
 - It is attached to **adjective stems** with **아/어 보이다**.

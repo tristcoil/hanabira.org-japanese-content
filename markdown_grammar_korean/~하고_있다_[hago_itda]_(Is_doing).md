@@ -1,6 +1,6 @@
 Processing keyword: ~하고 있다 [hago itda] (Is doing)
 # Korean Grammar Point: ~하고 있다 [hago itda] (Is doing)
-# ~하고 있다 [hago itda] (Is doing)
+
 ## 1. Introduction
 The Korean grammar pattern **~하고 있다** is essential for expressing actions that are currently in progress. It is analogous to the English present continuous tense "is doing." Mastering this construction will enhance your ability to describe ongoing activities in Korean.
 

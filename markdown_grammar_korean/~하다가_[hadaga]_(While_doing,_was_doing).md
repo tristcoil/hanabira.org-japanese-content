@@ -1,6 +1,6 @@
 Processing keyword: ~하다가 [hadaga] (While doing, was doing)
 # Korean Grammar Point: ~하다가 [hadaga] (While doing, was doing)
-# ~하다가 [hadaga] (While doing, was doing)
+
 ## 1. Introduction
 The Korean grammar point **~하다가** is used to indicate that an action was in progress when it was interrupted or changed to another action. It conveys the meaning of "while doing something, (something else happened)" or "was doing something and then".
 

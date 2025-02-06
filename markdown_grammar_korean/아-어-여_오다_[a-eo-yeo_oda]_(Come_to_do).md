@@ -1,6 +1,6 @@
 Processing keyword: 아/어/여 오다 [a/eo/yeo oda] (Come to do)
 # Korean Grammar Point: 아/어/여 오다 [a/eo/yeo oda] (Come to do)
-# 아/어/여 오다 [a/eo/yeo oda] (Come to do)
+
 ## 1. Introduction
 The grammar point **-아/어/여 오다** is used in Korean to express an action that started in the past and has continued up to the present moment. It conveys the sense of "have been doing something" or "came to do." This construction emphasizes the progression or continuation of an action towards the present time.
 

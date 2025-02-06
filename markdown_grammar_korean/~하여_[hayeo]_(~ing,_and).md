@@ -1,6 +1,6 @@
 Processing keyword: ~하여 [hayeo] (~ing, and)
 # Korean Grammar Point: ~하여 [hayeo] (~ing, and)
-# Grammar Point: ~하여 [hayeo] (~ing, and)
+
 ## 1. Introduction
 The grammar point **~하여 [hayeo]** is a connective form used in Korean to link two actions or states, similar to "and" or "~ing" in English. It is often found in formal writing and literature, providing a smooth transition between clauses. Understanding **~하여** helps learners read and compose more sophisticated Korean texts.
 
@@ -31,11 +31,13 @@ Example:
 **~하여** vs. **~해서**
 - **~하여** is the more formal or literary form.
 - **~해서 [haeseo]** is the colloquial equivalent used in everyday conversation.
+
 | Aspect          | ~하여                      | ~해서                        |
 |-----------------|---------------------------|------------------------------|
 | Formality       | Formal/Written            | Informal/Spoken              |
 | Usage           | Literature, formal texts  | Daily conversation           |
 | Pronunciation   | hayeo                     | haeseo                       |
+
 ---
 ## 4. Examples in Context
 ### Formal Written Context
@@ -96,11 +98,6 @@ Example:
    **Answer:** ~해서
 ---
 By mastering **~하여**, you enhance your ability to understand and compose formal Korean texts, aligning your language use with appropriate contexts.
----
-**Practice Sentence**
-Try creating your own sentence using **~하여**:
-- *(Your Sentence Here)*
----
 
 ---
 © [Hanabira.org](https://hanabira.org)

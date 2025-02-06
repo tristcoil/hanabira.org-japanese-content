@@ -1,6 +1,6 @@
 Processing keyword: ~한테는 [hanteneun] (To, for someone)
 # Korean Grammar Point: ~한테는 [hanteneun] (To, for someone)
-# ~한테는 (*hanteneun*) Grammar Point Explanation
+
 ## 1. Introduction
 In Korean, particles play a crucial role in conveying the relationships between words in a sentence. One such particle is **~한테는** (*hanteneun*), which translates to **"to" or "for someone"**, with an added nuance of emphasis or contrast. Mastering this particle will help you express more nuanced meanings and emphasize particular individuals in your conversations.
 
@@ -126,7 +126,7 @@ The structure for using **~한테는** is:
    **Answer:** a)
 ---
 By incorporating **~한테는** into your Korean, you can express emphasis and contrasts more effectively, making your speech more nuanced and precise.
----
+
 
 ---
 © [Hanabira.org](https://hanabira.org)
