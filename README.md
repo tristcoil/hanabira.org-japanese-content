@@ -21,3 +21,7 @@ updated
 
 - Japanese grammar markdown proofreading - full content
 - Korean grammar markdown proofreading - full content
+
+
+
+- sentences_output_N3_tango_p210-213_i-adjectives_1.json - whole file

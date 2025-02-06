@@ -12,9 +12,9 @@
         "key": "浅い"
     },
     {
-        "sentence_original": "沖に行くと海は浅くなってきます。",
-        "sentence_romaji": "Oki ni iku to umi wa asaku natte kimasu.",
-        "sentence_english": "The sea becomes shallower as you go offshore.",
+        "sentence_original": "岸に近づくと海は浅くなってきます。",
+        "sentence_romaji": "Kishi ni chikadzuku to umi wa asaku natte kimasu.",
+        "sentence_english": "The sea becomes shallower as you approach the shore.",
         "key": "浅い"
     },
     {
@@ -31,31 +31,31 @@
     },
     {
         "sentence_original": "彼は偉い先生だと思います。",
-        "sentence_romaji": "Kare wa erai sensei da to omoimasu",
+        "sentence_romaji": "Kare wa erai sensei da to omoimasu.",
         "sentence_english": "I think he is a great teacher.",
         "key": "偉い"
     },
     {
         "sentence_original": "彼女は偉い業績を上げた。",
-        "sentence_romaji": "Kanojo wa erai gyouseki o ageta",
+        "sentence_romaji": "Kanojo wa erai gyouseki o ageta.",
         "sentence_english": "She achieved great accomplishments.",
         "key": "偉い"
     },
     {
         "sentence_original": "父は家族のために偉い努力をしている。",
-        "sentence_romaji": "Chichi wa kazoku no tame ni erai doryoku o shite iru",
+        "sentence_romaji": "Chichi wa kazoku no tame ni erai doryoku o shite iru.",
         "sentence_english": "My father is making great efforts for the family.",
         "key": "偉い"
     },
     {
         "sentence_original": "その偉い発明家は世界的に有名だ。",
-        "sentence_romaji": "Sono erai hatsumeika wa sekaiteki ni yuumei da",
+        "sentence_romaji": "Sono erai hatsumeika wa sekaiteki ni yuumei da.",
         "sentence_english": "That great inventor is famous worldwide.",
         "key": "偉い"
     },
     {
         "sentence_original": "彼の偉い行いは人々に感動を与えた。",
-        "sentence_romaji": "Kare no erai okonai wa hitobito ni kandou o ataeta",
+        "sentence_romaji": "Kare no erai okonai wa hitobito ni kandou o ataeta.",
         "sentence_english": "His great deeds moved the people.",
         "key": "偉い"
     },
@@ -72,9 +72,9 @@
         "key": "おかしい"
     },
     {
-        "sentence_original": "彼の話がおかしいと思って付け入る隙を見つけた。",
-        "sentence_romaji": "Kare no hanashi ga okashii to omotte tsuke iru suki o mitsuketa.",
-        "sentence_english": "I thought his story was strange and found a loophole.",
+        "sentence_original": "彼の話がおかしいと思って、付け入る隙を見つけた。",
+        "sentence_romaji": "Kare no hanashi ga okashii to omotte, tsukeiru suki o mitsuketa.",
+        "sentence_english": "I thought his story was strange and found an opening to exploit.",
         "key": "おかしい"
     },
     {
@@ -85,7 +85,7 @@
     },
     {
         "sentence_original": "どこかおかしいと感じたんだが、具体的な点が見当たらない。",
-        "sentence_romaji": "Dokoka okashii to kanjitan da ga, gutaiteki na ten ga miataranai.",
+        "sentence_romaji": "Dokoka okashii to kanjita n da ga, gutaiteki na ten ga miataranai.",
         "sentence_english": "I felt something was off, but I can't find any specific point.",
         "key": "おかしい"
     },
@@ -121,121 +121,121 @@
     },
     {
         "sentence_original": "恐ろしい事件が起こった。",
-        "sentence_romaji": "Osoroshii jiken ga okotta",
+        "sentence_romaji": "Osoroshii jiken ga okotta.",
         "sentence_english": "A terrible incident occurred.",
         "key": "恐ろしい"
     },
     {
         "sentence_original": "彼女はその映画が恐ろしすぎて見られなかった。",
-        "sentence_romaji": "Kanojo wa sono eiga ga osoroshi sugite mirarenakatta",
+        "sentence_romaji": "Kanojo wa sono eiga ga osoroshi sugite mirarenakatta.",
         "sentence_english": "She couldn't watch the movie because it was too scary.",
         "key": "恐ろしい"
     },
     {
         "sentence_original": "雷が恐ろしく激しく、家の中が揺れるほどだった。",
-        "sentence_romaji": "Kaminari ga osoroshiku hageshiku, ie no naka ga yureru hodo datta",
+        "sentence_romaji": "Kaminari ga osoroshiku hageshiku, ie no naka ga yureru hodo datta.",
         "sentence_english": "The thunder was so terrifyingly intense that the house shook.",
         "key": "恐ろしい"
     },
     {
         "sentence_original": "この恐ろしい事件の犠牲者数は増え続けている。",
-        "sentence_romaji": "Kono osoroshii jiken no giseisha suu wa masetsuzuketeiru",
+        "sentence_romaji": "Kono osoroshii jiken no giseisha suu wa fue tsuzukete iru.",
         "sentence_english": "The number of victims in this horrifying incident continues to increase.",
         "key": "恐ろしい"
     },
     {
         "sentence_original": "彼が言った言葉は、どれも恐ろしいことばかりだった。",
-        "sentence_romaji": "Kare ga itta kotoba wa, doremo osoroshii koto bakari datta",
+        "sentence_romaji": "Kare ga itta kotoba wa, doremo osoroshii koto bakari datta.",
         "sentence_english": "Everything he said was nothing but frightening.",
         "key": "恐ろしい"
     },
     {
         "sentence_original": "彼女はおとなしい性格です。",
-        "sentence_romaji": "Kanojo wa otonashii seikaku desu",
+        "sentence_romaji": "Kanojo wa otonashii seikaku desu.",
         "sentence_english": "She has a quiet personality.",
         "key": "おとなしい"
     },
     {
         "sentence_original": "彼はいつもおとなしい子どもだ。",
-        "sentence_romaji": "Kare wa itsumo otonashii kodomo da",
+        "sentence_romaji": "Kare wa itsumo otonashii kodomo da.",
         "sentence_english": "He is always a well-behaved child.",
         "key": "おとなしい"
     },
     {
         "sentence_original": "おとなしい犬は初心者に適しています。",
-        "sentence_romaji": "Otonashii inu wa shoshinsha ni teki shiteimasu",
+        "sentence_romaji": "Otonashii inu wa shoshinsha ni tekishite imasu.",
         "sentence_english": "Quiet dogs are suitable for beginners.",
         "key": "おとなしい"
     },
     {
         "sentence_original": "彼のおとなしい態度は評価されている。",
-        "sentence_romaji": "Kare no otonashii taido wa hyouka sarete iru",
+        "sentence_romaji": "Kare no otonashii taido wa hyouka sarete iru.",
         "sentence_english": "His calm demeanor is highly regarded.",
         "key": "おとなしい"
     },
     {
         "sentence_original": "おとなしい生徒は先生に気に入られることが多い。",
-        "sentence_romaji": "Otonashii seito wa sensei ni ki niirareru koto ga ooi",
+        "sentence_romaji": "Otonashii seito wa sensei ni kiniirareru koto ga ooi.",
         "sentence_english": "Quiet students are often liked by teachers.",
         "key": "おとなしい"
     },
     {
         "sentence_original": "このセーターは素材が粗いので、着るとかゆいです。",
-        "sentence_romaji": "Kono seetaa wa sozai ga arai node, kiru to kayui desu",
+        "sentence_romaji": "Kono seetaa wa sozai ga arai node, kiru to kayui desu.",
         "sentence_english": "This sweater is made of rough material, so it's itchy when I wear it.",
         "key": "かゆい"
     },
     {
         "sentence_original": "蚊に刺されて、かゆいところがたくさんあります。",
-        "sentence_romaji": "Ka ni sasarete, kayui tokoro ga takusan arimasu",
+        "sentence_romaji": "Ka ni sasarete, kayui tokoro ga takusan arimasu.",
         "sentence_english": "I have many itchy spots from mosquito bites.",
         "key": "かゆい"
     },
     {
         "sentence_original": "アレルギーのせいで、目がかゆいです。",
-        "sentence_romaji": "Arerugii no sei de, me ga kayui desu",
+        "sentence_romaji": "Arerugii no sei de, me ga kayui desu.",
         "sentence_english": "Due to allergies, my eyes are itchy.",
         "key": "かゆい"
     },
     {
         "sentence_original": "猫にかまれた後、手がかゆいです。",
-        "sentence_romaji": "Neko ni kamareta ato, te ga kayui desu",
+        "sentence_romaji": "Neko ni kamareta ato, te ga kayui desu.",
         "sentence_english": "After being bitten by a cat, my hand is itchy.",
         "key": "かゆい"
     },
     {
         "sentence_original": "花粉症の季節になると、鼻がかゆいです。",
-        "sentence_romaji": "Kafunshou no kisetsu ni naru to, hana ga kayui desu",
+        "sentence_romaji": "Kafunshou no kisetsu ni naru to, hana ga kayui desu.",
         "sentence_english": "During hay fever season, my nose becomes itchy.",
         "key": "かゆい"
     },
     {
         "sentence_original": "この仕事はきついですね。",
-        "sentence_romaji": "Kono shigoto wa kitsui desu ne",
+        "sentence_romaji": "Kono shigoto wa kitsui desu ne.",
         "sentence_english": "This job is tough, isn't it?",
         "key": "きつい"
     },
     {
         "sentence_original": "この靴はきつくて履けません。",
-        "sentence_romaji": "Kono kutsu wa kitsukute hakemasen",
+        "sentence_romaji": "Kono kutsu wa kitsukute hakemasen.",
         "sentence_english": "These shoes are too tight, I can't wear them.",
         "key": "きつい"
     },
     {
         "sentence_original": "今日のトレーニングは特にきつかった。",
-        "sentence_romaji": "Kyou no tore-ningu wa tokuni kitsukatta",
+        "sentence_romaji": "Kyou no tore-ningu wa tokuni kitsukatta.",
         "sentence_english": "Today's training was especially intense.",
         "key": "きつい"
     },
     {
         "sentence_original": "きつい言い方をしないでください。",
-        "sentence_romaji": "Kitsui iikata o shinaide kudasai",
+        "sentence_romaji": "Kitsui iikata o shinaide kudasai.",
         "sentence_english": "Please don't use harsh words.",
         "key": "きつい"
     },
     {
         "sentence_original": "あの山登りはかなりきつい挑戦だった。",
-        "sentence_romaji": "Ano yama nobori wa kanari kitsui chousen datta",
+        "sentence_romaji": "Ano yama nobori wa kanari kitsui chousen datta.",
         "sentence_english": "Climbing that mountain was quite a challenging endeavor.",
         "key": "きつい"
     },
@@ -258,8 +258,8 @@
         "key": "厳しい"
     },
     {
-        "sentence_original": "彼は厳しい締め切りのために長時間働いていた。",
-        "sentence_romaji": "Kare wa kibishii shimekiri no tame ni nagajikan hataraita.",
+        "sentence_original": "彼は厳しい締め切りのために長い時間働いていた。",
+        "sentence_romaji": "Kare wa kibishii shimekiri no tame ni nagai jikan hataraita.",
         "sentence_english": "He worked long hours due to the tight deadline.",
         "key": "厳しい"
     },
@@ -289,7 +289,7 @@
     },
     {
         "sentence_original": "ゴミ箱から悪臭が漂っている。",
-        "sentence_romaji": "Gomibako kara akushū ga tadayotte iru.",
+        "sentence_romaji": "Gomibako kara akushuu ga tadayotte iru.",
         "sentence_english": "A foul smell is drifting from the trash can.",
         "key": "臭い"
     },
@@ -332,7 +332,7 @@
     {
         "sentence_original": "この仕事はとても苦しいです。",
         "sentence_romaji": "Kono shigoto wa totemo kurushii desu.",
-        "sentence_english": "This job is very painful.",
+        "sentence_english": "This job is very tough (painful to endure).",
         "key": "苦しい"
     },
     {
@@ -361,31 +361,31 @@
     },
     {
         "sentence_original": "詳しい情報が欲しいです。",
-        "sentence_romaji": "Kuwashii jouhou ga hoshii desu",
+        "sentence_romaji": "Kuwashii jouhou ga hoshii desu.",
         "sentence_english": "I want detailed information.",
         "key": "詳しい"
     },
     {
         "sentence_original": "彼女はフランス文化に詳しい。",
-        "sentence_romaji": "Kanojo wa Furansu bunka ni kuwashii",
+        "sentence_romaji": "Kanojo wa Furansu bunka ni kuwashii.",
         "sentence_english": "She is well-informed about French culture.",
         "key": "詳しい"
     },
     {
         "sentence_original": "駅への行き方を詳しく説明してください。",
-        "sentence_romaji": "Eki e no ikikata o kuwashiku setsumei shite kudasai",
+        "sentence_romaji": "Eki e no ikikata o kuwashiku setsumei shite kudasai.",
         "sentence_english": "Please explain the way to the station in detail.",
         "key": "詳しい"
     },
     {
         "sentence_original": "詳しい報告書を作成して提出してください。",
-        "sentence_romaji": "Kuwashii houkokusho o sakusei shite teishutsu shite kudasai",
+        "sentence_romaji": "Kuwashii houkokusho o sakusei shite teishutsu shite kudasai.",
         "sentence_english": "Please create and submit a detailed report.",
         "key": "詳しい"
     },
     {
         "sentence_original": "彼は日本史に詳しい学者です。",
-        "sentence_romaji": "Kare wa Nihonshi ni kuwashii gakusha desu",
+        "sentence_romaji": "Kare wa Nihonshi ni kuwashii gakusha desu.",
         "sentence_english": "He is a scholar well-versed in Japanese history.",
         "key": "詳しい"
     },
@@ -402,8 +402,8 @@
         "key": "濃い"
     },
     {
-        "sentence_original": "酒が濃い程、味がいいと思います。",
-        "sentence_romaji": "Sake ga koi hodo, aji ga ii to omoimasu.",
+        "sentence_original": "お酒は濃いほど、味がいいと思います。",
+        "sentence_romaji": "Osake wa koi hodo, aji ga ii to omoimasu.",
         "sentence_english": "I think the stronger the alcohol, the better the taste.",
         "key": "濃い"
     },
@@ -421,61 +421,61 @@
     },
     {
         "sentence_original": "細かい指示に従うべきです。",
-        "sentence_romaji": "Komakai shiji ni shitagau beki desu",
+        "sentence_romaji": "Komakai shiji ni shitagau beki desu.",
         "sentence_english": "You should follow detailed instructions.",
         "key": "細かい"
     },
     {
         "sentence_original": "細かい観察が役立つことがあります。",
-        "sentence_romaji": "Komakai kansatsu ga yakudatsu koto ga arimasu",
+        "sentence_romaji": "Komakai kansatsu ga yakudatsu koto ga arimasu.",
         "sentence_english": "Detailed observations can sometimes be helpful.",
         "key": "細かい"
     },
     {
         "sentence_original": "彼女は細かい点まで気を配る人です。",
-        "sentence_romaji": "Kanojo wa komakai ten made ki o kubareru hito desu",
+        "sentence_romaji": "Kanojo wa komakai ten made ki o kuburu hito desu.",
         "sentence_english": "She is a person who pays attention to every detail.",
         "key": "細かい"
     },
     {
         "sentence_original": "この絵は細かい部分まで描かれている。",
-        "sentence_romaji": "Kono e wa komakai bubun made egakarete iru",
+        "sentence_romaji": "Kono e wa komakai bubun made egakarete iru.",
         "sentence_english": "This painting is drawn down to the finest details.",
         "key": "細かい"
     },
     {
         "sentence_original": "細かい仕事は根気が要る。",
-        "sentence_romaji": "Komakai shigoto wa konki ga iru",
+        "sentence_romaji": "Komakai shigoto wa konki ga iru.",
         "sentence_english": "Detailed work requires patience.",
         "key": "細かい"
     },
     {
         "sentence_original": "この料理はちょっと塩辛いですね。",
-        "sentence_romaji": "Kono ryouri wa chotto shiokarai desu ne",
+        "sentence_romaji": "Kono ryouri wa chotto shiokarai desu ne.",
         "sentence_english": "This dish is a bit salty, isn't it?",
         "key": "塩辛い"
     },
     {
         "sentence_original": "塩辛いスープは、水分補給にはあまり適していない。",
-        "sentence_romaji": "Shiokarai suupu wa, suibun hokyuu ni wa amari tekishite inai",
+        "sentence_romaji": "Shiokarai suupu wa, suibun hokyuu ni wa amari tekishite inai.",
         "sentence_english": "Salty soup is not suitable for hydration.",
         "key": "塩辛い"
     },
     {
         "sentence_original": "彼女は、ペットボトルの水に塩辛いお茶を入れて間違えてしまった。",
-        "sentence_romaji": "Kanojo wa, pettobotoru no mizu ni shiokarai ocha o irete machigaete shimatta",
+        "sentence_romaji": "Kanojo wa, pettobotoru no mizu ni shiokarai ocha o irete machigaete shimatta.",
         "sentence_english": "She accidentally put salty tea in her water bottle instead of water.",
         "key": "塩辛い"
     },
     {
         "sentence_original": "もっと塩辛い味付けが好きなんだけど、健康のために減らしている。",
-        "sentence_romaji": "Motto shiokarai ajitsuke ga suki nanda kedo, kenkou no tame ni herashite iru",
+        "sentence_romaji": "Motto shiokarai ajitsuke ga suki nanda kedo, kenkou no tame ni herashite iru.",
         "sentence_english": "I prefer a saltier taste, but I'm reducing it for my health.",
         "key": "塩辛い"
     },
     {
         "sentence_original": "父は塩辛い料理を作るのが上手だが、私は甘いものが好きだ。",
-        "sentence_romaji": "Chichi wa shiokarai ryouri o tsukuru no ga jouzu da ga, watashi wa amai mono ga suki da",
+        "sentence_romaji": "Chichi wa shiokarai ryouri o tsukuru no ga jouzu da ga, watashi wa amai mono ga suki da.",
         "sentence_english": "My father is good at making salty dishes, but I prefer sweet ones.",
         "key": "塩辛い"
     },
@@ -511,49 +511,49 @@
     },
     {
         "sentence_original": "この雨の中、傘を持っていないので、ずぶ濡れになるしかたがない。",
-        "sentence_romaji": "Kono ame no naka, kasa o motte inai node, zubunure ni naru shikata ga nai",
+        "sentence_romaji": "Kono ame no naka, kasa o motte inai node, zubunure ni naru shikata ga nai.",
         "sentence_english": "In this rain, I don't have an umbrella, so there's no way to avoid getting soaked.",
         "key": "しかた（が）ない"
     },
     {
         "sentence_original": "この問題は難しすぎて、解けないしかたがない。",
-        "sentence_romaji": "Kono mondai wa muzukashisugite, tokenai shikata ga nai",
+        "sentence_romaji": "Kono mondai wa muzukashisugite, tokenai shikata ga nai.",
         "sentence_english": "This problem is too difficult, so there's no way to solve it.",
         "key": "しかた（が）ない"
     },
     {
         "sentence_original": "彼は怒っているが、その気持ちもわかるのでしかたがない。",
-        "sentence_romaji": "Kare wa okotte iru ga, sono kimochi mo wakaru node shikata ga nai",
-        "sentence_english": "He is angry, but I understand his feelings, so there's nothing that can be done.",
+        "sentence_romaji": "Kare wa okotte iru ga, sono kimochi mo wakaru node shikata ga nai.",
+        "sentence_english": "He is angry, but I understand how he feels, so there's nothing that can be done.",
         "key": "しかた（が）ない"
     },
     {
         "sentence_original": "足が怪我をしたので、今日は散歩に行けないしかたがない。",
-        "sentence_romaji": "Ashi ga kega o shita node, kyou wa sanpo ni ikenai shikata ga nai",
+        "sentence_romaji": "Ashi ga kega o shita node, kyou wa sanpo ni ikenai shikata ga nai.",
         "sentence_english": "Since my leg is injured, there's no way I can go for a walk today.",
         "key": "しかた（が）ない"
     },
     {
         "sentence_original": "試験の日が近づいているので、勉強しないわけにはいかないしかたがない。",
-        "sentence_romaji": "Shiken no hi ga chikazuite iru node, benkyou shinai wake ni wa ikanai shikata ga nai",
-        "sentence_english": "Since the exam day is approaching, there's no way I can't not study.",
+        "sentence_romaji": "Shiken no hi ga chikazuite iru node, benkyou shinai wake ni wa ikanai shikata ga nai.",
+        "sentence_english": "Since the exam day is approaching, there's no way I can avoid studying.",
         "key": "しかた（が）ない"
     },
     {
         "sentence_original": "このレモンはとても酸っぱいです。",
-        "sentence_romaji": "Kono remon wa totemo suppai desu",
+        "sentence_romaji": "Kono remon wa totemo suppai desu.",
         "sentence_english": "This lemon is very sour.",
         "key": "酸っぱい"
     },
     {
         "sentence_original": "酸っぱいものを食べると顔がしかめる。",
-        "sentence_romaji": "Suppai mono o taberu to kao ga shikameru",
+        "sentence_romaji": "Suppai mono o taberu to kao ga shikameru.",
         "sentence_english": "When I eat sour things, my face cringes.",
         "key": "酸っぱい"
     },
     {
         "sentence_original": "酸っぱいリンゴをバランスの良いデザートに変える。",
-        "sentence_romaji": "Suppai ringo o baransu no yoi dezāto ni kaeru",
+        "sentence_romaji": "Suppai ringo o baransu no yoi dezāto ni kaeru.",
         "sentence_english": "Turn sour apples into a well-balanced dessert.",
         "key": "酸っぱい"
     },
@@ -565,97 +565,97 @@
     },
     {
         "sentence_original": "酸っぱいおかずはお酒に合っている。",
-        "sentence_romaji": "Suppai okazu wa osake ni atte iru",
+        "sentence_romaji": "Suppai okazu wa osake ni atte iru.",
         "sentence_english": "Sour side dishes go well with alcohol.",
         "key": "酸っぱい"
     },
     {
         "sentence_original": "仕事がとてもつらいです。",
-        "sentence_romaji": "Shigoto ga totemo tsurai desu",
+        "sentence_romaji": "Shigoto ga totemo tsurai desu.",
         "sentence_english": "The work is very difficult.",
         "key": "つらい"
     },
     {
         "sentence_original": "彼女は別れた後、つらい気持ちでした。",
-        "sentence_romaji": "Kanojo wa wakareta ato, tsurai kimochi deshita",
-        "sentence_english": "She had a tough feeling after breaking up.",
+        "sentence_romaji": "Kanojo wa wakareta ato, tsurai kimochi deshita.",
+        "sentence_english": "She felt miserable after breaking up.",
         "key": "つらい"
     },
     {
         "sentence_original": "失恋はつらい経験だが、大切な教訓を学ぶことができる。",
-        "sentence_romaji": "Shitsuren wa tsurai keiken da ga, taisetsu na kyokun o manabu koto ga dekiru",
+        "sentence_romaji": "Shitsuren wa tsurai keiken da ga, taisetsu na kyokun o manabu koto ga dekiru.",
         "sentence_english": "Heartbreak is a painful experience, but you can learn valuable lessons from it.",
         "key": "つらい"
     },
     {
         "sentence_original": "彼は腰痛のため、毎日つらい生活を送っている。",
-        "sentence_romaji": "Kare wa youtsuu no tame, mainichi tsurai seikatsu o okutte iru",
+        "sentence_romaji": "Kare wa youtsuu no tame, mainichi tsurai seikatsu o okutte iru.",
         "sentence_english": "He leads a painful life every day due to his lower back pain.",
         "key": "つらい"
     },
     {
         "sentence_original": "親友が遠くに引っ越すのは、つらいことです。",
-        "sentence_romaji": "Shin'yuu ga tooku ni hikkosu no wa, tsurai koto desu",
+        "sentence_romaji": "Shin'yuu ga tooku ni hikkosu no wa, tsurai koto desu.",
         "sentence_english": "It's tough when your best friend moves far away.",
         "key": "つらい"
     },
     {
         "sentence_original": "懐かしい思い出が蘇ってきた。",
-        "sentence_romaji": "Natsukashii omoide ga yomigaette kita",
+        "sentence_romaji": "Natsukashii omoide ga yomigaette kita.",
         "sentence_english": "Nostalgic memories came back to me.",
         "key": "懐かしい"
     },
     {
         "sentence_original": "この歌を聞くと、懐かしい気持ちになる。",
-        "sentence_romaji": "Kono uta o kiku to, natsukashii kimochi ni naru",
+        "sentence_romaji": "Kono uta o kiku to, natsukashii kimochi ni naru.",
         "sentence_english": "When I listen to this song, I feel nostalgic.",
         "key": "懐かしい"
     },
     {
         "sentence_original": "彼女と再会したとき、懐かしい学生時代の話に花が咲いた。",
-        "sentence_romaji": "Kanojo to saikai shita toki, natsukashii gakusei jidai no hanashi ni hana ga saita",
+        "sentence_romaji": "Kanojo to saikai shita toki, natsukashii gakusei jidai no hanashi ni hana ga saita.",
         "sentence_english": "When I reunited with her, we had a lively conversation about our nostalgic school days.",
         "key": "懐かしい"
     },
     {
         "sentence_original": "その町は昔住んでいた場所だから、とても懐かしい。",
-        "sentence_romaji": "Sono machi wa mukashi sundeta basho dakara, totemo natsukashii",
+        "sentence_romaji": "Sono machi wa mukashi sundeta basho dakara, totemo natsukashii.",
         "sentence_english": "That town is where I used to live, so it's very nostalgic.",
         "key": "懐かしい"
     },
     {
         "sentence_original": "昔の写真を見ると、懐かしい気分に浸れる。",
-        "sentence_romaji": "Mukashi no shashin o miru to, natsukashii kibun ni hitareru",
+        "sentence_romaji": "Mukashi no shashin o miru to, natsukashii kibun ni hitareru.",
         "sentence_english": "Looking at old photos makes me feel immersed in nostalgia.",
         "key": "懐かしい"
     },
     {
         "sentence_original": "ぬるい湯でリラックスするのが好きです。",
-        "sentence_romaji": "Nurui yu de rirakkusu suru no ga suki desu",
+        "sentence_romaji": "Nurui yu de rirakkusu suru no ga suki desu.",
         "sentence_english": "I like to relax in lukewarm water.",
         "key": "ぬるい"
     },
     {
         "sentence_original": "彼はコーヒーが冷めてぬるくなっても気にしない。",
-        "sentence_romaji": "Kare wa kohii ga samete nuruku natte mo ki ni shinai",
-        "sentence_english": "He doesn't mind if his coffee gets cold and lukewarm.",
+        "sentence_romaji": "Kare wa koohii ga samete nuruku natte mo ki ni shinai.",
+        "sentence_english": "He doesn't mind if his coffee cools down and becomes lukewarm.",
         "key": "ぬるい"
     },
     {
         "sentence_original": "この部屋は冬でもぬるい風が入ってきます。",
-        "sentence_romaji": "Kono heya wa fuyu de mo nurui kaze ga haitte kimasu",
+        "sentence_romaji": "Kono heya wa fuyu de mo nurui kaze ga haitte kimasu.",
         "sentence_english": "In this room, even in winter, a lukewarm breeze comes in.",
         "key": "ぬるい"
     },
     {
         "sentence_original": "私はぬるいお茶より熱いお茶が好きです。",
-        "sentence_romaji": "Watashi wa nurui ocha yori atsui ocha ga suki desu",
+        "sentence_romaji": "Watashi wa nurui ocha yori atsui ocha ga suki desu.",
         "sentence_english": "I prefer hot tea over lukewarm tea.",
         "key": "ぬるい"
     },
     {
         "sentence_original": "彼女はぬるいスープを飲んでがっかりした。",
-        "sentence_romaji": "Kanojo wa nurui suupu o nonde gakkari shita",
+        "sentence_romaji": "Kanojo wa nurui suupu o nonde gakkari shita.",
         "sentence_english": "She was disappointed after drinking the lukewarm soup.",
         "key": "ぬるい"
     },
@@ -679,7 +679,7 @@
     },
     {
         "sentence_original": "彼はひどい言い方で人々を怒らせた。",
-        "sentence_romaji": "Kare wa hidoi iikata de hitobito o okorasete.",
+        "sentence_romaji": "Kare wa hidoi iikata de hitobito o okoraseta.",
         "sentence_english": "He angered people by speaking in a terrible way.",
         "key": "ひどい"
     },
@@ -698,7 +698,7 @@
     {
         "sentence_original": "彼女は細長い指を見ていると不思議な気持ちになる。",
         "sentence_romaji": "Kanojo wa hosonagai yubi o miteiru to fushigina kimochi ni naru.",
-        "sentence_english": "I feel strange when I look at her long, slender fingers.",
+        "sentence_english": "She feels strange when she looks at her long, slender fingers.",
         "key": "細長い"
     },
     {
@@ -709,7 +709,7 @@
     },
     {
         "sentence_original": "細長い道路が森を通って山を登る。",
-        "sentence_romaji": "Hosonagai douro ga mori o kayotte yama o noboru.",
+        "sentence_romaji": "Hosonagai douro ga mori o tootte yama o noboru.",
         "sentence_english": "The long, narrow road goes through the forest and climbs the mountain.",
         "key": "細長い"
     },
@@ -751,61 +751,61 @@
     },
     {
         "sentence_original": "蒸し暑い日が続いて、エアコンが欠かせません。",
-        "sentence_romaji": "Mushiatsui hi ga tsuzuite, eakon ga kakasemasen",
+        "sentence_romaji": "Mushiatsui hi ga tsuzuite, eakon ga kakasemasen.",
         "sentence_english": "The hot and humid days continue, and we can't do without air conditioning.",
         "key": "蒸し暑い"
     },
     {
         "sentence_original": "夏の蒸し暑い午後は、アイスクリームが最高です。",
-        "sentence_romaji": "Natsu no mushiatsui gogo wa, aisukurīmu ga saikou desu",
+        "sentence_romaji": "Natsu no mushiatsui gogo wa, aisukuriimu ga saikou desu.",
         "sentence_english": "Ice cream is the best on hot and humid summer afternoons.",
         "key": "蒸し暑い"
     },
     {
         "sentence_original": "蒸し暑い天気が続くと、熱中症に注意しなければなりません。",
-        "sentence_romaji": "Mushiatsui tenki ga tsuzuku to, necchuushou ni chuui shinakereba narimasen",
+        "sentence_romaji": "Mushiatsui tenki ga tsuzuku to, necchuushou ni chuui shinakereba narimasen.",
         "sentence_english": "When hot and humid weather continues, we must be cautious of heatstroke.",
         "key": "蒸し暑い"
     },
     {
         "sentence_original": "蒸し暑い夜には、うちわで涼を取るのが良いです。",
-        "sentence_romaji": "Mushiatsui yoru ni wa, uchiwa de suzushi wo toru no ga yoidesu",
+        "sentence_romaji": "Mushiatsui yoru ni wa, uchiwa de ryou o toru no ga ii desu.",
         "sentence_english": "On hot and humid nights, it's nice to cool off with a hand fan.",
         "key": "蒸し暑い"
     },
     {
         "sentence_original": "蒸し暑い日には、水分補給を忘れずに行ってください。",
-        "sentence_romaji": "Mushiatsui hi ni wa, suibun hokyuu wo wasurezu ni okonatte kudasai",
+        "sentence_romaji": "Mushiatsui hi ni wa, suibun hokyuu o wasurezu ni okonatte kudasai.",
         "sentence_english": "On hot and humid days, please don't forget to stay hydrated.",
         "key": "蒸し暑い"
     },
     {
         "sentence_original": "珍しい動物がいる動物園に行ってみたい。",
-        "sentence_romaji": "Mezurashii doubutsu ga iru doubutsuen ni itte mitai",
+        "sentence_romaji": "Mezurashii doubutsu ga iru doubutsuen ni itte mitai.",
         "sentence_english": "I want to go to a zoo with rare animals.",
         "key": "珍しい"
     },
     {
         "sentence_original": "彼女は珍しい名前を持っている。",
-        "sentence_romaji": "Kanojo wa mezurashii namae o motte iru",
+        "sentence_romaji": "Kanojo wa mezurashii namae o motte iru.",
         "sentence_english": "She has a rare name.",
         "key": "珍しい"
     },
     {
         "sentence_original": "この地域では雪が降るのは珍しいことだ。",
-        "sentence_romaji": "Kono chiiki de wa yuki ga furu no wa mezurashii koto da",
+        "sentence_romaji": "Kono chiiki de wa yuki ga furu no wa mezurashii koto da.",
         "sentence_english": "It is rare for it to snow in this area.",
         "key": "珍しい"
     },
     {
         "sentence_original": "珍しい形をした雲が空に浮かんでいた。",
-        "sentence_romaji": "Mezurashii katachi o shita kumo ga sora ni ukandeita",
+        "sentence_romaji": "Mezurashii katachi o shita kumo ga sora ni ukandeita.",
         "sentence_english": "A cloud with a rare shape was floating in the sky.",
         "key": "珍しい"
     },
     {
         "sentence_original": "彼は珍しい本を収集している。",
-        "sentence_romaji": "Kare wa mezurashii hon o shuushuu shite iru",
+        "sentence_romaji": "Kare wa mezurashii hon o shuushuu shite iru.",
         "sentence_english": "He collects rare books.",
         "key": "珍しい"
     },
@@ -830,7 +830,7 @@
     {
         "sentence_original": "遅刻して申し訳ないと彼は謝った。",
         "sentence_romaji": "Chikoku shite moushiwake nai to kare wa ayamatta.",
-        "sentence_english": "He apologized for being late and feeling sorry about it.",
+        "sentence_english": "He apologized for being late, saying he felt sorry.",
         "key": "申し訳ない"
     },
     {
@@ -871,31 +871,31 @@
     },
     {
         "sentence_original": "ものすごい力でドアを開けた。",
-        "sentence_romaji": "Monosugoi chikara de doa o aketa",
+        "sentence_romaji": "Monosugoi chikara de doa o aketa.",
         "sentence_english": "He opened the door with an incredible force.",
         "key": "ものすごい"
     },
     {
         "sentence_original": "彼女はものすごい速さで走った。",
-        "sentence_romaji": "Kanojo wa monosugoi hayasa de hashitta",
+        "sentence_romaji": "Kanojo wa monosugoi hayasa de hashitta.",
         "sentence_english": "She ran at an incredible speed.",
         "key": "ものすごい"
     },
     {
         "sentence_original": "このレストランはものすごい人気がある。",
-        "sentence_romaji": "Kono resutoran wa monosugoi ninki ga aru",
+        "sentence_romaji": "Kono resutoran wa monosugoi ninki ga aru.",
         "sentence_english": "This restaurant is incredibly popular.",
         "key": "ものすごい"
     },
     {
-        "sentence_original": "あの映画はものすごい興奮させる。",
-        "sentence_romaji": "Ano eiga wa monosugoi koufun saseru",
+        "sentence_original": "あの映画はものすごく興奮させる映画だ。",
+        "sentence_romaji": "Ano eiga wa monosugoku koufun saseru eiga da.",
         "sentence_english": "That movie is incredibly exciting.",
         "key": "ものすごい"
     },
     {
         "sentence_original": "彼はものすごい努力家だ。",
-        "sentence_romaji": "Kare wa monosugoi doryokuka da",
+        "sentence_romaji": "Kare wa monosugoi doryokuka da.",
         "sentence_english": "He is an incredibly hard worker.",
         "key": "ものすごい"
     }
