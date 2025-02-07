@@ -38,7 +38,7 @@
     {
         "sentence_original": "昨日は異常な天候になりました。",
         "sentence_romaji": "Kinou wa ijouna tenkou ni narimashita",
-        "sentence_english": "The weather was unusually strange yesterday.",
+        "sentence_english": "The weather was abnormal yesterday.",
         "key": "異常"
     },
     {
@@ -62,7 +62,7 @@
     {
         "sentence_original": "一般的な意見では、この問題は難しいとされています。",
         "sentence_romaji": "Ippanteki na iken de wa, kono mondai wa muzukashii to sareteimasu",
-        "sentence_english": "In general opinion, this problem is considered difficult.",
+        "sentence_english": "According to general opinion, this problem is considered difficult.",
         "key": "一般的"
     },
     {
@@ -79,7 +79,7 @@
     },
     {
         "sentence_original": "一般的な食材で手軽に作れる料理が家庭では人気があります。",
-        "sentence_romaji": "Ippanteki na shokuzai de tegaru ni tsukureru ryouri ga katei de wa ninkiga arimasu",
+        "sentence_romaji": "Ippanteki na shokuzai de tegaru ni tsukureru ryouri ga katei de wa ninki ga arimasu",
         "sentence_english": "Dishes made with common ingredients that can be easily prepared are popular in households.",
         "key": "一般的"
     },
@@ -325,7 +325,7 @@
     },
     {
         "sentence_original": "状況を客観的に捉えることが重要です。",
-        "sentence_romaji": "Joukou o kyakkanteki ni toraeru koto ga juuyou desu",
+        "sentence_romaji": "Joukyou o kyakkanteki ni toraeru koto ga juuyou desu",
         "sentence_english": "It is important to perceive the situation objectively.",
         "key": "客観的"
     },
@@ -462,7 +462,7 @@
         "key": "盛ん"
     },
     {
-        "sentence_original": "その地域では伝統的な織物が盛んだ。",
+        "sentence_original": "その地域では伝統的な織物が盛んだった。",
         "sentence_romaji": "Sono chiiki de wa dentouteki na orimono ga sakandatta.",
         "sentence_english": "Traditional weaving was thriving in that area.",
         "key": "盛ん"
@@ -500,7 +500,7 @@
     {
         "sentence_original": "この地域には、さまざまな鳥が生息しています。",
         "sentence_romaji": "Kono chiiki ni wa, samazama na tori ga seisoku shiteimasu",
-        "sentence_english": "In this region, various birds inhabit.",
+        "sentence_english": "Various birds live in this region.",
         "key": "さまざま"
     },
     {
@@ -661,7 +661,7 @@
     },
     {
         "sentence_original": "新鮮な空気を吸いたいので、公園に行きましょう。",
-        "sentence_romaji": "Shinsen na kuuki o suitaidesu, kouen ni ikimashou",
+        "sentence_romaji": "Shinsen na kuuki o suitai no de, kouen ni ikimashou",
         "sentence_english": "I want to breathe fresh air, so let's go to the park.",
         "key": "新鮮"
     },
@@ -787,7 +787,7 @@
     },
     {
         "sentence_original": "彼女はいつもぜいたくな贈り物を望んでいる。",
-        "sentence_romaji": "Kanojo wa itsumozeitaku na okurimono o nozonde iru.",
+        "sentence_romaji": "Kanojo wa itsumo zeitaku na okurimono o nozonde iru.",
         "sentence_english": "She always desires luxurious gifts.",
         "key": "ぜいたく"
     },
@@ -823,7 +823,7 @@
     },
     {
         "sentence_original": "彼女は積極的に自己啓発に励んでいる。",
-        "sentence_romaji": "Kanojo wa sekkyokuteki ni jiko keihatsu ni hagemonde iru",
+        "sentence_romaji": "Kanojo wa sekkyokuteki ni jiko keihatsu ni hagende iru",
         "sentence_english": "She is proactively working on self-improvement.",
         "key": "積極的"
     },
@@ -871,7 +871,7 @@
     },
     {
         "sentence_original": "このソフトは非常に使いやすい。",
-        "sentence_romaji": "Kono sofuto wa hijou ni tsuka iyasu i.",
+        "sentence_romaji": "Kono sofuto wa hijou ni tsukaiyasui.",
         "sentence_english": "This software is very easy to use.",
         "key": "ソフト"
     },
@@ -913,7 +913,7 @@
     },
     {
         "sentence_original": "長時間待つことは退屈で不快です。",
-        "sentence_romaji": "Nagan jikan matsu koto wa taikutsu de fukai desu",
+        "sentence_romaji": "Choujikan matsu koto wa taikutsu de fukai desu",
         "sentence_english": "Waiting for a long time is boring and uncomfortable.",
         "key": "退屈"
     },
@@ -1045,7 +1045,7 @@
     },
     {
         "sentence_original": "彼はピアノが得意で、周りの人々を感動させます。",
-        "sentence_romaji": "Kare wa piano ga tokui de, mawari no hitobito o kandou sase masu",
+        "sentence_romaji": "Kare wa piano ga tokui de, mawari no hitobito o kandou sasemasu",
         "sentence_english": "He is good at the piano and impresses the people around him.",
         "key": "得意"
     },
@@ -1129,7 +1129,7 @@
     },
     {
         "sentence_original": "貧乏な学生に奨学金を提供することは彼らの教育に役立つ。",
-        "sentence_romaji": "Binbou na gakusei ni shougakukan o teikyou suru koto wa karera no kyouiku ni yakudatsu.",
+        "sentence_romaji": "Binbou na gakusei ni shougakukin o teikyou suru koto wa karera no kyouiku ni yakudatsu.",
         "sentence_english": "Providing scholarships to poor students helps their education.",
         "key": "貧乏"
     },
@@ -1171,13 +1171,13 @@
     },
     {
         "sentence_original": "彼女は不規則な生活習慣を持っている。",
-        "sentence_romaji": "Kanojo wa fukisoku na seikatsu shūkan o motte iru",
+        "sentence_romaji": "Kanojo wa fukisoku na seikatsu shuukan o motte iru",
         "sentence_english": "She has irregular lifestyle habits.",
         "key": "不規則"
     },
     {
         "sentence_original": "この地域は不規則な降雨量が特徴である。",
-        "sentence_romaji": "Kono chiiki wa fukisoku na kouryuu ga tokuchou de aru",
+        "sentence_romaji": "Kono chiiki wa fukisoku na kouuryou ga tokuchou de aru",
         "sentence_english": "The irregular rainfall is a characteristic of this region.",
         "key": "不規則"
     },
@@ -1693,14 +1693,14 @@
     },
     {
         "sentence_original": "楽しかった旅行を思い出します。",
-        "sentence_romaji": "Tanoshikatta ryokou o omoidesu.",
+        "sentence_romaji": "Tanoshikatta ryokou o omoidashimasu.",
         "sentence_english": "I remember the enjoyable trip.",
         "key": "楽"
     },
     {
         "sentence_original": "友達と話すのは楽だった。",
         "sentence_romaji": "Tomodachi to hanasu no wa raku datta.",
-        "sentence_english": "Talking with friends was fun.",
+        "sentence_english": "It was easy (comfortable) talking with friends.",
         "key": "楽"
     },
     {

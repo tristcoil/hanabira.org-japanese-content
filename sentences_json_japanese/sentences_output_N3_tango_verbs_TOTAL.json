@@ -72,8 +72,8 @@
         "key": "飽きる"
     },
     {
-        "sentence_original": "料理を毎日食べると、だんだん飽きてくる",
-        "sentence_romaji": "Ryouri o mainichi taberu to, dandan akite kuru",
+        "sentence_original": "同じ料理を毎日食べると、だんだん飽きてくる",
+        "sentence_romaji": "Onaji ryouri o mainichi taberu to, dandan akite kuru",
         "sentence_english": "Eating the same dish every day eventually becomes tiresome.",
         "key": "飽きる"
     },
@@ -85,7 +85,7 @@
     },
     {
         "sentence_original": "この仕事は長時間やっていると飽きが来る",
-        "sentence_romaji": "Kono shigoto wa nagan jikan yatte iru to aki ga kuru",
+        "sentence_romaji": "Kono shigoto wa choujikan yatte iru to aki ga kuru",
         "sentence_english": "Doing this job for a long time can become tedious.",
         "key": "飽きる"
     },
@@ -228,8 +228,8 @@
         "key": "当たる"
     },
     {
-        "sentence_original": "よく助言に当たる先生である。",
-        "sentence_romaji": "Yoku jogen ni ataru sensei de aru",
+        "sentence_original": "よく助言が当たる先生である。",
+        "sentence_romaji": "Yoku jogen ga ataru sensei de aru",
         "sentence_english": "He is a teacher who often gives appropriate advice.",
         "key": "当たる"
     },
@@ -282,9 +282,9 @@
         "key": "編む"
     },
     {
-        "sentence_original": "彼は新しい企画を編んでいる。",
-        "sentence_romaji": "Kare wa atarashii kikaku o andeiru",
-        "sentence_english": "He is devising a new plan.",
+        "sentence_original": "彼は新しい企画書を編んでいる。",
+        "sentence_romaji": "Kare wa atarashii kikakusho o andeiru",
+        "sentence_english": "He is compiling a new project proposal.",
         "key": "編む"
     },
     {
@@ -361,31 +361,31 @@
     },
     {
         "sentence_original": "火事が起きた時、彼は慌てるあまり鍵を置き忘れた。",
-        "sentence_romaji": "Kaji ga okita toki, kare wa ateru amari kagi o oki wasureta.",
+        "sentence_romaji": "Kaji ga okita toki, kare wa awateru amari kagi o oki wasureta.",
         "sentence_english": "When the fire broke out, he was so flustered that he forgot to pick up his keys.",
         "key": "慌てる"
     },
     {
         "sentence_original": "試験開始の5分前、学生たちはどうしても答えられない問題に出会い、慌てる。",
-        "sentence_romaji": "Shiken kaishi no 5 bun mae, gakusei-tachi wa doushitemo kotaerarenai mondai ni deai, ateru.",
+        "sentence_romaji": "Shiken kaishi no 5 bun mae, gakusei-tachi wa doushitemo kotaerarenai mondai ni deai, awateru.",
         "sentence_english": "5 minutes before the exam starts, the students encounter a question they can't answer and panic.",
         "key": "慌てる"
     },
     {
         "sentence_original": "彼は電車に乗り遅れそうだったので、慌てて駅に駆け込んだ。",
-        "sentence_romaji": "Kare wa densha ni nori okuresou datta no de, aatete eki ni kakekonda.",
+        "sentence_romaji": "Kare wa densha ni nori okuresou datta no de, awatete eki ni kakekonda.",
         "sentence_english": "He was about to miss the train, so he rushed into the station in a panic.",
         "key": "慌てる"
     },
     {
         "sentence_original": "彼女は約束の時間を忘れ、慌てて急いで家を出た。",
-        "sentence_romaji": "Kanojo wa yakusoku no jikan o wasure, aatete isoide ie o deta.",
+        "sentence_romaji": "Kanojo wa yakusoku no jikan o wasure, awatete isoide ie o deta.",
         "sentence_english": "She forgot the appointed time and left the house in a hurry, flustered.",
         "key": "慌てる"
     },
     {
         "sentence_original": "重要な会議に遅刻しそうで、彼は慌てて準備した。",
-        "sentence_romaji": "Juuyou na kaigi ni chikoku shisou de, kare wa aatete junbi shita.",
+        "sentence_romaji": "Juuyou na kaigi ni chikoku shisou de, kare wa awatete junbi shita.",
         "sentence_english": "He was likely to be late for the important meeting, so he hurriedly prepared in a fluster.",
         "key": "慌てる"
     },
@@ -488,7 +488,7 @@
     {
         "sentence_original": "友人の成功を祈るメッセージを送った。",
         "sentence_romaji": "Yuujin no seikou o inoru messeeji o okutta.",
-        "sentence_english": "I sent a message to pray for my friend's success.",
+        "sentence_english": "I sent a message praying for my friend's success.",
         "key": "祈る"
     },
     {
@@ -577,7 +577,7 @@
     },
     {
         "sentence_original": "卒業をみんなで祝いました。",
-        "sentence_romaji": "Sotsugyou o minna de iwaishimashita.",
+        "sentence_romaji": "Sotsugyou o minna de iwaimashita.",
         "sentence_english": "We all celebrated the graduation.",
         "key": "祝う"
     },
@@ -672,8 +672,8 @@
         "key": "浮く"
     },
     {
-        "sentence_original": "彼の話には、何かうさんくさいことが浮かんでいる。",
-        "sentence_romaji": "Kare no hanashi ni wa, nanika usankusai koto ga ukande iru.",
+        "sentence_original": "彼の話には、何かうさんくさい部分が浮かんでいる。",
+        "sentence_romaji": "Kare no hanashi ni wa, nanika usankusai bubun ga ukande iru.",
         "sentence_english": "There's something fishy about his story.",
         "key": "浮く"
     },
@@ -690,9 +690,9 @@
         "key": "浮く"
     },
     {
-        "sentence_original": "医者の予約を受け付けるまで待っています。",
-        "sentence_romaji": "Ishano yoyaku o uke-tsukeru made matteimasu.",
-        "sentence_english": "I am waiting until the doctor's appointment is accepted.",
+        "sentence_original": "医者の予約の受付が始まるまで待っています。",
+        "sentence_romaji": "Isha no yoyaku no uketsuke ga hajimaru made matte imasu.",
+        "sentence_english": "I am waiting until the clinic starts accepting appointments.",
         "key": "受け付ける"
     },
     {
@@ -715,7 +715,7 @@
     },
     {
         "sentence_original": "申請書は年中無休で受け付けております。",
-        "sentence_romaji": "Moushikomisho wa nenju-mukyū de uke-tsukete orimasu.",
+        "sentence_romaji": "Shinseisho wa nenju-mukyū de uke-tsukete orimasu.",
         "sentence_english": "We accept application forms 365 days a year.",
         "key": "受け付ける"
     },
@@ -764,7 +764,7 @@
     {
         "sentence_original": "彼女は動かすためにリモコンを使ってテレビをオンにしました。",
         "sentence_romaji": "Kanojo wa ugokasu tame ni rimokon o tsukatte terebi o on ni shimashita",
-        "sentence_english": "She used the remote control to turn on the TV and move around.",
+        "sentence_english": "She used the remote control to turn on the TV so she could operate it.",
         "key": "動かす"
     },
     {
@@ -780,9 +780,9 @@
         "key": "動かす"
     },
     {
-        "sentence_original": "彼の家族は田舎から都会に引っ越しを移すことにした。",
-        "sentence_romaji": "Kare no kazoku wa inaka kara tokai ni hikkoshi o utsusu koto ni shita.",
-        "sentence_english": "His family decided to move from the countryside to the city.",
+        "sentence_original": "彼の家族は田舎から都会に住まいを移すことにした。",
+        "sentence_romaji": "Kare no kazoku wa inaka kara tokai ni sumai o utsusu koto ni shita.",
+        "sentence_english": "His family decided to relocate from the countryside to the city.",
         "key": "移す"
     },
     {
@@ -1062,9 +1062,9 @@
         "key": "追う"
     },
     {
-        "sentence_original": "彼は目標を達成するために努力を追い続けた。",
-        "sentence_romaji": "Kare wa mokuhyou o tassei suru tame ni doryoku o oitsudzuketa",
-        "sentence_english": "He kept pursuing his efforts to achieve his goal.",
+        "sentence_original": "彼は目標を達成するために目標を追い続けた。",
+        "sentence_romaji": "Kare wa mokuhyou o tassei suru tame ni mokuhyou o oitsudzuketa",
+        "sentence_english": "He kept pursuing his goal to achieve it.",
         "key": "追う"
     },
     {
@@ -1093,7 +1093,7 @@
     },
     {
         "sentence_original": "結婚式では新郎新婦にお祝いの品物を贈りました。",
-        "sentence_romaji": "Kekkonshiki de wa shinroushinpai ni oiwai no shinamono o okurimashita.",
+        "sentence_romaji": "Kekkonshiki de wa shinrou shinpu ni oiwai no shinamono o okurimashita.",
         "sentence_english": "At the wedding, I gave a celebratory gift to the bride and groom.",
         "key": "贈る"
     },
@@ -1147,7 +1147,7 @@
     },
     {
         "sentence_original": "彼は疼痛に苦しみながら、腹を押さえた。",
-        "sentence_romaji": "Kare wa toushou ni kurushimi nagara, hara o osaeta",
+        "sentence_romaji": "Kare wa toutsuu ni kurushimi nagara, hara o osaeta",
         "sentence_english": "He held his stomach in pain from the severe ache.",
         "key": "押さえる"
     },
@@ -1470,9 +1470,9 @@
         "key": "汗をかく"
     },
     {
-        "sentence_original": "彼はそのタスクをかくことに決めた。",
-        "sentence_romaji": "Kare wa sono tasuku o kaku koto ni kimeta",
-        "sentence_english": "He decided to write that task.",
+        "sentence_original": "彼はその課題を書くことに決めた。",
+        "sentence_romaji": "Kare wa sono kadai o kaku koto ni kimeta",
+        "sentence_english": "He decided to write that assignment.",
         "key": "かく"
     },
     {
@@ -1483,7 +1483,7 @@
     },
     {
         "sentence_original": "小説家は新しい物語をかくためにインスピレーションを求めました。",
-        "sentence_romaji": "Shousetskawa wa atarashii monogatari o kaku tame ni insupirēshon o motomemashita",
+        "sentence_romaji": "Shousetsuka wa atarashii monogatari o kaku tame ni insupirēshon o motomemashita",
         "sentence_english": "The novelist sought inspiration to write a new story.",
         "key": "かく"
     },
@@ -1645,7 +1645,7 @@
     },
     {
         "sentence_original": "彼女は折り鶴を作って数えることが好きだ。",
-        "sentence_romaji": "Kanojo wa origami o tsukutte kazoeru koto ga suki da.",
+        "sentence_romaji": "Kanojo wa orizuru o tsukutte kazoeru koto ga suki da.",
         "sentence_english": "She likes making origami cranes and counting them.",
         "key": "数える"
     },
@@ -1705,7 +1705,7 @@
     },
     {
         "sentence_original": "彼らの会話の緊張が和らぐと、彼の心は彼女に傾いていった。",
-        "sentence_romaji": "Karera no kaiwa no kinchou ga yawaragu to, kare no kokoro wa kanojo ni katamuiteru itta",
+        "sentence_romaji": "Karera no kaiwa no kinchou ga yawaragu to, kare no kokoro wa kanojo ni katamuite itta",
         "sentence_english": "As the tension in their conversation softened, his heart began to lean towards her.",
         "key": "傾く"
     },
@@ -1753,7 +1753,7 @@
     },
     {
         "sentence_original": "子供はガムをかんでいるのが好きだ。",
-        "sentence_romaji": "Kodomo wa gamu o kannde iru no ga suki da.",
+        "sentence_romaji": "Kodomo wa gamu o kande iru no ga suki da.",
         "sentence_english": "Kids like chewing gum.",
         "key": "かむ"
     },
@@ -1801,7 +1801,7 @@
     },
     {
         "sentence_original": "この植物は水が足りずに枯れてしまった。",
-        "sentence_romaji": "Kono shokubutsu wa mizu ga tarizu ni kareru shimatta",
+        "sentence_romaji": "Kono shokubutsu wa mizu ga tarizu ni karete shimatta",
         "sentence_english": "This plant has withered due to lack of water.",
         "key": "枯れる"
     },
@@ -1813,19 +1813,19 @@
     },
     {
         "sentence_original": "長い夏の間、庭の花々はほとんど枯れてしまった。",
-        "sentence_romaji": "Nagai natsu no aida, niwa no hanabira wa hotondo karette shimatta",
+        "sentence_romaji": "Nagai natsu no aida, niwa no hanabana wa hotondo karette shimatta",
         "sentence_english": "During the long summer, most of the flowers in the garden withered away.",
         "key": "枯れる"
     },
     {
         "sentence_original": "緑豊かな森の木々も、干ばつで次々と枯れていった。",
-        "sentence_romaji": "Midorikoru mori no kigi mo, kanbatsu de tsugitsugi to kareteitta",
+        "sentence_romaji": "Midori yutaka na mori no kigi mo, kanbatsu de tsugitsugi to kareteitta",
         "sentence_english": "The lush trees of the forest also withered one after another due to the drought.",
         "key": "枯れる"
     },
     {
         "sentence_original": "農家は、病害虫により畑の作物がすべて枯れたことに大変苦しんでいる。",
-        "sentence_romaji": "Nouka wa, byougaichuu ni yori hatake no sakumotsu ga subete karetta koto ni taihen kurushinde iru",
+        "sentence_romaji": "Nouka wa, byougaichuu ni yori hatake no sakumotsu ga subete kareta koto ni taihen kurushinde iru",
         "sentence_english": "Farmers are suffering greatly as all their crops in the field have withered due to pests and diseases.",
         "key": "枯れる"
     },
@@ -1902,8 +1902,8 @@
         "key": "代わる/換わる/替わる"
     },
     {
-        "sentence_original": "週に一度、部屋のシーツを替わる必要がある。",
-        "sentence_romaji": "Shuu ni ichido, heya no shiitsu o kawaru hitsuyou ga aru.",
+        "sentence_original": "週に一度、部屋のシーツを替える必要がある。",
+        "sentence_romaji": "Shuu ni ichido, heya no shiitsu o kaeru hitsuyou ga aru.",
         "sentence_english": "You need to change the sheets in the room once a week.",
         "key": "代わる/換わる/替わる"
     },
@@ -2203,7 +2203,7 @@
     },
     {
         "sentence_original": "彼は会議で資料を全員に配りました。",
-        "sentence_romaji": "Kare wa kaigi de shiryou o zen'in ni kubari mashita",
+        "sentence_romaji": "Kare wa kaigi de shiryou o zen'in ni kubarimashita",
         "sentence_english": "He distributed the materials to everyone at the meeting.",
         "key": "配る"
     },
@@ -2215,7 +2215,7 @@
     },
     {
         "sentence_original": "友達が誕生日のパーティーの招待状を配りました。",
-        "sentence_romaji": "Tomodachi ga tanjoubi no paatii no shoutaijou o kubari mashita",
+        "sentence_romaji": "Tomodachi ga tanjoubi no paatii no shoutaijou o kubarimashita",
         "sentence_english": "My friend distributed the invitations for the birthday party.",
         "key": "配る"
     },
@@ -2227,19 +2227,19 @@
     },
     {
         "sentence_original": "彼は一人でアパートに暮らしています。",
-        "sentence_romaji": "Kare wa hitori de apaato ni kurasu shiteimasu.",
+        "sentence_romaji": "Kare wa hitori de apaato ni kurashite imasu.",
         "sentence_english": "He lives alone in an apartment.",
         "key": "暮らす"
     },
     {
         "sentence_original": "私たちは平和な世界で暮らしたい。",
-        "sentence_romaji": "Watashitachi wa heiwa na sekai de kurasu shitai.",
+        "sentence_romaji": "Watashitachi wa heiwa na sekai de kurashitai.",
         "sentence_english": "We want to live in a peaceful world.",
         "key": "暮らす"
     },
     {
         "sentence_original": "彼女は留学先で楽しく暮らしているそうです。",
-        "sentence_romaji": "Kanojo wa ryuugakusaki de tanoshiku kurasu shiteiru sou desu.",
+        "sentence_romaji": "Kanojo wa ryuugakusaki de tanoshiku kurashite iru sou desu.",
         "sentence_english": "I heard that she is living happily in her study abroad destination.",
         "key": "暮らす"
     },
@@ -2456,7 +2456,7 @@
     {
         "sentence_original": "怒った犬が私の手を蹴ろうとした。",
         "sentence_romaji": "Okotta inu ga watashi no te o kero u to shita.",
-        "sentence_english": "The angry dog tried to bite my hand.",
+        "sentence_english": "The angry dog tried to kick my hand.",
         "key": "蹴る"
     },
     {
@@ -2527,7 +2527,7 @@
     },
     {
         "sentence_original": "彼女は毎朝、川沿いを自転車をこいで通勤しています。",
-        "sentence_romaji": "Kanojo wa maia_sa, kawazoi o jitensha o koide tsukin shiteimasu.",
+        "sentence_romaji": "Kanojo wa maiasa, kawazoi o jitensha o koide tsuukin shiteimasu.",
         "sentence_english": "She commutes to work every morning by pedaling her bicycle along the river.",
         "key": "こぐ"
     },
@@ -2545,7 +2545,7 @@
     },
     {
         "sentence_original": "波止場でボートをこいで、湖を散歩しよう。",
-        "sentence_romaji": "Hato_ba de bo_to o koide, mizuumi o sanpo shiyou.",
+        "sentence_romaji": "Hatoba de booto o koide, mizuumi o sanpo shiyou.",
         "sentence_english": "Let's take a walk around the lake by pedaling a boat at the pier.",
         "key": "こぐ"
     },
@@ -2563,13 +2563,13 @@
     },
     {
         "sentence_original": "焦げた料理は、健康に悪影響を与える可能性があります。",
-        "sentence_romaji": "Koge ta ryouri wa, kenkou ni aku eikyou o ataeru kanousei ga arimasu",
+        "sentence_romaji": "Kogeta ryouri wa, kenkou ni aku eikyou o ataeru kanousei ga arimasu",
         "sentence_english": "Burnt food may have a negative impact on your health.",
         "key": "焦げる"
     },
     {
         "sentence_original": "オーブンから焦げた匂いがするので、ケーキを取り出してください。",
-        "sentence_romaji": "Oobun kara koge ta nioi ga suru node, keeki o toridashite kudasai",
+        "sentence_romaji": "Oobun kara kogeta nioi ga suru node, keeki o toridashite kudasai",
         "sentence_english": "Since there is a burnt smell coming from the oven, please take out the cake.",
         "key": "焦げる"
     },
@@ -2712,9 +2712,9 @@
         "key": "混む/込む"
     },
     {
-        "sentence_original": "遠くの景色が見込む窓からの眺めが素晴らしい。",
-        "sentence_romaji": "Tooku no keshiki ga mikomu mado kara no nagame ga subarashii",
-        "sentence_english": "The view from the window, which includes distant scenery, is wonderful.",
+        "sentence_original": "遠くの景色が見える窓からの眺めが素晴らしい。",
+        "sentence_romaji": "Tōku no keshiki ga mieru mado kara no nagame ga subarashii",
+        "sentence_english": "The view from the window, which looks out onto distant scenery, is wonderful.",
         "key": "混む/込む"
     },
     {
@@ -2863,19 +2863,19 @@
     },
     {
         "sentence_original": "彼女は驚いて大きな声で叫んだ。",
-        "sentence_romaji": "Kanojo wa odoroi te ookina koe de yonda",
+        "sentence_romaji": "Kanojo wa odoroite ookina koe de sakenda",
         "sentence_english": "She was surprised and shouted loudly.",
         "key": "叫ぶ"
     },
     {
         "sentence_original": "子供たちは遊びながら楽しげに叫んでいた。",
-        "sentence_romaji": "Kodomo-tachi wa asobi nagara tanoshige ni yonde ita",
+        "sentence_romaji": "Kodomo-tachi wa asobi nagara tanoshige ni sakende ita",
         "sentence_english": "The children were shouting happily while playing.",
         "key": "叫ぶ"
     },
     {
         "sentence_original": "彼女はすぐそこで名前を叫ぶのをやめないでくれとお願いした。",
-        "sentence_romaji": "Kanojo wa sugu soko de namae o yobu no o yamenai de kure to onegai shita",
+        "sentence_romaji": "Kanojo wa sugu soko de namae o sakebu no o yamenai de kure to onegai shita",
         "sentence_english": "She asked me not to stop shouting her name right there.",
         "key": "叫ぶ"
     },
@@ -2892,9 +2892,9 @@
         "key": "刺す"
     },
     {
-        "sentence_original": "刺身にレモンを刺して食べるのが好きです。",
-        "sentence_romaji": "Sashimi ni remon o sashite taberu no ga suki desu",
-        "sentence_english": "I like eating sashimi with lemon squeezed on it.",
+        "sentence_original": "刺身にレモンをかけて食べるのが好きです。",
+        "sentence_romaji": "Sashimi ni remon o kakete taberu no ga suki desu",
+        "sentence_english": "I like eating sashimi with lemon on it.",
         "key": "刺す"
     },
     {
@@ -2934,9 +2934,9 @@
         "key": "指す"
     },
     {
-        "sentence_original": "もし心配があれば、適切な部署に指すことができます。",
-        "sentence_romaji": "Moshi shinpai ga areba, tekisetsu na busho ni sasu koto ga dekimasu",
-        "sentence_english": "If there is a concern, you can point to the appropriate department.",
+        "sentence_original": "もし心配があれば、適切な部署に案内することができます。",
+        "sentence_romaji": "Moshi shinpai ga areba, tekisetsu na busho ni annai suru koto ga dekimasu",
+        "sentence_english": "If there is a concern, you can direct them to the appropriate department.",
         "key": "指す"
     },
     {
@@ -2946,9 +2946,9 @@
         "key": "差す"
     },
     {
-        "sentence_original": "彼は親指を突き指を差した。",
-        "sentence_romaji": "Kare wa oyayubi o tsukiyubi o sashita",
-        "sentence_english": "He stuck out his thumb and hitchhiked.",
+        "sentence_original": "彼は親指を立ててヒッチハイクをした。",
+        "sentence_romaji": "Kare wa oyayubi o tatete hitchihaiku o shita",
+        "sentence_english": "He stuck out his thumb to hitchhike.",
         "key": "差す"
     },
     {
@@ -2958,9 +2958,9 @@
         "key": "差す"
     },
     {
-        "sentence_original": "彼は目立つために手を挙げて差した。",
-        "sentence_romaji": "Kare wa medatsu tame ni te o agete sashita",
-        "sentence_english": "He raised and pointed his hand to stand out.",
+        "sentence_original": "彼は目立つために手を挙げて示した。",
+        "sentence_romaji": "Kare wa medatsu tame ni te o agete shimeshita",
+        "sentence_english": "He raised his hand to stand out.",
         "key": "差す"
     },
     {
@@ -3000,7 +3000,7 @@
         "key": "誘う"
     },
     {
-        "sentence_original": "風呂上りにさっぱりするのが気持ちいい。",
+        "sentence_original": "風呂上がりにさっぱりするのが気持ちいい。",
         "sentence_romaji": "Furoagari ni sappari suru no ga kimochi ii",
         "sentence_english": "It feels refreshing and pleasant after getting out of the bath.",
         "key": "さっぱりする"
@@ -3042,9 +3042,9 @@
         "key": "覚める"
     },
     {
-        "sentence_original": "彼女の急な叫びで、みんなが急に覚めるような音が鳴った。",
-        "sentence_romaji": "Kanojo no kyuu na sakebi de, minna ga kyuu ni sameru you na oto ga natta",
-        "sentence_english": "With her sudden scream, everyone woke up as if a jarring sound echoed.",
+        "sentence_original": "彼女の急な叫びで、みんなが目を覚ますような大きな音が響いた。",
+        "sentence_romaji": "Kanojo no kyuu na sakebi de, minna ga me o samasu you na ookina oto ga hibiita",
+        "sentence_english": "With her sudden scream, a loud sound echoed as if everyone woke up.",
         "key": "覚める"
     },
     {
@@ -3091,7 +3091,7 @@
     },
     {
         "sentence_original": "座布団を畳の上に敷いた。",
-        "sentence_romaji": "Zabuton o tatami no ue ni shikita",
+        "sentence_romaji": "Zabuton o tatami no ue ni shita",
         "sentence_english": "I laid the cushion on the tatami mat.",
         "key": "敷く"
     },
@@ -3114,9 +3114,9 @@
         "key": "敷く"
     },
     {
-        "sentence_original": "敷居をまたいで彼の家に入った。",
-        "sentence_romaji": "Shikii o mataide kare no ie ni haitta",
-        "sentence_english": "I crossed the threshold and entered his house.",
+        "sentence_original": "彼の家の玄関に新しいマットを敷いてから中に入った。",
+        "sentence_romaji": "Kare no ie no genkan ni atarashii matto o shiite kara naka ni haitta",
+        "sentence_english": "I laid a new mat at the entrance of his house before going inside.",
         "key": "敷く"
     },
     {
@@ -3318,9 +3318,9 @@
         "key": "過ぎる"
     },
     {
-        "sentence_original": "彼女は、甘口の料理が苦手で辛さがちょっと過ぎる。",
-        "sentence_romaji": "Kanojo wa, amaguchi no ryouri ga nigate de karasa ga chotto sugiru",
-        "sentence_english": "She doesn't like sweet dishes and the spiciness is a bit too much.",
+        "sentence_original": "彼女は甘口の料理が苦手だが、これは辛さがちょっと過ぎる。",
+        "sentence_romaji": "Kanojo wa amaguchi no ryouri ga nigate da ga, kore wa karasa ga chotto sugiru",
+        "sentence_english": "She doesn't like mild dishes, but this is a bit too spicy.",
         "key": "過ぎる"
     },
     {
@@ -3366,9 +3366,9 @@
         "key": "進む"
     },
     {
-        "sentence_original": "彼は決断力があり、物事を進むペースが非常に速い。",
-        "sentence_romaji": "Kare wa ketsudanryoku ga ari, monogoto o susumu peesu ga hijou ni hayai.",
-        "sentence_english": "He has strong decision-making power, and the pace at which he progresses is very fast.",
+        "sentence_original": "彼は決断力があり、物事を進めるペースが非常に速い。",
+        "sentence_romaji": "Kare wa ketsudanryoku ga ari, monogoto o susumeru peesu ga hijou ni hayai.",
+        "sentence_english": "He has strong decision-making ability, and the pace at which he moves things forward is very fast.",
         "key": "進む"
     },
     {
@@ -3384,9 +3384,9 @@
         "key": "進む"
     },
     {
-        "sentence_original": "私たちは先を急いで祭りの準備を進めなければならない。",
-        "sentence_romaji": "Watashitachi wa saki o isogide matsuri no junbi o susumenakereba naranai.",
-        "sentence_english": "We need to hurry up and prepare for the festival.",
+        "sentence_original": "私たちは祭りの準備がスムーズに進むように急がなければならない。",
+        "sentence_romaji": "Watashitachi wa matsuri no junbi ga sumuuzu ni susumu you ni isoganakereba naranai.",
+        "sentence_english": "We must hurry so that the festival preparations progress smoothly.",
         "key": "進む"
     },
     {
@@ -3445,7 +3445,7 @@
     },
     {
         "sentence_original": "滑り台で子供たちは楽しそうに滑っていました。",
-        "sentence_romaji": "Suberi dai de kodomo-tachi wa tanoshisou ni subette imashita",
+        "sentence_romaji": "Suberidai de kodomo-tachi wa tanoshisou ni subette imashita",
         "sentence_english": "The children were happily sliding down the slide.",
         "key": "滑る"
     },
@@ -3564,9 +3564,9 @@
         "key": "染める"
     },
     {
-        "sentence_original": "その出来事は彼女の心に深く影響を染めました。",
-        "sentence_romaji": "Sono dekigoto wa kanojo no kokoro ni fukaku eikyou o somemashita",
-        "sentence_english": "That event deeply imprinted her heart.",
+        "sentence_original": "その出来事は彼女の心を深く染めました。",
+        "sentence_romaji": "Sono dekigoto wa kanojo no kokoro o fukaku somemashita",
+        "sentence_english": "That event deeply colored her heart.",
         "key": "染める"
     },
     {
@@ -3576,8 +3576,8 @@
         "key": "そる"
     },
     {
-        "sentence_original": "寝ぼけ眼で髭をそろうと怪我しちゃった。",
-        "sentence_romaji": "Nebokeme de hige o sorou to kega shichatta.",
+        "sentence_original": "寝ぼけ眼で髭を剃ろうとして怪我しちゃった。",
+        "sentence_romaji": "Nebokemana de hige o sorou to shite kega shichatta.",
         "sentence_english": "I injured myself while trying to shave my beard with sleepy eyes.",
         "key": "そる"
     },
@@ -3613,8 +3613,8 @@
     },
     {
         "sentence_original": "パーティーで食べる料理をそろえるのに忙しかった。",
-        "sentence_romaji": "Paatii de taberu ryouri o soroeru noni isogashikatta",
-        "sentence_english": "I was busy gathering the dishes to eat at the party.",
+        "sentence_romaji": "Paatii de taberu ryouri o soroeru no ni isogashikatta",
+        "sentence_english": "I was busy gathering the dishes for the party.",
         "key": "そろえる"
     },
     {
@@ -3660,33 +3660,33 @@
         "key": "倒す"
     },
     {
-        "sentence_original": "今日の夕食に魚を炊いてみた。",
-        "sentence_romaji": "Kyou no yuushoku ni sakana o taku ita mita.",
-        "sentence_english": "I tried cooking fish for today's dinner.",
+        "sentence_original": "今日の夕食にご飯を炊いてみた。",
+        "sentence_romaji": "Kyou no yuushoku ni gohan o taita mita.",
+        "sentence_english": "I tried cooking rice for today's dinner.",
         "key": "炊く"
     },
     {
         "sentence_original": "彼女は炊飯器でご飯を炊いた。",
-        "sentence_romaji": "Kanojo wa suihanki de gohan o taku ita.",
+        "sentence_romaji": "Kanojo wa suihanki de gohan o taita.",
         "sentence_english": "She cooked rice in a rice cooker.",
         "key": "炊く"
     },
     {
-        "sentence_original": "野菜がたくさんあるから、野菜炒めを炊こうと思った。",
-        "sentence_romaji": "Yasai ga takusan aru kara, yasai itame o takou to omotta.",
-        "sentence_english": "Since there are a lot of vegetables, I thought about cooking a vegetable stir-fry.",
+        "sentence_original": "野菜がたくさんあるから、炊き込みご飯を作ろうと思った。",
+        "sentence_romaji": "Yasai ga takusan aru kara, takikomi gohan o tsukurou to omotta.",
+        "sentence_english": "Since there are a lot of vegetables, I thought about making seasoned rice with them.",
         "key": "炊く"
     },
     {
-        "sentence_original": "家でカレーライスを炊くのが得意です。",
-        "sentence_romaji": "Ie de kare- raisu o taku no ga tokui desu.",
-        "sentence_english": "I'm good at cooking curry rice at home.",
+        "sentence_original": "家でカレー用のご飯を炊くのが得意です。",
+        "sentence_romaji": "Ie de kareyou no gohan o taku no ga tokui desu.",
+        "sentence_english": "I'm good at cooking the rice for curry at home.",
         "key": "炊く"
     },
     {
-        "sentence_original": "彼は毎朝新鮮な卵を炊いて、朝食を作っています。",
-        "sentence_romaji": "Kare wa maiasa shinsen na tamago o taku ite, choushoku o tsukutteimasu.",
-        "sentence_english": "He cooks fresh eggs every morning and makes breakfast.",
+        "sentence_original": "彼は毎朝ご飯を炊いて、新鮮な卵で朝食を作っています。",
+        "sentence_romaji": "Kare wa maiasa gohan o taite, shinsen na tamago de choushoku o tsukutte imasu.",
+        "sentence_english": "He cooks rice every morning and makes breakfast with fresh eggs.",
         "key": "炊く"
     },
     {
@@ -3710,7 +3710,7 @@
     {
         "sentence_original": "彼は皆の期待を胸に抱いてレースに勝利を目指している。",
         "sentence_romaji": "Kare wa mina no kitai o mune ni idaite reesu ni shouri o mezashite iru.",
-        "sentence_english": "He aims for victory in the race with everyone's expectations in his chest.",
+        "sentence_english": "He aims for victory in the race with everyone's expectations in his heart.",
         "key": "抱く"
     },
     {
@@ -3732,8 +3732,8 @@
         "key": "確かめる"
     },
     {
-        "sentence_original": "確かめる前に、その話に信じてはいけない。",
-        "sentence_romaji": "Tashikameru mae ni, sono hanashi ni shinjite wa ikenai.",
+        "sentence_original": "確かめる前に、その話を信じてはいけない。",
+        "sentence_romaji": "Tashikameru mae ni, sono hanashi o shinjite wa ikenai.",
         "sentence_english": "You shouldn't believe that story before confirming it.",
         "key": "確かめる"
     },
@@ -3757,19 +3757,19 @@
     },
     {
         "sentence_original": "彼は私のアイデアに彼のアイデアも足して提案することにした。",
-        "sentence_romaji": "Kare wa watashi no aidea ni kare no aidea mo tasu te teian suru koto ni shita.",
+        "sentence_romaji": "Kare wa watashi no aidea ni kare no aidea mo tashite teian suru koto ni shita.",
         "sentence_english": "He decided to propose by adding his idea to my idea.",
         "key": "足す"
     },
     {
         "sentence_original": "この計算では、全ての数字を足してから合計を求める。",
-        "sentence_romaji": "Kono keisan de wa, subete no suuji o tasu tekara goukei o motomeru.",
+        "sentence_romaji": "Kono keisan de wa, subete no suuji o tashite kara goukei o motomeru.",
         "sentence_english": "In this calculation, we add up all the numbers and then find the total.",
         "key": "足す"
     },
     {
         "sentence_original": "このレシピには、最後に味を調節するために塩を足すことが推奨されています。",
-        "sentence_romaji": "Kono reshipii ni wa, saigo ni aji o chousei suru tame ni shio o tasu koto ga suishou sareteimasu.",
+        "sentence_romaji": "Kono reshipi ni wa, saigo ni aji o chousei suru tame ni shio o tasu koto ga suishou sareteimasu.",
         "sentence_english": "It is recommended to add salt at the end of this recipe to adjust the taste.",
         "key": "足す"
     },
@@ -3786,9 +3786,9 @@
         "key": "助ける"
     },
     {
-        "sentence_original": "彼女は道に迷っていたので、正しい方向へ助けることにした。",
-        "sentence_romaji": "Kanojo wa michi ni mayotte ita node, tadashii houkou e tasukeru koto ni shita",
-        "sentence_english": "She was lost, so I decided to help her find the right direction.",
+        "sentence_original": "彼女は道に迷っていたので、正しい方向を教えて助けることにした。",
+        "sentence_romaji": "Kanojo wa michi ni mayotte ita node, tadashii houkou o oshiete tasukeru koto ni shita",
+        "sentence_english": "She was lost, so I decided to help her by giving her the correct directions.",
         "key": "助ける"
     },
     {
@@ -3804,9 +3804,9 @@
         "key": "助ける"
     },
     {
-        "sentence_original": "知り合いの家族に困っていると聞いて、手伝いに行くことで助けることにしました。",
-        "sentence_romaji": "Shiriai no kazoku ni komatte iru to kiite, tetsudai ni iku koto de tasukeru koto ni shimashita",
-        "sentence_english": "I heard that a friend's family was having problems, so I decided to help by going to lend a hand.",
+        "sentence_original": "知り合いの家族が困っていると聞いて、手伝いに行くことで助けることにしました。",
+        "sentence_romaji": "Shiriai no kazoku ga komatte iru to kiite, tetsudai ni iku koto de tasukeru koto ni shimashita",
+        "sentence_english": "I heard that a friend's family was in trouble, so I decided to help by going to lend a hand.",
         "key": "助ける"
     },
     {
@@ -3823,7 +3823,7 @@
     },
     {
         "sentence_original": "休暇中に祖父母の家を訪ねる予定だ。",
-        "sentence_romaji": "Kyuuka-chuu ni sofu to oba no ie o tazuneru yotei da.",
+        "sentence_romaji": "Kyuuka-chuu ni sofubo no ie o tazuneru yotei da.",
         "sentence_english": "I plan to visit my grandparents' house during the vacation.",
         "key": "訪ねる"
     },
@@ -3895,7 +3895,7 @@
     },
     {
         "sentence_original": "彼らは平和のために戦っています。",
-        "sentence_romaji": "Karera wa heiwa no tame ni tatakatteru imasu.",
+        "sentence_romaji": "Karera wa heiwa no tame ni tatakatte imasu.",
         "sentence_english": "They are fighting for peace.",
         "key": "戦う"
     },
@@ -4123,7 +4123,7 @@
     },
     {
         "sentence_original": "彼の力は十分足りているので、心配しなくても大丈夫です。",
-        "sentence_romaji": "Kare no chikara wa juubun tarite iru node, shinpai shina kute mo daijoubu desu",
+        "sentence_romaji": "Kare no chikara wa juubun tarite iru node, shinpai shinakute mo daijoubu desu",
         "sentence_english": "He has enough strength, so there is no need to worry.",
         "key": "足りる"
     },
@@ -4219,7 +4219,7 @@
     },
     {
         "sentence_original": "散らかった部屋を早く片付けなければならない。",
-        "sentence_romaji": "Chirakatta heya o hayaku katazuke nakereba naranai",
+        "sentence_romaji": "Chirakatta heya o hayaku katazukenakereba naranai",
         "sentence_english": "I have to clean up the messy room quickly.",
         "key": "散らかる"
     },
@@ -4231,7 +4231,7 @@
     },
     {
         "sentence_original": "花が風に散るのを見ていると、春が終わりに近づいていることを感じます。",
-        "sentence_romaji": "Hana ga kaze ni chiru no o mite iru to, haru ga owari ni chikadzuite iru koto o kanjimasu.",
+        "sentence_romaji": "Hana ga kaze ni chiru no o mite iru to, haru ga owari ni chikazuite iru koto o kanjimasu.",
         "sentence_english": "Watching the flowers scatter in the wind, I can feel that spring is drawing to a close.",
         "key": "散る"
     },
@@ -4255,7 +4255,7 @@
     },
     {
         "sentence_original": "山の中で桜の花が散るのを見ながら、季節の移り変わりを感じました。",
-        "sentence_romaji": "Yama no naka de sakura no hana ga chiru no o minagara, kisetsu no utsuri kawari o kanjimashita.",
+        "sentence_romaji": "Yama no naka de sakura no hana ga chiru no o minagara, kisetsu no utsurikawari o kanjimashita.",
         "sentence_english": "Watching the cherry blossoms scatter in the mountains, I felt the changing of the seasons.",
         "key": "散る"
     },
@@ -4309,7 +4309,7 @@
     },
     {
         "sentence_original": "昨晩、交通違反で警察に捕まりました。",
-        "sentence_romaji": "Sakuban, koutsuu ihan de keisatsu ni tsukumarimashita",
+        "sentence_romaji": "Sakuban, koutsuu ihan de keisatsu ni tsukamarimashita",
         "sentence_english": "Last night, I was caught by the police for a traffic violation.",
         "key": "捕まる"
     },
@@ -4339,13 +4339,13 @@
     },
     {
         "sentence_original": "父がボールをつかむと息子は喜びました。",
-        "sentence_romaji": "Chichi ga booru o tsukamu to musuko wa yorokobi mashita",
+        "sentence_romaji": "Chichi ga booru o tsukamu to musuko wa yorokobimashita",
         "sentence_english": "The son was delighted when his father caught the ball.",
         "key": "つかむ"
     },
     {
         "sentence_original": "彼女は急に彼のシャツをつかんで引っ張った。",
-        "sentence_romaji": "Kanojo wa kyuu ni kare no shatsu o tsukande hipparutta",
+        "sentence_romaji": "Kanojo wa kyuu ni kare no shatsu o tsukande hippatta",
         "sentence_english": "She suddenly grabbed his shirt and pulled it.",
         "key": "つかむ"
     },
@@ -4387,7 +4387,7 @@
     },
     {
         "sentence_original": "値札が商品にちゃんと付いていますか。",
-        "sentence_romaji": "Nefuda ga shouhin ni chantoshiteimasu ka",
+        "sentence_romaji": "Nefuda ga shouhin ni chanto tsuite imasu ka",
         "sentence_english": "Is the price tag properly attached to the product?",
         "key": "付く"
     },
@@ -4471,19 +4471,19 @@
     },
     {
         "sentence_original": "彼の会社は去年潰れてしまった。",
-        "sentence_romaji": "Kare no kaisha wa kyonen tsuiborete shimatta",
+        "sentence_romaji": "Kare no kaisha wa kyonen tsuburete shimatta",
         "sentence_english": "His company went bankrupt last year.",
         "key": "潰れる"
     },
     {
         "sentence_original": "そのプロジェクトは途中で潰れた。",
-        "sentence_romaji": "Sono purojekuto wa tochuu de tsuiboreta",
+        "sentence_romaji": "Sono purojekuto wa tochuu de tsubureta",
         "sentence_english": "The project collapsed halfway through.",
         "key": "潰れる"
     },
     {
         "sentence_original": "彼は無理をして、体を潰してしまった。",
-        "sentence_romaji": "Kare wa muri o shite, karada o tsuishite shimatta",
+        "sentence_romaji": "Kare wa muri o shite, karada o tsubushite shimatta",
         "sentence_english": "He pushed himself too hard and broke his body down.",
         "key": "潰れる"
     },
@@ -4609,7 +4609,7 @@
     },
     {
         "sentence_original": "学生時代に将来のパートナーと出会いました。",
-        "sentence_romaji": "Gakusei jidai ni shourai no paatona- to deaimashita.",
+        "sentence_romaji": "Gakusei jidai ni shourai no paatonaa to deaimashita.",
         "sentence_english": "I met my future partner during my student days.",
         "key": "出会う"
     },
@@ -4621,7 +4621,7 @@
     },
     {
         "sentence_original": "このケーキはもうすぐできあがるでしょう。",
-        "sentence_romaji": "Kono ke-ki wa mousugu dekiagaru deshou.",
+        "sentence_romaji": "Kono keeki wa mousugu dekiagaru deshou.",
         "sentence_english": "This cake will be ready soon.",
         "key": "でき上る"
     },
@@ -4687,7 +4687,7 @@
     },
     {
         "sentence_original": "砂糖をバターに溶かし込む。",
-        "sentence_romaji": "Sato o bataa ni tokashikomu",
+        "sentence_romaji": "Satou o bataa ni tokashikomu",
         "sentence_english": "Dissolve the sugar into the butter.",
         "key": "溶く"
     },
@@ -4747,7 +4747,7 @@
     },
     {
         "sentence_original": "チーズが熱で溶けるととてもおいしい。",
-        "sentence_romaji": "Chīzu ga netsu de tokeru to totemo oishii.",
+        "sentence_romaji": "Chiizu ga netsu de tokeru to totemo oishii.",
         "sentence_english": "Cheese melts with heat and tastes very good.",
         "key": "溶ける"
     },
@@ -4759,13 +4759,13 @@
     },
     {
         "sentence_original": "彼はスプーンで砂糖をコーヒーに入れて溶けるまでかき混ぜた。",
-        "sentence_romaji": "Kare wa supūn de satou o kōhī ni irete tokeru made kakimazeta.",
+        "sentence_romaji": "Kare wa supuun de satou o koohii ni irete tokeru made kakimazeta.",
         "sentence_english": "He put the sugar in the coffee with a spoon and mixed until it melted.",
         "key": "溶ける"
     },
     {
         "sentence_original": "チョコレートが暖かい場所で溶けやすい。",
-        "sentence_romaji": "Chokorēto ga atatakai basho de tokeyasui.",
+        "sentence_romaji": "Chokoreeto ga atatakai basho de tokeyasui.",
         "sentence_english": "Chocolate is easily melted in a warm place.",
         "key": "溶ける"
     },
@@ -4975,7 +4975,7 @@
     },
     {
         "sentence_original": "冷凍庫からアイスクリームを取り出す。",
-        "sentence_romaji": "Reitouko kara aisukurīmu o toridasu.",
+        "sentence_romaji": "Reitouko kara aisukuriimu o toridasu.",
         "sentence_english": "Take out ice cream from the freezer.",
         "key": "取り出す"
     },
@@ -4993,7 +4993,7 @@
     },
     {
         "sentence_original": "幸運を捕るために努力し続けなければなりません。",
-        "sentence_romaji": "Kouun o toru tame ni doryoku shi tsuzuke nakereba narimasen",
+        "sentence_romaji": "Kouun o toru tame ni doryoku shitsuzukenakereba narimasen",
         "sentence_english": "You have to keep working hard to catch good luck.",
         "key": "捕る"
     },
@@ -5023,20 +5023,20 @@
     },
     {
         "sentence_original": "早退してもらって、病院へ行くための時間を取れるようにしてください。",
-        "sentence_romaji": "Soukai shite moratte, byouin e iku tame no jikan o toreru you ni shite kudasai.",
-        "sentence_english": "Please make sure you can get some time to go to the hospital by leaving early.",
+        "sentence_romaji": "Soutai shite moratte, byouin e iku tame no jikan o toreru you ni shite kudasai.",
+        "sentence_english": "Please make sure you can leave early so that you have time to go to the hospital.",
         "key": "取れる"
     },
     {
         "sentence_original": "明日、午前中は予定が詰まっているが、午後には遊びに行く時間が取れるだろう。",
         "sentence_romaji": "Ashita, gozenchuu wa yotei ga tsumatte iru ga, gogo ni wa asobi ni iku jikan ga toreru darou.",
-        "sentence_english": "Tomorrow morning, I have a full schedule, but I should be able to find some time to go out and play in the afternoon.",
+        "sentence_english": "Tomorrow morning, I have a full schedule, but I should be able to find some time to hang out in the afternoon.",
         "key": "取れる"
     },
     {
         "sentence_original": "彼は手術が成功し、退院後、普通に働ける時間が取れるようになった。",
         "sentence_romaji": "Kare wa shujutsu ga seikou shi, taiin go, futsuu ni hatarakeru jikan ga toreru you ni natta.",
-        "sentence_english": "His surgery was successful, and after being discharged from the hospital, he was able to work normally again.",
+        "sentence_english": "His surgery was successful, and after being discharged, he was able to work normal hours again.",
         "key": "取れる"
     },
     {
@@ -5048,7 +5048,7 @@
     {
         "sentence_original": "涙がぽろぽろと流れる。",
         "sentence_romaji": "Namida ga poro poro to nagareru.",
-        "sentence_english": "Tears flow down one's cheeks.",
+        "sentence_english": "Tears flow down one’s cheeks.",
         "key": "流れる"
     },
     {
@@ -5084,25 +5084,25 @@
     {
         "sentence_original": "その男は泥棒を見つけて、思わず殴ってしまった。",
         "sentence_romaji": "Sono otoko wa dorobou o mitsukete, omowazu nagutte shimatta",
-        "sentence_english": "The man found the thief and unintentionally punched him.",
+        "sentence_english": "The man found the thief and instinctively punched him.",
         "key": "殴る"
     },
     {
         "sentence_original": "大きな争いごとが起きて、みんながお互いを殴り始めた。",
-        "sentence_romaji": "Ōkina arasoi-goto ga okite, minna ga otagai o naguri hajimeta",
+        "sentence_romaji": "Ookina arasoi-goto ga okite, minna ga otagai o naguri hajimeta",
         "sentence_english": "A big fight broke out, and everyone started punching each other.",
         "key": "殴る"
     },
     {
         "sentence_original": "彼女はパニックになって、周りにいる人に向かって殴った。",
         "sentence_romaji": "Kanojo wa panikku ni natte, mawari ni iru hito ni mukatte nagutta",
-        "sentence_english": "She panicked and punched toward the people around her.",
+        "sentence_english": "She panicked and swung punches at the people around her.",
         "key": "殴る"
     },
     {
         "sentence_original": "進路の選択に悩む高校生が多い。",
         "sentence_romaji": "Shinro no sentaku ni nayamu koukousei ga ooi",
-        "sentence_english": "Many high school students are troubled by the choice of their future path.",
+        "sentence_english": "Many high school students are troubled by their choice of future path.",
         "key": "悩む"
     },
     {
@@ -5114,7 +5114,7 @@
     {
         "sentence_original": "難しい問題に悩むことは自然なことだ。",
         "sentence_romaji": "Muzukashii mondai ni nayamu koto wa shizen na koto da",
-        "sentence_english": "It is natural to be troubled by difficult problems.",
+        "sentence_english": "It's natural to be troubled by difficult problems.",
         "key": "悩む"
     },
     {
@@ -5144,7 +5144,7 @@
     {
         "sentence_original": "練習を重ねることで、技術が上達するようになる。",
         "sentence_romaji": "Renshuu o kasaneru koto de, gijutsu ga joutatsu suru you ni naru.",
-        "sentence_english": "Your skills will improve through repeated practice.",
+        "sentence_english": "By practicing repeatedly, your skills will improve.",
         "key": "なる"
     },
     {
@@ -5156,7 +5156,7 @@
     {
         "sentence_original": "勇気を持って挑戦すれば、困難な状況も乗り越えるようになる。",
         "sentence_romaji": "Yuuki o motte chousen sureba, konnan na joukyou mo norikoeru you ni naru.",
-        "sentence_english": "If you have the courage to take challenges, you will be able to overcome difficult situations.",
+        "sentence_english": "If you bravely take on challenges, you will be able to overcome difficult situations.",
         "key": "なる"
     },
     {
@@ -5167,7 +5167,7 @@
     },
     {
         "sentence_original": "彼女にはピンクのドレスが似合うでしょう。",
-        "sentence_romaji": "Kanojo niwa pinku no doresu ga ni au deshou",
+        "sentence_romaji": "Kanojo ni wa pinku no doresu ga niau deshou",
         "sentence_english": "A pink dress would suit her well.",
         "key": "似合う"
     },
@@ -5185,7 +5185,7 @@
     },
     {
         "sentence_original": "この部屋にはこの絵が似合うでしょう。",
-        "sentence_romaji": "Kono heya niwa kono e ga niau deshou",
+        "sentence_romaji": "Kono heya ni wa kono e ga niau deshou",
         "sentence_english": "This painting would suit this room well.",
         "key": "似合う"
     },
@@ -5198,7 +5198,7 @@
     {
         "sentence_original": "このビルを握る鍵が必要です。",
         "sentence_romaji": "Kono biru o nigiru kagi ga hitsuyou desu.",
-        "sentence_english": "I need the key to grasp this building.",
+        "sentence_english": "I need the key that gives me access (lit. “grips”) to this building.",
         "key": "握る"
     },
     {
@@ -5216,7 +5216,7 @@
     {
         "sentence_original": "この取引に成功するためには、情報を握ることが大切だ。",
         "sentence_romaji": "Kono torihiki ni seikou suru tame ni wa, jouhou o nigiru koto ga taisetsu da.",
-        "sentence_english": "In order to succeed in this transaction, it is important to grasp the information.",
+        "sentence_english": "In order to succeed in this deal, it’s crucial to have a firm grasp of the information.",
         "key": "握る"
     },
     {
@@ -5228,18 +5228,18 @@
     {
         "sentence_original": "魚を煮るときは、だしで味をつけるとおいしいですよ。",
         "sentence_romaji": "Sakana o niru toki wa, dashi de aji o tsukeru to oishii desu yo",
-        "sentence_english": "When boiling fish, it's delicious to season it with dashi.",
+        "sentence_english": "When boiling fish, seasoning it with dashi makes it delicious.",
         "key": "煮る"
     },
     {
         "sentence_original": "このレシピでは、じゃがいもとニンジンを一緒に煮ます。",
         "sentence_romaji": "Kono reshipi de wa, jagaimo to ninjin o issho ni nimasu",
-        "sentence_english": "In this recipe, we'll boil potatoes and carrots together.",
+        "sentence_english": "In this recipe, we’ll boil potatoes and carrots together.",
         "key": "煮る"
     },
     {
         "sentence_original": "鍋に水を入れて、中火でお湯を煮る。",
-        "sentence_romaji": "Nabe ni mizu o irete, chuubide oyu o niru",
+        "sentence_romaji": "Nabe ni mizu o irete, chuubi de oyu o niru",
         "sentence_english": "Put water in the pot and bring it to a boil over medium heat.",
         "key": "煮る"
     },
@@ -5252,13 +5252,13 @@
     {
         "sentence_original": "彼女はボタンを縫い付けるのが得意だ。",
         "sentence_romaji": "Kanojo wa botan o nuitsukeru no ga tokui da.",
-        "sentence_english": "She is good at sewing buttons.",
+        "sentence_english": "She is good at sewing on buttons.",
         "key": "縫う"
     },
     {
         "sentence_original": "彼はズボンの裾を縫って短くした。",
         "sentence_romaji": "Kare wa zubon no suso o nutte mijikaku shita.",
-        "sentence_english": "He sewed the hem of his pants to make them shorter.",
+        "sentence_english": "He hemmed his pants to make them shorter.",
         "key": "縫う"
     },
     {
@@ -5294,19 +5294,19 @@
     {
         "sentence_original": "花を抜く前に、根からしっかりと引っ張る必要があります。",
         "sentence_romaji": "Hana o nuku mae ni, ne kara shikkari to hipparu hitsuyou ga arimasu",
-        "sentence_english": "Before plucking the flower, you need to firmly pull it from the root.",
+        "sentence_english": "Before pulling the flower out, you need to tug firmly at the roots.",
         "key": "抜く"
     },
     {
         "sentence_original": "仕事で多忙な時は、朝ごはんを抜くことがよくある。",
         "sentence_romaji": "Shigoto de tabou na toki wa, asagohan o nuku koto ga yoku aru",
-        "sentence_english": "When I'm busy at work, I often skip breakfast.",
+        "sentence_english": "When I'm extremely busy with work, I often skip breakfast.",
         "key": "抜く"
     },
     {
         "sentence_original": "彼は競争相手の企業を抜いて今年の受注数一番になった。",
         "sentence_romaji": "Kare wa kyousou aite no kigyou o nuite kotoshi no juchuu-suu ichiban ni natta",
-        "sentence_english": "He outperformed his competitors' companies and became number one in the number of orders received this year.",
+        "sentence_english": "He outperformed competing companies and ranked first in the number of orders this year.",
         "key": "抜く"
     },
     {
@@ -5318,7 +5318,7 @@
     {
         "sentence_original": "上着を着ないで外に出るとぬれてしまう。",
         "sentence_romaji": "Uwagi o kinai de soto ni deru to nurete shimau.",
-        "sentence_english": "If you go outside without a jacket, you will get wet.",
+        "sentence_english": "If you go outside without a jacket, you'll end up getting wet.",
         "key": "ぬれる"
     },
     {
@@ -5330,13 +5330,13 @@
     {
         "sentence_original": "透明なビニール袋に入れて、携帯電話はぬれないようにした。",
         "sentence_romaji": "Toumei na biniiru-bukuro ni irete, keitai denwa wa nurenai you ni shita.",
-        "sentence_english": "I put my cell phone in a clear plastic bag to keep it from getting wet.",
+        "sentence_english": "I put my cell phone in a clear plastic bag so it wouldn't get wet.",
         "key": "ぬれる"
     },
     {
         "sentence_original": "洗濯物を干している間に雨が降ってぬれてしまった。",
         "sentence_romaji": "Sentaku mono o hoshite iru aida ni ame ga futte nurete shimatta.",
-        "sentence_english": "The laundry got wet because it rained while it was hanging out to dry.",
+        "sentence_english": "It rained while the laundry was hanging out, and they got wet.",
         "key": "ぬれる"
     },
     {
@@ -5354,13 +5354,13 @@
     {
         "sentence_original": "新年の抱負として、健康を願いましょう。",
         "sentence_romaji": "Shin'nen no houfu to shite, kenkou o negaimashou",
-        "sentence_english": "As a New Year's resolution, let's wish for good health.",
+        "sentence_english": "As a New Year’s resolution, let’s wish for good health.",
         "key": "願う"
     },
     {
         "sentence_original": "皆さんの成功を心から願っております。",
-        "sentence_romaji": "Mina-san no seikou o kokoro kara negatte orimasu",
-        "sentence_english": "I sincerely wish success for all of you.",
+        "sentence_romaji": "Minasan no seikou o kokoro kara negatte orimasu",
+        "sentence_english": "I sincerely wish all of you success.",
         "key": "願う"
     },
     {
@@ -5390,7 +5390,7 @@
     {
         "sentence_original": "ボールペンがインクを残さず書けるようにペン先を磨く必要があります。",
         "sentence_romaji": "Boorupen ga inku o nokosazu kakeru you ni pensaki o migaku hitsuyou ga arimasu",
-        "sentence_english": "You need to polish the pen tip so that the ballpoint pen can write without leaving ink.",
+        "sentence_english": "You need to polish the pen tip so that the ballpoint pen can write without leaving ink behind.",
         "key": "残す"
     },
     {
@@ -5407,7 +5407,7 @@
     },
     {
         "sentence_original": "この本にはたくさんの写真が載せられています。",
-        "sentence_romaji": "Kono hon niwa takusan no shashin ga noserareteimasu",
+        "sentence_romaji": "Kono hon ni wa takusan no shashin ga noserarete imasu",
         "sentence_english": "Many photos are included in this book.",
         "key": "載せる"
     },
@@ -5420,42 +5420,42 @@
     {
         "sentence_original": "袋に野菜を載せて買い物を終えた。",
         "sentence_romaji": "Fukuro ni yasai o nosete kaimono o oeta",
-        "sentence_english": "I finished shopping by putting vegetables in the bag.",
+        "sentence_english": "I finished shopping by putting vegetables into the bag.",
         "key": "載せる"
     },
     {
         "sentence_original": "ニュースにその事件が載せられました。",
         "sentence_romaji": "Nyuusu ni sono jiken ga noseraremashita",
-        "sentence_english": "The incident was reported in the news.",
+        "sentence_english": "That incident was reported in the news.",
         "key": "載せる"
     },
     {
         "sentence_original": "彼の会社は急速に成長して伸びるでしょう。",
         "sentence_romaji": "Kare no kaisha wa kyuusoku ni seichou shite nobiru deshou.",
-        "sentence_english": "His company is growing rapidly and is likely to expand.",
+        "sentence_english": "His company is growing rapidly and will likely expand.",
         "key": "伸びる"
     },
     {
         "sentence_original": "頑張れば、自分の能力は伸びるだろう。",
         "sentence_romaji": "Ganbareba, jibun no nouryoku wa nobiru darou.",
-        "sentence_english": "If you work hard, your abilities will probably grow.",
+        "sentence_english": "If you work hard, your abilities will likely grow.",
         "key": "伸びる"
     },
     {
         "sentence_original": "この植物は日当たりの良い場所でよく伸びる。",
-        "sentence_romaji": "Kono shokubutsu wa hidaruke no yoi basho de yoku nobiru.",
+        "sentence_romaji": "Kono shokubutsu wa hiatari no yoi basho de yoku nobiru.",
         "sentence_english": "This plant grows well in sunny places.",
         "key": "伸びる"
     },
     {
         "sentence_original": "最近彼の人気が伸びる傾向にある。",
         "sentence_romaji": "Saikin kare no ninki ga nobiru keikou ni aru.",
-        "sentence_english": "His popularity has been on the rise recently.",
+        "sentence_english": "His popularity has recently been on the rise.",
         "key": "伸びる"
     },
     {
         "sentence_original": "昨年の売り上げは予想を超えて伸びた。",
-        "sentence_romaji": "Sakunen no uriage wa yosou wo koete nobita.",
+        "sentence_romaji": "Sakunen no uriage wa yosou o koete nobita.",
         "sentence_english": "Last year's sales exceeded expectations and grew significantly.",
         "key": "伸びる"
     },
@@ -5468,19 +5468,19 @@
     {
         "sentence_original": "締め切りが延びると、佐藤さんは助かった。",
         "sentence_romaji": "Shimekiri ga nobiru to, Satou-san wa tasukatta",
-        "sentence_english": "When the deadline was extended, Sato was saved.",
+        "sentence_english": "When the deadline was extended, it saved Mr. Sato.",
         "key": "延びる"
     },
     {
         "sentence_original": "コンサートの開始時間が延びる可能性がある。",
         "sentence_romaji": "Konsaato no kaishi jikan ga nobiru kanousei ga aru",
-        "sentence_english": "There is a possibility that the concert's starting time will be delayed.",
+        "sentence_english": "There's a possibility that the concert's start time will be delayed.",
         "key": "延びる"
     },
     {
         "sentence_original": "今日のミーティングは長引いて、終了時間が延びるだろう。",
         "sentence_romaji": "Kyou no miitingu wa nagabiite, shuuryou jikan ga nobiru darou",
-        "sentence_english": "Today's meeting is likely to run long, so the end time will be extended.",
+        "sentence_english": "Today's meeting is dragging on, so the end time will probably be extended.",
         "key": "延びる"
     },
     {
@@ -5504,55 +5504,55 @@
     {
         "sentence_original": "ハイキングで山を昇るのは楽しい。",
         "sentence_romaji": "Haikingu de yama o noboru no wa tanoshii",
-        "sentence_english": "It's fun to climb mountains while hiking.",
+        "sentence_english": "It's fun to climb the mountain on a hike.",
         "key": "昇る"
     },
     {
         "sentence_original": "彼は最近立ち位置が昇っている。",
         "sentence_romaji": "Kare wa saikin tachii ga nobotte iru",
-        "sentence_english": "His standing has lately been on the rise.",
+        "sentence_english": "His standing has been rising lately.",
         "key": "昇る"
     },
     {
         "sentence_original": "株価が急速に昇っている。",
         "sentence_romaji": "Kabuka ga kyuusoku ni nobotte iru",
-        "sentence_english": "Stock prices are rapidly rising.",
+        "sentence_english": "Stock prices are rising rapidly.",
         "key": "昇る"
     },
     {
         "sentence_original": "電車を乗り越してしまった。",
-        "sentence_romaji": "Densha o norikoshi te shimatta",
+        "sentence_romaji": "Densha o norikoshite shimatta",
         "sentence_english": "I accidentally rode the train past my stop.",
         "key": "乗り越す"
     },
     {
         "sentence_original": "切符の区間を乗り越してしまいそうだ。",
-        "sentence_romaji": "Kippu no kuukan o noriko shite shimai sou da",
-        "sentence_english": "I might end up riding beyond the limit of my ticket.",
+        "sentence_romaji": "Kippu no kuukan o norikoshite shimaisou da",
+        "sentence_english": "I might end up riding past the zone my ticket covers.",
         "key": "乗り越す"
     },
     {
         "sentence_original": "乗り越しのペナルティ料金を払わなければならなかった。",
-        "sentence_romaji": "Noriko shi no penaruti ryoukin o harawanakereba naranakatta",
-        "sentence_english": "I had to pay a penalty for riding past my destination.",
+        "sentence_romaji": "Norikoshi no penaruti ryoukin o harawanakereba naranakatta",
+        "sentence_english": "I had to pay a penalty fee for riding past my stop.",
         "key": "乗り越す"
     },
     {
         "sentence_original": "同僚がバスを乗り越してしまって、遅刻した。",
-        "sentence_romaji": "Douryou ga basu o norikoshi te shimatte, chikoku shita",
-        "sentence_english": "My colleague missed the bus stop and was late.",
+        "sentence_romaji": "Douryou ga basu o norikoshite shimatte, chikoku shita",
+        "sentence_english": "My colleague missed the bus stop and ended up being late.",
         "key": "乗り越す"
     },
     {
         "sentence_original": "乗り越す前に駅員に連絡してください。",
-        "sentence_romaji": "Noriko su mae ni ekiin ni renraku shite kudasai",
-        "sentence_english": "Please contact the station staff before you ride past your stop.",
+        "sentence_romaji": "Norikosu mae ni ekiin ni renraku shite kudasai",
+        "sentence_english": "Please contact a station staff member before you ride past your stop.",
         "key": "乗り越す"
     },
     {
         "sentence_original": "歯が生えるのを待っています。",
         "sentence_romaji": "Ha ga haeru no o matteimasu",
-        "sentence_english": "I am waiting for my teeth to grow.",
+        "sentence_english": "I am waiting for my teeth to grow in.",
         "key": "生える"
     },
     {
@@ -5564,18 +5564,18 @@
     {
         "sentence_original": "あの木はどんどん生えるでしょう。",
         "sentence_romaji": "Ano ki wa dondon haeru deshou",
-        "sentence_english": "That tree will grow rapidly.",
+        "sentence_english": "That tree will probably keep growing rapidly.",
         "key": "生える"
     },
     {
         "sentence_original": "子供の時、膝の上にひざ小僧が生えました。",
         "sentence_romaji": "Kodomo no toki, hiza no ue ni hiza kozou ga haemashita",
-        "sentence_english": "When I was a child, I grew a knee bump on my knee.",
+        "sentence_english": "When I was a child, I developed a bump on my knee.",
         "key": "生える"
     },
     {
         "sentence_original": "山の中で様々な植物が生えている。",
-        "sentence_romaji": "Yama no naka de samazama na shokubutsu ga haeteiru",
+        "sentence_romaji": "Yama no naka de samazama na shokubutsu ga haete iru",
         "sentence_english": "Various plants grow in the mountains.",
         "key": "生える"
     },
@@ -5587,55 +5587,55 @@
     },
     {
         "sentence_original": "スーパーマーケットで野菜の重さを量る。",
-        "sentence_romaji": "Sūpāmāketto de yasai no omosa o hakaru",
-        "sentence_english": "Weighing the vegetables in the supermarket.",
+        "sentence_romaji": "Suupaamaaketto de yasai no omosa o hakaru",
+        "sentence_english": "Weigh the vegetables at the supermarket.",
         "key": "測る/量る/計る"
     },
     {
         "sentence_original": "心拍数を計るために腕時計を使っています。",
-        "sentence_romaji": "Shinpakusuu o hakaru tame ni udedokei o tsukatteimasu",
+        "sentence_romaji": "Shinpakusuu o hakaru tame ni udedokei o tsukatte imasu",
         "sentence_english": "I use a wristwatch to measure my heart rate.",
         "key": "測る/量る/計る"
     },
     {
         "sentence_original": "水深を測るための機器が必要だ。",
-        "sentence_romaji": "Suida o hakaru tame no kiki ga hitsuyōda",
-        "sentence_english": "A device is needed to measure water depth.",
+        "sentence_romaji": "Suishin o hakaru tame no kiki ga hitsuyou da",
+        "sentence_english": "We need an instrument to measure water depth.",
         "key": "測る/量る/計る"
     },
     {
         "sentence_original": "調理中に、粉をキッチンスケールで量る。",
         "sentence_romaji": "Chouri-chuu ni, kona o kitchin sukeeru de hakaru",
-        "sentence_english": "Measuring the flour with a kitchen scale while cooking.",
+        "sentence_english": "During cooking, measure the flour with a kitchen scale.",
         "key": "測る/量る/計る"
     },
     {
         "sentence_original": "庭を掃いて落ち葉を集めました。",
-        "sentence_romaji": "Niwa o haitte ochiba o atsumemashita.",
-        "sentence_english": "I swept the garden and gathered fallen leaves.",
+        "sentence_romaji": "Niwa o haite ochiba o atsumemashita.",
+        "sentence_english": "I swept the garden and gathered the fallen leaves.",
         "key": "掃く"
     },
     {
         "sentence_original": "彼女は毎朝、家の周りを掃いています。",
-        "sentence_romaji": "Kanojo wa maiasa, ie no mawari o haiteimasu.",
+        "sentence_romaji": "Kanojo wa maiasa, ie no mawari o haite imasu.",
         "sentence_english": "She sweeps around the house every morning.",
         "key": "掃く"
     },
     {
         "sentence_original": "掃除の一環として、床を掃かなければなりません。",
         "sentence_romaji": "Souji no ikkan to shite, yuka o hakanakereba narimasen.",
-        "sentence_english": "As part of the cleaning process, you must sweep the floor.",
+        "sentence_english": "As part of cleaning, you must sweep the floor.",
         "key": "掃く"
     },
     {
         "sentence_original": "うちの店では、店長が閉店前に自分で店の前を掃くことが習慣です。",
-        "sentence_romaji": "Uchi no mise de wa, tenchou ga heiten mae ni jibun de mise no mae o haku koto ga shūkan desu.",
-        "sentence_english": "In our store, it is a custom for the store manager to sweep the front of the store himself before closing.",
+        "sentence_romaji": "Uchi no mise de wa, tenchou ga heiten mae ni jibun de mise no mae o haku koto ga shuukan desu.",
+        "sentence_english": "In our store, it's a custom for the manager to sweep in front of the shop himself before closing.",
         "key": "掃く"
     },
     {
         "sentence_original": "彼は毎週末、部屋を掃いて整理整頓します。",
-        "sentence_romaji": "Kare wa maishūmatsu, heya o haite seiri seiton shimasu.",
+        "sentence_romaji": "Kare wa maishuumatsu, heya o haite seiri seiton shimasu.",
         "sentence_english": "He sweeps his room and tidies up every weekend.",
         "key": "掃く"
     },
@@ -5654,79 +5654,79 @@
     {
         "sentence_original": "ストレスで胃が痛くて吐く。",
         "sentence_romaji": "Sutoresu de i ga itakute haku",
-        "sentence_english": "I throw up because stress causes stomach pain.",
+        "sentence_english": "I throw up because I'm so stressed that my stomach hurts.",
         "key": "吐く"
     },
     {
         "sentence_original": "彼女は緊張で吐きそうになった。",
-        "sentence_romaji": "Kanojo wa kinchou de hakiso ni natta",
-        "sentence_english": "She was so nervous that she almost vomited.",
+        "sentence_romaji": "Kanojo wa kinchou de hakisou ni natta",
+        "sentence_english": "She got so nervous that she felt like throwing up.",
         "key": "吐く"
     },
     {
         "sentence_original": "物事を考えすぎて吐いてしまった。",
         "sentence_romaji": "Monogoto o kangaesugite haite shimatta",
-        "sentence_english": "I thought too much about things and ended up throwing up.",
+        "sentence_english": "I overthought things and ended up throwing up.",
         "key": "吐く"
     },
     {
         "sentence_original": "机の上に写真が挟まっている。",
         "sentence_romaji": "Tsukue no ue ni shashin ga hasamatte iru.",
-        "sentence_english": "There's a photo sandwiched on the table.",
+        "sentence_english": "There's a photo stuck (wedged) on the table.",
         "key": "挟む"
     },
     {
         "sentence_original": "本にこの名刺を挟んでおきます。",
         "sentence_romaji": "Hon ni kono meishi o hasande okimasu.",
-        "sentence_english": "I'll place this business card in the book.",
+        "sentence_english": "I'll place this business card inside the book.",
         "key": "挟む"
     },
     {
         "sentence_original": "彼は、私たちの会話に意見を挟もうとした。",
-        "sentence_romaji": "Kare wa, watashitachi no kaiwa ni iken o hasamou toshita.",
-        "sentence_english": "He tried to interject his opinion in our conversation.",
+        "sentence_romaji": "Kare wa, watashitachi no kaiwa ni iken o hasamou to shita.",
+        "sentence_english": "He tried to interject his opinion into our conversation.",
         "key": "挟む"
     },
     {
         "sentence_original": "畳の間に大きな本を挟む。",
         "sentence_romaji": "Tatami no aida ni ookina hon o hasamu.",
-        "sentence_english": "Sandwiching a large book between tatami mats.",
+        "sentence_english": "Placing a large book between tatami mats.",
         "key": "挟む"
     },
     {
         "sentence_original": "挟んでいたスニーカーを外してテーブルの下に置く。",
         "sentence_romaji": "Hasande ita suniikaa o hazushite teeburu no shita ni oku.",
-        "sentence_english": "Remove the sneakers I was holding and place them under the table.",
+        "sentence_english": "Remove the sneakers that were wedged in and place them under the table.",
         "key": "挟む"
     },
     {
         "sentence_original": "彼はシャツのボタンを1つ外して、リラックスした格好をしていた。",
-        "sentence_romaji": "Kare wa shatsu no botan o hitotsu hazushite, rirakkusu shita kakkou o shiteita.",
-        "sentence_english": "He unbuttoned one button on his shirt and looked relaxed.",
+        "sentence_romaji": "Kare wa shatsu no botan o hitotsu hazushite, rirakkusu shita kakkou o shite ita.",
+        "sentence_english": "He undid one button of his shirt and looked more relaxed.",
         "key": "外す"
     },
     {
         "sentence_original": "ダイエット中にジャンクフードを食べるのは、目標から外れてしまう。",
-        "sentence_romaji": "Daietto chu ni janku fuudo o taberu no wa, mokuhyou kara hazurete shimau.",
-        "sentence_english": "Eating junk food while on a diet deviates from the goal.",
+        "sentence_romaji": "Daietto chuu ni janku fuudo o taberu no wa, mokuhyou kara hazurete shimau.",
+        "sentence_english": "Eating junk food while dieting deviates from the goal.",
         "key": "外す"
     },
     {
         "sentence_original": "緊急の対応が必要で、予定を外すことになった。",
         "sentence_romaji": "Kinkyuu no taiou ga hitsuyou de, yotei o hazusu koto ni natta.",
-        "sentence_english": "An emergency response was needed, so plans had to be changed.",
+        "sentence_english": "Because an emergency response was needed, I had to change my plans.",
         "key": "外す"
     },
     {
         "sentence_original": "彼女はピアスを外して寝ることにしている。",
         "sentence_romaji": "Kanojo wa piasu o hazushite neru koto ni shite iru.",
-        "sentence_english": "She takes off her piercings before going to sleep.",
+        "sentence_english": "She takes off her piercings before sleeping.",
         "key": "外す"
     },
     {
         "sentence_original": "サングラスを外さずに話すのは無礼だと思う。",
         "sentence_romaji": "Sangurasu o hazusazu ni hanasu no wa burei da to omou.",
-        "sentence_english": "I think it's rude to talk without taking off your sunglasses.",
+        "sentence_english": "I think it's rude to speak without removing your sunglasses.",
         "key": "外す"
     },
     {
@@ -5737,20 +5737,20 @@
     },
     {
         "sentence_original": "彼の予想は全く外れていました。",
-        "sentence_romaji": "Kare no yosou wa mattaku hazureteimashita",
-        "sentence_english": "His predictions were completely off.",
+        "sentence_romaji": "Kare no yosou wa mattaku hazurete imashita",
+        "sentence_english": "His prediction was completely off.",
         "key": "外れる"
     },
     {
         "sentence_original": "ゴールの瞬間、ボールがわずかにポストから外れた。",
-        "sentence_romaji": "Gōru no shunkan, bōru ga wazuka ni posuto kara hazureta",
+        "sentence_romaji": "Gooru no shunkan, booru ga wazuka ni posuto kara hazureta",
         "sentence_english": "At the moment of the goal, the ball barely missed the post.",
         "key": "外れる"
     },
     {
         "sentence_original": "ボタンが外れる前に、コートを縫い直す必要があります。",
-        "sentence_romaji": "Botan ga hazureru mae ni, kōto o nui naosu hitsuyou ga arimasu",
-        "sentence_english": "I need to mend the coat before the button falls off.",
+        "sentence_romaji": "Botan ga hazureru mae ni, kooto o nui naosu hitsuyou ga arimasu",
+        "sentence_english": "I need to mend the coat before the button comes off.",
         "key": "外れる"
     },
     {
@@ -5767,7 +5767,7 @@
     },
     {
         "sentence_original": "チームメンバーでアイデアを話し合いましょう。",
-        "sentence_romaji": "Chiimumenbaa de aidea o hanashiai mashou",
+        "sentence_romaji": "Chiimu menbaa de aidea o hanashiai mashou",
         "sentence_english": "Let's discuss ideas with the team members.",
         "key": "話し合う"
     },
@@ -5785,8 +5785,8 @@
     },
     {
         "sentence_original": "彼女と今後の交際について真剣に話し合う必要がある。",
-        "sentence_romaji": "Kanojo to kongou no kousai ni tsuite shinken ni hanashiau hitsuyou ga aru",
-        "sentence_english": "I need to have a serious discussion with her about our future relationship.",
+        "sentence_romaji": "Kanojo to kongo no kousai ni tsuite shinken ni hanashiau hitsuyou ga aru",
+        "sentence_english": "I need to seriously discuss our future relationship with her.",
         "key": "話し合う"
     },
     {
@@ -5803,32 +5803,32 @@
     },
     {
         "sentence_original": "初対面の人に話し掛けるのが苦手な人もいます。",
-        "sentence_romaji": "Shotaiken no hito ni hanashikakeru no ga nigate na hito mo imasu",
+        "sentence_romaji": "Shotaimen no hito ni hanashikakeru no ga nigate na hito mo imasu",
         "sentence_english": "There are people who are not good at talking to strangers for the first time.",
         "key": "話し掛ける"
     },
     {
         "sentence_original": "電車の中でお年寄りに席を譲った後、話し掛けて楽しい会話が始まりました。",
-        "sentence_romaji": "Densha no naka de o-toshiyori ni seki o yuzutta ato, hanashikakete tanoshii kaiwa ga hajimarimashita",
-        "sentence_english": "After giving up my seat to an elderly person on the train, I started talking to them and had a pleasant conversation.",
+        "sentence_romaji": "Densha no naka de otoshiyori ni seki o yuzutta ato, hanashikakete tanoshii kaiwa ga hajimarimashita",
+        "sentence_english": "After giving my seat to an elderly person on the train, I started talking to them, and we had a pleasant conversation.",
         "key": "話し掛ける"
     },
     {
         "sentence_original": "話し掛けたい人がいる場合、勇気を出して声をかけることで関係が深まることがあります。",
         "sentence_romaji": "Hanashikakitai hito ga iru baai, yuuki o dashite koe o kakeru koto de kankei ga fukamaru koto ga arimasu",
-        "sentence_english": "If there is someone you want to talk to, showing courage and speaking up can deepen your relationship.",
+        "sentence_english": "If there is someone you want to talk to, having the courage to speak up can deepen your relationship.",
         "key": "話し掛ける"
     },
     {
         "sentence_original": "仲のいい友人たちが次々に故郷を離れるのを見るのは寂しい。",
-        "sentence_romaji": "Naka no ii yuujin-tachi ga tsugi tsugi ni kokyou o hanareru no o miru no wa sabishii",
-        "sentence_english": "It is sad to see close friends leaving their hometown one after another.",
+        "sentence_romaji": "Naka no ii yuujin-tachi ga tsugitsugi ni kokyou o hanareru no o miru no wa sabishii",
+        "sentence_english": "It's sad to see close friends leaving their hometown one after another.",
         "key": "離れる"
     },
     {
         "sentence_original": "子供たちが親元を離れて独立するのは自然なことだ。",
         "sentence_romaji": "Kodomo-tachi ga oya moto o hanarete dokuritsu suru no wa shizen na koto da",
-        "sentence_english": "It is natural for children to leave their parents and become independent.",
+        "sentence_english": "It's natural for children to leave their parents and become independent.",
         "key": "離れる"
     },
     {
@@ -5840,13 +5840,13 @@
     {
         "sentence_original": "駅から少し離れた場所に住んでいるので、毎日電車に乗る必要がある。",
         "sentence_romaji": "Eki kara sukoshi hanareta basho ni sunde iru node, mainichi densha ni noru hitsuyou ga aru",
-        "sentence_english": "Since I live a little away from the station, I need to take a train every day.",
+        "sentence_english": "Since I live a little far from the station, I need to take a train every day.",
         "key": "離れる"
     },
     {
         "sentence_original": "山火事が起きた時、安全のために速やかにその場所を離れなければならない。",
         "sentence_romaji": "Yamakaji ga okita toki, anzen no tame ni sumiyaka ni sono basho o hanarenakereba naranai",
-        "sentence_english": "When a wildfire occurs, you have to leave the place quickly for your safety.",
+        "sentence_english": "When a wildfire occurs, you must leave the area quickly for your safety.",
         "key": "離れる"
     },
     {
@@ -5864,97 +5864,97 @@
     {
         "sentence_original": "彼は自分の足を掘った穴にはめてしまった。",
         "sentence_romaji": "Kare wa jibun no ashi o hotta ana ni hamete shimatta.",
-        "sentence_english": "He put his foot in the hole he had dug himself.",
+        "sentence_english": "He put his foot into the hole he had dug himself.",
         "key": "はめる"
     },
     {
         "sentence_original": "彼は魚を釣るためのルアーを釣り糸にはめた。",
-        "sentence_romaji": "Kare wa sakana o tsuru tame no ruā o tsurito ni hameta.",
+        "sentence_romaji": "Kare wa sakana o tsuru tame no ruaa o tsuriito ni hameta.",
         "sentence_english": "He attached the lure to the fishing line to catch fish.",
         "key": "はめる"
     },
     {
         "sentence_original": "詐欺師にだまされ、彼はうまく利己的な計画にはめられてしまった。",
-        "sentence_romaji": "Sagishi ni damasare, kare wa umaku rigoteki na keikaku ni hamerareteshimatta.",
-        "sentence_english": "Deceived by the swindler, he got caught in a cunning, self-serving scheme.",
+        "sentence_romaji": "Sagishi ni damasare, kare wa umaku rikoteki na keikaku ni hamerarete shimatta.",
+        "sentence_english": "Deceived by a swindler, he was neatly trapped in a self-serving scheme.",
         "key": "はめる"
     },
     {
         "sentence_original": "最近、健康食がはやっている。",
         "sentence_romaji": "Saikin, kenkou-shoku ga hayatte iru.",
-        "sentence_english": "Recently, healthy food is becoming popular.",
+        "sentence_english": "Recently, healthy food has become popular.",
         "key": "はやる"
     },
     {
         "sentence_original": "あのファッションブランドが若者の間ではやっている。",
-        "sentence_romaji": "Ano fasshonburando ga wakamono no aida de hayatte iru.",
+        "sentence_romaji": "Ano fasshon burando ga wakamono no aida de hayatte iru.",
         "sentence_english": "That fashion brand is popular among young people.",
         "key": "はやる"
     },
     {
         "sentence_original": "スマートフォンアプリの勉強法が今はやっています。",
-        "sentence_romaji": "Sumātofon apuri no benkyō-hō ga ima hayatteimasu.",
-        "sentence_english": "Studying with smartphone apps is now popular.",
+        "sentence_romaji": "Sumaatofon apuri no benkyouhou ga ima hayatte imasu.",
+        "sentence_english": "Studying via smartphone apps is popular now.",
         "key": "はやる"
     },
     {
         "sentence_original": "この選手は今シーズン、野球界で大いにはやっている。",
-        "sentence_romaji": "Kono senshu wa ima shīzun, yakyū-kai de ōi ni hayatte iru.",
-        "sentence_english": "This player is very popular in the baseball world this season.",
+        "sentence_romaji": "Kono senshu wa ima shiizun, yakyuu-kai de ooi ni hayatte iru.",
+        "sentence_english": "This player is really in vogue in the baseball world this season.",
         "key": "はやる"
     },
     {
         "sentence_original": "自然にやさしい商品が最近はやっている。",
-        "sentence_romaji": "Shizen ni yasashii shōhin ga saikin hayatte iru.",
-        "sentence_english": "Eco-friendly products are becoming popular recently.",
+        "sentence_romaji": "Shizen ni yasashii shouhin ga saikin hayatte iru.",
+        "sentence_english": "Eco-friendly products have been in fashion recently.",
         "key": "はやる"
     },
     {
         "sentence_original": "この商品は気に入らなければ、店員に払戻すことができます。",
         "sentence_romaji": "Kono shouhin wa ki ni iranakereba, ten'in ni haraimodosu koto ga dekimasu",
-        "sentence_english": "If you don't like this product, you can return it to the store clerk.",
+        "sentence_english": "If you don't like this product, you can return it to the clerk for a refund.",
         "key": "払戻す"
     },
     {
         "sentence_original": "もしイベントがキャンセルされたら、チケット代は全額払戻されます。",
-        "sentence_romaji": "Moshi ibento ga kyanseru sare tara, chiketto dai wa zengaku haraimodosaremasu",
-        "sentence_english": "If the event is cancelled, the ticket price will be fully refunded.",
+        "sentence_romaji": "Moshi ibento ga kyanseru saretara, chiketto dai wa zengaku haraimodosaremasu",
+        "sentence_english": "If the event is canceled, the ticket price will be fully refunded.",
         "key": "払戻す"
     },
     {
         "sentence_original": "間違って払い過ぎた場合は、差額を払戻してもらえますか。",
         "sentence_romaji": "Machigatte harai sugita baai wa, sagaku o haraimodoshite moraemasu ka",
-        "sentence_english": "If I accidentally overpay, can I get a refund for the difference?",
+        "sentence_english": "If I accidentally overpaid, can I get a refund for the difference?",
         "key": "払戻す"
     },
     {
         "sentence_original": "銀行は誤って引き落とされたお金を払戻した。",
         "sentence_romaji": "Ginkou wa ayamatte hikiorosareta okane o haraimodoshita",
-        "sentence_english": "The bank refunded the money that was mistakenly withdrawn.",
+        "sentence_english": "The bank refunded the money that had been withdrawn by mistake.",
         "key": "払戻す"
     },
     {
         "sentence_original": "彼らはバックオーダーの商品を受け取りたくない場合、お金をすぐに払戻す保証があります。",
-        "sentence_romaji": "Karera wa bakkuoodaa no shouhin o uketoritakunai baai, okane o sugu ni haraimodosu hoshou ga arimasu",
-        "sentence_english": "They have a guarantee to immediately refund the money if you don't want to receive a back-ordered item.",
+        "sentence_romaji": "Karera wa bakku oodaa no shouhin o uketoritakunai baai, okane o sugu ni haraimodosu hoshou ga arimasu",
+        "sentence_english": "They guarantee to refund your money immediately if you don't want to receive a back-ordered item.",
         "key": "払戻す"
     },
     {
         "sentence_original": "足が腫れると歩くのが困難になる。",
         "sentence_romaji": "Ashi ga hareru to aruku no ga konnan ni naru",
-        "sentence_english": "When the foot swells, it becomes difficult to walk.",
+        "sentence_english": "When your foot swells, walking becomes difficult.",
         "key": "腫れる"
     },
     {
         "sentence_original": "昨日虫に刺されて、手が腫れてしまった。",
         "sentence_romaji": "Kinou mushi ni sasarete, te ga harete shimatta",
-        "sentence_english": "I was bitten by a bug yesterday, and my hand swelled up.",
+        "sentence_english": "I got a bug bite yesterday, and my hand swelled up.",
         "key": "腫れる"
     },
     {
         "sentence_original": "左目が腫れてしまって少し視界が悪い。",
         "sentence_romaji": "Hidari me ga harete shimatte sukoshi shikai ga warui",
-        "sentence_english": "My left eye is swollen, and my vision is a little blurry.",
+        "sentence_english": "My left eye is swollen, and my vision is slightly impaired.",
         "key": "腫れる"
     },
     {
@@ -5966,31 +5966,31 @@
     {
         "sentence_original": "運動した後で筋肉が疲労で腫れることがある。",
         "sentence_romaji": "Undou shita ato de kinniku ga hirou de hareru koto ga aru",
-        "sentence_english": "After exercising, the muscles may swell due to fatigue.",
+        "sentence_english": "After exercising, muscles may sometimes swell due to fatigue.",
         "key": "腫れる"
     },
     {
         "sentence_original": "彼はその仕事を引き受けることにした。",
         "sentence_romaji": "Kare wa sono shigoto o hikiukeru koto ni shita",
-        "sentence_english": "He decided to take on the job.",
+        "sentence_english": "He decided to take on that job.",
         "key": "引き受ける"
     },
     {
         "sentence_original": "私は引き受ける責任を全うするつもりです。",
         "sentence_romaji": "Watashi wa hikiukeru sekinin o mattou suru tsumori desu",
-        "sentence_english": "I intend to fulfill the responsibility I have taken on.",
+        "sentence_english": "I intend to fully carry out the responsibilities I have taken on.",
         "key": "引き受ける"
     },
     {
         "sentence_original": "彼女は姉の役割を引き受けた。",
         "sentence_romaji": "Kanojo wa ane no yakuwari o hikiuketa",
-        "sentence_english": "She took on the role of her sister.",
+        "sentence_english": "She assumed the role of an older sister.",
         "key": "引き受ける"
     },
     {
         "sentence_original": "そのプロジェクトのリーダーとして引き受けることになった。",
         "sentence_romaji": "Sono purojekuto no riidaa toshite hikiukeru koto ni natta",
-        "sentence_english": "I ended up taking on the role of project leader.",
+        "sentence_english": "I ended up taking on the project leader role.",
         "key": "引き受ける"
     },
     {
@@ -6002,7 +6002,7 @@
     {
         "sentence_original": "私のアイデアを引き出すために、友達と話し合いました。",
         "sentence_romaji": "Watashi no aidea o hikidasu tame ni, tomodachi to hanashiaimashita.",
-        "sentence_english": "I discussed with my friends to bring out my ideas.",
+        "sentence_english": "I discussed with my friends to draw out my ideas.",
         "key": "引き出す"
     },
     {
@@ -6014,25 +6014,25 @@
     {
         "sentence_original": "この作家は読者の感情を引き出す力がある。",
         "sentence_romaji": "Kono sakka wa dokusha no kanjou o hikidasu chikara ga aru.",
-        "sentence_english": "This writer has the power to draw out the emotions of the readers.",
+        "sentence_english": "This author has the power to evoke readers’ emotions.",
         "key": "引き出す"
     },
     {
         "sentence_original": "部屋から荷物を引き出す必要があります。",
         "sentence_romaji": "Heya kara nimotsu o hikidasu hitsuyou ga arimasu.",
-        "sentence_english": "I need to take out the luggage from the room.",
+        "sentence_english": "I need to take the luggage out of the room.",
         "key": "引き出す"
     },
     {
         "sentence_original": "あのリーダーはメンバーの能力を最大限に引き出すことができる。",
         "sentence_romaji": "Ano riidaa wa menbaa no nouryoku o saidaigen ni hikidasu koto ga dekiru.",
-        "sentence_english": "That leader can bring out the maximum potential of the members.",
+        "sentence_english": "That leader can bring out the members’ abilities to the fullest.",
         "key": "引き出す"
     },
     {
         "sentence_original": "彼は重い荷物を引いている。",
         "sentence_romaji": "Kare wa omoi nimotsu o hiite iru.",
-        "sentence_english": "He is pulling the heavy luggage.",
+        "sentence_english": "He is pulling heavy luggage.",
         "key": "引く"
     },
     {
@@ -6044,49 +6044,49 @@
     {
         "sentence_original": "彼女はカーテンを引いて部屋を明るくした。",
         "sentence_romaji": "Kanojo wa kaaten o hiite heya o akaruku shita.",
-        "sentence_english": "She pulled the curtains to make the room brighter.",
+        "sentence_english": "She drew the curtains to brighten the room.",
         "key": "引く"
     },
     {
         "sentence_original": "犬の散歩中、リードを引いて歩くことが大切です。",
         "sentence_romaji": "Inu no sanpo-chuu, riido o hiite aruku koto ga taisetsu desu.",
-        "sentence_english": "It is important to walk while pulling the leash during a dog walk.",
+        "sentence_english": "It’s important to walk while gently pulling the leash when walking a dog.",
         "key": "引く"
     },
     {
         "sentence_original": "魚を釣るため、釣り糸を引き上げることが必要です。",
         "sentence_romaji": "Sakana o tsuru tame, tsuriito o hikiageru koto ga hitsuyou desu.",
-        "sentence_english": "In order to catch a fish, it is necessary to pull up the fishing line.",
+        "sentence_english": "In order to catch fish, you need to pull up the fishing line.",
         "key": "引く"
     },
     {
         "sentence_original": "彼は強烈なパンチで引っ繰り返された。",
         "sentence_romaji": "Kare wa kyouretsu na panchi de hikkurikaesareta",
-        "sentence_english": "He was knocked over by a strong punch.",
+        "sentence_english": "He was knocked over by a powerful punch.",
         "key": "引っ繰り返す"
     },
     {
         "sentence_original": "彼女はショックを受けて足が引っ繰り返った。",
         "sentence_romaji": "Kanojo wa shokku o ukete ashi ga hikkurikaetta",
-        "sentence_english": "Her legs were knocked over in shock.",
+        "sentence_english": "She was so shocked that she lost her footing and fell.",
         "key": "引っ繰り返す"
     },
     {
         "sentence_original": "地震で建物が引っ繰り返されることもある。",
         "sentence_romaji": "Jishin de tatemono ga hikkurikaesareru koto mo aru",
-        "sentence_english": "Buildings can be knocked over by earthquakes.",
+        "sentence_english": "Sometimes buildings are toppled by earthquakes.",
         "key": "引っ繰り返す"
     },
     {
         "sentence_original": "子供が走り回って、私の足を引っ繰り返しました。",
         "sentence_romaji": "Kodomo ga hashirimawatte, watashi no ashi o hikkurikaeshimashita",
-        "sentence_english": "A child ran around and knocked my feet out from under me.",
+        "sentence_english": "A child ran around and caused me to trip and fall.",
         "key": "引っ繰り返す"
     },
     {
         "sentence_original": "彼はうっかり足をひっかけて、自分で自分を引っ繰り返してしまった。",
-        "sentence_romaji": "Kare wa ukkari ashi o hikkakete, jibun de jibun o hikkurikaeshiteshimatta",
-        "sentence_english": "He accidentally tripped over and knocked himself over.",
+        "sentence_romaji": "Kare wa ukkari ashi o hikkakete, jibun de jibun o hikkurikaeshite shimatta",
+        "sentence_english": "He accidentally tripped over his own foot and ended up knocking himself down.",
         "key": "引っ繰り返す"
     },
     {
@@ -6098,19 +6098,19 @@
     {
         "sentence_original": "彼はチームを引っ張るリーダーだ。",
         "sentence_romaji": "Kare wa chiimu o hipparu riidaa da",
-        "sentence_english": "He is the leader who pulls the team together.",
+        "sentence_english": "He’s the leader who drives (pulls along) the team.",
         "key": "引っ張る"
     },
     {
         "sentence_original": "犬がリードを引っ張って散歩に行きたがっている。",
         "sentence_romaji": "Inu ga riido o hipparatte sanpo ni ikitagatte iru",
-        "sentence_english": "The dog is pulling on the leash, wanting to go for a walk.",
+        "sentence_english": "The dog is tugging on the leash, wanting to go for a walk.",
         "key": "引っ張る"
     },
     {
         "sentence_original": "彼女は私を買い物に誘って、店から店へ引っ張っていった。",
         "sentence_romaji": "Kanojo wa watashi o kaimono ni sasotte, mise kara mise e hipparatte itta",
-        "sentence_english": "She invited me shopping and pulled me from store to store.",
+        "sentence_english": "She invited me shopping and dragged me from store to store.",
         "key": "引っ張る"
     },
     {
@@ -6122,55 +6122,55 @@
     {
         "sentence_original": "水を冷やすのに時間がかかる。",
         "sentence_romaji": "Mizu o hiyasu no ni jikan ga kakaru.",
-        "sentence_english": "It takes time to cool down the water.",
+        "sentence_english": "It takes time to cool the water.",
         "key": "冷やす"
     },
     {
         "sentence_original": "熱い飲み物を少し冷やしてから飲むといい。",
         "sentence_romaji": "Atsui nomimono o sukoshi hiyashite kara nomu to ii.",
-        "sentence_english": "It's best to drink hot beverages after cooling them down a bit.",
+        "sentence_english": "It's good to let hot drinks cool a bit before drinking.",
         "key": "冷やす"
     },
     {
         "sentence_original": "暑い日はアイスコーヒーを入れて冷やして飲むと気持ちがいい。",
         "sentence_romaji": "Atsui hi wa aisukouhii o irete hiyashite nomu to kimochi ga ii.",
-        "sentence_english": "On hot days, it feels good to drink iced coffee after cooling it down.",
+        "sentence_english": "On a hot day, it feels great to make iced coffee and drink it once it's chilled.",
         "key": "冷やす"
     },
     {
         "sentence_original": "ビールを冷やすために冷蔵庫に入れておいた。",
         "sentence_romaji": "Biiru o hiyasu tame ni reizouko ni irete oita.",
-        "sentence_english": "I put the beer in the refrigerator to cool it down.",
+        "sentence_english": "I placed the beer in the fridge to cool it.",
         "key": "冷やす"
     },
     {
         "sentence_original": "頭痛がひどい時、アイスパックで額を冷やすと楽になる。",
         "sentence_romaji": "Zutsuu ga hidoi toki, aisupakku de hitai o hiyasu to raku ni naru.",
-        "sentence_english": "When you have a severe headache, cooling your forehead with an ice pack helps relieve the pain.",
+        "sentence_english": "When you have a severe headache, applying an ice pack to your forehead can help relieve the pain.",
         "key": "冷やす"
     },
     {
         "sentence_original": "地図を広げて道を調べた。",
         "sentence_romaji": "Chizu o hirogete michi o shirabeta",
-        "sentence_english": "I spread the map and checked the route.",
+        "sentence_english": "I spread out the map to check the route.",
         "key": "広げる"
     },
     {
         "sentence_original": "テーブルの上に新聞を広げた。",
         "sentence_romaji": "Teeburu no ue ni shinbun o hirogeta",
-        "sentence_english": "I spread the newspaper on the table.",
+        "sentence_english": "I laid out the newspaper on the table.",
         "key": "広げる"
     },
     {
         "sentence_original": "彼女は両手を広げて私を抱き締めた。",
         "sentence_romaji": "Kanojo wa ryoute o hirogete watashi o dakishimeta",
-        "sentence_english": "She spread her arms and hugged me.",
+        "sentence_english": "She opened her arms wide and hugged me.",
         "key": "広げる"
     },
     {
         "sentence_original": "その会社はビジネスをアジア市場に広げる計画だ。",
         "sentence_romaji": "Sono kaisha wa bijinesu o Ajia shijou ni hirogeru keikaku da",
-        "sentence_english": "The company plans to expand its business in the Asian market.",
+        "sentence_english": "The company plans to expand its business into the Asian market.",
         "key": "広げる"
     },
     {
@@ -6182,7 +6182,7 @@
     {
         "sentence_original": "最近、ベジタリアンの食生活を広める活動が多くなっています。",
         "sentence_romaji": "Saikin, bejitarian no shokuseikatsu o hiromeru katsudou ga ookunatte imasu",
-        "sentence_english": "Recently, there are more activities to promote vegetarian lifestyles.",
+        "sentence_english": "Recently, there have been more initiatives to promote vegetarian diets.",
         "key": "広める"
     },
     {
@@ -6200,7 +6200,7 @@
     {
         "sentence_original": "国際交流を広めることは、異文化理解を深める一助となります。",
         "sentence_romaji": "Kokusaikouryuu o hiromeru koto wa, ibunka rikai o fukameru ichijo to narimasu",
-        "sentence_english": "Promoting international exchange helps deepen understanding of different cultures.",
+        "sentence_english": "Promoting international exchange helps deepen understanding of other cultures.",
         "key": "広める"
     },
     {
@@ -6211,31 +6211,31 @@
     },
     {
         "sentence_original": "ガラスを綺麗に拭くために、新聞紙を使ってください。",
-        "sentence_romaji": "Garasu o kirei ni nuguu tame ni, shinbunshi o tsukatte kudasai.",
+        "sentence_romaji": "Garasu o kirei ni fuku tame ni, shinbunshi o tsukatte kudasai.",
         "sentence_english": "To wipe the glass clean, please use newspaper.",
         "key": "拭く"
     },
     {
         "sentence_original": "彼女は汗を拭くためにハンカチを使いました。",
-        "sentence_romaji": "Kanojo wa ase o nuguu tame ni hankachi o tsukaimashita.",
+        "sentence_romaji": "Kanojo wa ase o fuku tame ni hankachi o tsukaimashita.",
         "sentence_english": "She used a handkerchief to wipe her sweat.",
         "key": "拭く"
     },
     {
-        "sentence_original": "娘が spilled ジュースをテーブルから拭きました。",
-        "sentence_romaji": "Musume ga spilled juusu o teeburu kara nugimashita.",
+        "sentence_original": "娘がこぼれたジュースをテーブルから拭きました。",
+        "sentence_romaji": "Musume ga koboreta juusu o teeburu kara fukimashita.",
         "sentence_english": "My daughter wiped the spilled juice off the table.",
         "key": "拭く"
     },
     {
         "sentence_original": "雨が降るたびに、窓を拭かなくてはならない。",
-        "sentence_romaji": "Ame ga furu tabi ni, mado o nuganakute wa naranai.",
+        "sentence_romaji": "Ame ga furu tabi ni, mado o fukanakute wa naranai.",
         "sentence_english": "I have to wipe the windows every time it rains.",
         "key": "拭く"
     },
     {
         "sentence_original": "彼は顔に水をかけて、タオルで拭きました。",
-        "sentence_romaji": "Kare wa kao ni mizu o kakete, taoru de nugimashita.",
+        "sentence_romaji": "Kare wa kao ni mizu o kakete, taoru de fukimashita.",
         "sentence_english": "He splashed water on his face and wiped it with a towel.",
         "key": "拭く"
     },
@@ -6283,7 +6283,7 @@
     },
     {
         "sentence_original": "この塗料は錆びを防ぐ効果があります。",
-        "sentence_romaji": "Kono nurimono wa sabi o fusegu kouka ga arimasu",
+        "sentence_romaji": "Kono toryō wa sabi o fusegu kouka ga arimasu",
         "sentence_english": "This coating has the effect of preventing rust.",
         "key": "防ぐ"
     },
@@ -6433,7 +6433,7 @@
     },
     {
         "sentence_original": "緊張で手が震える。",
-        "sentence_romaji": "Kinnchou de te ga furueru.",
+        "sentence_romaji": "Kinchou de te ga furueru.",
         "sentence_english": "My hands shake due to nervousness.",
         "key": "震える"
     },
@@ -6451,7 +6451,7 @@
     },
     {
         "sentence_original": "大雨で水位が上がったが、やがて水位は減るだろう。",
-        "sentence_romaji": "Ōame de suii ga agatta ga, yagate suii wa heru darou.",
+        "sentence_romaji": "Ooame de suii ga agatta ga, yagate suii wa heru darou.",
         "sentence_english": "The water level has risen due to the heavy rain, but it will eventually decrease.",
         "key": "減る"
     },
@@ -6516,20 +6516,20 @@
         "key": "干す"
     },
     {
-        "sentence_original": "魚を干して保存料を作ることができます。",
-        "sentence_romaji": "Sakana o hosu shite hozonryo o tsukuru koto ga dekimasu.",
+        "sentence_original": "魚を干して保存食を作ることができます。",
+        "sentence_romaji": "Sakana o hosu shite hozonshoku o tsukuru koto ga dekimasu.",
         "sentence_english": "You can make preserved food by drying fish.",
         "key": "干す"
     },
     {
         "sentence_original": "農家で稲を干すのに晴れる日が必要だ。",
-        "sentence_romaji": "Nouka de ine o hosu noni hareru hi ga hitsuyou da.",
+        "sentence_romaji": "Nouka de ine o hosu no ni hareru hi ga hitsuyou da.",
         "sentence_english": "Sunny days are needed to dry rice on the farm.",
         "key": "干す"
     },
     {
         "sentence_original": "高所で靴を干しています。",
-        "sentence_romaji": "Koujo de kutsu o hosu shiteimasu.",
+        "sentence_romaji": "Kousho de kutsu o hosu shiteimasu.",
         "sentence_english": "I am hanging shoes to dry high up.",
         "key": "干す"
     },
@@ -6571,7 +6571,7 @@
     },
     {
         "sentence_original": "彼は紙を曲げて飛行機を作った。",
-        "sentence_romaji": "Kare wa kami o mageru tte hikouki o tsukutta",
+        "sentence_romaji": "Kare wa kami o magete hikouki o tsukutta.",
         "sentence_english": "He bent the paper and made a paper airplane.",
         "key": "曲げる"
     },
@@ -6594,9 +6594,9 @@
         "key": "曲げる"
     },
     {
-        "sentence_original": "道路が左へ急に曲がりました。",
-        "sentence_romaji": "Douro ga hidari e kyuu ni magarimashita",
-        "sentence_english": "The road suddenly bent to the left.",
+        "sentence_original": "彼は針金を左へ急に曲げました。",
+        "sentence_romaji": "Kare wa harigane o hidari e kyuu ni magemashita",
+        "sentence_english": "He suddenly bent the wire to the left.",
         "key": "曲げる"
     },
     {
@@ -6613,19 +6613,19 @@
     },
     {
         "sentence_original": "色々な食材を混ぜてシチューを作る。",
-        "sentence_romaji": "Iroiro na shokuzai o mazete shichū o tsukuru",
+        "sentence_romaji": "Iroiro na shokuzai o mazete shichuu o tsukuru",
         "sentence_english": "Make a stew by mixing various ingredients.",
         "key": "混ぜる"
     },
     {
         "sentence_original": "コーヒーに砂糖とミルクを混ぜる。",
-        "sentence_romaji": "Kōhī ni satou to miruku o mazeru",
+        "sentence_romaji": "Koohii ni satou to miruku o mazeru",
         "sentence_english": "Mix sugar and milk into the coffee.",
         "key": "混ぜる"
     },
     {
         "sentence_original": "カクテルの材料をシェーカーでしっかり混ぜる。",
-        "sentence_romaji": "Kakuteru no zairyou o shēkā de shikkari mazeru",
+        "sentence_romaji": "Kakuteru no zairyou o sheekaa de shikkari mazeru",
         "sentence_english": "Shake the cocktail ingredients well in a shaker.",
         "key": "混ぜる"
     },
@@ -6655,7 +6655,7 @@
     },
     {
         "sentence_original": "彼と明日、レストランで待ち合わせる予定です。",
-        "sentence_romaji": "Kare to ashita, resutoran de machiawaseru yoteidesu.",
+        "sentence_romaji": "Kare to ashita, resutoran de machiawaseru yotei desu.",
         "sentence_english": "I plan to meet him at a restaurant tomorrow.",
         "key": "待ち合わせる"
     },
@@ -6733,19 +6733,19 @@
     },
     {
         "sentence_original": "このコースではコンピューターの基本操作を学びます。",
-        "sentence_romaji": "Kono kōsu de wa konpyūtā no kihon sōsa o manabimasu",
+        "sentence_romaji": "Kono koosu de wa konpyuutaa no kihon soosa o manabimasu",
         "sentence_english": "In this course, we will learn the basics of computer operation.",
         "key": "学ぶ"
     },
     {
         "sentence_original": "彼は経済学を学ぶために大学に入学しました。",
-        "sentence_romaji": "Kare wa keizaigaku o manabu tame ni daigaku ni nyūgaku shimashita",
+        "sentence_romaji": "Kare wa keizaigaku o manabu tame ni daigaku ni nyuugaku shimashita",
         "sentence_english": "He entered university to study economics.",
         "key": "学ぶ"
     },
     {
         "sentence_original": "史跡を訪れて歴史を学ぶことはとても有益です。",
-        "sentence_romaji": "Shiseki o otozurete rekishi o manabu koto wa totemo yūeki desu",
+        "sentence_romaji": "Shiseki o otozurete rekishi o manabu koto wa totemo yuueki desu",
         "sentence_english": "It is very beneficial to learn history by visiting historical sites.",
         "key": "学ぶ"
     },
@@ -6781,7 +6781,7 @@
     },
     {
         "sentence_original": "彼はボールを回すのがうまい。",
-        "sentence_romaji": "Kare wa bōru o mawasu no ga umai",
+        "sentence_romaji": "Kare wa booru o mawasu no ga umai",
         "sentence_english": "He is good at spinning the ball.",
         "key": "回す"
     },
@@ -6799,13 +6799,13 @@
     },
     {
         "sentence_original": "風船を手で軽く回すと、バランスが良くなります。",
-        "sentence_romaji": "Fuusen o te de karuku mawasu to, baransu ga yokunari masu",
+        "sentence_romaji": "Fuusen o te de karuku mawasu to, baransu ga yokunarimasu",
         "sentence_english": "Gently spinning the balloon with your hand will improve its balance.",
         "key": "回す"
     },
     {
         "sentence_original": "彼は地球儀を回して、目的地を探した。",
-        "sentence_romaji": "Kare wa chikyūgi o mawashite, mokutekichi o sagashita",
+        "sentence_romaji": "Kare wa chikyuugi o mawashite, mokutekichi o sagashita",
         "sentence_english": "He spun the globe to search for his destination.",
         "key": "回す"
     },
@@ -6853,7 +6853,7 @@
     },
     {
         "sentence_original": "間違った情報を受け、彼女は自分の意見を見直さなければならなかった。",
-        "sentence_romaji": "Machigatta jouhou o uke, kanojo wa jibun no iken o minaosanakereba narimasen deshita",
+        "sentence_romaji": "Machigatta jouhou o uke, kanojo wa jibun no iken o minaosanakereba naranakatta",
         "sentence_english": "After receiving incorrect information, she had to revise her opinion.",
         "key": "見直す"
     },
@@ -6870,7 +6870,7 @@
         "key": "見直す"
     },
     {
-        "sentence_original": "友達が病気そうだから、直ぐに医者に診てもらった方がいい。",
+        "sentence_original": "友達が病気そうだから、すぐに医者に診てもらった方がいい。",
         "sentence_romaji": "Tomodachi ga byouki sou dakara, sugu ni isha ni mite moratta hou ga ii.",
         "sentence_english": "My friend seems sick, so it's better to get a doctor to check them right away.",
         "key": "診る"
@@ -6948,9 +6948,9 @@
         "key": "向く"
     },
     {
-        "sentence_original": "この仕事はプレッシャーに強く向かなければならない。",
-        "sentence_romaji": "Kono shigoto wa puresshaa ni tsuyoku mukanakereba naranai",
-        "sentence_english": "For this job, one must be strong and suited to handle pressure.",
+        "sentence_original": "この仕事はプレッシャーに強い人に向いている。",
+        "sentence_romaji": "Kono shigoto wa puresshaa ni tsuyoi hito ni muite iru.",
+        "sentence_english": "This job is suited for people who are strong under pressure.",
         "key": "向く"
     },
     {
@@ -6960,33 +6960,33 @@
         "key": "向く"
     },
     {
-        "sentence_original": "無くす",
-        "sentence_romaji": "Heiwa o nakusu koto wa, sekai ni totemo eikyou o ataeru",
-        "sentence_english": "Losing peace has a great impact on the world.",
+        "sentence_original": "窓の方に体をむくと、涼しい風が感じられる。",
+        "sentence_romaji": "Mado no hou ni karada o muku to, suzushii kaze ga kanjirareru.",
+        "sentence_english": "When you face the window, you can feel a cool breeze.",
         "key": "むく"
     },
     {
-        "sentence_original": "無くなる",
-        "sentence_romaji": "Kono mura no kodomo-tachi wa, dandan nakunatteiru",
-        "sentence_english": "The children in this village are gradually disappearing.",
+        "sentence_original": "みんなの前で発表するときは、まっすぐ前を向くように気をつけてください。",
+        "sentence_romaji": "Minna no mae de happyou suru toki wa, massugu mae o muku you ni ki o tsukete kudasai.",
+        "sentence_english": "When presenting in front of everyone, be sure to face straight forward.",
         "key": "むく"
     },
     {
-        "sentence_original": "向く",
-        "sentence_romaji": "Kaban o hikkake ni tsukete, hidarigawa ni muku",
-        "sentence_english": "Hang a bag on the hook and face to the left.",
+        "sentence_original": "カバンをフックに掛けてから左側にむく。",
+        "sentence_romaji": "Kaban o fukku ni kakete kara hidarigawa ni muku.",
+        "sentence_english": "Hang your bag on the hook, then turn to the left.",
         "key": "むく"
     },
     {
-        "sentence_original": "向かう",
-        "sentence_romaji": "Kare wa eki ni mukatte aruite ita",
-        "sentence_english": "He was walking towards the station.",
+        "sentence_original": "りんごの皮をむく前に、きれいに洗いましょう。",
+        "sentence_romaji": "Ringo no kawa o muku mae ni, kirei ni araimashou.",
+        "sentence_english": "Before peeling the apple, wash it well.",
         "key": "むく"
     },
     {
-        "sentence_original": "皮をむく",
-        "sentence_romaji": "Ringo no kawa o muku",
-        "sentence_english": "Peel the skin of the apple.",
+        "sentence_original": "じゃがいもの皮をむくときは、手を切らないように注意してください。",
+        "sentence_romaji": "Jagaimo no kawa o muku toki wa, te o kiranai you ni chuui shite kudasai.",
+        "sentence_english": "When peeling potatoes, be careful not to cut your hand.",
         "key": "むく"
     },
     {
@@ -7002,15 +7002,15 @@
         "key": "蒸す"
     },
     {
-        "sentence_original": "冬には部屋が暖かくなるように湯たんぽを蒸すことが一般的です。",
-        "sentence_romaji": "Fuyu ni wa heya ga atatakaku naru you ni yutanpo o musu koto ga ippan teki desu",
-        "sentence_english": "In winter, it is common to steam hot water bottles to make the room warm.",
+        "sentence_original": "冬には部屋が寒いので、蒸しタオルを使って体を温める人もいます。",
+        "sentence_romaji": "Fuyu ni wa heya ga samui no de, mushi-taoru o tsukatte karada o atatameru hito mo imasu",
+        "sentence_english": "Because rooms get cold in winter, some people warm themselves with a steamed towel.",
         "key": "蒸す"
     },
     {
         "sentence_original": "蒸しタオルを使って、顔を蒸すことで毛穴を開かせることができます。",
         "sentence_romaji": "Mushi taoru o tsukatte, kao o musu koto de keana o hirakaseru koto ga dekimasu",
-        "sentence_english": "Using a steamed towel, you can steam your face to open up the pores.",
+        "sentence_english": "By using a steamed towel and steaming your face, you can open up your pores.",
         "key": "蒸す"
     },
     {
@@ -7057,7 +7057,7 @@
     },
     {
         "sentence_original": "彼女はプロのダンサーを目指して、毎日練習している。",
-        "sentence_romaji": "Kanojo wa puro no dansā o mezasu, mainichi renshū shiteiru",
+        "sentence_romaji": "Kanojo wa puro no dansa o mezasu, mainichi renshuu shiteiru",
         "sentence_english": "She practices every day aiming to become a professional dancer.",
         "key": "目指す"
     },
@@ -7069,19 +7069,19 @@
     },
     {
         "sentence_original": "親から期待されているので、優秀な成績を目指すことにします。",
-        "sentence_romaji": "Oya kara kitai sa reteiru node, yūshūna seiseki o mezasu koto ni shimasu",
+        "sentence_romaji": "Oya kara kitai sareteiru node, yuushuu na seiseki o mezasu koto ni shimasu",
         "sentence_english": "As my parents have high expectations, I will aim for excellent grades.",
         "key": "目指す"
     },
     {
         "sentence_original": "今年はマラソン大会で優勝を目指すために、毎日走っている。",
-        "sentence_romaji": "Kotoshi wa marason taikai de yūshō o mezasu tame ni, mainichi hashitte iru",
-        "sentence_english": "I am running every day this year to aim for the victory in the marathon competition.",
+        "sentence_romaji": "Kotoshi wa marason taikai de yuushou o mezasu tame ni, mainichi hashitte iru",
+        "sentence_english": "I am running every day this year to aim for victory in the marathon competition.",
         "key": "目指す"
     },
     {
         "sentence_original": "彼女の赤いドレスは本当に目立つ。",
-        "sentence_romaji": "Kanojo no akai doresu wa hontouni medatsu.",
+        "sentence_romaji": "Kanojo no akai doresu wa hontou ni medatsu.",
         "sentence_english": "Her red dress really stands out.",
         "key": "目立つ"
     },
@@ -7171,13 +7171,13 @@
     },
     {
         "sentence_original": "木を燃やして暖を取りましょう。",
-        "sentence_romaji": "Ki o moyashite nukumori o torimashou",
+        "sentence_romaji": "Ki o moyashite dan o torimashou",
         "sentence_english": "Let's burn wood to keep warm.",
         "key": "燃やす"
     },
     {
         "sentence_original": "ガスコンロで燃やすと、食材の味が引き立ちます。",
-        "sentence_romaji": "Gasu konro de moyasu to, shokuzai no aji ga hikidachi masu",
+        "sentence_romaji": "Gasu konro de moyasu to, shokuzai no aji ga hikidachimasu",
         "sentence_english": "When you burn it with a gas stove, the taste of the ingredients stands out.",
         "key": "燃やす"
     },
@@ -7189,7 +7189,7 @@
     },
     {
         "sentence_original": "彼は紙を燃やして証拠を消滅させた。",
-        "sentence_romaji": "Kare wa kami o moyashite shouko wo shoumetsu saseta",
+        "sentence_romaji": "Kare wa kami o moyashite shouko o shoumetsu saseta",
         "sentence_english": "He burned the paper to eliminate the evidence.",
         "key": "燃やす"
     },
@@ -7285,7 +7285,7 @@
     },
     {
         "sentence_original": "昼休みに30分だけ休めると、午後の仕事が捗る。",
-        "sentence_romaji": "Hiruyasumi ni sanjuppun dake yasumeru to, gogo no shigoto ga hakobu.",
+        "sentence_romaji": "Hiruyasumi ni sanjuppun dake yasumeru to, gogo no shigoto ga hakadoru.",
         "sentence_english": "Being able to rest for just 30 minutes during lunch break helps make afternoon work more productive.",
         "key": "休める"
     },
@@ -7315,7 +7315,7 @@
     },
     {
         "sentence_original": "彼はその子供たちを雇って、家のそばの公園で草むしりをさせた。",
-        "sentence_romaji": "Kare wa sono kodomo-tachi o yatte, ie no soba no kouen de kusa mushiri o saseta.",
+        "sentence_romaji": "Kare wa sono kodomo-tachi o yatotte, ie no soba no kouen de kusa mushiri o saseta.",
         "sentence_english": "He hired the children to do weeding in the park near his house.",
         "key": "雇う"
     },
@@ -7363,13 +7363,13 @@
     },
     {
         "sentence_original": "その土地は代々家族に譲られてきました。",
-        "sentence_romaji": "Sono tochi wa daida katei ni yuzurarete kimashita",
+        "sentence_romaji": "Sono tochi wa daidai kazoku ni yuzurarete kimashita",
         "sentence_english": "The land has been passed down through the generations to the family.",
         "key": "譲る"
     },
     {
         "sentence_original": "彼は彼の妹にチケットを譲りました。",
-        "sentence_romaji": "Kare wa kanojo no imouto ni chiketto o yuzurimashita",
+        "sentence_romaji": "Kare wa kare no imouto ni chiketto o yuzurimashita",
         "sentence_english": "He gave his ticket to his younger sister.",
         "key": "譲る"
     },
@@ -7381,7 +7381,7 @@
     },
     {
         "sentence_original": "卵をゆでるのに何分かかりますか？",
-        "sentence_romaji": "Tamago o yuderu noni nanbun kakarimasu ka?",
+        "sentence_romaji": "Tamago o yuderu noni nanpun kakarimasu ka?",
         "sentence_english": "How many minutes does it take to boil an egg?",
         "key": "ゆでる"
     },
@@ -7399,13 +7399,13 @@
     },
     {
         "sentence_original": "じゃがいもは皮をむいてからゆでると美味しくて柔らかくなります。",
-        "sentence_romaji": "Jagaimo wa kawa wo muite kara yuderu to oishikute yawarakaku narimasu",
+        "sentence_romaji": "Jagaimo wa kawa o muite kara yuderu to oishikute yawarakaku narimasu",
         "sentence_english": "Boiling potatoes after peeling them makes them more delicious and tender.",
         "key": "ゆでる"
     },
     {
         "sentence_original": "パスタをゆでるとき、塩を入れると味が良くなります。",
-        "sentence_romaji": "Pasuta o yuderu toki, shio o ireru to aji ga yokunari masu",
+        "sentence_romaji": "Pasuta o yuderu toki, shio o ireru to aji ga yokunarimasu",
         "sentence_english": "When boiling pasta, adding salt makes it taste better.",
         "key": "ゆでる"
     },
@@ -7506,8 +7506,8 @@
         "key": "汚す"
     },
     {
-        "sentence_original": "友達が新しい靴を泥で汚された。",
-        "sentence_romaji": "Tomodachi ga atarashii kutsu o doro de yogosareta",
+        "sentence_original": "友達の新しい靴が泥で汚された。",
+        "sentence_romaji": "Tomodachi no atarashii kutsu ga doro de yogosareta",
         "sentence_english": "My friend's new shoes were dirtied with mud.",
         "key": "汚す"
     },
@@ -7585,19 +7585,19 @@
     },
     {
         "sentence_original": "その古い家は4部屋に分けられたアパートになっている。",
-        "sentence_romaji": "Sono furui ie wa yon heya ni wakera reta apaato ni natte iru",
+        "sentence_romaji": "Sono furui ie wa yon heya ni wakerareta apaato ni natte iru",
         "sentence_english": "The old house has been converted into an apartment divided into four rooms.",
         "key": "分ける"
     },
     {
         "sentence_original": "ケーキをみんなに均等に割る。",
-        "sentence_romaji": "Kēki o minna ni kintō ni waru",
+        "sentence_romaji": "Keeki o minna ni kintou ni waru",
         "sentence_english": "Divide the cake equally among everyone.",
         "key": "割る"
     },
     {
         "sentence_original": "友達と外食代を二人で折半して割ることにしました。",
-        "sentence_romaji": "Tomodachi to gaishokudai o futari de seihan shite waru koto ni shimashita",
+        "sentence_romaji": "Tomodachi to gaishokudai o futari de seppan shite waru koto ni shimashita",
         "sentence_english": "We decided to split the dining out cost in half with my friend.",
         "key": "割る"
     },
@@ -7609,7 +7609,7 @@
     },
     {
         "sentence_original": "僕たち三人でコストを三分割して割った。",
-        "sentence_romaji": "Bokutachi sannin de kosuto o sanbun-wari shite watta",
+        "sentence_romaji": "Bokutachi sannin de kosuto o sanbun-kakushite watta",
         "sentence_english": "We split the cost into three parts among the three of us.",
         "key": "割る"
     },

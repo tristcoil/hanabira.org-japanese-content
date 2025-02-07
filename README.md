@@ -24,4 +24,7 @@ updated
 
 
 
-- sentences_output_N3_tango_p210-213_i-adjectives_1.json - whole file
+- sentences_output_N3_tango_p210-213_i-adjectives_1.json    - whole file
+- sentences_output_essential_600_suru_verbs_book.json       - whole file
+- sentences_output_N3_tango_p214-223_na-adjectives_1.json   - whole file
+- sentences_output_N3_tango_verbs_TOTAL.json                - whole file

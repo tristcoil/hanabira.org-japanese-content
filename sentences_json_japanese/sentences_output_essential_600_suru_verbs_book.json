@@ -26,7 +26,7 @@
   {
     "sentence_original": "彼は愛用するコーヒーメーカーをいつも自宅に持ち歩く。",
     "sentence_romaji": "Kare wa aiyou suru ko-hi- me-ka- o itsumo jitaku ni mochiaruku",
-    "sentence_english": "He always carries his beloved coffee maker with him at home.",
+    "sentence_english": "He always carries his beloved coffee maker around at home.",
     "key": "愛用する_"
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "sentence_original": "駅からホテルまでの道のりを案内されました。",
-    "sentence_romaji": "Eki kara hoteru made no michinori o annai saremasita.",
+    "sentence_romaji": "Eki kara hoteru made no michinori o annai saremashita.",
     "sentence_english": "I was guided from the station to the hotel.",
     "key": "案内する_"
   },
@@ -354,8 +354,8 @@
     "key": "防止する_"
   },
   {
-    "sentence_original": "児童労働の防止するために、国際的なルールが策定されている。",
-    "sentence_romaji": "Jidou roudou no boushi suru tame ni, kokusaiteki na ruuru ga sakutei sarete iru.",
+    "sentence_original": "児童労働を防止するために、国際的なルールが策定されている。",
+    "sentence_romaji": "Jidou roudou o boushi suru tame ni, kokusaiteki na ruuru ga sakutei sarete iru.",
     "sentence_english": "International regulations have been established to prevent child labor.",
     "key": "防止する_"
   },
@@ -511,91 +511,91 @@
   },
   {
     "sentence_original": "インターネットで情報を調査する。",
-    "sentence_romaji": "Intānetto de jōhō o chōsa suru",
+    "sentence_romaji": "Intaanetto de jouhou o chousa suru",
     "sentence_english": "Investigate information on the Internet.",
     "key": "調査する_"
   },
   {
     "sentence_original": "この問題について詳しく調査する必要があります。",
-    "sentence_romaji": "Kono mondai ni tsuite kuwashiku chōsa suru hitsuyō ga arimasu",
+    "sentence_romaji": "Kono mondai ni tsuite kuwashiku chousa suru hitsuyou ga arimasu",
     "sentence_english": "We need to investigate this issue in detail.",
     "key": "調査する_"
   },
   {
     "sentence_original": "警察は事件の背後にある原因を調査しています。",
-    "sentence_romaji": "Keisatsu wa jiken no haigo ni aru gen'in o chōsa shiteimasu",
+    "sentence_romaji": "Keisatsu wa jiken no haigo ni aru gen'in o chousa shiteimasu",
     "sentence_english": "The police are investigating the cause behind the incident.",
     "key": "調査する_"
   },
   {
     "sentence_original": "市場の需要と供給を調査することがマーケティング戦略の基本です。",
-    "sentence_romaji": "Shijō no juyō to kyōkyū o chōsa suru koto ga māketingu senryaku no kihon desu",
+    "sentence_romaji": "Shijou no juyou to kyoukyuu o chousa suru koto ga maaketingu senryaku no kihon desu",
     "sentence_english": "Investigating market demand and supply is the basis of marketing strategy.",
     "key": "調査する_"
   },
   {
     "sentence_original": "私たちはこのプロジェクトのために競合他社を調査する必要があります。",
-    "sentence_romaji": "Watashitachi wa kono purojekuto no tame ni kyōgō taisha o chōsa suru hitsuyō ga arimasu",
+    "sentence_romaji": "Watashitachi wa kono purojekuto no tame ni kyougou tasha o chousa suru hitsuyou ga arimasu",
     "sentence_english": "We need to investigate competitors for this project.",
     "key": "調査する_"
   },
   {
     "sentence_original": "スケジュールを調整する必要がある。",
-    "sentence_romaji": "Sukejūru o chōsei suru hitsuyō ga aru",
+    "sentence_romaji": "Sukeju-ru o chousei suru hitsuyou ga aru",
     "sentence_english": "There is a need to adjust the schedule.",
     "key": "調整する_"
   },
   {
     "sentence_original": "仕事とプライベートのバランスを調整することが大切だ。",
-    "sentence_romaji": "Shigoto to puraibeeto no baransu o chōsei suru koto ga taisetsu da",
+    "sentence_romaji": "Shigoto to puraibeeto no baransu o chousei suru koto ga taisetsu da",
     "sentence_english": "It's important to adjust the balance between work and private life.",
     "key": "調整する_"
   },
   {
     "sentence_original": "チーム内で意見を調整することが重要です。",
-    "sentence_romaji": "Chīmu nai de iken o chōsei suru koto ga juuyou desu",
+    "sentence_romaji": "Chi-mu nai de iken o chousei suru koto ga juuyou desu",
     "sentence_english": "It is important to coordinate opinions within the team.",
     "key": "調整する_"
   },
   {
     "sentence_original": "音量を調整することで、快適に音楽を楽しめます。",
-    "sentence_romaji": "Onryō o chōsei suru koto de, kaiteki ni ongaku o tanoshimemasu",
+    "sentence_romaji": "Onryou o chousei suru koto de, kaiteki ni ongaku o tanoshimemasu",
     "sentence_english": "By adjusting the volume, you can enjoy music comfortably.",
     "key": "調整する_"
   },
   {
     "sentence_original": "計画を調整するために、会議を開くことにしました。",
-    "sentence_romaji": "Keikaku o chōsei suru tame ni, kaigi o hiraku koto ni shimashita",
+    "sentence_romaji": "Keikaku o chousei suru tame ni, kaigi o hiraku koto ni shimashita",
     "sentence_english": "We decided to hold a meeting to adjust the plan.",
     "key": "調整する_"
   },
   {
-    "sentence_original": "彼はいつも決断が遅いので、何事も中庸するとうわさされています。",
-    "sentence_romaji": "Kare wa itsumo ketsudan ga osoi node, nanigoto mo chuuyou suru to uwasa sareteimasu.",
+    "sentence_original": "彼はいつも決断が遅いので、何事も躊躇するとうわさされています。",
+    "sentence_romaji": "Kare wa itsumo ketsudan ga osoi node, nanigoto mo chuucho suru to uwasa sareteimasu.",
     "sentence_english": "He is always slow to make decisions, so he is rumored to be always hesitating about everything.",
     "key": "ちゅうちょする_"
   },
   {
-    "sentence_original": "彼女はあまりにも中庸して、チャンスを逃がしてしまった。",
-    "sentence_romaji": "Kanojo wa amari ni mo chuuyou shite, chansu o nogashite shimatta.",
+    "sentence_original": "彼女はあまりにも躊躇して、チャンスを逃がしてしまった。",
+    "sentence_romaji": "Kanojo wa amari ni mo chuucho shite, chansu o nogashite shimatta.",
     "sentence_english": "She hesitated too much and missed her chance.",
     "key": "ちゅうちょする_"
   },
   {
-    "sentence_original": "結婚のプロポーズに彼女が中庸するのは、きっと何か理由があるだろう。",
-    "sentence_romaji": "Kekkon no puropoozu ni kanojo ga chuuyou suru no wa, kitto nani ka riyuu ga aru darou.",
+    "sentence_original": "結婚のプロポーズに彼女が躊躇するのは、きっと何か理由があるだろう。",
+    "sentence_romaji": "Kekkon no puropoozu ni kanojo ga chuucho suru no wa, kitto nanika riyuu ga aru darou.",
     "sentence_english": "If she hesitates to accept his marriage proposal, there must be a reason.",
     "key": "ちゅうちょする_"
   },
   {
-    "sentence_original": "中庸せずに、あなたの夢を掴みましょう。",
-    "sentence_romaji": "Chuuyou sezu ni, anata no yume o tsukamimashou.",
+    "sentence_original": "躊躇せずに、あなたの夢を掴みましょう。",
+    "sentence_romaji": "Chuucho sezu ni, anata no yume o tsukamimashou.",
     "sentence_english": "Don't hesitate, and go for your dreams.",
     "key": "ちゅうちょする_"
   },
   {
-    "sentence_original": "彼女は彼に告白することを中庸しているが、もう時間がないことを気づいていない。",
-    "sentence_romaji": "Kanojo wa kare ni kokuhaku suru koto o chuuyou shiteiru ga, mou jikan ga nai koto o kizuiteinai.",
+    "sentence_original": "彼女は彼に告白することを躊躇しているが、もう時間がないことを気づいていない。",
+    "sentence_romaji": "Kanojo wa kare ni kokuhaku suru koto o chuucho shiteiru ga, mou jikan ga nai koto o kizuiteinai.",
     "sentence_english": "She is hesitating to confess her love to him, not realizing that there's not much time left.",
     "key": "ちゅうちょする_"
   },
@@ -691,67 +691,67 @@
   },
   {
     "sentence_original": "彼のスピーチには注目する価値がある。",
-    "sentence_romaji": "Kare no supīchi ni wa chūmoku suru kachi ga aru.",
+    "sentence_romaji": "Kare no supi-chi ni wa chumoku suru kachi ga aru.",
     "sentence_english": "His speech is worth paying attention to.",
     "key": "注目する_"
   },
   {
     "sentence_original": "最近の医学界では新しい治療法が注目されている。",
-    "sentence_romaji": "Saikin no igakukai de wa atarashii chiryouhou ga chūmoku sarete iru.",
+    "sentence_romaji": "Saikin no igakukai de wa atarashii chiryouhou ga chumoku sarete iru.",
     "sentence_english": "The recent medical world has been focusing on new treatment methods.",
     "key": "注目する_"
   },
   {
     "sentence_original": "そのデザイナーは若者たちから注目されている。",
-    "sentence_romaji": "Sono dezainā wa wakamono-tachi kara chūmoku sarete iru.",
+    "sentence_romaji": "Sono dezaina- wa wakamono-tachi kara chumoku sarete iru.",
     "sentence_english": "The designer is attracting attention from young people.",
     "key": "注目する_"
   },
   {
     "sentence_original": "注目すべきポイントは、この報告書の最後の部分にあります。",
-    "sentence_romaji": "Chūmoku subeki pointo wa, kono houkokusho no saigo no bubun ni arimasu.",
+    "sentence_romaji": "Chumoku subeki pointo wa, kono houkokusho no saigo no bubun ni arimasu.",
     "sentence_english": "The point worth noting is in the last part of this report.",
     "key": "注目する_"
   },
   {
     "sentence_original": "彼は注目すべき選手で、ファンが増えています。",
-    "sentence_romaji": "Kare wa chūmoku subeki senshu de, fan ga fueteimasu.",
+    "sentence_romaji": "Kare wa chumoku subeki senshu de, fan ga fuete imasu.",
     "sentence_english": "He is a notable player, and his fanbase is growing.",
     "key": "注目する_"
   },
   {
     "sentence_original": "注文する前に、メニューをよく見てください。",
-    "sentence_romaji": "Chūmon suru mae ni, menyū o yoku mite kudasai.",
+    "sentence_romaji": "Chuumon suru mae ni, menyu- o yoku mite kudasai.",
     "sentence_english": "Please look at the menu carefully before ordering.",
     "key": "注文する_"
   },
   {
     "sentence_original": "このアプリで簡単に注文することができます。",
-    "sentence_romaji": "Kono apuri de kantan ni chūmon suru koto ga dekimasu.",
+    "sentence_romaji": "Kono apuri de kantan ni chuumon suru koto ga dekimasu.",
     "sentence_english": "You can easily order using this app.",
     "key": "注文する_"
   },
   {
     "sentence_original": "私は彼にピザを注文するよう頼んだ。",
-    "sentence_romaji": "Watashi wa kare ni piza o chūmon suru yō tanonda.",
+    "sentence_romaji": "Watashi wa kare ni piza o chuumon suru you tanonda.",
     "sentence_english": "I asked him to order pizza.",
     "key": "注文する_"
   },
   {
     "sentence_original": "お客さんが多いので、注文するのに時間がかかります。",
-    "sentence_romaji": "O-kyakusan ga ōi node, chūmon suru noni jikan ga kakarimasu.",
+    "sentence_romaji": "O-kyakusan ga ooi node, chuumon suru no ni jikan ga kakarimasu.",
     "sentence_english": "Due to many customers, it takes time to order.",
     "key": "注文する_"
   },
   {
     "sentence_original": "注文した商品が届かなかったので、問い合わせました。",
-    "sentence_romaji": "Chūmon shita shōhin ga todokanakatta node, toiawasemashita.",
+    "sentence_romaji": "Chuumon shita shouhin ga todokanakatta node, toiawasemashita.",
     "sentence_english": "I inquired because the ordered product did not arrive.",
     "key": "注文する_"
   },
   {
     "sentence_original": "台風のため試合が中止されました。",
-    "sentence_romaji": "Taifuu no tame shiai ga chuushi sareました。",
+    "sentence_romaji": "Taifuu no tame shiai ga chuushi saremashita.",
     "sentence_english": "The game was cancelled due to the typhoon.",
     "key": "中止する_"
   },
@@ -763,7 +763,7 @@
   },
   {
     "sentence_original": "コンサートは急なスケジュールの変更で中止されました。",
-    "sentence_romaji": "Konsāto wa kyūna sukejūru no henkō de chuushi sareました。",
+    "sentence_romaji": "Konsaato wa kyuuna sukeju-ru no henko- de chuushi saremashita.",
     "sentence_english": "The concert was cancelled due to a sudden schedule change.",
     "key": "中止する_"
   },
@@ -775,37 +775,37 @@
   },
   {
     "sentence_original": "不運な事故が起こったため、イベントが中止されました。",
-    "sentence_romaji": "Fuun'na jiko ga okotta tame, ibento ga chuushi sareました。",
+    "sentence_romaji": "Fuun'na jiko ga okotta tame, ibento ga chuushi saremashita.",
     "sentence_english": "The event was cancelled due to an unfortunate accident.",
     "key": "中止する_"
   },
   {
     "sentence_original": "この音楽アプリで好きな曲をダウンロードすることができます。",
-    "sentence_romaji": "Kono ongaku apuri de sukina kyoku o daunrōdo suru koto ga dekimasu",
+    "sentence_romaji": "Kono ongaku apuri de sukina kyoku o daunro-do suru koto ga dekimasu",
     "sentence_english": "You can download your favorite songs using this music app.",
     "key": "ダウンロードする_"
   },
   {
     "sentence_original": "教材をダウンロードして、勉強を始めましょう。",
-    "sentence_romaji": "Kyōzai o daunrōdo shite, benkyō o hajimemashou",
+    "sentence_romaji": "Kyouzai o daunro-do shite, benkyou o hajimemashou",
     "sentence_english": "Let's download the materials and start studying.",
     "key": "ダウンロードする_"
   },
   {
     "sentence_original": "新しいアップデートが利用可能になったので、ダウンロードしてインストールしてください。",
-    "sentence_romaji": "Atarashī appudēto ga riyou kanou ni natta node, daunrōdo shite insutōru shite kudasai",
+    "sentence_romaji": "Atarashii appu-de-to ga riyou kanou ni natta node, daunro-do shite insuto-ru shite kudasai",
     "sentence_english": "A new update is available, so please download and install it.",
     "key": "ダウンロードする_"
   },
   {
     "sentence_original": "このウェブサイトから無料で電子書籍をダウンロードすることができます。",
-    "sentence_romaji": "Kono uebusaito kara muryō de denshi shoseki o daunrōdo suru koto ga dekimasu",
+    "sentence_romaji": "Kono uebusaito kara muryou de denshi shoseki o daunro-do suru koto ga dekimasu",
     "sentence_english": "You can download e-books for free from this website.",
     "key": "ダウンロードする_"
   },
   {
     "sentence_original": "ゲームをダウンロードする前に、ネットワーク環境を確認してください。",
-    "sentence_romaji": "Gēmu o daunrōdo suru mae ni, nettowāku kankyou o kakunin shite kudasai",
+    "sentence_romaji": "Ge-mu o daunro-do suru mae ni, nettowa-ku kankyou o kakunin shite kudasai",
     "sentence_english": "Please check your network environment before downloading the game.",
     "key": "ダウンロードする_"
   },
@@ -835,7 +835,7 @@
   },
   {
     "sentence_original": "理想的な解決策は見つからなかったが、何らかの妥協をして事態を収拾しなければならなかった。",
-    "sentence_romaji": "Risaiteki na kaiketsu-ka wa mitsukaranakatta ga, nanraka no dakyou o shite jitai o shuushuu shinakereba naranakatta.",
+    "sentence_romaji": "Risouteki na kaiketsu-saku wa mitsukaranakatta ga, nanraka no dakyou o shite jitai o shuushuu shinakereba naranakatta.",
     "sentence_english": "Although we couldn't find an ideal solution, we had to compromise and settle the situation somehow.",
     "key": "妥協する_"
   },
@@ -906,8 +906,8 @@
     "key": "独立する_"
   },
   {
-    "sentence_original": "資金が必要な私たち独立するために。",
-    "sentence_romaji": "Shikin ga hitsuyou na watashitachi dokuritsu suru tame ni",
+    "sentence_original": "独立するためには資金が必要だ。",
+    "sentence_romaji": "Dokuritsu suru tame ni wa shikin ga hitsuyou da.",
     "sentence_english": "We need funds in order to become independent.",
     "key": "独立する_"
   },
@@ -1195,7 +1195,7 @@
   },
   {
     "sentence_original": "その政治家は、経済的に苦しい市民を援助する法案を提案した。",
-    "sentence_romaji": "Sono seijika wa, keizaiteki ni kurushii shimin o enjo suru houshin o teian shita.",
+    "sentence_romaji": "Sono seijika wa, keizaiteki ni kurushii shimin o enjo suru houan o teian shita.",
     "sentence_english": "The politician proposed a bill to help economically struggling citizens.",
     "key": "援助する_"
   },
@@ -1242,8 +1242,8 @@
     "key": "遠慮する_"
   },
   {
-    "sentence_original": "お客様のために、タバコを吸わないで遠慮してください。",
-    "sentence_romaji": "Okyakusama no tame ni, tabako o suwanaide enryo shite kudasai",
+    "sentence_original": "お客様のために、タバコはご遠慮ください。",
+    "sentence_romaji": "Okyakusama no tame ni, tabako wa go-enryo kudasai",
     "sentence_english": "Please refrain from smoking for the sake of the guests.",
     "key": "遠慮する_"
   },
@@ -1920,32 +1920,32 @@
     "key": "反映する_"
   },
   {
-    "sentence_original": "企業が繫栄するためには、柔軟性と革新が重要である。",
-    "sentence_romaji": "Kigyou ga keiei suru tame ni wa, juunansei to kakushin ga juuyou de aru.",
+    "sentence_original": "企業が繁栄するためには、柔軟性と革新が重要である。",
+    "sentence_romaji": "Kigyou ga han'ei suru tame ni wa, juunansei to kakushin ga juuyou de aru.",
     "sentence_english": "Flexibility and innovation are important for a company to thrive.",
     "key": "繫栄する_"
   },
   {
-    "sentence_original": "繫栄する国家には、強力な指導者がいることが一般的だ。",
-    "sentence_romaji": "Keiei suru kokka ni wa, kyouryoku na shidousha ga iru koto ga ippan-teki da.",
+    "sentence_original": "繁栄する国家には、強力な指導者がいることが一般的だ。",
+    "sentence_romaji": "Han'ei suru kokka ni wa, kyouryoku na shidousha ga iru koto ga ippanteki da.",
     "sentence_english": "It is common for thriving nations to have strong leaders.",
     "key": "繫栄する_"
   },
   {
-    "sentence_original": "健康なライフスタイルを続けることで、私達のコミュニティも繫栄するでしょう。",
-    "sentence_romaji": "Kenkou na raifusutairu o tsudzukeru koto de, watashitachi no komyuniti mo keiei suru deshou.",
+    "sentence_original": "健康なライフスタイルを続けることで、私達のコミュニティも繁栄するでしょう。",
+    "sentence_romaji": "Kenkou na raifusutairu o tsudzukeru koto de, watashitachi no komyuniti mo han'ei suru deshou.",
     "sentence_english": "By maintaining a healthy lifestyle, our community will also thrive.",
     "key": "繫栄する_"
   },
   {
-    "sentence_original": "彼女は繫栄する事業のリーダーとして尊敬されている。",
-    "sentence_romaji": "Kanojo wa keiei suru jigyou no riida toshite sonkei sarete iru.",
+    "sentence_original": "彼女は繁栄する事業のリーダーとして尊敬されている。",
+    "sentence_romaji": "Kanojo wa han'ei suru jigyou no riida toshite sonkei sarete iru.",
     "sentence_english": "She is respected as the leader of a thriving business.",
     "key": "繫栄する_"
   },
   {
-    "sentence_original": "繫栄する教育機関は、質の高い教育と研究活動を提供することが大切だ。",
-    "sentence_romaji": "Keiei suru kyouiku kikan wa, shitsu no takai kyouiku to kenkyuu katsudou o teikyou suru koto ga taisetsu da.",
+    "sentence_original": "繁栄する教育機関は、質の高い教育と研究活動を提供することが大切だ。",
+    "sentence_romaji": "Han'ei suru kyouiku kikan wa, shitsu no takai kyouiku to kenkyuu katsudou o teikyou suru koto ga taisetsu da.",
     "sentence_english": "It is important for thriving educational institutions to provide high-quality education and research activities.",
     "key": "繫栄する_"
   },
@@ -1974,7 +1974,7 @@
     "key": "判断する_"
   },
   {
-    "sentence_original": "Kanji:そのデータをもとに、私たちは最善の行動を判断する必要があります。",
+    "sentence_original": "そのデータをもとに、私たちは最善の行動を判断する必要があります。",
     "sentence_romaji": "Sono dēta o moto ni, watashitachi wa saizen no koudou o handan suru hitsuyou ga arimasu.",
     "sentence_english": "Based on that data, we need to determine the best course of action.",
     "key": "判断する_"
@@ -2130,32 +2130,32 @@
     "key": "発展する_"
   },
   {
-    "sentence_original": "その試験では平均する点数が70点です。",
-    "sentence_romaji": "Sono shiken de wa heikin suru tensuu ga nanajuu ten desu",
+    "sentence_original": "その試験では、平均すると点数は70点になります。",
+    "sentence_romaji": "Sono shiken de wa, heikin suru to tensuu wa nanajuu ten ni narimasu",
     "sentence_english": "The average score for that exam is 70 points.",
     "key": "平均する_"
   },
   {
-    "sentence_original": "この地域では、気温は年間を通して20度に平均する。",
-    "sentence_romaji": "Kono chiiki de wa, kion wa nenkan o tooshite nijuu do ni heikin suru",
+    "sentence_original": "この地域では、気温は年間を通して平均すると20度になります。",
+    "sentence_romaji": "Kono chiiki de wa, kion wa nenkan o tooshite heikin suru to nijuu do ni narimasu",
     "sentence_english": "In this area, the temperature averages 20 degrees throughout the year.",
     "key": "平均する_"
   },
   {
-    "sentence_original": "日本の世帯年収は約500万円に平均する。",
-    "sentence_romaji": "Nihon no setai nenshuu wa yaku gohyaku man en ni heikin suru",
+    "sentence_original": "日本の世帯年収は約500万円に平均しています。",
+    "sentence_romaji": "Nihon no setai nenshuu wa yaku gohyaku man en ni heikin shite imasu",
     "sentence_english": "The average annual household income in Japan is around 5 million yen.",
     "key": "平均する_"
   },
   {
-    "sentence_original": "私の通勤時間は、だいたい45分に平均する。",
-    "sentence_romaji": "Watashi no tsuukin jikan wa, daitai yonjuu go fun ni heikin suru",
+    "sentence_original": "私の通勤時間は、だいたい45分に平均しています。",
+    "sentence_romaji": "Watashi no tsuukin jikan wa, daitai yonjuu go fun ni heikin shite imasu",
     "sentence_english": "My average commuting time is about 45 minutes.",
     "key": "平均する_"
   },
   {
-    "sentence_original": "参加者の年齢はおおよそ30歳に平均する。",
-    "sentence_romaji": "Sankasha no nenrei wa ooyoso sanjuu sai ni heikin suru",
+    "sentence_original": "参加者の年齢はおおよそ30歳に平均しています。",
+    "sentence_romaji": "Sankasha no nenrei wa ooyoso sanjuu sai ni heikin shite imasu",
     "sentence_english": "The average age of the participants is around 30 years old.",
     "key": "平均する_"
   },
@@ -2598,8 +2598,8 @@
     "key": "一致する_"
   },
   {
-    "sentence_original": "二つの証言は一致しなかったため、疑い深まった。",
-    "sentence_romaji": "Futatsu no shougen wa icchi shinakatta tame, utagai fukamatta.",
+    "sentence_original": "二つの証言は一致しなかったため、疑いが深まった。",
+    "sentence_romaji": "Futatsu no shougen wa icchi shinakatta tame, utagai ga fukamatta.",
     "sentence_english": "The two testimonies did not match, raising further suspicion.",
     "key": "一致する_"
   },
@@ -2725,7 +2725,7 @@
   },
   {
     "sentence_original": "このプロジェクトを実行するための資金が必要です。",
-    "sentence_romaji": "Kono purojekuto o jikkou suru tame no shikin ga hitsuyoudesu.",
+    "sentence_romaji": "Kono purojekuto o jikkou suru tame no shikin ga hitsuyou desu.",
     "sentence_english": "We need funds to carry out this project.",
     "key": "実行する_"
   },
@@ -2785,7 +2785,7 @@
   },
   {
     "sentence_original": "子供たちに自立する力を身につけさせることが親の責任だ。",
-    "sentence_romaji": "Kodomo-tachi ni jiritsu suru chikara o mi ni tsukesareru koto ga oya no sekinin da.",
+    "sentence_romaji": "Kodomo-tachi ni jiritsu suru chikara o mi ni tsukesa**seru** koto ga oya no sekinin da.",
     "sentence_english": "It is the responsibility of parents to equip their children with the ability to become independent.",
     "key": "自立する_"
   },
@@ -2952,14 +2952,14 @@
     "key": "上昇する_"
   },
   {
-    "sentence_original": "自分の能力を上昇させるために努力しています。",
-    "sentence_romaji": "Jibun no nouryoku o joushou saseru tame ni doryoku shiteimasu.",
+    "sentence_original": "自分の能力を向上させるために努力しています。",
+    "sentence_romaji": "Jibun no nouryoku o koujou saseru tame ni doryoku shiteimasu.",
     "sentence_english": "I am working hard to improve my abilities.",
     "key": "上昇する_"
   },
   {
-    "sentence_original": "成功するためには、常に自己のスキルを上昇させ続けることが重要です。",
-    "sentence_romaji": "Seikou suru tame niwa, tsune ni jiko no sukiru o joushou sase tsuzukeru koto ga juuyou desu.",
+    "sentence_original": "成功するためには、常に自分のスキルを向上させ続けることが重要です。",
+    "sentence_romaji": "Seikou suru tame niwa, tsune ni jibun no sukiru o koujou sase tsuzukeru koto ga juuyou desu.",
     "sentence_english": "To succeed, it is important to continually raise your own skills.",
     "key": "上昇する_"
   },
@@ -3002,7 +3002,7 @@
   {
     "sentence_original": "病気が回復するのに時間がかかりました。",
     "sentence_romaji": "Byouki ga kaifuku suru noni jikan ga kakarimashita.",
-    "sentence_english": "It took time for the illness to recover.",
+    "sentence_english": "It took time to recover from the illness.",
     "key": "回復する_"
   },
   {
@@ -3049,7 +3049,7 @@
   },
   {
     "sentence_original": "彼は人工知能を開発するために努力している。",
-    "sentence_romaji": "Kare wa jinkou chino wo kaihatsu suru tame ni doryoku shite iru",
+    "sentence_romaji": "Kare wa jinkou chinou o kaihatsu suru tame ni doryoku shite iru",
     "sentence_english": "He is working hard to develop artificial intelligence.",
     "key": "開発する_"
   },
@@ -3301,31 +3301,31 @@
   },
   {
     "sentence_original": "株価が下降している。",
-    "sentence_romaji": "Kabuka ga koukou shiteiru.",
+    "sentence_romaji": "Kabuka ga kakou shiteiru.",
     "sentence_english": "The stock price is falling.",
     "key": "下降する_"
   },
   {
     "sentence_original": "温度が急速に下降している。",
-    "sentence_romaji": "Ondo ga kyuusoku ni koukou shiteiru.",
+    "sentence_romaji": "Ondo ga kyuusoku ni kakou shiteiru.",
     "sentence_english": "The temperature is dropping rapidly.",
     "key": "下降する_"
   },
   {
     "sentence_original": "経済成長率が下降する兆候が見られる。",
-    "sentence_romaji": "Keizai seichouritsu ga koukou suru choukou ga mirareru.",
+    "sentence_romaji": "Keizai seichouritsu ga kakou suru choukou ga mirareru.",
     "sentence_english": "Signs of a decline in economic growth rate can be seen.",
     "key": "下降する_"
   },
   {
     "sentence_original": "年金支給額が下降する可能性がある。",
-    "sentence_romaji": "Nenkin shikyuugaku ga koukou suru kanousei ga aru.",
+    "sentence_romaji": "Nenkin shikyuugaku ga kakou suru kanousei ga aru.",
     "sentence_english": "There is a possibility that pension payments will decrease.",
     "key": "下降する_"
   },
   {
     "sentence_original": "出生率が次第に下降している。",
-    "sentence_romaji": "Shusseiritsu ga shidai ni koukou shiteiru.",
+    "sentence_romaji": "Shusseiritsu ga shidai ni kakou shiteiru.",
     "sentence_english": "The birth rate is gradually declining.",
     "key": "下降する_"
   },
@@ -3367,7 +3367,7 @@
   },
   {
     "sentence_original": "インターネットの利用は年々拡大しています。",
-    "sentence_romaji": "Inta-netto no riyou wa nenkan kakudai shiteimasu",
+    "sentence_romaji": "Inta-netto no riyou wa nen nen kakudai shiteimasu",
     "sentence_english": "Internet usage is expanding year by year.",
     "key": "拡大する_"
   },
@@ -3470,7 +3470,7 @@
   {
     "sentence_original": "自分の時間を上手く管理して効率的に仕事をこなすことが大切だ。",
     "sentence_romaji": "Jibun no jikan o umaku kanri shite kouritsuteki ni shigoto o konasu koto ga taisetsu da.",
-    "sentence_english": "It is important to efficiently manage your own time and complete work efficiently.",
+    "sentence_english": "It is important to manage your own time effectively and complete your tasks efficiently.",
     "key": "管理する_"
   },
   {
@@ -3494,7 +3494,7 @@
   {
     "sentence_original": "先生は子どもたちの様子を観察するのが上手だ。",
     "sentence_romaji": "Sensei wa kodomo-tachi no yousu o kansatsu suru no ga jouzu da.",
-    "sentence_english": "The teacher is good at observing the children's condition.",
+    "sentence_english": "The teacher is good at observing the children's behavior.",
     "key": "観察する_"
   },
   {
@@ -3756,21 +3756,21 @@
     "key": "経過する_"
   },
   {
-    "sentence_original": "その問題は解決に向けて経過しなければならない。",
-    "sentence_romaji": "Sono mondai wa kaiketsu ni mukete keikasuruma rebanaranai.",
-    "sentence_english": "The issue must progress towards a resolution.",
+    "sentence_original": "その問題は解決に向けて、いくつかの段階を経過しなければならない。",
+    "sentence_romaji": "Sono mondai wa kaiketsu ni mukete, ikutsuka no dankai o keika shinakereba naranai.",
+    "sentence_english": "That issue has to go through several stages before being resolved.",
     "key": "経過する_"
   },
   {
-    "sentence_original": "1年間の治療を経過すると、彼女は完全に回復しました。",
-    "sentence_romaji": "Ichi nenkan no chiryou o keikasuru to, kanojo wa kanzen ni kaifuku shimashita.",
-    "sentence_english": "After undergoing one year of treatment, she fully recovered.",
+    "sentence_original": "1年間の治療期間が経過すると、彼女は完全に回復しました。",
+    "sentence_romaji": "Ichi nenkan no chiryou kikan ga keika suru to, kanojo wa kanzen ni kaifuku shimashita.",
+    "sentence_english": "After a year of treatment, she fully recovered.",
     "key": "経過する_"
   },
   {
-    "sentence_original": "過去の経験から学んで、経過することが大切です。",
-    "sentence_romaji": "Kako no keiken kara manande, keikasuru koto ga taisetsu desu.",
-    "sentence_english": "It is important to learn from past experiences and move on.",
+    "sentence_original": "過去の経験から学び、時の経過とともに前に進むことが大切です。",
+    "sentence_romaji": "Kako no keiken kara manabi, toki no keika to tomo ni mae ni susumu koto ga taisetsu desu.",
+    "sentence_english": "It is important to learn from past experiences and move forward as time passes.",
     "key": "経過する_"
   },
   {
@@ -3930,14 +3930,14 @@
     "key": "結婚する_"
   },
   {
-    "sentence_original": "休日に友達と花見に行って見物しました。",
-    "sentence_romaji": "Kyuujitsu ni tomodachi to hanami ni itte kenbutsu shimashita",
-    "sentence_english": "On a holiday, I went to see cherry blossoms with my friends.",
+    "sentence_original": "休日に友達と花見に行き、桜を見物しました。",
+    "sentence_romaji": "Kyuujitsu ni tomodachi to hanami ni iki, sakura o kenbutsu shimashita",
+    "sentence_english": "On a holiday, I went cherry-blossom viewing with my friends and looked at the blossoms.",
     "key": "見物する_"
   },
   {
-    "sentence_original": "夏になると、浴衣を着て祭りに見物しに行きます。",
-    "sentence_romaji": "Natsu ni naru to, yukata wo kite matsuri ni kenbutsu shi ni ikimasu",
+    "sentence_original": "夏になると、浴衣を着て祭りを見物しに行きます。",
+    "sentence_romaji": "Natsu ni naru to, yukata o kite matsuri o kenbutsu shi ni ikimasu",
     "sentence_english": "In summer, I wear a yukata and go to see the festivals.",
     "key": "見物する_"
   },
@@ -3954,9 +3954,9 @@
     "key": "見物する_"
   },
   {
-    "sentence_original": "親戚が観光地に案内してくれて、その地域の名物を見物しました。",
-    "sentence_romaji": "Shinseki ga kankouchi ni annai shite kurete, sono chiiki no meibutsu wo kenbutsu shimashita",
-    "sentence_english": "My relatives took me to a tourist spot, and I saw the local attractions there.",
+    "sentence_original": "親戚が観光地に案内してくれて、その地域の名所を見物しました。",
+    "sentence_romaji": "Shinseki ga kankouchi ni annai shite kurete, sono chiiki no meisho wo kenbutsu shimashita",
+    "sentence_english": "My relatives took me to a tourist spot, and I saw the local famous spots there.",
     "key": "見物する_"
   },
   {
@@ -4020,9 +4020,9 @@
     "key": "研究する_"
   },
   {
-    "sentence_original": "社員が新入社員として、一週間の研修を受けます。",
-    "sentence_romaji": "Shain ga shinnyuu shain toshite, isshuukan no kenshuu o ukemasu.",
-    "sentence_english": "As a new employee, staff will receive a one-week training.",
+    "sentence_original": "新入社員は一週間の研修を受けます。",
+    "sentence_romaji": "Shinnyuu shain wa isshuukan no kenshuu o ukemasu.",
+    "sentence_english": "As new employees, they receive a one-week training.",
     "key": "研修する_"
   },
   {
@@ -4579,7 +4579,7 @@
   },
   {
     "sentence_original": "母が手作りの料理レシピをコピーして、私に渡しました。",
-    "sentence_romaji": "Haha ga temizu no ryouri reshipi o kopii shite, watashi ni watashimashita.",
+    "sentence_romaji": "Haha ga tezukuri no ryouri reshipi o kopii shite, watashi ni watashimashita.",
     "sentence_english": "My mother made a copy of her homemade recipe and gave it to me.",
     "key": "コピーする_"
   },
@@ -4682,7 +4682,7 @@
   {
     "sentence_original": "複雑な問題に対して交渉することが必要です。",
     "sentence_romaji": "Fukuzatsu na mondai ni tai shite koushou suru koto ga hitsuyou desu.",
-    "sentence_english": "It is necessary to negotiate with complex issues.",
+    "sentence_english": "It is necessary to negotiate on complex issues.",
     "key": "交渉する_"
   },
   {
@@ -4933,13 +4933,13 @@
   },
   {
     "sentence_original": "彼は私に彼のパーティーに出席することを強制した。",
-    "sentence_romaji": "Kare wa watashi ni kare no paatii ni shutsujoku suru koto o kyousei shita.",
+    "sentence_romaji": "Kare wa watashi ni kare no paatii ni shusseki suru koto o kyousei shita.",
     "sentence_english": "He forced me to attend his party.",
     "key": "強制する_"
   },
   {
     "sentence_original": "もし連絡先を強制されたら、警察に通報してください。",
-    "sentence_romaji": "Moshi renrakukan o kyousei sare tara, keisatsu ni tsuuhou shite kudasai.",
+    "sentence_romaji": "Moshi renrakusaki o kyousei saretara, keisatsu ni tsuuhou shite kudasai.",
     "sentence_english": "If you are forced to give out your contact information, please report it to the police.",
     "key": "強制する_"
   },
@@ -5065,7 +5065,7 @@
   },
   {
     "sentence_original": "企業は競合他社を吸収することで業界のリーダーになった。",
-    "sentence_romaji": "Kigyou wa kyougou taisha o kyuushuu suru koto de gyokai no riidaa ni natta",
+    "sentence_romaji": "Kigyou wa kyougou tasha o kyuushuu suru koto de gyoukai no riidaa ni natta",
     "sentence_english": "The company became an industry leader by absorbing its competitors.",
     "key": "吸収する_"
   },
@@ -5100,15 +5100,15 @@
     "key": "メールする_"
   },
   {
-    "sentence_original": "彼の遅刻は私たち全員に迷惑する。",
-    "sentence_romaji": "Kare no chikoku wa watashitachi zen'in ni meiwaku suru.",
-    "sentence_english": "His lateness causes inconvenience to all of us.",
+    "sentence_original": "彼の遅刻には、私たち全員が迷惑している。",
+    "sentence_romaji": "Kare no chikoku ni wa, watashitachi zen'in ga meiwaku shite iru.",
+    "sentence_english": "All of us are inconvenienced by his lateness.",
     "key": "迷惑する_"
   },
   {
-    "sentence_original": "その工事は近所の人々に迷惑する。",
-    "sentence_romaji": "Sono kouji wa kinjo no hitobito ni meiwaku suru.",
-    "sentence_english": "The construction causes trouble for the people in the neighborhood.",
+    "sentence_original": "その工事で近所の人々が迷惑している。",
+    "sentence_romaji": "Sono kouji de kinjo no hitobito ga meiwaku shite iru.",
+    "sentence_english": "The people in the neighborhood are troubled by the construction.",
     "key": "迷惑する_"
   },
   {
@@ -5118,15 +5118,15 @@
     "key": "迷惑する_"
   },
   {
-    "sentence_original": "彼女はいつも騒音を出して近くの人々に迷惑する。",
-    "sentence_romaji": "Kanojo wa itsumo souon o dashite chikaku no hitobito ni meiwaku suru.",
-    "sentence_english": "She always makes loud noise and disturbs the people nearby.",
+    "sentence_original": "彼女はいつも騒音を出していて、近くの人々が迷惑している。",
+    "sentence_romaji": "Kanojo wa itsumo souon o dashite ite, chikaku no hitobito ga meiwaku shite iru.",
+    "sentence_english": "She always makes loud noise, and the people nearby are annoyed.",
     "key": "迷惑する_"
   },
   {
-    "sentence_original": "予期せぬ問題が発生し、プロジェクトチームに迷惑することになった。",
-    "sentence_romaji": "Yoki senu mondai ga hassei shi, purojekuto chiimu ni meiwaku suru koto ni natta.",
-    "sentence_english": "An unexpected problem occurred, causing trouble for the project team.",
+    "sentence_original": "予期せぬ問題が発生し、プロジェクトチームが迷惑することになった。",
+    "sentence_romaji": "Yoki senu mondai ga hassei shi, purojekuto chiimu ga meiwaku suru koto ni natta.",
+    "sentence_english": "An unexpected problem arose, causing trouble for the project team.",
     "key": "迷惑する_"
   },
   {
@@ -5647,7 +5647,7 @@
   },
   {
     "sentence_original": "英語の発音を練習するためにリスニングに努めました。",
-    "sentence_romaji": "Eigo no hatsuon o renshuu suru tame ni risuningu ni tsutometamashita",
+    "sentence_romaji": "Eigo no hatsuon o renshuu suru tame ni risuningu ni tsutomemashita",
     "sentence_english": "I worked hard on listening to practice English pronunciation.",
     "key": "練習する_"
   },
@@ -5743,7 +5743,7 @@
   },
   {
     "sentence_original": "頻繁な口論の後、二人は離婚することになった。",
-    "sentence_romaji": "Hinfan na kouron no ato, futari wa rikon suru koto ni natta.",
+    "sentence_romaji": "Hinpan na kouron no ato, futari wa rikon suru koto ni natta.",
     "sentence_english": "After frequent arguments, the two decided to get a divorce.",
     "key": "離婚する_"
   },
@@ -5755,7 +5755,7 @@
   },
   {
     "sentence_original": "彼女は離婚する決心をした後、新しい人生を始めることを楽しみにしていた。",
-    "sentence_romaji": "Kanojo wa rikon suru kesshin o shita ato, atarashii jinsei o hajimeru koto o tanoshimi ni shiteitai.",
+    "sentence_romaji": "Kanojo wa rikon suru kesshin o shita ato, atarashii jinsei o hajimeru koto o tanoshimi ni shite ita.",
     "sentence_english": "After deciding to get a divorce, she looked forward to starting a new life.",
     "key": "離婚する_"
   },
@@ -5809,13 +5809,13 @@
   },
   {
     "sentence_original": "無料Wi-Fiの使い方: 正しいネットワークに接続し、パスワードを入力してロックを解除する。",
-    "sentence_romaji": "Muryou Wi-Fi no tsukai kata: Tadashii nettowaaku ni setsuzoku shi, pasuwādo o nyuuryoku shite rokku o kaijo suru.",
+    "sentence_romaji": "Muryou Wi-Fi no tsukai kata: Tadashii nettowaaku ni setsuzoku shi, pasuwaado o nyuuryoku shite rokku o kaijo suru.",
     "sentence_english": "How to use free Wi-Fi: Connect to the correct network and enter the password to unlock it.",
     "key": "ロックする_"
   },
   {
     "sentence_original": "コンピューターのセキュリティを高めるために、画面を数分間操作しない場合は自動的にロックされるよう設定してください。",
-    "sentence_romaji": "Konpyūtā no sekyuriti o takameru tame ni, gamen o suu-funkan sosa shinai baai wa jidou-teki ni rokku sareru you settei shite kudasai.",
+    "sentence_romaji": "Konpyuuta no sekyuriti o takameru tame ni, gamen o suu-funkan sosa shinai baai wa jidou-teki ni rokku sareru you settei shite kudasai.",
     "sentence_english": "To enhance computer security, please set it to automatically lock if the screen is not operated for several minutes.",
     "key": "ロックする_"
   },
@@ -5976,27 +5976,27 @@
     "key": "裁判する_"
   },
   {
-    "sentence_original": "彼女は会社を裁判することを決意した。",
-    "sentence_romaji": "Kanojo wa kaisha o saiban suru koto o ketsui shita",
-    "sentence_english": "She decided to sue the company.",
+    "sentence_original": "彼女は会社と裁判することを決意した。",
+    "sentence_romaji": "Kanojo wa kaisha to saiban suru koto o ketsui shita",
+    "sentence_english": "She decided to take the company to court.",
     "key": "裁判する_"
   },
   {
-    "sentence_original": "裁判で無罪が証明されるまで、彼は無実の人だと裁判されるべきだ。",
-    "sentence_romaji": "Saiban de muzai ga shoumei sareru made, kare wa mujitsu no hito da to saiban sareru beki da",
+    "sentence_original": "裁判で無罪が証明されるまで、彼は無実の人だとみなされるべきだ。",
+    "sentence_romaji": "Saiban de muzai ga shoumei sareru made, kare wa mujitsu no hito da to minasareru beki da",
     "sentence_english": "He should be presumed innocent until proven guilty in court.",
     "key": "裁判する_"
   },
   {
-    "sentence_original": "もし私がその状況で裁判する立場に立たされたら、公平な判断を心掛けるだろう。",
-    "sentence_romaji": "Moshi watashi ga sono jyoukyou de saiban suru tachiba ni tataseretara, kouhei na handan wo kokorogakeru darou",
-    "sentence_english": "If I were put in the position to judge in that situation, I would strive to make a fair decision.",
+    "sentence_original": "もし私がその状況で裁判を行う立場になったら、公平な判断を心掛けるだろう。",
+    "sentence_romaji": "Moshi watashi ga sono joukyou de saiban o okonau tachiba ni nattara, kouhei na handan o kokorogakeru darou",
+    "sentence_english": "If I were put in the position to hold a trial in that situation, I would strive to make a fair decision.",
     "key": "裁判する_"
   },
   {
-    "sentence_original": "あなたは自分の行為について裁判されるべきです。",
-    "sentence_romaji": "Anata wa jibun no koui ni tsuite saiban sareru beki desu",
-    "sentence_english": "You should be judged for your actions.",
+    "sentence_original": "あなたは自分の行為について裁判を受けるべきです。",
+    "sentence_romaji": "Anata wa jibun no koui ni tsuite saiban o ukeru beki desu",
+    "sentence_english": "You should stand trial for your actions.",
     "key": "裁判する_"
   },
   {
@@ -6025,7 +6025,7 @@
   },
   {
     "sentence_original": "会議で皆の意見を聞いた上で、最適な方針を採用することが大切です。",
-    "sentence_romaji": "Kaigi de mina no iken o kiita ue de, saiteki na houhin o saiyou suru koto ga taisetsu desu.",
+    "sentence_romaji": "Kaigi de mina no iken o kiita ue de, saiteki na houshin o saiyou suru koto ga taisetsu desu.",
     "sentence_english": "It is important to adopt the best policy after listening to everyone's opinions at the meeting.",
     "key": "採用する_"
   },
@@ -6138,9 +6138,9 @@
     "key": "生活する_"
   },
   {
-    "sentence_original": "彼は環境にやさしいエコロジー生活をすることを決めた。",
-    "sentence_romaji": "Kare wa kankyou ni yasashii ekorojii seikatsu o suru koto o kimeta",
-    "sentence_english": "He decided to lead an eco-friendly lifestyle that is gentle to the environment.",
+    "sentence_original": "彼は環境にやさしいエコな生活をすることを決めた。",
+    "sentence_romaji": "Kare wa kankyou ni yasashii eko na seikatsu o suru koto o kimeta",
+    "sentence_english": "He decided to lead an eco-friendly lifestyle.",
     "key": "生活する_"
   },
   {
@@ -6235,7 +6235,7 @@
   },
   {
     "sentence_original": "その大学では最近、環境科学が人気の専攻分野になっています。",
-    "sentence_romaji": "Sono daigaku de wa saikin, kankyō kagaku ga ninki no senkou bunya ni natte imasu",
+    "sentence_romaji": "Sono daigaku de wa saikin, kankyou kagaku ga ninki no senkou bunya ni natte imasu",
     "sentence_english": "Recently, environmental science has become a popular major at that university.",
     "key": "専攻する_"
   },
@@ -6313,7 +6313,7 @@
   },
   {
     "sentence_original": "ディナーのメニューから料理を選択してください。",
-    "sentence_romaji": "Dinā no menyū kara ryōri o sentaku shite kudasai.",
+    "sentence_romaji": "Dina no menyu kara ryouri o sentaku shite kudasai.",
     "sentence_english": "Please choose a dish from the dinner menu.",
     "key": "選択する_"
   },
@@ -6355,7 +6355,7 @@
   },
   {
     "sentence_original": "洗濯後は、洗濯物を風通しの良いところに干して乾かす。",
-    "sentence_romaji": "Sentaku go wa, sentakumono o kaze tooshi no yoi tokoro ni hoshite kawakasu",
+    "sentence_romaji": "Sentaku go wa, sentakumono o kazetoushi no yoi tokoro ni hoshite kawakasu",
     "sentence_english": "After doing laundry, hang the laundry in a well-ventilated place to dry.",
     "key": "洗濯する_"
   },
@@ -6474,8 +6474,8 @@
     "key": "説得する_"
   },
   {
-    "sentence_original": "彼に無理を言わせないように、説得することができました。",
-    "sentence_romaji": "Kare ni muri o iwase nai you ni, settoku suru koto ga dekimashita.",
+    "sentence_original": "彼に無理をさせないように、説得することができました。",
+    "sentence_romaji": "Kare ni muri o sasenai you ni, settoku suru koto ga dekimashita.",
     "sentence_english": "I was able to persuade him so that he wouldn't push himself too hard.",
     "key": "説得する_"
   },
@@ -6529,7 +6529,7 @@
   },
   {
     "sentence_original": "音楽教師が生徒に楽器の演奏方法を指導している。",
-    "sentence_romaji": "Ongaku kyoushi ga seito ni gakki no enso hoou o shidou shite iru",
+    "sentence_romaji": "Ongaku kyoushi ga seito ni gakki no ensou houhou o shidou shite iru",
     "sentence_english": "The music teacher is instructing the students on how to play instruments.",
     "key": "指導する_"
   },
@@ -6709,7 +6709,7 @@
   },
   {
     "sentence_original": "経済は戦後急速に進歩した。",
-    "sentence_romaji": "Keizai wa sengo kyuu sokuni shinpo shita",
+    "sentence_romaji": "Keizai wa sengo kyuusoku ni shinpo shita",
     "sentence_english": "The economy advanced rapidly after the war.",
     "key": "進歩する_"
   },
@@ -6739,13 +6739,13 @@
   },
   {
     "sentence_original": "敵国が侵略し始める前に、私たちの国は対策を講じなければならない。",
-    "sentence_romaji": "Tekikoku ga shinryaku shihajimeru mae ni, watashi-tachi no kuni wa taisaku o koujinakereba naranai.",
+    "sentence_romaji": "Tekikoku ga shinryaku shi-hajimeru mae ni, watashitachi no kuni wa taisaku o koujinakereba naranai.",
     "sentence_english": "Before the hostile country begins to invade, our country must take measures.",
     "key": "侵略する_"
   },
   {
     "sentence_original": "世界史は数々の侵略者たちが国土を侵略する物語でもある。",
-    "sentence_romaji": "Sekaishi wa kazu kazu no shinryakusha-tachi ga kokudo o shinryaku suru monogatari demo aru.",
+    "sentence_romaji": "Sekaishi wa kazukazu no shinryakusha-tachi ga kokudo o shinryaku suru monogatari demo aru.",
     "sentence_english": "World history is also a story of numerous invaders invading territories.",
     "key": "侵略する_"
   },
@@ -6787,7 +6787,7 @@
   },
   {
     "sentence_original": "この情報源は信用するに値しますか？",
-    "sentence_romaji": "Kono jōhōgen wa shinyou suru ni ataimasu ka?",
+    "sentence_romaji": "Kono jouhougen wa shinyou suru ni ataimasu ka?",
     "sentence_english": "Is this source worth trusting?",
     "key": "信用する_"
   },
@@ -6804,8 +6804,8 @@
     "key": "信用する_"
   },
   {
-    "sentence_original": "みんなが彼に信用するのは理解できる。",
-    "sentence_romaji": "Minna ga kare ni shinyou suru no wa rikai dekiru",
+    "sentence_original": "みんなが彼を信用するのは理解できる。",
+    "sentence_romaji": "Minna ga kare o shinyou suru no wa rikai dekiru",
     "sentence_english": "I can understand why everyone trusts him.",
     "key": "信用する_"
   },
@@ -6842,7 +6842,7 @@
   {
     "sentence_original": "生活費を支出するために働いています。",
     "sentence_romaji": "Seikatsuhi o shishutsu suru tame ni hataraiteimasu.",
-    "sentence_english": "I am working to spend money on living expenses.",
+    "sentence_english": "I am working to pay for my living expenses.",
     "key": "支出する_"
   },
   {
@@ -6984,9 +6984,9 @@
     "key": "食事する_"
   },
   {
-    "sentence_original": "外国で新しい料理を食事することは、文化に触れる刺激的な経験だ。",
-    "sentence_romaji": "Gaikoku de atarashii ryouri o shokuji suru koto wa, bunka ni fureru shigekiteki na keiken da",
-    "sentence_english": "Eating new dishes in a foreign country is an exciting experience that allows you to connect with the culture.",
+    "sentence_original": "外国で新しい料理で食事をすることは、文化に触れる刺激的な経験だ。",
+    "sentence_romaji": "Gaikoku de atarashii ryouri de shokuji suru koto wa, bunka ni fureru shigekiteki na keiken da",
+    "sentence_english": "Having a meal with new dishes in a foreign country is an exciting experience that allows you to connect with the culture.",
     "key": "食事する_"
   },
   {
@@ -7093,7 +7093,7 @@
   },
   {
     "sentence_original": "彼は多くの競争相手に勝って、昇進しました。",
-    "sentence_romaji": "Kare wa ooku no kyousou aite ni katte, shoushins shimashita.",
+    "sentence_romaji": "Kare wa ooku no kyousou aite ni katte, shoushin shimashita.",
     "sentence_english": "He won over many competitors and got promoted.",
     "key": "昇進する_"
   },
@@ -7436,7 +7436,7 @@
   {
     "sentence_original": "明日の試合の応援に出席するかどうか、彼に報告してください。",
     "sentence_romaji": "Ashita no shiai no ouen ni shusseki suru ka douka, kare ni houkoku shite kudasai",
-    "sentence_english": "Please let him know if you will attend the support for tomorrow's game.",
+    "sentence_english": "Please let him know if you will attend tomorrow's game to cheer.",
     "key": "出席する_"
   },
   {
@@ -7993,7 +7993,7 @@
   },
   {
     "sentence_original": "申請書を提出する前に、必要書類を確認してください。",
-    "sentence_romaji": "Shinseisho o teishutsu suru mae ni, hitsuyousho ryōiki o kakunin shite kudasai",
+    "sentence_romaji": "Shinseisho o teishutsu suru mae ni, hitsuyou shorui o kakunin shite kudasai",
     "sentence_english": "Please check the required documents before submitting the application form.",
     "key": "提出する_"
   },
@@ -8034,8 +8034,8 @@
     "key": "徹夜する_"
   },
   {
-    "sentence_original": "彼女は締め切りに間に合わせるため、何度も徹夜すべなっくて作品を仕上げた。",
-    "sentence_romaji": "Kanojo wa shimekiri ni maniawaseru tame, nandomo tetsuya subenakute sakuhin o shiage ta.",
+    "sentence_original": "彼女は締め切りに間に合わせるため、何度も徹夜せざるを得なくて作品を仕上げた。",
+    "sentence_romaji": "Kanojo wa shimekiri ni maniawaseru tame, nandomo tetsuya sezaru o enakute sakuhin o shiageta.",
     "sentence_english": "She had to stay up all night multiple times to finish her work in time for the deadline.",
     "key": "徹夜する_"
   },
@@ -8370,152 +8370,152 @@
     "key": "運転する_"
   },
   {
-    "sentence_original": "彼と私は論争の後で和解することができました。",
-    "sentence_romaji": "Kare to watashi wa ronsou no ato de wakai suru koto ga dekimashita.",
+    "sentence_original": "彼と私は論争の後で和解できました。",
+    "sentence_romaji": "Kare to watashi wa ronsou no ato de wakai dekimashita.",
     "sentence_english": "After the argument, he and I were able to reconcile.",
     "key": "和解する_"
   },
   {
-    "sentence_original": "両者は裁判になる前に和解することに合意しました。",
-    "sentence_romaji": "Ryou sha wa saiban ni naru mae ni wakai suru koto ni goui shimashita.",
+    "sentence_original": "両者は裁判になる前に和解に合意しました。",
+    "sentence_romaji": "Ryousha wa saiban ni naru mae ni wakai ni goui shimashita.",
     "sentence_english": "Both parties agreed to settle before the case went to court.",
     "key": "和解する_"
   },
   {
     "sentence_original": "対立の問題を解決するために、全員が協力して和解するべきです。",
     "sentence_romaji": "Tairitsu no mondai o kaiketsu suru tame ni, zen'in ga kyouryoku shite wakai suru beki desu.",
-    "sentence_english": "In order to resolve the conflict issue, everyone should cooperate to reconcile.",
+    "sentence_english": "In order to resolve the conflict, everyone should cooperate to reconcile.",
     "key": "和解する_"
   },
   {
-    "sentence_original": "紛争している家族は過去の遺恨を捨てて和解する方法を探すべきです。",
-    "sentence_romaji": "Funsou shite iru kazoku wa kako no ikon o sutete wakai suru houhou o sagasu beki desu.",
+    "sentence_original": "対立している家族は過去の遺恨を捨てて和解する方法を探すべきです。",
+    "sentence_romaji": "Tairitsu shite iru kazoku wa kako no ikon o sutete wakai suru houhou o sagasu beki desu.",
     "sentence_english": "Feuding families should find a way to reconcile by letting go of past grudges.",
     "key": "和解する_"
   },
   {
-    "sentence_original": "仲間たちは意見の相違を乗り越えて、最終的に和解することができました。",
-    "sentence_romaji": "Nakama tachi wa iken no soui o nori koete saishuutekini wakai suru koto ga dekimashita.",
+    "sentence_original": "仲間たちは意見の相違を乗り越えて、最終的に和解できました。",
+    "sentence_romaji": "Nakama-tachi wa iken no soui o norikoete saishuuteki ni wakai dekimashita.",
     "sentence_english": "The group members were able to reconcile, overcoming their differences in opinion.",
     "key": "和解する_"
   },
   {
     "sentence_original": "明日の会議に出席することを約束します。",
-    "sentence_romaji": "Ashita no kaigi ni shusseki suru koto o yakusoku shimasu",
+    "sentence_romaji": "Ashita no kaigi ni shusseki suru koto o yakusoku shimasu.",
     "sentence_english": "I promise to attend tomorrow's meeting.",
     "key": "約束する_"
   },
   {
-    "sentence_original": "彼に無事に帰ることを約束しました。",
-    "sentence_romaji": "Kare ni buji ni kaeru koto o yakusoku shimashita",
+    "sentence_original": "彼に無事に帰ると約束しました。",
+    "sentence_romaji": "Kare ni buji ni kaeru to yakusoku shimashita.",
     "sentence_english": "I promised him to return home safely.",
     "key": "約束する_"
   },
   {
-    "sentence_original": "友達と映画を見る約束をしたので、時間を守らなければならない。",
-    "sentence_romaji": "Tomodachi to eiga o miru yakusoku o shita node, jikan o mamoranakereba naranai",
-    "sentence_english": "I made a promise to watch a movie with my friend, so I have to keep the time.",
+    "sentence_original": "友達と映画を見る約束をしたので、時間を守らなければなりません。",
+    "sentence_romaji": "Tomodachi to eiga o miru yakusoku o shita node, jikan o mamoranakereba naranai.",
+    "sentence_english": "I made a promise to watch a movie with my friend, so I have to be punctual.",
     "key": "約束する_"
   },
   {
-    "sentence_original": "彼女は、部屋の片付けを絶対にすると約束した。",
-    "sentence_romaji": "Kanojo wa, heya no katazuke o zettai ni suru to yakusoku shita",
+    "sentence_original": "彼女は、部屋の片付けを必ずすると約束した。",
+    "sentence_romaji": "Kanojo wa, heya no katazuke o kanarazu suru to yakusoku shita.",
     "sentence_english": "She promised to definitely clean up the room.",
     "key": "約束する_"
   },
   {
-    "sentence_original": "賞金を全員で分けるという約束を彼らは立てた。",
-    "sentence_romaji": "Shoukin o zen'in de wakeru to iu yakusoku o karera wa tateta",
+    "sentence_original": "賞金を全員で分けるという約束を彼らは交わした。",
+    "sentence_romaji": "Shoukin o zen'in de wakeru to iu yakusoku o karera wa kawashita.",
     "sentence_english": "They made a promise to share the prize money among everyone.",
     "key": "約束する_"
   },
   {
     "sentence_original": "風邪を予防するために、手洗いやうがいをしっかりしましょう。",
-    "sentence_romaji": "Kaze o yobou suru tame ni, tearai ya ugai o shikkari shimashou",
+    "sentence_romaji": "Kaze o yobou suru tame ni, tearai ya ugai o shikkari shimashou.",
     "sentence_english": "To prevent catching a cold, make sure to wash your hands and gargle thoroughly.",
     "key": "予防する_"
   },
   {
     "sentence_original": "熱中症を予防するには、水分補給が大切です。",
-    "sentence_romaji": "Necchūshō o yobou suru ni wa, suibun hokyū ga taisetsu desu",
+    "sentence_romaji": "Necchūshō o yobou suru ni wa, suibun hokyū ga taisetsu desu.",
     "sentence_english": "Hydration is important for preventing heatstroke.",
     "key": "予防する_"
   },
   {
     "sentence_original": "心筋梗塞を予防するため、健康的な食生活と適度な運動を心がけましょう。",
-    "sentence_romaji": "Shinkin kousoku o yobou suru tame, kenkou-teki na shokuseikatsu to tekido na undou o kokorogakemashou",
+    "sentence_romaji": "Shinkin kousoku o yobou suru tame, kenkou-teki na shokuseikatsu to tekido na undou o kokorogakemashou.",
     "sentence_english": "To prevent a heart attack, maintain a healthy diet and engage in moderate exercise.",
     "key": "予防する_"
   },
   {
     "sentence_original": "犯罪を予防するために、夜道は明るい場所を選んで歩きましょう。",
-    "sentence_romaji": "Hanzai o yobou suru tame ni, yomichi wa akarui basho o erande arukimashou",
+    "sentence_romaji": "Hanzai o yobou suru tame ni, yomichi wa akarui basho o erande arukimashou.",
     "sentence_english": "To prevent crime, choose well-lit areas when walking at night.",
     "key": "予防する_"
   },
   {
     "sentence_original": "コンピューターウイルスを予防するためには、適切なセキュリティソフトを導入すべきです。",
-    "sentence_romaji": "Konpyūtā uirusu o yobou suru tame ni wa, tekisetsu na sekyuriti sofuto o dōnyū subeki desu",
+    "sentence_romaji": "Konpyūtā uirusu o yobou suru tame ni wa, tekisetsu na sekyuriti sofuto o dōnyū subeki desu.",
     "sentence_english": "To prevent computer viruses, you should install appropriate security software.",
     "key": "予防する_"
   },
   {
     "sentence_original": "彼はもっと高い給料を要求するつもりだ。",
-    "sentence_romaji": "Kare wa motto takai kyūryō o yōkyū suru tsumori da",
+    "sentence_romaji": "Kare wa motto takai kyūryō o yōkyū suru tsumori da.",
     "sentence_english": "He intends to demand a higher salary.",
     "key": "要求する_"
   },
   {
     "sentence_original": "彼らは労働条件の改善を要求してストライキを行った。",
-    "sentence_romaji": "Karera wa roudou jouken no kaizen o youkyuu shite sutoraiki o okonatta",
+    "sentence_romaji": "Karera wa roudou jouken no kaizen o youkyuu shite sutoraiki o okonatta.",
     "sentence_english": "They went on strike demanding improvements in working conditions.",
     "key": "要求する_"
   },
   {
     "sentence_original": "参加者たちは全員が安全対策を要求する権利がある。",
-    "sentence_romaji": "Sankasha-tachi wa zen'in ga anzen taisaku o youkyuu suru kenri ga aru",
+    "sentence_romaji": "Sankasha-tachi wa zen'in ga anzen taisaku o youkyuu suru kenri ga aru.",
     "sentence_english": "All participants have the right to demand safety measures.",
     "key": "要求する_"
   },
   {
     "sentence_original": "彼女は彼に謝罪を要求しました。",
-    "sentence_romaji": "Kanojo wa kare ni shazai o youkyuu shimashita",
+    "sentence_romaji": "Kanojo wa kare ni shazai o youkyuu shimashita.",
     "sentence_english": "She demanded an apology from him.",
     "key": "要求する_"
   },
   {
-    "sentence_original": "コンピューターシステムは、アップグレードを要求するかもしれません。",
-    "sentence_romaji": "Konpyuuta- shisutemu wa, appugureedo o youkyuu suru kamo shiremasen",
-    "sentence_english": "The computer system may require an upgrade.",
+    "sentence_original": "ユーザーはコンピューターシステムのアップグレードを要求するかもしれません。",
+    "sentence_romaji": "Yūzā wa konpyūtā shisutemu no appugureedo o youkyuu suru kamo shiremasen.",
+    "sentence_english": "Users might demand an upgrade for the computer system.",
     "key": "要求する_"
   },
   {
     "sentence_original": "人材を養成するための教育プログラムが整備されています。",
-    "sentence_romaji": "Jinzai o yousei suru tame no kyouiku puroguramu ga seibi sareteimasu",
+    "sentence_romaji": "Jinzai o yousei suru tame no kyouiku puroguramu ga seibi sareteimasu.",
     "sentence_english": "An educational program has been established to train human resources.",
     "key": "養成する_"
   },
   {
     "sentence_original": "スポーツ選手を養成するクラブが多く存在している。",
-    "sentence_romaji": "Supootsu senshu o yousei suru kurabu ga ooku sonzai shiteiru",
+    "sentence_romaji": "Supootsu senshu o yousei suru kurabu ga ooku sonzai shiteiru.",
     "sentence_english": "There are many clubs that train athletes.",
     "key": "養成する_"
   },
   {
     "sentence_original": "会社は新入社員のスキルを養成する重要な役割を担っている。",
-    "sentence_romaji": "Kaisha wa shinnyuu shain no sukiru o yousei suru juuyou na yakuwari o ninatte iru",
+    "sentence_romaji": "Kaisha wa shinnyuu shain no sukiru o yousei suru juuyou na yakuwari o ninatte iru.",
     "sentence_english": "The company plays an important role in developing the skills of new employees.",
     "key": "養成する_"
   },
   {
     "sentence_original": "養成するための研修期間を延長することを検討しています。",
-    "sentence_romaji": "Yousei suru tame no kenshuu kikan o enchou suru koto o kentou shiteimasu",
+    "sentence_romaji": "Yousei suru tame no kenshuu kikan o enchou suru koto o kentou shiteimasu.",
     "sentence_english": "We are considering extending the training period for development.",
     "key": "養成する_"
   },
   {
     "sentence_original": "大学は、専門的な知識を持つ人材を養成する場所である。",
-    "sentence_romaji": "Daigaku wa, senmonteki na chishiki o motsu jinzai o yousei suru basho de aru",
+    "sentence_romaji": "Daigaku wa, senmonteki na chishiki o motsu jinzai o yousei suru basho de aru.",
     "sentence_english": "Universities are places to cultivate talent with specialized knowledge.",
     "key": "養成する_"
   },
@@ -8545,67 +8545,67 @@
   },
   {
     "sentence_original": "私は予習をサボったので、今夜急いで勉強しなければなりません。",
-    "sentence_romaji": "Watashi wa yoshuu o sabot-ta node, konya isoide benkyou shinakereba narimasen.",
+    "sentence_romaji": "Watashi wa yoshuu o sabotta node, konya isoide benkyou shinakereba narimasen.",
     "sentence_english": "Since I skipped preparing in advance, I have to study quickly tonight.",
     "key": "予習する_"
   },
   {
     "sentence_original": "明日の天気を予想するのは難しい。",
-    "sentence_romaji": "Ashita no tenki o yosou suru no wa muzukashii",
+    "sentence_romaji": "Ashita no tenki o yosou suru no wa muzukashii.",
     "sentence_english": "It is difficult to predict tomorrow's weather.",
     "key": "予想する_"
   },
   {
     "sentence_original": "試験の結果を予想することはできません。",
-    "sentence_romaji": "Shiken no kekka o yosou suru koto wa dekimasen",
+    "sentence_romaji": "Shiken no kekka o yosou suru koto wa dekimasen.",
     "sentence_english": "I cannot predict the results of the exam.",
     "key": "予想する_"
   },
   {
     "sentence_original": "今年の経済成長率を専門家が予想する。",
-    "sentence_romaji": "Kotoshi no keizai seichouritsu o senmonka ga yosou suru",
+    "sentence_romaji": "Kotoshi no keizai seichouritsu o senmonka ga yosou suru.",
     "sentence_english": "Experts predict this year's economic growth rate.",
     "key": "予想する_"
   },
   {
     "sentence_original": "彼女の反応を全く予想することができなかった。",
-    "sentence_romaji": "Kanojo no hannou o mattaku yosou suru koto ga dekinakatta",
+    "sentence_romaji": "Kanojo no hannou o mattaku yosou suru koto ga dekinakatta.",
     "sentence_english": "I couldn't predict her reaction at all.",
     "key": "予想する_"
   },
   {
     "sentence_original": "スポーツの試合結果を予想するのは楽しい。",
-    "sentence_romaji": "Supōtsu no shiai kekka o yosou suru no wa tanoshii",
+    "sentence_romaji": "Supōtsu no shiai kekka o yosou suru no wa tanoshii.",
     "sentence_english": "Predicting the results of sports games is fun.",
     "key": "予想する_"
   },
   {
-    "sentence_original": "旅行のチケットを予約するのは早めにした方がいいです。",
-    "sentence_romaji": "Ryokou no chiketto o yoyaku suru no wa hayame ni shita hou ga ii desu",
+    "sentence_original": "旅行のチケットは早めに予約した方がいいです。",
+    "sentence_romaji": "Ryokou no chiketto wa hayame ni yoyaku shita hou ga ii desu.",
     "sentence_english": "It's better to reserve your travel tickets early.",
     "key": "予約する_"
   },
   {
-    "sentence_original": "人気のレストランは、いつも混んでいるので予約することをお勧めします。",
-    "sentence_romaji": "Ninki no resutoran wa, itsumo konde iru node yoyaku suru koto o osusume shimasu",
+    "sentence_original": "人気のレストランはいつも混んでいるので、事前に予約することをお勧めします。",
+    "sentence_romaji": "Ninki no resutoran wa itsumo konde iru node, jizen ni yoyaku suru koto o osusume shimasu.",
     "sentence_english": "I recommend making a reservation at popular restaurants as they are always crowded.",
     "key": "予約する_"
   },
   {
     "sentence_original": "ホテルの部屋を予約する前に、利用者のレビューをチェックしましょう。",
-    "sentence_romaji": "Hoteru no heya o yoyaku suru mae ni, riyou-sha no rebyuu o chekku shimashou",
+    "sentence_romaji": "Hoteru no heya o yoyaku suru mae ni, riyou-sha no rebyuu o chekku shimashou.",
     "sentence_english": "Check user reviews before reserving a hotel room.",
     "key": "予約する_"
   },
   {
     "sentence_original": "医者の診察を受けるために、電話で予約する必要があります。",
-    "sentence_romaji": "Isha no shinsatsu o ukeru tame ni, denwa de yoyaku suru hitsuyou ga arimasu",
+    "sentence_romaji": "Isha no shinsatsu o ukeru tame ni, denwa de yoyaku suru hitsuyou ga arimasu.",
     "sentence_english": "You need to make a phone reservation in order to see a doctor.",
     "key": "予約する_"
   },
   {
     "sentence_original": "列車の指定席を予約する方法はいくつかあります。",
-    "sentence_romaji": "Ressha no shiteiseki o yoyaku suru houhou wa ikutsu ka arimasu",
+    "sentence_romaji": "Ressha no shiteiseki o yoyaku suru houhou wa ikutsu ka arimasu.",
     "sentence_english": "There are several ways to reserve designated seats on a train.",
     "key": "予約する_"
   },
@@ -8634,187 +8634,187 @@
     "key": "誘拐する_"
   },
   {
-    "sentence_original": "学校の近くで子供たちが誘拐されるという噂が広まっています。",
+    "sentence_original": "学校の近くで子供たちが誘拐されるという噂が広まっています.",
     "sentence_romaji": "Gakkou no chikaku de kodomo-tachi ga yuukai sareru to iu uwasa ga hiromatteimasu.",
     "sentence_english": "There is a rumor spreading that children are being kidnapped near the school.",
     "key": "誘拐する_"
   },
   {
-    "sentence_original": "その商品は海外から輸入する必要があります。",
-    "sentence_romaji": "Sono shouhin wa kaigai kara yunyuu suru hitsuyou ga arimasu",
+    "sentence_original": "その商品は海外から輸入する必要があります.",
+    "sentence_romaji": "Sono shouhin wa kaigai kara yunyuu suru hitsuyou ga arimasu.",
     "sentence_english": "That product needs to be imported from abroad.",
     "key": "輸入する_"
   },
   {
-    "sentence_original": "この会社は高品質の家具をヨーロッパから輸入しています。",
-    "sentence_romaji": "Kono kaisha wa kouhinshitsu no kagu o yōroppa kara yunyuu shiteimasu",
+    "sentence_original": "この会社は高品質の家具をヨーロッパから輸入しています.",
+    "sentence_romaji": "Kono kaisha wa kouhinshitsu no kagu o yōroppa kara yunyuu shiteimasu.",
     "sentence_english": "This company imports high-quality furniture from Europe.",
     "key": "輸入する_"
   },
   {
-    "sentence_original": "彼はアメリカンバイクを日本に輸入するビジネスを始めました。",
-    "sentence_romaji": "Kare wa amerikan baiku o nihon ni yunyuu suru bijinesu o hajimemashita",
+    "sentence_original": "彼はアメリカンバイクを日本に輸入するビジネスを始めました.",
+    "sentence_romaji": "Kare wa amerikan baiku o nihon ni yunyuu suru bijinesu o hajimemashita.",
     "sentence_english": "He started a business importing American motorcycles to Japan.",
     "key": "輸入する_"
   },
   {
-    "sentence_original": "輸入雑貨店では、さまざまな国の商品を輸入することで、豊富な品揃えが揃っています。",
-    "sentence_romaji": "Yunyuu zakka-ten de wa, samazama na kuni no shouhin wo yunyuu suru koto de, houfu na shina-soroe ga sorotteimasu",
+    "sentence_original": "輸入雑貨店では、さまざまな国の商品を輸入することで、豊富な品揃えが揃っています.",
+    "sentence_romaji": "Yunyuu zakka-ten de wa, samazama na kuni no shouhin o yunyuu suru koto de, houfu na shina-soroe ga sorotteimasu.",
     "sentence_english": "At import miscellaneous goods stores, they have a wide variety of products from various countries by importing them.",
     "key": "輸入する_"
   },
   {
-    "sentence_original": "その化粧品は、オーストラリアから輸入しているそうです。",
-    "sentence_romaji": "Sono keshouhin wa, oosutoraria kara yunyuu shiteiru sou desu",
+    "sentence_original": "その化粧品は、オーストラリアから輸入しているそうです.",
+    "sentence_romaji": "Sono keshouhin wa, oosutoraria kara yunyuu shiteiru sou desu.",
     "sentence_english": "I heard that the cosmetics are imported from Australia.",
     "key": "輸入する_"
   },
   {
-    "sentence_original": "今年の大会で彼は優勝することができました。",
-    "sentence_romaji": "Kotoshi no taikai de kare wa yuushou suru koto ga dekimashita.",
+    "sentence_original": "今年の大会で彼は優勝しました.",
+    "sentence_romaji": "Kotoshi no taikai de kare wa yuushou shimashita.",
     "sentence_english": "He was able to win the championship in this year's tournament.",
     "key": "優勝する_"
   },
   {
-    "sentence_original": "彼女は将来必ず優勝する強い選手だ。",
+    "sentence_original": "彼女は将来必ず優勝する強い選手だ.",
     "sentence_romaji": "Kanojo wa shourai kanarazu yuushou suru tsuyoi senshu da.",
     "sentence_english": "She is a strong player who will definitely win the championship in the future.",
     "key": "優勝する_"
   },
   {
-    "sentence_original": "彼らは連続で3回優勝するという偉業を達成した。",
+    "sentence_original": "彼らは連続で3回優勝するという偉業を達成した.",
     "sentence_romaji": "Karera wa renzoku de 3 kai yuushou suru to iu igyou o tassei shita.",
     "sentence_english": "They achieved the feat of winning the championship three times in a row.",
     "key": "優勝する_"
   },
   {
-    "sentence_original": "そのチームは予想に反して優勝することができた。",
-    "sentence_romaji": "Sono chiimu wa yosou ni hanshite yuushou suru koto ga dekita.",
+    "sentence_original": "そのチームは予想に反して優勝しました.",
+    "sentence_romaji": "Sono chiimu wa yosou ni hanshite yuushou shimashita.",
     "sentence_english": "Contrary to expectations, the team was able to win the championship.",
     "key": "優勝する_"
   },
   {
-    "sentence_original": "長年の努力が報われ、ついに優勝することができました。",
-    "sentence_romaji": "Naganen no doryoku ga mukuware, tsui ni yuushou suru koto ga dekimashita.",
+    "sentence_original": "長年の努力が報われ、ついに優勝しました.",
+    "sentence_romaji": "Naganen no doryoku ga mukuware, tsui ni yuushou shimashita.",
     "sentence_english": "After years of hard work, I was finally able to win the championship.",
     "key": "優勝する_"
   },
   {
-    "sentence_original": "この製品は主にアメリカに輸出されている。",
-    "sentence_romaji": "Kono seihin wa omoni Amerika ni yushutsu sarete iru",
+    "sentence_original": "この製品は主にアメリカに輸出されている.",
+    "sentence_romaji": "Kono seihin wa omoni Amerika ni yushutsu sarete iru.",
     "sentence_english": "This product is mainly exported to the United States.",
     "key": "輸出する_"
   },
   {
-    "sentence_original": "日本はその技術を世界中に輸出している。",
-    "sentence_romaji": "Nihon wa sono gijutsu o sekaichuu ni yushutsu shite iru",
+    "sentence_original": "日本はその技術を世界中に輸出している.",
+    "sentence_romaji": "Nihon wa sono gijutsu o sekaichuu ni yushutsu shite iru.",
     "sentence_english": "Japan is exporting its technology to the world.",
     "key": "輸出する_"
   },
   {
-    "sentence_original": "我が国の経済は、輸出に大きく依存している。",
-    "sentence_romaji": "Wagakuni no keizai wa, yushutsu ni ookiku izon shite iru",
+    "sentence_original": "我が国の経済は、輸出に大きく依存している.",
+    "sentence_romaji": "Wagakuni no keizai wa, yushutsu ni ookiku izon shite iru.",
     "sentence_english": "Our country's economy is heavily dependent on exports.",
     "key": "輸出する_"
   },
   {
-    "sentence_original": "産業部門は、輸出による売上を伸ばしていく方針だ。",
-    "sentence_romaji": "Sangyo bumon wa, yushutsu ni yoru uriage o nobashite iku houshin da",
+    "sentence_original": "産業部門は、輸出による売上を伸ばしていく方針だ.",
+    "sentence_romaji": "Sangyo bumon wa, yushutsu ni yoru uriage o nobashite iku houshin da.",
     "sentence_english": "The industrial sector aims to increase sales through exports.",
     "key": "輸出する_"
   },
   {
-    "sentence_original": "輸出の規制が緩和されることで、農業関連商品が大量に外国へ送られた。",
-    "sentence_romaji": "Yushutsu no kisei ga kanwa sareru koto de, nōgyō kanren shōhin ga tairyo ni gaikoku e okurareta",
+    "sentence_original": "輸出の規制が緩和されることで、農業関連商品が大量に外国へ送られた.",
+    "sentence_romaji": "Yushutsu no kisei ga kanwa sareru koto de, nōgyō kanren shōhin ga tairyo ni gaikoku e okurareta.",
     "sentence_english": "With the relaxation of export regulations, a large amount of agricultural products were sent to foreign countries.",
     "key": "輸出する_"
   },
   {
-    "sentence_original": "書類を郵送する必要があります。",
-    "sentence_romaji": "Shorui o yuusou suru hitsuyou ga arimasu",
+    "sentence_original": "書類を郵送する必要があります.",
+    "sentence_romaji": "Shorui o yuusou suru hitsuyou ga arimasu.",
     "sentence_english": "It is necessary to send the documents by mail.",
     "key": "郵送する_"
   },
   {
-    "sentence_original": "申込書は郵送してください。",
-    "sentence_romaji": "Moushikomisho wa yuusou shite kudasai",
+    "sentence_original": "申込書は郵送してください.",
+    "sentence_romaji": "Moushikomisho wa yuusou shite kudasai.",
     "sentence_english": "Please send the application form by mail.",
     "key": "郵送する_"
   },
   {
-    "sentence_original": "返信は郵送でお願いします。",
-    "sentence_romaji": "Henshin wa yuusou de onegai shimasu",
+    "sentence_original": "返信は郵送でお願いします.",
+    "sentence_romaji": "Henshin wa yuusou de onegai shimasu.",
     "sentence_english": "Please reply by mail.",
     "key": "郵送する_"
   },
   {
-    "sentence_original": "明日までに請求書を郵送していただけますか。",
-    "sentence_romaji": "Ashita made ni seikyuusho o yuusou shite itadakemasu ka",
+    "sentence_original": "明日までに請求書を郵送していただけますか.",
+    "sentence_romaji": "Ashita made ni seikyuusho o yuusou shite itadakemasu ka.",
     "sentence_english": "Can you send the invoice by mail by tomorrow?",
     "key": "郵送する_"
   },
   {
-    "sentence_original": "商品は郵送で届けられます。",
-    "sentence_romaji": "Shouhin wa yuusou de todokeraremasu",
+    "sentence_original": "商品は郵送で届けられます.",
+    "sentence_romaji": "Shouhin wa yuusou de todokeraremasu.",
     "sentence_english": "The product will be delivered by mail.",
     "key": "郵送する_"
   },
   {
-    "sentence_original": "彼女は彼を誘惑するためにセクシーな服を着た。",
+    "sentence_original": "彼女は彼を誘惑するためにセクシーな服を着た.",
     "sentence_romaji": "Kanojo wa kare o yūwaku suru tame ni sekushī na fuku o kita.",
     "sentence_english": "She wore sexy clothes to seduce him.",
     "key": "誘惑する_"
   },
   {
-    "sentence_original": "その商品の広告は消費者を誘惑するように作られている。",
+    "sentence_original": "その商品の広告は消費者を誘惑するように作られている.",
     "sentence_romaji": "Sono shōhin no kōkoku wa shōhisha o yūwaku suru you ni tsukurarete iru.",
     "sentence_english": "The advertisement for the product is designed to entice consumers.",
     "key": "誘惑する_"
   },
   {
-    "sentence_original": "甘い匂いが店の外まで漂い、客を誘惑する。",
+    "sentence_original": "甘い匂いが店の外まで漂い、客を誘惑する.",
     "sentence_romaji": "Amai nioi ga mise no soto made tadayoi, kyaku o yūwaku suru.",
     "sentence_english": "The sweet smell drifts outside the store, tempting customers.",
     "key": "誘惑する_"
   },
   {
-    "sentence_original": "彼はダイエット中にお菓子の誘惑に打ち勝つことができた。",
+    "sentence_original": "彼はダイエット中にお菓子の誘惑に打ち勝つことができた.",
     "sentence_romaji": "Kare wa daietto-chū ni okashi no yūwaku ni uchikatsu koto ga dekita.",
     "sentence_english": "He was able to resist the temptation of sweets during his diet.",
     "key": "誘惑する_"
   },
   {
-    "sentence_original": "彼女は彼に新しい仕事の誘惑に耐えるように助言した。",
-    "sentence_romaji": "Kanojo wa kare ni atarashī shigoto no yūwaku ni taeru you ni jogen shita.",
+    "sentence_original": "彼女は彼に新しい仕事の誘惑に負けないように助言した.",
+    "sentence_romaji": "Kanojo wa kare ni atarashī shigoto no yūwaku ni makenai you ni jogen shita.",
     "sentence_english": "She advised him to resist the temptation of a new job.",
     "key": "誘惑する_"
   },
   {
-    "sentence_original": "失業して全てがうまくいかないため、彼は絶望していた。",
+    "sentence_original": "失業して全てがうまくいかないため、彼は絶望していた.",
     "sentence_romaji": "Shitsugyou shite subete ga umaku ikanai tame, kare wa zetsubou shite ita.",
     "sentence_english": "He was in despair because everything was not going well after losing his job.",
     "key": "絶望する_"
   },
   {
-    "sentence_original": "彼女は試験に落ちて絶望していた。",
+    "sentence_original": "彼女は試験に落ちて絶望していた.",
     "sentence_romaji": "Kanojo wa shiken ni ochite zetsubou shite ita.",
     "sentence_english": "She was in despair after failing the exam.",
     "key": "絶望する_"
   },
   {
-    "sentence_original": "その悲しいニュースを聞いた時、私は絶望しました。",
+    "sentence_original": "その悲しいニュースを聞いた時、私は絶望しました.",
     "sentence_romaji": "Sono kanashii nyuusu o kiita toki, watashi wa zetsubou shimashita.",
     "sentence_english": "I despaired when I heard the sad news.",
     "key": "絶望する_"
   },
   {
-    "sentence_original": "経済危機により多くの人々が絶望しています。",
+    "sentence_original": "経済危機により多くの人々が絶望しています.",
     "sentence_romaji": "Keizai kiki ni yori ooku no hitobito ga zetsubou shite imasu.",
     "sentence_english": "Many people are in despair due to the economic crisis.",
     "key": "絶望する_"
   },
   {
-    "sentence_original": "彼は病気が治らないと分かった時、絶望感に襲われた。",
+    "sentence_original": "彼は病気が治らないと分かった時、絶望感に襲われた.",
     "sentence_romaji": "Kare wa byouki ga naoranai to wakatta toki, zetsubou kan ni osowareta.",
     "sentence_english": "He was overwhelmed by a sense of despair when he realized his illness was incurable.",
     "key": "絶望する_"
