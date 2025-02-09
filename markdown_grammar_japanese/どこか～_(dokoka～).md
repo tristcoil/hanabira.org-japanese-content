@@ -1,6 +1,6 @@
 Processing keyword: どこか～ (dokoka～)
 # Japanese Grammar Point: どこか～ (dokoka～)
-# どこか～ (dokoka~)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **どこか** (*dokoka*), which means "somewhere" or "anywhere." This word is used to refer to an unspecified or unknown place. Understanding how to use **どこか** will help you express uncertainty or generality about locations in your conversations.
 
@@ -15,11 +15,13 @@ The basic structure for using **どこか** in a sentence is:
 [Subject] + [Particle] + どこか + [Particle] + [Verb]
 ```
 ### Formation Diagram
+
 | Component    | Role                          |
 |--------------|-------------------------------|
 | **どこ**     | "Where"                       |
 | **か**       | Question marker or indefiniteness marker |
 | **どこか**   | "Somewhere" (Indefinite place) |
+
 *Note:* The **か** in this context turns the question word **どこ** ("where") into an indefinite pronoun meaning "somewhere."
 ---
 ## Visual Aid: Usage Examples with Particles
@@ -107,14 +109,15 @@ These expressions are common in daily conversations to express uncertainty or fa
 2. **True or False:** **どこか** means "anywhere."
    **Answer:** False (It means "somewhere.")
 3. **Choose the correct particle:** 友達と**どこか**__会いましょう。 (*Let's meet somewhere with a friend.*)
+
    a) を  
    b) に  
    c) で
+   
    **Answer:** c) で
+
 ---
 By understanding and practicing **どこか**, you can effectively communicate uncertainty or generality about locations in Japanese. Keep practicing by incorporating it into your daily conversations!
----
-
 
 ---
 

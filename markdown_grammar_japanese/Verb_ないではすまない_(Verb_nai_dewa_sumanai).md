@@ -1,6 +1,6 @@
 Processing keyword: Verb ないではすまない (Verb nai dewa sumanai)
 # Japanese Grammar Point: Verb ないではすまない (Verb nai dewa sumanai)
-# Verb ないではすまない (Verb ないでは済まない)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **ないではすまない** (*nai dewa sumanai*). This expression conveys a strong sense of obligation or inevitability to perform an action. It is often used when one must do something to resolve a situation, meet social expectations, or fulfill a moral duty.
 

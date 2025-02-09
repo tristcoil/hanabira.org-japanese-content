@@ -1,6 +1,6 @@
 Processing keyword: ～が、～ (〜ga, 〜)
 # Japanese Grammar Point: ～が、～ (〜ga, 〜)
-# ～が、～ (〜ga, 〜)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～が、～ (〜ga, 〜)**. This structure is used to connect two clauses, often to express contrast or present additional, sometimes unexpected, information. Mastering this grammatical construct will help you create more complex sentences and express nuanced thoughts in Japanese.
 ## 2. Core Grammar Explanation

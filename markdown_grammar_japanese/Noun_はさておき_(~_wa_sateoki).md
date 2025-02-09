@@ -1,6 +1,6 @@
 Processing keyword: Noun はさておき (~ wa sateoki)
 # Japanese Grammar Point: Noun はさておき (~ wa sateoki)
-# Noun はさておき (〜はさておき)
+
 ## 1. Introduction
 In Japanese, the grammar pattern **〜はさておき** is used to set aside a topic in order to focus on another matter. It's similar to saying "setting aside ~" or "apart from ~" in English. This expression helps to shift the conversation smoothly by temporarily putting one subject on hold to address another.
 
@@ -99,12 +99,11 @@ The phrase **〜はさておき** is neutral and can be used in both formal and 
    **〜はさておき** can be used with verbs.
 3. **Translate to Japanese:**
    "Putting the weather aside, how was your trip?"
+
 #### Answers:
 1. はさておき
 2. False (It is used with nouns.)
 3. 天気はさておき、旅行はいかがでしたか。
----
-
 
 ---
 

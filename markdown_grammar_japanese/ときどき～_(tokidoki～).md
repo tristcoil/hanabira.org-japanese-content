@@ -1,6 +1,6 @@
 Processing keyword: ときどき～ (tokidoki～)
 # Japanese Grammar Point: ときどき～ (tokidoki～)
-# ときどき ～ (tokidoki ～)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **ときどき (tokidoki)**, which means **"sometimes"** or **"from time to time"**. Mastering this adverb will help you express actions or events that occur occasionally, adding nuance to your conversations and writing.
 

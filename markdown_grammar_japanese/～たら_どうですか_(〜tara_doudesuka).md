@@ -1,6 +1,6 @@
 Processing keyword: ～たら どうですか (〜tara doudesuka)
 # Japanese Grammar Point: ～たら どうですか (〜tara doudesuka)
-# Grammar Point: ～たらどうですか (〜tara dō desu ka)
+
 ## 1. Introduction
 The expression **～たらどうですか (〜tara dō desu ka)** is a common Japanese grammar construct used to give gentle advice or make suggestions. It translates to phrases like "Why don't you...?" or "How about...?" in English. This structure allows the speaker to propose an idea without sounding forceful or demanding.
 
@@ -120,8 +120,6 @@ Verb (た-form) + ら + どうですか
 3. **True or False:**  
    ～たらどうですか is more direct than ～たほうがいいです。
    - **Answer:** False. It's less direct and more polite.
----
-*End of Lesson*
 
 
 ---

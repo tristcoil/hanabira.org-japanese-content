@@ -1,6 +1,6 @@
 Processing keyword: ～か～ないかのうちに (〜ka〜naika no uchi ni)
 # Japanese Grammar Point: ～か～ないかのうちに (〜ka〜naika no uchi ni)
-# ～か～ないかのうちに (〜ka〜naika no uchi ni)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～か～ないかのうちに (〜ka〜naika no uchi ni)**. This expression is used to indicate that one action happens **almost simultaneously** with another action, emphasizing the immediacy between the two events.
 

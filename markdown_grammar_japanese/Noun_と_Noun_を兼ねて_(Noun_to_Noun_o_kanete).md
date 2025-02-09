@@ -1,6 +1,6 @@
 Processing keyword: Noun と Noun を兼ねて (Noun to Noun o kanete)
 # Japanese Grammar Point: Noun と Noun を兼ねて (Noun to Noun o kanete)
-# Noun と Noun を兼ねて (Noun to Noun o kanete)
+
 ## 1. Introduction
 The expression **Noun と Noun を兼ねて** (Noun to Noun o kanete) is a Japanese grammar structure used to indicate that an action or object serves two purposes simultaneously. It reflects the idea of "killing two birds with one stone" by combining two intentions into one action.
 

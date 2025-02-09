@@ -1,6 +1,6 @@
 Processing keyword: ～として (〜to shite)
 # Japanese Grammar Point: ～として (〜to shite)
-# ～として (〜to shite)
+
 ## 1. Introduction
 Understanding how to express roles, capacities, or qualifications in Japanese is crucial for effective communication. The grammar point ～として (〜to shite) is used to indicate "as" or "in the role of" someone or something. This lesson will delve into the usage, structure, and nuances of ～として, providing clear explanations and examples to enhance your Japanese language proficiency.
 

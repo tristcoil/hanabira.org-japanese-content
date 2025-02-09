@@ -1,6 +1,6 @@
 Processing keyword: ～ものがある (〜mono ga aru)
 # Japanese Grammar Point: ～ものがある (〜mono ga aru)
-# ～ものがある (〜mono ga aru)
+
 ## 1. Introduction
 The expression **～ものがある** is used in Japanese to convey that something has a certain quality or aspect that deeply affects the speaker. It emphasizes a strong feeling or impression about an event, action, or state.
 

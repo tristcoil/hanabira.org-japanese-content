@@ -1,6 +1,6 @@
 Processing keyword: Verbる にとどまらず～も (Verb-ru ni todomarazu ~ mo)
 # Japanese Grammar Point: Verbる にとどまらず～も (Verb-ru ni todomarazu ~ mo)
-# Grammar Point: Verbる にとどまらず～も (Verb-ru ni todomarazu ~ mo)
+
 ## 1. Introduction
 In this lesson, we'll learn how to express the idea of "not only... but also..." using the grammar point **Verbる にとどまらず～も** (*Verb-ru ni todomarazu ~ mo*). This structure allows you to indicate that an action or state is not limited to one thing but extends to others as well.
 
@@ -43,26 +43,31 @@ This grammar point is similar to:
 **会社の業績は国内にとどまらず、海外市場でも伸びている。**
 *Kaisha no gyōseki wa kokunai ni todomarazu, kaigai shijō de mo nobite iru.*
 *The company's performance is growing not only domestically but also in overseas markets.*
+
 ---
 ### Example 2: Academic Context
 **この研究は化学分野にとどまらず、物理学にも大きな影響を与えた。**
 *Kono kenkyū wa kagaku bun'ya ni todomarazu, butsuri-gaku ni mo ōkina eikyō o ataeta.*
 *This research has significantly impacted not only the field of chemistry but also physics.*
+
 ---
 ### Example 3: News Report
 **彼の活躍はスポーツ界にとどまらず、多くの人々に感動を与えた。**
 *Kare no katsuyaku wa supōtsu-kai ni todomarazu, ōku no hitobito ni kandō o ataeta.*
 *His achievements moved not only the sports world but also many people.*
+
 ---
 ### Example 4: Business Presentation
 **新製品は品質向上にとどまらず、デザイン面でも革新をもたらした。**
 *Shinseihin wa hinshitsu kōjō ni todomarazu, dezain-men de mo kakushin o motarashita.*
 *The new product has not only improved quality but also brought innovation in design.*
+
 ---
 ### Example 5: Cultural Context
 **アニメは日本国内にとどまらず、世界中で人気を博している。**
 *Anime wa Nihon kokunai ni todomarazu, sekaijū de ninki o hakushite iru.*
 *Anime is popular not only within Japan but also around the world.*
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -72,6 +77,7 @@ This grammar point is similar to:
 - Understanding **とどまる** (*todomaru*) as "to stay/remain" helps grasp the meaning of **にとどまらず** (not remaining at).
 - **全国にとどまらず**: Not limited to the whole country.
 - **一部にとどまらず**: Not limited to a part.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -97,6 +103,7 @@ This grammar point is similar to:
 2. Which verb form is used before **にとどまらず**?
 3. Is **にとどまらず** more formal or informal?
 4. Create a sentence using **にとどまらず** about technology.
+
 **Answers:**
 1. "Not limited to" or "not only."
 2. The **dictionary form** of the verb.

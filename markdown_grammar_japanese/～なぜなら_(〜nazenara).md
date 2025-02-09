@@ -1,6 +1,6 @@
 Processing keyword: ～なぜなら (〜nazenara)
 # Japanese Grammar Point: ～なぜなら (〜nazenara)
-# ～なぜなら (〜nazenara)
+
 ## 1. Introduction
 The grammar point ～なぜなら (〜nazenara) is a conjunctive phrase in Japanese used to provide reasons or explanations. It translates to "because" or "the reason is that" in English. This grammar point is essential for connecting statements and giving logical explanations in speech and writing.
 
@@ -35,16 +35,19 @@ Statement 1。なぜなら、Statement 2。
 **Sentence**: 日本語を勉強しています。なぜなら、日本で働きたいからです。
 **Reading**: にほんごを べんきょうしています。なぜなら、にほんで はたらきたいからです。
 **Translation**: I'm studying Japanese. The reason is that I want to work in Japan.
+
 ---
 ### Example 2
 **Sentence**: 昨日は早く寝ました。なぜなら、今日は朝早く起きる必要があったからです。
 **Reading**: きのうは はやく ねました。なぜなら、きょうは あさ はやく おきる ひつようが あったからです。
 **Translation**: I went to bed early yesterday. That's because I needed to wake up early this morning.
+
 ---
 ### Example 3
 **Sentence**: 彼女は悲しそうだった。なぜなら、大切な試験に落ちたからだ。
 **Reading**: かのじょは かなしそうだった。なぜなら、たいせつな しけんに おちたからだ。
 **Translation**: She looked sad. The reason is that she failed an important exam.
+
 ---
 ## 5. Cultural Notes
 ### Levels of Formality
@@ -53,6 +56,7 @@ Statement 1。なぜなら、Statement 2。
 ### Usage in Writing and Speeches
 - Commonly used in essays, reports, and presentations to logically connect ideas.
 - Helps in structuring arguments and providing clear explanations.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes

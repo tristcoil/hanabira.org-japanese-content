@@ -1,6 +1,6 @@
 Processing keyword: ～ないといけない (〜nai to ikenai)
 # Japanese Grammar Point: ～ないといけない (〜nai to ikenai)
-# JLPT Grammar Lesson: ～ないといけない (〜nai to ikenai)
+
 ## 1. Introduction
 In everyday Japanese conversation, expressing obligations or necessities is essential. One common grammar point used to convey the idea of "must do" or "have to do" something is **～ないといけない (〜nai to ikenai)**. Understanding this grammar will help you articulate duties, responsibilities, and necessities accurately in various contexts.
 
@@ -27,6 +27,7 @@ To form this expression, you start with the **negative plain form** of a verb an
    - しない **といけない**
 ### Nuance
 While **～ないといけない** expresses obligation, it often implies that not doing the action would result in some negative consequence or that it's necessary due to a particular situation.
+
 ---
 ## 3. Comparative Analysis
 ### Similar Grammar Points

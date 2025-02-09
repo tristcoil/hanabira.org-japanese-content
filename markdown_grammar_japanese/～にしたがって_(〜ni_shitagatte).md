@@ -1,6 +1,6 @@
 Processing keyword: ～にしたがって (〜ni shitagatte)
 # Japanese Grammar Point: ～にしたがって (〜ni shitagatte)
-# ～にしたがって (〜ni shitagatte)
+
 ## 1. Introduction
 In Japanese, the grammar point **～にしたがって (〜ni shitagatte)** is used to express that one action or change occurs **"in accordance with"** or **"as"** another action or change happens. It indicates a correlation where one event influences or causes another, often showing a proportional or parallel progression.
 ## 2. Core Grammar Explanation

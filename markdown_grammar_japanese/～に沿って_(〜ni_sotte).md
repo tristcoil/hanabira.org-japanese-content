@@ -1,6 +1,6 @@
 Processing keyword: ～に沿って (〜ni sotte)
 # Japanese Grammar Point: ～に沿って (〜ni sotte)
-# ～に沿って (〜ni sotte)
+
 ## 1. Introduction
 The grammar point **～に沿って (〜ni sotte)** is a useful expression in Japanese that means "along with," "in accordance with," or "following." It is commonly used to indicate that an action or behavior aligns with a certain guideline, policy, plan, or expectation.
 

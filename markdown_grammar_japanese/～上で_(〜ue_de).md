@@ -1,6 +1,6 @@
 Processing keyword: ～上で (〜ue de)
 # Japanese Grammar Point: ～上で (〜ue de)
-# ～上で (〜ue de) Grammar Point
+
 ## 1. Introduction
 In this lesson, we'll delve into the Japanese grammar pattern **～上で (〜ue de)**. This structure is essential for expressing conditions, prerequisites, or sequences of actions. Understanding how to use ～上で will enhance your ability to articulate complex ideas in Japanese.
 

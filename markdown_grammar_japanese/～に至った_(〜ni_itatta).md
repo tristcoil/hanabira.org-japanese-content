@@ -1,6 +1,6 @@
 Processing keyword: ～に至った (〜ni itatta)
 # Japanese Grammar Point: ～に至った (〜ni itatta)
-# ～に至った (〜ni itatta)
+
 ## 1. Introduction
 The grammar point ～に至った (〜ni itatta) is used to express that something has "reached" a certain state or "led to" a particular outcome. It emphasizes the culmination of events or circumstances that have resulted in the current situation. Understanding this expression is valuable for articulating processes, decisions, or developments in Japanese.
 
@@ -30,6 +30,7 @@ The structure combines a noun or verb phrase with the particle **に (ni)** and 
 - **～ことになった** (*~koto ni natta*)
   - **Meaning**: "it has been decided that; it turns out that"
   - **Difference**: Implies a decision or conclusion made, often outside the speaker's control, while **～に至った** highlights the process leading to a result.
+
 ---
 ## 4. Examples in Context
 ### Example 1: Formal Written Context
@@ -39,6 +40,7 @@ The structure combines a noun or verb phrase with the particle **に (ni)** and 
 Kare no naganen no doryoku ga minori, tsuini seikō ni itatta.
 **English Translation:**
 His years of effort bore fruit, and he finally achieved success.
+
 ---
 ### Example 2: Formal Spoken Context
 **Japanese:**
@@ -47,6 +49,7 @@ His years of effort bore fruit, and he finally achieved success.
 Chōsa no kekka, kono yōna ketsuron ni itatta shidai desu.
 **English Translation:**
 As a result of the investigation, we've come to this conclusion.
+
 ---
 ### Example 3: Informal Context
 **Japanese:**
@@ -55,6 +58,7 @@ As a result of the investigation, we've come to this conclusion.
 Iroiro kangaete, sono an wo saiyō suru ni itatta.
 **English Translation:**
 After much thought, I ended up adopting that plan.
+
 ---
 ### Example 4: Written Narrative
 **Japanese:**
@@ -63,6 +67,7 @@ After much thought, I ended up adopting that plan.
 Kanojo wa ōku no konnan wo norikoete, kono chii ni itatta.
 **English Translation:**
 She overcame many difficulties to reach this position.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance

@@ -1,6 +1,6 @@
 Processing keyword: Noun だけではすまない (Noun dake dewa sumanai)
 # Japanese Grammar Point: Noun だけではすまない (Noun dake dewa sumanai)
-# Noun だけではすまない (Noun dake dewa sumanai)
+
 ## 1. Introduction
 In Japanese, expressions often convey nuances beyond direct translation. One such grammar point is **"Noun だけではすまない"**. This expression is used to indicate that something cannot be settled with just the noun mentioned; more action or consequence is expected or required.
 
@@ -72,6 +72,7 @@ Environmental issues can't be addressed by just one country; the entire world ne
 のうきに　おおはばな　おくれが　でたので、ただ　あやまる　だけでは　すまされない　じょうきょうだ。  
 **English Translation:**  
 Since there's a significant delay in the delivery date, simply apologizing won't resolve the situation.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -84,6 +85,7 @@ In Japanese culture, **responsibility and harmony** are highly valued. When some
   - *An apology alone won't suffice.*
 - **弁償だけではすまない**
   - *Compensation alone won't settle it.*
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -119,7 +121,6 @@ In Japanese culture, **responsibility and harmony** are highly valued. When some
 1. **b) It's insufficient**
 2. **a) 済む (sumu) - to finish/to suffice**
 3. **His actions probably can't be settled with just an apology.**
----
 
 
 ---

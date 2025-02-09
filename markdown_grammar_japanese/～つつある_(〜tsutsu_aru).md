@@ -1,6 +1,6 @@
 Processing keyword: ～つつある (〜tsutsu aru)
 # Japanese Grammar Point: ～つつある (〜tsutsu aru)
-# ～つつある (〜tsutsu aru)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～つつある (〜tsutsu aru)**. This structure is used to indicate that something is **in the process of changing** or **gradually progressing**. It's a useful expression for describing trends, ongoing developments, and changes that are currently happening.
 ## 2. Core Grammar Explanation
@@ -102,7 +102,6 @@ While both **～ている** and **～つつある** can describe ongoing actions
 3. **～ている** describes general ongoing actions or states and is common in everyday language, while **～つつある** emphasizes a gradual change or development and is more formal.
 </details>
 
----
 
 
 ---

@@ -1,6 +1,6 @@
 Processing keyword: ～ことになっている (〜koto ni natte iru)
 # Japanese Grammar Point: ～ことになっている (〜koto ni natte iru)
-# ～ことになっている (〜koto ni natte iru)
+
 ## 1. Introduction
 The grammar point **～ことになっている** (_~koto ni natte iru_) is used in Japanese to express rules, customs, plans, or expectations that have been established, often by external factors rather than personal decisions. It translates to phrases like "it has been decided that...", "it's a rule that...", or "it's expected that...". Understanding this structure is essential for discussing regulations, societal norms, and scheduled events in Japanese.
 
@@ -41,6 +41,7 @@ Attach **ことになっている** to the **plain form** of a verb.
 | **Implication**        | Obligation, Expectation                   | Habit, Personal Resolution               |
 | **Example**            | 禁煙することになっている (No smoking is allowed) | 禁煙することにしている (I've decided to quit smoking) |
 ---
+
 ## 4. Examples in Context
 ### Example 1: Company Policy (Formal)
 **Japanese:**  
@@ -49,6 +50,7 @@ Attach **ことになっている** to the **plain form** of a verb.
 このオフィスではスーツをちゃくようすることになっている。
 **Translation:**  
 It's company policy to wear suits in this office.
+
 ---
 ### Example 2: School Rule (Formal)
 **Japanese:**  
@@ -57,6 +59,7 @@ It's company policy to wear suits in this office.
 きょうしつではにほんごだけをはなすことになっています。
 **Translation:**  
 In the classroom, it's a rule to speak only in Japanese.
+
 ---
 ### Example 3: Social Custom (Informal)
 **Japanese:**  
@@ -65,6 +68,7 @@ In the classroom, it's a rule to speak only in Japanese.
 にほんではいえにはいるとき、くつをぬぐことになっている。
 **Translation:**  
 In Japan, it's customary to remove your shoes when entering a house.
+
 ---
 ### Example 4: Scheduled Event (Informal)
 **Japanese:**  
@@ -73,6 +77,7 @@ In Japan, it's customary to remove your shoes when entering a house.
 あしたはかいぎがひらかれることになっている。
 **Translation:**  
 A meeting is scheduled to be held tomorrow.
+
 ---
 ### Example 5: Regulations (Formal)
 **Japanese:**  
@@ -81,6 +86,7 @@ A meeting is scheduled to be held tomorrow.
 このちいきではごみのぶんべつがぎむづけられていることになっている。
 **Translation:**  
 In this area, separating trash is mandated.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -132,7 +138,7 @@ In this area, separating trash is mandated.
 ---
 **Keep Practicing!**
 Think of rules or customs in your daily life and try forming sentences using **～ことになっている** to reinforce your understanding.
----
+
 
 
 ---

@@ -1,6 +1,6 @@
 Processing keyword: ～で (〜de)
 # Japanese Grammar Point: ～で (〜de)
-# JLPT Grammar Point: ～で (〜de)
+
 ## 1. Introduction
 The particle **で (de)** is one of the fundamental particles in Japanese grammar. It serves multiple functions, such as indicating the place where an action occurs, the means by which an action is performed, the material something is made from, and more. Mastering the usage of **で** will significantly enhance your ability to express detailed information in Japanese.
 

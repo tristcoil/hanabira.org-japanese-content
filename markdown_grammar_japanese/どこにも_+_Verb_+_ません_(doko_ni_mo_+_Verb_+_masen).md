@@ -1,6 +1,6 @@
 Processing keyword: どこにも + Verb + ません (doko ni mo + Verb + masen)
 # Japanese Grammar Point: どこにも + Verb + ません (doko ni mo + Verb + masen)
-# Japanese Grammar Lesson: どこにも + Verb + ません (doko ni mo + Verb + masen)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar pattern **どこにも + Verb + ません** (*doko ni mo + Verb + masen*). This structure is used to express the idea of **"not doing something anywhere"** or **"nowhere"**. It is a commonly used negative expression that can enhance your ability to describe actions that do not occur at any place.
 

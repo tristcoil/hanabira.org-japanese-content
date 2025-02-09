@@ -1,6 +1,6 @@
 Processing keyword: Noun を もとに (Noun o moto ni)
 # Japanese Grammar Point: Noun を もとに (Noun o moto ni)
-# Noun をもとに (Noun o moto ni)
+
 ## 1. Introduction
 The grammar point **「Noun をもとに」** is used to express the idea of "based on" or "derived from" something. It indicates that something is created or done by taking the noun as the foundation or basis.
 ## 2. Core Grammar Explanation

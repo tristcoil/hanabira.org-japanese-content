@@ -1,6 +1,6 @@
 Processing keyword: Verb ずとも (〜zu tomo)
 # Japanese Grammar Point: Verb ずとも (〜zu tomo)
-# ずとも (ずとも) Grammar Explanation
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **ずとも (ずとも)**. This expression is used to convey the meaning of "even without doing" or "even if one doesn't do" something. It's a formal and literary construction that adds depth and nuance to your Japanese language skills.
 
@@ -19,8 +19,7 @@ To form this grammar point:
 | 行く (いく)           | 行か **(ない)**       | 行かずとも     |
 | 忘れる (わすれる)     | 忘れ **(ない)**       | 忘れずとも     |
 ### Visual Aid: Formation Steps
-```mermaid
-graph LR
+```
 A[Verb Dictionary Form] --> B[Negative Stem (Remove ない)]
 B --> C[Add ずとも]
 ```
@@ -35,22 +34,23 @@ B --> C[Add ずとも]
 Both sentences mean "I understand even if you don't say it," but **ずとも** adds a formal or literary tone.
 ---
 ## 4. Examples in Context
-### Example 1: Formal Written Context
+#### Example 1: Formal Written Context
 **日本語を学ばずとも、日本文化を理解することはできます。**
 *にほんごを　まなばずとも、にほんぶんかを　りかいすることは　できます。*
 *"Even without studying Japanese, you can understand Japanese culture."*
-### Example 2: Formal Spoken Context
+#### Example 2: Formal Spoken Context
 **彼は説明せずとも、全てを理解していた。**
 *かれは　せつめいせずとも、すべてを　りかいしていた。*
 *"He understood everything even without an explanation."*
-### Example 3: Literary Context
+#### Example 3: Literary Context
 **花は語らずとも、美しさを伝える。**
 *はなは　かたらずとも、うつくしさを　つたえる。*
 *"Flowers convey beauty even without speaking."*
-### Example 4: Polite Conversation
+#### Example 4: Polite Conversation
 **ご心配なさらずとも、大丈夫です。**
 *ごしんぱい　なさらずとも、だいじょうぶです。*
 *"Even if you don't worry, it's okay."*
+
 ---
 ## 5. Cultural Notes
 ### Levels of Formality

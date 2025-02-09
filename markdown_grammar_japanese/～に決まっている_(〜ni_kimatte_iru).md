@@ -1,6 +1,6 @@
 Processing keyword: ～に決まっている (〜ni kimatte iru)
 # Japanese Grammar Point: ～に決まっている (〜ni kimatte iru)
-# ～に決まっている (〜ni kimatte iru)
+
 ## 1. Introduction
 The expression **～に決まっている** (〜にきまっている) is a common Japanese grammar point used to express strong conviction or certainty about something. It translates to "must be," "definitely," or "no doubt" in English.
 

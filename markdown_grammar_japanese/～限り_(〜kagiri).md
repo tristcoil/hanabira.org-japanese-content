@@ -1,6 +1,6 @@
 Processing keyword: ～限り (〜kagiri)
 # Japanese Grammar Point: ～限り (〜kagiri)
-# ～限り (〜kagiri)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～限り (〜kagiri)**. This expression is used to indicate the extent or limit of a condition. It often translates to "as long as," "while," or "to the extent that" in English. Understanding how to use ～限り will help you express conditions and limitations effectively in Japanese.
 
@@ -137,7 +137,7 @@ The formation of **～限り** depends on the type of word it attaches to:
    *As long as it doesn't rain, the match won't be canceled.*
 2. **True**
    While **～限り** primarily expresses conditional limits, it can also imply time duration to the extent that the condition holds.
----
+
 ---
 By mastering **～限り**, you can articulate conditions and limitations more naturally in Japanese. Keep practicing with different sentence structures to enhance your understanding!
 

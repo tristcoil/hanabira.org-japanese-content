@@ -1,6 +1,6 @@
 Processing keyword: 決して～ない (kesshite ~ nai)
 # Japanese Grammar Point: 決して～ない (kesshite ~ nai)
-# 決して～ない (kesshite ~ nai)
+
 ## 1. Introduction
 The expression **決して～ない** is a powerful Japanese grammar pattern used to express strong negation or denial. It emphasizes that something is absolutely not the case or that one should never do something. Mastering this expression will help you convey firm resolutions and prohibitions in Japanese.
 
@@ -118,6 +118,7 @@ The basic structure is:
    <details><summary>Answer</summary>
    決して～ない is stronger.
    </details>
+
 ---
 By incorporating **決して～ない** into your vocabulary, you can express firm negations and strong commitments in Japanese, adding depth and emphasis to your communication.
 

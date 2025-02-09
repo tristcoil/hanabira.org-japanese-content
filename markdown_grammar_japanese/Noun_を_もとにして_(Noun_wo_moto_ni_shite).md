@@ -1,6 +1,6 @@
 Processing keyword: Noun を もとにして (Noun wo moto ni shite)
 # Japanese Grammar Point: Noun を もとにして (Noun wo moto ni shite)
-# Noun を もとにして (Noun wo moto ni shite)
+
 ## 1. Introduction
 The grammar pattern **Noun を もとにして** is used to express that something is created or done **based on** or **derived from** a particular noun. It indicates that the noun serves as the foundation or inspiration for an action or creation.
 

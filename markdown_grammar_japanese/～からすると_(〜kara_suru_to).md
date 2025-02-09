@@ -1,6 +1,6 @@
 Processing keyword: ～からすると (〜kara suru to)
 # Japanese Grammar Point: ～からすると (〜kara suru to)
-# ～からすると (〜kara suru to)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **～からすると (〜kara suru to)**, a useful expression in Japanese that allows you to make judgments or inferences based on certain evidence or perspectives. Mastering this structure will enable you to articulate your reasoning and interpret situations more effectively in Japanese.
 

@@ -1,6 +1,6 @@
 Processing keyword: ～こそ (〜koso)
 # Japanese Grammar Point: ～こそ (〜koso)
-# ～こそ (〜koso) Grammar Point Lesson
+
 ## 1. Introduction
 Welcome to today's lesson on the Japanese grammar point **～こそ (〜koso)**. This particle is a powerful tool to emphasize a particular word or phrase in a sentence, highlighting its importance or uniqueness. Mastering ～こそ will help you add nuance and depth to your Japanese communication.
 

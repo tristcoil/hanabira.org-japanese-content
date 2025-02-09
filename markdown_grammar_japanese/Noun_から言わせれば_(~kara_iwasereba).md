@@ -1,6 +1,6 @@
 Processing keyword: Noun から言わせれば (~kara iwasereba)
 # Japanese Grammar Point: Noun から言わせれば (~kara iwasereba)
-# Noun から言わせれば (~からいわせれば)
+
 ## 1. Introduction
 The grammar point **Noun から言わせれば** is used to express an opinion from someone's perspective. It translates to "if you let (someone) say," or more naturally, "in (someone's) opinion" or "from (someone's) point of view." This expression is useful when you want to present a viewpoint that might differ from general opinions or add emphasis to whose opinion is being expressed.
 

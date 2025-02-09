@@ -1,6 +1,6 @@
 Processing keyword: ～にともなって (〜ni tomonatte)
 # Japanese Grammar Point: ～にともなって (〜ni tomonatte)
-# ～にともなって (〜ni tomonatte)
+
 ## 1. Introduction
 **～にともなって** (〜ni tomonatte) is a Japanese grammar point used to express that as one thing changes or occurs, another thing changes or occurs alongside it. It is commonly translated as **"along with,"** **"as,"** or **"in proportion to."**
 
@@ -22,19 +22,21 @@ Processing keyword: ～にともなって (〜ni tomonatte)
 - Often used to describe changes over time or causal relationships.
 - It emphasizes that the two events occur together or in tandem.
 ### Visual Aid
-```mermaid
-graph LR
+
+```
 A[Change/Event A] -- Occurs --> B[Change/Event B]
-Note[As A occurs,\nB occurs along with it.]
+Note: [As A occurs,B occurs along with it.]
 ```
 ---
 ## 3. Comparative Analysis
 ### Similar Grammar Points
+
 | Grammar Point             | Meaning               | Nuance                                           |
 |---------------------------|-----------------------|--------------------------------------------------|
 | ～につれて (〜ni tsurete)       | As..., Along with...    | Implies gradual change; often with natural phenomena. |
 | ～とともに (〜to tomoni)       | Together with..., As... | Can indicate simultaneous actions or occurrences.    |
 | ～にしたがって (〜ni shitagatte) | In accordance with...   | Suggests following a rule or guideline; changes occur as one follows something. |
+
 - **Difference:** **～にともなって** focuses on two events occurring together as a natural result, without implying a gradual change or following a rule.
 ---
 ## 4. Examples in Context
@@ -54,6 +56,7 @@ Note[As A occurs,\nB occurs along with it.]
 **技術の進歩**にともなって**、新しい産業が生まれている。**
 *ぎじゅつのしんぽ にともなって、あたらしいさんぎょうがうまれている。*
 **Translation:** *As technology advances, new industries are emerging.*
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -93,9 +96,9 @@ Note[As A occurs,\nB occurs along with it.]
 3. **Which grammar point emphasizes changes occurring together naturally, without implying gradual change?**
    - **Answer:** **～にともなって**
 ---
-# End of Lesson
+
 Practice creating your own sentences using **～にともなって** to reinforce your understanding. Remember to consider the relationship between the two events you are connecting!
----
+
 
 
 ---

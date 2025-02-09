@@ -1,6 +1,6 @@
 Processing keyword: Verbる が早いか (verb-ru ga hayai ka)
 # Japanese Grammar Point: Verbる が早いか (verb-ru ga hayai ka)
-# Verbる が早いか (Verb-ru ga hayai ka)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **Verbる が早いか (verb-ru ga hayai ka)**, an expression used to indicate that as soon as one action occurs, another action follows immediately. This structure is often used in written Japanese and adds a dramatic effect to the sequence of events.
 ## 2. Core Grammar Explanation
@@ -22,11 +22,13 @@ The expression **が早いか** is used to convey that one action is immediately
 - **Formality:** More common in written Japanese, such as literature or news reports.
 ## 3. Comparative Analysis
 ### Similar Grammar Points
+
 | Grammar Point | Meaning                   | Usage Difference                                                  |
 |---------------|---------------------------|-------------------------------------------------------------------|
 | 〜や否や      | As soon as ~              | Similar meaning; used in formal writing, slightly archaic         |
 | 〜なり        | As soon as ~              | Used when the second action is unexpected or surprising           |
 | 〜そばから    | As soon as ~; right after | Often implies repetition; the action occurs repeatedly after each |
+
 **Comparison with 〜や否や**
 While both **〜が早いか** and **〜や否や** express immediate succession of actions, **〜が早いか** adds a sense of urgency or surprise.
 ## 4. Examples in Context

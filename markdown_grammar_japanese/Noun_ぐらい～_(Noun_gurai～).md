@@ -1,6 +1,6 @@
 Processing keyword: Noun ぐらい～ (Noun gurai～)
 # Japanese Grammar Point: Noun ぐらい～ (Noun gurai～)
-# Noun ぐらい～ (Noun gurai～)
+
 ## 1. Introduction
 The particle **ぐらい** (gurai) in Japanese is used to express approximation or extent. It is commonly translated as **"about," "approximately," "around,"** or **"at least"** in English. When attached to a noun, it helps convey an estimated quantity, degree, or the minimal expectation of something.
 

@@ -1,10 +1,10 @@
 Processing keyword: ～によれば (〜ni yoreba)
 # Japanese Grammar Point: ～によれば (〜ni yoreba)
-# Japanese Grammar Lesson: ～によれば (〜ni yoreba)
 
 ---
 ## 1. Introduction
 The expression **～によれば (〜ni yoreba)** is used in Japanese to indicate the source of information. It translates to **"according to ~"** in English. This grammar point is essential when you want to report information you've heard, read, or received from a specific source.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

@@ -1,6 +1,6 @@
 Processing keyword: Verb る ことがある (〜ru koto ga aru)
 # Japanese Grammar Point: Verb る ことがある (〜ru koto ga aru)
-# Verb る ことがある (〜ru koto ga aru)
+
 ## 1. Introduction
 The grammar pattern **Verb dictionary form + ことがある** is a common expression in Japanese used to indicate that something occasionally happens or that there are times when a particular action occurs. Understanding this grammar point will help you express frequency and talk about habitual or occasional actions.
 
@@ -113,6 +113,7 @@ This expression is used to indicate that an action happens occasionally or somet
 1. How do you say "I sometimes eat sushi" using **ことがある**?
 2. What's the difference between **行くことがある** and **行ったことがある**?
 3. Correct the mistake: **週末に公園へ行ったことがある。** (I sometimes go to the park on weekends.)
+
 **Answers:**
 1. **寿司を食べることがある。**  
    *Sushi o taberu koto ga aru.*
@@ -120,8 +121,6 @@ This expression is used to indicate that an action happens occasionally or somet
    **行ったことがある** means "I have been", expressing past experience.
 3. **Corrected Sentence**: **週末に公園へ行くことがある。**  
    *Shūmatsu ni kōen e iku koto ga aru.*
----
-
 
 ---
 

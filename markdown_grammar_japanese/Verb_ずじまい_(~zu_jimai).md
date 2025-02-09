@@ -1,6 +1,6 @@
 Processing keyword: Verb ずじまい (~zu jimai)
 # Japanese Grammar Point: Verb ずじまい (~zu jimai)
-# Grammar Point: Verb ずじまい (~ずじまい)
+
 ## 1. Introduction
 The grammar point **～ずじまい** is used to express that something was not done in the end, often conveying a sense of regret or missed opportunity. It indicates that despite having the intention or expectation to do something, it did not happen.
 
@@ -15,12 +15,14 @@ To form **～ずじまい**, use the **ない-form** of a verb **without the な
 Verb ない-form (remove ない) + ずじまい(だ)
 ```
 ### Formation Table
+
 | Verb Type        | Dictionary Form | ない-form   | Remove ない | +ずじまい       | Example         |
 |------------------|-----------------|-------------|-------------|----------------|-----------------|
 | **Godan Verb**   | 行く (iku)      | 行かない     | 行か        | 行かずじまい    | 行かずじまいだ   |
 | **Ichidan Verb** | 食べる (taberu) | 食べない     | 食べ        | 食べずじまい    | 食べずじまいだ   |
 | **Irregular Verb** | する (suru)   | しない       | し          | しずじまい     | しずじまいだ     |
 | **Irregular Verb** | 来る (kuru)   | 来ない（こない） | 来（こ）   | 来ずじまい     | 来ずじまいだ     |
+
 **Note:** For the verb **来る (kuru)**, the negative base is **来 (こ)**.
 ---
 ## 3. Comparative Analysis
@@ -68,6 +70,7 @@ In Japanese culture, expressing regret or missed opportunities is common, reflec
   - **Polite:** 〜ずじまいでした
 ### Idiomatic Expressions
 While **～ずじまい** isn't typically part of idiomatic expressions, it's often used in daily conversation to express small regrets or missed chances.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -97,9 +100,10 @@ While **～ずじまい** isn't typically part of idiomatic expressions, it's of
 3. **What nuance does ～ずじまい convey?**
    - **Answer:** It conveys that an expected or intended action did not happen in the end, often with a sense of regret or missed opportunity.
 ---
-# Additional Practice
+
+#### Additional Practice
 Try creating your own sentences using **～ずじまい** to express past situations where you didn't do something you intended to do.
----
+
 
 
 ---

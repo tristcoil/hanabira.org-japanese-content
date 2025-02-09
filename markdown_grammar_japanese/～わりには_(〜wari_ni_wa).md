@@ -1,6 +1,6 @@
 Processing keyword: ～わりには (〜wari ni wa)
 # Japanese Grammar Point: ～わりには (〜wari ni wa)
-# ～わりには (〜wari ni wa)
+
 ## 1. Introduction
 The grammar point ～わりには (〜wari ni wa) is a useful expression in Japanese that conveys a sense of unexpectedness relative to a certain standard or expectation. It is often translated as "considering" or "although" in English.
 
@@ -86,7 +86,6 @@ Rewrite the following sentences using **～わりには**:
 ---
 # Conclusion
 Understanding **～わりには** allows you to express nuances about expectations versus reality in Japanese, enriching your ability to communicate subtleties in everyday conversations.
----
 
 
 ---

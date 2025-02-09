@@ -1,8 +1,9 @@
 Processing keyword: A とか B とか
 # Japanese Grammar Point: A とか B とか
-# 1. Introduction
+
+## 1. Introduction
 In Japanese, expressing examples or listing multiple items is a common practice in daily conversation and writing. The grammar point **A とか B とか** is used to provide non-exhaustive examples, similar to saying "things like A, B, and so on" in English. This lesson will explore the usage, structure, and nuances of **とか**, helping you incorporate it naturally into your Japanese communication.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The grammar structure **A とか B とか** is used to:
 - List multiple examples among other possible items.
@@ -23,7 +24,7 @@ It translates to phrases like:
 - Nouns: **映画** とか **音楽** とか
 - Verbs: **食べる** とか **飲む** とか
 - Adjectives: **楽しい** とか **面白い** とか
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## Comparison with **や**
 Both **とか** and **や** are used to list items, but they have subtle differences.
 | Grammar Point | Usage | Nuance |
@@ -37,7 +38,7 @@ Both **とか** and **や** are used to list items, but they have subtle differe
 - **とか** Example:
   - **本とか雑誌とかを読みます。**
   - _I read things like books, magazines, etc._
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example 1: Nouns
 - **週末は映画とか買い物とかをします。**
   - _On weekends, I do things like watching movies and shopping._
@@ -53,7 +54,7 @@ Both **とか** and **や** are used to list items, but they have subtle differe
 ### Example 5: Including Additional Words
 - **音楽とか映画とかに興味があります。**
   - _I'm interested in things like music and movies._
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Politeness and Formality
 - **とか** is slightly more casual than **や**, often used in spoken Japanese.
 - It's appropriate for conversations among friends, family, or in casual settings.
@@ -62,7 +63,7 @@ Both **とか** and **や** are used to list items, but they have subtle differe
 - **とかく** (Adverb): Means "in any case" or "generally".
   - **とかくこの世は住みにくい。**
     - _In any case, this world is hard to live in._
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistakes
 ### Mistake 1: Overusing **とか** in Formal Writing
 - **Issue**: Using **とか** excessively in formal essays or business communication may seem too casual.
@@ -75,7 +76,7 @@ Both **とか** and **や** are used to list items, but they have subtle differe
 ## Learning Strategies
 - **Mnemonic Device**: Associate **とか** with "talk about", as it sounds similar and both involve mentioning examples.
 - **Practice**: List your daily activities using **とか** to become comfortable with the structure.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **A とか B とか** is used to list non-exhaustive examples.
 - It is slightly informal and commonly used in spoken Japanese.

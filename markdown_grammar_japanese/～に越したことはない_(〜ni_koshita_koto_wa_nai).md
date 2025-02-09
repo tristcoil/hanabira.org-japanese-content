@@ -1,6 +1,6 @@
 Processing keyword: ～に越したことはない (〜ni koshita koto wa nai)
 # Japanese Grammar Point: ～に越したことはない (〜ni koshita koto wa nai)
-# ～に越したことはない (〜ni koshita koto wa nai)
+
 ## 1. Introduction
 In Japanese, expressing that something is the best or most desirable option often involves specific grammar structures. One such expression is **～に越したことはない (〜にこしたことはない)**. This phrase conveys the idea that "there's nothing better than..." or "it's best to...". It suggests that, while not absolutely necessary, the mentioned option is ideal.
 
@@ -12,12 +12,14 @@ In Japanese, expressing that something is the best or most desirable option ofte
 - **It would be ideal if...**
 This expression is used to state that something is preferable or the best course of action, even if it's not mandatory.
 ### Structure
+
 | Formation           | Example                    |
 |---------------------|----------------------------|
 | **Verb (dictionary form) + に越したことはない** | 行くに越したことはない (It's best to go) |
 | **い-adjective (dictionary form) + に越したことはない** | 早いに越したことはない (It's best to be early) |
 | **な-adjective + であるに越したことはない** | 元気であるに越したことはない (It's best to be healthy) |
 | **Noun + であるに越したことはない** | 安全であるに越したことはない (It's best to be safe) |
+
 *Note*: With **な-adjectives** and **nouns**, the copula **である** is often inserted before **に越したことはない**.
 ### Detailed Explanation
 - **Verb Usage**: Use the **dictionary form** of the verb.

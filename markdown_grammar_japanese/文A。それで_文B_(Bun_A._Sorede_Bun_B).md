@@ -1,6 +1,6 @@
 Processing keyword: 文A。それで 文B (Bun A. Sorede Bun B)
 # Japanese Grammar Point: 文A。それで 文B (Bun A. Sorede Bun B)
-# 文A。それで 文B (Bun A. Sorede Bun B)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese conjunction **それで (sorede)**, which is used to connect two sentences where the second sentence is the result or consequence of the first. Understanding how to use **それで** will help you articulate cause-and-effect relationships naturally in Japanese.
 
@@ -34,6 +34,7 @@ Sentence A. Therefore, Sentence B.
 - **Meaning**: "For that reason," "Therefore"
 - **Usage**: Used in formal contexts, often in writing.
 - **Nuance**: **そのため** emphasizes the reason and is more formal than **それで**.
+
 ---
 ## 4. Examples in Context
 ### Example 1: Daily Conversation
@@ -43,6 +44,7 @@ Sentence A. Therefore, Sentence B.
 **Sorede**: Pikunikku wa chūshi ni narimashita.
 **Translation**: It rained yesterday.  
 **So**: The picnic was canceled.
+
 ---
 ### Example 2: Workplace Setting
 **文A**: 新しいプロジェクトが始まりました。  
@@ -51,6 +53,7 @@ Sentence A. Therefore, Sentence B.
 **Sorede**: Chīmu menbā o fuyasu koto ni narimashita.
 **Translation**: A new project has started.  
 **Therefore**: We've decided to increase the team members.
+
 ---
 ### Example 3: Formal Writing
 **文A**: 多くの要望が寄せられました。  
@@ -59,6 +62,7 @@ Sentence A. Therefore, Sentence B.
 **Sorede**: Sābisu o kakudai suru koto ni shimashita.
 **Translation**: We received many requests.  
 **Therefore**: We've decided to expand our services.
+
 ---
 ### Example 4: Casual Conversation
 **文A**: 道がすごく混んでいたんだ。  
@@ -67,6 +71,7 @@ Sentence A. Therefore, Sentence B.
 **Sorede**: Chikoku shita no?
 **Translation**: The roads were really congested.  
 **So**: Is that why you were late?
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -78,6 +83,7 @@ Sentence A. Therefore, Sentence B.
   - *Example*: **それでこそリーダーだ。**
     - **Romaji**: Sorede koso rīdā da.
     - **Translation**: That's what makes you a leader.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -86,6 +92,7 @@ Sentence A. Therefore, Sentence B.
 ### Learning Strategies
 - **Mnemonic Device**: Remember that **それで** connects causes and effects—think "So-ready" to link the cause to its effect.
 - **Practice**: Create your own sentences using **それで** to describe daily events that have logical connections.
+
 ---
 ## 7. Summary and Review
 ### Key Takeaways
@@ -96,11 +103,12 @@ Sentence A. Therefore, Sentence B.
 1. What does **それで** mean in English?
 2. Is **それで** used to indicate a contrast or a cause-and-effect relationship?
 3. Create a sentence using **それで** to connect two ideas.
+
 **Answers**
 1. "So," "Therefore."
 2. Cause-and-effect relationship.
 3. *(Student's own answer.)*
----
+
 
 
 ---

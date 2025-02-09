@@ -1,6 +1,6 @@
 Processing keyword: もしも～なら (moshimo ~ nara)
 # Japanese Grammar Point: もしも～なら (moshimo ~ nara)
-# もしも～なら (moshimo ~ nara)
+
 ## 1. Introduction
 Expressing hypothetical situations is a crucial aspect of any language. In Japanese, **もしも～なら (moshimo ~ nara)** is a common grammar structure used to convey "if" or "in case" scenarios. It allows speakers to discuss possibilities, make suggestions, or express conditions that might happen.
 
@@ -28,8 +28,7 @@ The basic structure is:
 - **な-adjective:** もしも **静か** なら (If it **is quiet** ...)
 - **Noun:** もしも **雨** なら (If it's **rain** ...)
 ### Visual Aid: Flow Diagram
-```mermaid
-graph TD;
+```
     A[もしも] --> B[Clause];
     B --> C[なら];
     C --> D[Result];
@@ -110,9 +109,9 @@ In Japanese communication, suggesting and hypothesizing are done with care to ma
 3. **Translate to Japanese:**
    "If by any chance you see him, please tell me."
    <br/>**Answer:** もしも 彼に会うなら、私に教えてください。
+
 ---
 Keep practicing using **もしも～なら** in different contexts to become more comfortable with hypothetical expressions in Japanese. Remember that natural usage comes with time and exposure.
----
 
 
 ---

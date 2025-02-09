@@ -1,6 +1,6 @@
 Processing keyword: A。ただしB。 (A. Tadashi B)
 # Japanese Grammar Point: A。ただしB。 (A. Tadashi B)
-# Grammar Lesson: A。ただしB (A. Tadashi B)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese conjunction **ただし (tadashi)**, which is used to add exceptions, conditions, or qualifications to a preceding statement. Understanding how to use **ただし** effectively will help you create more nuanced and precise sentences in Japanese.
 
@@ -85,6 +85,7 @@ While **ただし** is similar to other conjunctions like **しかし (shikashi)
    a) でも
    b) けど
    c) ただし
+   
 **Answers:**
 1. b) To introduce an exception or condition
 2. Formal contexts

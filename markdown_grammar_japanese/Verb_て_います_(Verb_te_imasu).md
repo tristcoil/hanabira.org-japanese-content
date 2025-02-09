@@ -1,6 +1,6 @@
 Processing keyword: Verb て います (Verb te imasu)
 # Japanese Grammar Point: Verb て います (Verb te imasu)
-# Verb て います (Verb te imasu)
+
 ## 1. Introduction
 In Japanese, the expression "Verb て います" (Verb te imasu) is a fundamental grammar pattern used to indicate ongoing actions, habitual behaviors, or resultant states. Mastering this construction is essential for communicating about actions that are in progress or regularly occur, similar to the present continuous tense in English.
 
@@ -16,8 +16,7 @@ To form "Verb て います":
 1. **Conjugate the verb to its て-form**.
 2. **Add います** after the て-form.
 ### Formation Diagram
-```mermaid
-graph LR
+```
 A[Dictionary Form of Verb] --> B{Convert to て-form}
 B --> C[て-form of Verb]
 C --> D[Add います]

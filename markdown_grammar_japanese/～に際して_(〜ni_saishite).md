@@ -1,6 +1,6 @@
 Processing keyword: ～に際して (〜ni saishite)
 # Japanese Grammar Point: ～に際して (〜ni saishite)
-# ～に際して (〜ni saishite)
+
 ## 1. Introduction
 The grammar point **～に際して (〜ni saishite)** is a formal expression in Japanese used to indicate a specific occasion or time when something important happens. It is often employed in formal speeches, writings, announcements, or official documents. Mastering this grammar point will enable you to express significant events or actions associated with particular occasions in a refined and sophisticated manner.
 

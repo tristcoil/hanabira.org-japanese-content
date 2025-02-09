@@ -1,6 +1,6 @@
 Processing keyword: Verb もしないで (~ mo shinai de)
 # Japanese Grammar Point: Verb もしないで (~ mo shinai de)
-# Verb もしないで (~も しないで)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verb もしないで (~も しないで)**. This structure is used to express the idea of doing something **"without even doing"** another action that would normally be expected or required. It adds emphasis to the action that was skipped or neglected.
 
@@ -101,8 +101,6 @@ The structure **~もしないで** can be used in both casual and formal context
    **彼女は相談もしない出発した。**
    - *Correction*: **彼女は相談もしないで出発した。**
      - *She departed without even consulting.*
----
-
 
 ---
 

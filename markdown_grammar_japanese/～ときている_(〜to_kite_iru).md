@@ -1,6 +1,6 @@
 Processing keyword: ～ときている (〜to kite iru)
 # Japanese Grammar Point: ～ときている (〜to kite iru)
-# Grammar Lesson: ～ときている (〜to kite iru)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～ときている (〜to kite iru)**. This expression is used to emphasize a reason or cause, highlighting that given a certain situation, a particular outcome is natural or inevitable. Understanding how to use **～ときている** will help you articulate logical reasoning in Japanese more effectively.
 

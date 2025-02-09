@@ -1,6 +1,6 @@
 Processing keyword: ～は抜きにして (〜wa nuki ni shite)
 # Japanese Grammar Point: ～は抜きにして (〜wa nuki ni shite)
-# ～は抜きにして (〜wa nuki ni shite)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～は抜きにして (〜wa nuki ni shite)**, which translates to "**setting aside...**", "**without...**", or "**leaving out...**" in English. This expression is useful when you want to proceed without considering a particular element or when you want to focus on what's important by excluding certain factors from the discussion.
 
@@ -101,7 +101,7 @@ These idiomatic uses are common in both business and casual conversations.
    - **Answer:** False (*は* is used, not *を*.)
 ---
 By understanding and practicing **～は抜きにして**, you can effectively steer conversations to focus on what's important, a useful skill in both professional and personal contexts.
----
+
 
 
 ---

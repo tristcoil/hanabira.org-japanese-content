@@ -1,6 +1,6 @@
 Processing keyword: Noun に先駆けて (〜ni saki gakete)
 # Japanese Grammar Point: Noun に先駆けて (〜ni saki gakete)
-# JLPT N2 Grammar Point: Noun に先駆けて (〜にさきがけて)
+
 ## 1. Introduction
 In this lesson, we'll delve into the grammar point **に先駆けて (にさきがけて)**, which is used to express doing something **before** a particular event or **ahead of** others. This expression is valuable for emphasizing precedence or pioneering action in various contexts.
 
@@ -42,22 +42,27 @@ The expression **に先駆けて** is used when someone or something does an act
 ### Example 1: Business Context
 **新製品の発売に先駆けて、記者会見が行われた。**
 *Before the release of the new product, a press conference was held.*
+
 ---
 ### Example 2: Cultural Event
 **祭りに先駆けて、町は色とりどりの飾りで彩られた。**
 *Ahead of the festival, the town was decorated with colorful ornaments.*
+
 ---
 ### Example 3: Technological Advancement
 **その会社は業界に先駆けて、最新の技術を導入した。**
 *The company introduced the latest technology ahead of the industry.*
+
 ---
 ### Example 4: Educational Setting
 **オープンキャンパスに先駆けて、新しい図書館が完成した。**
 *The new library was completed prior to the open campus event.*
+
 ---
 ### Example 5: Sports News
 **ワールドカップに先駆けて、新ユニフォームが発表された。**
 *The new uniforms were unveiled ahead of the World Cup.*
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -68,6 +73,7 @@ In Japanese society, there's a strong emphasis on being innovative and taking in
 ### Idiomatic Expressions
 - **先駆者 (せんくしゃ)**: *Pioneer*; someone who is a trailblazer in a field.
 - **時代に先駆ける (じだいにさきがける)**: *To be ahead of the times*; to do something innovative before it's common.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -93,8 +99,6 @@ In Japanese society, there's a strong emphasis on being innovative and taking in
    - *Answer*: に先駆けて.
 ---
 By mastering **に先駆けて**, you can express actions that lead the way or happen before significant events, adding nuance and sophistication to your Japanese.
----
-
 
 ---
 

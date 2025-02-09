@@ -1,6 +1,6 @@
 Processing keyword: ～にしたら (〜ni shitara)
 # Japanese Grammar Point: ～にしたら (〜ni shitara)
-# ～にしたら (〜ni shitara)
+
 ## 1. Introduction
 The expression **～にしたら** (〜ni shitara) is a Japanese grammatical structure used to express someone else's perspective or point of view. It translates roughly to "**from someone's standpoint**" or "**if you were in someone's shoes**" in English. This grammar point allows the speaker to consider and articulate how someone else might feel about a situation.
 
@@ -47,6 +47,7 @@ The basic structure is:
 Gakusei ni shitara, shiken no mae wa isogashii mono da.  
 **English Translation:**  
 From a student's standpoint, it's always busy before exams.
+
 ---
 ### Example 2: Formal Writing
 **Japanese:**  
@@ -55,6 +56,7 @@ From a student's standpoint, it's always busy before exams.
 Shouhisha ni shitara, kakaku no joushou wa komatta mondai de aru.  
 **English Translation:**  
 From the consumers' perspective, the price increase is a troubling issue.
+
 ---
 ### Example 3: Considering Someone's Feelings
 **Japanese:**  
@@ -63,6 +65,7 @@ From the consumers' perspective, the price increase is a troubling issue.
 Oya ni shitara, kodomo no anzen ga ichiban taisetsu da.  
 **English Translation:**  
 For parents, their children's safety is the most important thing.
+
 ---
 ### Example 4: Expressing Empathy
 **Japanese:**  
@@ -71,6 +74,7 @@ For parents, their children's safety is the most important thing.
 Kare ni shitara, joudan no tsumori datta n da yo.  
 **English Translation:**  
 From his point of view, he meant it as a joke.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -81,6 +85,7 @@ From his point of view, he meant it as a joke.
 - Adjust politeness level with the surrounding language, not the grammar point itself.
 ### Idiomatic Expressions
 - While **～にしたら** itself is not idiomatic, it's a common structure that reflects the Japanese communication style of indirectness and empathy.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes
@@ -110,7 +115,7 @@ From his point of view, he meant it as a joke.
    **Answer:** False. It is primarily used with animate subjects capable of having perspectives.
 ---
 By understanding **～にしたら**, you can better express empathy and consider situations from others' viewpoints in Japanese.
----
+
 
 
 ---

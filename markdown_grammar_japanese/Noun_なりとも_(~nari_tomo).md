@@ -1,6 +1,6 @@
 Processing keyword: Noun なりとも (~nari tomo)
 # Japanese Grammar Point: Noun なりとも (~nari tomo)
-# Noun なりとも (~なりとも)
+
 ## 1. Introduction
 The grammar pattern **~なりとも** is used in Japanese to express the idea of "even just a little" or "at least". It emphasizes that, although the amount or degree may be small, it is still significant or appreciated.
 

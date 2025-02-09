@@ -1,6 +1,6 @@
 Processing keyword: Noun にとどまらず～も (~ ni todomarazu ~ mo)
 # Japanese Grammar Point: Noun にとどまらず～も (~ ni todomarazu ~ mo)
-# Noun にとどまらず～も (~ にとどまらず ～ も) Grammar Lesson
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **にとどまらず** (*ni todomarazu*), which is used to express that something is **"not limited to"** a particular noun but extends **"beyond"** it. This structure helps you emphasize that the scope of something goes further than what is initially mentioned.
 
@@ -20,8 +20,7 @@ It indicates that the action or state extends beyond the noun mentioned.
 - **[も/まで/さえ]**: Particles meaning "also", "even", or "as far as".
 - **[Additional Information]**: The extended scope or items.
 ### Formation Diagram
-```mermaid
-graph LR
+```
 A[Noun] --> B[にとどまらず] --> C[も/まで/さえ] --> D[Additional Information]
 ```
 ---

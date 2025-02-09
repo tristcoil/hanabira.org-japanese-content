@@ -1,6 +1,6 @@
 Processing keyword: Noun につき (〜ni tsuki)
 # Japanese Grammar Point: Noun につき (〜ni tsuki)
-# Grammar Point: Noun につき (〜ni tsuki)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「Noun につき」** (〜ni tsuki). This expression is commonly used in formal written Japanese, such as notices, announcements, and signs. Understanding this grammar point will help you comprehend and use formal expressions appropriately.
 
@@ -100,6 +100,7 @@ In this lesson, we'll explore the Japanese grammar point **「Noun につき」*
    **Translation**: Get one free for every three items.
 ### Spoken Language Contexts
 While **「につき」** is primarily used in written, formal contexts, understanding it can help in comprehending announcements or formal speech.
+
 ---
 ## 5. Cultural Notes
 ### Formality in Japanese Language

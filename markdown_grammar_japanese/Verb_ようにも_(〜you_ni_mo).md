@@ -1,6 +1,6 @@
 Processing keyword: Verb ようにも (〜you ni mo)
 # Japanese Grammar Point: Verb ようにも (〜you ni mo)
-# 〜ようにも
+
 ## 1. Introduction
 In Japanese, expressing the inability to do something despite the desire or intention is a common grammatical construction. The phrase **〜ようにも** is used to convey the meaning "even if one tries to... cannot" or "would like to... but cannot." This lesson will delve into the usage, structure, and nuances of **〜ようにも**, helping you understand and use it naturally in various contexts.
 

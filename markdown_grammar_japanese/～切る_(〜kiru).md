@@ -1,6 +1,6 @@
 Processing keyword: ～切る (〜kiru)
 # Japanese Grammar Point: ～切る (〜kiru)
-# ～切る (〜kiru)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～切る (〜kiru)**. This expression is used to convey the sense of doing something completely or thoroughly. Mastering ～切る will enhance your ability to express actions that are carried out to their absolute completion in Japanese.
 

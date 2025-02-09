@@ -1,6 +1,6 @@
 Processing keyword: ～にあたり (〜ni atari)
 # Japanese Grammar Point: ～にあたり (〜ni atari)
-# ～にあたり (〜ni atari)
+
 ## 1. Introduction
 The grammar point **～にあたり (〜ni atari)** is a formal expression used in Japanese to indicate an important event or occasion where some action is taken. It translates to **"on the occasion of," "at the time of,"** or **"when."** This expression is often found in speeches, formal announcements, and written documents.
 
@@ -96,7 +96,7 @@ The structure involves attaching **～にあたり** to a noun or the dictionary
 3. **Which verb form is used before にあたり?**
    - **Answer:** Dictionary form (plain present tense)
 ---
-### Thank you for studying **～にあたり**! Practice using this expression in formal contexts to enhance your Japanese proficiency.
+Thank you for studying **～にあたり**! Practice using this expression in formal contexts to enhance your Japanese proficiency.
 
 
 ---

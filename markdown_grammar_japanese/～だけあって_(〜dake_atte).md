@@ -1,6 +1,6 @@
 Processing keyword: ～だけあって (〜dake atte)
 # Japanese Grammar Point: ～だけあって (〜dake atte)
-# ～だけあって (〜dake atte)
+
 ## 1. Introduction
 The grammar point **～だけあって** (〜dake atte) is used in Japanese to express that something is appropriate or expected because of a particular reason or characteristic. It highlights that a result or situation is befitting, given the preceding context.
 ## 2. Core Grammar Explanation

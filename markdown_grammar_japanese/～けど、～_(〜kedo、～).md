@@ -1,6 +1,6 @@
 Processing keyword: ～けど、～ (〜kedo、～)
 # Japanese Grammar Point: ～けど、～ (〜kedo、～)
-# ～けど、～ (〜kedo, ～)
+
 ## 1. Introduction
 The Japanese conjunction **けど (kedo)** is a versatile word that connects two clauses. It is commonly used to express contrast, make soft statements or requests, and introduce topics in conversation. Mastering **けど** will enhance your ability to speak more naturally and politely in various contexts.
 ## 2. Core Grammar Explanation

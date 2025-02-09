@@ -1,6 +1,6 @@
 Processing keyword: Verbる にはあたらない (Verb-ru ni wa ataranai)
 # Japanese Grammar Point: Verbる にはあたらない (Verb-ru ni wa ataranai)
-# Verbるにはあたらない (Verb-る にはあたらない)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **Verbる にはあたらない (Verb-る にはあたらない)**. This expression is used to convey that something is **"not worth doing"** or **"there's no need to do"** a certain action. It's a useful structure for expressing restraint or downplaying a situation.
 

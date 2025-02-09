@@ -1,6 +1,6 @@
 Processing keyword: Verb て くださいませんか (Verb-te kudasaimasen ka)
 # Japanese Grammar Point: Verb て くださいませんか (Verb-te kudasaimasen ka)
-# Verb てくださいませんか (Verb-te kudasaimasen ka)
+
 ## 1. Introduction
 In this lesson, we'll explore the polite request form **「Verbてくださいませんか」(Verb-te kudasaimasen ka)**. This expression is a formal and respectful way to ask someone to do something in Japanese. It's essential for situations where you need to show a high level of politeness, such as speaking with customers, superiors, or strangers.
 
@@ -146,8 +146,6 @@ Let's compare **「Verbてくださいませんか」** with similar request for
    **Answer:** **b) 写真を撮ってくださいませんか。**
 ---
 By understanding and using **「Verbてくださいませんか」**, you can communicate more effectively and respectfully in formal Japanese situations.
----
-
 
 ---
 

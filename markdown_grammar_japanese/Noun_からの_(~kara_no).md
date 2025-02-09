@@ -1,6 +1,6 @@
 Processing keyword: Noun からの (~kara no)
 # Japanese Grammar Point: Noun からの (~kara no)
-# Noun からの (~kara no)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Noun からの (~kara no)**, which is used to indicate the origin or source of something. Understanding how to use **からの** will help you express relationships between nouns, such as "a gift from a friend" or "information from the company."
 

@@ -1,6 +1,6 @@
 Processing keyword: ～あまり (〜amari)
 # Japanese Grammar Point: ～あまり (〜amari)
-# ～あまり (〜amari)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～あまり (〜amari)**. This expression is used to indicate that something is done or felt to such an excessive degree that it leads to an unintended or unexpected result.
 ## 2. Core Grammar Explanation

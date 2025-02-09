@@ -1,6 +1,6 @@
 Processing keyword: ～とか (〜to ka)
 # Japanese Grammar Point: ～とか (〜to ka)
-# ～とか (〜to ka)
+
 ## 1. Introduction
 The grammar point **～とか (〜to ka)** is a versatile expression in Japanese that can convey various meanings depending on the context. It is commonly used to list examples, indicate hearsay, or express uncertainty. Understanding how to use **～とか** correctly can greatly enhance your ability to communicate nuanced ideas in both spoken and written Japanese.
 

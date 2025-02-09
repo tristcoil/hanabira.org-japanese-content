@@ -1,6 +1,6 @@
 Processing keyword: ～んだって (〜n datte)
 # Japanese Grammar Point: ～んだって (〜n datte)
-# ～んだって (〜n datte)
+
 ## 1. Introduction
 In casual Japanese conversations, you might often hear people ending their sentences with ～んだって (〜n datte). This grammar point is a colloquial way to express hearsay or convey information that you've heard from someone else. Understanding how to use ～んだって will help you sound more natural when sharing news or gossip in Japanese.
 
@@ -120,8 +120,6 @@ In casual Japanese conversations, you might often hear people ending their sente
    - **Answer**: あの店は有名**なんだって**。
 ---
 By mastering **～んだって**, you can effectively share information you've heard and sound more like a native speaker in casual conversations. Remember to be mindful of the context and switch to formal expressions when necessary.
----
-
 
 ---
 

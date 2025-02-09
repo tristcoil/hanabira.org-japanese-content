@@ -1,6 +1,6 @@
 Processing keyword: Verbる ことのないように (Verb-ru koto no nai you ni)
 # Japanese Grammar Point: Verbる ことのないように (Verb-ru koto no nai you ni)
-# 「Verbることのないように」Grammar Lesson
+
 ## 1. Introduction
 Welcome to today's Japanese grammar lesson! In this lesson, we'll explore the grammar point **「Verbることのないように」** (*Verb-ru koto no nai you ni*). This structure is commonly used to express doing something **to prevent an undesirable action from happening**. Let's dive in and learn how to use it effectively in various contexts.
 
@@ -38,6 +38,7 @@ It indicates taking precautions or making efforts to prevent something from occu
 - **Verbないように** uses the **negative form** of the verb, while **Verbることのないように** uses the **affirmative dictionary form** followed by **ことのないように**.
 - **Verbることのないように** often sounds more **formal** and emphasizes the **preventative measure** being taken.
 - **Verbないようにする** focuses on the subject's effort to prevent the action.
+
 ---
 ## 4. Examples in Context
 ### Example Sentences
@@ -59,6 +60,7 @@ It indicates taking precautions or making efforts to prevent something from occu
 ### Contextual Notes
 - **Formal Situations**: This structure is often used in formal writing, speeches, and polite requests.
 - **Precautionary Actions**: The sentences typically involve taking action to prevent negative outcomes.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -69,6 +71,7 @@ It indicates taking precautions or making efforts to prevent something from occu
 - **Avoid in Casual Speech**: In casual conversations, simpler expressions like **「ないように」** might be more common.
 ### Idiomatic Expressions
 While **「Verbることのないように」** is itself a set phrase, it is often used in idiomatic expressions related to caution and prevention.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -98,17 +101,16 @@ While **「Verbることのないように」** is itself a set phrase, it is of
 3. **Translate into Japanese using 「ことのないように」:**
    "I check my work carefully so as not to make mistakes."
    **Answer:** ミスをすることのないように、注意深く仕事を確認します。
----
-Congratulations on completing the lesson! Keep practicing to solidify your understanding of **「Verbることのないように」**.
-# Additional Exercises
+
 ### Practice Creating Sentences
 Try crafting your own sentences using **「Verbることのないように」**:
 1. Using the verb **失礼する** (to be rude):
    **Answer Example:** 失礼することのないように、言葉遣いに気をつけます。
 2. Using the verb **倒れる** (to collapse):
    **Answer Example:** 倒れることのないように、健康に注意しています。
+
 ---
-Feel free to share your sentences with peers or teachers for feedback!
+Congratulations on completing the lesson! Keep practicing to solidify your understanding of **「Verbることのないように」**.
 
 
 ---

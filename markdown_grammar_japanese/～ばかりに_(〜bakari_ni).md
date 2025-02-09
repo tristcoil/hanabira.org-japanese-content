@@ -1,6 +1,6 @@
 Processing keyword: ～ばかりに (〜bakari ni)
 # Japanese Grammar Point: ～ばかりに (〜bakari ni)
-# ～ばかりに (〜bakari ni)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **～ばかりに (〜bakari ni)**, a structure used to express that *just because* of a particular reason, an unwanted or unexpected result occurred. This expression emphasizes that a single cause led directly to a negative outcome.
 ## 2. Core Grammar Explanation

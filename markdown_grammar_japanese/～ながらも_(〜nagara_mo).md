@@ -1,6 +1,6 @@
 Processing keyword: ～ながらも (〜nagara mo)
 # Japanese Grammar Point: ～ながらも (〜nagara mo)
-# ～ながらも (〜nagara mo)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～ながらも (〜nagara mo)**, which is used to express a contrast between two situations. It conveys the meaning of "even though", "although", or "despite" in English.
 

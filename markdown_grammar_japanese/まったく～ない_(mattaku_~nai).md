@@ -1,6 +1,6 @@
 Processing keyword: まったく～ない (mattaku ~nai)
 # Japanese Grammar Point: まったく～ない (mattaku ~nai)
-# 「まったく～ない (mattaku ~nai)」Grammar Point
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「まったく～ない (mattaku ~nai)」**, which is used to express **"not at all"** or **"completely not"**. Understanding this expression will help you articulate strong negation in Japanese, enhancing your ability to communicate more precisely.
 
@@ -108,18 +108,6 @@ The basic structure of **まったく～ない** is as follows:
      - *This book is not interesting at all.*
 ---
 By mastering **まったく～ない**, you'll enhance your ability to express strong negation in Japanese, making your conversations more precise and nuanced.
----
-## Table of Contents
-1. [Introduction](#1-introduction)
-2. [Core Grammar Explanation](#2-core-grammar-explanation)
-3. [Comparative Analysis](#3-comparative-analysis)
-4. [Examples in Context](#4-examples-in-context)
-5. [Cultural Notes](#5-cultural-notes)
-6. [Common Mistakes and Tips](#6-common-mistakes-and-tips)
-7. [Summary and Review](#7-summary-and-review)
----
-*[Back to Top](#「まったく～ない-mattaku-～nai」grammar-point)*
-
 
 ---
 

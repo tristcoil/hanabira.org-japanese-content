@@ -1,6 +1,6 @@
 Processing keyword: ～ようだ (〜you da)
 # Japanese Grammar Point: ～ようだ (〜you da)
-# ～ようだ (〜you da)
+
 ## 1. Introduction
 The expression **～ようだ** is a versatile grammar point in Japanese that is used to convey conjecture, resemblance, or appearances based on indirect evidence or one's impressions. It is often translated as "it seems," "it looks like," or "it appears that" in English. Mastering this grammar point will enhance your ability to express nuanced observations and suppositions in Japanese.
 

@@ -1,6 +1,6 @@
 Processing keyword: Noun 並み (~nami)
 # Japanese Grammar Point: Noun 並み (~nami)
-# Grammar Lesson: Noun 並み (~なみ)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **~並み** (~なみ), which is used to express that someone or something is **"on the same level as"** or **"equivalent to"** a particular noun. This structure is handy when comparing abilities, qualities, or quantities, and it can add depth to your descriptions in Japanese.
 

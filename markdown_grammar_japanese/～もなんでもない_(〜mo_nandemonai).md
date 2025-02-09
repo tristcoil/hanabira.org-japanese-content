@@ -1,6 +1,6 @@
 Processing keyword: ～もなんでもない (〜mo nandemonai)
 # Japanese Grammar Point: ～もなんでもない (〜mo nandemonai)
-# ～もなんでもない (〜mo nandemonai)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～もなんでもない (〜mo nandemonai)**. This expression is used to emphatically deny or negate something, conveying the meaning of "not at all" or "by no means". Understanding this grammar point will help you express strong negation and refute statements in Japanese effectively.
 

@@ -1,6 +1,6 @@
 Processing keyword: ～べきではない (〜beki dewa nai)
 # Japanese Grammar Point: ～べきではない (〜beki dewa nai)
-# Grammar Lesson: ～べきではない (〜beki dewa nai)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～べきではない (〜beki dewa nai)**. This structure is used to express that something **should not** or **ought not** be done. It's a way to give strong advice or express disapproval about an action.
 
@@ -135,7 +135,6 @@ To form **～べきではない**, attach **べきではない** to the **dictio
    **Answer:** **～べきではない** is stronger than **～ないほうがいい**.
 ---
 By mastering **～べきではない**, you can effectively express strong advice or moral judgments in Japanese, enhancing your communication skills and understanding of social nuances.
----
 
 
 ---

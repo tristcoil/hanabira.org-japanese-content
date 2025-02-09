@@ -1,6 +1,6 @@
 Processing keyword: ～たきり (〜takiri)
 # Japanese Grammar Point: ～たきり (〜takiri)
-# 〜たきり (〜takiri)
+
 ## 1. Introduction
 The grammar point **〜たきり (〜takiri)** is used to express that **since a certain action occurred, the situation has remained unchanged**. It often implies that something expected hasn't happened after that initial action, and the state continues up to the present.
 ## 2. Core Grammar Explanation

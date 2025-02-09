@@ -1,6 +1,6 @@
 Processing keyword: ～まで (〜made)
 # Japanese Grammar Point: ～まで (〜made)
-# Grammar Point: ～まで (〜made)
+
 ## 1. Introduction
 In Japanese, the particle **まで** (made) is commonly used to express the idea of "until," "up to," or "as far as." It indicates the end point of an action, time period, location, or even an extent. Mastering **まで** will enhance your ability to describe limits and durations in Japanese effectively.
 

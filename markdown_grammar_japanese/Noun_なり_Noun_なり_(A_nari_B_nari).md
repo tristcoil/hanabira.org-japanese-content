@@ -1,6 +1,6 @@
 Processing keyword: Noun なり Noun なり (A nari B nari)
 # Japanese Grammar Point: Noun なり Noun なり (A nari B nari)
-# Japanese Grammar Lesson: Noun なり Noun なり (A なり B なり)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **「A なり B なり」**, which is used to offer multiple options or suggestions in Japanese. This structure allows you to present alternatives, implying that any of the mentioned options are acceptable. Understanding this pattern will enhance your ability to make polite suggestions and express flexibility in conversations.
 
@@ -24,10 +24,12 @@ In this lesson, we'll explore the grammar point **「A なり B なり」**, whi
 - Often followed by a command, suggestion, or request.
 - Used in both spoken and written language.
 ### Visual Aid: Structure Table
+
 | **Option 1 (Verb/Noun)** | **なり** | **Option 2 (Verb/Noun)** | **なり** | **(rest of the sentence)** |
 |--------------------------|----------|--------------------------|----------|----------------------------|
 |          食べる          |   なり   |          飲む           |   なり   |        してください        |
 |          コーヒー        |   なり   |          お茶           |   なり   |          どうぞ            |
+
 ---
 ## 3. Comparative Analysis
 ### Comparison with Similar Grammar Points
@@ -112,8 +114,6 @@ In this lesson, we'll explore the grammar point **「A なり B なり」**, whi
    *Explanation*: Verbs should be in the dictionary form before 「なり」.
 ---
 By mastering **「A なり B なり」**, you can enhance your Japanese communication skills by offering polite suggestions and expressing flexibility. Keep practicing by incorporating this structure into your daily conversations!
----
-
 
 ---
 

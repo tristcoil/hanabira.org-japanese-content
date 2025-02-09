@@ -1,6 +1,6 @@
 Processing keyword: ～くせに (〜kuse ni)
 # Japanese Grammar Point: ～くせに (〜kuse ni)
-# ～くせに (〜kuse ni)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～くせに (〜kuse ni)**. This expression is commonly used to indicate a contradiction between what is expected and what actually is, often carrying a critical or accusatory tone. Understanding how to use ～くせに will help you express frustration or highlight inconsistencies in Japanese.
 

@@ -1,6 +1,6 @@
 Processing keyword: Noun は～ (Noun wa〜)
 # Japanese Grammar Point: Noun は～ (Noun wa〜)
-# Noun は～ (Noun wa〜)
+
 ## 1. Introduction
 In Japanese, the particle **は** (pronounced "wa") is one of the most fundamental elements of the language. It is used to mark the **topic** of a sentence, indicating what the sentence is about. Understanding how to use **は** is essential for constructing basic sentences and communicating effectively in Japanese.
 
@@ -29,10 +29,12 @@ In Japanese, the particle **は** (pronounced "wa") is one of the most fundament
 ### は (wa) vs. が (ga)
 - **が (ga)** is a subject marker, often used to introduce new information or emphasize the subject.
 - **は** is used for known topics or to contrast information.
+
 | Particle | Function          | Usage Example          |
 |----------|-------------------|------------------------|
 | **は**     | Topic marker      | 猫**は**好きです。<br>"As for cats, I like them." |
 | **が**     | Subject marker    | 猫**が**います。<br>"There is a cat."         |
+
 - **Note**: Choosing between **は** and **が** can change the nuance of the sentence.
 ---
 ## 4. Examples in Context
@@ -113,10 +115,10 @@ In Japanese, the particle **は** (pronounced "wa") is one of the most fundament
    *Neko wa kawaii desu.*  
    "Cats are cute."
 ---
-# 日本語学習、頑張ってください！  
+
+日本語学習、頑張ってください！  
 *Nihongo gakushū, ganbatte kudasai!*  
 "Good luck with your Japanese studies!"
-
 
 ---
 

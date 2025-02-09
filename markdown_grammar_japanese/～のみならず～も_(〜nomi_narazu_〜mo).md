@@ -1,6 +1,6 @@
 Processing keyword: ～のみならず～も (〜nomi narazu 〜mo)
 # Japanese Grammar Point: ～のみならず～も (〜nomi narazu 〜mo)
-# ～のみならず～も (〜nomi narazu 〜mo)
+
 ## 1. Introduction
 Welcome to today's lesson on the Japanese grammar point **～のみならず～も (〜nomi narazu 〜mo)**. This expression translates to "**not only... but also...**" in English. It's a formal structure used to indicate that something applies to multiple items or situations. Mastering this grammar point will enhance your ability to express complex ideas and comparisons in Japanese.
 

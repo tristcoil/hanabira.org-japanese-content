@@ -1,10 +1,11 @@
 Processing keyword: ～の～ (〜no 〜)
 # Japanese Grammar Point: ～の～ (〜no 〜)
-# Japanese Grammar Lesson: The Particle ～の～ (〜no〜)
+
 
 ---
 ## 1. Introduction
 The particle **の (no)** is one of the most fundamental and versatile particles in the Japanese language. It primarily functions to connect nouns, indicating possession or a descriptive relationship between them. Understanding the usage of **の** is essential for constructing basic sentences and expressing relationships between objects, people, and concepts.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -113,7 +114,7 @@ The basic structure using **の** is:
 3. Is the following sentence correct? If not, correct it: 先生学生です。
    - **Answer**: Incorrect. Correct sentence: 先生の学生です。
 ---
-**Keep practicing using の to connect nouns, and you'll soon find it becomes second nature!**
+Keep practicing using の to connect nouns, and you'll soon find it becomes second nature!
 
 
 ---

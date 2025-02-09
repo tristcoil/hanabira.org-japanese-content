@@ -1,6 +1,6 @@
 Processing keyword: ～を問わず (〜wo towazu)
 # Japanese Grammar Point: ～を問わず (〜wo towazu)
-# ～を問わず (〜wo towazu)
+
 ## 1. Introduction
 **～を問わず** (〜wo towazu) is a Japanese grammar point used to express "regardless of," "irrespective of," or "no matter." It indicates that a particular condition or factor does not affect the outcome or applicability of a situation.
 

@@ -1,6 +1,6 @@
 Processing keyword: だれも～ないです (dare mo ~ nai desu)
 # Japanese Grammar Point: だれも～ないです (dare mo ~ nai desu)
-# Understanding the Grammar Point: だれも～ないです (dare mo ~ nai desu)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar pattern **だれも～ないです** (*dare mo ~ nai desu*), which is used to express that **"no one"** does something. This structure is essential for making negative statements about people in Japanese. By mastering this grammar point, you'll be able to communicate more precisely and understand others better in various contexts.
 

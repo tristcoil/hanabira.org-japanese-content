@@ -1,6 +1,6 @@
 Processing keyword: ～ようがない (〜you ga nai)
 # Japanese Grammar Point: ～ようがない (〜you ga nai)
-# ～ようがない (〜you ga nai)
+
 ## 1. Introduction
 The grammar point **～ようがない** expresses the idea that there is no way to do something or it's impossible to do it. It conveys a sense of helplessness or the absence of a method or means.
 ## 2. Core Grammar Explanation
@@ -51,6 +51,7 @@ I don't know his address, so there's no way to contact him.
 Konnani kowaretara, naoshi you ga nai yo.
 **Translation:**  
 If it's broken this badly, there's no way to fix it.
+
 ---
 ### Example 3: Spoken Language
 **Japanese:**  
@@ -59,6 +60,7 @@ If it's broken this badly, there's no way to fix it.
 Michi ga kouzui de fusagarete ite, iki you ga nai.
 **Translation:**  
 The road is blocked by a flood, so there's no way to go.
+
 ---
 ### Example 4: Written Language
 **Japanese:**  
@@ -67,6 +69,7 @@ The road is blocked by a flood, so there's no way to go.
 Tegakari ga nai ijou, shirabe you ga nakatta.
 **Translation:**  
 Since there were no clues, there was no way to investigate.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance

@@ -1,6 +1,6 @@
 Processing keyword: Noun が できます (Noun ga dekimasu)
 # Japanese Grammar Point: Noun が できます (Noun ga dekimasu)
-# Lesson: Using "Noun が できます (Noun ga dekimasu)" in Japanese
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **"Noun が できます (Noun ga dekimasu)"**, which is used to express ability or possibility in Japanese. This structure is essential for conveying what someone can do or what is possible.
 

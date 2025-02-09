@@ -1,6 +1,6 @@
 Processing keyword: ～にかけては (〜ni kakete wa)
 # Japanese Grammar Point: ～にかけては (〜ni kakete wa)
-# JLPT Grammar Lesson: ～にかけては (〜ni kakete wa)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～にかけては (〜ni kakete wa)**. This expression is used to highlight someone's exceptional skill or ability in a particular field. It conveys the idea that "when it comes to ~, (someone) is the best" or "in terms of ~, (someone) excels."
 

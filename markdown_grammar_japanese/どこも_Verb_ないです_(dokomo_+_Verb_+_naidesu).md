@@ -1,6 +1,6 @@
 Processing keyword: どこも Verb ないです (dokomo + Verb + naidesu)
 # Japanese Grammar Point: どこも Verb ないです (dokomo + Verb + naidesu)
-# どこも Verb ないです (どこも + Verb + ないです)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar pattern **"どこも Verb ないです"**, which translates to "**do not Verb anywhere**" or "**Verb nowhere**" in English. This construction is useful when expressing that an action does not occur at any place.
 

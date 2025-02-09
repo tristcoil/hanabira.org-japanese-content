@@ -1,6 +1,6 @@
 Processing keyword: あまり～ありません (amari ~ arimasen)
 # Japanese Grammar Point: あまり～ありません (amari ~ arimasen)
-# あまり～ありません (amari ~ arimasen)
+
 ## 1. Introduction
 In Japanese, expressing the degree or frequency of an action or state is essential for clear communication. The grammar pattern **あまり～ありません** is used to indicate that something is **"not very..."** or **"not much..."**. This lesson will delve into the usage of this pattern, helping you express negation with nuance.
 ## 2. Core Grammar Explanation

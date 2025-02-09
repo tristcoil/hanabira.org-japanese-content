@@ -1,6 +1,6 @@
 Processing keyword: まだ〜ないです (mada 〜 nai desu)
 # Japanese Grammar Point: まだ〜ないです (mada 〜 nai desu)
-# Grammar Lesson: まだ〜ないです (mada 〜 nai desu)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **まだ〜ないです** (*mada 〜 nai desu*), which is used to express that something has **not happened yet**. This structure is commonly used in everyday conversation to indicate that an expected action or event hasn't occurred up to the present moment.
 
@@ -107,8 +107,6 @@ The basic structure is:
    - **Answer:** まだ (*Mada*)
 ---
 By mastering **まだ〜ないです**, you'll enhance your ability to discuss pending actions and express yourself more naturally in Japanese.
----
-
 
 ---
 

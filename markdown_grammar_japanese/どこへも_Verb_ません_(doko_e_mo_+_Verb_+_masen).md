@@ -1,8 +1,9 @@
 Processing keyword: どこへも Verb ません (doko e mo + Verb + masen)
 # Japanese Grammar Point: どこへも Verb ません (doko e mo + Verb + masen)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **どこへも + Verb ません** (*doko e mo + Verb + masen*). This structure is used to express the idea of **not going anywhere**. It's a common expression in Japanese to indicate that someone does not go to any place or location.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 - **どこへも** (*doko e mo*): Anywhere/Nowhere (when used with a negative verb)
 - **Verb ません** (*Verb masen*): Negative polite form of a verb
@@ -26,7 +27,7 @@ The basic structure is:
 - **どこへも行きません。**
   - *Doko e mo ikimasen.*
   - "I do not go anywhere."
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Comparing with Similar Expressions:
 1. **どこかへ行きます。** (*Dokoka e ikimasu.*)
    - **Meaning:** "I will go somewhere."
@@ -35,7 +36,7 @@ The basic structure is:
    - **Meaning:** "I go everywhere."
    - Less common; **どこへでも行きます** is more natural for "I go anywhere/everywhere."
 **Note:** When using **どこへも** with an affirmative verb, the meaning changes and may sound unnatural. Typically, **どこへも** is used with negative verbs.
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Situations
 1. **今日はどこへも行きません。**
    - *Kyō wa doko e mo ikimasen.*
@@ -61,7 +62,7 @@ The basic structure is:
 7. **彼女は忙しくてどこへも旅行しません。**
    - *Kanojo wa isogashikute doko e mo ryokō shimasen.*
    - "She is busy and does not travel anywhere."
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Japanese society, expressions indicating one's intentions or actions are often communicated politely and indirectly. The use of **ません** adds a level of politeness suitable for various social contexts.
 ### Politeness Levels
@@ -71,7 +72,7 @@ In Japanese society, expressions indicating one's intentions or actions are ofte
   - *Doko e mo ikazu ni ie ni imasu.*
   - "I stay at home without going anywhere."
 This expression emphasizes staying at home and is commonly used in contexts such as bad weather or personal choice.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 **Common Mistake:** Using **どこへも** with an affirmative verb.
 - **Incorrect:** どこへも行きます。(*Doko e mo ikimasu.*)
@@ -87,7 +88,7 @@ This expression emphasizes staying at home and is commonly used in contexts such
 - **Tip:** Associate **どこへも** with negative verbs and **どこかへ** with affirmative verbs.
   - **どこかへ行きます。** (*Dokoka e ikimasu.*) - "I will go somewhere."
   - **どこへも行きません。** (*Doko e mo ikimasen.*) - "I will not go anywhere."
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **どこへも + Verb ません** is used to express that someone does **not go anywhere**.
 - The particle **も** combined with a negative verb emphasizes the negation.
@@ -98,9 +99,6 @@ This expression emphasizes staying at home and is commonly used in contexts such
 2. **True or False:** It's common to use **どこへも** with affirmative verbs.
    - **Answer:** False. **どこへも** is typically used with negative verbs.
 3. **Fill in the blank:** To say "I will go somewhere," use **どこかへ行きます。** (*Dokoka e ikimasu.*)
-
----
-
 
 ---
 

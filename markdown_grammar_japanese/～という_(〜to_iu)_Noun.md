@@ -1,6 +1,6 @@
 Processing keyword: ～という (〜to iu) Noun
 # Japanese Grammar Point: ～という (〜to iu) Noun
-# ～という (〜to iu) Noun
+
 ## 1. Introduction
 The grammar point **～という (〜to iu)** is a fundamental structure in Japanese that is used to define or describe a noun by specifying what it is called. It translates to **"called," "named,"** or **"that is called"** in English. This construction is particularly useful when introducing new concepts, items, or when specifying exactly which person or thing you're referring to.
 

@@ -1,6 +1,6 @@
 Processing keyword: ～ても (〜temo)
 # Japanese Grammar Point: ～ても (〜temo)
-# ～ても (〜temo)
+
 ## 1. Introduction
 The grammar point ～ても (〜temo) is a versatile expression in Japanese that conveys the meaning of "even if," "even though," or "no matter." It is used to indicate that the result or the main clause remains unchanged regardless of the condition stated.
 
@@ -98,7 +98,6 @@ The formation of ～ても depends on whether it is attached to verbs, adjective
    - **Answer**: 高くても買います。
 3. **Fill in the blank: __がなくても大丈夫です。 (It's okay even if there isn't __.)**
    - **Possible Answer**: 時間 (じかん) - 時間がなくても大丈夫です。
----
 
 
 ---

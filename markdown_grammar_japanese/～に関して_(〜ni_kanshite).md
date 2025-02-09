@@ -1,6 +1,6 @@
 Processing keyword: ～に関して (〜ni kanshite)
 # Japanese Grammar Point: ～に関して (〜ni kanshite)
-# ～に関して (〜ni kanshite)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～に関して (〜ni kanshite)**, which is used to express "concerning," "regarding," or "about" a particular topic. This expression is commonly found in formal contexts and is essential for discussing topics in detail.
 

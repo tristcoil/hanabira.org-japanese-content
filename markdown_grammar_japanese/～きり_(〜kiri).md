@@ -1,6 +1,6 @@
 Processing keyword: ～きり (〜kiri)
 # Japanese Grammar Point: ～きり (〜kiri)
-# JLPT Grammar Explanation: ～きり (〜kiri)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～きり (〜kiri)**. This expression is used to indicate exclusivity or a state of remaining unchanged after an action. Understanding how to use **～きり** will help you express limitations and ongoing situations effectively in Japanese.
 

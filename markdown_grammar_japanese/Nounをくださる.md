@@ -1,6 +1,6 @@
 Processing keyword: Nounをくださる
 # Japanese Grammar Point: Nounをくださる
-# Nounをくださる
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **"Nounをくださる"**, a polite expression used when someone gives you something. Understanding this structure is essential for proper etiquette and expressing gratitude in Japanese.
 

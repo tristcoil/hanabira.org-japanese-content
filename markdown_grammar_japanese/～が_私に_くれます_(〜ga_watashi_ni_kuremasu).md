@@ -1,6 +1,6 @@
 Processing keyword: ～が 私に くれます (〜ga watashi ni kuremasu)
 # Japanese Grammar Point: ～が 私に くれます (〜ga watashi ni kuremasu)
-# ～が 私に くれます (〜ga watashi ni kuremasu)
+
 ## 1. Introduction
 The Japanese grammar pattern **～が 私に くれます** is used to express that someone gives something to **me** (the speaker). This structure highlights the action of giving from the giver to the speaker, emphasizing the benefit received by the speaker.
 

@@ -1,6 +1,6 @@
 Processing keyword: い-Adjective て (i-Adjective + te~)
 # Japanese Grammar Point: い-Adjective て (i-Adjective + te~)
-# い-Adjective て Form (い-Adj + くて)
+
 ## 1. Introduction
 In this lesson, we'll explore the **て-form** of **い-adjectives** in Japanese. Mastering this grammar point allows you to connect adjectives, describe multiple qualities, and explain reasons smoothly in your sentences.
 ## 2. Core Grammar Explanation

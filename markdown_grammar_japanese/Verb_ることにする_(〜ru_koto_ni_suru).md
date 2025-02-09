@@ -1,6 +1,6 @@
 Processing keyword: Verb ることにする (〜ru koto ni suru)
 # Japanese Grammar Point: Verb ることにする (〜ru koto ni suru)
-# Grammar Lesson: Verb ることにする (〜ru koto ni suru)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verb ることにする (〜ru koto ni suru)**. This structure is commonly used to express a decision or resolution made by the speaker to take a certain action. Mastering this grammar point will help you convey your intentions and decisions effectively in Japanese.
 
@@ -13,21 +13,24 @@ The structure of this grammar point is:
 - **Verb (Dictionary Form) + ことにする**
 ### Formation Diagram
 Let's break down the formation:
+
 | Component                  | Role                        |
 |----------------------------|-----------------------------|
 | **Verb (Dictionary Form)** | The action to be decided upon |
 | **こと**                   | Nominalizes the verb (turns it into a noun phrase) |
 | **にする**                 | Indicates making a decision or setting a policy |
+
 ### Examples of Formation
+
 | Verb (Dictionary Form) | +ことにする             | Meaning                        |
 |------------------------|-------------------------|--------------------------------|
 | 食べる (taberu)         | 食べることにする         | Decide to eat                  |
 | 行く (iku)              | 行くことにする           | Decide to go                   |
 | 勉強する (benkyou suru) | 勉強することにする       | Decide to study                |
 | 運動する (undou suru)   | 運動することにする       | Decide to exercise             |
+
 ### Visual Aid
-```mermaid
-graph TD;
+```
     A[Verb (Dictionary Form)] --> B[こと];
     B --> C[にする];
     C --> D[Express Decision to Act];

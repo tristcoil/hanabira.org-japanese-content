@@ -1,6 +1,6 @@
 Processing keyword: ～について (〜ni tsuite)
 # Japanese Grammar Point: ～について (〜ni tsuite)
-# ～について (〜ni tsuite)
+
 ## 1. Introduction
 The grammar point **～について (〜ni tsuite)** is a commonly used expression in Japanese that means **"about," "concerning,"** or **"regarding."** It is essential for expressing topics of discussion, inquiries, or providing information related to a specific subject.
 
@@ -47,6 +47,7 @@ Attach **～について** directly to a noun to indicate the topic.
 | ～について       | Casual    | Everyday conversation    |
 | ～に関して       | Formal    | Official contexts        |
 | ～に対して       | Neutral   | Actions/feelings directed |
+
 ---
 ## 4. Examples in Context
 ### Sentence Examples
@@ -58,6 +59,7 @@ Attach **～について** directly to a noun to indicate the topic.
 Nihon no rekishi ni tsuite kyōmi ga arimasu.
 **Translation:**  
 "I am interested in Japanese history."
+
 ---
 #### Example 2: Formal Writing
 **Japanese:**  
@@ -67,6 +69,7 @@ Nihon no rekishi ni tsuite kyōmi ga arimasu.
 Kono ken ni tsuite no goiken o okikase kudasai.
 **Translation:**  
 "Please let us know your opinion regarding this matter."
+
 ---
 #### Example 3: Asking for Information
 **Japanese:**  
@@ -76,6 +79,7 @@ Kono ken ni tsuite no goiken o okikase kudasai.
 Ashita no kaigi ni tsuite oshiete moraemasu ka.
 **Translation:**  
 "Could you tell me about tomorrow's meeting?"
+
 ---
 #### Example 4: Expressing Thoughts
 **Japanese:**  
@@ -85,6 +89,7 @@ Ashita no kaigi ni tsuite oshiete moraemasu ka.
 Kankyō hogo ni tsuite kangaeru koto wa taisetsu desu.
 **Translation:**  
 "Thinking about environmental protection is important."
+
 ---
 #### Example 5: Informal Inquiry
 **Japanese:**  
@@ -94,6 +99,7 @@ Kankyō hogo ni tsuite kangaeru koto wa taisetsu desu.
 Sono eiga ni tsuite dō omou?
 **Translation:**  
 "What do you think about that movie?"
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance

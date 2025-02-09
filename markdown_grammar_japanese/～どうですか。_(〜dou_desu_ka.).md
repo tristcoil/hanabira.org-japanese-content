@@ -1,10 +1,11 @@
 Processing keyword: ～どうですか。 (〜dou desu ka.)
 # Japanese Grammar Point: ～どうですか。 (〜dou desu ka.)
-# JLPT Grammar Point: ～どうですか (〜dō desu ka)
+
 
 ---
 ## 1. Introduction
 The expression **～どうですか (〜dō desu ka)** is a versatile and commonly used phrase in Japanese. It is essential for everyday conversations, especially when asking for opinions, making suggestions, or inquiring about the condition of something or someone. Understanding how to use **～どうですか** correctly will enhance your ability to interact smoothly in various social situations.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

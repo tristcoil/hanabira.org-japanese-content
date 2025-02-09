@@ -1,5 +1,6 @@
 Processing keyword: Noun のことだから (〜no koto dakara)
 # Japanese Grammar Point: Noun のことだから (〜no koto dakara)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **〜のことだから (〜no koto dakara)**. This expression is used to make assumptions or judgments based on the known characteristics or typical behavior of a person or thing. It's a useful structure for expressing expectations that arise from familiarity with someone or something.
 

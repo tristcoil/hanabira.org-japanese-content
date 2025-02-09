@@ -1,6 +1,6 @@
 Processing keyword: ～がらないで (〜ga ranai de)
 # Japanese Grammar Point: ～がらないで (〜ga ranai de)
-# ～がらないで (〜garanai de)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **～がらないで (〜garanai de)**, a useful expression in Japanese that allows you to tell someone **"Don't feel..."** or **"Don't be..."** a certain way. This grammar is particularly helpful when encouraging someone not to feel negative emotions like fear, loneliness, or shyness.
 
@@ -122,7 +122,6 @@ In Japanese culture, there is often an emphasis on modesty and suppressing stron
    *Answer*: **True**
 ---
 By mastering **～がらないで**, you'll enhance your ability to express empathy and offer comfort in Japanese, making your conversations more natural and heartfelt.
----
 
 
 ---

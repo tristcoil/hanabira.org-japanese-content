@@ -1,6 +1,6 @@
 Processing keyword: Noun や Noun など～ (Noun ya Noun nado)
 # Japanese Grammar Point: Noun や Noun など～ (Noun ya Noun nado)
-# Noun や Noun など～ (Noun ya Noun nado)
+
 ## 1. Introduction
 In this lesson, we'll explore how to list examples in Japanese using the grammar pattern **「Noun や Noun など」**. This construction is used to indicate that the mentioned nouns are examples among others, similar to saying "Noun, Noun, etc." in English. It's a useful way to imply there are more items without having to list them all.
 ## 2. Core Grammar Explanation

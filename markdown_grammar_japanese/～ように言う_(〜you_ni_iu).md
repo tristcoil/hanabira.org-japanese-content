@@ -1,6 +1,6 @@
 Processing keyword: ～ように言う (〜you ni iu)
 # Japanese Grammar Point: ～ように言う (〜you ni iu)
-# ～ように言う (〜you ni iu)
+
 ## 1. Introduction
 In Japanese, expressing indirect commands or requests is essential for polite and nuanced communication. The grammar structure **～ように言う** is used to convey such indirect commands, requests, or suggestions. Understanding this structure will enhance your ability to report what someone told someone else to do or to make polite requests.
 

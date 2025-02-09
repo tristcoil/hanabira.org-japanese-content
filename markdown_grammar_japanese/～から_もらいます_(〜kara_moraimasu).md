@@ -29,11 +29,14 @@ The basic structure is:
 ### ～にあげます versus ～からもらいます
 - **～にあげます** (**~ni agemasu**) means "to give to ~".
 - **～からもらいます** (**~kara moraimasu**) means "to receive from ~".
-| English              | Japanese                     |
-|----------------------|------------------------------|
-| I give a book to Tom.| 私はトムに本をあげます。         |
-| I receive a book from Tom. | 私はトムから本をもらいます。 |
+
+| English                    | Japanese                     |
+|----------------------------|------------------------------|
+| I give a book to Tom.      | 私はトムに本をあげます。         |
+| I receive a book from Tom. | 私はトムから本をもらいます。|
+
 **Note:** The giver and receiver switch roles, and the particles **に** (to) and **から** (from) indicate the direction of the action.
+
 ---
 ## 4. Examples in Context
 ### Example 1: Basic Sentence
@@ -53,6 +56,7 @@ The basic structure is:
 **Japanese:** 市役所からお知らせをもらいました。
 **Romaji:** Shiyakusho kara oshirase o moraimashita.
 **English:** I received a notice from the city hall.
+
 ---
 ## 5. Cultural Notes
 ### Levels of Politeness
@@ -86,6 +90,7 @@ The basic structure is:
 2. **から**
 3. **いただきます**
 </details>
+
 ---
 Feel free to practice by creating your own sentences using **～からもらいます**!
 

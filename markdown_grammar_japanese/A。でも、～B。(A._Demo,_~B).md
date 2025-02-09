@@ -1,6 +1,6 @@
 Processing keyword: A。でも、～B。(A. Demo, ~B)
 # Japanese Grammar Point: A。でも、～B。(A. Demo, ~B)
-# Japanese Grammar Point: A。でも、～B。
+
 ## 1. Introduction
 In this lesson, we'll explore the use of **でも (demo)** as a conjunction in Japanese sentences. This grammar point is essential for expressing contrast between two statements, much like "but" or "however" in English. Understanding how to use **でも** will help you create more complex and nuanced sentences.
 
@@ -123,8 +123,6 @@ A。でも、B。
 1. To connect two sentences or clauses expressing contrasting ideas, meaning "but" or "however."
 2. b) 私は行きます。でも、彼は行きません。
 3. False. **でも** is used at the beginning of the second sentence, not mid-sentence.
----
-
 
 ---
 

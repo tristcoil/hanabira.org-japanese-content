@@ -1,6 +1,6 @@
 Processing keyword: ～上に (〜ue ni)
 # Japanese Grammar Point: ～上に (〜ue ni)
-# ～上に (〜うえに)
+
 ## 1. Introduction
 The grammar point **～上に (〜うえに)** is a conjunction in Japanese that means **"in addition to"**, **"on top of"**, or **"moreover"**. It is used to express that something has not only one attribute or situation but also another, often amplifying the statement's overall meaning.
 
@@ -78,8 +78,6 @@ While both **～上に** and **～だけでなく** indicate addition, **～上�
 1. **彼は親切な**上に**、面白い人です。**
 2. **No**, because the clauses have different tones (positive and negative).
 3. **試験は難しい上に、時間も足りなかった。**
----
-
 
 ---
 

@@ -1,6 +1,6 @@
 Processing keyword: ～とは限らない (〜to wa kagiranai)
 # Japanese Grammar Point: ～とは限らない (〜to wa kagiranai)
-# ～とは限らない (〜to wa kagiranai)
+
 ## 1. Introduction
 The Japanese grammar point ～とは限らない (〜と​は​かぎ​らない) is used to express that something **is not necessarily** or **is not always** the case. It indicates that while something may generally be true, there are exceptions.
 
@@ -33,27 +33,32 @@ The structure is straightforward:
   ("Cheap things are not necessarily bad.")
 - **わけではない**: 安い物が悪いわけではない。  
   ("It's not that cheap things are bad.")
+
 ---
 ## 4. Examples in Context
 ### Example 1: Formal Context
 **Japanese**: 高いレストランが美味しいとは限りません。  
 **Romaji**: Takai resutoran ga oishii to wa kagirimasen.  
 **English**: Expensive restaurants are not necessarily delicious.
+
 ---
 ### Example 2: Informal Speech
 **Japanese**: 天気予報が当たるとは限らないよ。  
 **Romaji**: Tenki yohō ga ataru to wa kagiranai yo.  
 **English**: Weather forecasts aren't always accurate, you know.
+
 ---
 ### Example 3: Written Language
 **Japanese**: 有名だからと言って品質が良いとは限らない。  
 **Romaji**: Yūmei da kara to itte hinshitsu ga yoi to wa kagiranai.  
 **English**: Just because it's famous doesn't mean the quality is good.
+
 ---
 ### Example 4: Spoken Conversation
 **Japanese**: 彼が来るとは限らないし、別の計画を立てよう。  
 **Romaji**: Kare ga kuru to wa kagiranai shi, betsu no keikaku wo tateyō.  
 **English**: Since he might not come, let's make another plan.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -100,7 +105,6 @@ In Japanese communication, there is a tendency to avoid absolute statements to m
 1. **Japanese**: 本は面白いとは限らない。  
 2. **False**  
 3. **a) とは限らない**
----
 
 
 ---

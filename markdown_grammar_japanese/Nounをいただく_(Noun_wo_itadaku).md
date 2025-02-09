@@ -1,6 +1,6 @@
 Processing keyword: Nounをいただく (Noun wo itadaku)
 # Japanese Grammar Point: Nounをいただく (Noun wo itadaku)
-# Nounをいただく (Noun wo itadaku)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **Nounをいただく** (*Noun wo itadaku*). This expression is a humble way to say **"to receive Noun"** or **"to eat/drink Noun"** in Japanese. It's commonly used in formal situations to show respect and humility.
 

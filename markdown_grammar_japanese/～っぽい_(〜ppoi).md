@@ -1,6 +1,6 @@
 Processing keyword: ～っぽい (〜ppoi)
 # Japanese Grammar Point: ～っぽい (〜ppoi)
-# ～っぽい (〜ppoi)
+
 ## 1. Introduction
 The suffix **～っぽい (〜ppoi)** is a versatile and commonly used grammar point in Japanese. It attaches to nouns, verbs, and sometimes adjectives to indicate that something has the **appearance**, **characteristics**, or **tendency** of something else. Understanding how to use ～っぽい will help you express subtle nuances about resemblance and tendencies in everyday conversations.
 

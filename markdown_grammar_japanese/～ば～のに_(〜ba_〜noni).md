@@ -1,6 +1,6 @@
 Processing keyword: ～ば～のに (〜ba 〜noni)
 # Japanese Grammar Point: ～ば～のに (〜ba 〜noni)
-# ～ば～のに (〜ba 〜noni)
+
 ## 1. Introduction
 The grammar point ～ば～のに (〜ba 〜noni) is used in Japanese to express regret, dissatisfaction, or a wistful longing about a situation that did not happen as desired. It conveys the meaning of "if only..." or "I wish...". Understanding this grammar structure allows you to express nuanced emotions related to past events or unrealized conditions.
 

@@ -1,6 +1,6 @@
 Processing keyword: Verb ては (～te wa)
 # Japanese Grammar Point: Verb ては (～te wa)
-# Grammar Point: Verb ては (～ては)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～ては (Verb ては)**. This structure is versatile and can express repeated actions, hypothetical conditional statements with negative outcomes, and prohibitions or warnings. Mastering this grammar point will enhance your ability to convey nuanced meanings in Japanese.
 
@@ -32,6 +32,7 @@ When **～ては** is used between two verbs in their て-form, it describes act
 Here, **～ては** sets up a conditional statement implying that if the action occurs, it will result in a negative or undesirable outcome. It's a way to caution or warn about possible consequences.
 #### 3. Prohibitions or Warnings
 In this usage, **～ては** is combined with expressions like **いけない**, **だめ**, or **ならない** to form phrases that mean "must not do" or "should not do."
+
 ---
 ## 3. Comparative Analysis
 ### Comparison with Similar Grammar Points
@@ -40,6 +41,7 @@ In this usage, **～ては** is combined with expressions like **いけない**,
 **Differences:**
 - **～ては** with a negative consequence implies an undesirable result specifically, whereas **～たら** is neutral.
 - **～ては** in prohibitions is less direct than **～てはいけない**, making it softer in tone.
+
 ---
 ## 4. Examples in Context
 ### Sentence Examples
@@ -59,6 +61,7 @@ In this usage, **～ては** is combined with expressions like **いけない**,
   *You must not enter here.*
 - **嘘をついてはならない。**
   *You must not tell lies.*
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -66,6 +69,7 @@ In Japanese culture, indirect expressions are often preferred for politeness. Us
 ### Idiomatic Expressions
 - **見てはならぬものを見てしまった。**
   *I ended up seeing something I shouldn't have seen.*
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

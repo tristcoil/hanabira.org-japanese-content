@@ -1,10 +1,11 @@
 Processing keyword: A。ということは B。 (A. To iu koto wa B.)
 # Japanese Grammar Point: A。ということは B。 (A. To iu koto wa B.)
-# Japanese Grammar Lesson: **A。ということは B。**
+
 
 ---
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **A。ということは B。**, a structure used to draw conclusions or make inferences based on previous statements or observations. Understanding this grammar will enhance your ability to connect ideas logically and express reasoning in Japanese.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -125,7 +126,6 @@ While **ということは** itself is neutral, the surrounding language can be 
    **Answer:** a) ということは、遅刻するかもしれません。
 ---
 By mastering **A。ということは B。**, you'll be able to express logical inferences smoothly in Japanese conversations. Keep practicing by observing statements and considering what conclusions you can draw using this structure.
----
 
 
 ---

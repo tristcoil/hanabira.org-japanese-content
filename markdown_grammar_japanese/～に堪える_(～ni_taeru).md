@@ -1,6 +1,6 @@
 Processing keyword: ～に堪える (～ni taeru)
 # Japanese Grammar Point: ～に堪える (～ni taeru)
-# ～に堪える (～にたえる)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～に堪える (～にたえる)**. This expression is used to indicate that something is **worth doing** or **worthy of** a certain action or evaluation. Understanding this grammar will enhance your ability to express appreciation or value judgments in Japanese.
 

@@ -1,10 +1,11 @@
 Processing keyword: A。さて B。(A. Sate B.)
 # Japanese Grammar Point: A。さて B。(A. Sate B.)
-# Grammar Point: A。さて B。 (A. Sate B.)
+
 
 ---
 ## 1. Introduction
 The conjunction **さて (sate)** is a versatile word in Japanese that is often used to transition between topics or to signal a change in the conversation. Understanding how to use **さて** effectively can enhance your fluency and make your speech sound more natural.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

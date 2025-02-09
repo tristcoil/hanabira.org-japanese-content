@@ -1,6 +1,6 @@
 Processing keyword: Noun に即して Verb (〜ni soku shite ~)
 # Japanese Grammar Point: Noun に即して Verb (〜ni soku shite ~)
-# Grammar Point: Noun に即して Verb (〜にそくして〜)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **「Noun に即して Verb」 (〜にそくして〜)**. This expression is used to indicate actions or decisions made **based on** or **in accordance with** certain standards, facts, or situations. Mastering this grammar point will enable you to articulate actions that align with specific guidelines or realities in Japanese.
 
@@ -36,10 +36,12 @@ While both phrases can be translated as "in accordance with", they have nuanced 
 - **に即して**: Implies acting **based on facts, standards, or actual situations**. It emphasizes conformity to **reality or established norms**.
 - **に沿って**: Means "along with" or "in line with", suggesting following a **policy, plan, or guideline**. It's more about adherence to a formulated path.
 **Comparison Table:**
+
 | **Grammar Point** | **Usage**                                       | **Example**                             |
 |-------------------|-------------------------------------------------|-----------------------------------------|
 | に即して          | Based on facts, standards, or situations        | 法律に即して行動する (Act based on law)    |
 | に沿って          | Following policies, plans, or directions        | 計画に沿って進める (Proceed along the plan) |
+
 ---
 ## 4. Examples in Context
 ### Sentence Examples
@@ -71,6 +73,7 @@ In Japanese culture, there is a strong emphasis on harmony and adherence to soci
 - **Not typically used in casual speech**, where more colloquial expressions would be preferred.
 ### Idiomatic Expressions
 While **「に即して」** is not idiomatic itself, it's often found in idiomatic or set phrases in legal and business Japanese.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

@@ -1,6 +1,6 @@
 Processing keyword: ～っぱなし (〜ppanashi)
 # Japanese Grammar Point: ～っぱなし (〜ppanashi)
-# ～っぱなし (〜ppanashi)
+
 ## 1. Introduction
 The grammar point ～っぱなし (〜ppanashi) is used in Japanese to express that something remains in an ongoing state, often implying that it has been left unattended or neglected. This form conveys a sense that someone has left things as they are without addressing them, which can carry a negative connotation.
 

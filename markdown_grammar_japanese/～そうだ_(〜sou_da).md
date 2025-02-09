@@ -1,6 +1,6 @@
 Processing keyword: ～そうだ (〜sou da)
 # Japanese Grammar Point: ～そうだ (〜sou da)
-# Grammar Lesson: ～そうだ (〜sou da)
+
 ## 1. Introduction
 In this lesson, we'll explore the versatile Japanese grammar point **～そうだ (〜sou da)**. This expression is commonly used to:
 - Report information you have heard from others (*hearsay*).

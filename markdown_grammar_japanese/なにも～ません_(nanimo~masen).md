@@ -1,6 +1,6 @@
 Processing keyword: なにも～ません (nanimo~masen)
 # Japanese Grammar Point: なにも～ません (nanimo~masen)
-# なにも～ません (nanimo~masen)
+
 ## 1. Introduction
 The grammar point **なにも～ません** (nanimo~masen) is used to express "nothing" or "not anything" in Japanese. It is a negative expression that negates the existence or action of something.
 
@@ -17,8 +17,7 @@ The grammar point **なにも～ません** (nanimo~masen) is used to express "n
 | **[Negative Verb]** | [Negative form of the verb]   |
 | **なにも＋～ません**   | not anything / nothing        |
 ### Formation Diagram
-```mermaid
-graph LR
+```
 A[なにも] --> B[Negative Verb (~ません)]
 ```
 ### Detailed Explanation
@@ -91,8 +90,6 @@ A[なにも] --> B[Negative Verb (~ません)]
    - Answer: She didn't say anything.
 3. **What is the casual form of なにも知りません?**
    - Answer: *なにも知らない。 (Nanimo shiranai.)*
----
-
 
 ---
 

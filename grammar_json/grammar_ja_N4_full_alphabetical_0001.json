@@ -7,22 +7,22 @@
     "examples": [
       {
         "jp": "週末は映画とか買い物とか楽しいことをしたいです。",
-        "romaji": "Shuumatsu wa eiga toka kaimono toka tanoshii koto wo shitai desu.",
+        "romaji": "Shuumatsu wa eiga toka kaimono toka tanoshii koto o shitai desu.",
         "en": "I want to do fun things like watching movies and shopping on the weekend."
       },
       {
         "jp": "彼女は英語とかフランス語とかいろいろな言葉を話せます。",
-        "romaji": "Kanojo wa eigo toka furansugo toka iroirona kotoba wo hanasemasu.",
+        "romaji": "Kanojo wa eigo toka furansugo toka iroirona kotoba o hanasemasu.",
         "en": "She can speak various languages, like English and French."
       },
       {
         "jp": "この店は寿司とか刺身とか日本料理を提供しています。",
-        "romaji": "Kono mise wa sushi toka sashimi toka nihon ryouri wo teikyou shiteimasu.",
+        "romaji": "Kono mise wa sushi toka sashimi toka nihon ryouri o teikyou shiteimasu.",
         "en": "This restaurant offers Japanese dishes such as sushi and sashimi."
       },
       {
         "jp": "$1BOXとか$5BOXとか、異なる価格のランチBOXがあります。",
-        "romaji": "Doru itchi bokkusu toka doru go bokkusu toka, kotonaru kakaku no ranchi bokkusu ga arimasu.",
+        "romaji": "Ichi-doru BOX toka go-doru BOX toka, kotonaru kakaku no ranchi BOX ga arimasu.",
         "en": "There are lunch boxes with different prices, like $1 boxes and $5 boxes."
       }
     ]
@@ -40,7 +40,7 @@
       },
       {
         "jp": "彼は私ほど上手に英語を話せません。",
-        "romaji": "Kare wa watashi hodo jouzu ni eigo wo hanasemasen.",
+        "romaji": "Kare wa watashi hodo jouzu ni eigo o hanasemasen.",
         "en": "He cannot speak English as well as I can."
       },
       {
@@ -119,17 +119,17 @@
     "examples": [
       {
         "jp": "部屋を明るくします。",
-        "romaji": "Heya wo akaruku shimasu.",
+        "romaji": "Heya o akaruku shimasu.",
         "en": "I will make the room brighter."
       },
       {
         "jp": "彼の顔は赤くなりました。",
-        "romaji": "Kare no kao wa akakunarimashita.",
+        "romaji": "Kare no kao wa akaku narimashita.",
         "en": "His face turned red."
       },
       {
         "jp": "この料理を辛くしてください。",
-        "romaji": "Kono ryouri wo karaku shite kudasai.",
+        "romaji": "Kono ryouri o karaku shite kudasai.",
         "en": "Please make this dish spicy."
       },
       {
@@ -147,7 +147,7 @@
     "examples": [
       {
         "jp": "部屋をきれいにする。",
-        "romaji": "Heya wo kirei ni suru.",
+        "romaji": "Heya o kirei ni suru.",
         "en": "To make the room clean."
       },
       {
@@ -161,8 +161,8 @@
         "en": "It is important to make it quiet every day."
       },
       {
-        "jp": "日本語の勉強を楽しくなるように努力します。",
-        "romaji": "Nihongo no benkyou wo tanoshiku naru you ni doryoku shimasu.",
+        "jp": "日本語の勉強が楽しくなるように努力します。",
+        "romaji": "Nihongo no benkyou ga tanoshiku naru you ni doryoku shimasu.",
         "en": "I will try to make studying Japanese become enjoyable."
       }
     ]
@@ -170,7 +170,7 @@
   {
     "title": "Noun しか～ない (Noun shika~nai)",
     "short_explanation": "Expresses 'only', 'nothing but', or 'no other'.",
-    "long_explanation": "The grammar point Noun しか～ない is used to emphasize the small quantity or exclusiveness of something. It can be translated as 'only', 'nothing but', or 'no other' in English. It is used with a negative verb to convey the meaning. ",
+    "long_explanation": "The grammar point Noun しか～ない is used to emphasize the small quantity or exclusiveness of something. It can be translated as 'only', 'nothing but', or 'no other' in English. It is used with a negative verb to convey the meaning.",
     "formation": "Noun + しか + Negative Verb",
     "examples": [
       {
@@ -203,7 +203,7 @@
     "examples": [
       {
         "jp": "メニューからピザにしました。",
-        "romaji": "Menyū kara piza ni shimashita.",
+        "romaji": "Menyu kara piza ni shimashita.",
         "en": "I decided on pizza from the menu."
       },
       {
@@ -240,9 +240,9 @@
         "en": "When I was a child, I wanted to become a teacher."
       },
       {
-        "jp": "彼女は緊張して赤面になりました。",
-        "romaji": "Kanojo wa kinchou shite akamen ni narimashita.",
-        "en": "She became embarrassed and turned red from nervousness."
+        "jp": "彼女は緊張して顔が赤くなりました。",
+        "romaji": "Kanojo wa kinchou shite kao ga akaku narimashita.",
+        "en": "She got nervous, and her face turned red."
       },
       {
         "jp": "春になると桜が咲きます。",
@@ -301,21 +301,21 @@
         "en": "I went shopping while the kids were at school."
       },
       {
-        "jp": "母の日の間にお母さんにプレゼントを送りました。",
-        "romaji": "Haha no hi no aida ni okaasan ni purezento wo okurimashita.",
-        "en": "I sent a gift to my mother during Mother's Day."
+        "jp": "母の日にお母さんにプレゼントを送りました。",
+        "romaji": "Haha no hi ni okaasan ni purezento o okurimashita.",
+        "en": "I sent a gift to my mother on Mother’s Day."
       }
     ]
   },
   {
     "title": "Noun ばかり (〜bakari)",
-    "short_explanation": "Expresses 'only', 'nothing but', 'always', or 'just'",
+    "short_explanation": "Expresses 'only', 'nothing but', 'always', or 'just'.",
     "long_explanation": "The ばかり grammar point is used to express that something is only, nothing but, just, or always. It can be attached to nouns, verbs, or adjectives, and has various meanings based on the context.",
     "formation": "Noun + ばかり, Verb-casual + ばかり, い-Adjective + ばかり, な-Adjective + だ ばかり",
     "examples": [
       {
-        "jp": "彼はお金ばかり話す。",
-        "romaji": "Kare wa okane bakari hanasu.",
+        "jp": "彼はお金の話ばかりする。",
+        "romaji": "Kare wa okane no hanashi bakari suru.",
         "en": "He talks about nothing but money."
       },
       {
@@ -329,8 +329,8 @@
         "en": "There are only expensive items in the department store."
       },
       {
-        "jp": "この部屋は狭いばかり。",
-        "romaji": "Kono heya wa semai bakari.",
+        "jp": "この部屋は狭いばかりだ。",
+        "romaji": "Kono heya wa semai bakari da.",
         "en": "This room is nothing but small."
       }
     ]
@@ -408,8 +408,8 @@
         "en": "My mother gives me snacks."
       },
       {
-        "jp": "上司がアドバイスをくださりました。",
-        "romaji": "Joushi ga adobaisu wo kudasarimashita.",
+        "jp": "上司がアドバイスをくださいました。",
+        "romaji": "Joushi ga adobaisu wo kudasaimashita.",
         "en": "My boss gave me advice."
       },
       {
@@ -493,7 +493,7 @@
       },
       {
         "jp": "お父さんからお小遣いをもらう。",
-        "romaji": "Otosan kara okozukai wo morau.",
+        "romaji": "Otousan kara okozukai wo morau.",
         "en": "To receive an allowance from one's father."
       },
       {
@@ -506,7 +506,7 @@
   {
     "title": "Noun + 中 (Noun + ちゅう)",
     "short_explanation": "Express 'in the middle of', 'during', or 'in the process of'.",
-    "long_explanation": "The 中 (ちゅう) grammar point is used to express that something is in the middle of, during or in the process of happening. It is attached to a noun to convey this meaning. The most common use is with the word '今' (now) to form '今中' (right now or currently).",
+    "long_explanation": "The 中 (ちゅう) grammar point is used to express that something is in the middle of, during, or in the process of happening. It is attached to a noun to convey this meaning (e.g., 勉強中, 仕事中, 会議中). It is also sometimes read as じゅう depending on the word (e.g., 授業中).",
     "formation": "Noun + 中 (ちゅう)",
     "examples": [
       {
@@ -520,9 +520,9 @@
         "en": "During the exam, you must not use your mobile phone."
       },
       {
-        "jp": "映画を観る中で、彼は泣き始めました。",
-        "romaji": "Eiga wo miru chuu de, kare wa naki hajimemashita.",
-        "en": "In the process of watching the movie, he started to cry."
+        "jp": "映画を観ている最中に、彼は泣き始めました。",
+        "romaji": "Eiga o mite iru saichuu ni, kare wa naki hajimemashita.",
+        "en": "In the middle of watching the movie, he started to cry."
       },
       {
         "jp": "彼女は今勉強中です。",
@@ -572,7 +572,7 @@
       },
       {
         "jp": "母が私に部屋を掃除させました。",
-        "romaji": "Haha ga watashi ni heya o sooji sasemashita.",
+        "romaji": "Haha ga watashi ni heya o souji sasemashita.",
         "en": "My mother made me clean my room."
       },
       {
@@ -673,7 +673,7 @@
   },
   {
     "title": "Verb たほうがいい (〜ta hou ga ii)",
-    "short_explanation": "Used to give advice or make a suggestion to someone - 'it's better if...'",
+    "short_explanation": "Used to give advice or make a suggestion to someone - 'it's better if...'.",
     "long_explanation": "The たほうがいい grammar point is used to give advice or make a suggestion to someone. It can be translated as 'it's better if...', 'should', or 'it's a good idea to'. It is formed by conjugating the verb into the past tense (た-form) and adding ほうがいい.",
     "formation": "Verb (past tense) + ほうがいい",
     "examples": [
@@ -702,8 +702,8 @@
   {
     "title": "Verb ために (tame ni)",
     "short_explanation": "Used to describe the purpose or reason for an action; 'for the sake of', 'in order to', 'because of'.",
-    "long_explanation": "The ために (tame ni) grammar point is used to express either the purpose of doing something, in which case it translates to 'for the sake of' or 'in order to', or the cause or reason for a situation, in which case it translates to 'because of'. To form it, simply attach ために to the verb, adjective, or noun that describes the purpose or reason.",
-    "formation": "Verb-ます stem + ために, い-Adjective + ために, な-Adjective + なために, Noun + のために",
+    "long_explanation": "The ために (tame ni) grammar point is used to express either the purpose of doing something (in which case it translates to 'for the sake of' or 'in order to') or the cause/reason for a situation (in which case it translates to 'because of'). Typically, we use the dictionary form of the verb (e.g., 合格する) for the 'in order to' meaning. For an adjective or noun, attach ために appropriately (い-Adjective + ために, な-Adjective + な + ために, Noun + の + ために).",
+    "formation": "1) Verb (dictionary form) + ために (purpose)\n2) い-Adjective + ために (reason)\n3) な-Adjective + な + ために (reason)\n4) Noun + の + ために (reason)",
     "examples": [
       {
         "jp": "試験に合格するために、毎日勉強しています。",
@@ -763,12 +763,12 @@
     "examples": [
       {
         "jp": "友達が疲れていたから、荷物を持ってあげた。",
-        "romaji": "Tomodachi ga tsukareteita kara, nimotsu wo motte ageta.",
+        "romaji": "Tomodachi ga tsukareteita kara, nimotsu o motte ageta.",
         "en": "Since my friend was tired, I carried their luggage for them."
       },
       {
-        "jp": "弟が宿題がわからなかったので、手伝ってあげた。",
-        "romaji": "Otouto ga shukudai ga wakaranakatta node, tetsudatte ageta.",
+        "jp": "弟は宿題がわからなかったので、手伝ってあげた。",
+        "romaji": "Otouto wa shukudai ga wakaranakatta node, tetsudatte ageta.",
         "en": "My younger brother couldn't understand the homework, so I helped him."
       },
       {
@@ -777,8 +777,8 @@
         "en": "She was running late, so I went to pick her up at the station."
       },
       {
-        "jp": "犬がのどが渇いたそうだったので、水を飲ませてあげた。",
-        "romaji": "Inu ga nodo ga kawaita sou datta node, mizu wo nomasete ageta.",
+        "jp": "犬はのどが渇いたそうだったので、水を飲ませてあげた。",
+        "romaji": "Inu wa nodo ga kawaita sou datta node, mizu o nomasete ageta.",
         "en": "The dog seemed thirsty, so I gave it water to drink."
       }
     ]
@@ -800,8 +800,8 @@
         "en": "The homework has already been done (and remains that way)."
       },
       {
-        "jp": "洗濯が全部干してある。",
-        "romaji": "Sentaku ga zenbu hoshte aru.",
+        "jp": "洗濯物が全部干してある。",
+        "romaji": "Sentakumono ga zenbu hoshite aru.",
         "en": "The laundry has been hung up to dry (and remains that way)."
       },
       {
@@ -824,7 +824,7 @@
       },
       {
         "jp": "彼は成長していくうちに、自立心が強くなった。",
-        "romaji": "Kare wa seichou shite iku uchi ni, jiritsu shin ga tsuyoku natta.",
+        "romaji": "Kare wa seichou shite iku uchi ni, jiritsushin ga tsuyoku natta.",
         "en": "As he grew up, his independence became stronger."
       },
       {
@@ -870,7 +870,7 @@
   {
     "title": "Verb ていただく (〜te itadaku)",
     "short_explanation": "Used to express receiving someone's favor or help; 'to kindly do'.",
-    "long_explanation": "The ～ていただく grammar point is used to express that someone has kindly done a favor or provided help. It is a more polite and humble way of saying that you received someone's help. The formation is created by attaching て-form of the verb + いただく.",
+    "long_explanation": "The ～ていただく grammar point is used to express that someone has kindly done a favor or provided help. It is a more polite and humble way of saying that you received someone's help. The formation is created by attaching the て-form of the verb + いただく.",
     "formation": "Verb-て form + いただく",
     "examples": [
       {
@@ -881,7 +881,7 @@
       {
         "jp": "荷物を運んでいただいて、助かりました。",
         "romaji": "Nimotsu o hakonde itadaite, tasukarimashita.",
-        "en": "I was saved by your kindness of carrying the luggage."
+        "en": "You really helped me by carrying the luggage."
       },
       {
         "jp": "資料をチェックしていただきたいです。",
@@ -1104,7 +1104,7 @@
       },
       {
         "jp": "寒くなってきたので、コートを着ましょう。",
-        "romaji": "Samuku natte kita node, ko-to wo kimashou.",
+        "romaji": "Samuku natte kita node, kooto wo kimashou.",
         "en": "Since it's gotten cold, let's put on a coat."
       },
       {
@@ -1261,7 +1261,7 @@
   },
   {
     "title": "Verb てみる (〜te miru)",
-    "short_explanation": "Used to express 'try to' or 'attempt to do'",
+    "short_explanation": "Used to express 'try to' or 'attempt to do'.",
     "long_explanation": "The ～てみる grammar point is used with verbs to express 'trying' or 'attempting' to do something. It emphasizes the idea of giving something a go or trying it out, often to see what the results or outcome will be.",
     "formation": "Verb-て form + みる",
     "examples": [
@@ -1295,7 +1295,7 @@
     "examples": [
       {
         "jp": "この荷物を運んでもらいたいです。",
-        "romaji": "Kono nimotsu o undonde moraitai desu.",
+        "romaji": "Kono nimotsu o hakonde moraitai desu.",
         "en": "I want you to carry this luggage for me."
       },
       {
@@ -1514,7 +1514,7 @@
   {
     "title": "Verb なさい (〜nasai)",
     "short_explanation": "A command form used to give orders or instructions; 'Please do', 'Do this'.",
-    "long_explanation": "The なさい grammar point is used to give orders or instructions, often used by teachers, parents or other authority figures when addressing someone younger or of lower status. It is formed by attaching なさい to the stem of a verb. This form sounds polite, but can be considered strong and direct.",
+    "long_explanation": "The なさい grammar point is used to give orders or instructions, often used by teachers, parents, or other authority figures when addressing someone younger or of lower status. It is formed by attaching なさい to the stem of a verb. This form sounds polite, but can be considered strong and direct.",
     "formation": "Verb-stem + なさい",
     "examples": [
       {
@@ -1556,9 +1556,9 @@
         "en": "This door is difficult to open."
       },
       {
-        "jp": "彼の字は書きにくい。",
-        "romaji": "Kare no ji wa kaki nikui.",
-        "en": "His handwriting is hard to write."
+        "jp": "彼の字は読みにくい。",
+        "romaji": "Kare no ji wa yomi nikui.",
+        "en": "His handwriting is hard to read."
       },
       {
         "jp": "この料理は作りにくい。",
@@ -1602,23 +1602,23 @@
     "formation": "Verb-volitional + と思う",
     "examples": [
       {
-        "jp": "明日、映画を見るようと思います。",
-        "romaji": "Ashita, eiga wo miru you to omoimasu.",
+        "jp": "明日、映画を見ようと思います。",
+        "romaji": "Ashita, eiga o miyou to omoimasu.",
         "en": "I think I will watch a movie tomorrow."
       },
       {
-        "jp": "週末に友達と遊ぶようと思っています。",
-        "romaji": "Shuumatsu ni tomodachi to asobu you to omotteimasu.",
+        "jp": "週末に友達と遊ぼうと思っています。",
+        "romaji": "Shuumatsu ni tomodachi to asobou to omotteimasu.",
         "en": "I plan to hang out with friends on the weekend."
       },
       {
-        "jp": "勉強をもっと頑張るようと思う。",
-        "romaji": "Benkyou wo motto ganbaru you to omou.",
+        "jp": "勉強をもっと頑張ろうと思う。",
+        "romaji": "Benkyou o motto ganbarou to omou.",
         "en": "I intend to study harder."
       },
       {
-        "jp": "来年は海外旅行に行くようと思っている。",
-        "romaji": "Rainen wa kaigai ryokou ni iku you to omotteiru.",
+        "jp": "来年は海外旅行に行こうと思っている。",
+        "romaji": "Rainen wa kaigai ryokou ni ikou to omotteiru.",
         "en": "I plan to go on an overseas trip next year."
       }
     ]
@@ -1626,8 +1626,8 @@
   {
     "title": "Verb ように (〜you ni)",
     "short_explanation": "Used to express 'like', 'as if', 'in order to', or 'so that'.",
-    "long_explanation": "The ～ように grammar point is used to express different meanings depending on the context. These mainly include 'like', 'as if', 'in order to', or 'so that'. The formation differs depending on whether it is used with a verb or an い-adjective.",
-    "formation": "Verb-ますstem + ように, い-adjective + ように",
+    "long_explanation": "The ～ように grammar point is used to express different meanings depending on the context: 'like', 'as if', 'in order to', or 'so that'. Formation patterns can include: Noun + のように, Verb dictionary/negative form + ように, い-adjective + ように, etc.",
+    "formation": "Examples: Noun + のように / Verb-casual + ように / い-adjective + ように",
     "examples": [
       {
         "jp": "彼女は鳥のように軽やかに踊る。",
@@ -1654,7 +1654,7 @@
   {
     "title": "Verb ようにする (Verb ~you ni suru)",
     "short_explanation": "Make an effort to; try to; see to it that; ensure that.",
-    "long_explanation": "The ようにする grammar point is used to express that someone is making an effort, trying, or seeing to it that something happens. It can be translated as 'make sure to', 'try to' or 'ensure that' in English. The formation is simple, involving a verb in the dictionary form followed by ようにする.",
+    "long_explanation": "The ようにする grammar point is used to express that someone is making an effort, trying, or seeing to it that something happens. It can be translated as 'make sure to', 'try to', or 'ensure that' in English. The formation is simple, involving a verb in the dictionary form followed by ようにする.",
     "formation": "Verb-dictionary form + ようにする",
     "examples": [
       {
@@ -1682,8 +1682,8 @@
   {
     "title": "Verb ようになる (〜you ni naru)",
     "short_explanation": "Express a change in ability, situation or state; 'become able to', 'come to', 'begin to'.",
-    "long_explanation": "The ようになる grammar implies a change or development involving new abilities, situations or states. It can be translated into English as 'become able to', 'come to' or 'begin to'. This grammar is often used when talking about a skill that has been acquired or a change in habit, ability, or situation over time.",
-    "formation": "Verb-ます（drop ます） + ようになる",
+    "long_explanation": "The ようになる grammar implies a change or development involving new abilities, situations or states. It can be translated into English as 'become able to', 'come to' or 'begin to'. This grammar is often used when talking about a skill that has been acquired or a change in habit or situation over time.",
+    "formation": "Verb-dictionary/potential form + ようになる",
     "examples": [
       {
         "jp": "日本語が話せるようになりました。",
@@ -1701,9 +1701,9 @@
         "en": "He has become able to play the piano."
       },
       {
-        "jp": "この仕事を始めてから、忙しくなるようになりました。",
-        "romaji": "Kono shigoto wo hajimete kara, isogashiku naru you ni narimashita.",
-        "en": "Since starting this job, I have come to be busier."
+        "jp": "この仕事を始めてから、毎日忙しいと感じるようになりました。",
+        "romaji": "Kono shigoto o hajimete kara, mainichi isogashii to kanjiru you ni narimashita.",
+        "en": "Since I started this job, I've begun to feel busy every day."
       }
     ]
   },
@@ -1739,7 +1739,7 @@
     "title": "Verb られる (〜rareru)",
     "short_explanation": "Expresses passive voice or potential form for verbs.",
     "long_explanation": "The られる grammar point can be used to express passive voice or potential form for verbs. Passive voice indicates that the action is being done to the subject, while potential form expresses the ability or possibility to do an action. The formation of られる depends on the type of verb (う, る, or irregular verbs).",
-    "formation": "う-verb: Replace the final う with われる (or simply れる for potential form), る-verb: Replace る with られる, Irregular verbs: する → される, くる → こられる",
+    "formation": "う-verb (passive): Replace the final う with われる / る-verb (passive & potential): Replace る with られる / Irregular: する → される, くる → こられる",
     "examples": [
       {
         "jp": "彼は先生に褒められました。",
@@ -1747,9 +1747,9 @@
         "en": "He was praised by the teacher."
       },
       {
-        "jp": "その仕事は私たちにできられます。",
-        "romaji": "Sono shigoto wa watashitachi ni dekirareru.",
-        "en": "We can do that job."
+        "jp": "彼は友達に笑われました。",
+        "romaji": "Kare wa tomodachi ni warawaremashita.",
+        "en": "He was laughed at by his friends."
       },
       {
         "jp": "映画は観られましたか？",
@@ -1767,7 +1767,7 @@
     "title": "Verb る ことがある (〜ru koto ga aru)",
     "short_explanation": "Used to express that something happens sometimes or has happened before.",
     "long_explanation": "The grammar point る ことがある is used to express that something occurs sometimes or has occurred in the past. It indicates that the action is not a regular or constant event, but rather something that takes place occasionally or has happened at least once.",
-    "formation": "Verb (in る form, remove る) + ることがある",
+    "formation": "Verb-dictionary form + ことがある",
     "examples": [
       {
         "jp": "彼は遅刻することがあります。",
@@ -1822,7 +1822,7 @@
   {
     "title": "Verb ることにする (〜ru koto ni suru)",
     "short_explanation": "Decide to do something, make a decision.",
-    "long_explanation": "The ～ることにする grammar point is used to express that someone has made a decision to do something or has decided on a specific course of action. It is formed by attaching ことにする to the verb stem in its る form.",
+    "long_explanation": "The ～ることにする grammar point is used to express that someone has made a decision to do something or has decided on a specific course of action. It is formed by attaching ことにする to the verb in its る form.",
     "formation": "Verb-る + ことにする",
     "examples": [
       {
@@ -1843,7 +1843,7 @@
       {
         "jp": "彼に電話をかけることにします。",
         "romaji": "Kare ni denwa wo kakeru koto ni shimasu.",
-        "en": "I will decide to call him."
+        "en": "I’ve decided to call him."
       }
     ]
   },
@@ -1904,10 +1904,10 @@
     ]
   },
   {
-    "title": "Verb る ところ (Verb-ru to koro)",
-    "short_explanation": "Expresses the state or place where an action occurs or is in the process of happening.",
-    "long_explanation": "The grammar point 'Verb る ところ' is used to express the state or place where an action is occurring or in the process of happening. It can be translated as 'in the middle of', 'in the process of', or 'just about to' in English. The formation differs slightly depending on whether it is used with verb.",
-    "formation": "Verb-dictionary form + るところ",
+    "title": "Verb る ところ (Verb-ru tokoro)",
+    "short_explanation": "Expresses the state or moment when an action is about to happen or is happening.",
+    "long_explanation": "The grammar point 'Verb る ところ' is used to express that one is just about to do something, or is in the process of doing it. It can be translated as 'just about to' or 'in the middle of' in English, depending on context.",
+    "formation": "Verb-dictionary form + ところ",
     "examples": [
       {
         "jp": "彼は食べるところです。",
@@ -1939,12 +1939,12 @@
     "examples": [
       {
         "jp": "本を棚から出してください。",
-        "romaji": "Hono wo tana kara dashite kudasai.",
+        "romaji": "Hon o tana kara dashite kudasai.",
         "en": "Please take the book out from the shelf."
       },
       {
-        "jp": "彼は部屋から急いで出しました。",
-        "romaji": "Kare wa heya kara isoide dashimashita.",
+        "jp": "彼は部屋から急いで出ました。",
+        "romaji": "Kare wa heya kara isoide demashita.",
         "en": "He rushed out of the room."
       },
       {
@@ -1961,19 +1961,19 @@
   },
   {
     "title": "Verb 方 (〜hou)",
-    "short_explanation": "Indicates the way or method of doing something; 'how to', 'the way of'.",
-    "long_explanation": "The ～方 grammar point is used to express the way or method of doing something, similar to 'how to' or 'the way of' in English. It can be attached to the stem of a verb to form a noun that indicates the method of doing the action.",
-    "formation": "Verb-stem + 方",
+    "short_explanation": "Indicates the way or method of doing something; often read as '～かた' ('how to', 'the way of').",
+    "long_explanation": "The ～方 grammar point is used to express the way or method of doing something, similar to 'how to' or 'the way of' in English. It can be attached to the stem of a verb to form a noun that indicates the method of doing the action. In practice, ～方 is usually read as '～かた' (e.g., 作り方＝つくりかた).",
+    "formation": "Verb-stem + 方 (read as かた)",
     "examples": [
       {
         "jp": "誰かがケーキの作り方を知っていますか？",
-        "romaji": "Dareka ga keeki no tsukurihou o shitteimasu ka?",
+        "romaji": "Dareka ga keeki no tsukurikata o shitteimasu ka?",
         "en": "Does anyone know how to make a cake?"
       },
       {
-        "jp": "彼女は英語を話す方を学んでいます。",
-        "romaji": "Kanojo wa eigo o hanasu hou o manandeimasu.",
-        "en": "She is learning the way to speak English."
+        "jp": "彼女は英語の話し方を学んでいます。",
+        "romaji": "Kanojo wa eigo no hanashikata o manandeimasu.",
+        "en": "She is learning how to speak English."
       },
       {
         "jp": "このパソコンの使い方を教えてください。",
@@ -1990,8 +1990,8 @@
   {
     "title": "Verb 終わる (〜owaru)",
     "short_explanation": "Verbal action is completed; 'to finish', 'to end'.",
-    "long_explanation": "The verb 終わる (owaru) is used to express that an action has been completed or something has come to an end. It is translated as 'to finish', 'to end' or 'to be over' in English. The conjugation of 終わる follows the standard る-verb conjugation rules.",
-    "formation": "終わる (owaru) as a る-verb",
+    "long_explanation": "The verb 終わる (owaru) is used to express that an action has been completed or something has come to an end. Despite ending in る, 終わる is a godan (u-verb), so it does not follow the typical ichidan (る-verb) conjugation. It is translated as 'to finish', 'to end' or 'to be over' in English.",
+    "formation": "終わる (owaru) is a godan (u-verb)",
     "examples": [
       {
         "jp": "映画が終わったら、家に帰ります。",
@@ -2046,7 +2046,7 @@
   {
     "title": "～かしら (〜kashira)",
     "short_explanation": "Indicates uncertainty or doubt; 'I wonder', 'I'm not sure'.",
-    "long_explanation": "The ～かしら grammar point is used to express uncertainty or doubt about a situation. It can be translated as 'I wonder' or 'I'm not sure' in English. It is primarily used by females in casual conversations but can be used by males in some situations as well. ～かしら is used with verbs, い-adjectives, な-adjectives, and nouns.",
+    "long_explanation": "The ～かしら grammar point is used to express uncertainty or doubt about a situation. It can be translated as 'I wonder' or 'I'm not sure' in English. It is primarily used by females in casual conversations but can be used by males in some contexts as well. ～かしら is used with verbs, い-adjectives, な-adjectives, and nouns.",
     "formation": "Verb-casual + かしら, い-Adjective + かしら, な-Adjective + かしら, Noun + かしら",
     "examples": [
       {
@@ -2102,8 +2102,8 @@
   {
     "title": "～かなあ (〜kanaa)",
     "short_explanation": "Expresses uncertainty or wonder; 'I wonder', 'I'm not sure'.",
-    "long_explanation": "The ～かなあ grammar point is used to express a feeling of uncertainty or wonder about a situation or statement. It can be translated as 'I wonder' or 'I'm not sure' in English. This grammar point should not be used when asking questions to other people, as it may come off as too direct and impolite.",
-    "formation": "Verb-casual + かなあ, い-Adjective + かなあ, な-Adjective + だ + かなあ, Noun + だ + かなあ",
+    "long_explanation": "The ～かなあ grammar point is used to express a feeling of uncertainty or wonder about a situation or statement. It can be translated as 'I wonder' or 'I'm not sure' in English. In casual spoken Japanese, when using nouns or な-adjectives before かなあ, the copula だ is often omitted or replaced with の (e.g., 学生かなあ or 学生なのかなあ). This grammar point should not be used when asking questions directly to someone, as it may come off as too direct or impolite.",
+    "formation": "Verb-casual + かなあ, い-Adjective + かなあ, (な-Adjective/Noun) + (だ) + かなあ",
     "examples": [
       {
         "jp": "明日雨が降るかなあ。",
@@ -2116,13 +2116,13 @@
         "en": "I wonder if this cake is delicious."
       },
       {
-        "jp": "彼は病気だかなあ。",
-        "romaji": "Kare wa byouki da kanaa.",
+        "jp": "彼は病気かなあ。",
+        "romaji": "Kare wa byouki kanaa.",
         "en": "I wonder if he is sick."
       },
       {
-        "jp": "彼女は学生だかなあ。",
-        "romaji": "Kanojo wa gakusei da kanaa.",
+        "jp": "彼女は学生かなあ。",
+        "romaji": "Kanojo wa gakusei kanaa.",
         "en": "I wonder if she is a student."
       }
     ]
@@ -2130,7 +2130,7 @@
   {
     "title": "～かもしれない (〜kamoshirenai)",
     "short_explanation": "Express uncertainty; 'maybe', 'might', 'possibly'.",
-    "long_explanation": "The ～かもしれない grammar point is used to express uncertainty or the possibility of something occurring. It can be translated as 'maybe', 'might', or 'possibly' in English. The formation differs depending on whether it is used with a verb, い-adjective, な-adjective, or noun.",
+    "long_explanation": "The ～かもしれない grammar point is used to express uncertainty or the possibility of something occurring. It can be translated as 'maybe', 'might', or 'possibly' in English. The formation differs depending on whether it is used with a verb, い-adjective, な-adjective, or noun. In everyday speech, speakers often omit だ before かもしれない for nouns and な-adjectives.",
     "formation": "Verb-casual + かもしれない, い-Adjective + かもしれない, な-Adjective + だかもしれない, Noun + だかもしれない",
     "examples": [
       {
@@ -2144,13 +2144,13 @@
         "en": "This cake might be delicious."
       },
       {
-        "jp": "彼が病気だかもしれない。",
-        "romaji": "Kare ga byouki da kamoshirenai.",
+        "jp": "彼が病気かもしれない。",
+        "romaji": "Kare ga byouki kamoshirenai.",
         "en": "He might be sick."
       },
       {
-        "jp": "彼女は学生だかもしれない。",
-        "romaji": "Kanojo wa gakusei da kamoshirenai.",
+        "jp": "彼女は学生かもしれない。",
+        "romaji": "Kanojo wa gakusei kamoshirenai.",
         "en": "She might be a student."
       }
     ]
@@ -2213,7 +2213,7 @@
   },
   {
     "title": "～させてください (〜sasete kudasai)",
-    "short_explanation": "Express a polite request to allow or permit someone to do something",
+    "short_explanation": "Express a polite request to allow or permit someone to do something.",
     "long_explanation": "The ～させてください grammar point is used to make a polite request to allow or permit someone to do something. It can be translated as 'please let me' or 'please allow me to' in English. It is formed by taking the causative form of a verb and adding ください.",
     "formation": "Verb-causative form + ください",
     "examples": [
@@ -2243,7 +2243,7 @@
     "title": "～し、～し、～ (〜shi, 〜shi, 〜)",
     "short_explanation": "Express multiple reasons or characteristics; 'and', 'because', 'since'.",
     "long_explanation": "The ～し、～し、～ grammar point is used to connect multiple reasons or characteristics that support a conclusion or statement. It can be translated as 'and', 'because', or 'since' in English. This grammar can be used with verbs, い-adjectives, な-adjectives, and nouns.",
-    "formation": "Verb-casual + し,い-Adjective + し,な-Adjective + だし, Noun + だし",
+    "formation": "Verb-casual + し, い-Adjective + し, な-Adjective + だし, Noun + だし",
     "examples": [
       {
         "jp": "彼は若いし、元気だし、フレンドリーだし、みんなと仲良くなれると思います。",
@@ -2298,7 +2298,7 @@
   {
     "title": "～ずつ (〜zutsu)",
     "short_explanation": "Indicates equal distribution; 'each', 'per', 'apiece'.",
-    "long_explanation": "The ～ずつ grammar point is used to express an equal distribution of something, whether it is an action, an amount or an item. It is translated as 'each', 'per', or 'apiece' in English.",
+    "long_explanation": "The ～ずつ grammar point is used to express an equal distribution of something, whether it is an action, an amount, or an item. It is translated as 'each', 'per', or 'apiece' in English.",
     "formation": "Noun + ずつ",
     "examples": [
       {
@@ -2308,8 +2308,8 @@
       },
       {
         "jp": "私たちは週に一度ずつ掃除をします。",
-        "romaji": "Watashi-tachi wa shuu ni ichido zutsu souji o shimasu.",
-        "en": "We clean once per week each."
+        "romaji": "Watashitachi wa shuu ni ichido zutsu souji o shimasu.",
+        "en": "We each clean once per week."
       },
       {
         "jp": "みんなは同じ距離を一歩ずつ歩いた。",
@@ -2318,15 +2318,15 @@
       },
       {
         "jp": "彼女は子供たちに一枚ずつプレゼントをくれました。",
-        "romaji": "Kanojo wa kodomo-tachi ni ichimai zutsu purezento o kuremashita.",
-        "en": "She gave a present to each child."
+        "romaji": "Kanojo wa kodomotachi ni ichimai zutsu purezento o kuremashita.",
+        "en": "She gave one present to each child."
       }
     ]
   },
   {
     "title": "～そうだ (〜sou da)",
     "short_explanation": "Express the appearance, seeming, or feeling of something; 'looks like', 'seems', 'appears'.",
-    "long_explanation": "The ～そうだ grammar point is used to describe the appearance or feeling of something based on the situation or information at hand. It can be translated as 'looks like', 'seems', or 'appears' in English. The formation differs depending on whether it is used with a verb, い-adjective, or な-adjective.",
+    "long_explanation": "The ～そうだ grammar point is used to describe the appearance or feeling of something based on what is observed or inferred. It can be translated as 'looks like', 'seems', or 'appears' in English. The formation differs depending on whether it is used with a verb, い-adjective, or な-adjective.",
     "formation": "Verb-ますstem + そうだ, い-Adjective (without い) + そうだ, な-Adjective + そうだ",
     "examples": [
       {
@@ -2353,24 +2353,14 @@
   },
   {
     "title": "そんな (sonna) + Noun",
-    "short_explanation": "Expresses 'that kind/type of'; referring to something near listener.",
-    "long_explanation": "The word 'そんな' is used before a noun to indicate 'that kind of' or 'that type of', emphasizing something related to or near the listener, or something previously mentioned in the conversation. It is used to specify the noun based on the given context or shared understanding between the speaker and the listener.",
+    "short_explanation": "Expresses 'that kind/type of'; referring to something near the listener or previously mentioned.",
+    "long_explanation": "The word 'そんな' is used before a noun to indicate 'that kind of' or 'that type of', typically referring to something near the listener or previously mentioned in the conversation. It specifies the noun based on context or shared understanding between the speaker and the listener.",
     "formation": "そんな + Noun",
     "examples": [
       {
         "jp": "そんな話、信じられない。",
         "romaji": "Sonna hanashi, shinjirarenai.",
         "en": "I can't believe that kind of story."
-      },
-      {
-        "jp": "そんなに急いでいるなら、タクシーを使ったほうがいいよ。",
-        "romaji": "Sonna ni isoide iru nara, takushī o tsukatta hou ga ii yo.",
-        "en": "If you're in such a hurry, it's better to take a taxi."
-      },
-      {
-        "jp": "彼女はそんなに賢くない。",
-        "romaji": "Kanojo wa sonna ni kashikokunai.",
-        "en": "She is not that smart."
       },
       {
         "jp": "そんな映画、見たくない。",
@@ -2410,7 +2400,7 @@
   {
     "title": "～たらいい (〜tara ii)",
     "short_explanation": "Expressing a desire or suggestion for a particular outcome; 'it would be good if', 'should', 'I hope'.",
-    "long_explanation": "The ～たらいい grammar point is used to express a desire, suggestion or hope for a particular outcome. It can be translated as 'it would be good if', 'should', or 'I hope' in English. The formation is simple, and it is used with verbs in their casual past tense form.",
+    "long_explanation": "The ～たらいい grammar point is used to express a desire, suggestion, or hope for a particular outcome. It can be translated as 'it would be good if', 'should', or 'I hope' in English. The formation is simple, and it is used with verbs in their casual past tense form.",
     "formation": "Verb-casual-past + たらいい",
     "examples": [
       {
@@ -2522,7 +2512,7 @@
   {
     "title": "～だろう (〜darou)",
     "short_explanation": "Express probability, likelihood or certainty; 'probably', 'maybe', 'I think'.",
-    "long_explanation": "The ～だろう grammar point is used to express probability, likelihood or certainty about a situation or event. It can be translated as 'probably', 'maybe' or 'I think' in English. The formation differs depending on whether it is used with a verb, い-adjective, な-adjective or noun.",
+    "long_explanation": "The ～だろう grammar point is used to express probability, likelihood, or certainty about a situation or event. It can be translated as 'probably', 'maybe', or 'I think' in English. The formation differs depending on whether it is used with a verb, い-adjective, な-adjective, or noun.",
     "formation": "Verb-casual + だろう, い-Adjective (drop い) + だろう, な-Adjective + だろう, Noun + だろう",
     "examples": [
       {
@@ -2561,7 +2551,7 @@
       {
         "jp": "彼っていう男性はすごく面白いです。",
         "romaji": "Kare tte iu dansei wa sugoku omoshiroi desu.",
-        "en": "The man called him is very interesting."
+        "en": "That man (called ‘kare’) is really interesting."
       },
       {
         "jp": "この映画っていうのは本当に感動的だよ。",
@@ -2571,7 +2561,7 @@
       {
         "jp": "彼女が言っているっていう店はここではない。",
         "romaji": "Kanojo ga itte iru tte iu mise wa koko de wa nai.",
-        "en": "The store she is talking about, I mean, is not here."
+        "en": "The store she's talking about, I mean, is not here."
       }
     ]
   },
@@ -2653,9 +2643,9 @@
         "en": "You must not speak loudly in the library."
       },
       {
-        "jp": "バスの中で立っている人に席を譲ってはいけない。",
+        "jp": "バスの中で立っている人に席を譲ってはいけない。(Note: Unusual in real life, but grammatically correct.)",
         "romaji": "Basu no naka de tatteiru hito ni seki o yuzutte wa ikenai.",
-        "en": "You should not give up your seat to someone standing on the bus."
+        "en": "You should not give up your seat to someone standing on the bus. (Note: Odd in actual social context, but valid grammar.)"
       }
     ]
   },
@@ -2667,7 +2657,7 @@
     "examples": [
       {
         "jp": "ここで写真を撮ってもいいですか。",
-        "romaji": "Koko de shashin wo tottemo ii desu ka.",
+        "romaji": "Koko de shashin wo tottemo ii desu ka?",
         "en": "Is it okay to take a photo here?"
       },
       {
@@ -2682,7 +2672,7 @@
       },
       {
         "jp": "今夜友達と遊んでもいい。",
-        "romaji": "Konya tomodachi to asondemo ii.",
+        "romaji": "Kon'ya tomodachi to asondemo ii.",
         "en": "It's okay to play with friends tonight."
       }
     ]
@@ -2752,12 +2742,12 @@
       {
         "jp": "彼は日本語が流暢なアメリカ人という人です。",
         "romaji": "Kare wa nihongo ga ryuuchou na amerikajin to iu hito desu.",
-        "en": "He is a person called an American who speaks fluent Japanese."
+        "en": "He is an American who speaks fluent Japanese."
       },
       {
         "jp": "昨日、美味しかったというケーキを食べました。",
         "romaji": "Kinou, oishikatta to iu keeki wo tabemashita.",
-        "en": "Yesterday, I ate a cake that is said to be delicious."
+        "en": "Yesterday, I ate a cake that was said to be delicious."
       },
       {
         "jp": "有名な歌手という彼女は、たくさんのファンがいます。",
@@ -2789,7 +2779,7 @@
       },
       {
         "jp": "どういう服を着たいですか？",
-        "romaji": "Dou iu fuku wo kitaidesu ka?",
+        "romaji": "Dou iu fuku wo kitai desu ka?",
         "en": "What kind of clothes do you want to wear?"
       },
       {
@@ -3120,7 +3110,7 @@
       },
       {
         "jp": "彼は疲れているのに、まだ働いています。",
-        "romaji": "Kare wa tsukarete iru no ni, mada hataraiてます。",
+        "romaji": "Kare wa tsukarete iru no ni, mada hataraite imasu.",
         "en": "Despite being tired, he is still working."
       },
       {
@@ -3213,9 +3203,9 @@
         "en": "I want to finish cooking before he comes back."
       },
       {
-        "jp": "３０分以内に駅に着く必要があります。",
-        "romaji": "Sanjuppun inai ni eki ni tsuku hitsuyou ga arimasu.",
-        "en": "We need to arrive at the station within 30 minutes."
+        "jp": "３０分までに駅に着く必要があります。",
+        "romaji": "Sanjuppun made ni eki ni tsuku hitsuyou ga arimasu.",
+        "en": "We need to arrive at the station by 30 minutes (from now)."
       }
     ]
   },

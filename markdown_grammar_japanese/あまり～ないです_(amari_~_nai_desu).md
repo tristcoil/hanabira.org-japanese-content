@@ -1,6 +1,6 @@
 Processing keyword: あまり～ないです (amari ~ nai desu)
 # Japanese Grammar Point: あまり～ないです (amari ~ nai desu)
-# あまり～ないです (Amari ~ Nai Desu)
+
 ## 1. Introduction
 In this lesson, we'll learn how to express **"not much"** or **"not very"** in Japanese using the grammar point **あまり～ないです** (**amari ~ nai desu**). This structure helps you convey that something occurs to a small extent or less frequently than expected.
 ## 2. Core Grammar Explanation

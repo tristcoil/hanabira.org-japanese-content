@@ -1,6 +1,6 @@
 Processing keyword: ～に比べて (〜ni kurabete)
 # Japanese Grammar Point: ～に比べて (〜ni kurabete)
-# ～に比べて (〜ni kurabete)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～に比べて (〜ni kurabete)**, which means "**compared to**" or "**in comparison with**". This expression is essential for making comparisons between two items, people, situations, or ideas. Understanding how to use **～に比べて** will enhance your ability to describe differences and contrasts in Japanese.
 
@@ -19,11 +19,13 @@ In this lesson, we'll explore the Japanese grammar point **～に比べて (〜n
 [Reference Point] に比べて [Item being compared + Comment]
 ```
 ### Visual Aid: Structure Table
+
 | Part               | Function                               | Example                   |
 |--------------------|----------------------------------------|---------------------------|
 | **Noun A**         | Reference point for comparison         | 去年 (last year)          |
 | **に比べて**       | Particle meaning "compared to"         | に比べて                   |
 | **Noun B/Phrase**  | Item being compared + Comment          | 今年は暑いです (it's hot this year) |
+
 ---
 ## 3. Comparative Analysis
 ### ～に比べて vs. ～より (〜yori)
@@ -32,13 +34,16 @@ In this lesson, we'll explore the Japanese grammar point **～に比べて (〜n
   - Structure: **[Noun A] より [Adjective/Verb]**
   - Focuses on the degree of a particular quality.
 **Comparison Table**
+
 |                     | **～に比べて**                 | **～より**                        |
 |---------------------|------------------------------|-----------------------------------|
 | **Meaning**         | Compared to                  | Than                              |
 | **Usage**           | General comparisons          | Direct comparisons                |
 | **Structure**       | [Noun A] に比べて [Noun B]    | [Noun A] より [Adjective/Verb]    |
 | **Example**         | 去年に比べて暑いです。        | 去年より暑いです。                |
+
 **Note:** While both can sometimes be used interchangeably, **～に比べて** often introduces a broader or more general comparison.
+
 ---
 ## 4. Examples in Context
 ### Sentence Examples

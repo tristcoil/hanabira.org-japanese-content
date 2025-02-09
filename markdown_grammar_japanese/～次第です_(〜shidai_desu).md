@@ -1,6 +1,6 @@
 Processing keyword: ～次第です (〜shidai desu)
 # Japanese Grammar Point: ～次第です (〜shidai desu)
-# ～次第です (〜shidai desu)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～次第です (〜shidai desu)**, which is used to explain the reason or circumstances behind a decision or action. Understanding this expression will help you articulate explanations and justifications more naturally in Japanese.
 

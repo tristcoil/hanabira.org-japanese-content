@@ -1,6 +1,6 @@
 Processing keyword: ～反面 (〜hanmen)
 # Japanese Grammar Point: ～反面 (〜hanmen)
-# ～反面 (〜はんめん, 〜hanmen)
+
 ## 1. Introduction
 The grammar point **～反面** (〜はんめん, *〜hanmen*) is used in Japanese to express a contrasting aspect of the same subject. It conveys the meaning of "on the other hand," "while," or "although," highlighting two sides of a situation, person, or thing.
 

@@ -1,8 +1,9 @@
 Processing keyword: A うと B うと (A uto B uto)
 # Japanese Grammar Point: A うと B うと (A uto B uto)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **AうとBうと** (AうとBうと). This structure is used to express the idea of "whether A or B," indicating that the outcome remains the same regardless of the conditions A or B. It's a useful pattern for emphasizing that something is unaffected by different circumstances.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 **AうとBうと** conveys the meaning of "whether A or B" or "no matter if A or B." It emphasizes that the result or action does not change, regardless of the different possibilities presented by A and B.
 ## Structure
@@ -45,13 +46,13 @@ For な-Adjectives and Nouns:
 - **な-Adjectives and Nouns:** Add **だろう**.
   - 元気 → 元気だろう (genki → genki darō)
   - 休日 → 休日だろう (kyūjitsu → kyūjitsu darō)
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 **AうとBうと** is similar to the structure **AてもBても**, which also means "whether A or B" or "even if A or B." However, **AうとBうと** is more formal and emphatic, often used in written language or formal speech.
 | Grammar Point    | Meaning               | Formality   |
 |------------------|-----------------------|-------------|
 | AうとBうと       | Whether A or B        | Formal      |
 | AてもBても      | Even if A or B        | Neutral     |
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example 1: Verb
 **雨が降ろうと雪が降ろうと、明日のイベントは開催します。**
 - *Romaji:* Ame ga furō to yuki ga furō to, ashita no ibento wa kaisai shimasu.
@@ -72,7 +73,7 @@ For な-Adjectives and Nouns:
 **成功しようと失敗しようと、挑戦することに意味があります。**
 - *Romaji:* Seikō shiyō to shippai shiyō to, chōsen suru koto ni imi ga arimasu.
 - *Translation:* Whether you succeed or fail, there is meaning in making the challenge.
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - **Emphasis and Determination:** This structure is often used to express strong determination or resolve, highlighting the speaker's steadfastness regardless of circumstances.
 - **Formal Contexts:** Due to its formal tone, it's commonly found in speeches, literature, and formal announcements.
@@ -83,7 +84,7 @@ For な-Adjectives and Nouns:
 - **雨が降ろうと槍が降ろうと**
   - *Translation:* Whether it's raining or spears are falling.
   - *Meaning:* No matter how extreme the conditions, emphasizing unyielding determination.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Common Mistake 1: Using the Plain Form Instead of the Volitional Form
 - **Incorrect:** 行くと来ると、連絡してください。
   - *Romaji:* Iku to kuru to, renraku shite kudasai.
@@ -98,7 +99,7 @@ For な-Adjectives and Nouns:
 - **Memorize Volitional Forms:** Practice forming the volitional form of verbs and adjectives to use this structure correctly.
 - **Context Matters:** Use **AうとBうと** in formal contexts or when you want to make a strong, emphatic statement.
 - **Don't Overuse in Casual Conversation:** In everyday speech, consider using **AてもBても** for a more natural and conversational tone.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **AうとBうと** is used to express "whether A or B," indicating that the outcome doesn't change.
 - It uses the **volitional form** of verbs and the **hypothetical form** of adjectives and nouns.

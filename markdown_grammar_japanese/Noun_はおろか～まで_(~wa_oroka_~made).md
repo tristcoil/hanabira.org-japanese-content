@@ -1,6 +1,6 @@
 Processing keyword: Noun はおろか～まで (~wa oroka ~made)
 # Japanese Grammar Point: Noun はおろか～まで (~wa oroka ~made)
-# Noun はおろか～まで (~wa oroka ~made)
+
 ## Introduction
 In this lesson, we'll explore the Japanese grammar point **Noun はおろか～まで** (*~wa oroka ~made*), which is used to emphasize that something applies not only to a certain extent but even beyond that. It's similar to expressions like "let alone" or "not to mention" in English. This structure highlights that the second noun is even more extreme or unexpected compared to the first.
 
@@ -8,6 +8,7 @@ In this lesson, we'll explore the Japanese grammar point **Noun はおろか～�
 ## Core Grammar Explanation
 ### Meaning
 **Noun はおろか～まで** is used to express that something goes beyond what's expected. It emphasizes that not only does the first noun not happen or apply, but even the second noun (which is more basic or obvious) doesn't happen or applies in the same way. It often conveys surprise or disbelief.
+
 ---
 ### Structure
 #### Formation Diagram
@@ -112,10 +113,8 @@ These phrases highlight a lack of basic social etiquette, which is significant i
    - 車はおろか、自転車まで持っていない。
    - **Answer**: "I don't even own a bicycle, let alone a car."
 ---
-## Additional Practice
+### Additional Practice
 Try creating your own sentences using **Noun はおろか Noun まで** to describe situations where not only the first noun doesn't apply, but even the second noun doesn't apply.
----
-
 
 ---
 

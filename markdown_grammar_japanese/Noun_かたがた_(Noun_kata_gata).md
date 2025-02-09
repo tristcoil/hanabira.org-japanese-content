@@ -1,6 +1,6 @@
 Processing keyword: Noun かたがた (Noun kata gata)
 # Japanese Grammar Point: Noun かたがた (Noun kata gata)
-# Noun かたがた (Noun かたがた)
+
 ## 1. Introduction
 The grammar point **Noun かたがた** (かたがた) is a formal expression used in Japanese to indicate that one action serves two purposes simultaneously. It's commonly used in formal speech and writing, such as business letters, speeches, and announcements.
 
@@ -67,6 +67,7 @@ Today, I have come to provide an explanation, also to report to you.
 Sanpo katagata, kaimono ni itte kimasu.
 **English Translation**
 I'm going shopping while taking a walk.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance

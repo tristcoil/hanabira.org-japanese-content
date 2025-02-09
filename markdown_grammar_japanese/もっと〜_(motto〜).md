@@ -1,6 +1,6 @@
 Processing keyword: もっと〜 (motto〜)
 # Japanese Grammar Point: もっと〜 (motto〜)
-# もっと〜 (motto〜)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **もっと〜 (motto〜)**. This adverb is widely used to express "more," "further," or "even more" in various contexts. Understanding how to use **もっと** will enhance your ability to express comparisons, desires, and intensify your statements in Japanese.
 
@@ -31,10 +31,12 @@ In this lesson, we'll explore the Japanese grammar point **もっと〜 (motto�
 While both **もっと** and **さらに** mean "more" or "further," they have subtle differences:
 - **もっと**: Commonly used in everyday language to indicate a simple increase or desire for "more."
 - **さらに**: Often used in formal contexts or written language, implying "in addition" or "furthermore," sometimes with a sense of progression.
+
 | Grammar Point | Meaning          | Usage            |
 |---------------|------------------|------------------|
 | もっと        | More; further    | Casual/Formal    |
 | さらに        | Furthermore; also | Formal/Written   |
+
 ---
 ## 4. Examples in Context
 ### Example 1: With Verbs

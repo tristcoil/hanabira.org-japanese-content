@@ -1,6 +1,6 @@
 Processing keyword: なんでも～ (nandemo～)
 # Japanese Grammar Point: なんでも～ (nandemo～)
-# Grammar Point: なんでも～ (nandemo~)
+
 ## 1. Introduction
 **なんでも (nandemo)** is a Japanese expression meaning **"anything"**, **"whatever"**, or **"everything"**. It's used to indicate that there are **no limitations or restrictions**, expressing a willingness to accept **any option** or that something applies to **all things**.
 

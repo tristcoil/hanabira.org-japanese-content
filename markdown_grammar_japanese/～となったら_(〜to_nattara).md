@@ -1,6 +1,6 @@
 Processing keyword: ～となったら (〜to nattara)
 # Japanese Grammar Point: ～となったら (〜to nattara)
-# ～となったら (〜to nattara)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～となったら (〜to nattara)**. This structure is used to discuss hypothetical situations, especially those involving significant changes or decisions. By mastering this grammar point, you'll be able to express "if it comes to..." or "if it turns out that..." scenarios in Japanese.
 
@@ -67,6 +67,7 @@ In Japanese culture, expressing hypothetical situations respectfully and thought
 - Politeness is adjusted by conjugating the verbs appropriately and using honorific language where needed.
 ### Idiomatic Expressions
 While **～となったら** is not idiomatic, it can be part of common expressions relating to decision-making or significant changes.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -77,6 +78,7 @@ While **～となったら** is not idiomatic, it can be part of common expressi
 ### Learning Strategies
 - **Remember the Nuance**: Associate **なったら** with **なる** (to become) to keep in mind that it involves a change or becoming.
 - **Practice with Scenarios**: Create sentences about big decisions or changes to get comfortable using **～となったら**.
+
 ---
 ## 7. Summary and Review
 ### Key Takeaways

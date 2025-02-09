@@ -1,6 +1,6 @@
 Processing keyword: ～にしては (〜ni shite wa)
 # Japanese Grammar Point: ～にしては (〜ni shite wa)
-# ～にしては (〜ni shite wa)
+
 ## 1. Introduction
 The grammar point **～にしては (〜ni shite wa)** is a Japanese expression used to indicate that something is unexpected or surprising, considering the standard or norm set by the preceding phrase. It can be translated as "considering", "for", or "given" in English.
 
@@ -61,6 +61,7 @@ Both **～にしては** and **～わりに** express a contrast between expecta
 Understanding **～にしては** helps in comprehending Japanese expectations and norms. For example, saying someone is "tall for a Japanese person" acknowledges general height trends in Japan.
 ### Levels of Politeness
 The politeness in sentences using **～にしては** depends on the surrounding verbs and context. **～にしては** itself is neutral and can be used in both polite and casual speech.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes

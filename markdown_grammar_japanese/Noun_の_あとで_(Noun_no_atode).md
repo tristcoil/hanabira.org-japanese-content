@@ -1,6 +1,6 @@
 Processing keyword: Noun の あとで (Noun no atode)
 # Japanese Grammar Point: Noun の あとで (Noun no atode)
-# Noun の あとで (Noun no atode)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Noun の あとで (Noun no atode)**, which translates to "after (noun)" in English. This structure is commonly used to indicate that one action occurs after a certain event or time, expressed by the noun. Understanding how to use **あとで (atode)** with nouns will help you express sequences of events more naturally in Japanese.
 ## 2. Core Grammar Explanation

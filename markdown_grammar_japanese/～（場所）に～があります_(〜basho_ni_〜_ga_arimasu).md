@@ -1,6 +1,6 @@
 Processing keyword: ～（場所）に～があります (〜basho ni 〜 ga arimasu)
 # Japanese Grammar Point: ～（場所）に～があります (〜basho ni 〜 ga arimasu)
-# Japanese Grammar Lesson: ～（場所）に～があります (〜basho ni 〜 ga arimasu)
+
 ## 1. Introduction
 Welcome to today's lesson on the Japanese grammar structure **～（場所）に～があります** (**〜basho ni 〜 ga arimasu**). This structure is fundamental for expressing the existence or presence of inanimate objects at a specific location. Mastery of this grammar point will greatly enhance your ability to describe scenes and provide information in Japanese.
 
@@ -144,7 +144,7 @@ The basic structure of this grammar point is:
      *(Watashi no machi ni kōen ga arimasu.)*
 ---
 By understanding and practicing **～（場所）に～があります**, you can effectively describe where things are, enhancing both your conversational and descriptive skills in Japanese.
----
+
 
 
 ---

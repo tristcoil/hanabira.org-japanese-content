@@ -1,6 +1,6 @@
 Processing keyword: どんなに～うが (donna ni ～ u ga)
 # Japanese Grammar Point: どんなに～うが (donna ni ～ u ga)
-# JLPT Grammar Point: どんなに～うが (donna ni ～ u ga)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **どんなに～うが** (*donna ni ～ u ga*). This structure is used to express **"no matter how much..."** or **"even if..."**, emphasizing that a certain condition or outcome remains unchanged regardless of the circumstances or efforts made.
 

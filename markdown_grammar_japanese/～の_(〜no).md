@@ -1,6 +1,6 @@
 Processing keyword: ～の (〜no)
 # Japanese Grammar Point: ～の (〜no)
-# Grammar Point: ～の (〜no)
+
 ## 1. Introduction
 The particle **の (no)** is one of the most versatile and frequently used particles in Japanese. It serves multiple grammatical functions, including indicating possession, connecting nouns, nominalizing verbs and adjectives, and adding explanatory nuance to sentences. Understanding how to use **の** correctly will greatly enhance your ability to construct natural and coherent sentences in Japanese.
 ## 2. Core Grammar Explanation

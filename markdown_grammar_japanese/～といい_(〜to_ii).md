@@ -1,6 +1,6 @@
 Processing keyword: ～といい (〜to ii)
 # Japanese Grammar Point: ～といい (〜to ii)
-# ～といい (〜to ii)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「～といい」 (〜to ii)**, which is used to express hopes or wishes about events or actions. Understanding this grammar point will help you convey your desires and wishes naturally in Japanese.
 
@@ -93,7 +93,6 @@ Adding **「なあ」** adds emphasis and makes it more casual or expressive.
    - **Answer**: "I hope it will be sunny tomorrow."
 ---
 By mastering 「～といい」, you can express your hopes and wishes naturally in Japanese conversations.
----
 
 
 ---

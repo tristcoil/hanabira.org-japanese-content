@@ -1,6 +1,6 @@
 Processing keyword: ～限りだ (〜kagiri da)
 # Japanese Grammar Point: ～限りだ (〜kagiri da)
-# ～限りだ (〜kagiri da)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～限りだ (〜kagiri da)**. This expression is used to convey strong feelings or emotions, such as joy, envy, regret, or sadness. By mastering this grammar point, you'll be able to express your emotions more vividly and naturally in Japanese.
 

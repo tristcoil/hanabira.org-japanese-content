@@ -1,10 +1,9 @@
 Processing keyword: Noun なしには～ない (Noun nashi ni wa ~nai)
 # Japanese Grammar Point: Noun なしには～ない (Noun nashi ni wa ~nai)
-# Noun なしには～ない (Noun nashi ni wa ~nai)
 
----
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **「Noun なしには～ない」**, which is used to express that without something, something else cannot happen. This structure emphasizes the necessity of the noun for the occurrence of an action or event.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

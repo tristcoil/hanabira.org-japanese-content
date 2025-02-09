@@ -1,10 +1,10 @@
 Processing keyword: ～切れない (～kirenai)
 # Japanese Grammar Point: ～切れない (～kirenai)
-# ～切れない (～kirenai)
 
 ---
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～切れない (～kirenai)**. This expression is used to indicate that something **cannot be completely done** or that an action **cannot be fully completed** due to its sheer amount or difficulty. Mastering this grammar point will enhance your ability to express limitations and capacities in Japanese.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

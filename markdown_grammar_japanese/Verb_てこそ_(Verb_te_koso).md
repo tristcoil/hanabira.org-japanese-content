@@ -1,6 +1,6 @@
 Processing keyword: Verb てこそ (Verb te koso)
 # Japanese Grammar Point: Verb てこそ (Verb te koso)
-# Verb てこそ (Verb てこそ)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verb てこそ (Verb てこそ)**. This structure emphasizes that only when a certain action is performed does something meaningful or significant occur. Understanding **てこそ** will help you express essential conditions and deepen cause-and-effect relationships in your Japanese communication.
 

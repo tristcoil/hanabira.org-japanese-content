@@ -1,9 +1,10 @@
 Processing keyword: Noun を めぐって (Noun wo megutte)
 # Japanese Grammar Point: Noun を めぐって (Noun wo megutte)
-# 1. Introduction
+
+## 1. Introduction
 **Grammar Point:** **Noun を めぐって** (*Noun wo megutte*)
 The expression **をめぐって** is used in Japanese to indicate that discussions, debates, or disputes are happening *concerning* or *regarding* a specific topic or issue. It often conveys that multiple parties have differing opinions or are engaged in some kind of exchange about the noun it follows.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 - **をめぐって** translates to **"regarding," "concerning," "over,"** or **"about"** in English.
 - It implies that there are **various opinions, debates, or conflicts** surrounding the noun.
@@ -30,7 +31,7 @@ The expression **をめぐって** is used in Japanese to indicate that discussi
 2. **Noun をめぐる + Noun**
    - *教育制度* をめぐる *問題*。
      - **Problems concerning the education system.**
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ## Similar Grammar Points
 ### 1. について (*Nitsuite*)
 - **Meaning:** About; concerning.
@@ -50,7 +51,7 @@ The expression **をめぐって** is used in Japanese to indicate that discussi
 | **に関して**         | No                    | Formal          | Official Statements  |
 - **をめぐって** implies a **conflict or differing opinions**, whereas **について** and **に関して** do not.
 - **に関して** is more formal and often used in official contexts.
-# 4. Examples in Context
+## 4. Examples in Context
 ## Formal Context
 1. **市場戦略をめぐって、役員たちが会議を開いた。**
    *The executives held a meeting concerning the market strategy.*
@@ -71,7 +72,7 @@ The expression **をめぐって** is used in Japanese to indicate that discussi
    *Everyone exchanged opinions about yesterday's game.*
 2. **彼の発言をめぐって、社内で意見が割れている。**
    *Opinions are divided within the company over his remarks.*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 - In Japanese culture, **harmony and consensus** are valued.
 - Using **をめぐって** acknowledges that there is a **divergence of opinions**.
@@ -85,7 +86,7 @@ The expression **をめぐって** is used in Japanese to indicate that discussi
   *Debates concerning constitutional amendments*
 - **資源をめぐって対立が生じた**
   *A conflict arose over resources*
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 ### Mistake 1: Using をめぐって for Personal Thoughts
 - **Incorrect:** 私は将来の計画をめぐって考えています。
@@ -99,7 +100,7 @@ The expression **をめぐって** is used in Japanese to indicate that discussi
 ## Learning Strategies
 - **Mnemonic:** Think of **めぐる** meaning **"to go around"**; thus, discussions **revolve around** a topic.
 - **Tip:** Use **をめぐって** when there are **multiple parties** with **diverging opinions**.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **をめぐって** is used to indicate discussions or disputes **concerning** a topic.
 - Often implies **multiple viewpoints** or **controversy**.
@@ -126,9 +127,6 @@ The expression **をめぐって** is used in Japanese to indicate that discussi
 1. **b) をめぐって**
 2. **False**
 3. **b) について**
-
----
-
 
 ---
 

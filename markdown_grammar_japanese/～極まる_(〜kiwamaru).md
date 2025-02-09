@@ -1,6 +1,6 @@
 Processing keyword: ～極まる (〜kiwamaru)
 # Japanese Grammar Point: ～極まる (〜kiwamaru)
-# JLPT Grammar Explanation: ～極まる (〜きわまる)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **～極まる (〜きわまる)**. This expression is used to indicate that something is extremely or exceedingly in a particular state. It emphasizes that a condition has reached its utmost limit.
 

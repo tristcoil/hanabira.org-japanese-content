@@ -1,6 +1,6 @@
 Processing keyword: ～はたいへんです (〜wa taihen desu)
 # Japanese Grammar Point: ～はたいへんです (〜wa taihen desu)
-# ～はたいへんです (〜wa taihen desu)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **～はたいへんです (〜wa taihen desu)**, which is used to express that something is tough, difficult, or a serious matter. This construction is useful for conveying concern or emphasizing the severity of a situation.
 

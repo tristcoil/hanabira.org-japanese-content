@@ -1,6 +1,6 @@
 Processing keyword: ～ばかり (〜bakari)
 # Japanese Grammar Point: ～ばかり (〜bakari)
-# ～ばかり (〜bakari)
+
 ## 1. Introduction
 In this lesson, we'll explore the versatile Japanese grammar point **～ばかり (〜bakari)**. This expression is commonly used to indicate that something has just occurred, to emphasize exclusivity, or to approximate an amount. Mastering ～ばかり will enhance your ability to express timing, quantity, and emphasis in Japanese.
 

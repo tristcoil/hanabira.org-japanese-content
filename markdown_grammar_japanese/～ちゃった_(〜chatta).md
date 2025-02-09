@@ -1,10 +1,11 @@
 Processing keyword: ～ちゃった (〜chatta)
 # Japanese Grammar Point: ～ちゃった (〜chatta)
-# Grammar Point: ～ちゃった (〜chatta)
+
 
 ---
 ## 1. Introduction
 The expression **～ちゃった (〜chatta)** is a casual contraction in Japanese that is widely used in everyday conversation. It signifies the **completion of an action**, often with a nuance of **regret**, **unintended occurrence**, or sometimes even **relief**. Understanding this grammar point will help you express actions that have been fully completed, especially ones that happened unintentionally or have some emotional weight.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

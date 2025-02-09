@@ -1,6 +1,6 @@
 Processing keyword: ～ではないか (〜de wa nai ka)
 # Japanese Grammar Point: ～ではないか (〜de wa nai ka)
-# ～ではないか (〜de wa nai ka)
+
 ## 1. Introduction
 The expression **～ではないか (〜de wa nai ka)** is a versatile grammatical structure in Japanese used to:
 - **Make suggestions or proposals**
@@ -140,7 +140,6 @@ A[Verb/Adjective/Noun] --> B[＋ではないか]
    - **Answer**: ～じゃないか
 ---
 By mastering **～ではないか**, you'll enhance your ability to communicate formally and persuasively in Japanese. Keep practicing, and don't hesitate to use this structure in appropriate contexts!
----
 
 
 ---

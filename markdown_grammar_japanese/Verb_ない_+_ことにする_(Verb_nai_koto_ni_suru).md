@@ -1,10 +1,11 @@
 Processing keyword: Verb ない + ことにする (Verb nai koto ni suru)
 # Japanese Grammar Point: Verb ない + ことにする (Verb nai koto ni suru)
-# JLPT Grammar Lesson: Verb ない + ことにする (Verb nai koto ni suru)
+
 
 ---
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verb ない + ことにする**, which is used to express a decision **not** to do something. This structure is commonly used in daily conversations to indicate personal resolutions or decisions to avoid certain actions.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -65,6 +66,7 @@ Both expressions involve the negative form of the verb but convey different nuan
 *Are you going to the party tomorrow?*
 **B:** ううん、今回は行かないことにするよ。  
 *No, I've decided not to go this time.*
+
 ---
 ## 5. Cultural Notes
 ### Politeness and Decision-Making
@@ -74,6 +76,7 @@ In Japanese culture, making decisions, especially those that may affect others, 
   Though similar in appearance, **～ないことには** means *unless* and is used to express that something won't happen unless a certain action is taken.
   - 試してみないことには、分からない。  
     *Unless you try, you won't know.*
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes

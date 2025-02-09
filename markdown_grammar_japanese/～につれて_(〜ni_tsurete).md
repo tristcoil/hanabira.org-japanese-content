@@ -1,6 +1,6 @@
 Processing keyword: ～につれて (〜ni tsurete)
 # Japanese Grammar Point: ～につれて (〜ni tsurete)
-# ～につれて (〜ni tsurete)
+
 ## 1. Introduction
 The grammar expression **～につれて (〜ni tsurete)** is used in Japanese to indicate that as one thing changes, another thing changes alongside it. It expresses a correlation where one change leads to another. This construction is often translated as:
 - "As..."

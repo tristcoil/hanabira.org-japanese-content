@@ -1,6 +1,6 @@
 Processing keyword: ～ごとく (〜gotoku)
 # Japanese Grammar Point: ～ごとく (〜gotoku)
-# ～ごとく (〜gotoku)
+
 ## 1. Introduction
 The grammar point ～ごとく (*〜gotoku*) is a formal and literary expression in Japanese used to indicate similarity or comparison, equivalent to "like" or "as if" in English. It is often found in written language, poetry, and formal speeches.
 
@@ -108,7 +108,7 @@ The expression ～ごとく is used to compare one action or state to another, e
 1. **B) To make a comparison**
 2. **C) 彼は猫のごとく寝ている。**
 3. **B) No**
----
+
 
 
 ---

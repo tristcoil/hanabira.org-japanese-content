@@ -1,6 +1,6 @@
 Processing keyword: いつも～ (itsumo～)
 # Japanese Grammar Point: いつも～ (itsumo～)
-# いつも～ (itsumo～)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese adverb **いつも (itsumo)**, which translates to **"always"** or **"usually"**. Understanding how to use **いつも** will help you express habitual actions and routines in Japanese.
 
@@ -21,14 +21,17 @@ Subject + は + いつも + Verb
   - *Watashi wa itsumo pan o tabemasu.*
   - "I always eat bread."
 ### Formation Diagram
+
 | Part of Speech | Japanese          | English          |
 |----------------|-------------------|------------------|
 | Subject        | 私は              | I                |
 | Adverb         | **いつも**         | **always**       |
 | Verb           | パンを食べます     | eat bread        |
+
 ---
 ## 3. Comparative Analysis
 Let's compare **いつも** with other frequency adverbs to understand the nuance.
+
 | Adverb            | Hiragana       | Meaning             | Frequency Level |
 |-------------------|----------------|---------------------|-----------------|
 | **いつも**         | いつも         | Always              | 100%            |
@@ -37,6 +40,7 @@ Let's compare **いつも** with other frequency adverbs to understand the nuanc
 | ときどき           | ときどき        | Sometimes           | ~50%            |
 | あまり (*+neg*)    | あまり         | Not very often      | ~20%            |
 | ぜんぜん (*+neg*)  | ぜんぜん        | Not at all/Never    | 0%              |
+
 *Note:* **あまり** and **ぜんぜん** are used with negative verbs.
 ---
 ## 4. Examples in Context

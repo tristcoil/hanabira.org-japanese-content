@@ -1,6 +1,6 @@
 Processing keyword: ～まま (〜mama)
 # Japanese Grammar Point: ～まま (〜mama)
-# ～まま (〜mama)
+
 ## 1. Introduction
 The grammar point **～まま (〜mama)** is used in Japanese to express the idea of something remaining in an unchanged state or being left "as is." It indicates that the state or condition persists without alteration. This expression is versatile and commonly used in both spoken and written Japanese.
 

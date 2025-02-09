@@ -1,6 +1,6 @@
 Processing keyword: ～まで～て (〜made 〜te)
 # Japanese Grammar Point: ～まで～て (〜made 〜te)
-# ～まで～て (〜made 〜te) Grammar Explanation
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar pattern **～まで～て (〜made 〜te)**. This construction is used to express going to great lengths or extremes to accomplish something. It often conveys a sense of overdoing or doing something excessive to achieve a particular result.
 

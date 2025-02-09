@@ -1,6 +1,6 @@
 Processing keyword: Verbる がままに (〜ga mama ni)
 # Japanese Grammar Point: Verbる がままに (〜ga mama ni)
-# Verbるがままに (〜がままに)
+
 ## 1. Introduction
 The grammar point **Verbるがままに (〜がままに)** is an expressive way to convey the idea of doing something "as it is," "just as," or "according to" the state or action described by the verb. It implies that an action is performed without alteration, resistance, or deviation from its natural course.
 
@@ -54,6 +54,7 @@ When combined, **Verbるがままに** emphasizes performing an action exactly a
 **Japanese:** 好きな本を好きなだけ、気の向くがままに読んだ。
 **Romaji:** Suki na hon o suki na dake, ki no muku ga mama ni yonda.
 **English:** "I read as much as I wanted of the books I liked, just as I felt like."
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance

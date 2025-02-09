@@ -1,6 +1,6 @@
 Processing keyword: ～だけしか (～dake shika)
 # Japanese Grammar Point: ～だけしか (～dake shika)
-# ～だけしか (～dake shika)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～だけしか (dake shika)**, which is used to express strong exclusivity or limitation. Understanding this structure will help you emphasize that there's _absolutely nothing else_ besides what is mentioned, adding nuance and precision to your Japanese communication.
 

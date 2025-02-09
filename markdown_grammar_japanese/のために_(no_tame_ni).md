@@ -1,6 +1,6 @@
 Processing keyword: のために (no tame ni)
 # Japanese Grammar Point: のために (no tame ni)
-# のために (No Tame Ni)
+
 ## 1. Introduction
 The grammar point **のために (no tame ni)** is a fundamental expression in Japanese that conveys purpose or reason. It translates to **"for the sake of," "in order to," or "because of"** in English. Understanding how to use **のために** will allow you to articulate motives, intentions, and reasons in your Japanese communication effectively.
 
@@ -118,8 +118,6 @@ The grammar point **のために (no tame ni)** is a fundamental expression in J
    - **Explanation**: Use **ために** after verbs without **の**.
 ---
 By incorporating **のために (no tame ni)** into your vocabulary, you'll be able to express purposes and reasons clearly, making your Japanese communication more nuanced and effective.
----
-
 
 ---
 

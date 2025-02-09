@@ -1,6 +1,6 @@
 Processing keyword: ～し、～し、～ (〜shi, 〜shi, 〜)
 # Japanese Grammar Point: ～し、～し、～ (〜shi, 〜shi, 〜)
-# ～し、～し、～ (〜shi, 〜shi, 〜)
+
 ## 1. Introduction
 In Japanese, the grammatical structure ～し、～し、～ is used to list multiple reasons, actions, or states. It is a versatile pattern that allows speakers to emphasize various aspects or provide multiple explanations in a sentence.
 

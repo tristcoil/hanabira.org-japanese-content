@@ -1,0 +1,33 @@
+coil@coil-VM:scripts$ python3 find_mismatch.py 
+------------------------------------------------------------
+Lines only in grammar_titles_jap.txt (10 mismatches):
+------------------------------------------------------------
+Noun_に_戻ります_(Noun_ni_modorimasu)
+Noun_も兼ねて_(~mo_kanete)
+Verb_る_ところ_(Verb-ru_tokoro)
+Verbる_-_Noun(である)_+_限り(は)_(kagiri_(wa))
+Verbる_にも_Verb_れない_(Verb-ru_ni_mo_Verb-re_nai)
+い-Adjective:_Negative_Polite_Form
+～て_います_(～te_imasu)
+～てみる_(〜te_miru)
+～ないで_(〜naide)
+～に難くない_(～ni_katakunai)
+
+
+------------------------------------------------------------
+Lines only in markdown_titles_jap.txt (11 mismatches):
+------------------------------------------------------------
+Noun_も兼ねて_(~mo_kane_te)
+Noun_限りで_(~_kagiri_de)
+Verb_に_かえります_(〜ni_kaerimasu)
+Verb_る_ところ_(Verb-ru_to_koro)
+Verbる_にも_Verb_れない_(Verbる_にも_Verb_れない)
+い-Adjective_く_ないます_(i-Adjective_ku_naimasu)
+～います_(〜imasu)
+～がらないで_(〜ga_ranai_de)
+～くせして_(〜kuse_shite)
+～に難くない_(～ni_muzukunai)
+～み_(～mi)
+
+
+coil@coil-VM:scripts$ 

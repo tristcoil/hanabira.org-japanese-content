@@ -1,6 +1,6 @@
 Processing keyword: Noun を皮切りにして (Noun wo kawakiri ni shite)
 # Japanese Grammar Point: Noun を皮切りにして (Noun wo kawakiri ni shite)
-# Noun を皮切りにして (Noun をかわきりにして)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「Noun を皮切りにして」 (Noun wo kawakiri ni shite)**. This expression is used to indicate that something begins or starts with a particular event and then continues or spreads from there. It's commonly used to describe the starting point of a series of events or actions.
 
@@ -30,6 +30,7 @@ Noun + を皮切りに（して） + (Subsequent events/actions)
 コンサート + を皮切りにして + 全国ツアーを行う。
 ```
 **Translation**: "*Starting with the concert, (they) will conduct a nationwide tour.*"
+
 ---
 ## 3. Comparative Analysis
 ### Similar Grammar Points

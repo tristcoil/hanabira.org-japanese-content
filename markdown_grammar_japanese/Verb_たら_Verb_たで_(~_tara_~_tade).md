@@ -1,6 +1,6 @@
 Processing keyword: Verb たら Verb たで (~ tara ~ tade)
 # Japanese Grammar Point: Verb たら Verb たで (~ tara ~ tade)
-# Japanese Grammar Lesson: 〜たら〜たで (Verb たら Verb たで)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar pattern **〜たら〜たで** (Verb たら Verb たで). This structure is used to express the idea that whether an action is taken or not, there are consequences or considerations either way. It often conveys a sense of resignation or acknowledgment that both options have their own merits or drawbacks.
 
@@ -113,13 +113,11 @@ Verb (た-form) + ら + Verb (た-form) + で + [Comment/Result]
 1. **Fill in the blanks**: 見______ら見______で、驚くかもしれない。
 2. **True or False**: In **〜たら〜たで**, different verbs are used before **たら** and **たで**.
 3. **Translate**: 来なかったら来なかったで、ゆっくりできます。
+
 #### Answers:
 1. **見**た**ら見**た**で
 2. **False**
 3. "If they don't come, then we can relax."
----
-**End of Lesson**
----
 
 
 ---

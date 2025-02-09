@@ -1,6 +1,6 @@
 Processing keyword: Verb ないではおかない (~ nai de wa okanai)
 # Japanese Grammar Point: Verb ないではおかない (~ nai de wa okanai)
-# ～ないではおかない (Verb ないではおかない)
+
 ## 1. Introduction
 The grammar pattern **～ないではおかない** is a powerful expression in Japanese that conveys a strong sense of inevitability or compulsion. It suggests that due to certain circumstances or emotions, an action **must** occur; one **cannot help but** do something.
 

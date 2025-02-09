@@ -1,6 +1,6 @@
 Processing keyword: ～だらけ (〜darake)
 # Japanese Grammar Point: ～だらけ (〜darake)
-# ～だらけ (〜darake)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～だらけ (〜darake)**. This expression is used to indicate that something is full of or covered with an undesirable thing. Understanding how to use ～だらけ will help you describe situations where something is riddled with unwanted elements.
 

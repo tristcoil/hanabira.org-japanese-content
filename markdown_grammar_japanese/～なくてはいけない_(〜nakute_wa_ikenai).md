@@ -1,6 +1,6 @@
 Processing keyword: ～なくてはいけない (〜nakute wa ikenai)
 # Japanese Grammar Point: ～なくてはいけない (〜nakute wa ikenai)
-# ～なくてはいけない (〜nakute wa ikenai)
+
 ## 1. Introduction
 The grammar point **～なくてはいけない** (〜nakute wa ikenai) is a common expression in Japanese used to indicate **obligation** or **necessity**. It conveys the meaning of "must do" or "have to do" something. Mastery of this grammar point is essential for expressing duties, responsibilities, and requirements in Japanese.
 

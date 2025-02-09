@@ -1,6 +1,6 @@
 Processing keyword: ～に反して (〜ni hanshite)
 # Japanese Grammar Point: ～に反して (〜ni hanshite)
-# The Japanese Grammar Point: ～に反して (〜ni hanshite)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **～に反して (〜ni hanshite)**. This expression is commonly used to indicate that something goes against expectations, predictions, intentions, or rules. Understanding how to use **～に反して** will enhance your ability to express contrasts and unexpected outcomes in Japanese.
 

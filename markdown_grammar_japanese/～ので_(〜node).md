@@ -1,11 +1,12 @@
 Processing keyword: ～ので (〜node)
 # Japanese Grammar Point: ～ので (〜node)
-# ～ので (〜node) Grammar Point
+
 The conjunction **～ので (〜node)** is used in Japanese to express a reason or cause, similar to "because" or "since" in English. It connects two clauses, where the first clause provides the reason for the action or situation described in the second clause.
 
 ---
 ## 1. Introduction
 Understanding how to express reasons is essential for effective communication in any language. In Japanese, **～ので (〜node)** is a polite and formal way to explain causes and reasons, often used in both spoken and written contexts.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

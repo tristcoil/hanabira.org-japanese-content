@@ -1,6 +1,6 @@
 Processing keyword: Verb に かえります (〜ni kaerimasu)
 # Japanese Grammar Point: Verb に かえります (〜ni kaerimasu)
-# JLPT Grammar Lesson: Verb Stem に 帰ります (〜にかえります)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **Verb Stem に 帰ります (〜にかえります)**, which is used to express the purpose of returning somewhere to perform a specific action. This construction is useful for indicating that someone is going back to a place in order to do something.
 

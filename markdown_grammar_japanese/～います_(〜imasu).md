@@ -1,6 +1,6 @@
 Processing keyword: ～います (〜imasu)
 # Japanese Grammar Point: ～います (〜imasu)
-# ～います (〜imasu)
+
 ## 1. Introduction
 In this lesson, we'll explore the usage of **～います (〜imasu)**, a fundamental grammar point in Japanese. This verb form is essential for expressing the existence of animate objects (people and animals) and is crucial for daily conversations. Mastering **います** will enhance your ability to describe situations and discuss people or animals in various contexts.
 

@@ -1,6 +1,6 @@
 Processing keyword: ～かいがあって (〜kaiga atte)
 # Japanese Grammar Point: ～かいがあって (〜kaiga atte)
-# 〜かいがあって (〜kaiga atte)
+
 ## 1. Introduction
 The grammar point **〜かいがあって** (〜kaiga atte) is used in Japanese to express that someone's efforts have paid off or that something was worth doing. It's a way to acknowledge that the results of an action were rewarding, justifying the effort put into it.
 ## 2. Core Grammar Explanation

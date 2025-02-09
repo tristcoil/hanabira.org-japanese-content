@@ -1,10 +1,11 @@
 Processing keyword: A。けれども、～B。(A. Keredomo,~ B.)
 # Japanese Grammar Point: A。けれども、～B。(A. Keredomo,~ B.)
-# A。けれども、～B。 (A. However, B.)
+
 
 ---
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **A。けれども、～B。**, which is used to connect two statements where the second contrasts with or provides an exception to the first. Understanding how to use **けれども** will enhance your ability to express contrasting ideas, much like "however" or "but" in English.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -56,21 +57,25 @@ A[Sentence A]
 **Japanese:** 新しいパソコンを買いました。けれども、使い方がよく分かりません。
 **Romaji:** Atarashii pasokon o kaimashita. Keredomo, tsukaikata ga yoku wakarimasen.
 **Translation:** I bought a new computer. However, I don't quite understand how to use it.
+
 ---
 ### Example 2: Informal Speech
 **Japanese:** 昨日勉強した。けれども、テストに合格できなかった。
 **Romaji:** Kinō benkyō shita. Keredomo, tesuto ni gōkaku dekinakatta.
 **Translation:** I studied yesterday. But I couldn't pass the test.
+
 ---
 ### Example 3: Expressing Unexpected Result
 **Japanese:** この道は近い。けれども、危険だ。
 **Romaji:** Kono michi wa chikai. Keredomo, kiken da.
 **Translation:** This road is short. However, it's dangerous.
+
 ---
 ### Example 4: Written Communication
 **Japanese:** 提案を送りました。けれども、ご返事をいただいておりません。
 **Romaji:** Teian o okurimashita. Keredomo, gohenji o itadaite orimasen.
 **Translation:** I sent the proposal. However, I haven't received a reply.
+
 ---
 ## 5. Cultural Notes
 ### Levels of Politeness
@@ -79,6 +84,7 @@ A[Sentence A]
 - In casual conversations, shorter forms like **けど** or **だけど** are commonly used.
 ### Idiomatic Expressions
 - **とはいえけれども**: Means "Having said that, however..." Used to acknowledge a point but introduce a contrast.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistake 1: Using the Wrong Conjunction

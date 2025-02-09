@@ -1,6 +1,6 @@
 Processing keyword: ～恐れがある (〜osore ga aru)
 # Japanese Grammar Point: ～恐れがある (〜osore ga aru)
-# ～恐れがある (～おそれがある)
+
 ## 1. Introduction
 The grammar point **～恐れがある (～おそれがある)** is used in Japanese to express the possibility or risk that something negative or undesirable may happen. It is a formal expression often found in news reports, official announcements, and academic writings.
 ## 2. Core Grammar Explanation

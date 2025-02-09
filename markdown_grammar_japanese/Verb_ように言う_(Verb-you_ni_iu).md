@@ -1,6 +1,6 @@
 Processing keyword: Verb ように言う (Verb-you ni iu)
 # Japanese Grammar Point: Verb ように言う (Verb-you ni iu)
-# Verb ように言う (Verb-you ni iu)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verb ように言う (Verb-you ni iu)**. This structure is essential for conveying indirect commands, requests, or advice given by someone else. Mastering this grammar point will enhance your ability to report speech and communicate more naturally in Japanese.
 
@@ -142,7 +142,7 @@ The basic structure is:
 - **コーチは選手たちに毎日練習するように言った。**
 ---
 By understanding and using **Verb ように言う**, you'll improve your ability to convey indirect speech in Japanese, making your communication more nuanced and culturally appropriate.
----
+
 
 
 ---

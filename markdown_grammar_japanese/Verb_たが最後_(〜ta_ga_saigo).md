@@ -1,6 +1,6 @@
 Processing keyword: Verb たが最後 (〜ta ga saigo)
 # Japanese Grammar Point: Verb たが最後 (〜ta ga saigo)
-# たが最後 (〜ta ga saigo)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **たが最後（たがさいご）**. This expression is used to indicate that once an action is taken, there will be an inevitable (often negative) outcome, and there's no turning back. Understanding this grammar point will help you express situations where an action leads to irreversible consequences.
 
@@ -68,6 +68,7 @@ The expression **たが最後** emphasizes that once the action described by the
 - **Politeness Levels**: Due to its strong connotation, it's less common in casual conversation and more suited to formal or serious contexts.
 ### Idiomatic Expressions
 While **たが最後** itself is not part of an idiom, it is often used in proverbial or cautionary statements to warn about potential negative outcomes.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

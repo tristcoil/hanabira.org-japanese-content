@@ -1,6 +1,6 @@
 Processing keyword: Verb ましょうか。 (〜mashou ka.)
 # Japanese Grammar Point: Verb ましょうか。 (〜mashou ka.)
-# Verb ましょうか。（〜ましょうか。）
+
 ## 1. Introduction
 The expression **〜ましょうか** (〜mashou ka) is a versatile and commonly used grammar point in Japanese. It can be used to make suggestions, offer assistance, or invite someone to do something together. Understanding how to use **〜ましょうか** appropriately will enhance your conversational skills and help you engage more naturally with native speakers.
 

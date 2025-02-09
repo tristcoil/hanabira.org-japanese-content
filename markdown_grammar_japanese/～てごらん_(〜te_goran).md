@@ -1,10 +1,10 @@
 Processing keyword: ～てごらん (〜te goran)
 # Japanese Grammar Point: ～てごらん (〜te goran)
-# Understanding the Grammar Point ～てごらん (〜te goran)
 
----
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～てごらん (〜te goran)**. This expression is commonly used to encourage someone to **try doing something**. It's a gentle way to make suggestions or give advice, often used with friends, family members, or people of equal or lower status.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -104,7 +104,6 @@ To form this expression:
      - *Kono uta o kiite goran.*
 ---
 By understanding ～てごらん, you can make your suggestions sound more natural and appropriate in casual conversations. Try using it when speaking with your Japanese friends!
----
 
 
 ---

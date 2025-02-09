@@ -1,6 +1,6 @@
 Processing keyword: ～させてください (〜sasete kudasai)
 # Japanese Grammar Point: ～させてください (〜sasete kudasai)
-# JLPT Grammar Point: ～させてください (〜sasete kudasai)
+
 ## 1. Introduction
 In Japanese, expressing requests and asking for permission is a fundamental aspect of polite communication. The grammar pattern **～させてください (〜sasete kudasai)** is used when you want to **politely ask someone to allow you to do something**. It conveys humility and respect towards the person you are addressing, making it an essential phrase in both formal and informal situations.
 
@@ -23,6 +23,7 @@ The causative form of a verb expresses making or letting someone do something. H
 1. Change the **u-ending** of the dictionary form to the **a-ending**.
 2. Add **せる (seru)**.
 **Examples:**
+
 | Dictionary Form | Stem Change  | Causative Form     |
 |-----------------|--------------|--------------------|
 | 書く (kaku)     | 書か (kaka)   | 書かせる (kakaseru) |
@@ -32,6 +33,7 @@ The causative form of a verb expresses making or letting someone do something. H
 1. Remove the **る (ru)** from the dictionary form.
 2. Add **させる (saseru)**.
 **Examples:**
+
 | Dictionary Form | Stem       | Causative Form       |
 |-----------------|------------|----------------------|
 | 食べる (taberu)  | 食べ (tabe)| 食べさせる (tabesaseru) |

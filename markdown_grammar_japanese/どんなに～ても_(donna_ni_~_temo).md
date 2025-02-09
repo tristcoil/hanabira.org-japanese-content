@@ -1,6 +1,6 @@
 Processing keyword: どんなに～ても (donna ni ~ temo)
 # Japanese Grammar Point: どんなに～ても (donna ni ~ temo)
-# どんなに～ても (Donna ni ~ temo)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **どんなに～ても (donna ni ~ temo)**, which is used to express "no matter how much..." or "even if..." in English. This structure is essential for conveying situations where a result remains the same regardless of the circumstances.
 
@@ -11,12 +11,14 @@ In this lesson, we'll explore the Japanese grammar point **どんなに～ても
 ### Structure
 The structure varies slightly depending on the type of word (verb, adjective, or noun) being used.
 #### Formation Diagram
+
 | Part of Speech | Formation                               |
 |----------------|-----------------------------------------|
 | Verb           | どんなに + Verb (て-form) + も           |
 | い-Adjective    | どんなに + Adjective (くて) + も         |
 | な-Adjective    | どんなに + Adjective (で) + も           |
 | Noun           | どんなに + Noun (で) + も               |
+
 ### Detailed Explanation
 - **どんなに** means "how much" or "however."
 - **～ても / ～でも** is a combination of the **て-form** of a verb or adjective and the particle **も**, meaning "even if" or "even though."
@@ -112,8 +114,6 @@ The structure varies slightly depending on the type of word (verb, adjective, or
    *False.* *(It can be used with verbs, adjectives, and nouns.)*
 ---
 By mastering **どんなに～ても**, you enhance your ability to express unchanging outcomes despite varying conditions in Japanese.
----
-
 
 ---
 

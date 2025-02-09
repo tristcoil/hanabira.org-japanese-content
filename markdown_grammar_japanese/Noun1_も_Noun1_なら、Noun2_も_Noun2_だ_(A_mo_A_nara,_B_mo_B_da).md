@@ -1,6 +1,6 @@
 Processing keyword: Noun1 も Noun1 なら、Noun2 も Noun2 だ (A mo A nara, B mo B da)
 # Japanese Grammar Point: Noun1 も Noun1 なら、Noun2 も Noun2 だ (A mo A nara, B mo B da)
-# Noun1 も Noun1 なら、Noun2 も Noun2 だ (AもAなら、BもBだ)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar structure **Noun1 も Noun1 なら、Noun2 も Noun2 だ** (*A mo A nara, B mo B da*). This expression is used to highlight similarities between two subjects, often emphasizing negative qualities or criticizing both parties equally.
 ## 2. Core Grammar Explanation

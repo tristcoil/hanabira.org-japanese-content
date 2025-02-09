@@ -1,6 +1,6 @@
 Processing keyword: ～なんと 言いますか。 (〜nan to iimasu ka.)
 # Japanese Grammar Point: ～なんと 言いますか。 (〜nan to iimasu ka.)
-# ～なんと 言いますか。(〜nan to iimasu ka.)
+
 ## 1. Introduction
 In everyday conversations, you might find yourself wanting to ask how to say a particular word or phrase in Japanese. The grammar point **～なんと 言いますか。(〜nan to iimasu ka.)** is a useful expression that allows you to inquire about how to express something in Japanese. This phrase translates to "**How do you say ～?**" or "**What do you call ～?**" in English.
 
@@ -50,6 +50,7 @@ The structure of this expression is straightforward:
 ### Example 4: Asking for Clarification (Informal)
 **English:** If I want to express "hardworking," how do I say it?
 **Japanese:** 「Hardworking」はなんと 言いますか。
+
 ---
 ## 5. Cultural Notes
 ### Politeness Levels
@@ -57,6 +58,7 @@ The structure of this expression is straightforward:
 - Using **すみません** (sumimasen - "excuse me") or **先生** (sensei - "teacher") can make your question more respectful in formal situations.
 ### Idiomatic Expressions
 - In casual conversations, you might hear **～って何？** (…tte nani?) which is a more informal way of asking "What's …?"
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes
@@ -84,9 +86,8 @@ The structure of this expression is straightforward:
 1. 「Delicious」はなんと 言いますか。
 2. **なんと** means "how" or "what," and it's essential for forming the question.
 3. Use the correct particle: 「山」**は**なんと 言いますか。
+
+
+
 ---
-
-
----
-
 © [Hanabira.org](https://hanabira.org)

@@ -1,6 +1,6 @@
 Processing keyword: Noun を踏まえて (〜wo fumaete)
 # Japanese Grammar Point: Noun を踏まえて (〜wo fumaete)
-# JLPT Grammar Point: Noun を踏まえて (〜をふまえて)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **「Noun を踏まえて (〜をふまえて)」**, which is used to express the idea of "based on", "considering", or "taking into account" something. This expression is commonly used in Japanese to indicate that a decision, action, or statement is made after carefully considering a particular factor.
 
@@ -45,6 +45,7 @@ The basic structure is:
   - *Develop measures based on the data.*
   
 While both sentences are similar, **を踏まえて** implies considering or reflecting upon the data, whereas **に基づいて** stresses that the measures are directly founded on the data.
+
 ---
 ## 4. Examples in Context
 ### Formal Situations
@@ -103,6 +104,7 @@ These expressions are commonly used in business and formal discussions.
 1. What does **を踏まえて** express in English?
 2. Fill in the blank: **社員の意見___、新しい制度を導入します。**
 3. Why might you choose **を踏まえて** over **に基づいて**?
+
 **Answers**:
 1. It expresses "based on", "considering", or "taking into account".
 2. **社員の意見を踏まえて、新しい制度を導入します。**

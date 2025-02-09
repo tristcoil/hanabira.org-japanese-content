@@ -1,6 +1,6 @@
 Processing keyword: A その上 B (A sono ue B)
 # Japanese Grammar Point: A その上 B (A sono ue B)
-# A その上 B (A sono ue B)
+
 ## 1. Introduction
 The phrase **その上 (sono ue)** is a conjunction in Japanese that means **"on top of that," "in addition," or "furthermore."** It is used to connect two statements, **A** and **B**, where **B provides additional information that enhances or reinforces the point made in A**. This grammar point is particularly useful for expressing cumulative reasons or listing multiple favorable (or unfavorable) factors.
 
@@ -108,8 +108,6 @@ A。その上、B。
 1. **b) On top of that**
 2. **a) 彼は疲れている。その上、眠れない。**
 3. **その上**
----
-
 
 ---
 

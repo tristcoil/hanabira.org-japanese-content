@@ -1,6 +1,6 @@
 Processing keyword: ～とされる (〜to sareru)
 # Japanese Grammar Point: ～とされる (〜to sareru)
-# ～とされる (〜to sareru)
+
 ## 1. Introduction
 In Japanese, expressing widely held beliefs or general opinions without specifying a particular subject is essential, especially in formal contexts. The grammar point ～とされる (〜to sareru) allows us to convey such ideas elegantly. This lesson will delve into the usage, structure, and nuances of ～とされる, helping you understand and use it effectively.
 
@@ -76,7 +76,7 @@ In Japanese society, indirect expressions are valued, especially in formal setti
 **Answers**:
 1. **この行為は危険だとされる。**
 2. ～とされる expresses a general consensus or belief without specifying who says it, while ～と言われている implies that people say or it is said that, focusing more on hearsay.
----
+
 
 
 ---

@@ -1,6 +1,6 @@
 Processing keyword: だいたい〜 (daitai〜)
 # Japanese Grammar Point: だいたい〜 (daitai〜)
-# だいたい〜 (daitai〜)
+
 ## 1. Introduction
 **だいたい** (*daitai*) is a commonly used adverb in Japanese that means **"about," "approximately," or "roughly."** It is used to indicate an estimate or an approximate amount, time, or degree. Understanding how to use だいたい helps in making general statements without specifying exact details.
 

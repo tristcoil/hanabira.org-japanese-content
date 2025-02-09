@@ -1,6 +1,6 @@
 Processing keyword: どこへも Verb ないです (doko e mo + Verb + nai desu)
 # Japanese Grammar Point: どこへも Verb ないです (doko e mo + Verb + nai desu)
-# どこへも + Verb + ないです (どこへも～ないです)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar pattern **どこへも + Verb + ないです** (*doko e mo + Verb + nai desu*), which is used to express the idea of "not going anywhere" or "nowhere". This structure is essential for conveying negative statements about movement or actions related to places.
 

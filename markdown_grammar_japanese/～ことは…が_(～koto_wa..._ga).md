@@ -1,6 +1,6 @@
 Processing keyword: ～ことは…が (～koto wa... ga)
 # Japanese Grammar Point: ～ことは…が (～koto wa... ga)
-# ～ことは…が (～koto wa... ga)
+
 ## 1. Introduction
 The grammar pattern ～ことは...が (～koto wa... ga) is used to acknowledge a fact while expressing reservations or limitations about it. It often translates to "It is true that..., but...", allowing the speaker to concede a point before introducing a contrasting statement.
 

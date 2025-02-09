@@ -1,6 +1,6 @@
 Processing keyword: な-Adjective に します (na-Adjective ni shimasu)
 # Japanese Grammar Point: な-Adjective に します (na-Adjective ni shimasu)
-# な-Adjective に します \(na-Adjective ni shimasu\)
+
 ## 1. Introduction
 In this lesson, we'll learn how to use **な-adjectives** with **にします** to express the idea of making something become a certain state or deciding on something. This construction is useful when you want to indicate a change or a decision that leads to a new condition described by a **な-adjective**.
 
@@ -67,6 +67,7 @@ Heya o shizuka ni shimasu.
 **髪を綺麗にします。**  
 *Kami o kirei ni shimasu.*  
 "I will make my hair look nice."
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -120,8 +121,6 @@ Heya o shizuka ni shimasu.
    **Answer:** 説明を簡単にします。
 ---
 By mastering this grammar point, you'll be able to describe changes and decisions effectively in Japanese. Keep practicing to become more comfortable with using **な-adjective + にします** in various contexts.
----
-
 
 ---
 

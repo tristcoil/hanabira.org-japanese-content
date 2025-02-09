@@ -1,6 +1,6 @@
 Processing keyword: A。すると B。(~suruto)
 # Japanese Grammar Point: A。すると B。(~suruto)
-# A。すると B。(~すると)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「A。すると B。」**, pronounced *~すると*. This structure is used to indicate that upon the completion of action A, action B immediately follows, often with a sense of surprise or unexpectedness.
 

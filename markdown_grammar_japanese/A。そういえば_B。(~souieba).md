@@ -1,6 +1,6 @@
 Processing keyword: A。そういえば B。(~souieba)
 # Japanese Grammar Point: A。そういえば B。(~souieba)
-# A。そういえば B。(~そういえば)
+
 ## 1. Introduction
 In this lesson, we'll delve into the Japanese expression **そういえば (sou ieba)**. This phrase is commonly used in everyday conversations to transition smoothly between related topics. Understanding how to use **そういえば** will help you sound more natural and keep your conversations flowing effortlessly.
 ## 2. Core Grammar Explanation

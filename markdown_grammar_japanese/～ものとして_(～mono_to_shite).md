@@ -1,6 +1,6 @@
 Processing keyword: ～ものとして (～mono to shite)
 # Japanese Grammar Point: ～ものとして (～mono to shite)
-# ～ものとして (～mono to shite)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～ものとして** (～mono to shite). This expression is used to indicate an assumption or to consider something as a certain way. It is a formal construction often found in written language and formal speeches.
 ## 2. Core Grammar Explanation

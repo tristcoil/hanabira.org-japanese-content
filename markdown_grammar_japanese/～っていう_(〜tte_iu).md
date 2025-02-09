@@ -1,6 +1,6 @@
 Processing keyword: ～っていう (〜tte iu)
 # Japanese Grammar Point: ～っていう (〜tte iu)
-# ～っていう (〜tte iu) Grammar Explanation
+
 ## 1. Introduction
 The expression **～っていう** (pronounced *tte iu*) is a versatile and commonly used grammar point in Japanese. It often appears in casual conversations and can serve multiple functions, such as quoting someone, defining or naming something, or emphasizing a topic. Understanding how to use **～っていう** will enhance your ability to engage in natural, everyday Japanese conversations.
 

@@ -1,6 +1,6 @@
 Processing keyword: Verb ることができる (〜ru koto ga dekiru)
 # Japanese Grammar Point: Verb ることができる (〜ru koto ga dekiru)
-# JLPT Grammar Lesson: Verb ることができる (〜ru koto ga dekiru)
+
 ## 1. Introduction
 In this lesson, we'll delve into the Japanese grammar pattern **Verb ることができる (〜ru koto ga dekiru)**. This structure is used to express the ability or possibility to do something. Mastering this pattern will enhance your ability to talk about what you or others can and cannot do in Japanese.
 
@@ -121,8 +121,6 @@ Japanese verbs have a **potential form** that also expresses ability.
    - *Fujisan o miru koto ga dekimasen deshita.*
 ---
 By understanding and practicing **Verb ることができる**, you'll be better equipped to express abilities and possibilities in Japanese, enhancing your overall language proficiency.
----
-
 
 ---
 

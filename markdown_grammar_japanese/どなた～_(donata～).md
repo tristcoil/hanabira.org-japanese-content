@@ -1,6 +1,6 @@
 Processing keyword: どなた～ (donata～)
 # Japanese Grammar Point: どなた～ (donata～)
-# どなた～ (donata~)
+
 ## 1. Introduction
 In this lesson, we'll explore the usage of **どなた** (donata), a polite interrogative pronoun in Japanese. Understanding how to use **どなた** appropriately is essential for respectful communication, especially in formal settings.
 
@@ -94,8 +94,6 @@ Using **どなた** reflects the Japanese cultural emphasis on respect and socia
 1. b) **こちらはどなたですか。**
 2. **どなた** is more polite than **誰**.
 3. **どなた** — **ご担当者はどなたでしょうか。**
----
-
 
 ---
 

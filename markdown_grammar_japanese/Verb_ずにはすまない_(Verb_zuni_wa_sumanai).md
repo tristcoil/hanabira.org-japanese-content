@@ -1,6 +1,6 @@
 Processing keyword: Verb ずにはすまない (Verb zuni wa sumanai)
 # Japanese Grammar Point: Verb ずにはすまない (Verb zuni wa sumanai)
-# Verb ずにはすまない (Verb zuni wa sumanai)
+
 ## 1. Introduction
 In this lesson, we'll explore the advanced Japanese grammar point **「ずにはすまない」**. This expression is used to convey a strong sense of obligation or inevitability, often stemming from social norms or moral expectations. Mastery of this grammar point will enhance your ability to articulate situations where an action is unavoidable.
 
@@ -12,6 +12,7 @@ In this lesson, we'll explore the advanced Japanese grammar point **「ずには
 - **"Must..."**
 - **"Cannot avoid doing..."**
 - **"Feel compelled to..."**
+
 It expresses a sense that, due to circumstances, social pressures, or moral duty, failing to perform the action would be unacceptable.
 ### Structure
 #### Formation Diagram
@@ -24,11 +25,13 @@ It expresses a sense that, due to circumstances, social pressures, or moral duty
 **Exception**: For the verb **「する」**, the negative form **「しない」** changes to **「せずにはすまない」**.
 ---
 #### Formation Table
+
 | Verb Type          | Negative Form | Remove 「ない」 | Add 「ずにはすまない」 | Example                       |
 |--------------------|---------------|-----------------|------------------------|-------------------------------|
 | **Godan Verbs**     | 読**まない**   | 読**ま**         | 読ま**ずにはすまない** | 読まずにはすまない (Must read) |
 | **Ichidan Verbs**   | 食べ**ない**   | 食べ             | 食べ**ずにはすまない** | 食べずにはすまない (Must eat)  |
 | **Irregular Verbs** | し**ない**     | **せ**           | せ**ずにはすまない**   | せずにはすまない (Must do)     |
+
 ---
 ### Examples of Formation
 - **Verb**: 書く (to write)
@@ -91,6 +94,7 @@ It expresses a sense that, due to circumstances, social pressures, or moral duty
 ## 5. Cultural Notes
 ### Cultural Relevance
 In Japanese culture, social harmony and maintaining relationships are crucial. **「ずにはすまない」** reflects the cultural emphasis on fulfilling social and moral obligations. Not performing the necessary action could lead to loss of face or disrupt group harmony.
+
 ---
 ### Levels of Politeness and Formality
 - **Formality**: This grammar point is formal and often used in writing or formal speeches.

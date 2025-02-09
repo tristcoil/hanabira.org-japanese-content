@@ -1,6 +1,6 @@
 Processing keyword: ～べきだ (〜beki da)
 # Japanese Grammar Point: ～べきだ (〜beki da)
-# ～べきだ (〜beki da)
+
 ## 1. Introduction
 In Japanese, expressing obligations or stating what someone **should** or **ought to** do is an essential aspect of communication. The grammar point ～べきだ (〜beki da) is used to convey this sense of duty or recommendation. This lesson will delve into the usage of ～べきだ, its formation, nuances, and provide plenty of examples to help you understand how to use it naturally in various contexts.
 

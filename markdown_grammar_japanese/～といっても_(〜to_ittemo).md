@@ -1,6 +1,6 @@
 Processing keyword: ～といっても (〜to ittemo)
 # Japanese Grammar Point: ～といっても (〜to ittemo)
-# ～といっても (〜to ittemo)
+
 ## 1. Introduction
 The grammar point ～といっても (〜to ittemo) is a common expression in Japanese that translates to "even though (one) says..." or "although it is said...". It is used to clarify or downplay a statement by presenting it in a more modest or realistic light. This expression helps convey contrast between expectations and reality.
 
@@ -99,7 +99,7 @@ In Japanese communication, there is a cultural tendency to be modest and avoid o
 2. **b) 彼は先生といっても、学生です。**
    - *(Even though he is called a teacher, he's a student.)*
 3. **"Even though it's said to be expensive, it's not an unaffordable price."**
----
+
 
 
 ---

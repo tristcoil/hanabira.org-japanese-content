@@ -1,6 +1,6 @@
 Processing keyword: ～に先立ち (〜ni sakidachi)
 # Japanese Grammar Point: ～に先立ち (〜ni sakidachi)
-# ～に先立ち (〜ni sakidachi)
+
 ## 1. Introduction
 The grammar point ～に先立ち (〜ni sakidachi) is a formal expression used in Japanese to indicate that one action takes place before another. It is often used in written language, speeches, and formal announcements to denote preparation or preliminary actions preceding a main event.
 
@@ -130,7 +130,6 @@ The grammar point ～に先立ち (〜ni sakidachi) is a formal expression used 
 3. **Correction:**
    試験を受けるに先立ち、勉強**を**します。
    **Explanation**: Add the object particle **を** before **します**.
----
 
 
 ---

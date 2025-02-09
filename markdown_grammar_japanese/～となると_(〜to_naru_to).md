@@ -1,6 +1,6 @@
 Processing keyword: ～となると (〜to naru to)
 # Japanese Grammar Point: ～となると (〜to naru to)
-# ～となると (〜to naru to)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～となると (〜to naru to)**. This expression is commonly used to introduce a hypothetical situation or to emphasize a particular condition when discussing a topic. Understanding how to use ～となると will help you articulate scenarios and express considerations effectively in Japanese.
 
@@ -42,6 +42,7 @@ The structure of ～となると is:
 Kaigai ni sumu **to naru to**, gengo no benkyō wa sakerarenai ne.
 **English Translation:**  
 When it comes to living abroad, studying the language is unavoidable, isn't it?
+
 ---
 ### Example 2 (Formal)
 **Japanese:**  
@@ -50,6 +51,7 @@ When it comes to living abroad, studying the language is unavoidable, isn't it?
 Shinseihin o hatsubai suru **to naru to**, shōsai na shijō chōsa ga hitsuyō desu.
 **English Translation:**  
 If we're going to launch a new product, detailed market research is necessary.
+
 ---
 ### Example 3 (Written)
 **Japanese:**  
@@ -58,6 +60,7 @@ If we're going to launch a new product, detailed market research is necessary.
 Iza shiken **to naru to**, kinchō shite shimau gakusei mo Ōi.
 **English Translation:**  
 When it comes time for the exam, many students end up feeling nervous.
+
 ---
 ### Example 4 (Spoken)
 **Japanese:**  
@@ -66,6 +69,7 @@ When it comes time for the exam, many students end up feeling nervous.
 Hikkoshi **to naru to**, iroiro to junbi ga taihen da ne.
 **English Translation:**  
 When it comes to moving, preparing various things is tough, isn't it?
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -98,7 +102,7 @@ The expression **～となると** itself is neutral and can be used in both for
 2. **～となると** emphasizes the implications or considerations of a situation, while **～としたら** is used for hypothetical situations without necessarily considering the implications.
 3. *(Example answer)* 旅行に行く **となると**、早めに予約したほうがいい。  
    When it comes to going on a trip, it's better to book early.
----
+
 
 
 ---

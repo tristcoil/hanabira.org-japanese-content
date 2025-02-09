@@ -1,6 +1,6 @@
 Processing keyword: ～からには (〜kara niwa)
 # Japanese Grammar Point: ～からには (〜kara niwa)
-# ～からには (〜kara niwa)
+
 ## 1. Introduction
 In Japanese, expressing a strong commitment or logical consequence based on a particular situation is an essential part of communication. The grammar point ～からには (〜kara niwa) is used to convey such expressions, often translated as "now that," "since," or "as long as." This lesson will explore the usage of ～からには, its formation, nuances, and provide examples in various contexts to enhance your understanding.
 

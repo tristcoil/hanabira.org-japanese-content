@@ -1,6 +1,6 @@
 Processing keyword: A。 では、～B。 (A. Dewa, ~B)
 # Japanese Grammar Point: A。 では、～B。 (A. Dewa, ~B)
-# A。では、～B。 Grammar Point Explanation
+
 ## 1. Introduction
 In Japanese, transitions between thoughts and actions are essential for smooth communication. The grammar structure **A。では、～B。** is a useful conjunctive expression that helps speakers move from one statement to a conclusion, decision, or next action. It serves a similar function to phrases like "Well then," "In that case," or "So," in English.
 
@@ -110,7 +110,7 @@ A。では、～B。
    B) では、始めましょう。
    *Answer*: B) では、始めましょう。
 ---
-**Practice using **では** in your daily conversations to become more familiar with its formal tone and usage.**
+Practice using **では** in your daily conversations to become more familiar with its formal tone and usage.
 
 
 ---

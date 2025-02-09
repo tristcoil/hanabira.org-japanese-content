@@ -1,6 +1,6 @@
 Processing keyword: Noun ですら (~desura)
 # Japanese Grammar Point: Noun ですら (~desura)
-# Noun ですら (～ですら)
+
 ## 1. Introduction
 The grammar point **～ですら** is used in Japanese to emphasize that something is true **even** in an extreme or unexpected case. It often highlights surprising information or expresses that a situation applies even to the most unlikely examples.
 
@@ -95,8 +95,6 @@ Noun + ですら
 3. **忙しくて、睡眠ですら取れなかった。**
    *Isogashikute, suimin desura torenakatta.*
    "I was so busy that I couldn't **even** get any sleep."
----
-
 
 ---
 

@@ -1,6 +1,6 @@
 Processing keyword: Verbる べく (Verb-ru beku)
 # Japanese Grammar Point: Verbる べく (Verb-ru beku)
-# Verbるべく (Verbる べく)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **べく** attached to the dictionary form of a verb. This structure is often found in formal or written Japanese and expresses the purpose or intention behind an action, similar to "in order to" or "with the aim of" in English.
 
@@ -16,9 +16,11 @@ To form this grammar point:
 1. **Take the dictionary form of a verb** (Verbる).
 2. **Add べく**.
 **Formation Diagram:**
+
 | Verb (Dictionary Form) |   +   | べく |   =   | Verbるべく |
 |:----------------------:|:-----:|:----:|:-----:|:----------:|
 |         行く           |   +   | べく |   =   |  行くべく  |
+
 ### Examples of Formation
 - **勉強する** (to study) → **勉強するべく**
 - **成功する** (to succeed) → **成功するべく**
@@ -54,9 +56,11 @@ To form this grammar point:
 5. **武士たちは平和を取り戻すべく、戦いに挑んだ。**
    *Translation:* "The samurai challenged the battle **to restore** peace."
 ### Negative Form
+
 **Note:** While rare, the negative form can be made by using **べからず** (should not).
 6. **ここに入るべからず。**
    *Translation:* "You should not enter here."
+
 ---
 ## 5. Cultural Notes
 ### Formality and Usage
@@ -104,6 +108,7 @@ To form this grammar point:
    彼は何をするべく、ここに来たのですか。
 3. **Is **べく** commonly used in casual conversation?**  
    Yes / No
+
 **Answers:**
 1. **b) Verbる + べく**
 2. *"For what purpose did he come here?"* or *"What did he come here to do?"*

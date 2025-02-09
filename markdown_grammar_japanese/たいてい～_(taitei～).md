@@ -1,6 +1,6 @@
 Processing keyword: たいてい～ (taitei～)
 # Japanese Grammar Point: たいてい～ (taitei～)
-# たいてい～ (taitei～)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese adverb **たいてい (taitei)**, which is commonly used to express habitual actions or general frequency. Understanding how to use **たいてい** will help you describe routines and usual occurrences in everyday conversation.
 

@@ -1,6 +1,6 @@
 Processing keyword: Verbる くらいなら (〜ru kurai nara)
 # Japanese Grammar Point: Verbる くらいなら (〜ru kurai nara)
-# Grammar Point: Verbる くらいなら (〜る くらいなら)
+
 ## 1. Introduction
 In this lesson, we'll delve into the Japanese grammar point **Verbる くらいなら (〜る くらいなら)**. This structure is used to express a strong preference for one action over another, often implying that the first action is so undesirable that the speaker would rather choose an alternative, even if it's not the best option.
 
@@ -97,8 +97,6 @@ Verb (Dictionary Form) + くらいなら、(alternative/preferred action)
    - **Answer**: 遅れるくらいなら、行かない。
 ---
 By understanding and practicing **Verbる くらいなら**, you can more effectively express your preferences and aversions in Japanese. Keep practicing with your own examples to become more comfortable with this grammar point!
----
-
 
 ---
 

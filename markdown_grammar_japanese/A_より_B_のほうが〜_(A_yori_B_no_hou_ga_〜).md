@@ -1,6 +1,6 @@
 Processing keyword: A より B のほうが〜 (A yori B no hou ga 〜)
 # Japanese Grammar Point: A より B のほうが〜 (A yori B no hou ga 〜)
-# Grammar Lesson: A より B のほうが〜 (A yori B no hō ga 〜)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar pattern **A より B のほうが〜**, which is used to compare two items or actions. It expresses that "**B is more ~ than A**." This structure is essential for making comparisons and expressing preferences in Japanese.
 

@@ -1,6 +1,6 @@
 Processing keyword: ～がち (〜gachi)
 # Japanese Grammar Point: ～がち (〜gachi)
-# ～がち (〜gachi)
+
 ## 1. Introduction
 The suffix **～がち (〜gachi)** is a useful grammar point in Japanese that expresses a tendency or frequency of a particular action or state, often with a negative connotation. It indicates that something happens **often** or someone tends to do something **frequently**, usually unintentionally.
 

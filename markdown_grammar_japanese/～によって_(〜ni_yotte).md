@@ -1,6 +1,6 @@
 Processing keyword: ～によって (〜ni yotte)
 # Japanese Grammar Point: ～によって (〜ni yotte)
-# ～によって (〜ni yotte)
+
 ## 1. Introduction
 The grammar point ～によって (〜ni yotte) is a versatile expression in Japanese that conveys various meanings such as "by," "through," "because of," or "depending on." It is commonly used to indicate the means, method, cause, or to show that something varies according to different conditions. Understanding ～によって is essential for expressing nuances in both spoken and written Japanese.
 

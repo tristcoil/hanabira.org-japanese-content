@@ -1,6 +1,6 @@
 Processing keyword: A。じゃ、～B。(A. Ja, ~B.)
 # Japanese Grammar Point: A。じゃ、～B。(A. Ja, ~B.)
-# A。じゃ、～B。(A. Ja, ~B.)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar pattern **A。じゃ、～B。**. This pattern is commonly used in casual spoken Japanese to indicate a conclusion, decision, or transition based on the preceding statement. Mastering this structure will help you make your conversations flow more naturally.
 
@@ -45,6 +45,7 @@ While **じゃ** is used in casual speech, **では** and **それでは** are m
 Kyō wa hima? Ja, eiga o mi ni ikō.  
 **English Translation:**  
 "Are you free today? Well then, let's go watch a movie."
+
 ---
 ### Example 2: Making a Decision
 **Japanese:**  
@@ -53,6 +54,7 @@ Kyō wa hima? Ja, eiga o mi ni ikō.
 Ame ga futte iru. Ja, ie ni iyō.  
 **English Translation:**  
 "It's raining. In that case, let's stay home."
+
 ---
 ### Example 3: Responding to Information
 **Japanese:**  
@@ -61,6 +63,7 @@ Ame ga futte iru. Ja, ie ni iyō.
 Shiken ga enki sareta nda. Ja, mō sukoshi benkyō dekiru ne.  
 **English Translation:**  
 "The exam has been postponed. So, we can study a bit more."
+
 ---
 ### Example 4: Informal Suggestion
 **Japanese:**  
@@ -69,6 +72,7 @@ Shiken ga enki sareta nda. Ja, mō sukoshi benkyō dekiru ne.
 Onaka suita? Ja, ranchi ni ikanai?  
 **English Translation:**  
 "Are you hungry? Well then, shall we go for lunch?"
+
 ---
 ### Example 5: Planning
 **Japanese:**  
@@ -77,6 +81,7 @@ Onaka suita? Ja, ranchi ni ikanai?
 Ashita wa yasumi da. Ja, doraibu ni ikō ka.  
 **English Translation:**  
 "Tomorrow is a holiday. Then, shall we go for a drive?"
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -90,6 +95,7 @@ Ashita wa yasumi da. Ja, doraibu ni ikō ka.
   *"See you later."* (A casual way to say goodbye.)
 - **じゃ、また明日。**  
   *"Well then, see you tomorrow."*
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

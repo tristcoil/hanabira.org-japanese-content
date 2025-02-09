@@ -1,6 +1,6 @@
 Processing keyword: Verb てから～ (〜te kara)
 # Japanese Grammar Point: Verb てから～ (〜te kara)
-# Verb てから～ (〜てから)
+
 ## 1. Introduction
 The Japanese grammar point **〜てから** (te kara) is used to indicate that one action occurs **after** another action has been completed. It emphasizes the sequence of events, showing that the second action only takes place once the first action is finished.
 

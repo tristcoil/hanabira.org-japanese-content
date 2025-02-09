@@ -1,6 +1,6 @@
 Processing keyword: ～など (〜nado)
 # Japanese Grammar Point: ～など (〜nado)
-# ～など (*nado*)
+
 ## 1. Introduction
 The particle **～など (*nado*)** is a common grammatical tool in Japanese used to indicate examples among a larger group. It translates to "such as," "like," "and so on," or "etc." Understanding how to use *nado* effectively allows you to list items and suggest that there are additional, unmentioned elements related to the context.
 
@@ -48,6 +48,7 @@ The basic structures using *nado* are:
 Dōbutsuen de wa, raion ya zō **nado** o miru koto ga dekimasu.
 **Translation:**  
 At the zoo, you can see animals such as lions, elephants, and so on.
+
 ---
 ### Example 2: Verb + など
 **Japanese:**  
@@ -56,6 +57,7 @@ At the zoo, you can see animals such as lions, elephants, and so on.
 Shūmatsu wa hon o yomu **nado** shite sugoshimasu.
 **Translation:**  
 I spend my weekends doing things like reading books.
+
 ---
 ### Example 3: Emphasizing Modesty
 **Japanese:**  
@@ -64,6 +66,7 @@ I spend my weekends doing things like reading books.
 Watashi **nado** ni dekiru koto wa kagirarete imasu.
 **Translation:**  
 There is only so much someone like me can do.
+
 ---
 ### Example 4: Multiple Uses in a Sentence
 **Japanese:**  
@@ -72,6 +75,7 @@ There is only so much someone like me can do.
 Nihon no tabemono, sushi **nado** ga suki desu.
 **Translation:**  
 I like Japanese foods such as sushi.
+
 ---
 ### Example 5: Formal Context
 **Japanese:**  
@@ -80,6 +84,7 @@ I like Japanese foods such as sushi.
 Kono shorui ni wa shimei, seinengappi **nado** o kinyū shite kudasai.
 **Translation:**  
 Please fill out this form with your name, date of birth, and so on.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -142,7 +147,6 @@ Please fill out this form with your name, date of birth, and so on.
 4. **b) 果物などを買いました。**
 5. **Japanese:**  
    ハイキングやキャンプ**など**の活動を楽しみます。
----
 
 
 ---

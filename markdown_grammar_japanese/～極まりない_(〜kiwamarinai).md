@@ -1,6 +1,6 @@
 Processing keyword: ～極まりない (〜kiwamarinai)
 # Japanese Grammar Point: ～極まりない (〜kiwamarinai)
-# Lesson on ～極まりない (〜kiwamarinai)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～極まりない (〜kiwamarinai)**. This expression is used to describe something that is extremely or exceedingly in a certain state, often with a negative connotation. Understanding how to use **～極まりない** will help you emphasize the extremity of a situation or characteristic in Japanese.
 
@@ -100,10 +100,9 @@ c) "That action is utterly absurd."
 <summary>Answer</summary>
 c) "That action is utterly absurd."
 </details>
+
 ---
 By understanding and practicing **～極まりない**, you'll be able to express extreme states effectively in Japanese. Remember to use it appropriately, considering the formality and strength of the expression.
----
-
 
 ---
 

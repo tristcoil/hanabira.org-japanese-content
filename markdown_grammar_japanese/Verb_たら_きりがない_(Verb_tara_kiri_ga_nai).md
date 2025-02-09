@@ -1,6 +1,6 @@
 Processing keyword: Verb たら きりがない (Verb tara kiri ga nai)
 # Japanese Grammar Point: Verb たら きりがない (Verb tara kiri ga nai)
-# Verbたらきりがない Grammar Lesson
+
 ## 1. Introduction
 In this lesson, we will learn about the Japanese grammar point **Verbたらきりがない (Verb tara kiri ga nai)**. This expression is used to convey that if one starts doing something, there will be **no end** to it. It's a useful phrase to express the idea of endlessness in various contexts.
 

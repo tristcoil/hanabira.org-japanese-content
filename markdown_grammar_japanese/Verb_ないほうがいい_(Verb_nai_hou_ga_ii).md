@@ -1,6 +1,6 @@
 Processing keyword: Verb ないほうがいい (Verb nai hou ga ii)
 # Japanese Grammar Point: Verb ないほうがいい (Verb nai hou ga ii)
-# Verb ないほうがいい (Verb nai hō ga ii)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verb ないほうがいい** (*Verb nai hō ga ii*), which is used to give advice, specifically suggesting that someone should **not** do something. Understanding this grammar point will help you express recommendations and warnings in everyday conversations.
 

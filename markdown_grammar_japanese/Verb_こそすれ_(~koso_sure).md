@@ -1,6 +1,6 @@
 Processing keyword: Verb こそすれ (~koso sure)
 # Japanese Grammar Point: Verb こそすれ (~koso sure)
-# Verb こそすれ (〜こそすれ)
+
 ## 1. Introduction
 The grammar structure **〜こそすれ** is used in Japanese to emphasize a strong contrast between two actions or states. It conveys the meaning of "may do A, but definitely not B" or "if anything, A rather than B." This pattern is often used in formal contexts and emphasizes that while the first action might occur, the second absolutely does not.
 
@@ -64,6 +64,7 @@ In Japanese communication, acknowledging potential faults or difficulties before
 - **Politeness**: Using this structure can add a level of sophistication and emphasis, showing the speaker's strong conviction.
 ### Idiomatic Expressions
 While **〜こそすれ** itself is not idiomatic, it is often used in idiomatic contexts to emphasize contrasts in proverbs or sayings.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

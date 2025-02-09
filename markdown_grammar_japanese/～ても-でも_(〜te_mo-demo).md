@@ -1,6 +1,6 @@
 Processing keyword: ～ても-でも (〜te mo-demo)
 # Japanese Grammar Point: ～ても-でも (〜te mo-demo)
-# ～ても・～でも (~te mo / ~de mo)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～ても・～でも** (~te mo / ~de mo), which is used to express "even if" or "even though". This structure allows speakers to convey that a certain condition does not affect the outcome of an action or situation.
 ## 2. Core Grammar Explanation

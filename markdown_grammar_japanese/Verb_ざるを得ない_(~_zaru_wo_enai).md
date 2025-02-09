@@ -1,6 +1,6 @@
 Processing keyword: Verb ざるを得ない (~ zaru wo enai)
 # Japanese Grammar Point: Verb ざるを得ない (~ zaru wo enai)
-# ～ざるを得ない (~zaru wo enai)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～ざるを得ない** (~zaru wo enai), which expresses the idea of "cannot help but do," "have no choice but to," or "be compelled to." It's a formal expression often used in written language or formal speech.
 
@@ -89,7 +89,6 @@ To get the negative stem of a verb, take the verb and change it to its negative 
    - **Answer:** **せざるを得ない**
 3. Translate: *I have no choice but to accept the result.*
    - **Answer:** **結果を受け入れざるを得ない。**
----
 
 
 ---

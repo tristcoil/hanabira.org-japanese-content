@@ -1,6 +1,6 @@
 Processing keyword: Noun のいかんにかかわらず (Noun no ikan ni kakawarazu)
 # Japanese Grammar Point: Noun のいかんにかかわらず (Noun no ikan ni kakawarazu)
-# Noun のいかんにかかわらず (Noun no ikan ni kakawarazu)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Noun のいかんにかかわらず (Noun no ikan ni kakawarazu)**. This formal expression is used to indicate that something will happen or is true **regardless of** the noun in question. It's commonly found in official statements, legal documents, and formal writings.
 

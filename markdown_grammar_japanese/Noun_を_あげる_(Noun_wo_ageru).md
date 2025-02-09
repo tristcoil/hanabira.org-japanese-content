@@ -1,6 +1,6 @@
 Processing keyword: Noun を あげる (Noun wo ageru)
 # Japanese Grammar Point: Noun を あげる (Noun wo ageru)
-# Noun を あげる (Noun wo ageru)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **"Noun を あげる (Noun wo ageru)"**. This construction is essential for expressing the act of giving something to someone else in Japanese. Understanding how to use **あげる (ageru)** correctly will help you communicate gifts, favors, and offerings, which are integral parts of daily interactions and Japanese culture.
 

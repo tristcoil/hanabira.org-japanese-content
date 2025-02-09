@@ -1,6 +1,6 @@
 Processing keyword: ～はともかく～は (〜wa tomokaku 〜wa)
 # Japanese Grammar Point: ～はともかく～は (〜wa tomokaku 〜wa)
-# ～はともかく、～は (～wa tomokaku, ～wa)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～はともかく、～は** (pronounced *wa tomokaku, wa*). This structure is used to express the idea of setting aside one matter to focus on another, highlighting that while both topics may be important, the second one takes precedence in the current context.
 

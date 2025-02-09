@@ -1,6 +1,6 @@
 Processing keyword: ～にかわって (〜ni kawatte)
 # Japanese Grammar Point: ～にかわって (〜ni kawatte)
-# ～にかわって (〜ni kawatte)
+
 ## 1. Introduction
 The grammar point ～にかわって (〜ni kawatte) is a useful expression in Japanese that conveys the meaning of doing something "in place of," "instead of," or "on behalf of" someone or something else. It is often used to indicate substitution or representation in various contexts.
 
@@ -49,6 +49,7 @@ The grammar point ～にかわって (〜ni kawatte) is a useful expression in J
 **Japanese:** 私にかわって、この資料を提出していただけませんか。  
 **Romaji:** Watashi ni kawatte, kono shiryō o teishutsu shite itadakemasen ka.  
 **English:** Could you submit these documents instead of me?
+
 ---
 ## 5. Cultural Notes
 ### Politeness and Formality
@@ -58,6 +59,7 @@ The grammar point ～にかわって (〜ni kawatte) is a useful expression in J
 ### Idiomatic Expressions
 - **代理 (dairi)**: A noun meaning "representative" or "proxy," often used in similar contexts.
 - **代表して (daihyō shite)**: "Representing" or "on behalf of," another expression to convey similar meaning.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistake 1: Misusing ～にかわって with Non-personal Nouns
@@ -69,6 +71,7 @@ The grammar point ～にかわって (〜ni kawatte) is a useful expression in J
 ### Common Mistake 2: Confusing the Particles
 - Mixing up **にかわって** and **のかわりに** can alter the meaning.
 - Remember that **にかわって** often carries the nuance of performing an action in someone's stead.
+
 ---
 ## 7. Summary and Review
 ### Key Takeaways

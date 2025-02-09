@@ -1,6 +1,6 @@
 Processing keyword: ～ところが (〜tokoro ga)
 # Japanese Grammar Point: ～ところが (〜tokoro ga)
-# ～ところが (〜tokoro ga)
+
 ## 1. Introduction
 The conjunction ～ところが (〜tokoro ga) is a Japanese grammar point used to express an unexpected turn of events or contrast between two situations. It is akin to saying "however," "but," or "even though" in English when the outcome differs from what was anticipated.
 

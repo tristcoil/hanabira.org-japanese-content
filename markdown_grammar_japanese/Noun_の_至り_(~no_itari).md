@@ -1,6 +1,6 @@
 Processing keyword: Noun の 至り (~no itari)
 # Japanese Grammar Point: Noun の 至り (~no itari)
-# Noun の 至り (〜のいたり)
+
 ## 1. Introduction
 **Noun の 至り (〜のいたり)** is a Japanese grammar construct used to express the utmost degree or extreme limit of a feeling or state. It is often employed in formal settings to convey profound emotions such as honor, regret, or shame.
 

@@ -1,6 +1,6 @@
 Processing keyword: ～られた (〜rareta)
 # Japanese Grammar Point: ～られた (〜rareta)
-# ～られた (〜rareta)
+
 ## 1. Introduction
 In Japanese, the grammar point **～られた (〜rareta)** is used to express the **passive voice in the past tense**. Mastery of the passive form is essential for conveying actions received by the subject, rather than performed by the subject. This structure allows speakers to emphasize the action or the receiver of the action, often omitting the doer.
 

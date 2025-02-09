@@ -1,6 +1,6 @@
 Processing keyword: Verb ないで ください (〜naide kudasai)
 # Japanese Grammar Point: Verb ないで ください (〜naide kudasai)
-# Verb ないでください (〜naide kudasai)
+
 ## 1. Introduction
 In Japanese, expressing polite requests is essential for smooth communication. When you want to **ask someone not to do something politely**, you use the grammar pattern **〜ないでください (〜naide kudasai)**. This form is widely used in everyday conversations, formal announcements, and written instructions.
 

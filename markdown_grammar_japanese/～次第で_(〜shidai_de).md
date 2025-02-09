@@ -1,6 +1,6 @@
 Processing keyword: ～次第で (〜shidai de)
 # Japanese Grammar Point: ～次第で (〜shidai de)
-# ～次第で（〜しだいで）Grammar Explanation
+
 ## 1. Introduction
 The grammar point ～**次第で** (〜しだいで) is an essential expression in Japanese that conveys the meaning of "depending on" or "according to." It is used to indicate that the outcome or result of a situation is influenced by a preceding factor. Mastering this grammar point will enhance your ability to discuss conditional scenarios and express dependency in Japanese.
 
@@ -46,6 +46,7 @@ The grammar point ～**次第で** (〜しだいで) is an essential expression 
 ## 5. Cultural Notes
 ### Cultural Relevance
 In Japanese culture, acknowledging variables and the influence of circumstances is important in communication. Using **～次第で** reflects an understanding that outcomes are not always fixed and can be influenced by various factors, which aligns with the Japanese value of considering context and conditions.
+
 ---
 ### Idiomatic Expressions
 - **考え方次第で人生が変わる。**

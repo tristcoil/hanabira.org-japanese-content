@@ -1,6 +1,6 @@
 Processing keyword: ～といえども (〜to iedomo)
 # Japanese Grammar Point: ～といえども (〜to iedomo)
-# Grammar Point: ～といえども (〜to iedomo)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **～といえども (〜to iedomo)**. This expression is used to convey a concession, similar to "even though" or "even if" in English. Understanding how to use ～といえども will enhance your ability to articulate contrasting situations, especially in formal contexts.
 
@@ -41,27 +41,32 @@ The general structure is:
   *Even though I say it's a holiday, I'm working at home.*
 - **～ても:** 雨が降っても、出かけます。  
   *Even if it rains, I'll go out.*
+
 ---
 ## 4. Examples in Context
 ### Example 1: Formal Written Context
 **Japanese:** 法律は国王といえども、従わなければならない。  
 **Romaji:** Hōritsu wa kokuō to iedomo, shitagawa nakereba naranai.  
 **English:** Even the king must obey the law.
+
 ---
 ### Example 2: Formal Spoken Context
 **Japanese:** 子供といえども、自分の意見を持つ権利がある。  
 **Romaji:** Kodomo to iedomo, jibun no iken o motsu kenri ga aru.  
 **English:** Even though they are children, they have the right to their own opinions.
+
 ---
 ### Example 3: Emphasizing Unexpectedness
 **Japanese:** 冬といえども、この地域では花が咲いている。  
 **Romaji:** Fuyu to iedomo, kono chiiki de wa hana ga saite iru.  
 **English:** Even though it's winter, flowers are blooming in this region.
+
 ---
 ### Example 4: Using an Adjective
 **Japanese:** 安全だといえども、注意は必要だ。  
 **Romaji:** Anzen da to iedomo, chūi wa hitsuyō da.  
 **English:** Even though it's safe, caution is necessary.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance

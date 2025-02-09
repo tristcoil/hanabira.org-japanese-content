@@ -1,6 +1,6 @@
 Processing keyword: ～てはならない (〜te wa naranai)
 # Japanese Grammar Point: ～てはならない (〜te wa naranai)
-# ～てはならない (〜te wa naranai)
+
 ## 1. Introduction
 The grammar point **～てはならない** (te wa naranai) is a Japanese expression used to convey strong prohibition or the idea that something must not be done. It is often found in formal writing, rules, and regulations. Understanding this expression is essential for learners who wish to grasp nuances of formality and command in the Japanese language.
 

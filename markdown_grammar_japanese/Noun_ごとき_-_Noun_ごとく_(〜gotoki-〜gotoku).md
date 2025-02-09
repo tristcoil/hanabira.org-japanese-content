@@ -1,6 +1,6 @@
 Processing keyword: Noun ごとき - Noun ごとく (〜gotoki-〜gotoku)
 # Japanese Grammar Point: Noun ごとき - Noun ごとく (〜gotoki-〜gotoku)
-# Noun ごとき・ごとく（〜ごとき・〜ごとく）
+
 ## 1. Introduction
 The expressions **〜ごとき** and **〜ごとく** are used in Japanese to draw comparisons, meaning "like," "as if," or "similar to." They add a formal, literary, or poetic nuance to the sentence and are often found in written texts, speeches, and idiomatic expressions.
 

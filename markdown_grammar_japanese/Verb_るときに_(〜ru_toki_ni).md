@@ -1,6 +1,6 @@
 Processing keyword: Verb るときに (〜ru toki ni)
 # Japanese Grammar Point: Verb るときに (〜ru toki ni)
-# JLPT Grammar Lesson: Verb るときに (〜るときに)
+
 ## 1. Introduction
 Welcome to today's lesson on the grammar point **Verb るときに (〜るときに)**. This structure is commonly used in Japanese to indicate **"when"** an action occurs. Mastering this expression will help you describe events in relation to time more naturally.
 

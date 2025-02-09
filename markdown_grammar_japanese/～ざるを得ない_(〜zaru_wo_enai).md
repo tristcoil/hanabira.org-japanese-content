@@ -1,6 +1,6 @@
 Processing keyword: ～ざるを得ない (〜zaru wo enai)
 # Japanese Grammar Point: ～ざるを得ない (〜zaru wo enai)
-# ～ざるを得ない (〜zaru wo enai)
+
 ## 1. Introduction
 The grammar point ～ざるを得ない (〜zaru wo enai) is a formal expression in Japanese that conveys a sense of inevitability or compulsion. It translates to "can't help but...", "have no choice but to...", or "must...". This structure is often used when someone is compelled to do something against their will due to circumstances beyond their control.
 
@@ -14,6 +14,7 @@ This expression indicates that, although one may not want to do something, circu
 ### Structure
 The formation of ～ざるを得ない is as follows:
 #### Formation Diagram
+
 | Verb Form        | Transformation          | ～ざるを得ない Form     |
 |------------------|-------------------------|------------------------|
 | **Group 1 & 2 Verbs** | Negative Stem (ない form without ない) | Negative Stem + ざるを得ない |
@@ -33,6 +34,7 @@ The formation of ～ざるを得ない is as follows:
 - **Meaning:** "Cannot avoid doing...", "Must do..."
 - **Usage:** Similar to ～ざるを得ない but slightly less formal.
 - **Difference:** ～ないわけにはいかない often implies a moral or social obligation, whereas ～ざるを得ない emphasizes being compelled by external circumstances.
+
 | Grammar Point          | Formality | Nuance                                 |
 |------------------------|-----------|----------------------------------------|
 | **～ざるを得ない**        | Formal    | Compelled by unavoidable circumstances |
@@ -66,6 +68,7 @@ When used in formal contexts, it's common to adjust the ending for politeness:
 - **～ざるを得ません。**
 ### Idiomatic Expressions
 While ～ざるを得ない itself is not idiomatic, it is often used in formal statements to express regret or inevitability due to societal or environmental factors.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Common Mistakes

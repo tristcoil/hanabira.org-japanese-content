@@ -1,6 +1,6 @@
 Processing keyword: Noun の 間に (〜no aida ni)
 # Japanese Grammar Point: Noun の 間に (〜no aida ni)
-# Noun の 間に (〜のあいだに)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Noun の 間に (〜のあいだに)**. This structure is used to express the idea of "during" or "while" something is happening. It's essential for indicating that an action occurs within a specific time frame or between certain objects or places.
 
@@ -114,8 +114,6 @@ In Japanese culture, punctuality and appropriate behavior during certain periods
    - *Eiga no aida ni, denwa shinai de kudasai.*
 ---
 By mastering **Noun の 間に**, you enhance your ability to describe when actions occur, making your Japanese expressions more precise and natural. Keep practicing by incorporating this grammar point into your daily conversations!
----
-
 
 ---
 

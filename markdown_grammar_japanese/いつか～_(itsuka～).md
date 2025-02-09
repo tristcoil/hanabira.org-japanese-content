@@ -1,6 +1,6 @@
 Processing keyword: いつか～ (itsuka～)
 # Japanese Grammar Point: いつか～ (itsuka～)
-# いつか～ (Itsuka~)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **いつか (itsuka)**, which translates to "**someday**" or "**some time**". This expression is used to indicate an unspecified point in time, either in the future or, less commonly, in the past. Understanding **いつか** will help you express hopes, plans, and recollections without specifying an exact time.
 

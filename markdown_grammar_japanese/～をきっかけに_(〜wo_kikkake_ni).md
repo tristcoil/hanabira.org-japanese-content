@@ -1,6 +1,6 @@
 Processing keyword: ～をきっかけに (〜wo kikkake ni)
 # Japanese Grammar Point: ～をきっかけに (〜wo kikkake ni)
-# ～をきっかけに (〜wo kikkake ni)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **～をきっかけに (〜wo kikkake ni)**, a useful expression that signifies the start of something new prompted by a specific event or circumstance. This structure is commonly used to describe how one event led to another, often significant, change or development.
 

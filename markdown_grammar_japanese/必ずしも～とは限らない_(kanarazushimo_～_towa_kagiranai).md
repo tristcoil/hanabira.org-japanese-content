@@ -1,6 +1,6 @@
 Processing keyword: 必ずしも～とは限らない (kanarazushimo ～ towa kagiranai)
 # Japanese Grammar Point: 必ずしも～とは限らない (kanarazushimo ～ towa kagiranai)
-# 必ずしも～とは限らない (kanarazushimo ～ towa kagiranai)
+
 ## 1. Introduction
 The grammar point **必ずしも～とは限らない** is a useful expression in Japanese that is used to convey that something is **not always** the case or **not necessarily** so. It is often used to express exceptions or to indicate that an expectation might not hold true in every situation.
 
@@ -18,10 +18,11 @@ The grammar point **必ずしも～とは限らない** is a useful expression i
 - **い-adjective (Plain Form)**: 面白い、高い
 - **な-adjective + だ**: 静かだ、便利だ
 ### Formation Diagram
+
 | 必ずしも | 普通形 (Plain Form) | とは限らない |
 |---------|---------------------|--------------|
-|         |                     |              |
-|         |                     |              |
+
+
 ---
 ## 3. Comparative Analysis
 **Similar Grammar Point**: 

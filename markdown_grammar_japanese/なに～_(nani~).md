@@ -1,6 +1,6 @@
 Processing keyword: なに～ (nani~)
 # Japanese Grammar Point: なに～ (nani~)
-# なに～ (nani~)
+
 ## 1. Introduction
 The word **なに** (nani) is a fundamental interrogative pronoun in Japanese, translating to **"what"** in English. It is used to ask questions about things, actions, and descriptions. Understanding how to use **なに** correctly is essential for effective communication in Japanese.
 

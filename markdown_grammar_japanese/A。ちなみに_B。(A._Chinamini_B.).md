@@ -1,6 +1,6 @@
 Processing keyword: A。ちなみに B。(A. Chinamini B.)
 # Japanese Grammar Point: A。ちなみに B。(A. Chinamini B.)
-# Japanese Grammar Lesson: 「ちなみに」(chinamini)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese conjunction **「ちなみに」(chinamini)**, which translates to **"by the way"** or **"incidentally"** in English. This expression is used to add related information to a conversation without changing the topic entirely. Mastering 「ちなみに」 will help you make your Japanese conversations smoother and more natural.
 
@@ -67,6 +67,7 @@ Kono seihin wa Nihon de seisan sarete imasu. Chinamini, zairyō wa subete kokusa
 ```
 *Translation*:  
 "This product is manufactured in Japan. By the way, all materials are domestically sourced."
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -74,6 +75,7 @@ Kono seihin wa Nihon de seisan sarete imasu. Chinamini, zairyō wa subete kokusa
 - **Conversation Flow**: Japanese communication often values harmony and smooth transitions. Using 「ちなみに」 helps add information without abrupt changes.
 ### Idiomatic Expressions
 While 「ちなみに」 itself is straightforward, incorporating it naturally into conversation is key to sounding like a native speaker.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

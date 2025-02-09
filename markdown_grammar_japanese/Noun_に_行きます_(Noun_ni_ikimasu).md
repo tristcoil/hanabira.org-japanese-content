@@ -1,6 +1,6 @@
 Processing keyword: Noun に 行きます (Noun ni ikimasu)
 # Japanese Grammar Point: Noun に 行きます (Noun ni ikimasu)
-# Noun に 行きます (Noun ni ikimasu)
+
 ## 1. Introduction
 The grammar point **Noun に 行きます (Noun ni ikimasu)** is a fundamental structure in Japanese that is used to express going to a specific place or destination. It is an essential pattern for beginners to learn as it forms the basis of talking about movement and travel in Japanese.
 

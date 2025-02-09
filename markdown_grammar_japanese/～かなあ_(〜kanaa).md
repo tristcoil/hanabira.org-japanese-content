@@ -1,6 +1,6 @@
 Processing keyword: ～かなあ (〜kanaa)
 # Japanese Grammar Point: ～かなあ (〜kanaa)
-# ～かなあ (〜kanaa) Grammar Point
+
 ## 1. Introduction
 In Japanese, expressing your thoughts, doubts, or wonderings is a common part of everyday conversation. The grammar point **～かなあ (〜kanaa)** is a casual expression used to indicate that the speaker is wondering about something or is uncertain. It often translates to "I wonder...", "Maybe...", or "Is it...?" in English.
 

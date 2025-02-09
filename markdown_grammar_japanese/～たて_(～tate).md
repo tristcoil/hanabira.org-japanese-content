@@ -1,6 +1,6 @@
 Processing keyword: ～たて (～tate)
 # Japanese Grammar Point: ～たて (～tate)
-# ～たて (～tate)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～たて (～tate)**. This suffix is used to describe something that has just been done or is freshly made. It's a handy expression to convey the idea of "just after doing" something, emphasizing the freshness or newness of an action or state.
 ## 2. Core Grammar Explanation

@@ -1,6 +1,6 @@
 Processing keyword: ～うとした (〜uto shita)
 # Japanese Grammar Point: ～うとした (〜uto shita)
-# ～うとした (〜uto shita)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～うとした (〜uto shita)**. This structure is used to express that someone was **about to do something** or **attempted to do something** but didn't complete the action. It's a useful way to describe actions that were intended but ultimately not realized.
 ## 2. Core Grammar Explanation
@@ -101,7 +101,7 @@ In Japanese culture, expressing attempts or intentions politely is important. Th
 3. **What is the main difference between ～うとした and ～うと思った?**
    - *Answer*: **～うとした** indicates an attempted action that wasn't completed, while **～うと思った** expresses the speaker's thought or intention to do something.
 
----
+
 
 
 ---

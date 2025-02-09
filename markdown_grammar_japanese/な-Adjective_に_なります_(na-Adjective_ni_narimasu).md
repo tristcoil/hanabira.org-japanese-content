@@ -1,6 +1,6 @@
 Processing keyword: な-Adjective に なります (na-Adjective ni narimasu)
 # Japanese Grammar Point: な-Adjective に なります (na-Adjective ni narimasu)
-# な-Adjective に なります (na-Adjective ni narimasu)
+
 ## 1. Introduction
 In this lesson, we'll explore how to express changes or transitions using **な-adjectives** in Japanese. The grammar point **な-Adjective に なります** is essential for describing how someone or something **becomes** a certain way. By mastering this pattern, you'll enhance your ability to talk about changes in states or conditions, which is a common aspect of everyday conversation.
 

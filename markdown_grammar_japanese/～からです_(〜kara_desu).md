@@ -1,6 +1,6 @@
 Processing keyword: ～からです (〜kara desu)
 # Japanese Grammar Point: ～からです (〜kara desu)
-# ～からです (〜kara desu)
+
 ## 1. Introduction
 The grammar point **～からです (〜kara desu)** is a fundamental construct in Japanese used to express reasons or explanations. It translates to "**because...**" or "**it's because...**" in English. Mastering this expression will enhance your ability to articulate your thoughts clearly, especially when providing reasons or justifications.
 

@@ -1,6 +1,6 @@
 Processing keyword: Verb ましょう (mashou)
 # Japanese Grammar Point: Verb ましょう (mashou)
-# ましょう (mashou) - Let's [Verb]; Shall we [Verb]
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **ましょう (mashou)**. This form is used to make suggestions or proposals to engage in an activity together. It is equivalent to saying "Let's [verb]" or "Shall we [verb]" in English. Understanding **ましょう** is essential for inviting others to join you in actions politely and inclusively.
 

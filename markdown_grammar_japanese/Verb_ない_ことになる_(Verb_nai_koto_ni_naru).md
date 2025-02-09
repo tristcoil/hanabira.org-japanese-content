@@ -1,10 +1,10 @@
 Processing keyword: Verb ない ことになる (Verb nai koto ni naru)
 # Japanese Grammar Point: Verb ない ことになる (Verb nai koto ni naru)
-# Verb ないことになる (Verb nai koto ni naru)
 
 ---
 ## 1. Introduction
 In this lesson, we will explore the grammar point **Verb ないことになる** (**Verb nai koto ni naru**). This structure is commonly used in Japanese to express that it has been decided (often by circumstances or external factors) that something will _not_ happen. Understanding this pattern will help you articulate situations where events or actions are determined not to occur, often beyond your control.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -144,8 +144,6 @@ In Japanese culture, it's common to express decisions as outcomes determined by 
    **Answer:** b) Verb ないことにする
 ---
 By mastering **Verb ないことになる**, you can effectively communicate decisions made by external factors in Japanese, enhancing your ability to express nuanced situations.
----
-
 
 ---
 

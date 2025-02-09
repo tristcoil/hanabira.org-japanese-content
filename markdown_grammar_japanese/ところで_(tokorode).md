@@ -1,6 +1,6 @@
 Processing keyword: ところで (tokorode)
 # Japanese Grammar Point: ところで (tokorode)
-# Grammar Point: ところで (tokorode)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **ところで (tokorode)**. This conjunction is a useful tool for smoothly changing topics in conversation. Understanding how to use **ところで** will enhance your ability to engage in more natural and fluid discussions in Japanese.
 

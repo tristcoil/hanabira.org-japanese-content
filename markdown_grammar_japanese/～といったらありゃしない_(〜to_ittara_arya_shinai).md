@@ -1,6 +1,6 @@
 Processing keyword: ～といったらありゃしない (〜to ittara arya shinai)
 # Japanese Grammar Point: ～といったらありゃしない (〜to ittara arya shinai)
-# ～といったらありゃしない (〜to ittara arya shinai)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～といったらありゃしない**. This expressive phrase is used to emphasize an extreme degree of something, whether it's an emotion, a state, or a quality. It adds a strong, often dramatic, emphasis to your statements, conveying that something is beyond words.
 
@@ -105,7 +105,7 @@ It's used to express a feeling or state that is so extreme that it can't be adeq
    - **Answer**: **彼の勉強熱心さといったらありゃしない。**
 ---
 By mastering **～といったらありゃしない**, you'll enhance your ability to express strong feelings and make your Japanese more vivid and expressive.
----
+
 
 
 ---

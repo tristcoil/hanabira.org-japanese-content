@@ -1,6 +1,6 @@
 Processing keyword: ～ところを (〜tokoro wo)
 # Japanese Grammar Point: ～ところを (〜tokoro wo)
-# ～ところを (〜tokoro wo)
+
 ## 1. Introduction
 The grammar point **～ところを (〜tokoro wo)** is a useful expression in Japanese that is often used to acknowledge someone's situation or state when making a request, giving an apology, or expressing gratitude. It roughly translates to "**despite**," "**even though**," or "**while**" in English, and it adds a level of politeness and consideration to your speech.
 

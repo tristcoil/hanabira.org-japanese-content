@@ -1,6 +1,6 @@
 Processing keyword: ～たり、～たり します (〜tari, 〜tari shimasu)
 # Japanese Grammar Point: ～たり、～たり します (〜tari, 〜tari shimasu)
-# Japanese Grammar Lesson: ～たり、～たり します (〜tari, 〜tari shimasu)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar pattern **～たり、～たり します (〜tari, 〜tari shimasu)**. This structure is essential for expressing activities or states by listing examples among several actions. It's particularly useful when you want to say you do things like A and B, among other activities.
 

@@ -1,6 +1,6 @@
 Processing keyword: Noun なくして～はない (Noun nakushite ~ wa nai)
 # Japanese Grammar Point: Noun なくして～はない (Noun nakushite ~ wa nai)
-# Noun なくして～はない (Noun nakushite ~ wa nai)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar pattern **「Noun なくして～はない」**. This expression is used to convey that without the noun in question, something else cannot occur or exist. It's a powerful way to emphasize the necessity or indispensability of something.
 

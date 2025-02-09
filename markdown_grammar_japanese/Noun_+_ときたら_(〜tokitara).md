@@ -1,6 +1,6 @@
 Processing keyword: Noun + ときたら (〜tokitara)
 # Japanese Grammar Point: Noun + ときたら (〜tokitara)
-# Noun + ときたら（〜ときたら）
+
 ## 1. Introduction
 In Japanese, the expression **「Noun + ときたら」** is a colloquial way to introduce a topic with a sense of criticism, dissatisfaction, or frustration. It is similar to saying "When it comes to ___" or "Speaking of ___" in English, often highlighting negative feelings or disapproval about the subject.
 

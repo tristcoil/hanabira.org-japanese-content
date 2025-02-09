@@ -1,6 +1,6 @@
 Processing keyword: ～とおり (〜toori)
 # Japanese Grammar Point: ～とおり (〜toori)
-# 〜とおり (〜通り)
+
 ## 1. Introduction
 The grammar point **〜とおり** (〜**とおり**) is a useful expression in Japanese that means "just as", "exactly as", or "according to". It is used to indicate that an action or state occurs in the same way as something else. Understanding how to use 〜とおり can help you accurately describe events and actions that align with expectations, instructions, or previous statements.
 

@@ -1,6 +1,6 @@
 Processing keyword: ～だけましだ (〜dake mashi da)
 # Japanese Grammar Point: ～だけましだ (〜dake mashi da)
-# JLPT Grammar Point: ～だけましだ (〜dake mashi da)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～だけましだ (〜dake mashi da)**. This expression is used to convey that although a situation isn't ideal, it's better than a worse alternative. It reflects a sense of gratitude or relief that things aren't as bad as they could be.
 
@@ -122,7 +122,7 @@ While **～だけましだ** itself is neutral, politeness is conveyed through o
    **Answer:** *I broke up with him, but at least I don't have bad memories.*
 ---
 By mastering **～だけましだ**, you'll enhance your ability to express nuanced feelings of relief and gratitude in Japanese, bringing you one step closer to fluency.
----
+
 
 
 ---

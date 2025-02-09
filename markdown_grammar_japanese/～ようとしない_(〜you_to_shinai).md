@@ -1,6 +1,6 @@
 Processing keyword: ～ようとしない (〜you to shinai)
 # Japanese Grammar Point: ～ようとしない (〜you to shinai)
-# ～ようとしない (〜you to shinai)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **～ようとしない** (〜you to shinai). This expression is used to convey that someone **does not try to** or **shows no intention of** doing something. Understanding this structure will help you express observations about others' lack of action or unwillingness in various contexts.
 
@@ -111,8 +111,6 @@ The base form **しない** is informal. To make it polite, use **しません**
    - **Answer:** **～ようとしない** means "doesn't try to..." whereas **～ようとする** means "tries to..."
 ---
 By mastering **～ようとしない**, you'll enhance your ability to express subtle nuances about intention and effort in Japanese, making your communication more precise and culturally appropriate.
----
-
 
 ---
 

@@ -1,6 +1,6 @@
 Processing keyword: Noun を おいて他に Verb ない (〜wo oite hoka ni〜nai)
 # Japanese Grammar Point: Noun を おいて他に Verb ない (〜wo oite hoka ni〜nai)
-# JLPT Grammar Lesson: Noun をおいて他に～ない (〜をおいてほかに〜ない)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **「Noun をおいて他に～ない」** (Noun *wo oite hoka ni* ~nai). This expression is used to emphasize that there's no one or nothing else besides the noun mentioned that can fulfill a particular role or action. It highlights the uniqueness or exclusivity of someone or something in a specific context.
 
@@ -130,8 +130,6 @@ Let's look at some example sentences to see how this grammar point is used in va
    *Answer*: **伝統的な日本を体験するには、京都をおいて他にない。**
 ---
 By mastering **「Noun をおいて他に～ない」**, you can effectively emphasize exclusivity and uniqueness in formal Japanese communication. Remember to use it appropriately within formal contexts to convey respect and admiration.
----
-
 
 ---
 

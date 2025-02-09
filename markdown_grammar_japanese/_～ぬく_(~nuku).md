@@ -103,8 +103,7 @@ Verb ます-stem + ぬく
    b) 書きぬく  
    c) 書くぬく
    **Answer**: **b) 書きぬく**
----
-Feel free to create your own sentences using ～ぬく to express determination and share them for feedback!
+
 
 
 ---

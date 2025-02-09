@@ -1,6 +1,6 @@
 Processing keyword: ～くせして (〜kuse shite)
 # Japanese Grammar Point: ～くせして (〜kuse shite)
-# ～くせして (〜kuse shite)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **～くせして (〜kuse shite)**. This expression is used to highlight a contradiction between someone's expected behavior or abilities and their actual actions. It often conveys a sense of criticism, blame, or frustration toward the person in question.
 
@@ -46,6 +46,7 @@ The structure differs slightly depending on the type of word it attaches to.
 **Difference**:
 - **～くせして** implies criticism or blame.
 - **～のに** is a neutral contrast without negative judgment.
+
 | Grammar Point | Connotation        | Example                                       |
 |---------------|--------------------|-----------------------------------------------|
 | **～くせして**    | Critical, negative | 学生のくせして、勉強しない。<br>*Even though he's a student, he doesn't study (and that's unacceptable).* |
@@ -115,7 +116,7 @@ The structure differs slightly depending on the type of word it attaches to.
    - **Answer**: No, it's generally considered impolite in formal contexts.
 ---
 By understanding **～くせして**, you can express nuances of criticism or frustration in Japanese, enhancing your ability to communicate more naturally and effectively. Remember to use it appropriately, considering the context and your relationship with the listener.
----
+
 
 
 ---

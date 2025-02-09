@@ -1,6 +1,6 @@
 Processing keyword: ～により (〜ni yori)
 # Japanese Grammar Point: ～により (〜ni yori)
-# ～により (〜ni yori)
+
 ## 1. Introduction
 The grammar point **～により (〜ni yori)** is a formal expression used in Japanese to indicate:
 - **Means or Method**: "by," "through," "via."

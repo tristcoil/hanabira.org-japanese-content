@@ -1,6 +1,6 @@
 Processing keyword: ～ば～ほど (〜ba 〜hodo)
 # Japanese Grammar Point: ～ば～ほど (〜ba 〜hodo)
-# ～ば～ほど (〜ba 〜hodo)
+
 ## 1. Introduction
 The grammar structure ～ば～ほど (〜ba 〜hodo) is used in Japanese to express the idea of "the more..., the more...". It highlights a proportional or incremental relationship between two actions or states. This construction is particularly useful when you want to convey that as one thing increases or intensifies, another thing also increases or intensifies correspondingly.
 

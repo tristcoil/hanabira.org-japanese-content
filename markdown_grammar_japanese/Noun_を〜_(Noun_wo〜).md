@@ -1,6 +1,6 @@
 Processing keyword: Noun を〜 (Noun wo〜)
 # Japanese Grammar Point: Noun を〜 (Noun wo〜)
-# Japanese Grammar Lesson: The Particle 「を」 (Noun を〜)
+
 ## 1. Introduction
 In this lesson, we'll explore the essential particle **「を」 (wo)** in Japanese grammar. Understanding how to use 「を」 correctly will help you express actions involving objects, enhancing your ability to communicate effectively in Japanese.
 
@@ -16,8 +16,7 @@ The particle **「を」** is used to mark the **direct object** of a transitive
 - **を**: Particle marking the direct object.
 - **Verb**: The action being performed on the noun.
 #### Formation Diagram
-```mermaid
-graph LR
+```
 A[Subject] --> B[Noun]
 B -- を --> C[Verb]
 ```

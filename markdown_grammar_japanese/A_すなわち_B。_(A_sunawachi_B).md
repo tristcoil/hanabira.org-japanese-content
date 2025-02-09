@@ -1,6 +1,6 @@
 Processing keyword: A すなわち B。 (A sunawachi B)
 # Japanese Grammar Point: A すなわち B。 (A sunawachi B)
-# JLPT Grammar Lesson: A すなわち B (A sunawachi B)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **A すなわち B (A sunawachi B)**, a useful expression in Japanese that helps you clarify and define terms. Understanding this grammar point will enhance your ability to explain concepts and ideas more precisely in both formal and informal contexts.
 

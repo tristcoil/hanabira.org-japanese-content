@@ -1,6 +1,6 @@
 Processing keyword: ～かのようだ (〜ka no you da)
 # Japanese Grammar Point: ～かのようだ (〜ka no you da)
-# ～かのようだ (〜ka no you da)
+
 ## 1. Introduction
 The grammar point **～かのようだ** (〜ka no you da) is used to express a comparison, meaning "*as if*" or "*just like*". It indicates that something appears to be a certain way, even though it is not actually so. This expression adds vividness to descriptions and is often used in both spoken and written Japanese to convey impressions or perceptions.
 
@@ -99,7 +99,6 @@ In Japanese communication, indirect expressions are often preferred. Using **～
 2. Verb (casual form) + かのようだ
 3. Hypothetical situations
 4. Example: 彼は泣いているかのようだ。(*He looks as if he's crying.*)
----
 
 
 ---

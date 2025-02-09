@@ -1,6 +1,6 @@
 Processing keyword: ～ずにはいられない (〜zu ni wa irarenai)
 # Japanese Grammar Point: ～ずにはいられない (〜zu ni wa irarenai)
-# ～ずにはいられない (〜zu ni wa irarenai)
+
 ## 1. Introduction
 The grammar point **～ずにはいられない** expresses an irresistible urge to do something. It conveys the idea that the speaker **"can't help but..."** perform an action due to strong feelings or circumstances.
 ### Meaning
@@ -19,7 +19,9 @@ For most verbs:
 | 食べる (たべる)         | 食べない               | 食べ                       | ずにはいられない             | 食べ**ずにはいられない**   |
 | 行く (いく)             | 行かない               | 行か                       | ずにはいられない             | 行か**ずにはいられない**   |
 | 読む (よむ)             | 読まない               | 読ま                       | ずにはいられない             | 読ま**ずにはいられない**   |
+
 For the verb **する**:
+
 | Verb (Dictionary Form) | Negative Form (ない形) | Special Negative Stem | Add **ずにはいられない**       | Full Form                 |
 |------------------------|-----------------------|-----------------------|------------------------------|---------------------------|
 | する                   | しない                 | **せ**                | ずにはいられない             | **せずにはいられない**     |
@@ -89,7 +91,6 @@ Both expressions mean **"can't help but..."**, but there are subtle differences.
    - **Answer**: "I can't help but think about him."
 3. **True or False**: **～ずにはいられない** is more common in casual spoken Japanese.
    - **Answer**: **False** (It's more formal; **～ないではいられない** is more common in casual speech.)
----
 
 
 ---

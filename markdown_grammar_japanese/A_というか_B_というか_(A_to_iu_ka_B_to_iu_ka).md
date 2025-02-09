@@ -1,6 +1,6 @@
 Processing keyword: A というか B というか (A to iu ka B to iu ka)
 # Japanese Grammar Point: A というか B というか (A to iu ka B to iu ka)
-# A というか B というか (A to iu ka B to iu ka)
+
 ## 1. Introduction
 The expression **A というか B というか** is a Japanese grammar pattern used to present two possible descriptions or interpretations of something. It allows the speaker to express uncertainty or to offer alternative ways of describing a situation, object, or person. This structure is akin to saying "or rather" or "or maybe" in English.
 ## 2. Core Grammar Explanation
@@ -49,16 +49,19 @@ A というか B というか
 **Japanese**: 今日の天気は涼しいというか、寒いというか、薄着だとちょっと寒いですね。
 **Romaji**: Kyō no tenki wa suzushii to iu ka, samui to iu ka, usugi da to chotto samui desu ne.
 **English**: Today's weather is cool, or perhaps cold—if you're lightly dressed, it's a bit chilly, isn't it?
+
 ---
 ### Example 3: Expressing Uncertainty (Written)
 **Japanese**: 彼の言葉は冗談というか、本気というか、判断が難しい。
 **Romaji**: Kare no kotoba wa jōdan to iu ka, honki to iu ka, handan ga muzukashii.
 **English**: His words are a joke, or maybe serious—it's hard to tell.
+
 ---
 ### Example 4: Reflecting on an Event (Conversational)
 **Japanese**: あの映画は面白いというか、変というか、独特な作品だった。
 **Romaji**: Ano eiga wa omoshiroi to iu ka, hen to iu ka, dokutoku na sakuhin datta.
 **English**: That movie was interesting, or perhaps strange—it was a unique work.
+
 ---
 ### Example 5: Describing Feelings (Informal)
 **Japanese**: テストの結果は嬉しいというか、ほっとしたというか、複雑な気分だ。

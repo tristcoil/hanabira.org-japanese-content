@@ -1,6 +1,6 @@
 Processing keyword: ～でたまらない (〜de tamaranai)
 # Japanese Grammar Point: ～でたまらない (〜de tamaranai)
-# ～でたまらない (〜de tamaranai)
+
 ## 1. Introduction
 The grammar point **～でたまらない (〜de tamaranai)** is used in Japanese to express an overwhelming feeling or sensation that is so strong, it feels unbearable. It conveys that the speaker cannot control their emotions or physical sensations due to their intensity.
 
@@ -91,8 +91,7 @@ The grammar point **～でたまらない (〜de tamaranai)** is used in Japanes
 1. **気になって** (Kininate)
 2. **False** – It's primarily used in casual or spoken contexts.
 3. **b) 面白くてたまらない。**
----
-# End
+
 
 
 ---

@@ -1,6 +1,6 @@
 Processing keyword: ～となれば (〜to nareba)
 # Japanese Grammar Point: ～となれば (〜to nareba)
-# ～となれば（〜to nareba）
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～となれば** (〜to nareba), which is used to express hypothetical situations or conditions. Understanding this grammar will help you articulate possibilities and discuss potential outcomes in Japanese.
 

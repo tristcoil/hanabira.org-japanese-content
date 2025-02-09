@@ -1,6 +1,6 @@
 Processing keyword: ～を込めて (〜wo komete)
 # Japanese Grammar Point: ～を込めて (〜wo komete)
-# ～を込めて (〜wo komete) Grammar Explanation
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **～を込めて (〜wo komete)**. This expression is used to convey that an action is performed with a particular feeling, emotion, or thought infused into it. By using ～を込めて, you can express the heartfelt emotions or intentions behind your actions, adding depth and sincerity to your speech.
 
@@ -112,8 +112,6 @@ In Japanese culture, expressing emotions directly is sometimes considered too fo
    **Answer**: **を込めて**
 ---
 By mastering **～を込めて**, you enhance your ability to express emotions and sincerity in your Japanese conversations, aligning with the cultural nuances of the language.
----
-
 
 ---
 

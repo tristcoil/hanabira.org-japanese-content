@@ -1,6 +1,6 @@
 Processing keyword: ～がい (〜gai)
 # Japanese Grammar Point: ～がい (〜gai)
-# ～がい (〜gai)
+
 ## 1. Introduction
 The grammar point ～がい (〜gai) is a suffix used in Japanese to express that something is worth doing or has value. It attaches to the stem of verbs and conveys a sense of reward or satisfaction derived from an action.
 
@@ -50,6 +50,7 @@ Mainichi renshū shita kai ga atte, shiai ni kateta.
 **Translation:**  
 The effort of practicing every day paid off, and we won the match.
 *Note:* In this example, 甲斐があって is used, showing the similarity with ～がい.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -83,7 +84,7 @@ In Japanese work culture, finding **やりがい** (yarigai) in one's job is oft
 1. やりがい
 2. 食べがい
 3. This is a book worth reading.
----
+
 
 
 ---

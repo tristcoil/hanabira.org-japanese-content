@@ -1,6 +1,6 @@
 Processing keyword: どういう Noun (dou iu Noun)
 # Japanese Grammar Point: どういう Noun (dou iu Noun)
-# JLPT Grammar Lesson: どういう Noun (dou iu Noun)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **どういう** used before a noun to ask **"what kind of~"** or **"which~"** in Japanese. This is a useful expression for seeking clarification or more information about a particular noun.
 
@@ -27,10 +27,12 @@ Question word: どういう (What kind of)
   Both **どういう** and **どんな** mean "what kind of," but there's a subtle difference:
   - **どういう**: Often asks for clarification or specifics about something unknown or uncertain.
   - **どんな**: Asks about general characteristics or types.
+  
   | Expression | Usage Example                       | Meaning                               |
   |------------|-------------------------------------|---------------------------------------|
   | どういう     | どういう意味ですか？                 | What do you mean? (Clarify the meaning) |
   | どんな      | どんな音楽が好きですか？             | What kind of music do you like?       |
+
 ---
 ## 4. Examples in Context
 ### Example Sentences
@@ -84,6 +86,7 @@ In Japanese communication, asking **どういう** helps in politely seeking cla
    - *(What kind of book is this?)*
 2. True or False: **どういう** and **どんな** can always be used interchangeably.
 3. Translate to Japanese: *What kind of movies do you watch?*
+
 **Answers:**
 1. **どういう**
 2. **False** (They have subtle differences in usage)

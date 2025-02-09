@@ -1,6 +1,6 @@
 Processing keyword: ～んです (〜n desu)
 # Japanese Grammar Point: ～んです (〜n desu)
-# ～んです (〜n desu) Grammar Point
+
 ## 1. Introduction
 The grammar construction ～んです (*〜n desu*) is a versatile and commonly used expression in Japanese. It adds nuance by providing explanations, emphasizing reasons, or seeking confirmation. Understanding ～んです is essential for expressing yourself naturally and comprehending everyday conversations.
 
@@ -12,12 +12,14 @@ The grammar construction ～んです (*〜n desu*) is a versatile and commonly 
 ### Structure
 The structure of ～んです varies depending on whether it follows a verb, adjective, or noun.
 #### Formation Diagram
+
 | Type                | Dictionary Form | + ～んです |
 |---------------------|-----------------|-----------|
 | **Verbs**           | 食べる           | 食べる**んです** |
 | **い-Adjectives**    | 寒い             | 寒い**んです**   |
 | **な-Adjectives**    | 静か**だ**        | 静か**なんです** |
 | **Nouns**           | 学生**だ**        | 学生**なんです** |
+
 **Note**: When attaching ～んです to **な-adjectives** and **nouns**, use **なんです** instead of **んです**.
 ### Detailed Explanation
 - **Verbs and い-Adjectives**: Simply add **んです** to the plain form.

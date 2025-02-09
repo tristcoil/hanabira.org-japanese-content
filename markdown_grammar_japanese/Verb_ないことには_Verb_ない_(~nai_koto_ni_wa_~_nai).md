@@ -1,6 +1,6 @@
 Processing keyword: Verb ないことには Verb ない (~nai koto ni wa ~ nai)
 # Japanese Grammar Point: Verb ないことには Verb ない (~nai koto ni wa ~ nai)
-# Verbないことには～ない (~nai koto ni wa ~nai)
+
 ## 1. Introduction
 The grammar pattern **Verbないことには～ない** is used to express a condition where something cannot happen unless a certain action is taken first. It's akin to saying "Unless you do A, B cannot happen." This structure is essential for indicating prerequisites in Japanese and is commonly used in both spoken and written language.
 

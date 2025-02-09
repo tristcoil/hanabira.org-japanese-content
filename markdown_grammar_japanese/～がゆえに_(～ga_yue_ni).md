@@ -1,6 +1,6 @@
 Processing keyword: ～がゆえに (～ga yue ni)
 # Japanese Grammar Point: ～がゆえに (～ga yue ni)
-# ～がゆえに (～ga yue ni)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～がゆえに (～ga yue ni)**, a formal expression used to indicate cause or reason, similar to "because of" or "due to" in English. Understanding this structure will enhance your ability to comprehend and use formal Japanese, particularly in written contexts.
 

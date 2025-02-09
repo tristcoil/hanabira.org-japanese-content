@@ -1,6 +1,6 @@
 Processing keyword: まだ〜 (mada〜)
 # Japanese Grammar Point: まだ〜 (mada〜)
-# Japanese Grammar Lesson: まだ〜 (mada〜)
+
 ## 1. Introduction
 **まだ (mada)** is a commonly used Japanese adverb that plays a crucial role in expressing temporal concepts such as "still," "not yet," and "yet." Mastering the use of **まだ** will enhance your ability to communicate ongoing actions, pending events, and expectations in Japanese.
 
@@ -122,8 +122,6 @@ Both **まだ** and **もう** relate to the timing of actions but convey opposi
      - **もう終わりました。**
 ---
 Congratulations on mastering the usage of **まだ (mada)**! Keep practicing by incorporating it into your daily conversations to become more fluent and expressive in Japanese.
----
-
 
 ---
 

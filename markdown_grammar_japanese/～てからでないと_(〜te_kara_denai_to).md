@@ -1,6 +1,6 @@
 Processing keyword: ～てからでないと (〜te kara denai to)
 # Japanese Grammar Point: ～てからでないと (〜te kara denai to)
-# ～てからでないと (〜te kara denai to)
+
 ## 1. Introduction
 Understanding how to express dependency between actions is crucial in Japanese. The grammar point **～てからでないと** is used to indicate that one action cannot occur until another action has taken place. This lesson will explore the usage, structure, and nuances of **～てからでないと**, providing you with practical examples to enhance your comprehension.
 

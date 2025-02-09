@@ -1,10 +1,11 @@
 Processing keyword: A うが B うが (A uga B uga)
 # Japanese Grammar Point: A うが B うが (A uga B uga)
-# Grammar Point: Aうが Bうが (A uga B uga)
+
 
 ---
 ## 1. Introduction
 The grammar structure **Aうが Bうが** is used in Japanese to express "*whether A or B, the result remains the same*". It emphasizes that no matter which action or state occurs, it does not affect the outcome. This pattern is often used to highlight determination, indifference, or inevitability.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning

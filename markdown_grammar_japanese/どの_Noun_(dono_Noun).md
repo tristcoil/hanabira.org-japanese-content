@@ -1,6 +1,6 @@
 Processing keyword: どの Noun (dono Noun)
 # Japanese Grammar Point: どの Noun (dono Noun)
-# どの Noun (dono Noun)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「どの Noun」** (*dono* + noun), which is essential for asking "which" among multiple items. Understanding how to use **どの** will enhance your ability to ask specific questions and clarify information in conversations.
 
@@ -35,11 +35,13 @@ The basic structure is:
   - **どの** asks "which" among known options.
   - **何の** asks "what kind of" or "what" when the options are unknown.
     - Example: **何の本** (*what kind of book*)
+
 | Expression | Usage                        | Example                      |
 |------------|------------------------------|------------------------------|
 | **どの** Noun | "Which" specific item        | **どの車**があなたのですか。    |
 | **どれ**     | "Which one" (no noun)        | **どれ**があなたの車ですか。    |
 | **何の** Noun | "What kind of" or "What" item | **何の車**が好きですか。        |
+
 ---
 ## 4. Examples in Context
 ### Sentence Examples

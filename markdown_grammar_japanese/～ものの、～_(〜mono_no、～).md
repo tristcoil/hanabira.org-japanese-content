@@ -1,6 +1,6 @@
 Processing keyword: ～ものの、～ (〜mono no、～)
 # Japanese Grammar Point: ～ものの、～ (〜mono no、～)
-# ～ものの (〜mono no)
+
 ## 1. Introduction
 The grammar point **～ものの (mono no)** is used to express a contrast between two statements, similar to "although" or "even though" in English. It indicates that while the first clause is true, the expected or logical outcome in the second clause does not occur.
 ## 2. Core Grammar Explanation
@@ -90,9 +90,6 @@ This expression acknowledges a fact or situation in the first clause and then pr
    - **Answer**: More formal; it's often used in written language.
 3. **Fill in the blank: 彼は歌が上手な＿＿＿、人前で歌うのは苦手だ。**
    - **Answer**: ものの
-
----
-#
 
 
 ---

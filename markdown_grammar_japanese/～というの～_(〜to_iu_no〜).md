@@ -1,6 +1,6 @@
 Processing keyword: ～というの～ (〜to iu no〜)
 # Japanese Grammar Point: ～というの～ (〜to iu no〜)
-# ～というの～ (〜to iu no〜)
+
 ## 1. Introduction
 Welcome to today's lesson on the Japanese grammar point **～というの** (〜to iu no〜). This structure is essential for expressing explanations, definitions, and nominalizing clauses in Japanese. Mastering this grammar point will enhance your ability to describe and discuss concepts more naturally in both spoken and written Japanese.
 

@@ -1,6 +1,6 @@
 Processing keyword: ～ほど～ (〜hodo〜)
 # Japanese Grammar Point: ～ほど～ (〜hodo〜)
-# ～ほど～ (〜hodo〜)
+
 ## 1. Introduction
 The grammar point **～ほど～ (〜hodo〜)** is a versatile expression in Japanese used to indicate the extent or degree of something. It often translates to **"to the extent that," "so... that,"** or **"the more... the more..."** in English. Mastering this grammar point will help you express comparisons and proportional relationships in Japanese with greater nuance.
 

@@ -1,6 +1,6 @@
 Processing keyword: ～わけにはいかない (〜wake ni wa ikanai)
 # Japanese Grammar Point: ～わけにはいかない (〜wake ni wa ikanai)
-# ～わけにはいかない (〜wake ni wa ikanai)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～わけにはいかない (〜wake ni wa ikanai)**. This expression is used to convey situations where one **cannot do something due to social norms, moral obligations, or pressing circumstances**. Understanding this grammar point will help you express a sense of duty or inability to act in a certain way in Japanese.
 ## 2. Core Grammar Explanation

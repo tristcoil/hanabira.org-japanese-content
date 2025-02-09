@@ -1,6 +1,6 @@
 Processing keyword: ～み (～mi)
 # Japanese Grammar Point: ～み (～mi)
-# ～み (～mi)
+
 ## 1. Introduction
 The suffix **～み (～mi)** is used in Japanese to convert certain adjectives into nouns, emphasizing the inherent quality or essence of that adjective. This grammatical construction allows speakers to express abstract concepts and subjective feelings derived from adjectives.
 

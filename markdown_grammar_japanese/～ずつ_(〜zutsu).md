@@ -1,6 +1,6 @@
 Processing keyword: ～ずつ (〜zutsu)
 # Japanese Grammar Point: ～ずつ (〜zutsu)
-# Japanese Grammar Point: ～ずつ (～zutsu)
+
 ## 1. Introduction
 The suffix **～ずつ (～zutsu)** is used in Japanese to indicate that something is occurring in equal amounts, quantities, or increments. It conveys the meaning of "each," "apiece," "at a time," or "by" when attached to numbers or quantity expressions.
 

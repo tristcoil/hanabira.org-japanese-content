@@ -1,6 +1,6 @@
 Processing keyword: Noun ともなれば (〜to mo nareba)
 # Japanese Grammar Point: Noun ともなれば (〜to mo nareba)
-# Noun ともなれば (〜ともなれば)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **〜ともなれば** used with nouns. This expression emphasizes that when it comes to a certain role, status, or situation, certain expectations, behaviors, or consequences naturally follow. It's often used to highlight the responsibilities or standards associated with that noun.
 
@@ -14,10 +14,12 @@ The structure is straightforward:
 **Noun + ともなれば**
 ```
 ### Formation Diagram
+
 | **Component**       |       |
 |---------------------|-------|
 | Noun                | ＋     |
 | ともなれば          |       |
+
 - **Noun**: A noun representing a significant role, status, or situation.
 - **ともなれば**: A conditional expression combining **と** (if/when) + **もなる** (also becomes) + **ば** (if).
 ### Detailed Explanation
@@ -105,9 +107,6 @@ While **ともなれば** itself is not idiomatic, it frequently appears in set 
    - *They have different usages and nuances.*
 3. **Translate into English**: *新人社員ともなれば、失敗するのは仕方がない。*
    - **Answer**: *When you're a new employee, it's understandable to make mistakes.*
----
-# [End of Lesson]
----
 
 
 ---

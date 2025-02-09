@@ -1,6 +1,6 @@
 Processing keyword: ～から、～ (〜kara、～)
 # Japanese Grammar Point: ～から、～ (〜kara、～)
-# ～から、～ (〜kara、～)
+
 ## 1. Introduction
 The conjunction **～から** (〜kara) is a fundamental grammar point in Japanese used to express a reason or cause. It connects two clauses, indicating that the first clause is the reason for the second clause. Mastering **～から** enables you to explain your actions, decisions, and feelings effectively in Japanese.
 

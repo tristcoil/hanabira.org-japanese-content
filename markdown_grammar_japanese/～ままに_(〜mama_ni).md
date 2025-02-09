@@ -1,6 +1,6 @@
 Processing keyword: ～ままに (〜mama ni)
 # Japanese Grammar Point: ～ままに (〜mama ni)
-# ～ままに (〜mama ni)
+
 ## 1. Introduction
 The grammar point ～ままに (〜mama ni) is used to express doing something "as is," "as one was told," or "according to." It conveys the idea of following instructions, leaving things unchanged, or doing something exactly as someone else desires.
 
@@ -84,7 +84,6 @@ The grammar point ～ままに (〜mama ni) is used to express doing something "
 ---
 ## Additional Resources
 - For further reading on similar grammar points, refer to ～とおりに and ～ながら.
----
 
 
 ---

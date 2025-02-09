@@ -1,6 +1,6 @@
 Processing keyword: Verb て ある (Verb-te aru)
 # Japanese Grammar Point: Verb て ある (Verb-te aru)
-# Verb てある (Verb-te aru)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **Verb てある (Verb-te aru)**. This construction is commonly used to describe situations where a certain state has been intentionally brought about by someone for a particular purpose. Understanding **てある** will enhance your ability to describe actions that have been performed and the resultant states that remain.
 
@@ -156,8 +156,6 @@ The level of politeness can be adjusted by changing the verb endings:
 3. **Translation**: *Juice has been put in the refrigerator.*
 ---
 By understanding and using **Verb てある**, you can more accurately describe situations where someone has performed an action intentionally, and the resultant state is important to the context.
----
-
 
 ---
 

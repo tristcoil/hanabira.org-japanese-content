@@ -1,6 +1,6 @@
 Processing keyword: ～つもりでした (〜tsumori deshita)
 # Japanese Grammar Point: ～つもりでした (〜tsumori deshita)
-# ～つもりでした (〜tsumori deshita)
+
 ## 1. Introduction
 In learning Japanese, expressing intentions and expectations about past actions is essential for effective communication. The grammar point ～つもりでした (〜tsumori deshita) allows speakers to convey that they **intended to do something but didn't**, or they **believed something to be the case but it wasn't**. This lesson will delve into the usage, structure, and nuances of ～つもりでした, ensuring you can confidently incorporate it into your conversations.
 

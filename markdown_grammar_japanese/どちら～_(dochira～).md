@@ -1,6 +1,6 @@
 Processing keyword: どちら～ (dochira～)
 # Japanese Grammar Point: どちら～ (dochira～)
-# どちら～ (dochira～) Grammar Point
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **どちら** (dochira), which is commonly used to ask "which one" between two options or "where" in a polite manner. Understanding how to use **どちら** correctly will enhance your ability to make polite inquiries and choices in Japanese.
 

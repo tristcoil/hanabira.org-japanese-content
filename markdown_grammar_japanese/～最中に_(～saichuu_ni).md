@@ -1,6 +1,6 @@
 Processing keyword: ～最中に (～saichuu ni)
 # Japanese Grammar Point: ～最中に (～saichuu ni)
-# Grammar Point: ～最中に (～さいちゅうに)
+
 ## 1. Introduction
 The Japanese grammar point **～最中に (～さいちゅうに)** is used to express that something happens **right in the middle of** another action or event. It emphasizes that an action occurs precisely when another action is taking place, often unexpectedly or interrupting the first action.
 

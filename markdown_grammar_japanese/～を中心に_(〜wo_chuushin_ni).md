@@ -1,8 +1,8 @@
 Processing keyword: ～を中心に (〜wo chuushin ni)
 # Japanese Grammar Point: ～を中心に (〜wo chuushin ni)
-# 1. Introduction
+## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～を中心に** (*~wo chuushin ni*), which is used to express the idea of centering around something or focusing on a particular subject. This expression is commonly used in both spoken and written Japanese and is essential for conveying central themes or focal points in a conversation.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 **～を中心に** (*~wo chuushin ni*) is a phrase that means "**centering around ~**", "**focusing on ~**", or "**mainly ~**". It is used to indicate that the action or state involves the noun preceding **を中心に** as the central element or focus.
 ### Meaning
@@ -28,7 +28,7 @@ The basic structure is:
 | **を**              | Object marker                        | Indicates the noun      |
 | **中心に**          | Fixed expression                     | "centered on"           |
 | **[Verb/Phrase]**   | Action or description                | Relates to the central focus |
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Similar Grammar Points
 - **～を中心として** (*~wo chuushin to shite*): Similar meaning, "taking ~ as the center".
 - **～をめぐって** (*~wo megutte*): Means "concerning ~" or "regarding ~", focuses on discussions or disputes about something.
@@ -37,7 +37,7 @@ The basic structure is:
 - **～を中心に** emphasizes the central role or focus of the noun in the action.
 - **～をめぐって** often involves debates or discussions about the noun.
 - **～に対して** indicates an action directed towards the noun but doesn't imply centrality.
-# 4. Examples in Context
+## 4. Examples in Context
 ## Example Sentences
 ### Formal Context
 1. **日本は東京を中心に経済が発展しています。**
@@ -61,13 +61,13 @@ The basic structure is:
 6. **今日のミーティングは新商品のアイデアを中心に話し合います。**
    - *Kyō no mītingu wa shin shōhin no aidea wo chuushin ni hanashiaimasu.*
    - **Translation:** "We'll discuss mainly the ideas for the new product in today's meeting."
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Japanese society, group orientation and central themes are significant. Using **～を中心に** reflects the importance of focusing on a core element, whether it's in business, community events, or storytelling. It aligns with the cultural value of harmony by indicating a common focal point.
 ## Idiomatic Expressions
 - **家族を中心に** (*kazoku wo chuushin ni*): Focusing on family.
 - **東京を中心に活動する** (*Tōkyō wo chuushin ni katsudō suru*): Active mainly in Tokyo.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 - **Mistake:** Using **が** instead of **を**: *東京**が**中心に* instead of *東京**を**中心に*.
   - **Tip:** Remember that **を** is used as the object marker before **中心に**.
@@ -76,7 +76,7 @@ In Japanese society, group orientation and central themes are significant. Using
 ## Learning Strategies
 - **Mnemonic Device:** Think of **を中心に** as "placing [noun] at the heart (**中心**) of [action]."
 - **Practice:** Create sentences by identifying a central noun and describing an action or situation around it.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **～を中心に** means "centering around ~" or "focusing on ~".
 - It highlights the central role of a noun in the action of the sentence.

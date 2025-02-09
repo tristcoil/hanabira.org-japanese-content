@@ -1,6 +1,6 @@
 Processing keyword: Verbる ものとする (〜ru mono to suru)
 # Japanese Grammar Point: Verbる ものとする (〜ru mono to suru)
-# Verbるものとする (〜ru mono to suru)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verbるものとする (〜ru mono to suru)**. This expression is commonly used in formal contexts such as legal documents, contracts, and official regulations. Understanding this grammar point is essential for interpreting and composing formal Japanese texts.
 
@@ -48,6 +48,7 @@ While **ものとする** is used to state provisions formally, it can be compar
 - **Politeness Levels**: It reflects a high level of formality and detachment appropriate for official statements.
 ### Idiomatic Expressions
 While **ものとする** itself is a fixed expression, understanding it helps in comprehending other formal structures within legal and official contexts.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -56,6 +57,7 @@ While **ものとする** itself is a fixed expression, understanding it helps i
 ### Learning Strategies
 - **Mnemonic Device**: Think of **ものとする** as "it is as a thing to be done," helping you remember its usage in stipulations.
 - **Practice Reading**: Read legal documents or company policies in Japanese to see the grammar point in context.
+
 ---
 ## 7. Summary and Review
 ### Key Takeaways
@@ -73,6 +75,7 @@ While **ものとする** itself is a fixed expression, understanding it helps i
    b) Writing a personal diary entry  
    c) Drafting a company policy  
    d) Text messaging  
+
 **Answers:**
 1. **b) To express a stipulation or provision**
 2. **c) Drafting a company policy**

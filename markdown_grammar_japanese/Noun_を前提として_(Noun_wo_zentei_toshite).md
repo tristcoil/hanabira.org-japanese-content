@@ -1,6 +1,6 @@
 Processing keyword: Noun を前提として (Noun wo zentei toshite)
 # Japanese Grammar Point: Noun を前提として (Noun wo zentei toshite)
-# Noun を前提として (Noun wo zentei toshite)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **「Noun を前提として」 (Noun wo zentei toshite)**, which is used to express the idea of assuming something as a premise or prerequisite. This construction is commonly used in formal contexts to indicate that certain actions or decisions are based on a specific assumption or condition.
 ## 2. Core Grammar Explanation
@@ -35,11 +35,13 @@ Noun + を前提として
 - **「Noun を前提に」**: A similar expression meaning "with Noun as a premise". The difference is slight and often interchangeable, but **を前提として** emphasizes the action **doing** something with the premise, while **を前提に** sets the premise more passively.
   
 - **「Noun に基づいて」 (Noun ni motozuite)**: Meaning "based on Noun". While **を前提として** implies an assumption or condition, **に基づいて** refers to a basis or foundation in facts or data.
+
 | Grammar Point       | Meaning                     | Nuance                              |
 |---------------------|-----------------------------|-------------------------------------|
 | **を前提として**    | Assuming Noun as a premise  | Emphasizes assumption or condition  |
 | **を前提に**        | With Noun as a premise      | Slightly more passive               |
 | **に基づいて**      | Based on Noun               | Based on facts/data, less on assumption |
+
 ## 4. Examples in Context
 ### Example 1: Business Meeting
 **Japanese:**  

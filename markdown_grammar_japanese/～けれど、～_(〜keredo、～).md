@@ -1,6 +1,6 @@
 Processing keyword: ～けれど、～ (〜keredo、～)
 # Japanese Grammar Point: ～けれど、～ (〜keredo、～)
-# ～けれど、～ (〜keredo、～)
+
 ## 1. Introduction
 The grammar point **～けれど、～ (〜keredo、～)** is a conjunction used in Japanese to connect two clauses with contrasting or opposing information. It is equivalent to "but," "although," or "though" in English. This conjunction helps express contrast, concession, or unexpected outcomes between two statements.
 

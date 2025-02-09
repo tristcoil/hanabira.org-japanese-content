@@ -1,6 +1,6 @@
 Processing keyword: Verb ようもない (~you mo nai)
 # Japanese Grammar Point: Verb ようもない (~you mo nai)
-# **Verb ようもない (~you mo nai)**
+
 ## 1. Introduction
 The grammar point **「〜ようもない」** is used in Japanese to express that there is **no way to do something** or it is **impossible to do something**, even if one wanted to. It conveys a sense of helplessness or the absence of methods or means to achieve a certain action.
 
@@ -74,6 +74,7 @@ The structure **「〜ようもない」** is generally neutral. To adjust the p
     - **Translation:** There's no way to contact him.
 ### Idiomatic Expressions
 While **「〜ようもない」** itself is not an idiom, it is often used in expressions conveying a complete lack of options or methods, which is a common theme in Japanese idiomatic usage.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

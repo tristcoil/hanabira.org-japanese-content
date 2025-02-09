@@ -1,6 +1,6 @@
 Processing keyword: A あるいは B (A aruiwa B)
 # Japanese Grammar Point: A あるいは B (A aruiwa B)
-# A あるいは B (A aruiwa B)
+
 ## 1. Introduction
 The Japanese grammar point **A あるいは B (A aruiwa B)** is used to express choices or alternatives between two options. It is commonly translated as **"A or B"** in English. This conjunction adds a level of formality and is often used in written and formal spoken Japanese.
 
@@ -68,6 +68,7 @@ The Japanese grammar point **A あるいは B (A aruiwa B)** is used to express 
 *Kare wa konai, aruiwa okureru kamo shirenai.*  
 **Translation:**  
 "He might not come, or he might be late."
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance

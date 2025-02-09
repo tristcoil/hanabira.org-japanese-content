@@ -1,6 +1,6 @@
 Processing keyword: ～かわりに (〜kawari ni)
 # Japanese Grammar Point: ～かわりに (〜kawari ni)
-# ～かわりに（〜kawari ni）
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～かわりに (〜kawari ni)**. This expression is commonly used to indicate substitution, equivalence, or compensation. It allows you to express ideas like "instead of," "in place of," or "in exchange for" in Japanese. Mastering this grammar point will enhance your ability to describe alternatives and trade-offs in various contexts.
 

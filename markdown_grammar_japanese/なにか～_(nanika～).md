@@ -1,6 +1,6 @@
 Processing keyword: なにか～ (nanika～)
 # Japanese Grammar Point: なにか～ (nanika～)
-# JLPT Grammar Point: なにか～ (nanika～)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **なにか～ (nanika～)**, which translates to **"something"** in English. This expression is essential for everyday conversations, allowing you to refer to unspecified objects or matters gracefully. Mastering **なにか～** will enhance your ability to express uncertainty or make general inquiries in Japanese.
 

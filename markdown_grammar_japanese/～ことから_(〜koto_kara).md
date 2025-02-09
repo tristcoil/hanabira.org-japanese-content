@@ -1,6 +1,6 @@
 Processing keyword: ～ことから (〜koto kara)
 # Japanese Grammar Point: ～ことから (〜koto kara)
-# ～ことから (〜koto kara)
+
 ## 1. Introduction
 The grammar point **～ことから** (〜koto kara) is a compound expression in Japanese that translates to "from the fact that," "because," or "since." It is used to indicate a reason or cause for a particular situation or conclusion. This phrase often appears in formal contexts, such as written narratives, explanations, and academic writing.
 

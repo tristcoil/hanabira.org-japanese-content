@@ -1,6 +1,6 @@
 Processing keyword: ～を頼りに (〜wo tayori ni)
 # Japanese Grammar Point: ～を頼りに (〜wo tayori ni)
-# Grammar Point: ～を頼りに (〜をたよりに)
+
 ## 1. Introduction
 The expression **～を頼りに** (〜をたよりに) is used in Japanese to indicate relying on something or someone to accomplish an action or achieve a goal. It highlights the means or support used to carry out the subsequent action.
 

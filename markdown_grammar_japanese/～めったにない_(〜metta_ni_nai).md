@@ -1,6 +1,6 @@
 Processing keyword: ～めったにない (〜metta ni nai)
 # Japanese Grammar Point: ～めったにない (〜metta ni nai)
-# ～めったにない (〜metta ni nai)
+
 ## 1. Introduction
 The grammar point **～めったにない (〜metta ni nai)** is used in Japanese to express that something **rarely** or **seldom** happens. It's a handy expression to indicate infrequency in daily conversations, whether in spoken or written form.
 

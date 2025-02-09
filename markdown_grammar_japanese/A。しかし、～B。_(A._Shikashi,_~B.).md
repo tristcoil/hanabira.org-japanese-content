@@ -1,10 +1,11 @@
 Processing keyword: A。しかし、～B。 (A. Shikashi, ~B.)
 # Japanese Grammar Point: A。しかし、～B。 (A. Shikashi, ~B.)
-# JLPT Grammar Lesson: A。しかし、～B。
+
 
 ---
 ## 1. Introduction
 In this lesson, we'll explore the usage of **「しかし」 (shikashi)**, a conjunction in Japanese that translates to "however" or "but" in English. This grammar point is essential for expressing contrast between two statements and is commonly used in both written and spoken Japanese.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -112,7 +113,7 @@ While **「しかし」 (shikashi)** means "however", it's essential to distingu
 2. b) でも
 3. しかし
 ---
-# End of Lesson
+
 Feel free to create your own sentences using **「しかし」** to reinforce your understanding!
 
 

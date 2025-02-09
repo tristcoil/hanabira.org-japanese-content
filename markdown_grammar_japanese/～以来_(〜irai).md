@@ -1,6 +1,6 @@
 Processing keyword: ～以来 (〜irai)
 # Japanese Grammar Point: ～以来 (〜irai)
-# ～以来 (〜irai)
+
 ## 1. Introduction
 The grammar point ～以来 (〜いらい) is used in Japanese to indicate "since" a certain event or time up to the present. It expresses that something has continued from that point in the past until now.
 

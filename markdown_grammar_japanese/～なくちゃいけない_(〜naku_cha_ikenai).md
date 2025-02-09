@@ -1,6 +1,6 @@
 Processing keyword: ～なくちゃいけない (〜naku cha ikenai)
 # Japanese Grammar Point: ～なくちゃいけない (〜naku cha ikenai)
-# ～なくちゃいけない（〜naku cha ikenai）
+
 ## 1. Introduction
 The expression **～なくちゃいけない** is a commonly used Japanese grammar point that conveys a sense of obligation or necessity. It translates to "must," "have to," or "need to" do something in English. This structure is informal and frequently appears in everyday conversation.
 

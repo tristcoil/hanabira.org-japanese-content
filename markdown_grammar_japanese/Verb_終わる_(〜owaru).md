@@ -1,10 +1,11 @@
 Processing keyword: Verb 終わる (〜owaru)
 # Japanese Grammar Point: Verb 終わる (〜owaru)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verb 終わる (〜おわる)**, which is used to express the completion of an action. Understanding how to use this grammar structure will help you describe completed activities naturally and fluently.
 
 ---
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 The grammar point **Verb 終わる (〜おわる)** is used to indicate that someone **finishes doing** something. It's equivalent to saying "finish doing" or "end up doing" in English.
 ## Structure
@@ -19,16 +20,18 @@ The basic structure is:
 ### Example
 - **読む** (to read) → **読み** (ます-stem) + **終わる** = **読み終わる** (to finish reading)
 ---
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Verb 終わる vs. Verb て-form + しまう
 - **Verb 終わる** focuses on the **completion** of an action without additional connotations.
 - **Verb て-form + しまう** can indicate completion but often implies **regret** or that something happened unintentionally.
+
 | Grammar Point             | Usage                                    |
 |---------------------------|------------------------------------------|
 | **Verb (ます-stem) + 終わる**      | Simply finishing an action.             |
 | **Verb て-form + しまう**        | Finishing an action, sometimes with regret or unintentional nuance. |
+
 ---
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example 1: Casual Conversation
 **映画を**見終わった**ら、電話してね。  
 *えいがを みおわった ら、でんわしてね。*  
@@ -49,8 +52,9 @@ The basic structure is:
 **彼女は長い小説を**読み終わった**。  
 *かのじょは ながい しょうせつを よみおわった。*  
 *"She finished reading a long novel."*
+
 ---
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Japanese culture, expressing the completion of tasks is important, especially in group settings like schools and workplaces. Using **Verb 終わる** appropriately shows respect for others' time and the importance of fulfilling responsibilities.
 ## Levels of Politeness
@@ -62,7 +66,7 @@ In Japanese culture, expressing the completion of tasks is important, especially
 - **使い終わる** (つかいおわる): To finish using something.
 - These expressions are commonly used in daily life to indicate task completion.
 ---
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 ### Mistake 1: Using the Dictionary Form Instead of ます-stem
 - **Incorrect**: **食べ**る**終わる**  
@@ -76,8 +80,9 @@ In Japanese culture, expressing the completion of tasks is important, especially
 ## Learning Strategies
 - **Mnemonic Device**: Remember that **終わる** means "to end," so adding it to a verb stem indicates the action "ends."
 - **Practice Common Verbs**: Use verbs like **読む**, **書く**, **食べる** with **終わる** to get comfortable with the structure.
+
 ---
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **Verb 終わる** is used to express the **completion** of an action.
 - Formed by adding **終わる** to the **ます-stem** of a verb.
@@ -105,6 +110,7 @@ Translate to English: **彼女はレポートを**書き終わりました**。*
 <summary>Answer</summary>
 "She has finished writing the report."
 </details>
+
 ---
 By mastering **Verb 終わる (〜おわる)**, you can effectively express when you've completed actions, enhancing your ability to communicate in Japanese.
 

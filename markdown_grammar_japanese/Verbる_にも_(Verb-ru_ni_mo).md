@@ -1,6 +1,6 @@
 Processing keyword: Verbる にも (Verb-ru ni mo)
 # Japanese Grammar Point: Verbる にも (Verb-ru ni mo)
-# Verbる にも (Verb-ru ni mo)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verbる にも (Verb-ru ni mo)**. This expression is used to convey the idea of wanting to do something but being unable to due to certain circumstances. It's a valuable tool for expressing frustration or resignation when intentions are hindered by obstacles.
 

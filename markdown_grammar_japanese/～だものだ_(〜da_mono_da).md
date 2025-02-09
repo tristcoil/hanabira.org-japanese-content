@@ -1,6 +1,6 @@
 Processing keyword: ～だものだ (〜da mono da)
 # Japanese Grammar Point: ～だものだ (〜da mono da)
-# ～だものだ (〜da mono da)
+
 ## 1. Introduction
 The grammar point **～だものだ (〜da mono da)** is used in Japanese to reflect nostalgically on past habitual actions or to express general truths and emotional reflections. It adds an emotional tone to statements, often conveying sentiments like "used to" or emphasizing the naturalness of a situation.
 

@@ -1,6 +1,6 @@
 Processing keyword: Verbる 嫌いがある (～ru kirai ga aru)
 # Japanese Grammar Point: Verbる 嫌いがある (～ru kirai ga aru)
-# Verbる 嫌いがある (～るきらいがある)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verbる 嫌いがある (～るきらいがある)**. This expression is used to describe someone's tendency or inclination towards a certain behavior or action, often with a slightly negative connotation. Understanding this grammar point will help you express subtle nuances about habits and tendencies in Japanese.
 
@@ -19,9 +19,11 @@ In this lesson, we'll explore the Japanese grammar point **Verbる 嫌いがあ�
 - **Verb (Dictionary Form)**: The basic form of the verb.
 - **嫌いがある**: Literally means "has a dislike," but in this context, it expresses "has a tendency to."
 **Example Formation:**
+
 | Verb (Dictionary Form) | + 嫌いがある | Full Expression               |
 |------------------------|--------------|-------------------------------|
 | 考える (to think)       | 嫌いがある    | 考える嫌いがある (tends to think) |
+
 ---
 ## 3. Comparative Analysis
 ### Similar Grammar Points

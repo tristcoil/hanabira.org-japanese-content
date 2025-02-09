@@ -1,6 +1,6 @@
 Processing keyword: ～かねる (〜kaneru)
 # Japanese Grammar Point: ～かねる (〜kaneru)
-# ～かねる (〜kaneru)
+
 ## 1. Introduction
 The grammar point ～かねる (〜kaneru) is used in Japanese to express the inability to do something, often due to a psychological or situational difficulty rather than physical impossibility. It is a polite and formal expression frequently used in business and customer service contexts.
 

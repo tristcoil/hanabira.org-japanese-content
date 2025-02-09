@@ -1,6 +1,6 @@
 Processing keyword: ～際に (〜sai ni)
 # Japanese Grammar Point: ～際に (〜sai ni)
-# ～際に (〜sai ni)
+
 ## 1. Introduction
 The grammar point **～際に (〜sai ni)** is a formal expression in Japanese that translates to "**when**" or "**on the occasion of**" in English. It is used to indicate a specific time or occasion when something happens, often in formal writing, speeches, or official documents.
 
@@ -79,9 +79,9 @@ It emphasizes the time when an action occurs, usually in formal contexts.
 1. **b)** エレベーターを使う際に、気をつけてください。
 2. **b)** No
 ---
-# Additional Practice
+### Additional Practice
+
 Try creating your own sentences using **～際に**, considering the formal context in which it's appropriate.
----
 
 
 ---

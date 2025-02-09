@@ -1,6 +1,6 @@
 Processing keyword: Noun と相まって (~ to aimatte)
 # Japanese Grammar Point: Noun と相まって (~ to aimatte)
-# Noun と相まって (~とあいまって)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **Noun と相まって (~とあいまって)**, a useful expression in Japanese that conveys the meaning of "together with", "coupled with", or "combined with". This structure is commonly used in formal contexts to describe how two factors work together to produce a result.
 
@@ -16,11 +16,13 @@ The formation of this grammar point is straightforward:
 - **noun**: A noun representing a factor or element.
 - **と相まって**: "in combination with", "coupled with".
 ### Formation Diagram
+
 | Component     | Function                     |
 |---------------|------------------------------|
 | Noun          | Factor/Element A             |
 | と            | Particle meaning "with"      |
 | 相まって      | Conjugation of verb 相まう (to interact/be combined) |
+
 ---
 ## 3. Comparative Analysis
 ### Similar Expressions
@@ -54,6 +56,7 @@ The formation of this grammar point is straightforward:
 - Ideal for writing essays, reports, and formal speeches.
 ### Idiomatic Expressions
 While **と相まって** itself is an idiomatic expression, it's used to elegantly express the combination of factors in a way that is appreciated in formal Japanese discourse.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis

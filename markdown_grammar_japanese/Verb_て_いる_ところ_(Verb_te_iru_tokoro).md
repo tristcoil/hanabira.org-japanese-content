@@ -1,6 +1,6 @@
 Processing keyword: Verb て いる ところ (Verb te iru tokoro)
 # Japanese Grammar Point: Verb て いる ところ (Verb te iru tokoro)
-# Verb ているところ (Verb te iru tokoro)
+
 ## 1. Introduction
 Welcome to today's lesson on the Japanese grammar point **Verb ているところ (Verb te iru tokoro)**. This structure is essential for expressing actions that are **currently in progress** at a specific moment. By mastering this grammar point, you'll be able to convey ongoing actions with greater precision and sound more natural in your Japanese communication.
 

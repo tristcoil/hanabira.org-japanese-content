@@ -1,6 +1,6 @@
 Processing keyword: ～から (〜kara)
 # Japanese Grammar Point: ～から (〜kara)
-# ～から (〜kara) Grammar Point Explanation
+
 ## 1. Introduction
 **から (kara)** is a versatile Japanese particle that primarily means "**because**" when used as a conjunction and "**from**" when indicating a starting point in time or location. Mastery of **から** is essential for constructing complex sentences that express reasons or denote origins in Japanese.
 

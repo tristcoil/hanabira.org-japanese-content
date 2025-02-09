@@ -1,10 +1,11 @@
 Processing keyword: ～か～まいか (〜ka 〜maika)
 # Japanese Grammar Point: ～か～まいか (〜ka 〜maika)
-# ～か～まいか (〜ka 〜maika)
+
 
 ---
 ## 1. Introduction
 The Japanese grammar pattern **～か～まいか (～ka ～maika)** is used to express indecision or contemplation about whether to do something or not. It translates to "whether to do or not to do" in English. This structure is often employed when the speaker is weighing two options and hasn't reached a decision yet.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -57,26 +58,31 @@ Verb (dictionary form) + か + Verb (dictionary form minus る) + まいか
 **Japanese**: 映画を見に行くか行くまいか迷っている。
 **Romaji**: Eiga o mi ni iku ka iku maika mayotte iru.
 **English**: "I'm undecided about whether to go see a movie or not."
+
 ---
 ### Example 2: Formal Writing
 **Japanese**: 参加者を募集するか募集しまいか、会議で検討します。
 **Romaji**: Sankasha o boshū suru ka boshū shimaika, kaigi de kentō shimasu.
 **English**: "We will discuss in the meeting whether to recruit participants or not."
+
 ---
 ### Example 3: Expressing Personal Dilemma
 **Japanese**: 彼に真実を伝えるか伝えるまいか悩んでいる。
 **Romaji**: Kare ni shinjitsu o tsutaeru ka tsutaeru maika nayande iru.
 **English**: "I'm torn about whether to tell him the truth or not."
+
 ---
 ### Example 4: Decision in Business Context
 **Japanese**: 新しいシステムを導入するか導入するまいか判断が難しい。
 **Romaji**: Atarashii shisutemu o dōnyū suru ka dōnyū suru maika handan ga muzukashii.
 **English**: "It's difficult to decide whether to implement the new system or not."
+
 ---
 ### Example 5: Considering Future Plans
 **Japanese**: 留学するかするまいか、両親と相談した。
 **Romaji**: Ryūgaku suru ka suru maika, ryōshin to sōdan shita.
 **English**: "I discussed with my parents whether to study abroad or not."
+
 ---
 ## 5. Cultural Notes
 ### Levels of Politeness and Formality

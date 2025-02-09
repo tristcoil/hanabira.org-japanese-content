@@ -1,6 +1,6 @@
 Processing keyword: ～に もらいます (〜ni moraimasu)
 # Japanese Grammar Point: ～に もらいます (〜ni moraimasu)
-# Japanese Grammar Lesson: ～に もらいます (〜ni moraimasu)
+
 ## 1. Introduction
 In daily Japanese conversation, expressing the act of receiving something from someone is essential. The grammar point **～に もらいます (〜ni moraimasu)** allows speakers to articulate this action clearly and politely. This lesson will delve into the usage of **～に もらいます**, helping you understand how to properly receive gifts, favors, or items in Japanese.
 

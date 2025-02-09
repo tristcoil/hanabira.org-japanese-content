@@ -1,6 +1,6 @@
 Processing keyword: Noun のいかんによらず (~ no ikan ni yorazu)
 # Japanese Grammar Point: Noun のいかんによらず (~ no ikan ni yorazu)
-# Noun のいかんによらず (～のいかんによらず)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **〜のいかんによらず**. This expression is used to indicate that something is true "regardless of" or "irrespective of" a certain condition or situation represented by the noun it follows. It's a formal expression often found in written language and formal speeches.
 

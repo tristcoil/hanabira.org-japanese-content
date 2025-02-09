@@ -1,6 +1,6 @@
 Processing keyword: Verb たことにしてください (~ ta koto ni shite kudasai)
 # Japanese Grammar Point: Verb たことにしてください (~ ta koto ni shite kudasai)
-# Verb たことにしてください (~たことにしてください)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verb たことにしてください**, which is used to **ask someone to pretend or consider that an action has taken place**. This structure is useful in formal contexts where you might need to request someone to act as if something has happened, even if it hasn't.
 
@@ -14,9 +14,11 @@ To form this expression:
 2. **ことにする** (decide to consider something as...)
 3. **ください** (please)
 **Formation Diagram:**
+
 | Verb (Dictionary Form) | Verb (た-form) | + ことにする | + ください |
 |------------------------|----------------|--------------|-----------|
 | 食べる (taberu)         | 食べた (tabeta) | 食べたことにする | 食べたことにしてください |
+
 ### Breakdown
 - **Verbた**: The past tense form of the verb.
 - **ことにする**: An expression meaning "decide to" or "pretend that".
@@ -52,6 +54,7 @@ To form this expression:
 **Japanese:** 提出期限は延長されたことにしてください。
 **Romaji:** Teishutsu kigen wa enchō sareta koto ni shite kudasai.
 **English:** Please consider the submission deadline as extended.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance

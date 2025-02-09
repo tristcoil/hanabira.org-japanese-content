@@ -1,6 +1,6 @@
 Processing keyword: Verb ようと Verbる まいと (Verb you to Verb ru mai to)
 # Japanese Grammar Point: Verb ようと Verbる まいと (Verb you to Verb ru mai to)
-# 〜ようと〜まいと (Verb ようと Verbるまいと)
+
 ## 1. Introduction
 In this lesson, we will explore the Japanese grammar point **〜ようと〜まいと** (_Verb you to Verb-ru mai to_), which expresses the idea of "whether or not" an action occurs. This structure is used to indicate that the outcome remains the same regardless of whether the action happens. Understanding this grammar point will help you express determination and indifference towards certain conditions in Japanese.
 

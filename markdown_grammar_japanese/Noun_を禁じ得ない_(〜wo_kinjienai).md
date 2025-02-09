@@ -1,6 +1,6 @@
 Processing keyword: Noun を禁じ得ない (〜wo kinjienai)
 # Japanese Grammar Point: Noun を禁じ得ない (〜wo kinjienai)
-# Noun を禁じ得ない (〜をきんじえない)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Noun を禁じ得ない (〜をきんじえない)**. This expression is used to convey that one **cannot suppress or help but feel** a certain emotion toward something. It's a formal construct often found in written language, such as newspapers, literature, or official reports.
 
@@ -103,8 +103,6 @@ While **〜を禁じ得ない** itself is a set phrase, it's often used with cer
 1. a) 笑い  
 2. False  
 3. b) Newspaper article
----
-
 
 ---
 

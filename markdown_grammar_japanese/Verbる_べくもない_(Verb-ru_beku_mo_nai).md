@@ -1,6 +1,6 @@
 Processing keyword: Verbる べくもない (Verb-ru beku mo nai)
 # Japanese Grammar Point: Verbる べくもない (Verb-ru beku mo nai)
-# Verbる べくもない (Verb-ru beku mo nai)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **べくもない (beku mo nai)**, a classical Japanese expression often found in written and formal contexts. It conveys the meaning of something being impossible or unthinkable. Understanding this grammar will enhance your comprehension of nuanced expressions in Japanese literature and formal writings.
 
@@ -36,6 +36,7 @@ Verb (Dictionary Form) + べくもない
 **Difference with べくもない:**
 - **べくもない** is more formal and literary, often conveying a sense of resignation.
 - **わけがない** and **はずがない** are more common in everyday speech.
+
 ---
 ## 4. Examples in Context
 ### Example 1
@@ -66,6 +67,7 @@ It's impossible for a child to understand the answer to this problem.
 かれの　さいのうは　たにんが　はかるべくもないほど　ふかい。
 **Translation:**
 His talent is so profound that others cannot possibly measure it.
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -104,6 +106,7 @@ His talent is so profound that others cannot possibly measure it.
 3. **Is べくもない typically used in casual conversation?**
    A. Yes
    B. No
+
 **Answers:**
 1. **B**
 2. **C**

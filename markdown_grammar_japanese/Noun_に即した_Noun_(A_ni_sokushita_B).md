@@ -1,6 +1,6 @@
 Processing keyword: Noun に即した Noun (A ni sokushita B)
 # Japanese Grammar Point: Noun に即した Noun (A ni sokushita B)
-# JLPT Grammar Point: Noun に即した Noun (A に即した B)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar pattern **「Noun に即した Noun」** (A にそくした B), a construction used to express that something (B) is done **in accordance with**, **based on**, or **in line with** something else (A). This pattern is useful for expressing conformity or adherence to policies, rules, principles, or situations.
 

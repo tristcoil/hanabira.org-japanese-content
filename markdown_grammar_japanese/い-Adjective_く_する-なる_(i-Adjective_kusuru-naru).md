@@ -1,6 +1,6 @@
 Processing keyword: い-Adjective く する-なる (i-Adjective kusuru-naru)
 # Japanese Grammar Point: い-Adjective く する-なる (i-Adjective kusuru-naru)
-# い-Adjective + くする・なる (i-Adjective + *ku suru/naru*)
+
 ## 1. Introduction
 In Japanese, expressing changes in state or causing something to change is essential for everyday communication. The grammar structures **〜くなる** and **〜くする** are used with **い-adjectives** to indicate that something *becomes* a certain way or someone *makes* something a certain way.
 

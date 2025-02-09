@@ -1,6 +1,6 @@
 Processing keyword: ぜんぜん～ (zenzen～)
 # Japanese Grammar Point: ぜんぜん～ (zenzen～)
-# JLPT Grammar Point: ぜんぜん〜 (zenzen〜)
+
 ## 1. Introduction
 The adverb **ぜんぜん (zenzen)** is a commonly used word in Japanese that modifies verbs, adjectives, and other adverbs. It expresses the degree or extent of an action or state. Understanding its usage is essential for conveying nuances in both negative and affirmative sentences.
 

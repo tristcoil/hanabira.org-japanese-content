@@ -1,6 +1,6 @@
 Processing keyword: ～おかげで (〜okagede)
 # Japanese Grammar Point: ～おかげで (〜okagede)
-# ～おかげで (〜okagede)
+
 ## 1. Introduction
 The grammar point **～おかげで (〜okagede)** is used in Japanese to express gratitude or to indicate that a positive outcome occurred **thanks to** someone or something. It translates to "because of," "thanks to," or "owing to" in English and is typically used when the result is favorable.
 

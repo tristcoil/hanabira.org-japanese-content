@@ -1,6 +1,6 @@
 Processing keyword: Verbる ともなく Verb (Verb-ru tomonaku Verb)
 # Japanese Grammar Point: Verbる ともなく Verb (Verb-ru tomonaku Verb)
-# VerbるともなくVerb (Verb-るともなくVerb)
+
 ## 1. Introduction
 In Japanese, there are expressions that convey doing something unintentionally or without a specific purpose. One such grammar point is **VerbるともなくVerb**, which is used to describe actions done absentmindedly or without deliberate intent. Understanding this structure can enhance your ability to express nuances in everyday conversations.
 
@@ -81,6 +81,7 @@ The structure of this grammar point is as follows:
 2. Fill in the blanks with the correct form of the verb:
    **______ともなく______ていたら、新しいアイデアが浮かんだ。** (考える)
 3. True or False: You can use different verbs before and after **ともなく**.
+
 **Answers:**
 1. It expresses doing something without a clear intention or doing something absentmindedly.
 2. **考えるともなく考えていたら、新しいアイデアが浮かんだ。**

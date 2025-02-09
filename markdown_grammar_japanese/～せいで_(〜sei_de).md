@@ -1,6 +1,6 @@
 Processing keyword: ～せいで (〜sei de)
 # Japanese Grammar Point: ～せいで (〜sei de)
-# ～せいで (〜sei de)
+
 ## 1. Introduction
 The grammar point **～せいで (〜sei de)** is used in Japanese to indicate that something negative happened because of a particular cause. It translates to "because of" or "due to" in English when expressing an unfavorable result.
 

@@ -1,6 +1,6 @@
 Processing keyword: ～そのために (〜sono tame ni)
 # Japanese Grammar Point: ～そのために (〜sono tame ni)
-# ～そのために (〜sono tame ni)
+
 ## 1. Introduction
 **Grammar Point:** ～そのために (〜sono tame ni)  
 **Meaning:** "Therefore," "for that reason," "because of that"  

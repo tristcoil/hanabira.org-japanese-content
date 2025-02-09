@@ -1,6 +1,6 @@
 Processing keyword: ～なんか (〜nanka)
 # Japanese Grammar Point: ～なんか (〜nanka)
-# ～なんか (〜nanka)
+
 ## 1. Introduction
 The expression **～なんか (〜nanka)** is a versatile grammar point in Japanese that adds nuance to your sentences. It can be used to express modesty, disdain, or to de-emphasize something. Understanding how to use なんか will help you sound more natural and convey subtle feelings in conversation.
 
@@ -101,7 +101,7 @@ The expression **～なんか (〜nanka)** is a versatile grammar point in Japan
 1. 私**なんか**まだまだです。
 2. False
 3. Instead of reading something like a book, let's watch a movie.
----
+
 
 
 ---

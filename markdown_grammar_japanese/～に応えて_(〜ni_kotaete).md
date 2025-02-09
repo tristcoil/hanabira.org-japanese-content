@@ -1,10 +1,10 @@
 Processing keyword: ～に応えて (〜ni kotaete)
 # Japanese Grammar Point: ～に応えて (〜ni kotaete)
-# ～に応えて (〜ni kotaete)
 
 ---
 ## 1. Introduction
 In Japanese, expressing actions taken in response to requests, demands, or expectations is a common aspect of communication. The grammar point **～に応えて (〜ni kotaete)** allows speakers to convey that they are acting **"in response to"** or **"in accordance with"** someone's needs or wishes. This lesson will cover the usage, structure, and nuances of **～に応えて**, providing examples and comparisons to enhance your understanding.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -103,6 +103,7 @@ In Japanese culture, attentiveness to others' needs and responding appropriately
   
 - **Identify the Noun**: Ensure the noun before **に応えて** represents a request, expectation, or demand.
 - **Context Clues**: Look for contexts where someone is acting because of someone else's expressed needs.
+
 ---
 ## 7. Summary and Review
 ### Key Takeaways
@@ -120,6 +121,7 @@ True or False:
 Choose the correct usage of **～に応えて**:
 A) **試験に応えて、彼は驚いた。**
 B) **先生の質問に応えて、答えた。**
+
 ---
 ### Answers
 #### Answer 1

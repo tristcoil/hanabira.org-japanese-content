@@ -1,6 +1,6 @@
 Processing keyword: ～とはいえ (～to wa ie)
 # Japanese Grammar Point: ～とはいえ (～to wa ie)
-# ～とはいえ (～とは言え)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～とはいえ (～とは言え)**. This expression is used to acknowledge a fact while introducing a contrasting point. It's similar to saying "having said that," "nonetheless," or "even so" in English. Understanding this grammar will help you articulate nuanced thoughts and add sophistication to your Japanese communication.
 
@@ -108,7 +108,7 @@ The formation of **～とはいえ** is:
 3. *"Even though there isn't time, please check carefully."*
 ---
 By mastering **～とはいえ**, you'll enhance your ability to express complex thoughts and contrasts in Japanese, making your communication more effective and nuanced.
----
+
 
 
 ---

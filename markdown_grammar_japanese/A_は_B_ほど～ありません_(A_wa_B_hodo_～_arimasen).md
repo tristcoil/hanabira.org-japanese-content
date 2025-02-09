@@ -1,6 +1,6 @@
 Processing keyword: A は B ほど～ありません (A wa B hodo ～ arimasen)
 # Japanese Grammar Point: A は B ほど～ありません (A wa B hodo ～ arimasen)
-# AはBほど～ありません (A wa B hodo ～ arimasen)
+
 ## Introduction
 In this lesson, we'll explore the Japanese grammar point **「AはBほど～ありません」**, which is used to express that **"A is not as ~ as B."** This structure allows you to make comparisons in a polite and nuanced way, essential for effective communication in Japanese.
 
@@ -22,9 +22,7 @@ A は B ほど ～ありません
 | **A は**     | Topic marker indicating subject A         |
 | **B ほど**    | Indicates the extent/degree of B          |
 | **～ありません** | Negative form; A does not reach B's level |
-### Visual Aid
-Here's how the components fit together:
-![Structure Diagram](https://i.imgur.com/4kY9vbY.png)
+
 ---
 ## Comparative Analysis
 ### Comparison with Similar Grammar Points
@@ -112,8 +110,6 @@ Here's how the components fit together:
    - (He doesn't run as fast as his older brother.)
 ---
 By mastering **「AはBほど～ありません」**, you enhance your ability to make nuanced comparisons, a valuable skill in Japanese communication. Keep practicing with different adjectives and verbs to become more comfortable with this structure!
----
-
 
 ---
 

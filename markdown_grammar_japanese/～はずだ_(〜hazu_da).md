@@ -1,6 +1,6 @@
 Processing keyword: ～はずだ (〜hazu da)
 # Japanese Grammar Point: ～はずだ (〜hazu da)
-# ～はずだ (〜hazu da)
+
 ## 1. Introduction
 The grammar point ～はずだ (〜hazu da) is a common expression in Japanese used to express expectation or supposition based on reasoning or evidence. It conveys the speaker's belief that something should be a certain way due to logical reasons.
 

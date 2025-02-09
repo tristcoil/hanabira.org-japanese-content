@@ -1,6 +1,6 @@
 Processing keyword: Noun といったところだ (Noun to itta tokoro da)
 # Japanese Grammar Point: Noun といったところだ (Noun to itta tokoro da)
-# Grammar Lesson: Noun といったところだ (Noun to itta tokoro da)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **といったところだ (to itta tokoro da)** when used with a **noun**. This expression is commonly used to indicate that something amounts to "about" or "approximately" the noun mentioned. It often conveys a sense of modest estimation or limitation regarding quantity or degree.
 

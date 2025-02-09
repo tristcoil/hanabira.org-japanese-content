@@ -1,28 +1,13 @@
 Processing keyword: A は B が〜 (A wa B ga〜)
 # Japanese Grammar Point: A は B が〜 (A wa B ga〜)
-# Grammar Point: **A は B が〜** (A wa B ga〜)
+
 
 ---
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Core Grammar Explanation](#core-grammar-explanation)
-   - [Meaning and Usage](#meaning-and-usage)
-   - [Structure and Formation](#structure-and-formation)
-   - [Formation Diagram](#formation-diagram)
-3. [Comparative Analysis](#comparative-analysis)
-4. [Examples in Context](#examples-in-context)
-5. [Cultural Notes](#cultural-notes)
-   - [Cultural Relevance](#cultural-relevance)
-   - [Idiomatic Expressions](#idiomatic-expressions)
-6. [Common Mistakes and Tips](#common-mistakes-and-tips)
-   - [Error Analysis](#error-analysis)
-   - [Learning Strategies](#learning-strategies)
-7. [Summary and Review](#summary-and-review)
-   - [Key Takeaways](#key-takeaways)
-   - [Quick Recap Quiz](#quick-recap-quiz)
----
+
+
 ## Introduction
 The grammar pattern **A は B が〜** (A wa B ga〜) is a fundamental structure in Japanese that allows speakers to express preferences, abilities, possessions, and feelings about someone or something. Mastering this pattern will enhance your ability to describe various states and emotions in natural Japanese.
+
 ---
 ## Core Grammar Explanation
 ### Meaning and Usage

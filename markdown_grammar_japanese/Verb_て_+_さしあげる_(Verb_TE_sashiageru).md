@@ -1,8 +1,9 @@
 Processing keyword: Verb て + さしあげる (Verb TE sashiageru)
-# Japanese Grammar Point: Verb て + さしあげる (Verb TE sashiageru)
-# 1. Introduction
+# Japanese Grammar Point: Verb て + さしあげる (Verb te sashiageru)
+
+## 1. Introduction
 In Japanese, understanding the nuances of politeness and humility is essential. The grammar point **"Verb て + さしあげる (Verb TE sashiageru)"** is a humble expression used when the speaker performs an action for someone of higher status. This form helps convey respect and humility in social interactions.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Meaning
 - **"Verb て + さしあげる"** means "to humbly do something for someone (of higher status)."
 - It is the **humble form** of **"〜てあげる"**, which means "to do something for someone."
@@ -22,14 +23,14 @@ When you, the speaker, perform an action for someone who is socially superior or
 | 〜てやる             | Casual           | Doing something for someone of lower status or animals. |
 | 〜てあげる           | Neutral          | Doing something for someone of equal or lower status.   |
 | **〜てさしあげる** | Humble           | Doing something for someone of higher status.           |
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 - **〜てあげる** vs. **〜てさしあげる**:
   - **〜てあげる** is used when doing something for someone of equal or lower status.
   - **〜てさしあげる** is more polite and humble, used for someone of higher status.
 - **〜てさしあげる** vs. **〜ていただく**:
   - **〜てさしあげる** focuses on the speaker doing something for someone else.
   - **〜ていただく** is the humble way to say "to receive something done by someone else."
-# 4. Examples in Context
+## 4. Examples in Context
 ### Example 1: Offering Help to a Superior
 **Japanese:**  
 お荷物を持ってさしあげます。  
@@ -65,7 +66,7 @@ I will change seats (for you).
 Shōsai o mēru de okutte sashiagemashita.  
 **English Translation:**  
 I sent the details by email (to you).
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Japanese culture, showing respect through language is vital. Using **"〜てさしあげる"** appropriately demonstrates humility and deference toward someone of higher status, such as a superior at work, a client, or an elder.
 ### Levels of Politeness and Formality
@@ -81,7 +82,7 @@ While **"〜てさしあげる"** itself is a set humble expression, it's often 
   Shall I help you?
 - **ご案内してさしあげます。**  
   I will guide you.
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Using "〜てさしあげる" Inappropriately**
    - **Mistake:** Using **"〜てさしあげる"** when speaking to someone of lower or equal status.
@@ -93,7 +94,7 @@ While **"〜てさしあげる"** itself is a set humble expression, it's often 
 - **Mnemonic Device:** Remember that **"さしあげる"** is **"差し上げる"**, which literally means "to lift up," symbolizing lifting the other person's status.
 - **Practice Politeness Levels:**
   Create sentences using **"〜てやる"**, **"〜てあげる"**, and **"〜てさしあげる"** to understand the context and appropriate usage.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **"Verb て + さしあげる"** is a humble expression used when doing something for someone of higher status.
 - It conveys respect and modesty.

@@ -1,6 +1,6 @@
 Processing keyword: Noun はいざ知らず (~ wa iza shirazu)
 # Japanese Grammar Point: Noun はいざ知らず (~ wa iza shirazu)
-# Noun はいざ知らず (~ wa iza shirazu)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **「Noun はいざ知らず」** (**~ wa iza shirazu**). This expression is used to highlight a contrast between two things, suggesting that while the first may be acceptable or understandable, the second is different. It can be translated as:
 - "I don't know about Noun, but..."
@@ -43,32 +43,38 @@ Noun + は + いざ知らず + [Rest of the sentence]
 **Differences**:
 - **はいざ知らず** implies uncertainty or unwillingness to comment on Noun, whereas **はともかく** and **は別として** are used to set Noun aside deliberately.
 - **はいざ知らず** often introduces a contrast based on knowledge or experience.
+
 ---
 ## 4. Examples in Context
 ### Example 1: Formal Speech
 **Japanese**: 若者はいざ知らず、高齢者にはこの技術は難しい。
 **Romaji**: Wakamono wa iza shirazu, kōreisha ni wa kono gijutsu wa muzukashii.
 **English**: "I don't know about young people, but for the elderly, this technology is difficult."
+
 ---
 ### Example 2: Informal Conversation
 **Japanese**: デザインはいいかもしれないが、機能性はいざ知らず。
 **Romaji**: Dezain wa ii kamo shirenai ga, kinōsei wa iza shirazu.
 **English**: "The design might be good, but I don't know about its functionality."
+
 ---
 ### Example 3: Written Language
 **Japanese**: 初心者はいざ知らず、経験者がこんなミスをするとは。
 **Romaji**: Shoshinsha wa iza shirazu, keiken-sha ga konna misu o suru to wa.
 **English**: "I might understand if it were a beginner, but for someone experienced to make such a mistake..."
+
 ---
 ### Example 4: Polite Context
 **Japanese**: 昔はいざ知らず、現在ではこれが常識です。
 **Romaji**: Mukashi wa iza shirazu, genzai de wa kore ga jōshiki desu.
 **English**: "I don't know about the past, but nowadays this is common knowledge."
+
 ---
 ### Example 5: Spoken Language
 **Japanese**: あの店は味はいざ知らず、サービスはいいよ。
 **Romaji**: Ano mise wa aji wa iza shirazu, sābisu wa ii yo.
 **English**: "I can't say about the taste at that restaurant, but the service is good."
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance

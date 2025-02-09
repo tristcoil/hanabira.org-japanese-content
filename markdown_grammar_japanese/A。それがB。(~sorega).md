@@ -1,6 +1,6 @@
 Processing keyword: A。それがB。(~sorega)
 # Japanese Grammar Point: A。それがB。(~sorega)
-# A。それがB。(~それが)
+
 ## 1. Introduction
 In Japanese conversation, expressions that bridge thoughts and provide smooth transitions are essential for natural speech. The phrase **「それが」** is one such expression, used to introduce a correction, unexpected information, or an opposing statement relative to what was previously mentioned. Understanding how to use **「それが」** effectively can enhance your conversational skills and make your Japanese sound more fluent.
 
@@ -47,24 +47,28 @@ A。それがB。
 *You're coming to the party tomorrow, right?*
 **B**: それが、行けなくなったんだ。  
 *Actually, I can't make it.*
+
 ---
 ### Example 2 (Polite)
 **A**: レポートはもう完成しましたか。  
 *Have you finished the report yet?*
 **B**: それが、まだ終わっていないんです。  
 *The thing is, I haven't finished it yet.*
+
 ---
 ### Example 3 (Expressing Unexpected Events)
 **A**: 試験は簡単だったでしょう。  
 *The exam was easy, right?*
 **B**: それが、すごく難しかったよ。  
 *Actually, it was really hard.*
+
 ---
 ### Example 4 (Discussing Plans)
 **A**: 今日のミーティングは3時からですね。  
 *The meeting is from 3 o'clock today, right?*
 **B**: それが、時間が変更になりました。  
 *Actually, the time has changed.*
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -75,6 +79,7 @@ A。それがB。
   - Often used to start a sentence when hesitating or expressing reluctance.
   - *それがね、実はまだ決めていないの。*  
     *Well, actually, I haven't decided yet.*
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -99,7 +104,9 @@ A。それがB。
    *Actually, he has already gone home.*
 3. **「それが」** often conveys a sense of regret or unexpectedness, whereas **「でも」** is a straightforward conjunction meaning *"but"*.
 </details>
+
 ---
+
 By incorporating **「それが」** into your conversations, you'll be able to navigate contradictions and corrections smoothly, reflecting a more natural use of the Japanese language.
 
 

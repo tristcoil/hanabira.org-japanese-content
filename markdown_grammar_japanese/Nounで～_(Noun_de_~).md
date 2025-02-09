@@ -1,6 +1,6 @@
 Processing keyword: Nounで～ (Noun de ~)
 # Japanese Grammar Point: Nounで～ (Noun de ~)
-# Nounで～ (Noun de ~)
+
 ## 1. Introduction
 The particle **で (de)** is one of the essential particles in Japanese grammar. It connects nouns to verbs and adjectives, adding layers of meaning to sentences. Understanding how to use **で** correctly is crucial for expressing various concepts such as location, means, cause, and more.
 

@@ -1,6 +1,6 @@
 Processing keyword: ～ずに (〜zu ni)
 # Japanese Grammar Point: ～ずに (〜zu ni)
-# ～ずに (〜zu ni)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **～ずに (〜zu ni)**, which translates to "**without doing [something]**" in English. This structure is used to indicate that an action occurs without performing another action. Understanding **～ずに** will enhance your ability to express actions done in the absence of something else.
 

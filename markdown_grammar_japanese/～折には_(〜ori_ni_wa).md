@@ -1,6 +1,6 @@
 Processing keyword: ～折には (〜ori ni wa)
 # Japanese Grammar Point: ～折には (〜ori ni wa)
-# ～折(おり)には (〜ori ni wa)
+
 ## 1. Introduction
 The grammar point **～折には (〜おりには)** is a formal Japanese expression used to convey "on the occasion of" or "when". It's often employed in polite conversations, formal writings, or business contexts to indicate a specific time or opportunity when something happens or is expected to happen.
 
@@ -109,7 +109,6 @@ The formation of **～折には** depends on the preceding word:
 1. **b)** To indicate a formal, special occasion when something happens.
 2. **b)** 来月の出張の折には、お客様と会議を行います。
 3. Because **～折には** is too formal for casual settings; using it in casual conversation may sound out of place or overly stiff.
----
 
 
 ---

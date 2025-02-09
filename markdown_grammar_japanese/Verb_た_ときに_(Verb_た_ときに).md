@@ -1,6 +1,6 @@
 Processing keyword: Verb た ときに (Verb た ときに)
 # Japanese Grammar Point: Verb た ときに (Verb た ときに)
-# Verbた ときに (Verbた ときに)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verbた ときに**. This construction is used to express actions or events that occurred **when** or **after** something happened in the past. Understanding this grammar point will help you describe sequences of events and enhance your storytelling in Japanese.
 
@@ -105,8 +105,6 @@ While **Verbた ときに** is straightforward, it's often used in idiomatic exp
    - **Answer:** False.
 ---
 By understanding and practicing **Verbた ときに**, you'll be able to accurately describe sequences of past events and enhance your communication in Japanese.
----
-
 
 ---
 

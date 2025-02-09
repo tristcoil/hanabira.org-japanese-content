@@ -1,10 +1,11 @@
 Processing keyword: Verb た ことがある (Verb ta koto ga aru)
 # Japanese Grammar Point: Verb た ことがある (Verb ta koto ga aru)
-# Japanese Grammar Lesson: Verbたことがある (Verb in Past Tense + ことがある)
+
 
 ---
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar structure **Verbたことがある**, which is used to express one's experiences in the past. Mastering this grammar point will enable you to talk about things you have done or haven't done before.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
@@ -15,8 +16,7 @@ The formation of this grammar point involves:
 1. **Verb in Plain Past Form (た-form)**
 2. **ことがある**
 ### Formation Diagram
-```mermaid
-graph LR
+```
 A[Verb in た-form] --> B[ことがある]
 ```
 ### Breakdown

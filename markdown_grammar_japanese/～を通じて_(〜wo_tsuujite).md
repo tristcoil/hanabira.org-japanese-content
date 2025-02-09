@@ -1,6 +1,6 @@
 Processing keyword: ～を通じて (〜wo tsuujite)
 # Japanese Grammar Point: ～を通じて (〜wo tsuujite)
-# ～を通じて (〜wo tsuujite)
+
 ## 1. Introduction
 The grammar point ～を通じて (〜をつうじて, *~wo tsuujite*) is a versatile expression in Japanese that translates to "through," "via," or "by means of" in English. It indicates that something is achieved, conveyed, or occurs through a medium, method, or period.
 

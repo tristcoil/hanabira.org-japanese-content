@@ -1,6 +1,6 @@
 Processing keyword: ～ことに (〜koto ni)
 # Japanese Grammar Point: ～ことに (〜koto ni)
-# ～ことに (〜koto ni)
+
 ## 1. Introduction
 The grammar pattern **～ことに** (_~koto ni_) is used in Japanese to express the speaker's feelings or subjective judgments about a particular situation. It often translates to phrases like "to my [emotion]" or "it is [emotionally] that...". This construction emphasizes the speaker's emotional response or attitude towards the event described.
 
@@ -12,11 +12,13 @@ The grammar pattern **～ことに** (_~koto ni_) is used in Japanese to express
 - It emphasizes feelings such as happiness, sadness, surprise, regret, etc.
 **Structure**:
 The formation of this grammar point involves an adjective or verb that expresses emotion, followed by **ことに**.
+
 | Component        | Formation                             |
 |------------------|---------------------------------------|
 | **Adjective**    | _い-adjective_ + ことに                |
 |                  | _な-adjective_ + なことに              |
 | **Verb (た form)** | _Verb_ (た form) + ことに              |
+
 **Formation Diagram**:
 ```
 [Emotion adjective/verb (た form)] + ことに
@@ -88,7 +90,7 @@ The grammar point **～ことに** is neutral and can be used in both formal and
    - **Answer**: a)
 3. Translate to Japanese using **～ことに**: "Sadly, the event was canceled."
    - **Answer**: **悲しいことに、イベントは中止されました。**
----
+
 
 
 ---

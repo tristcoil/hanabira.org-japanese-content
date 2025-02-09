@@ -1,6 +1,6 @@
 Processing keyword: ～ことにしている (〜koto ni shite iru)
 # Japanese Grammar Point: ～ことにしている (〜koto ni shite iru)
-# 〜ことにしている (Koto ni shite iru)
+
 ## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **〜ことにしている (koto ni shite iru)**. This expression is commonly used to indicate habits or routines that one has consciously decided to adopt. It's a useful structure for discussing personal decisions that you regularly carry out.
 
@@ -86,7 +86,7 @@ It's important to distinguish **〜ことにしている** from similar expressi
    - **Answer**: Verb in **ない-form + ことにしている**
 ---
 By mastering **〜ことにしている**, you can effectively communicate your personal habits and decisions in Japanese, enhancing both your language skills and cultural understanding.
----
+
 
 
 ---

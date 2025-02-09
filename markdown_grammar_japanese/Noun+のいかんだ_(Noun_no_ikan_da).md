@@ -1,6 +1,6 @@
 Processing keyword: Noun+のいかんだ (Noun no ikan da)
 # Japanese Grammar Point: Noun+のいかんだ (Noun no ikan da)
-# Noun + のいかんだ (Noun no ikan da)
+
 ## 1. Introduction
 In this lesson, we'll explore the advanced Japanese grammar point **Noun + のいかんだ (Noun no ikan da)**. This expression is used to indicate that something "**depends on**" or is contingent upon the noun mentioned. It's commonly found in formal contexts such as official statements, academic writings, and news reports.
 
@@ -105,9 +105,6 @@ Here's a simplified diagram to illustrate the structure:
    - *Answer*: **のいかんだ** (Seikō wa junbi **no ikan da**.)
 ---
 Congratulations! You've learned how to use **Noun + のいかんだ** in Japanese. To reinforce your understanding, try creating sentences using this grammar point in formal contexts.
----
-*Note*: All examples provided reflect natural and appropriate usage in formal Japanese contexts. Remember to consider the level of formality when choosing to use **のいかんだ**.
-
 
 ---
 

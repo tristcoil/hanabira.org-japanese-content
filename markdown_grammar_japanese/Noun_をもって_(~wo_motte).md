@@ -1,6 +1,6 @@
 Processing keyword: Noun をもって (~wo motte)
 # Japanese Grammar Point: Noun をもって (~wo motte)
-# Grammar Point: Noun をもって (～をもって)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **「Noun をもって」**, a formal expression used to indicate **"by means of," "with," or "as of"** in Japanese. It's commonly found in formal writing, official statements, and ceremonial speeches.
 

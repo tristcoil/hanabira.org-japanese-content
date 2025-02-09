@@ -1,8 +1,9 @@
 Processing keyword: Verb にくい (〜nikui)
 # Japanese Grammar Point: Verb にくい (〜nikui)
-# 1. Introduction
+
+## 1. Introduction
 **Verb にくい (〜にくい)** is a Japanese grammar pattern used to express that something is difficult or hard to do. It is attached to the stem form of a verb and conveys that the action is not easy to perform due to various reasons such as physical difficulty, complexity, or inconvenience.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ### Meaning
 - **Verb Stem + にくい**: Indicates that an action is difficult to perform.
 ### Structure
@@ -24,7 +25,7 @@ To form this grammar pattern, attach **にくい** directly to the **verb stem**
 ### Example:
 - **書く** (kaku) → **書き** + **にくい** = **書きにくい**
   - *"Hard to write."*
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### にくい vs. やすい
 - **にくい** (nikui): Indicates that an action is **difficult** to perform.
 - **やすい** (yasui): Indicates that an action is **easy** to perform.
@@ -32,7 +33,7 @@ To form this grammar pattern, attach **にくい** directly to the **verb stem**
 |------------------------|---------------------|-----------------------------|
 | **Verb Stem + にくい** | Difficult to [verb] | **読み**にくい (hard to read) |
 | **Verb Stem + やすい** | Easy to [verb]      | **読み**やすい (easy to read)  |
-# 4. Examples in Context
+## 4. Examples in Context
 ### Formal Speech
 1. **このペンは細くて書きにくいです。**  
    *Kono pen wa hosokute kaki nikui desu.*  
@@ -55,7 +56,7 @@ To form this grammar pattern, attach **にくい** directly to the **verb stem**
 6. **この料理は辛くて食べにくいです。**  
    *Kono ryouri wa karakute tabe nikui desu.*  
    "This dish is spicy and hard to eat."
-# 5. Cultural Notes
+## 5. Cultural Notes
 ### Levels of Politeness
 - **にくい** is neutral and can be used in both polite and casual situations.
 - Adding **です** or **ます** forms increases the politeness level.
@@ -65,7 +66,7 @@ To form this grammar pattern, attach **にくい** directly to the **verb stem**
 - **顔が見えにくい**  
   *Kao ga mie nikui*  
   "Hard to see one's face." (Could imply someone is hiding emotions.)
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Error Analysis
 - **Mistake:** Using the dictionary form instead of the verb stem.
   - **Incorrect:** **書くにくい**
@@ -75,7 +76,7 @@ To form this grammar pattern, attach **にくい** directly to the **verb stem**
 ### Learning Strategies
 - **Tip:** Remember that **にくい** attaches to the verb stem, just like **ます** form but without **ます**.
 - **Mnemonic:** Think "Verb Stem + にくい = Not easy (ni-easy) to do."
-# 7. Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
 - **Verb Stem + にくい** expresses difficulty in performing an action.
 - It is used across various contexts and levels of formality.

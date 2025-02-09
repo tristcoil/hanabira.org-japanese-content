@@ -1,8 +1,9 @@
 Processing keyword: Verb 出す (~dasu)
 # Japanese Grammar Point: Verb 出す (~dasu)
-# 1. Introduction
+
+## 1. Introduction
 In this lesson, we'll explore the Japanese grammar point **Verb + 出す (～だす)**, which is used to express the sudden start or emergence of an action. This construction adds vividness to your expressions, allowing you to describe actions that begin abruptly.
-# 2. Core Grammar Explanation
+## 2. Core Grammar Explanation
 ## Detailed Explanation
 ### Meaning
 The **Verb + 出す** structure conveys that an action **begins suddenly** or **spontaneously**. It emphasizes the unexpected or abrupt start of an activity.
@@ -23,16 +24,17 @@ To form this grammar pattern, attach **出す (だす)** to the **ます-stem** 
 | 泣く (なく) - to cry    | 泣き      | 出す   | 泣き出す      | To burst into tears |
 ## Visual Aid
 *Formation of Verb + 出す*
+
 ```markdown
-+--------------+----------+-----------+
++--------------+----------+-------------+
 | Base Verb    | ます-stem | Verb + 出す |
-+--------------+----------+-----------+
-| 飛ぶ (とぶ)  | 飛び      | 飛び出す    |
-| 書く (かく)  | 書き      | 書き出す    |
-| 降る (ふる)  | 降り      | 降り出す    |
-+--------------+----------+-----------+
++--------------+----------+-------------+
+| 飛ぶ (とぶ)   | 飛び      | 飛び出す     |
+| 書く (かく)   | 書き      | 書き出す     |
+| 降る (ふる)   | 降り      | 降り出す     |
++--------------+----------+-------------+
 ```
-# 3. Comparative Analysis
+## 3. Comparative Analysis
 ### Comparing **出す** with **始める**
 While both **～出す** and **～始める** mean "to start doing something," there is a subtle difference:
 - **～出す (～だす)**: Implies a **sudden or unexpected** start of an action.
@@ -42,7 +44,7 @@ While both **～出す** and **～始める** mean "to start doing something," t
    - *It suddenly started to rain.*
 2. **雨が降り始めた。**
    - *It began to rain.*
-# 4. Examples in Context
+## 4. Examples in Context
 ### Sentence Examples
 1. **子どもたちが急に泣き出した。**
    - *The children suddenly started crying.*
@@ -59,14 +61,14 @@ While both **～出す** and **～始める** mean "to start doing something," t
   - *He started speaking during the meeting.*
 - **Informal:** 急に雨が降り出したね。
   - *It suddenly started raining, didn't it?*
-# 5. Cultural Notes
+## 5. Cultural Notes
 ## Cultural Relevance
 In Japanese storytelling and daily conversation, expressing the sudden onset of actions adds emotional depth and immediacy. Using **Verb + 出す** helps capture moments of surprise or spontaneity, which is essential in conveying experiences vividly.
 ## Idiomatic Expressions
 - **飛び出す (とびだす)**: To leap out or dash out suddenly.
 - **降り出す (ふりだす)**: To begin to rain or snow suddenly.
 - **思い出す (おもいだす)**: To recall or remember (Note: While **思い出す** uses the same **出す**, it is a fixed expression meaning "to recall.")
-# 6. Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ## Error Analysis
 1. **Using the Dictionary Form Instead of the ます-stem**
    - **Incorrect:** *笑う出す*
@@ -79,7 +81,7 @@ In Japanese storytelling and daily conversation, expressing the sudden onset of 
 ## Learning Strategies
 - **Mnemonic Device:** Think of **出す (だす)** as "putting out" or "emerging," which can help you remember that the action emerges or starts suddenly.
 - **Practice:** Create sentences using verbs you know, adding **出す** to express sudden actions.
-# 7. Summary and Review
+## 7. Summary and Review
 ## Key Takeaways
 - **Verb + 出す** is used to express the **sudden start** of an action.
 - Formed by attaching **出す** to the **ます-stem** of a verb.
@@ -94,7 +96,7 @@ In Japanese storytelling and daily conversation, expressing the sudden onset of 
 3. **彼女は急に泣き出した。**
 
 ---
-By understanding and practicing this grammar point, you'll be able to express sudden actions naturally, adding more depth to your Japanese communication skills.
+By understanding and practicing this grammar point, you'll be able to express sudden actions naturally, adding more depth to your Japanese communication skills. 
 
 
 ---

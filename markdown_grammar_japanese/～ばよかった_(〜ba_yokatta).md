@@ -1,6 +1,6 @@
 Processing keyword: ～ばよかった (〜ba yokatta)
 # Japanese Grammar Point: ～ばよかった (〜ba yokatta)
-# ～ばよかった (〜ba yokatta)
+
 ## 1. Introduction
 The grammar pattern **～ばよかった (〜ba yokatta)** is used in Japanese to express regret or disappointment about something that did or didn't happen. It translates to "I wish I had..." or "I should have..." in English. This structure allows the speaker to reflect on past actions and express a desire that things had been different.
 
@@ -136,8 +136,7 @@ Both **～ばよかった** and **～たらよかった** are used to express re
 3. **Translate to Japanese using ～ばよかった: "I wish I hadn't eaten that."**
    - **Answer**: それを食べなければよかった。
 ---
-By understanding and practicing this grammar pattern, you'll be able to express regrets and reflect on past actions naturally in Japanese. Remember, making mistakes is part of learning—use them as opportunities to improve!
-
+By understanding and practicing this grammar pattern, you'll be able to express regrets and reflect on past actions naturally in Japanese. 
 
 ---
 

@@ -1,6 +1,6 @@
 Processing keyword: Noun を余儀なくされる (Noun wo yogi naku sareru)
 # Japanese Grammar Point: Noun を余儀なくされる (Noun wo yogi naku sareru)
-# Noun を余儀なくされる (Noun wo Yogi Naku Sareru)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **"Noun を余儀なくされる"**, a formal expression used to indicate that someone is **forced to do something** due to unavoidable circumstances. This structure is often found in formal writing, news reports, and official statements.
 
@@ -42,11 +42,13 @@ This expression conveys that someone has no choice but to undergo a certain acti
 - **Usage**: More casual, commonly used in spoken language.
 - **Nuance**: Suggests that there are no other options; often used when discussing personal decisions.
 **Summary Table**
+
 | Grammar Point             | Structure                    | Formality | Used With |
 |---------------------------|------------------------------|-----------|-----------|
 | **〜を余儀なくされる**     | Noun + を余儀なくされる        | Formal    | Nouns     |
 | **〜ざるを得ない**         | Verb (neg. stem) + ざるを得ない | Formal    | Verbs     |
 | **〜しかない**             | Verb (dict. form) + しかない   | Casual    | Verbs     |
+
 ---
 ## 4. Examples in Context
 ### Example Sentences
@@ -108,13 +110,6 @@ This expression conveys that someone has no choice but to undergo a certain acti
    **Corrected Sentence**: *新しい法律で、企業は変更を余儀なくされる。*
 ---
 By understanding and practicing this grammar point, you'll enhance your ability to comprehend formal Japanese texts and express complex situations where actions are compelled by external factors.
----
-# Additional Exercise
-**Create a sentence using "Noun を余儀なくされる" to describe an unavoidable action due to environmental factors.**
-*Example Answer*: *大雨の影響で、イベントは延期を余儀なくされた。*
----
-*Remember*: Focus on using nouns that represent actions, and use this expression in appropriate formal contexts to convey forced circumstances accurately.
-
 
 ---
 

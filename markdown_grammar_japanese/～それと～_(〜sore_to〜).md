@@ -1,6 +1,6 @@
 Processing keyword: ～それと～ (〜sore to〜)
 # Japanese Grammar Point: ～それと～ (〜sore to〜)
-# 〜それと〜 (sore to)
+
 ## 1. Introduction
 In Japanese, connecting thoughts and ideas smoothly is essential for clear communication. The conjunction **それと** (sore to) is used to add information or items, similar to "and", "also", or "in addition" in English. Mastering **それと** will help you link sentences naturally and enhance the flow of your conversations.
 

@@ -1,6 +1,6 @@
 Processing keyword: ～もかまわず (〜mo kamawazu)
 # Japanese Grammar Point: ～もかまわず (〜mo kamawazu)
-# ～もかまわず (〜mo kamawazu)
+
 ## 1. Introduction
 The grammar point ～もかまわず (〜mo kamawazu) is used in Japanese to express the idea of doing something **without caring about**, **without worrying about**, or **regardless of** certain circumstances or considerations. It highlights an action taken without concern for something that would typically warrant attention or caution.
 

@@ -1,6 +1,6 @@
 Processing keyword: Verb て くれる (Verb-te kureru)
 # Japanese Grammar Point: Verb て くれる (Verb-te kureru)
-# Verb てくれる (Verb-te kureru)
+
 ## 1. Introduction
 In Japanese, expressing actions done **for someone** is a key aspect of everyday communication. The expression **Verb てくれる (Verb-te kureru)** is used to indicate that someone does something for the speaker or someone close to the speaker, emphasizing the kindness or favor involved.
 
@@ -113,8 +113,6 @@ In Japanese, expressing actions done **for someone** is a key aspect of everyday
    - **Answer**: 姉が料理の仕方を教えてくれた。
 ---
 Feel free to revisit the examples and notes to strengthen your understanding of **Verb てくれる**. Practice by noticing when others do something for you and try expressing it in Japanese!
----
-
 
 ---
 

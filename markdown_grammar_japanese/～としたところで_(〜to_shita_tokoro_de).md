@@ -1,6 +1,6 @@
 Processing keyword: ～としたところで (〜to shita tokoro de)
 # Japanese Grammar Point: ～としたところで (〜to shita tokoro de)
-# ～としたところで (〜to shita tokoro de)
+
 ## 1. Introduction
 The grammar pattern **～としたところで** (`〜to shita tokoro de`) is used to express the idea that *even if* a certain action is taken or situation occurs, it will not have a significant impact on the outcome. It often conveys a sense of futility or resignation, emphasizing that efforts or conditions are insufficient to change the result.
 
@@ -62,26 +62,31 @@ E[な-adjective + だ] --> B
 **彼が参加したとしたところで、大きな変化はないだろう。**
 *かれが さんかした としたところで、おおきな へんかは ないだろう。*
 "Even if he participates, there probably won't be a significant change."
+
 ---
 ### Example 2 (Informal)
 **急いだとしたところで、もう間に合わないよ。**
 *いそいだ としたところで、もう まにあわないよ。*
 "Even if you hurry, you won't make it in time."
+
 ---
 ### Example 3 (Negative Outcome)
 **今から準備を始めたとしたところで、時間が足りない。**
 *いまから じゅんびを はじめた としたところで、じかんが たりない。*
 "Even if we start preparing now, there isn't enough time."
+
 ---
 ### Example 4 (Expressing Futility)
 **謝ったとしたところで、彼女は許してくれないかもしれない。**
 *あやまった としたところで、かのじょは ゆるしてくれない かもしれない。*
 "Even if you apologize, she might not forgive you."
+
 ---
 ### Example 5 (Hypothetical)
 **宝くじに当たったとしたところで、幸せになれるとは限らない。**
 *たからくじに あたった としたところで、しあわせに なれるとは かぎらない。*
 "Even if you win the lottery, it doesn't guarantee happiness."
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
@@ -91,6 +96,7 @@ In Japanese culture, expressing humility and avoiding direct confrontation are v
 - **Formality:** More commonly used in written language or formal speech to express logical reasoning or hypothetical scenarios.
 ### Idiomatic Expressions
 While **～としたところで** itself is a grammatical construction, not an idiom, it is often used in idiomatic expressions that reflect common sentiments, such as the futility of actions.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
@@ -106,6 +112,7 @@ While **～としたところで** itself is a grammatical construction, not an 
 - **Associate with Futility:** Remember that **～としたところで** often implies that something won't help or isn't sufficient.
 - **Practice with Negative Outcomes:** Create example sentences where the outcome remains negative despite the condition being met.
 - **Compare with ～ても:** Understand the subtle differences by comparing sentences using both grammar points.
+
 ---
 ## 7. Summary and Review
 ### Key Takeaways

@@ -1,6 +1,6 @@
 Processing keyword: ～とあって (〜to atte)
 # Japanese Grammar Point: ～とあって (〜to atte)
-# ～とあって (〜to atte)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar point **～とあって (〜to atte)**, a useful expression in Japanese that conveys a cause-and-effect relationship in special circumstances. Understanding this structure will enhance your ability to describe situations where a particular outcome is expected due to a specific condition.
 

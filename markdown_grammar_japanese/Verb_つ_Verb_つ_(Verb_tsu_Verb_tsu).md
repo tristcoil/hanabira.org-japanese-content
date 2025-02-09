@@ -1,6 +1,6 @@
 Processing keyword: Verb つ Verb つ (Verb tsu Verb tsu)
 # Japanese Grammar Point: Verb つ Verb つ (Verb tsu Verb tsu)
-# JLPT Grammar Lesson: Verb つ Verb つ (Verb tsu Verb tsu)
+
 ## 1. Introduction
 In this lesson, we'll explore the grammar pattern **Verb つ Verb つ** (Verb tsu Verb tsu). This structure is used to express alternating or repetitive actions, similar to "doing X and then doing Y repeatedly" in English. Understanding this pattern will enhance your ability to read and appreciate literary Japanese, as it's often found in written texts and formal speech.
 

@@ -1,6 +1,6 @@
 Processing keyword: Verb つもり (〜tsumori)
 # Japanese Grammar Point: Verb つもり (〜tsumori)
-# Verb つもり (〜つもり)
+
 ## 1. Introduction
 Expressing intentions and plans is a crucial aspect of communication in any language. In Japanese, one common way to convey your intentions is by using the grammar pattern **Verb + つもり**. This pattern allows you to express what you plan or intend to do, similar to saying "I intend to..." or "I'm planning to..." in English.
 
@@ -37,10 +37,12 @@ While both **つもり** and **予定 (よてい)** can be translated as "plan" 
 - **つもり**: Emphasizes a **personal intention** or decision. It reflects what you **intend** to do.
 - **予定**: Refers to a **scheduled plan** or arrangement. It often involves a **fixed schedule** or pre-arranged event.
 **Comparison Table:**
+
 | Grammar Point           | Usage                      | Example                                  | Meaning                              |
 |-------------------------|----------------------------|------------------------------------------|--------------------------------------|
 | Verb + つもり            | Personal intention         | 明日、勉強するつもりです。                | I plan to study tomorrow.            |
 | Noun + の + 予定         | Scheduled plan/event       | 来週、旅行の予定があります。              | I have a trip scheduled next week.   |
+
 ---
 ## 4. Examples in Context
 ### Formal Examples
@@ -97,6 +99,7 @@ Always use the **dictionary form** of the verb before **つもり**, not the mas
 - **Correct:**  
   **日本へ行きたいです。** (_I want to go to Japan._)  
   **日本へ行くつもりです。** (_I intend to go to Japan._)
+
 **Explanation:**  
 - **たい** is used to express desire ("want to"), and is attached to the **verb stem**.
 - **つもり** expresses intention or plan and follows the **dictionary form**.
@@ -129,8 +132,6 @@ Always use the **dictionary form** of the verb before **つもり**, not the mas
    - **予定** refers to scheduled events or arrangements.
 ---
 By understanding and practicing **Verb + つもり**, you'll be able to effectively communicate your intentions and plans in Japanese. Keep practicing by expressing your daily plans!
----
-
 
 ---
 

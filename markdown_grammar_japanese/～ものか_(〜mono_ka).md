@@ -1,6 +1,6 @@
 Processing keyword: ～ものか (〜mono ka)
 # Japanese Grammar Point: ～ものか (〜mono ka)
-# ～ものか (〜mono ka)
+
 ## 1. Introduction
 The grammar point ～ものか (*~mono ka*) is an expressive way to strongly deny something or express strong disagreement in Japanese. It's often used to emphasize one's determination not to do something or to refute a statement emphatically.
 

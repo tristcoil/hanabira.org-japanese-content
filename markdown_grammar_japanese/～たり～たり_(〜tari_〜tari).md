@@ -1,6 +1,6 @@
 Processing keyword: ～たり～たり (〜tari 〜tari)
 # Japanese Grammar Point: ～たり～たり (〜tari 〜tari)
-# ～たり～たり (〜tari 〜tari)
+
 ## 1. Introduction
 The grammar pattern ～たり～たり is a versatile structure used in Japanese to list multiple actions or states among others. It expresses that someone does things like A and B, or that something sometimes is A and sometimes is B. This pattern often conveys a non-exhaustive list of activities or states, highlighting variety or fluctuation.
 

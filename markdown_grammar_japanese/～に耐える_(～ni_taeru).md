@@ -1,6 +1,6 @@
 Processing keyword: ～に耐える (～ni taeru)
 # Japanese Grammar Point: ～に耐える (～ni taeru)
-# ～に耐える (～ni taeru)
+
 ## 1. Introduction
 The grammar point ～に耐える (～にたえる) is used to express the ability to endure or withstand something. It conveys that someone or something can endure, bear, or is worth a particular action or situation. It's often used in contexts where someone tolerates hardships or when something is worthy of appreciation.
 

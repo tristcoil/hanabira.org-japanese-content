@@ -1,6 +1,6 @@
 Processing keyword: ～に基づいて (〜ni motozuite)
 # Japanese Grammar Point: ～に基づいて (〜ni motozuite)
-# ～に基づいて (〜ni motozuite)
+
 ## 1. Introduction
 The grammar point ～に基づいて (*〜ni motozuite*) is a useful expression in Japanese that means "**based on**" or "**on the basis of**". It is commonly used to indicate that an action, decision, or judgment is made according to certain data, rules, policies, plans, or experiences.
 
@@ -106,7 +106,6 @@ Noun + に基づいた + Noun
    **Answer**: 経験に基づいて
 3. **Which form of the grammar point is more formal and often used in written language?**
    **Answer**: に基づき
----
 
 
 ---

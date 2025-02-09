@@ -1,6 +1,6 @@
 Processing keyword: ～ねばならない (〜neba naranai)
 # Japanese Grammar Point: ～ねばならない (〜neba naranai)
-# ～ねばならない (〜neba naranai)
+
 ## 1. Introduction
 The grammar point ～ねばならない (〜neba naranai) is a formal expression used in Japanese to indicate obligation or necessity, similar to "must" or "have to" in English. It is often found in written language, formal speeches, or serious contexts.
 
@@ -95,7 +95,7 @@ To form ～ねばならない, attach **ねばならない** to the **negative s
    - **Answer**: It is **more formal**.
 3. **Translate to Japanese using ～ねばならない**: "We must protect nature."
    - **Answer**: 私たちは自然を守らねばならない。
----
+
 
 
 ---

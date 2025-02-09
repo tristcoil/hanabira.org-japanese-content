@@ -1,6 +1,6 @@
 Processing keyword: Noun をよそに (~wo yoso ni)
 # Japanese Grammar Point: Noun をよそに (~wo yoso ni)
-# Noun をよそに (~をよそに)
+
 ## 1. Introduction
 In this lesson, we will explore the grammar point **をよそに (~wo yoso ni)**, which is used to express the idea of doing something **despite** or **without regard to** certain circumstances or opinions. This construction is commonly used in written and formal Japanese to highlight a contrast between expectations and actions.
 
@@ -54,6 +54,7 @@ In Japanese society, harmony and consideration for others are highly valued. Usi
 - It may sound stiff or literary in casual spoken Japanese.
 ### Idiomatic Expressions
 While **をよそに** itself is a grammatical construct, it's often used in idiomatic ways to express disregard for common concerns, providing a subtle critique or highlighting a notable disregard.
+
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
