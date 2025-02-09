@@ -12425,187 +12425,184 @@
     "sentence_english": "Intoxicated by success, he became arrogant.",
     "key": "酔う_"
   },
-  [
-    {
-      "sentence_original": "このケーキを四等分に割りたい。",
-      "sentence_romaji": "Kono keeki o youtoubun ni waritai",
-      "sentence_english": "I want to divide this cake into four equal parts.",
-      "key": "割る_"
-    },
-    {
-      "sentence_original": "時間に迫られ、急いで問題を割り振る必要がある。",
-      "sentence_romaji": "Jikan ni semarare, isoide mondai o warifuru hitsuyou ga aru",
-      "sentence_english": "Pressed for time, we need to quickly allocate the tasks.",
-      "key": "割る_"
-    },
-    {
-      "sentence_original": "営業利益を全社員に割り当てる。",
-      "sentence_romaji": "Eigyou rieki o zenshain ni wariateru",
-      "sentence_english": "Allocate the operating profit to all employees.",
-      "key": "割る_"
-    },
-    {
-      "sentence_original": "私たちの意見を二つに割ってしまった。",
-      "sentence_romaji": "Watashitachi no iken o futatsu ni watatte shimatta",
-      "sentence_english": "Our opinions became divided into two.",
-      "key": "割る_"
-    },
-    {
-      "sentence_original": "財産の相続問題で家族を二つに割ってしまうことがあります。",
-      "sentence_romaji": "Zaisan no souzoku mondai de kazoku o futatsu ni watatte shimau koto ga arimasu",
-      "sentence_english": "Families can be divided over inheritance issues.",
-      "key": "割る_"
-    },
-    {
-      "sentence_original": "忘れることなく、約束を守りましょう。",
-      "sentence_romaji": "Wasureru koto naku, yakusoku o mamorimashou",
-      "sentence_english": "Let's keep our promises without forgetting them.",
-      "key": "忘れる_"
-    },
-    {
-      "sentence_original": "彼はよく名前を忘れる。",
-      "sentence_romaji": "Kare wa yoku namae o wasureru",
-      "sentence_english": "He often forgets names.",
-      "key": "忘れる_"
-    },
-    {
-      "sentence_original": "私は財布を家に忘れてしまった。",
-      "sentence_romaji": "Watashi wa saifu o ie ni wasurete shimatta",
-      "sentence_english": "I accidentally left my wallet at home.",
-      "key": "忘れる_"
-    },
-    {
-      "sentence_original": "この素晴らしい思い出は、決して忘れることはできない。",
-      "sentence_romaji": "Kono subarashii omoide wa, kesshite wasureru koto wa dekinai",
-      "sentence_english": "I can never forget these wonderful memories.",
-      "key": "忘れる_"
-    },
-    {
-      "sentence_original": "締め切りについて忘れていたと言ったら、彼女がハァ?!と驚いた。",
-      "sentence_romaji": "Shimekiri ni tsuite wasurete ita to ittara, kanojo ga haa?! to odoroita",
-      "sentence_english": "When I said I had forgotten about the deadline, she was surprised and exclaimed 'What?!'",
-      "key": "忘れる_"
-    },
-    {
-      "sentence_original": "島から島へ船で渡ることがあります。",
-      "sentence_romaji": "Shima kara shima e fune de wataru koto ga arimasu.",
-      "sentence_english": "Sometimes, people travel from island to island by boat.",
-      "key": "渡る_"
-    },
-    {
-      "sentence_original": "鳥が海を渡る時に、非常に長い距離を飛ぶ必要があります。",
-      "sentence_romaji": "Tori ga umi o wataru toki ni, hijou ni nagai kyori o tobu hitsuyou ga arimasu.",
-      "sentence_english": "When birds migrate across the ocean, they need to fly extremely long distances.",
-      "key": "渡る_"
-    },
-    {
-      "sentence_original": "あの橋を渡るたびに、この川の美しさに感動します。",
-      "sentence_romaji": "Ano hashi o wataru tabi ni, kono kawa no utsukushisa ni kandou shimasu.",
-      "sentence_english": "Every time I cross that bridge, I am moved by the beauty of this river.",
-      "key": "渡る_"
-    },
-    {
-      "sentence_original": "大雨の後、道路が冠水し、渡るのが困難になりました。",
-      "sentence_romaji": "Ooame no ato, douro ga kansui shi, wataru no ga konnan ni narimashita.",
-      "sentence_english": "After heavy rain, the roads were flooded and it became difficult to get across.",
-      "key": "渡る_"
-    },
-    {
-      "sentence_original": "昔の時代には、人々は川を渡るために木製の舟を使っていました。",
-      "sentence_romaji": "Mukashi no jidai ni wa, hitobito wa kawa o wataru tame ni mokusei no fune o tsukatte imashita.",
-      "sentence_english": "In ancient times, people used wooden boats to cross rivers.",
-      "key": "渡る_"
-    },
-    {
-      "sentence_original": "橋が川にかかって渡る。",
-      "sentence_romaji": "Hashi ga kawa ni kakatte wataru.",
-      "sentence_english": "The bridge crosses over the river.",
-      "key": "わたる_"
-    },
-    {
-      "sentence_original": "彼は渡るのに安全な場所を探している。",
-      "sentence_romaji": "Kare wa wataru no ni anzen na basho o sagashite iru.",
-      "sentence_english": "He is searching for a safe place to cross.",
-      "key": "わたる_"
-    },
-    {
-      "sentence_original": "夏休み中、私たちは海を渡っていろいろな国を訪れる予定です.",
-      "sentence_romaji": "Natsuyasumi-chuu, watashitachi wa umi o watatte, iroiro na kuni o otozureru yotei desu.",
-      "sentence_english": "During summer vacation, we plan to travel to various countries by crossing the sea.",
-      "key": "わたる_"
-    },
-    {
-      "sentence_original": "台風がこの地域を渡ると、風が非常に強くなるだろう。",
-      "sentence_romaji": "Taifuu ga kono chiiki o wataru to, kaze ga hijou ni tsuyoku naru darou.",
-      "sentence_english": "If the typhoon passes through this area, the wind will probably become very strong.",
-      "key": "わたる_"
-    },
-    {
-      "sentence_original": "信号が青に変わったら、道路を渡ってください。",
-      "sentence_romaji": "Shingou ga ao ni kawattara, dourou o watatte kudasai.",
-      "sentence_english": "Please cross the road when the traffic light turns green.",
-      "key": "わたる_"
-    },
-    {
-      "sentence_original": "彼にプレゼントを渡しました。",
-      "sentence_romaji": "Kare ni purezento o watashimashita",
-      "sentence_english": "I handed a present to him.",
-      "key": "渡す_"
-    },
-    {
-      "sentence_original": "書類の束を次の人に渡してください。",
-      "sentence_romaji": "Shorui no taba o tsugi no hito ni watashite kudasai",
-      "sentence_english": "Please pass the stack of documents to the next person.",
-      "key": "渡す_"
-    },
-    {
-      "sentence_original": "私はコーヒーを渡す時に、こぼしてしまいました。",
-      "sentence_romaji": "Watashi wa koohii o watasu toki ni, koboshite shimaimashita",
-      "sentence_english": "I spilled the coffee when I was handing it over.",
-      "key": "渡す_"
-    },
-    {
-      "sentence_original": "彼女は先生に宿題を渡さなければなりませんでした。",
-      "sentence_romaji": "Kanojo wa sensei ni shukudai o watasanakereba narimasen deshita",
-      "sentence_english": "She had to hand in her homework to the teacher.",
-      "key": "渡す_"
-    },
-    {
-      "sentence_original": "友達が駅でチケットを渡せるか心配しています。",
-      "sentence_romaji": "Tomodachi ga eki de chiketto o watasu ka shinpai shiteimasu",
-      "sentence_english": "I'm worried if my friend can hand me the ticket at the station.",
-      "key": "渡す_"
-    },
-    {
-      "sentence_original": "服が破れてしまった。",
-      "sentence_romaji": "Fuku ga yaburete shimatta",
-      "sentence_english": "My clothes got torn.",
-      "key": "破れる_"
-    },
-    {
-      "sentence_original": "笑いすぎて、破れるかと思った。",
-      "sentence_romaji": "Warai sugite, yabureru ka to omotta",
-      "sentence_english": "I laughed so hard, I thought I would burst.",
-      "key": "破れる_"
-    },
-    {
-      "sentence_original": "突風で傘が破れてしまい、困ってしまった。",
-      "sentence_romaji": "Toppū de kasa ga yaburete shimai, komatte shimatta",
-      "sentence_english": "My umbrella got torn by a sudden gust of wind, and I was troubled.",
-      "key": "破れる_"
-    },
-    {
-      "sentence_original": "紙袋が重たくて破れてしまった。",
-      "sentence_romaji": "Kamibukuro ga omotakute yaburete shimatta",
-      "sentence_english": "The paper bag was so heavy that it tore.",
-      "key": "破れる_"
-    },
-    {
-      "sentence_original": "破れたボールはもう使えない。",
-      "sentence_romaji": "Yabureta bōru wa mou tsukaenai",
-      "sentence_english": "I can't use the torn ball anymore.",
-      "key": "破れる_"
-    }
-  ]
-  
+  {
+    "sentence_original": "このケーキを四等分に割りたい。",
+    "sentence_romaji": "Kono keeki o youtoubun ni waritai",
+    "sentence_english": "I want to divide this cake into four equal parts.",
+    "key": "割る_"
+  },
+  {
+    "sentence_original": "時間に迫られ、急いで問題を割り振る必要がある。",
+    "sentence_romaji": "Jikan ni semarare, isoide mondai o warifuru hitsuyou ga aru",
+    "sentence_english": "Pressed for time, we need to quickly allocate the tasks.",
+    "key": "割る_"
+  },
+  {
+    "sentence_original": "営業利益を全社員に割り当てる。",
+    "sentence_romaji": "Eigyou rieki o zenshain ni wariateru",
+    "sentence_english": "Allocate the operating profit to all employees.",
+    "key": "割る_"
+  },
+  {
+    "sentence_original": "私たちの意見を二つに割ってしまった。",
+    "sentence_romaji": "Watashitachi no iken o futatsu ni watatte shimatta",
+    "sentence_english": "Our opinions became divided into two.",
+    "key": "割る_"
+  },
+  {
+    "sentence_original": "財産の相続問題で家族を二つに割ってしまうことがあります。",
+    "sentence_romaji": "Zaisan no souzoku mondai de kazoku o futatsu ni watatte shimau koto ga arimasu",
+    "sentence_english": "Families can be divided over inheritance issues.",
+    "key": "割る_"
+  },
+  {
+    "sentence_original": "忘れることなく、約束を守りましょう。",
+    "sentence_romaji": "Wasureru koto naku, yakusoku o mamorimashou",
+    "sentence_english": "Let's keep our promises without forgetting them.",
+    "key": "忘れる_"
+  },
+  {
+    "sentence_original": "彼はよく名前を忘れる。",
+    "sentence_romaji": "Kare wa yoku namae o wasureru",
+    "sentence_english": "He often forgets names.",
+    "key": "忘れる_"
+  },
+  {
+    "sentence_original": "私は財布を家に忘れてしまった。",
+    "sentence_romaji": "Watashi wa saifu o ie ni wasurete shimatta",
+    "sentence_english": "I accidentally left my wallet at home.",
+    "key": "忘れる_"
+  },
+  {
+    "sentence_original": "この素晴らしい思い出は、決して忘れることはできない。",
+    "sentence_romaji": "Kono subarashii omoide wa, kesshite wasureru koto wa dekinai",
+    "sentence_english": "I can never forget these wonderful memories.",
+    "key": "忘れる_"
+  },
+  {
+    "sentence_original": "締め切りについて忘れていたと言ったら、彼女がハァ?!と驚いた。",
+    "sentence_romaji": "Shimekiri ni tsuite wasurete ita to ittara, kanojo ga haa?! to odoroita",
+    "sentence_english": "When I said I had forgotten about the deadline, she was surprised and exclaimed 'What?!'",
+    "key": "忘れる_"
+  },
+  {
+    "sentence_original": "島から島へ船で渡ることがあります。",
+    "sentence_romaji": "Shima kara shima e fune de wataru koto ga arimasu.",
+    "sentence_english": "Sometimes, people travel from island to island by boat.",
+    "key": "渡る_"
+  },
+  {
+    "sentence_original": "鳥が海を渡る時に、非常に長い距離を飛ぶ必要があります。",
+    "sentence_romaji": "Tori ga umi o wataru toki ni, hijou ni nagai kyori o tobu hitsuyou ga arimasu.",
+    "sentence_english": "When birds migrate across the ocean, they need to fly extremely long distances.",
+    "key": "渡る_"
+  },
+  {
+    "sentence_original": "あの橋を渡るたびに、この川の美しさに感動します。",
+    "sentence_romaji": "Ano hashi o wataru tabi ni, kono kawa no utsukushisa ni kandou shimasu.",
+    "sentence_english": "Every time I cross that bridge, I am moved by the beauty of this river.",
+    "key": "渡る_"
+  },
+  {
+    "sentence_original": "大雨の後、道路が冠水し、渡るのが困難になりました。",
+    "sentence_romaji": "Ooame no ato, douro ga kansui shi, wataru no ga konnan ni narimashita.",
+    "sentence_english": "After heavy rain, the roads were flooded and it became difficult to get across.",
+    "key": "渡る_"
+  },
+  {
+    "sentence_original": "昔の時代には、人々は川を渡るために木製の舟を使っていました。",
+    "sentence_romaji": "Mukashi no jidai ni wa, hitobito wa kawa o wataru tame ni mokusei no fune o tsukatte imashita.",
+    "sentence_english": "In ancient times, people used wooden boats to cross rivers.",
+    "key": "渡る_"
+  },
+  {
+    "sentence_original": "橋が川にかかって渡る。",
+    "sentence_romaji": "Hashi ga kawa ni kakatte wataru.",
+    "sentence_english": "The bridge crosses over the river.",
+    "key": "わたる_"
+  },
+  {
+    "sentence_original": "彼は渡るのに安全な場所を探している。",
+    "sentence_romaji": "Kare wa wataru no ni anzen na basho o sagashite iru.",
+    "sentence_english": "He is searching for a safe place to cross.",
+    "key": "わたる_"
+  },
+  {
+    "sentence_original": "夏休み中、私たちは海を渡っていろいろな国を訪れる予定です.",
+    "sentence_romaji": "Natsuyasumi-chuu, watashitachi wa umi o watatte, iroiro na kuni o otozureru yotei desu.",
+    "sentence_english": "During summer vacation, we plan to travel to various countries by crossing the sea.",
+    "key": "わたる_"
+  },
+  {
+    "sentence_original": "台風がこの地域を渡ると、風が非常に強くなるだろう。",
+    "sentence_romaji": "Taifuu ga kono chiiki o wataru to, kaze ga hijou ni tsuyoku naru darou.",
+    "sentence_english": "If the typhoon passes through this area, the wind will probably become very strong.",
+    "key": "わたる_"
+  },
+  {
+    "sentence_original": "信号が青に変わったら、道路を渡ってください。",
+    "sentence_romaji": "Shingou ga ao ni kawattara, dourou o watatte kudasai.",
+    "sentence_english": "Please cross the road when the traffic light turns green.",
+    "key": "わたる_"
+  },
+  {
+    "sentence_original": "彼にプレゼントを渡しました。",
+    "sentence_romaji": "Kare ni purezento o watashimashita",
+    "sentence_english": "I handed a present to him.",
+    "key": "渡す_"
+  },
+  {
+    "sentence_original": "書類の束を次の人に渡してください。",
+    "sentence_romaji": "Shorui no taba o tsugi no hito ni watashite kudasai",
+    "sentence_english": "Please pass the stack of documents to the next person.",
+    "key": "渡す_"
+  },
+  {
+    "sentence_original": "私はコーヒーを渡す時に、こぼしてしまいました。",
+    "sentence_romaji": "Watashi wa koohii o watasu toki ni, koboshite shimaimashita",
+    "sentence_english": "I spilled the coffee when I was handing it over.",
+    "key": "渡す_"
+  },
+  {
+    "sentence_original": "彼女は先生に宿題を渡さなければなりませんでした。",
+    "sentence_romaji": "Kanojo wa sensei ni shukudai o watasanakereba narimasen deshita",
+    "sentence_english": "She had to hand in her homework to the teacher.",
+    "key": "渡す_"
+  },
+  {
+    "sentence_original": "友達が駅でチケットを渡せるか心配しています。",
+    "sentence_romaji": "Tomodachi ga eki de chiketto o watasu ka shinpai shiteimasu",
+    "sentence_english": "I'm worried if my friend can hand me the ticket at the station.",
+    "key": "渡す_"
+  },
+  {
+    "sentence_original": "服が破れてしまった。",
+    "sentence_romaji": "Fuku ga yaburete shimatta",
+    "sentence_english": "My clothes got torn.",
+    "key": "破れる_"
+  },
+  {
+    "sentence_original": "笑いすぎて、破れるかと思った。",
+    "sentence_romaji": "Warai sugite, yabureru ka to omotta",
+    "sentence_english": "I laughed so hard, I thought I would burst.",
+    "key": "破れる_"
+  },
+  {
+    "sentence_original": "突風で傘が破れてしまい、困ってしまった。",
+    "sentence_romaji": "Toppū de kasa ga yaburete shimai, komatte shimatta",
+    "sentence_english": "My umbrella got torn by a sudden gust of wind, and I was troubled.",
+    "key": "破れる_"
+  },
+  {
+    "sentence_original": "紙袋が重たくて破れてしまった。",
+    "sentence_romaji": "Kamibukuro ga omotakute yaburete shimatta",
+    "sentence_english": "The paper bag was so heavy that it tore.",
+    "key": "破れる_"
+  },
+  {
+    "sentence_original": "破れたボールはもう使えない。",
+    "sentence_romaji": "Yabureta bōru wa mou tsukaenai",
+    "sentence_english": "I can't use the torn ball anymore.",
+    "key": "破れる_"
+  }
 ]
