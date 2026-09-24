@@ -1,5 +1,11 @@
 # hanabira.org-japanese-content
-Japanese content for hanabira.org portal. Creative Commons License. This means that wnen using this content you need to have a link to hanabira.org website.
+Japanese content for hanabira.org portal.
+
+## License
+
+This content is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+When using this content, you must provide attribution and include a link to https://hanabira.org.
 
 
 
